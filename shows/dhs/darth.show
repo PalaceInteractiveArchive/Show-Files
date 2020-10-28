@@ -1,0 +1,178 @@
+Show	Location	-94,21,778
+Show	TextRadius	10
+#darth
+ArmorStand	darth	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzFjM2UxZjIyNGI0NDZjY2FjNmE2Y2MzY2Q5ODkxMDE5YTEyMmY5OTY5MWMzOTA3OTkyYTNhZjk5YTIxYjAifX19;299(0,0,0);300(0,0,0);301(0,0,0)
+.1	ArmorStand	darth	spawn	-94.5,27,784.5
+1	ArmorStand	darth	rotate	120	.1
+1.1	ArmorStand	darth	move	-94.5,21,778.5	3
+1	Schematic	plat1	-108	19	770	dhs	false
+1.5	Schematic	plat2	-108	19	770	dhs	false
+2	Schematic	plat3	-108	19	770	dhs	false
+2.5	Schematic	plat4	-108	19	770	dhs	false
+3	Schematic	plat5	-108	19	770	dhs	false
+3.5	Schematic	plat6	-108	19	770	dhs	false
+4	Schematic	plat7	-108	19	770	dhs	false
+#4	Block	152	-91,37,774
+#4.3	Block	95	-91,37,774
+
+4	Block	152	-94,15,780
+4.3	Block	95	-94,15,780
+7	Block	152	-94,15,781
+7.3	Block	95	-94,15,781
+11	Block	152	-94,15,782
+11.3	Block	95	-94,15,782
+20	Block	152	-94,15,783
+20.3	Block	95	-94,15,783
+25.5	Block	152	-94,15,784
+26	Block	95	-94,15,784
+#troopers
+ArmorStand	flyingtrooper1	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	flyingtrooper1	spawn	-90.5,27,786.5
+1	ArmorStand	flyingtrooper1	rotate	90	.1
+1.1	ArmorStand	flyingtrooper1	move	-90.5,20,780.5	3
+4	Block	152	-91,37,778
+4.3	Block	95	-91,37,778
+ArmorStand	flyingtrooper2	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	flyingtrooper2	spawn	-92.5,27,785.5
+1	ArmorStand	flyingtrooper2	rotate	90	.1
+1.1	ArmorStand	flyingtrooper2	move	-92.5,20,779.5	3
+5	Block	152	-91,37,777
+5.3	Block	95	-91,37,777
+#
+#
+#
+# LEFT SIDE
+#
+#
+
+ArmorStand	leftfront3	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	leftfront3	spawn	-64.5,20,782.5
+1	ArmorStand	leftfront3	rotate	60	.1
+1.1	ArmorStand	leftfront3	move	-90.5,20,782.5	3
+ArmorStand	leftfront4	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	leftfront4	spawn	-63.5,20,782.5
+1	ArmorStand	leftfront4	rotate	60	.1
+1.1	ArmorStand	leftfront4	move	-89.5,20,782.5	3
+ArmorStand	leftfront5	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	leftfront5	spawn	-62.5,20,782.5
+1	ArmorStand	leftfront5	rotate	60	.1
+1.1	ArmorStand	leftfront5	move	-88.5,20,782.5	3
+ArmorStand	leftfront6	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	leftfront6	spawn	-61.5,20,782.5
+1	ArmorStand	leftfront6	rotate	60	.1
+1.1	ArmorStand	leftfront6	move	-87.5,20,782.5	3
+
+#
+#
+#
+# RIGHT SIDE
+#
+#
+#
+
+ArmorStand	flyingtrooper3	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	flyingtrooper3	spawn	-96.5,27,785.5
+1	ArmorStand	flyingtrooper3	rotate	155	.1
+1.1	ArmorStand	flyingtrooper3	move	-96.5,20,779.5	3
+ArmorStand	flyingtrooper4	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	flyingtrooper4	spawn	-98.5,27,786.5
+1	ArmorStand	flyingtrooper4	rotate	155	.1
+1.1	ArmorStand	flyingtrooper4	move	-98.5,20,780.5	3
+5	Block	152	-91,37,775
+5.3	Block	95	-91,37,775
+4	Block	152	-91,37,776
+4.3	Block	95	-91,37,776
+
+
+ArmorStand	rightfront3	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	rightfront3	spawn	-124.5,20,782.5
+1	ArmorStand	rightfront3	rotate	180	.1
+1.1	ArmorStand	rightfront3	move	-98.5,20,782.5	3
+ArmorStand	rightfront4	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	rightfront4	spawn	-125.5,20,782.5
+1	ArmorStand	rightfront4	rotate	180	.1
+1.1	ArmorStand	rightfront4	move	-99.5,20,782.5	3
+ArmorStand	rightfront5	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	rightfront5	spawn	-126.5,20,782.5
+1	ArmorStand	rightfront5	rotate	180	.1
+1.1	ArmorStand	rightfront5	move	-100.5,20,782.5	3
+ArmorStand	rightfront6	false	skull:eyJ0aW1lc3RhbXAiOjE0ODM1OTQ3NTE1NDUsInByb2ZpbGVJZCI6IjVmOGFkOWZkZmQ4YTRkNTU5NWZhMWRkYzRlOWUwNTEzIiwicHJvZmlsZU5hbWUiOiJTdG9ybXRyb29wZXIiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(255,255,255);300(255,255,255);301(0,0,0)
+.1	ArmorStand	rightfront6	spawn	-127.5,20,782.5
+1	ArmorStand	rightfront6	rotate	180	.1
+1.1	ArmorStand	rightfront6	move	-101.5,20,782.5	3
+
+
+30	ArmorStand	darth	despawn
+30	ArmorStand	flyingtrooper1	despawn
+30	ArmorStand	flyingtrooper2	despawn
+30	ArmorStand	flyingtrooper3	despawn
+30	ArmorStand	flyingtrooper4	despawn
+30	ArmorStand	leftfront3	despawn
+30	ArmorStand	leftfront4	despawn
+30	ArmorStand	leftfront5	despawn
+30	ArmorStand	leftfront6	despawn
+30	ArmorStand	rightfront3	despawn
+30	ArmorStand	rightfront4	despawn
+30	ArmorStand	rightfront5	despawn
+30	ArmorStand	rightfront6	despawn
+
+
+#Tie Fighter#
+
+20	Schematic	tie1	-105	20	789	dhs	false
+21	Schematic	tie1air	-105	20	789	dhs	false
+
+21	Schematic	tie2	-102	20	789	dhs	false
+22	Schematic	tie2air	-102	20	789	dhs	false
+
+22	Schematic	tie3	-101	20	789	dhs	false
+23	Schematic	tie3air	-101	20	789	dhs	false
+
+23	Schematic	tie4	-99	21	789	dhs	false
+24	Schematic	tie4air	-99	21	789	dhs	false
+
+24	Schematic	tie5	-98	21	786	dhs	false
+25	Schematic	tie5air	-98	21	786	dhs	false
+
+25	Schematic	tie6	-98	21	779	dhs	false
+
+#WAIT#
+
+30.5	Schematic	tie6air	-98	21	779	dhs	false
+30.5	Schematic	tie7	-98	21	767	dhs	false
+31	Schematic	tie7air	-98	21	767	dhs	false
+
+31	Schematic	tie8	-98	22	747	dhs	false
+31.5	Schematic	tie8air	-98	22	747	dhs	false
+
+31.5	Schematic	tie9	-98	23	734	dhs	false
+32	Schematic	tie9air	-98	23	734	dhs	false
+
+#RESET#
+
+40	Schematic	tie1	-105	20	789	dhs	false
+40	Schematic	plat1	-108	19	770	dhs	false
+
+
+
+
+#Tie Fighter (SPACE)#
+32.5	Schematic	space1	-100	27	623	dhs	false
+33	Schematic	space2	-100	27	623	dhs	false
+33.5	Schematic	space3	-100	27	623	dhs	false
+34	Schematic	space4	-100	27	623	dhs	false
+34.5	Schematic	space5	-100	27	623	dhs	false
+34.5	Particle	hugeexplosion	-95	36	629	2	2	2	0	4
+34.5	Particle	hugeexplosion	-95	36	624	2	2	2	0	4
+35	Schematic	spaceair	-100	27	623	dhs	false
+
+
+
+#
+#
+#-------------------------------------------
+#             Made with <3 by
+#            LoquaciousJojo and
+#                 FrankyFG
+#-------------------------------------------
+

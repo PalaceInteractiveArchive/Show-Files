@@ -1,0 +1,68 @@
+﻿Show	Location	73,44,-1827
+Show	TextRadius	30
+#Define
+ArmorStand	jotlmariel3.5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJlYjZmNDFhZGI4ODAzZjJiNmEzY2UxZDdkZjI1M2NiNzMxMzE2MDcyMTZhOWZmMzE2MWNmNGFmNjE5NjM2In19fQ==";299(167,48,191);300(253,215,181);301(253,215,181);0
+#ParticleControl
+0	Block	152	70,39,-1829
+30	Block	0	70,39,-1829
+#Spawn
+0	ArmorStand	jotlmariel3.5	Spawn	76.669,43.05,-1827.95,35
+0.1	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-30,0,10	0.1
+0.1	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-22,0,-10	0.1
+0.1	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-6.73,0,1	0.1
+0.1	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-6.73,-8.62,-1	0.1
+0.1	ArmorStand	jotlmariel3.5	Position	HEAD	0,-2.92,0	0.1
+#Move
+##Legs
+1	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+1	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+3	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-20,0,1	5
+3	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-20,-8.62,-1	5
+5	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+5	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+7	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-20,0,1	5
+7	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-20,-8.62,-1	5
+9	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+9	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+11	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-20,0,1	5
+11	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-20,-8.62,-1	5
+13	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+13	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+15	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-20,0,1	5
+15	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-20,-8.62,-1	5
+17	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+17	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+19	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-20,0,1	5
+19	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-20,-8.62,-1	5
+21	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+21	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+23	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	-20,0,1	5
+23	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	-20,-8.62,-1	5
+25	ArmorStand	jotlmariel3.5	Position	LEG_RIGHT	20,0,1	5
+25	ArmorStand	jotlmariel3.5	Position	LEG_LEFT	20,-8.62,-1	5
+##Arms
+1	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-30,10,60	7
+1	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,0,-50	7
+5	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-15,10,40	7
+5	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-20,-10,-20	7
+9	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-30,0,60	7
+9	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,0,-50	7
+13	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-20,10,40	7
+13	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,-10,-20	7
+17	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-30,20,40	7
+17	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,0,-30	7
+21	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-15,10,40	7
+21	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,-10,-20	7
+25	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-30,0,60	7
+25	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,-20,-50	7
+29	ArmorStand	jotlmariel3.5	Position	ARM_RIGHT	-30,10,40	7
+29	ArmorStand	jotlmariel3.5	Position	ARM_LEFT	-30,-10,-20	7
+##Head
+1	ArmorStand	jotlmariel3.5	Position	HEAD	30,0,0	10
+5	ArmorStand	jotlmariel3.5	Position	HEAD	-20,10,10	10
+10	ArmorStand	jotlmariel3.5	Position	HEAD	10,12,-10	10
+15	ArmorStand	jotlmariel3.5	Position	HEAD	30,0,0	10
+20	ArmorStand	jotlmariel3.5	Position	HEAD	-20,10,10	10
+25	ArmorStand	jotlmariel3.5	Position	HEAD	10,12,-10	10
+#Despawn
+30	ArmorStand	jotlmariel3.5	Despawn

@@ -1,0 +1,5 @@
+Sequence	Build
+Build	flag	flag
+0		flag	Spawn	-92.5,43,-1345
+1		flag	Move	-92.5,56.5,-1344	350
+21.2	flag	Despawn

@@ -1,0 +1,31 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+#Mainstreet block/Pre/Show start
+0	Block	152	-102,49,-1405
+1	Block	20	-102,49,-1405
+727	Block	152	-114,48,-1411
+900	Block	152	-115,48,-1410
+#Time system
+0	Block	35	-122,53,-1375
+900	Block	152	-123,53,-1405
+
+0	Text	&aIn just &615 Minutes &dThe Palace Network &awill present &eCelebrate a Dream Come True Parade! &aat /warp mainstreet
+300	Text	&aIn just &610 Minutes &dThe Palace Network &awill present &eCelebrate a Dream Come True Parade! &aat /warp mainstreet
+600	Text	&aIn just &65 Minutes &dThe Palace Network &awill present &eCelebrate a Dream Come True Parade! &aat /warp mainstreet
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+660	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+720	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+780	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+840	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+880	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-129,43,-1413
+270	Block	152	-129,43,-1414
+570	Block	152	-129,43,-1415
+750	Block	152	-129,43,-1416

@@ -1,0 +1,340 @@
+Show	Location	-8,13,838
+Show	Name	jakku
+
+#Millenium Falcon#
+
+11.2	Schematic	fright	-35	27	894	dhs	false
+11.8	Schematic	fair	-35	27	894	dhs	false
+
+11.8	Schematic	frightangled	-45	27	896	dhs	false
+12.4	Schematic	fair	-45	27	896	dhs	false
+
+12.4	Schematic	ffront	-48	27	903	dhs	false
+13	Schematic	fair	-48	27	903	dhs	false
+
+13	Schematic	ffront	-49	28	913	dhs	false
+13.6	Schematic	fair	-49	28	913	dhs	false
+
+13.6	Schematic	frightangled	-51	28	919	dhs	false
+14.2	Schematic	fair	-51	28	919	dhs	false
+
+14.2	Schematic	ffront	-53	28	924	dhs	false
+14.8	Schematic	fair	-53	28	924	dhs	false
+
+14.8	Schematic	ffront	-56	28	930	dhs	false
+15.4	Schematic	fair	-56	28	930	dhs	false
+
+15.4	Schematic	frightangled	-61	29	935	dhs	false
+16	Schematic	fair	-61	29	935	dhs	false
+
+16	Schematic	frightangled	-67	29	940	dhs	false
+16.6	Schematic	fair	-67	29	940	dhs	false
+
+16.6	Schematic	fright	-75	30	943	dhs	false
+17.2	Schematic	fair	-75	30	943	dhs	false
+
+17.2	Schematic	frightupangled	-81	33	945	dhs	false
+17.8	Schematic	fair	-81	33	945	dhs	false
+
+17.8	Schematic	frightupangled	-85	38	948	dhs	false
+18.4	Schematic	fair	-85	38	948	dhs	false
+
+18.4	Schematic	frightupangled	-90	42	952	dhs	false
+19	Schematic	fair	-90	42	952	dhs	false
+
+19	Schematic	ffront	-93	45	956	dhs	false
+19.5	Schematic	fair	-93	45	956	dhs	false
+
+19.5	Schematic	fleftangled	-92	48	962	dhs	false
+19.9	Schematic	fair	-92	48	962	dhs	false
+
+19.9	Schematic	ffront	-90	50	968	dhs	false
+20.4	Schematic	fair	-90	50	968	dhs	false
+
+20.4	Schematic	frightangled	-89	48	974	dhs	false
+20.8	Schematic	fair	-89	48	974	dhs	false
+
+20.8	Schematic	frightangled	-90	45	980	dhs	false
+21.3	Schematic	fair	-90	45	980	dhs	false
+
+21.3	Schematic	ffront	-92	44	984	dhs	false
+21.7	Schematic	fair	-92	44	984	dhs	false
+
+21.7	Schematic	frightdownangled	-92	42	988	dhs	false
+22.2	Schematic	fair	-92	42	988	dhs	false
+
+22.2	Schematic	frightdownangled	-91	39	992	dhs	false
+22.6	Schematic	fair	-91	39	992	dhs	false
+
+22.6	Schematic	fleftangled	-90	34	995	dhs	false
+23.1	Schematic	fair	-90	34	995	dhs	false
+
+23.1	Schematic	fleftangled	-86	34	999	dhs	false
+23.5	Schematic	fair	-86	34	999	dhs	false
+
+23.5	Schematic	fleftangled	-84	34	1003	dhs	false
+24	Schematic	fair	-84	34	1003	dhs	false
+
+24	Schematic	fleftangled	-80	34	1008	dhs	false
+24.4	Schematic	fair	-80	34	1008	dhs	false
+
+24.4	Schematic	ffront	-79	33	1011	dhs	false
+24.9	Schematic	fair	-79	33	1011	dhs	false
+
+24.9	Schematic	ffront	-78	34	1014	dhs	false
+25.3	Schematic	fair	-78	34	1014	dhs	false
+
+25.3	Schematic	fleftangled	-77	34	1017	dhs	false
+25.8	Schematic	fair	-77	34	1017	dhs	false
+
+25.8	Schematic	fleftangled	-75	33	1021	dhs	false
+26.2	Schematic	fair	-75	33	1021	dhs	false
+
+26.2	Schematic	ffront	-70	33	1024	dhs	false
+26.7	Schematic	fair	-70	33	1024	dhs	false
+
+26.7	Schematic	frightupangled	-69	35	1029	dhs	false
+26.9	Schematic	fair	-69	35	1029	dhs	false
+
+26.9	Schematic	fleftupangled	-69	41	1031	dhs	false
+27.1	Schematic	fair	-69	41	1031	dhs	false
+
+27.1	Schematic	frightupangled	-69	47	1032	dhs	false
+27.4	Schematic	fair	-69	47	1032	dhs	false
+
+27.4	Schematic	fleftupangled	-69	54	1033	dhs	false
+27.7	Schematic	fair	-69	54	1033	dhs	false
+
+27.7	Schematic	frightupangled	-68	61	1035	dhs	false
+28.4	Schematic	fair	-68	61	1035	dhs	false
+
+28.4	Schematic	fleftangled	-67	63	1039	dhs	false
+28.9	Schematic	fair	-67	63	1039	dhs	false
+
+28.9	Schematic	ffront	-66	63	1044	dhs	false
+29.5	Schematic	fair	-66	63	1044	dhs	false
+
+29.5	Schematic	fleftangled	-65	59	1049	dhs	false
+30	Schematic	fair	-65	59	1049	dhs	false
+
+30	Schematic	fleftangled	-61	58	1055	dhs	false
+30.4	Schematic	fair	-61	58	1055	dhs	false
+
+30.4	Schematic	fleftdownangled	-59	57	1059	dhs	false
+30.9	Schematic	fair	-59	57	1059	dhs	false
+
+30.9	Schematic	fleftdownangled	-57	53	1063	dhs	false
+31.5	Schematic	fair	-57	53	1063	dhs	false
+
+31.5	Schematic	fleftdownangled	-57	50	1065	dhs	false
+32	Schematic	fair	-57	50	1065	dhs	false
+
+32	Schematic	fleftdownangled	-57	46	1067	dhs	false
+32.7	Schematic	fair	-57	46	1067	dhs	false
+
+32.7	Schematic	fleftangled	-56	41	1070	dhs	false
+33.4	Schematic	fair	-56	41	1070	dhs	false
+
+33.4	Schematic	fleft	-54	38	1073	dhs	false
+34	Schematic	fair	-54	38	1073	dhs	false
+
+34	Schematic	fleft	-47	37	1072	dhs	false
+34.7	Schematic	fair	-47	37	1072	dhs	false
+
+34.7	Schematic	fleft	-41	36	1072	dhs	false
+35.4	Schematic	fair	-41	36	1072	dhs	false
+
+35.4	Schematic	frightupangled	-35	38	1072	dhs	false
+36.6	Schematic	fair	-35	38	1072	dhs	false
+
+36.6	Schematic	fleftupangled	-33	45	1072	dhs	false
+37.2	Schematic	fair	-33	45	1072	dhs	false
+
+37.2	Schematic	frightupangled	-31	51	1072	dhs	false
+37.8	Schematic	fair	-31	51	1072	dhs	false
+
+37.8	Schematic	fleftupangled	-29	56	1072	dhs	false
+38.4	Schematic	fair	-29	56	1072	dhs	false
+
+38.4	Schematic	fleft	-25	59	1072	dhs	false
+39	Schematic	fair	-24	59	1072	dhs	false
+
+39	Schematic	fleft	-17	60	1072	dhs	false
+40	Schematic	fair	-17	60	1072	dhs	false
+
+#Tie Fighters#
+
+#=fighter 1=#
+9.1	Particle	hugeexplosion	-54	26	880	2	2	2	0	1
+
+13.5	Schematic	tfront	-93	25	874	dhs	false
+13.7	Schematic	tair	-93	25	874	dhs	false
+
+13.7	Schematic	tfront	-90	24	882	dhs	false
+13.9	Schematic	tair	-90	24	882	dhs	false
+
+13.9	Schematic	tfront	-87	24	888	dhs	false
+14.2	Schematic	tair	-87	24	888	dhs	false
+
+14.2	Schematic	tfront	-83	24	895	dhs	false
+14.4	Schematic	tair	-83	24	895	dhs	false
+
+14.4	Schematic	tfront	-82	23	902	dhs	false
+14.6	Schematic	tair	-82	23	902	dhs	false
+
+14.6	Schematic	tfront	-80	23	908	dhs	false
+14.8	Schematic	tair	-80	23	908	dhs	false
+
+14.8	Schematic	tfront	-79	23	914	dhs	false
+15	Schematic	tair	-79	23	914	dhs	false
+
+15	Particle	hugeexplosion	-78	22	921	2	2	2	0	3
+15	Schematic	tfront	-78	22	921	dhs	false
+15.2	Schematic	tair	-78	22	921	dhs	false
+
+#=fighter 2=#
+
+19	Schematic	tleft	-112	47	989	dhs	false
+19.1	Schematic	tair	-112	47	989	dhs	false
+
+19.1	Particle	hugeexplosion	-90	44	966	2	2	2	0	2
+19.1	Schematic	tleft	-106	47	990	dhs	false
+19.3	Schematic	tair	-106	47	990	dhs	false
+
+19.3	Schematic	tleft	-100	47	991	dhs	false
+19.4	Schematic	tair	-100	47	991	dhs	false
+
+19.4	Schematic	tleft	-94	48	992	dhs	false
+19.6	Schematic	tair	-94	48	992	dhs	false
+
+19.6	Schematic	tleft	-89	48	993	dhs	false
+19.7	Schematic	tair	-89	48	993	dhs	false
+
+19.7	Schematic	tleft	-85	48	994	dhs	false
+19.9	Schematic	tair	-85	48	994	dhs	false
+
+19.9	Schematic	tleft	-80	49	994	dhs	false
+20	Schematic	tair	-80	49	994	dhs	false
+
+20	Schematic	tleft	-73	49	995	dhs	false
+20.2	Schematic	tair	-73	49	995	dhs	false
+
+20.2	Schematic	tleft	-67	50	995	dhs	false
+20.3	Schematic	tair	-67	50	995	dhs	false
+
+20.3	Schematic	tleft	-60	50	996	dhs	false
+20.4	Schematic	tair	-60	50	996	dhs	false
+
+20.4	Schematic	tleft	-54	50	996	dhs	false
+20.5	Schematic	tair	-54	50	996	dhs	false
+
+20.5	Schematic	tleft	-48	51	996	dhs	false
+20.6	Schematic	tair	-48	51	996	dhs	false
+
+20.6	Schematic	tleft	-42	51	997	dhs	false
+20.7	Schematic	tair	-42	51	997	dhs	false
+
+20.7	Schematic	tleft	-36	51	997	dhs	false
+20.8	Schematic	tair	-36	51	997	dhs	false
+
+20.8	Schematic	tleft	-31	52	998	dhs	false
+20.9	Schematic	tair	-31	52	998	dhs	false
+
+20.9	Schematic	tleft	-23	52	999	dhs	false
+21	Schematic	tair	-23	52	999	dhs	false
+
+21	Schematic	tleft	-17	53	999	dhs	false
+21.1	Schematic	tair	-17	53	999	dhs	false
+
+21.1	Schematic	tleft	-9	53	1000	dhs	false
+21.3	Schematic	tair	-9	53	1000	dhs	false
+
+#=fighter 3=#
+
+28.9	Schematic	tleft	-97	56	1061	dhs	false
+29.2	Schematic	tair	-97	56	1061	dhs	false
+
+29.2	Schematic	tleft	-91	56	1062	dhs	false
+29.5	Schematic	tair	-91	56	1062	dhs	false
+
+29.5	Schematic	tleft	-84	56	1063	dhs	false
+29.8	Schematic	tair	-84	56	1063	dhs	false
+
+29.8	Schematic	tleft	-76	56	1063	dhs	false
+30.1	Schematic	tair	-76	56	1063	dhs	false
+
+30.1	Schematic	tleft	-70	55	1063	dhs	false
+30.5	Schematic	tair	-70	55	1063	dhs	false
+
+30.5	Schematic	tleft	-65	54	1063	dhs	false
+31.5	Schematic	tair	-65	54	1063	dhs	false
+
+31.5	Schematic	tleftdownangled	-61	36	1069	dhs	false
+32.5	Schematic	tair	-61	36	1069	dhs	false
+
+32.5	Schematic	tleftdownangled	-61	43	1066	dhs	false
+33.5	Schematic	tair	-61	43	1066	dhs	false
+
+33.5	Schematic	tleftdownangled	-62	50	1064	dhs	false
+34.6	Schematic	tair	-62	50	1064	dhs	false
+
+34.6	Schematic	tleft	-56	27	1070	dhs	false
+35.7	Schematic	tair	-56	27	1070	dhs	false
+
+35.7	Schematic	tleft	-51	26	1070	dhs	false
+36.8	Schematic	tair	-51	26	1070	dhs	false
+
+36.8	Schematic	tleft	-46	26	1070	dhs	false
+37.9	Schematic	tair	-46	26	1070	dhs	false
+
+37.9	Schematic	tleft	-40	25	1069	dhs	false
+38.4	Schematic	tair	-40	25	1069	dhs	false
+
+38.4	Particle	hugeexplosion	-34	28	1073	2	2	2	0	2
+38.4	Schematic	tleft	-34	25	1070	dhs	false
+38.7	Schematic	tair	-34	25	1070	dhs	false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

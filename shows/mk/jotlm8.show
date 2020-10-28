@@ -1,0 +1,495 @@
+﻿Show	Location	52,37,-1814
+Show	TextRadius	25
+#Define
+ArmorStand	jotlmscuttle2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlM2MzNDdlNjBmOGYwMmM3OWI3NmE1ZDgyZDc2ZWFlMmZmNjdkYTY1NTg2ODE2Yjg2ZTc4NjU4MDMyMjYzYSJ9fX0=";299(249,255,254);300(249,255,254);301(249,128,29);0
+ArmorStand	jotlmariel5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2MwYzAwYjM2N2UyZjViNDg5OTZlZWUwODA3ZTU4NzVhYTk3OGEzYWY4MDBlNTJlMDc1YTcyYjVmNjI1NTg5MiJ9fX0=";299(249,255,254);300(249,255,254);301(249,255,254);0
+ArmorStand	jotlmpe2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI2MWM2MTUxYjAyNTRkM2MzNzU0MjQyOWVjMTc3MWNmNzE5ODE4NzdjMjM3NWE0NWQ1ODhkMTJmNjYyNmM5ZCJ9fX0=";299(249,255,254);300(60,68,170);301(29,29,33);0
+ArmorStand	jotlmflounder4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBhMjRkZjYwZWMzMDQ4YzRhYjI2MTQwMzY5YzFiZTEwNjY5ODYzOTQ4NzFkZTQwNWQ4YTFmNjA3ZWY3OWMwNCJ9fX0=";299(254,216,61);0;0;0
+ArmorStand	jotlmsebastian4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FlODkzM2UyZGQ2OGQxOGRhOWFlMjkyYjBiZTYwY2Q5YjYxMTU0M2FjNWFhMzY5YzA3MDI4NTJhYTM0MjM2YyJ9fX0=";299(209,26,16);300(209,26,16);301(209,26,16);280
+ArmorStand	jotlmkt1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGVkMWRlYWU2MGE3ODg2M2NiZGYyYTk1Y2FiNTg4M2ZhY2FjMWJlMTEzM2EwNjFhOWMzODVjZjJjZjgyZDdiMiJ9fX0=";299(252,193,142);300(22,156,156);0;283
+ArmorStand	jotlmcrab6	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM3NTU1MzYxNDU4NzExYzllOGIzZDVlM2VkODJkNTY3YWZjNGZkODU3YmMxM2JjNjRjMTk1NDlmMDgyNTkifX19";299(176,46,38);300(176,46,38);301(176,46,38);0
+ArmorStand	jotlmcrab7	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM3NTU1MzYxNDU4NzExYzllOGIzZDVlM2VkODJkNTY3YWZjNGZkODU3YmMxM2JjNjRjMTk1NDlmMDgyNTkifX19";299(176,46,38);300(176,46,38);301(176,46,38);0
+ArmorStand	jotlmcrab8	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM3NTU1MzYxNDU4NzExYzllOGIzZDVlM2VkODJkNTY3YWZjNGZkODU3YmMxM2JjNjRjMTk1NDlmMDgyNTkifX19";299(176,46,38);300(176,46,38);301(176,46,38);0
+ArmorStand	jotlmslug3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTM4NDExNWNhY2FhMmEwYTZlMmVmZDdiMDYxNjhhNTA5N2Q0NDQwZmZhZDAwNmU5YjlmZTJmMTI3ODdkZGM1YSJ9fX0=";299(155,84,195);300(155,84,195);301(155,84,195);0
+ArmorStand	jotlmslug4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBmZTEyMjUxOTdkNWYwYTExNGE2NGMwY2MwZmY3NjEwOTk1NjFiNTQyMWRlNGZmYjkyZGY0OGUyMTEzOWU1YiJ9fX0=";299(155,84,195);300(155,84,195);301(155,84,195);0
+ArmorStand	jotlmhf4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQxMjkxOThkYmY4NTQ3ODJhZDJlYTNlMzk1Zjk0MmYzOTRjOTBkOGI2NDQ5MzcxYWQ1Y2U0OWVjZDUzNTcwIn19fQ==";299(126,126,38);300(126,126,38);301(126,126,38);0
+ArmorStand	joltmhf5	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzE4OGM5MDg2ZDI5MDdmMzBmM2Y3OTkyZTVkZDdkOGFhNDRlNmVmOTYwMjRmNmYzMmRlNWE3ODJkZmY5N2U0ZSJ9fX0=";299(251,255,0);300(251,255,0);301(0,191,255);0
+ArmorStand	jotlmhf6	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjljZmVmMTA0MTAxOTM1M2UxNGI0NGJkNTgxNWQ2YjcxZmM1M2UzMzYxNTIwNDNkMzU1MzJlNzkzNWYyY2NkNCJ9fX0=";299(44,232,151);300(44,232,151);301(102,58,214);0
+#ExtraStands
+0.1	Block	152	52,36,-1814
+50	Block	152	55,36,-1814
+#Spawn
+0	ArmorStand	jotlmariel5	Spawn	51.960,44.97997,-1820.160,-9.8
+0	ArmorStand	jotlmpe2	Spawn	53.063,45,-1820.250,-7
+0	ArmorStand	jotlmflounder4	Spawn	53.4,43.4,-1817.625,139.2
+0	ArmorStand	jotlmsebastian4	Spawn	53.5,44.15625,-1816.5,-4.2
+0	ArmorStand	jotlmkt1	Spawn	55.237,43.26245,-1817.231,71.7
+0	ArmorStand	jotlmcrab6	Spawn	57.5,45,-1815.825,90
+0	ArmorStand	jotlmcrab7	Spawn	57.506,45,-1815.069,90
+0	ArmorStand	jotlmcrab8	Spawn	57.5,45,-1814.313,90
+0	ArmorStand	jotlmslug3	Spawn	56.469,44.5,-1813.563,90
+0	ArmorStand	jotlmslug4	Spawn	56.469,44.5,-1814.469,90
+0	ArmorStand	jotlmhf4	Spawn	54.563,44.21875,-1814.438,130.8
+0	ArmorStand	joltmhf5	Spawn	56.5,43.7998,-1812.5,45
+0	ArmorStand	jotlmhf6	Spawn	55.5,43,7998,-1813.5,45
+0	ArmorStand	jotlmscuttle2	Spawn	49.281,44.5625,-1819.7,45
+#Positions
+0.1	ArmorStand	jotlmscuttle2	Position	BODY	15,-3.03,0	1
+0.1	ArmorStand	jotlmscuttle2	Position	HEAD	-11.49,-21.82,0	1
+0.1	ArmorStand	jotlmscuttle2	Position	LEG_LEFT	2,0,-1	1
+0.1	ArmorStand	jotlmscuttle2	Position	LEG_RIGHT	-5,0,0	1
+0.1	ArmorStand	jotlmscuttle2	Position	ARM_LEFT	-43,3,56	1
+0.1	ArmorStand	jotlmscuttle2	Position	ARM_RIGHT	-42,0,-57	1
+0.1	ArmorStand	jotlmariel5	Position	BODY	0,-0.28,0	1
+0.1	ArmorStand	jotlmariel5	Position	HEAD	0,-7.38,3	1
+0.1	ArmorStand	jotlmariel5	Position	LEG_LEFT	-1,0,-4	1
+0.1	ArmorStand	jotlmariel5	Position	LEG_RIGHT	1,0,3	1
+0.1	ArmorStand	jotlmariel5	Position	ARM_LEFT	-46,0,-25	1
+0.1	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	1
+0.1	ArmorStand	jotlmpe2	Position	BODY	0,-1.13,0	1
+0.1	ArmorStand	jotlmpe2	Position	HEAD	-1.03,2.44,0	1
+0.1	ArmorStand	jotlmpe2	Position	LEG_LEFT	-1,0,-1	1
+0.1	ArmorStand	jotlmpe2	Position	LEG_RIGHT	1,0,1	1
+0.1	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	1
+0.1	ArmorStand	jotlmpe2	Position	ARM_RIGHT	-39,0,19	1
+0.1	ArmorStand	jotlmflounder4	Position	BODY	24,0.41,0	1
+0.1	ArmorStand	jotlmflounder4	Position	HEAD	-13.94,0.8,0	1
+0.1	ArmorStand	jotlmflounder4	Position	LEG_LEFT	179,0,-1	1
+0.1	ArmorStand	jotlmflounder4	Position	LEG_RIGHT	181,0,1	1
+0.1	ArmorStand	jotlmflounder4	Position	ARM_LEFT	-82,0,-10	1
+0.1	ArmorStand	jotlmflounder4	Position	ARM_RIGHT	-63,0,10	1
+0.1	ArmorStand	jotlmsebastian4	Position	BODY	0,0.03,0	1
+0.1	ArmorStand	jotlmsebastian4	Position	HEAD	1.57,-7.92,0	1
+0.1	ArmorStand	jotlmsebastian4	Position	LEG_LEFT	-1,0,-1	1
+0.1	ArmorStand	jotlmsebastian4	Position	LEG_RIGHT	1,0,1	1
+0.1	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	2,-81,-112	1
+0.1	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	12,81,112	1
+0.1	ArmorStand	jotlmkt1	Position	HEAD	-1.32,1.31,0	1
+0.1	ArmorStand	jotlmkt1	Position	LEG_LEFT	170,0,-1	1
+0.1	ArmorStand	jotlmkt1	Position	LEG_RIGHT	170,0,1	1
+0.1	ArmorStand	jotlmkt1	Position	ARM_LEFT	-49,-12,-10	1
+0.1	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,43,9	1
+0.1	ArmorStand	jotlmhf4	Position	BODY	-12.6,-0.22,0	1
+0.1	ArmorStand	jotlmhf4	Position	HEAD	-16.98,2.71,0	1
+0.1	ArmorStand	jotlmhf4	Position	LEG_LEFT	-108.1,0,-1	1
+0.1	ArmorStand	jotlmhf4	Position	LEG_RIGHT	-109.25,0,1	1
+0.1	ArmorStand	jotlmhf4	Position	ARM_LEFT	-113.95,28.35,-10	1
+0.1	ArmorStand	jotlmhf4	Position	ARM_RIGHT	-115.8,-34.65,10	1
+0.1	ArmorStand	jotlmhf6	Position	BODY	-5.06,0,0	1
+0.1	ArmorStand	jotlmhf6	Position	HEAD	355.05,0,0	1
+0.1	ArmorStand	jotlmhf6	Position	LEG_LEFT	-30.42,0,0	1
+0.1	ArmorStand	jotlmhf6	Position	LEG_RIGHT	-30.42,0,0	1
+0.1	ArmorStand	jotlmhf6	Position	ARM_LEFT	250.4,24.15,0.5	1
+0.1	ArmorStand	jotlmhf6	Position	ARM_RIGHT	250.65,336.75,-0.5	1
+0.1	ArmorStand	joltmhf5	Position	BODY	-5.06,0,0	1
+0.1	ArmorStand	joltmhf5	Position	HEAD	355.05,0,0	1
+0.1	ArmorStand	joltmhf5	Position	LEG_LEFT	-30.42,0,0	1
+0.1	ArmorStand	joltmhf5	Position	LEG_RIGHT	-30.42,0,0	1
+0.1	ArmorStand	joltmhf5	Position	ARM_LEFT	250.4,24.15,0.5	1
+0.1	ArmorStand	joltmhf5	Position	ARM_RIGHT	250.65,336.75,-0.5	1
+0.1	ArmorStand	jotlmslug3	Position	BODY	0,4.33,0	1
+0.1	ArmorStand	jotlmslug3	Position	HEAD	0,-9.17,0	1
+0.1	ArmorStand	jotlmslug3	Position	LEG_LEFT	-1,0,-101.8	1
+0.1	ArmorStand	jotlmslug3	Position	LEG_RIGHT	1,0,35.65	1
+0.1	ArmorStand	jotlmslug3	Position	ARM_LEFT	-10,0,-139.15	1
+0.1	ArmorStand	jotlmslug3	Position	ARM_RIGHT	-15,0,69.85	1
+0.1	ArmorStand	jotlmslug4	Position	BODY	0,-0.2,0	1
+0.1	ArmorStand	jotlmslug4	Position	HEAD	-4.27,3.15,0	1
+0.1	ArmorStand	jotlmslug4	Position	LEG_LEFT	-1,0,-35.65	1
+0.1	ArmorStand	jotlmslug4	Position	LEG_RIGHT	1,0,103.9	1
+0.1	ArmorStand	jotlmslug4	Position	ARM_LEFT	-10,0,-69.85	1
+0.1	ArmorStand	jotlmslug4	Position	ARM_RIGHT	-15,0,145.45	1
+0.1	ArmorStand	jotlmcrab6	Position	BODY	-6.3,-4.54,0	1
+0.1	ArmorStand	jotlmcrab6	Position	HEAD	-22.02,-3.13,0	1
+0.1	ArmorStand	jotlmcrab6	Position	LEG_LEFT	2.15,0,23.52	1
+0.1	ArmorStand	jotlmcrab6	Position	LEG_RIGHT	3.1,0,337.51	1
+0.1	ArmorStand	jotlmcrab6	Position	ARM_LEFT	-6.85,0,224.83	1
+0.1	ArmorStand	jotlmcrab6	Position	ARM_RIGHT	-15,0,147.55	1
+0.1	ArmorStand	jotlmcrab7	Position	BODY	-6.3,-4.54,0	1
+0.1	ArmorStand	jotlmcrab7	Position	HEAD	-22.02,-3.13,0	1
+0.1	ArmorStand	jotlmcrab7	Position	LEG_LEFT	2.15,0,23.52	1
+0.1	ArmorStand	jotlmcrab7	Position	LEG_RIGHT	3.1,0,337.51	1
+0.1	ArmorStand	jotlmcrab7	Position	ARM_LEFT	-6.85,0,224.83	1
+0.1	ArmorStand	jotlmcrab7	Position	ARM_RIGHT	-15,0,147.55	1
+0.1	ArmorStand	jotlmcrab8	Position	BODY	-6.3,-4.54,0	1
+0.1	ArmorStand	jotlmcrab8	Position	HEAD	-22.02,-3.13,0	1
+0.1	ArmorStand	jotlmcrab8	Position	LEG_LEFT	2.15,0,23.52	1
+0.1	ArmorStand	jotlmcrab8	Position	LEG_RIGHT	3.1,0,337.51	1
+0.1	ArmorStand	jotlmcrab8	Position	ARM_LEFT	-6.85,0,224.83	1
+0.1	ArmorStand	jotlmcrab8	Position	ARM_RIGHT	-15,0,147.55	1
+#Move
+##Sebastian
+2	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	2
+2	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	2
+3	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+3	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+4	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+4	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+5	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+5	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+6	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	6
+6	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	6
+7	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+7	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+8	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+8	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+9	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+9	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+10	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	6
+10	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	6
+11	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+11	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+12	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+12	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+13	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+13	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+14	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	6
+14	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	6
+15	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+15	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+16	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	8
+16	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	8
+17	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+17	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+18	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	8
+18	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	8
+19	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+19	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+20	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	8
+20	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	8
+21	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+21	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+22	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	8
+22	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	8
+23	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+23	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+24	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	8
+24	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	8
+25	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+25	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+26	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	8
+26	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	8
+27	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+27	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+28	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	8
+28	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	8
+29	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	8
+29	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	8
+30	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	2
+30	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	2
+31	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+31	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+32	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+32	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+33	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+33	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+34	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	2
+34	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	2
+35	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+35	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+36	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+36	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+37	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+37	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+38	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	2
+38	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	2
+39	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+39	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+40	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+40	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+41	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+41	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+42	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	2
+42	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	2
+43	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+43	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+44	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,20,-10	6
+44	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,-20,10	6
+45	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-60,-19,-10	6
+45	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-56,31,10	6
+46	ArmorStand	jotlmsebastian4	Position	ARM_LEFT	-120,-39,-10	2
+46	ArmorStand	jotlmsebastian4	Position	ARM_RIGHT	-116,51,10	2
+2	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,0	3
+3	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,10	5
+4	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,10	5
+5	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,-10	5
+6	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	5
+7	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	5
+8	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	5
+9	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,10	5
+10	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,10	5
+11	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,-10	5
+12	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	6
+13	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	6
+14	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	6
+15	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,10	8
+16	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,10	8
+17	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,-10	8
+18	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+19	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+20	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+21	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+22	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+23	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+24	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,10	8
+25	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,10	8
+26	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,-10	8
+27	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+28	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+29	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+30	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+31	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+32	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,10	8
+33	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,10	8
+34	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,-10	8
+35	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+36	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+37	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+38	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+39	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+40	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,10	8
+41	ArmorStand	jotlmsebastian4	Position	HEAD	10,10,10	8
+42	ArmorStand	jotlmsebastian4	Position	HEAD	-10,0,-10	8
+43	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+44	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+45	ArmorStand	jotlmsebastian4	Position	HEAD	10,0,0	8
+46	ArmorStand	jotlmsebastian4	Position	HEAD	-10,10,0	8
+##Crab
+2	ArmorStand	jotlmcrab6	Rotate	35	1.5
+4	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+6	ArmorStand	jotlmcrab6	Rotate	70	1.5
+8	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+10	ArmorStand	jotlmcrab6	Rotate	70	1.5
+12	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+14	ArmorStand	jotlmcrab6	Rotate	70	1.5
+16	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+18	ArmorStand	jotlmcrab6	Rotate	70	1.5
+20	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+22	ArmorStand	jotlmcrab6	Rotate	70	1.5
+24	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+26	ArmorStand	jotlmcrab6	Rotate	70	1.5
+28	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+30	ArmorStand	jotlmcrab6	Rotate	70	1.5
+32	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+34	ArmorStand	jotlmcrab6	Rotate	70	1.5
+36	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+38	ArmorStand	jotlmcrab6	Rotate	70	1.5
+40	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+42	ArmorStand	jotlmcrab6	Rotate	70	1.5
+44	ArmorStand	jotlmcrab6	Rotate	-70	1.5
+46	ArmorStand	jotlmcrab6	Rotate	70	1.5
+2	ArmorStand	jotlmcrab7	Rotate	35	1.5
+4	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+6	ArmorStand	jotlmcrab7	Rotate	70	1.5
+8	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+10	ArmorStand	jotlmcrab7	Rotate	70	1.5
+12	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+14	ArmorStand	jotlmcrab7	Rotate	70	1.5
+16	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+18	ArmorStand	jotlmcrab7	Rotate	70	1.5
+20	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+22	ArmorStand	jotlmcrab7	Rotate	70	1.5
+24	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+26	ArmorStand	jotlmcrab7	Rotate	70	1.5
+28	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+30	ArmorStand	jotlmcrab7	Rotate	70	1.5
+32	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+34	ArmorStand	jotlmcrab7	Rotate	70	1.5
+36	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+38	ArmorStand	jotlmcrab7	Rotate	70	1.5
+40	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+42	ArmorStand	jotlmcrab7	Rotate	70	1.5
+44	ArmorStand	jotlmcrab7	Rotate	-70	1.5
+46	ArmorStand	jotlmcrab7	Rotate	70	1.5
+2	ArmorStand	jotlmcrab8	Rotate	35	1.5
+4	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+6	ArmorStand	jotlmcrab8	Rotate	70	1.5
+8	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+10	ArmorStand	jotlmcrab8	Rotate	70	1.5
+12	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+14	ArmorStand	jotlmcrab8	Rotate	70	1.5
+16	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+18	ArmorStand	jotlmcrab8	Rotate	70	1.5
+20	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+22	ArmorStand	jotlmcrab8	Rotate	70	1.5
+24	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+26	ArmorStand	jotlmcrab8	Rotate	70	1.5
+28	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+30	ArmorStand	jotlmcrab8	Rotate	70	1.5
+32	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+34	ArmorStand	jotlmcrab8	Rotate	70	1.5
+36	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+38	ArmorStand	jotlmcrab8	Rotate	70	1.5
+40	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+42	ArmorStand	jotlmcrab8	Rotate	70	1.5
+44	ArmorStand	jotlmcrab8	Rotate	-70	1.5
+46	ArmorStand	jotlmcrab8	Rotate	70	1.5
+##KingTriton
+2	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	6
+2	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	6
+2	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	6
+4	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	6
+4	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	6
+4	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	6
+6	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	6
+6	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	6
+6	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	6
+8	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	6
+8	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	6
+8	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	6
+10	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	6
+10	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	6
+10	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	6
+12	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	6
+12	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	6
+12	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	6
+14	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	6
+14	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	6
+14	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	6
+16	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	10
+16	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	10
+16	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	10
+18	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	10
+18	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	10
+18	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	10
+20	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	10
+20	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	10
+20	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	10
+22	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	10
+22	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	10
+22	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	10
+24	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	10
+24	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	10
+24	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	10
+26	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	10
+26	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	10
+26	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	10
+28	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	10
+28	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	10
+28	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	10
+30	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	6
+30	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	6
+30	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	6
+32	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	6
+32	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	6
+32	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	6
+34	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	6
+34	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	6
+34	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	6
+36	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	6
+36	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	6
+36	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	6
+38	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	6
+38	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	6
+38	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	6
+40	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	6
+40	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	6
+40	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	6
+42	ArmorStand	jotlmkt1	Position	ARM_LEFT	-29,-2,-20	6
+42	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-90.65,63,9	6
+42	ArmorStand	jotlmkt1	Position	HEAD	-10,40,-5	6
+44	ArmorStand	jotlmkt1	Position	ARM_LEFT	-19,-2,-10	6
+44	ArmorStand	jotlmkt1	Position	ARM_RIGHT	-50.65,43,10	6
+44	ArmorStand	jotlmkt1	Position	HEAD	0,-20,5	6
+46	ArmorStand	jotlmkt1	Position	ARM_LEFT	-59,15,-10	6
+46	ArmorStand	jotlmkt1	Position	ARM_RIGHT	20,43,12	6
+46	ArmorStand	jotlmkt1	Position	HEAD	10,10,5	6
+#Ariel
+#Head
+2	ArmorStand	jotlmariel5	Position	HEAD	0,20,0	8
+6.1	ArmorStand	jotlmariel5	Position	HEAD	0,-20,0	8
+10.2	ArmorStand	jotlmariel5	Position	HEAD	0,20,0	8
+14.3	ArmorStand	jotlmariel5	Position	HEAD	0,-20,0	8
+18.4	ArmorStand	jotlmariel5	Position	HEAD	0,20,0	8
+22.5	ArmorStand	jotlmariel5	Position	HEAD	0,-20,0	8
+26.6	ArmorStand	jotlmariel5	Position	HEAD	0,20,0	8
+30.7	ArmorStand	jotlmariel5	Position	HEAD	0,-20,0	8
+34.8	ArmorStand	jotlmariel5	Position	HEAD	0,20,0	8
+38.9	ArmorStand	jotlmariel5	Position	HEAD	0,-20,0	8
+43	ArmorStand	jotlmariel5	Position	HEAD	0,20,0	8
+#ArmWave
+2	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+4	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+6	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+8	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+10	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+12	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+14	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+16	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+18	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+20	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+22	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+24	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+26	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+28	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+30	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+32	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+34	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+36	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+38	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+40	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+42	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+44	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,147	12
+46	ArmorStand	jotlmariel5	Position	ARM_RIGHT	-15,0,97	12
+#Eric
+#Head
+2	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+5	ArmorStand	jotlmpe2	Position	HEAD	10,-15,0	8
+7	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+10	ArmorStand	jotlmpe2	Position	HEAD	0,-15,0	8
+12	ArmorStand	jotlmpe2	Position	HEAD	0,15,10	8
+15	ArmorStand	jotlmpe2	Position	HEAD	0,-15,0	8
+17	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+20	ArmorStand	jotlmpe2	Position	HEAD	0,-15,10	8
+22	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+24	ArmorStand	jotlmpe2	Position	HEAD	0,-15,0	8
+26	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+28	ArmorStand	jotlmpe2	Position	HEAD	10,-15,0	8
+30	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+32	ArmorStand	jotlmpe2	Position	HEAD	0,-15,0	8
+34	ArmorStand	jotlmpe2	Position	HEAD	0,15,10	8
+36	ArmorStand	jotlmpe2	Position	HEAD	0,-15,0	8
+38	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+40	ArmorStand	jotlmpe2	Position	HEAD	0,-15,10	8
+42	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+44	ArmorStand	jotlmpe2	Position	HEAD	0,-15,0	8
+46	ArmorStand	jotlmpe2	Position	HEAD	0,15,0	8
+#ArmWave
+2	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+4	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+6	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+8	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+10	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+12	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+14	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+16	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+18	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+20	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+22	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+24	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+26	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+28	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+30	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+32	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+34	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+36	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+38	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+40	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+42	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+44	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-130	12
+46	ArmorStand	jotlmpe2	Position	ARM_LEFT	-10,0,-90	12
+#Despawn
+50	ArmorStand	jotlmariel5	Despawn
+50	ArmorStand	jotlmpe2	Despawn
+50	ArmorStand	jotlmflounder4	Despawn
+50	ArmorStand	jotlmsebastian4	Despawn
+50	ArmorStand	jotlmkt1	Despawn
+50	ArmorStand	jotlmcrab6	Despawn
+50	ArmorStand	jotlmcrab7	Despawn
+50	ArmorStand	jotlmcrab8	Despawn
+50	ArmorStand	jotlmslug3	Despawn
+50	ArmorStand	jotlmslug4	Despawn
+50	ArmorStand	jotlmhf4	Despawn
+50	ArmorStand	joltmhf5	Despawn
+50	ArmorStand	jotlmhf6	Despawn
+50	ArmorStand	jotlmscuttle2	Despawn

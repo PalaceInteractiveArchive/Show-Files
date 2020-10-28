@@ -1,0 +1,11 @@
+Show	Location	376,68,3911
+Show	TextRadius	300
+
+0.0	Sequence	Laser	nye-l2
+0.5	Sequence	Laser	nye-l2
+1.0	Sequence	Laser	nye-l2
+1.5	Sequence	Laser	nye-l2
+2.0	Sequence	Laser	nye-l2
+2.5	Sequence	Laser	nye-l2
+3.0	Sequence	Laser	nye-l2
+0.0 Sequence    Light   nye-s1

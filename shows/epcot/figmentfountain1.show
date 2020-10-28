@@ -1,0 +1,31 @@
+Show	Location	-207,65,-2840
+Show	TextRadius	60
+0	Block	166	-230,66,2831
+0	Block	166	-224,66,2839
+0	Block	166	-219,66,2843
+0	Block	166	-211,66,2844
+0	Block	166	-203,66,2841
+0	Block	166	-196,66,2841
+0	Block	166	-193,66,2843
+
+0	Sequence	Fountain	figfount1for -189.5,67.4,2843.5
+1.4	Sequence	Fountain	figfount2for	-194.5,67.4,2839.5
+2.8	Sequence	Fountain	figfount3for	-201.5,67.4,2837.5
+4.2	Sequence	Fountain	figfount4for	-210.5,67.4,2841.5
+5.6	Sequence	Fountain	figfount5for	-216.5,67.4,2841.5
+7.0	Sequence	Fountain	figfount6for	-223.5,67.4,2836.5
+
+#/summon falling_block -190 67 2843 {TileID:79,Data:3,Time:3,Motion:[-0.23,0.7,-0.18],DropItem:0}
+#/summon falling_block -195 67 2839 {TileID:79,Data:3,Time:3,Motion:[-0.3,0.7,-0.09],DropItem:0}
+#/summon falling_block -202 67 2837 {TileID:79,Data:3,Time:3,Motion:[-0.38,0.7,0.16],DropItem:0}
+#/summon falling_block -211 67 2841 {TileID:79,Data:3,Time:3,Motion:[-0.25,0.7,0.0],DropItem:0}
+#/summon falling_block -217 67 2841 {TileID:79,Data:3,Time:3,Motion:[-0.31,0.7,-0.22],DropItem:0}
+#/summon falling_block -224 67 2836 {TileID:79,Data:3,Time:3,Motion:[-0.17,0.7,-0.27],DropItem:0}
+
+10	Block	72	-230,66,2831
+10	Block	72	-224,66,2839
+10	Block	72	-219,66,2843
+10	Block	72	-211,66,2844
+10	Block	72	-203,66,2841
+10	Block	72	-196,66,2841
+10	Block	72	-193,66,2843

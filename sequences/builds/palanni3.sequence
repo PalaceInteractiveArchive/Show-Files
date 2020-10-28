@@ -1,0 +1,10 @@
+Sequence	Build
+#Dreamfinder
+Build	dreamfinder	dreamfinder
+206	dreamfinder	Spawn	-100.5,52.5,-1614.5
+206.1	dreamfinder	Move	-101.5,54,-1614.5	40
+208.1	dreamfinder	Move	-99.5,55.5,-1614.5	40
+210.2	dreamfinder	Move	-100.5,54.5,-1614.5	40
+212.3	dreamfinder	Move	-98,55.5,-1614.5	60
+215.4	dreamfinder	Move	-108.5,63.5,-1614.5	60
+218.5	dreamfinder	Despawn

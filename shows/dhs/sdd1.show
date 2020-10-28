@@ -1,0 +1,209 @@
+﻿Show	Location	-462,65,326
+Show	TextRadius	15
+#ArmorstandDefine
+ArmorStand	sddfire1	false	251:1;0;0;0;0
+ArmorStand	sddfire2	false	251:1;0;0;0;0
+ArmorStand	sddfire3	false	251:1;0;0;0;0
+ArmorStand	sddfire4	false	251:1;0;0;0;0
+ArmorStand	sddfire5	true	251:1;0;0;0;0
+ArmorStand	sddfire6	true	251:1;0;0;0;0
+#Spawn
+0	ArmorStand	sddfire1	Spawn	-458.5,65.6,329.5,45
+0	ArmorStand	sddfire2	Spawn	-458.5,66.2,329.5,45
+0	ArmorStand	sddfire3	Spawn	-464.5,65.6,323.5,45
+0	ArmorStand	sddfire4	Spawn	-464.5,66.2,323.5,45
+0	ArmorStand	sddfire5	Spawn	-464.5,67.5,323.5,45
+0	ArmorStand	sddfire6	Spawn	-458.5,67.5,329.5,45
+0.01	Block	152	-461,63,325
+0.05	Block	152	-461,63,325
+0.1	Block	152	-461,63,325
+#Rotate
+10.8	ArmorStand	sddfire1	Rotate	-360	2
+10.8	ArmorStand	sddfire2	Rotate	-360	2
+10.8	ArmorStand	sddfire3	Rotate	360	2
+10.8	ArmorStand	sddfire4	Rotate	360	2
+10.8	ArmorStand	sddfire5	Rotate	360	2
+10.8	ArmorStand	sddfire6	Rotate	-360	2
+12.9	ArmorStand	sddfire1	Rotate	-360	2
+12.9	ArmorStand	sddfire2	Rotate	-360	2
+12.9	ArmorStand	sddfire3	Rotate	360	2
+12.9	ArmorStand	sddfire4	Rotate	360	2
+12.9	ArmorStand	sddfire5	Rotate	360	2
+12.9	ArmorStand	sddfire6	Rotate	-360	2
+15	ArmorStand	sddfire1	Rotate	-360	1
+15	ArmorStand	sddfire2	Rotate	-360	1
+15	ArmorStand	sddfire3	Rotate	360	1
+15	ArmorStand	sddfire4	Rotate	360	1
+15	ArmorStand	sddfire5	Rotate	360	1
+15	ArmorStand	sddfire6	Rotate	-360	1
+16.1	ArmorStand	sddfire1	Rotate	-360	1
+16.1	ArmorStand	sddfire2	Rotate	-360	1
+16.1	ArmorStand	sddfire3	Rotate	360	1
+16.1	ArmorStand	sddfire4	Rotate	360	1
+16.1	ArmorStand	sddfire5	Rotate	360	1
+16.1	ArmorStand	sddfire6	Rotate	-360	1
+17.2	ArmorStand	sddfire1	Rotate	-360	1
+17.2	ArmorStand	sddfire2	Rotate	-360	1
+17.2	ArmorStand	sddfire3	Rotate	360	1
+17.2	ArmorStand	sddfire4	Rotate	360	1
+17.2	ArmorStand	sddfire5	Rotate	360	1
+17.2	ArmorStand	sddfire6	Rotate	-360	1
+18.3	ArmorStand	sddfire1	Rotate	-360	1
+18.3	ArmorStand	sddfire2	Rotate	-360	1
+18.3	ArmorStand	sddfire3	Rotate	360	1
+18.3	ArmorStand	sddfire4	Rotate	360	1
+18.3	ArmorStand	sddfire5	Rotate	360	1
+18.3	ArmorStand	sddfire6	Rotate	-360	1
+19.4	ArmorStand	sddfire1	Rotate	-360	1
+19.4	ArmorStand	sddfire2	Rotate	-360	1
+19.4	ArmorStand	sddfire3	Rotate	360	1
+19.4	ArmorStand	sddfire4	Rotate	360	1
+19.4	ArmorStand	sddfire5	Rotate	360	1
+19.4	ArmorStand	sddfire6	Rotate	-360	1
+20.5	ArmorStand	sddfire1	Rotate	-360	1
+20.5	ArmorStand	sddfire2	Rotate	-360	1
+20.5	ArmorStand	sddfire3	Rotate	360	1
+20.5	ArmorStand	sddfire4	Rotate	360	1
+20.5	ArmorStand	sddfire5	Rotate	360	1
+20.5	ArmorStand	sddfire6	Rotate	-360	1
+21.6	ArmorStand	sddfire1	Rotate	-360	1
+21.6	ArmorStand	sddfire2	Rotate	-360	1
+21.6	ArmorStand	sddfire3	Rotate	360	1
+21.6	ArmorStand	sddfire4	Rotate	360	1
+21.6	ArmorStand	sddfire5	Rotate	360	1
+21.6	ArmorStand	sddfire6	Rotate	-360	1
+22.7	ArmorStand	sddfire1	Rotate	-360	1
+22.7	ArmorStand	sddfire2	Rotate	-360	1
+22.7	ArmorStand	sddfire3	Rotate	360	1
+22.7	ArmorStand	sddfire4	Rotate	360	1
+22.7	ArmorStand	sddfire5	Rotate	360	1
+22.7	ArmorStand	sddfire6	Rotate	-360	1
+23.8	ArmorStand	sddfire1	Rotate	-360	1
+23.8	ArmorStand	sddfire2	Rotate	-360	1
+23.8	ArmorStand	sddfire3	Rotate	360	1
+23.8	ArmorStand	sddfire4	Rotate	360	1
+23.8	ArmorStand	sddfire5	Rotate	360	1
+23.8	ArmorStand	sddfire6	Rotate	-360	1
+24.9	ArmorStand	sddfire1	Rotate	-360	1
+24.9	ArmorStand	sddfire2	Rotate	-360	1
+24.9	ArmorStand	sddfire3	Rotate	360	1
+24.9	ArmorStand	sddfire4	Rotate	360	1
+24.9	ArmorStand	sddfire5	Rotate	360	1
+24.9	ArmorStand	sddfire6	Rotate	-360	1
+##Green
+#Flash0
+11.5	Block	251:5	-462,66,331
+11.5	Block	251:5	-466,66,327
+#Flash1
+12	Block	251:7	-462,66,331
+12	Block	251:7	-466,66,327
+12	Block	251:5	-462,67,331
+12	Block	251:5	-466,67,327
+#Flash2
+12.5	Block	251:7	-462,67,331
+12.5	Block	251:7	-466,67,327
+12.5	Block	251:5	-462,68,331
+12.5	Block	251:5	-466,68,327
+#Flash3
+13	Block	251:7	-462,68,331
+13	Block	251:7	-466,68,327
+13	Block	251:5	-465,69,328
+13	Block	251:5	-463,69,330
+#Flash4
+13.5	Block	251:7	-465,69,328
+13.5	Block	251:7	-463,69,330
+13.5	Block	251:5	-464,69,329
+#Flash
+14	Block	251:7	-464,69,329
+#Flash0
+14.5	Block	251:5	-462,66,331
+14.5	Block	251:5	-466,66,327
+#Flash1
+15	Block	251:7	-462,66,331
+15	Block	251:7	-466,66,327
+15	Block	251:5	-462,67,331
+15	Block	251:5	-466,67,327
+#Flash2
+15.5	Block	251:7	-462,67,331
+15.5	Block	251:7	-466,67,327
+15.5	Block	251:5	-462,68,331
+15.5	Block	251:5	-466,68,327
+#Flash3
+16	Block	251:7	-462,68,331
+16	Block	251:7	-466,68,327
+16	Block	251:5	-465,69,328
+16	Block	251:5	-463,69,330
+#Flash4
+16.5	Block	251:7	-465,69,328
+16.5	Block	251:7	-463,69,330
+16.5	Block	251:5	-464,69,329
+#Flash
+17	Block	251:7	-464,69,329
+#Flash0
+17.5	Block	251:5	-462,66,331
+17.5	Block	251:5	-466,66,327
+#Flash1
+18	Block	251:7	-462,66,331
+18	Block	251:7	-466,66,327
+18	Block	251:5	-462,67,331
+18	Block	251:5	-466,67,327
+#Flash2
+18.5	Block	251:7	-462,67,331
+18.5	Block	251:7	-466,67,327
+18.5	Block	251:5	-462,68,331
+18.5	Block	251:5	-466,68,327
+#Flash3
+19	Block	251:7	-462,68,331
+19	Block	251:7	-466,68,327
+19	Block	251:5	-465,69,328
+19	Block	251:5	-463,69,330
+#Flash4
+19.5	Block	251:7	-465,69,328
+19.5	Block	251:7	-463,69,330
+19.5	Block	251:5	-464,69,329
+#Flash
+20	Block	251:7	-464,69,329
+#Flash0
+20.5	Block	251:5	-462,66,331
+20.5	Block	251:5	-466,66,327
+#Flash1
+21	Block	251:7	-462,66,331
+21	Block	251:7	-466,66,327
+21	Block	251:5	-462,67,331
+21	Block	251:5	-466,67,327
+#Flash2
+21.5	Block	251:7	-462,67,331
+21.5	Block	251:7	-466,67,327
+21.5	Block	251:5	-462,68,331
+21.5	Block	251:5	-466,68,327
+#Flash3
+22	Block	251:7	-462,68,331
+22	Block	251:7	-466,68,327
+22	Block	251:5	-465,69,328
+22	Block	251:5	-463,69,330
+#Flash4
+22.5	Block	251:7	-465,69,328
+22.5	Block	251:7	-463,69,330
+22.5	Block	251:5	-464,69,329
+#Flash
+23	Block	251:7	-464,69,329
+#Lights
+0	Block	89	-465,65,323
+0	Block	89	-459,65,329
+12	Block	119	-464,73,329
+13	Block	119	-467,73,333
+14	Block	119	-469,73,336
+15	Block	119	-471,73,339
+#Reset
+29	Block	0	-464,73,329
+29	Block	0	-467,73,333
+29	Block	0	-469,73,336
+29	Block	0	-471,73,339
+29	Block	114:6	-465,65,323
+29	Block	114:6	-459,65,329	
+29	ArmorStand	sddfire1	Despawn
+29	ArmorStand	sddfire2	Despawn
+29	ArmorStand	sddfire3	Despawn
+29	ArmorStand	sddfire4	Despawn
+29	ArmorStand	sddfire5	Despawn
+29	ArmorStand	sddfire6	Despawn

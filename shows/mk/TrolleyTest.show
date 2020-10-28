@@ -1,0 +1,73 @@
+﻿Show	Location	-90,44,-1435
+Show	TextRadius	75
+Show	Name	TrolleyTest
+
+#Audio
+0	AudioStart	trolley
+0	AudioSync	trolley	0
+
+#Text
+12	Text	&f[&ePerformers&f] &eA Kingdom full of endless dreams,
+14	Text	&efor every girl and boy.
+16	Text	&eWondrous lands of make-believe,
+18	Text	&ewill fill your heart with joy!
+20	Text	&eA castle is the entrance-way,
+22	Text	&eto seven lands and more.
+24	Text	&eStep inside our storybook-
+26	Text	&eImagine what's in store..!
+33.5	Text	&eIt's all pure magic,
+35	Text	&ewrapped up in pixie dust!
+37	Text	&f[&bMales&f] &bIn pixie dust!
+38	Text	&f[&ePerformers&f] &eWelcome to a place where dreams come true..!
+42	Text	&eA timeless journey,
+43	Text	&ethrough loads of fan-ta-sy!
+48.5	Text	&eWhere only a wish,
+50	Text	&ecreates things like this to appear!
+56.5	Text	&eThe most magical place on earth-
+60	Text	&e&lis here..!
+67	Text	&eI'm walking right down the middle of Main Street U.S.A...
+74	Text	&eWhere it's the heart of America,
+76	Text	&ethe heatbeat of a holiday!
+81	Text	&eYou see the greatest smiling faces up and down the street,
+84.5	Text	&eIt's remarkable how friendly all the people can be!
+87.75	Text	&eI'm walking right down the middle of Main Street U.S.A..!
+109	Text	&eFor the time of your life,
+110	Text	&eyou're oughta find yourself here!
+112	Text	&eYou're welcome any time,
+113	Text	&eyou have the mind to appear!
+115	Text	&eI'm walking right down the middle of Main-
+118	Text	&eStreet
+119.	Text	&eU.S.A..!
+122	Text	&eClang, clang!
+125	Text	&eClang, clang!
+127	Text	&eClang, clang, clang went the trolley!
+130	Text	&eDing, ding, ding went the bell!
+133.5	Text	&eZing, zing, zing went my heartstrings,
+136	Text	&f[&dFemales&f] &dFor the moment I saw him I fell!
+140	Text	&f[&ePerformers&f] &eClang, clang!
+141	Text	&eChug, chug, chug went the motor!
+145	Text	&eBump, bump, bump went the brake!
+148	Text	&eThump, thump, thump went my heartstrings!
+151	Text	&f[&bMales&f] &bWhen she smiled I could feel the car shake!
+153.9	Text	&bI tipped my hat, and took a seat-
+157	Text	&bI said I hoped I hadn't stepped upon her feet!
+160	Text	&f[&dFemales&f] &dHe asked my name,
+162	Text	&dI held my breath!
+163	Text	&dI couldn't speak because he scared me half to death!
+167	Text	&eClang, clang, clang went the trolley!
+170	Text	&f[&bMales&f] &bRight down the middle of Main Street U.S.A-
+174	Text	&f[&dFemales&f]	&dStop, stop, stop went my heartstrings!
+176	Text	&dAs he started to leave,
+178	Text	&dI took ahold of his sleeve,
+179	Text	&dHand-in-hand,
+180	Text	&dwe'll be walking down Main Street!
+183	Text	&f[&ePerformers&f] &eThe place was made with a magical plan,
+186	Text	&eand just around the corner is a Fantasyland!
+188.75	Text	&eWe're walking right down the middle of Main Street U.S.A..!
+199	Text	&eClang, clang!
+202	Text	&eClang, clang!
+205	Text	&eClang, clang!
+208	Text	&d[&f&l*&d] &dLadies and Gentlemen, Boys and Girls!
+210	Text	&dThank you for joining us here on Main Street U.S.A!
+214	Text	&dAnd from all of us here in the Magic Kingdom,
+216	Text	&dwe hope you have a magical day!

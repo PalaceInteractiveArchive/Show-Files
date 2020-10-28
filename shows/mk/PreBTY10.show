@@ -1,0 +1,29 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+#Mainstreet block/Pre/Show start
+0	Block	152	-102,49,-1405
+1	Block	20	-102,49,-1405
+420	Block	152	-118,48,-1410
+600	Block	152	-116,48,-1410
+#Time system
+0	Block	152	-104,51,-1396
+0	Block	35	-122,53,-1400
+600	Block	152	-123,53,-1401
+
+0	Text	&5Ladies and gentlemen, bats and ghouls, In just &6&l10 minutes &5we invite you at the spookiest time of the year to say &lBoo Too You!&5 As &bPalace&5 will proudly present the &a&lNot So Scary Mickey's Boo To You Halloween Parade! &5at &2/warp Mainstreet
+300	Text	&5Ladies and gentlemen, bats and ghouls, In just &6&l5 minutes &5we invite you at the spookiest time of the year to say &lBoo Too You!&5 As &bPalace&5 will proudly present the &a&lNot So Scary Mickey's Boo To You Halloween Parade! &5at &2/warp Mainstreet
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+180	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+580	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-127,49,-1414
+270	Block	152	-127,49,-1415
+450	Block	152	-127,49,-1416
+
+#/b &5In just &615 Minutes &bThe Palace Network &5will proudly present the &aNot So Scary Mickey's Boo Too You Halloween Parade! &5at &6/warp mainstreet&5!

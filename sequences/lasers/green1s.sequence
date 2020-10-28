@@ -1,0 +1,5 @@
+Sequence	Laser	Relative
+#green laser 1s
+0	Spawn
+9.6	Move	target	0,50,0	8
+11	Despawn

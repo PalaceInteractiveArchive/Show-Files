@@ -1,0 +1,73 @@
+﻿Show	Location	-282,43,-1746
+Show	TextRadius	3
+#CloseFrontDoor
+0	Block	17:1	-279,43,-1749
+0	Block	17:1	-279,44,-1749
+#Barriers
+0	Block	166	-278,43,-1749
+0	Block	166	-279,43,-1750
+0	Block	166	-278,44,-1749
+0	Block	166	-279,44,-1750
+#TpOut
+0	Block	152	-293,36,-1758
+#ResetAll
+0	Block	152	-293,36,-1746
+0	Block	152	-293,36,-1749
+0	Block	152	-293,36,-1752
+0	Block	152	-293,36,-1755
+0	Schematic	hmstretchR	-284	48	-1744	mk	true
+#RemoveSchematic
+0	Block	0	-284,50,-1747
+0	Block	0	-284,50,-1746
+0	Block	0	-283,50,-1745
+0	Block	0	-282,50,-1744
+0	Block	0	-281,50,-1744
+0	Block	0	-280,50,-1745
+0	Block	0	-279,50,-1746
+0	Block	0	-279,50,-1747
+0	Block	0	-280,50,-1748
+0	Block	0	-281,50,-1749
+0	Block	0	-282,50,-1749
+0	Block	0	-283,50,-1748
+0	Block	0	-283,50,-1746
+0	Block	0	-281,50,-1745
+0	Block	0	-280,50,-1746
+0	Block	0	-282,50,-1748
+0	Block	0	-283,51,-1747
+0	Block	0	-283,51,-1746
+0	Block	0	-282,51,-1745
+0	Block	0	-281,51,-1745
+0	Block	0	-280,51,-1746
+0	Block	0	-280,51,-1747
+0	Block	0	-281,51,-1748
+0	Block	0	-282,51,-1748
+0	Block	0	-282,51,-1746
+0	Block	0	-281,51,-1746
+0	Block	0	-281,51,-1747
+0	Block	0	-282,51,-1747
+0	Block	0	-280,50,-1747
+#Reset
+0	Block	152	-274,36,-1743
+#TPIntoNextRoom
+0	Block	152	-267,36,-1743
+#CloseLeftDoor
+0	Block	17:1	-280,43,-1744
+0	Block	17:1	-279,43,-1745
+0	Block	17:1	-280,44,-1744
+0	Block	17:1	-279,44,-1745
+#CloseRightDoor
+0	Block	17:1	-275,43,-1745
+0	Block	17:1	-274,43,-1744
+0	Block	17:1	-275,44,-1745
+0	Block	17:1	-274,44,-1744
+#ResumeTestfor
+0	Block	152	-269,40,-1741
+0	Block	152	-274,40,-1748
+#OpenMainDoor1
+2	Block	0	-286,44,-1740
+2	Block	0	-286,43,-1740
+#OpenMainDoor2
+3	Block	0	-286,44,-1739
+3	Block	0	-286,43,-1739
+4	Block	0	-287,44,-1741
+4	Block	0	-287,43,-1741

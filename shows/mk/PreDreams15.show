@@ -1,0 +1,45 @@
+Show	Location	-89,43,-1588
+Show	TextRadius	150
+Show	Name	Castle
+#Audio control
+319	Block	152	-95,29,-1611
+320	AudioStart	DreamsPre
+322	AudioSync	DreamsPre	2
+330	AudioSync	DreamsPre	10
+335	AudioSync	DreamsPre	15
+350	AudioSync	DreamsPre	30
+380	AudioSync	DreamsPre	60
+440	AudioSync	DreamsPre	120
+500	AudioSync	DreamsPre	180
+560	AudioSync	DreamsPre	240
+620	AudioSync	DreamsPre	300
+680	AudioSync	DreamsPre	360
+740	AudioSync	DreamsPre	420
+800	AudioSync	DreamsPre	480
+860	AudioSync	DreamsPre	540
+#Chatmute/Show start/Lights Off
+895	Block	152	-86,28,-1611
+900	Block	152	-73,31,-1597
+#Lights
+893	Block	152	-98,28,-1611
+894	Block	152	-95,28,-1611
+894	Block	152	-95,30,-1611
+895	Block	152	-92,28,-1611
+#ParticlesOff
+300	Block	20	-68,53,-1466
+#BackClose
+0	Schematic	CastleBackClose	-82	45	-1651	mk	false
+#Chat
+#10 Minute Narattion
+#Safety Narattion English/Spanish
+#Time system
+0	Block	152	-102,29,-1611
+0	Block	152	-99,29,-1611
+#/b
+0	Block	152	-73,31,-1601
+300	Block	152	-73,31,-1600
+600	Block	152	-73,31,-1599
+780	Block	152	-73,31,-1598
+#Fences
+0	Block	152	-90,28,-1611
+0	Block	152	-82,28,-1611

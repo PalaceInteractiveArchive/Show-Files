@@ -1,0 +1,5 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+Show	Name	Castle
+
+Show	LoadShow	ns3intro	0

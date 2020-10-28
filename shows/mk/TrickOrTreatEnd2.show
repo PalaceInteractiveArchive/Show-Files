@@ -1,0 +1,16 @@
+Show	Location	-90,70,-1620
+Show	TextRadius	100000
+0	Lightning	-90,70,-1620
+10	Lightning	-90,70,-1620
+0	Text	&6Thank you for joining us for our Not So Scary Halloween party. 
+2	Text	&aAll of our trick or treat stations around the &eMagic Kingdom &6are now &cclosed.
+4	Text	&aHave a great evening,
+6	Text	&aand beware of hitchhiking ghosts!
+#Plates
+0	Block	0	14,43,-1493
+0	Block	0	31,44,-1801
+0	Block	0	-110,45,-1706
+0	Block	0	-386,42,-1481
+0	Block	0	-416,43,-1657
+#CandyStationsOn
+0	Block	152	15,41,-1494

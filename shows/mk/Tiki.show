@@ -1,0 +1,338 @@
+Show	Location	-352,42,-1519
+Show	TextRadius	25
+Show	Name	Tiki
+
+#Audio
+0	AudioStart	Tiki	0
+0	AudioSync	Tiki	0
+
+#Main Show Text
+#Text
+2.1    Text    &b[&3Jose&b] &3Awwwahhh... Buenos días señorita.
+4.0    Text    &3My siestas are getting 'chorter and 'chorter.
+6.7    Text    &3Oh look at all the people!
+8.7    Text    &3Welcome to Walt Disney's Enchanted Tiki Room.
+11.5    Text    &3Hey Michael mi amigo, pay attention - it's 'cho time.
+14.7    Text    &5[&dMichael&5] &dSo it is, and what darlin' people I have sittin' under me.
+19.6    Text    &dPierre you rascal you, let's put on the show.
+23.3    Text    &e[&6Pierre&e] &6Mon ami, I am always ready, as you say, to put on ze show.
+29.6    Text    &6Oh, pardon madam, that whistle was for my good friend, Fritz.
+33.2    Text    &1[&9Fritz&1] &9Ach du liebe! I almost fell out of my rubber perch.
+37.2    Text    &9Glad to see you all aboard, er, ashow, or hehehe, wherever you are!
+42.4    Text    &9Mien goodness, you're all schtaring at us - we better start the show rrrolling.
+47.4    Text    &5[&dMichael&5] &dWait, wait, we forgot to wake up the glee club.
+54.7    Text    &b[&3Jose&b] &3Ole, ole it's 'cho time.
+57.9    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+60.3    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+63.0    Text    &b[&3Jose&b] &3All the birds sing words,
+64.4    Text    &5[&dMichael&5] &dAnd the flowers croon,
+65.8    Text    &cIn the tiki, tiki, tiki, tiki, tiki room.
+68.6    Text    &5[&dMichael&5] &dWelcome to our tropical hideaway, 
+71.3    Text    &dyou lucky people, you!
+73.8    Text    &dIf we weren't in the show starting right away, 
+76.3    Text    &dwe'd be in the audience too.
+78.4    Text    &cAltogether!
+79.1    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+81.7    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+84.5    Text    &b[&3Jose&b] &3All the birds sing words,
+85.5    Text    &5[&dMichael&5] &dAnd the flowers croon,
+87.1    Text    &cIn the tiki, tiki, tiki, tiki, tiki room.
+90.1    Text    &1[&9Fritz&1] &9I sing so beautiful, I should sing solo.
+94.2    Text    &b[&3Jose&b] &3Si, so low we can't HEAR you.
+99.5    Text    &e[&6Pierre&e] &6My voice may not be so marvelous, but my profile is out of this world.
+101.0    Text    &5[&dMichael&5] &dJawohl, but the trouble is.. it's not FAR enough out of this world.
+105.0    Text    &dIsn't that right Herr Schmidt? Whoo hoo!
+107.0    Text    &dI see Schmidt has no hair! 
+110.0    Text    &b[&3Jose&b] &3Mi amigos stop the clucking, you sound like a bunch of old hens.
+113.0    Text    &3There's a lot of birds waiting to go on. For instance:
+116.0    Text    &5[&dMichael&5] &dThe boys in the back are called macaws.
+119.0    Text    &b[&3Jose&b] &3Because of their claws?
+120.0    Text    &5[&dMichael&5] &dNo because they're macaws!
+122.0    Text    &dAnd our fine feathered friend is a jolly toucan,
+124.0    Text    &dand two can sound better than one toucan can.
+132.0    Text    &dThe bird of paradise is an elegant bird,
+135.0    Text    &dIt likes to be seen, and it loves to be heard.
+138.0    Text    &dMost little birdies will fly away,
+140.0    Text    &dBut the Tiki Room birds are here everyday.
+142.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+145.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+148.0    Text    &b[&3Jose&b] &3All the birds sing words,
+150.0    Text    &5[&dMichael&5] &dAnd the flowers croon,
+151.5    Text    &cIn the tiki, tiki, tiki, tiki, tiki room.
+154.0    Text    &5[&dMichael&5] &dOur show is delightful, we hope you'll agree,
+156.0    Text    &dWe hope that is fills you with pleasure and glee,
+159.0    Text    &dBecause if we don't make you feel like that,
+162.0    Text    &dWe're gonna wind up on a lady's hat!
+164.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+167.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+169.0    Text    &b[&3Jose&b] &3All the birds sing words,
+171.0    Text    &5[&dMichael&5] &dAnd the flowers croon,
+172.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room.
+175.0    Text    &e[&6Pierre&e] &6Our magnificent production is yet to come,
+178.0    Text    &6So strum the guitar, and beat the drum.
+180.0    Text    &6We've been a hit, and we know you adore us,
+183.0    Text    &6So come on and join us in another chorus!
+186.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+188.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+191.0    Text    &5[&dMichael&5] &dA little softer...
+192.0    Text    &cAll the birds sing words and the flowers croon,
+194.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room.
+196.0    Text    &5[&dMichael&5] &dA little louder...
+197.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+199.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room,
+201.0    Text    &cAll the birds sing words and the flowers croon,
+204.0    Text    &cIn the tiki, tiki, tiki, tiki, tiki room!
+208.0    Text    &b[&3Jose&b] &3Ah Ha! Applause! Applause! Si, that was crazy.
+213.0    Text    &e[&6Pierre&e] &6Mes ami, such wonderful singing calls for applause.
+217.0    Text    &b[&3Jose&b] &3Si amigos, Applause.
+220.0    Text    &1[&9Fritz&1] &9Ja ja, ja ja...
+223.0    Text    &e[&6Pierre&e] &6Écoutez, écoutez, listen, listen...
+226.0    Text    &b[&3Jose&b] &3I think maybe it's music...
+228.0    Text    &1[&9Fritz&1] &9Ja, it's Offenbach!
+231.0    Text    &5[&dMichael&5] &dYou stay offa my back, and I'll stay offa your back.
+235.0    Text    &b[&3Jose&b] &3Shhh... Be quiet and listen...
+384.0    Text    &3Let's give the little birdies a great big hand.
+387.0    Text    &e[&6Pierre&e] &6Qui! Applaud, applaud!
+390.0    Text    &1[&9Fritz&1] &9Ja! You down there - mit both hands.
+395.0    Text    &b[&3Jose&b] &3And now señor and señoritas,
+397.0    Text    &3Please place yours eyes into the center, of the room that is,
+401.0    Text    &3We present the enchanted fountain...
+404.0    Text    &1[&9Fritz&1] &9Ack, ja, and the wunderba bird mobile.
+408.0    Text    &9It has birds on it, and it goes rrround and rrround.
+411.0    Text    &9That's why we call it a bird mobile!
+414.0    Text    &5[&dMichael&5] &dLook! Here come the girls!
+417.0    Text    &e[&6Pierre&e] &6Madame and Monsieur, introducing the lovely ladies of ensemble,
+422.0    Text    &6Just like the Folies Bergere, with only feathers.
+425.0    Text    &6There's Colette, 'ello Colette, Suzette, hello Mimi, Gigi, Fifi, ah, hehehe, Josephine...
+434.0    Text    &b[&3Jose&b] &3I wonder what happened to Rosita?
+459.0    Text    &3And now, our national anthem.
+462.0    Text    &a[&2Girls&a] &2Let's all sing like the birdies sing,
+467.0    Text    &2Tweet, tweet tweet, tweet tweet,
+472.0    Text    &2Let's all sing like the birdies sing,
+477.0    Text    &2Sweet, sweet swee-ee-eet, sweet,
+482.0    Text    &2Let's all warble like nightingales,
+487.0    Text    &2Give your throat a treat,
+491.0    Text    &2Take your time from the birds,
+494.0    Text    &2Now you all know the words,
+497.0    Text    &2Tweet, tweet tweet, tweet tweet.
+502.0    Text    &b[&3Jose&b] &3Let's all sing like the birdies sing.
+507.0    Text    &3Bubbaboo, ba bubbaboo, baboo...
+513.0    Text    &5[&dMichael&5] &dLet's all sing like the birdies sing,
+517.0    Text    &dTweet tweet tweet, my that bird sings sweetly.
+522.0    Text    &e[&6Pierre&e] &6Let's all warble like nightingales,
+527.0    Text    &6Ah, qui qui, est magnifique,
+532.0    Text    &6Take your time from ze birds,
+534.0    Text    &6Now you all know ze words, sing along with us...
+541.0    Text    &b[&3Jose&b] &3Now we want you people down there,
+542.0    Text    &3To sing along with us birds up here...
+544.0    Text    &3Altogether now, let's all sing like the birdies sing.
+547.0    Text    &cLet's all sing like the birdies sing...
+551.0    Text    &b[&3Jose&b] &3Tweet tweet tweet tweet tweet.
+552.0    Text    &cTweet, tweet tweet, tweet tweet...
+556.0    Text    &b[&3Jose&b] &3Let's all sing like the birdies sing.
+558.0    Text    &cLet's all sing like the birdies sing...
+561.0    Text    &b[&3Jose&b] &3Sweet sweet sweet sweet sweet.
+563.0    Text    &cSweet, sweet sweet, sweet sweet...
+566.0    Text    &b[&3Jose&b] &3Let's all warble like nightingales.
+567.0    Text    &cLet's all warble like nightingales...
+571.0    Text    &b[&3Jose&b] &3Give your throat a treat.
+572.0    Text    &cGive your throat a treat...
+575.0    Text    &b[&3Jose&b] &3Take your time from the birds.
+576.0    Text    &cTake your time from the birds,
+579.0    Text    &cNow you all know the words,
+582.0    Text    &cTweet, tweet tweet, tweet tweet.
+585.0    Text    &b[&3Jose&b] &3Everybody whistle!
+620.0    Text    &bAh ha! Applause, applause, that was good.
+623.0    Text    &1[&9Fritz&1] &9Wunderba, wunderba, give yourselves a hand.
+626.0    Text    &b[&3Jose&b] &3A little applause for the girls, too...
+628.0    Text    &e[&6Pierre&e] &6Ah, that was magnifique!
+631.0    Text    &b[&3Jose&b] &3Si, no one laid an egg but me.
+634.0    Text    &5[&dMichael&5] &dAnd now ladies and gentlemen, we have somethin' really big for you.
+638.0    Text    &1[&9Fritz&1] &9Ja, the birds stand still, und the Tiki Room flies away!
+643.0    Text    &e[&6Pierre&e] &6Mon ami, quit talking while I'm interrupting.
+646.0    Text    &6Ladies and gentlemen, now we present direct from the islands, a musical luau!
+652.0    Text    &8[&cFlowers&8] &cTahuwai la a tahuwai wai la 
+658.0    Text    &cEhu hene la a pili koo lua la 
+663.0    Text    &cPututui lu a ite toe la
+668.0    Text    &cHanu lipo ita paalai 
+674.0    Text    &cAu we ta huala 
+679.0    Text    &cAu we ta huala
+719.0    Text    &cTahuwai la a tahuwai wai la
+722.0    Text    &cEhu hene la a pili koo lua la
+724.0    Text    &cPututui lu a ite toe la
+726.0    Text    &cHanu lipo ita paalai 
+727.0    Text    &cTahuwai la a tahuwai wai la
+730.0    Text    &cEhu hene la a pili koo lua la
+732.0    Text    &cPututui lu a ite toe la
+735.0    Text    &cHanu lipo ita paalai 
+738.0    Text    &cAu we ta, huala huala,
+743.0    Text    &cAu we ta, huala huala, huala huala, huu-aaa-laa...
+891.0    Text    &e[&6Pierre&e] &6Ack! Somebody has stolen my tunder.
+893.0    Text    &b[&3Jose&b] &3I think someone has left the 'chower running.
+896.0    Text    &1[&9Fritz&1] &9Be careful me fine friends,
+898.0    Text    &9The gods have been angered by all the celebratin'.
+902.0    Text    &9But me buckos, every cloud has a silver linin'.
+906.0    Text    &e[&6Pierre&e] &6Monsieur and Madamme, it's time to say adieu,
+909.0    Text    &6But we hope you will always remember the amazing things which happened here,
+913.0    Text    &6In Walt Disney's Enchanted Tiki Room!
+917.0    Text    &cThe birdies had their fling 
+923.0    Text    &cYou heard the flowers sing.
+925.0    Text    &8[&cFlowers&8] &cTahu tahu uhu wai la...
+929.0    Text    &cTikis play the drums 
+935.0    Text    &cHear them do the chant 
+945.0    Text    &cFarewell, and Aloha to youuu...
+954.0    Text    &b[&3Jose&b] &3Ole', ole', applause, let's give the birds a standing ovation,
+959.0    Text    &3Applause, up, up, down there, applause, everybody stand up on your feet, ole'!
+963.0    Text    &5[&dMichael&5] &dAnd now, as long as you're all standin'.
+967.0    Text    &b[&3Jose&b] &3We have a wonderful magic trick for you.
+970.0    Text    &1[&9Fritz&1] &9Ja, a wunderba trick. Everybody... Face the door...
+975.0    Text    &9Und the trick is, we gonna make you all... disappear!
+980.0    Text    &cHeigh Ho, heigh ho, it's out the door you go,
+984.0    Text    &cWe hope you've all enjoyed the show heigh ho, heigh ho,
+989.0    Text    &cHeigh ho heigh ho, heigh ho, keep marching in a row,
+992.0    Text    &cDon't stop to look or read a book heigh ho, heigh ho,
+996.0    Text    &cHeigh ho heigh ho, heigh ho, just lift your feet and go,
+1000.0    Text    &cYou sing this song, you march along, heigh ho, heigh ho,
+1005.0    Text    &cHeigh ho heigh ho, heigh ho, step lively not so slow,
+1008.0    Text    &cCome back again we'll see you then, heigh ho, heigh ho,
+1012.0    Text    &cHeigh ho heigh ho, heigh ho, make room for our next show,
+1016.0    Text    &cThere's boats outside go take a ride heigh ho, heigh ho,
+1020.0    Text    &cHeigh ho heigh ho, heigh ho, it's out the door you go,
+1024.0    Text    &cWe hope you've all enjoyed the show, heigh ho, heigh ho!
+1030.0    Text    &7[&bDacostabro&7] &bHope you all enjoyed the show, take your belongings and exit the theatre 
+
+
+#From left to right
+57.9	Block	152	-333,29,-1512
+384.0	Block	152	-333,29,-1512
+57.9	Block	152	-333,29,-1510
+384.0	Block	152	-333,29,-1510
+57.9	Block	152	-333,29,-1508
+384.0	Block	152	-333,29,-1508
+57.9	Block	152	-333,29,-1506
+384.0	Block	152	-333,29,-1506
+57.9	Block	152	-333,29,-1504
+384.0	Block	152	-333,29,-1504
+57.9	Block	152	-333,29,-1502
+384.0	Block	152	-333,29,-1502
+57.9	Block	152	-333,29,-1500
+384.0	Block	152	-333,29,-1500
+57.9	Block	152	-333,29,-1498
+384.0	Block	152	-333,29,-1498
+57.9	Block	152	-333,29,-1496
+384.0	Block	152	-333,29,-1496
+57.9	Block	152	-348,29,-1484
+384.0	Block	152	-348,29,-1484
+
+
+
+#water!
+891.0	Block	152	-361,49,-1519
+963.0	Block	20	-361,49,-1519
+891.0	Block	152	-352,50,-1509
+963.0	Block	20	-352,50,-1509
+891.0	Block	152	-352,50,-1529
+963.0	Block	20	-352,50,-1529
+891.0	Block	152	-342,50,-1519
+963.0	Block	20	-342,50,-1519
+
+
+#Main birds
+#middle red parrot
+2.1	Block	152	-340,29,-1484
+647.0	Block	152	-340,29,-1484
+891.0	Block	152	-340,29,-1484
+1031.0	Block	152	-340,29,-1484
+
+
+
+#middle Blue+Yellow Parrot
+14.7	Block	152	-342,29,-1484
+647.0	Block	152	-342,29,-1484
+891.0	Block	152	-342,29,-1484
+1031.0	Block	152	-342,29,-1484
+
+
+#Angry Bird Red
+33.2	Block	152	-344,29,-1484
+647.0	Block	152	-344,29,-1484
+891.0	Block	152	-344,29,-1484
+1031.0	Block	152	-344,29,-1484
+
+#Dumb Looking Middle Bird
+23.3	Block	152	-346,29,-1484
+647.0	Block	152	-346,29,-1484
+891.0	Block	152	-346,29,-1484
+1031.0	Block	152	-346,29,-1484
+
+
+
+
+#Tiki's
+750.0	Block	152	-337,29,-1491
+893.0	Block	152	-337,29,-1491
+929.0	Block	152	-337,29,-1491
+955.0	Block	152	-337,29,-1491
+
+
+
+#flowers
+652.0	Block	152	-352,29,-1484
+743.0	Block	152	-352,29,-1484
+925.0	Block	152	-352,29,-1484
+959.0	Block	152	-352,29,-1484
+652.0	Block	152	-354,29,-1484
+743.0	Block	152	-354,29,-1484
+925.0	Block	152	-354,29,-1484
+959.0	Block	152	-354,29,-1484
+652.0	Block	152	-356,29,-1484
+743.0	Block	152	-356,29,-1484
+925.0	Block	152	-356,29,-1484
+959.0	Block	152	-356,29,-1484
+652.0	Block	152	-358,29,-1484
+743.0	Block	152	-358,29,-1484
+925.0	Block	152	-358,29,-1484
+959.0	Block	152	-358,29,-1484
+652.0	Block	152	-360,29,-1484
+743.0	Block	152	-360,29,-1484
+925.0	Block	152	-360,29,-1484
+959.0	Block	152	-360,29,-1484
+652.0	Block	152	-362,29,-1484
+743.0	Block	152	-362,29,-1484
+925.0	Block	152	-362,29,-1484
+959.0	Block	152	-362,29,-1484
+
+#train spinning thing
+404.0    Block    152   -354,35,-1520
+405.0    Block    20    -354,35,-1520
+620.0    Block    152   -362,29,-1521
+621.0    Block    20    -362,29,-1521
+414.0    Block    152   -354,35,-1516
+
+
+
+#Door Opens at end of show
+980.0	Schematic	trdoor5	-348	42	-1522	wdw	false
+1040.0	Schematic	trdoor4	-348	42	-1522	wdw	false
+
+
+#End Tp
+1035.0	Block	152	-339,36,-1494
+
+
+#bird thing that moves
+384.0    Block    152   -349,34,-1519
+384.0    Block    152   -354,35,-1520
+387.0    Block    152   -354,35,-1516
+620.0    Block    152   -354,35,-1521
+624.0    Block    152   -354,35,-1517
+627.0    Block    152   -354,35,-1522
+
+902.0    Block    152   -349,34,-1519
+902.0    Block    152   -354,35,-1520
+905.0    Block    152   -354,35,-1516
+954.0    Block    152   -354,35,-1521
+958.0    Block    152   -354,35,-1517
+964.0    Block    152   -354,35,-1522
+
+

@@ -1,0 +1,9 @@
+Sequence	Laser	Actual
+0.0	Spawn   347,77,3918    384.5,72.5,3911.5
+1.0	Move	Base	346,77,3916	20
+2.0	Move	Base	346,77,3914	20
+3.0	Move	Base	345,77,3911	20
+4.0	Move	Base	346,77,3908	20
+5.0	Move	Base	346,77,3906	20
+6.0 Move    Base    347,77,3904 20
+7.0	Despawn

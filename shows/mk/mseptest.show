@@ -1,0 +1,17 @@
+Show	Location	-90,43,-1440
+Show	TextRadius	150
+Show	Name	Parade
+0	Sequence	Build	mseptest
+0.1	Schematic	msmsep	-92 43 -1518	mk	true
+10.2	Schematic	msmsep	-92 43 -1518	mk	true
+20.3	Schematic	msmsep	-92 43 -1518	mk	true
+30.4	Schematic	msmsep	-92 43 -1518	mk	true
+40.5	Schematic	msmsep	-92 43 -1518	mk	true
+60.6	Schematic	msmsep	-92 43 -1518	mk	true
+70.7	Schematic	msmsep	-92 43 -1518	mk	true
+80.8	Schematic	msmsep	-92 43 -1518	mk	true
+90.9	Schematic	msmsep	-92 43 -1518	mk	true
+101.0	Schematic	msmsep	-92 43 -1518	mk	true
+111.1	Schematic	msmsep	-92 43 -1518	mk	true
+122.2	Schematic	msmsep	-92 43 -1518	mk	true
+132.2	Schematic	msmsep	-92 43 -1518	mk	true

@@ -1,0 +1,81 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	150
+
+Effect	b1	BURST,255;160;117
+
+5	PowerFirework	-105,77,-1631	b1	0,0,0
+5	PowerFirework	-107,76,-1631	b1	0,0,0
+5	PowerFirework	-109,76,-1631	b1	0,0,0
+5	PowerFirework	-111,76,-1631	b1	0,0,0
+5	PowerFirework	-113,77,-1631	b1	0,0,0
+5	PowerFirework	-114,79,-1631	b1	0,0,0
+5	PowerFirework	-114,81,-1631	b1	0,0,0
+5	PowerFirework	-114,83,-1631	b1	0,0,0
+5	PowerFirework	-113,85,-1631	b1	0,0,0
+5	PowerFirework	-111,86,-1631	b1	0,0,0
+5	PowerFirework	-109,86,-1631	b1	0,0,0
+5	PowerFirework	-107,86,-1631	b1	0,0,0
+5	PowerFirework	-105,85,-1631	b1	0,0,0
+5	PowerFirework	-104,83,-1631	b1	0,0,0
+5	PowerFirework	-104,81,-1631	b1	0,0,0
+5	PowerFirework	-104,79,-1631	b1	0,0,0
+
+
+7	PowerFirework	-104,87,-1633	b1	0,0,0
+7	PowerFirework	-105,89,-1633	b1	0,0,0
+7	PowerFirework	-105,91,-1633	b1	0,0,0
+7	PowerFirework	-105,93,-1633	b1	0,0,0
+7	PowerFirework	-104,95,-1633	b1	0,0,0
+7	PowerFirework	-102,96,-1633	b1	0,0,0
+7	PowerFirework	-100,96,-1633	b1	0,0,0
+7	PowerFirework	-98,96,-1633	b1	0,0,0
+7	PowerFirework	-96,95,-1633	b1	0,0,0
+7	PowerFirework	-95,93,-1633	b1	0,0,0
+7	PowerFirework	-95,91,-1633	b1	0,0,0
+7	PowerFirework	-95,89,-1633	b1	0,0,0
+7	PowerFirework	-96,87,-1633	b1	0,0,0
+7	PowerFirework	-98,86,-1633	b1	0,0,0
+7	PowerFirework	-100,86,-1633	b1	0,0,0
+7	PowerFirework	-102,86,-1633	b1	0,0,0
+
+8	PowerFirework	-106,106,-1636	b1	0,0,0
+8	PowerFirework	-108,106,-1636	b1	0,0,0
+8	PowerFirework	-110,106,-1636	b1	0,0,0
+8	PowerFirework	-112,105,-1636	b1	0,0,0
+8	PowerFirework	-113,103,-1636	b1	0,0,0
+8	PowerFirework	-113,101,-1636	b1	0,0,0
+8	PowerFirework	-113,99,-1636	b1	0,0,0
+8	PowerFirework	-112,97,-1636	b1	0,0,0
+8	PowerFirework	-110,96,-1636	b1	0,0,0
+8	PowerFirework	-108,96,-1636	b1	0,0,0
+8	PowerFirework	-106,96,-1636	b1	0,0,0
+8	PowerFirework	-104,97,-1636	b1	0,0,0
+8	PowerFirework	-103,99,-1636	b1	0,0,0
+8	PowerFirework	-103,101,-1636	b1	0,0,0
+8	PowerFirework	-103,103,-1636	b1	0,0,0
+8	PowerFirework	-104,105,-1636	b1	0,0,0
+
+9	PowerFirework	-93,98,-1636	b1	0,0,0
+9	PowerFirework	-95,98,-1636	b1	0,0,0
+9	PowerFirework	-97,98,-1636	b1	0,0,0
+9	PowerFirework	-99,99,-1636	b1	0,0,0
+9	PowerFirework	-100,101,-1636	b1	0,0,0
+9	PowerFirework	-100,103,-1636	b1	0,0,0
+9	PowerFirework	-100,105,-1636	b1	0,0,0
+9	PowerFirework	-99,107,-1636	b1	0,0,0
+9	PowerFirework	-97,108,-1636	b1	0,0,0
+9	PowerFirework	-95,108,-1636	b1	0,0,0
+9	PowerFirework	-93,108,-1636	b1	0,0,0
+9	PowerFirework	-91,107,-1636	b1	0,0,0
+9	PowerFirework	-90,105,-1636	b1	0,0,0
+9	PowerFirework	-90,103,-1636	b1	0,0,0
+9	PowerFirework	-90,101,-1636	b1	0,0,0
+9	PowerFirework	-91,99,-1636	b1	0,0,0
+
+
+
+
+
+
+
+

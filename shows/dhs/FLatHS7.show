@@ -1,0 +1,109 @@
+#Show Started January 2nd, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths7
+5	AudioSync	flaths7	5
+10	AudioSync	flaths7	10
+30	AudioSync	flaths7	30
+60	AudioSync	flaths7	60
+120	AudioSync	flaths7	120
+155	AudioSync	flaths7	155
+#S7 Sorcery
+.9	Text	&f[&dAnna&f] &7We have to tell my sister!
+3	Text	&7Come on! Oh, oops, pardon! So sorry. Can we just get around you there?      Thank you. Whoopsies! Wow, that was a close one. Let’s try to find her, okay? Oh! There she is!
+15.5	Text	&7Elsa!
+17.2	Text	&7I mean Queen..
+20.1	Text	&7Me again...
+22.4	Text	&7Uh, may I present, Prince Hans of the Southern Isles.
+27	Text	&f[&6Hans&f] &7Your majesty,
+29	Text	&f[&dAnna&f] &7We would like...
+30.2	Text	&f[&6Hans&f] &7Your blessing...
+30.9	Text	&f[&dAnna&f] &7Of...
+31.7	Text	&eOur marriage!
+34.4	Text	&f[&bElsa&f] &7Marriage?
+37.2	Text	&7I’m sorry, I’m confused.
+38.5	Text	&f[&dAnna&f] &7Well we haven’t worked out all the details ourselves...
+41	Text	&7We would need a few days to plan the ceremony.
+43.1	Text	&7Of course we’ll have soup, roast and ice cream and then, wait!
+46.1	Text	&7Would we live here?
+47.7	Text	&f[&bElsa&f] &7Here?
+48.1	Text	&f[&6Hans&f] &7Absolutely!
+49	Text	&f[&dAnna&f] &7We could invite all twelve of your brothers to stay with us!
+52.9	Text	&f[&bElsa&f]  &7Wait, wait...
+54.3	Text	&7Slow down.
+55.8	Text	&7No one’s brothers are staying here. 
+57.7	Text	&f[&bElsa&f] &7No one is getting married.
+58.8	Text	&f[&dAnna&f] &7Wait, what?
+60	Text	&f[&bElsa&f] &7You can’t marry a man you just met.
+61.6	Text	&f[&dAnna&f] &7You can if it’s true love.
+63.3	Text	&f[&bElsa&f] &7Anna, what do you know about true love?
+68.4	Text	&f[&dAnna&f] &7More than you.
+70.6	Text	&7All you know is how to shut people out.
+77.7	Text	&f[&bElsa&f] &7I’m sorry, Anna.
+79.6	Text	&7You asked for my blessing, but my answer is no.
+82.2	Text	&7The party is over, close the gates.
+84.1	Text	&f[&dAnna&f] &7What?
+85.4	Text	&7Elsa, no!
+86.1	Text	&f[&bElsa&f] &7Give me my glove back!
+86.9	Text	&f[&dAnna&f] &7Elsa, please, please!
+88.6	Text	&f[&bElsa&f] &7You have to trust that I’m doing what’s best for both of us.
+91.1	Text	&f[&dAnna&f] &7But I can’t live like this anymore!
+92.8	Text	&f[&bElsa&f] &7Then leave!
+96.5	Text	&f[&dAnna&f] &7Leave?
+98.8	Text	&7Why would you-
+101.7	Text	&7What did I ever do to you?
+103.3	Text	&f[&bElsa&f] &7Enough, Anna.
+104.1	Text	&f[&dAnna&f] &7No, why?
+105.7	Text	&7Why do you shut me out?
+107.6	Text	&7Why do you shut the world out?
+109.3	Text	&7What are you so afraid of?!
+110.9	Text	&f[&bElsa&f] &7I said enough!
+114.9	Text	&f[&cDuke of Weselton&f] &7Sorcery!
+116.2	Text	&7I knew there was something dubious going on here.
+119.3	Text	&f[&dAnna&f] &7Elsa!
+120	Text	&f[&cDuke of Weselton&f] &7Monster!
+121.7	Text	&7Monster.
+124	Text	&7It’s snowing?
+125.5	Text	&7It’s snowing in the middle of July!
+127.7	Text	&7The Queen has cursed the land, she’s a monster I tell you!
+132	Text	&f[&bElsa&f] &7Stay away from me.
+133.2	Text	&7All of you, just stay away!
+135.7	Text	&f[&dAnna&f] &7Elsa, wait!
+136.6	Text	&f[&6Hans&f] &7You can’t go after her!
+137.8	Text	&f[&dAnna&f] &7This is all my fault.
+139.3	Text	&7I pushed her so I’m the one that needs to go after her.
+142.5	Text	&7I leave Prince Hans in charge.
+144.7	Text	&f[&6Hans&f] &7Are you sure you can trust her?
+146.9	Text	&7I don’t want you getting hurt.
+148.3	Text	&f[&dAnna&f] &7She’s my sister, she would never hurt me.
+#Schematics
+0	Schematic	FLatHS6.12	439	62	68	newhws	false
+112.2	Schematic	FLatHS7.1	439	62	68	newhws	false
+112.7	Schematic	FLatHS7.2	439	62	68	newhws	false
+113.2	Schematic	FLatHS7.3	439	62	68	newhws	false
+161	Schematic	FLatHS7.4	439	62	68	newhws	false
+164	Schematic	FLatHS7.5	439	62	68	newhws	false
+#Snow
+121.7	Block	152	465,88,68
+165	Block	0	465,88,68
+#Lights
+84.1	Block	89	449,62,88
+84.1	Block	89	449,62,80
+161	Block	123	449,62,88
+161	Block	123	449,62,80
+#BackStageDoorsOpen
+156	Block	76	445,62,104
+156	Block	76	445,62,103
+156	Block	76	444,62,64
+156	Block	76	444,62,63
+#SideDoorsOpen
+161	Block	152	470,65,106
+#ISaidEnough
+112.2	Block	152	470,88,77
+113.2	Block	0	470,88,77
+
+
+
+

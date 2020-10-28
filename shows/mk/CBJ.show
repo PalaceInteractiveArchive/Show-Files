@@ -1,0 +1,503 @@
+Show	Location	-348,42,-1546
+Show	TextRadius	20
+Show	Name	CBJ
+
+#Audio
+0	AudioStart	CBJ
+60	AudioSync	CBJ	60
+
+#Text
+3   Text &6[&c&lBuff&6] Hey, Henry, what’s holdin’ ya up? Let’s get on with the show!
+6   Text &c[&e&lMax&c] Now, Buff, be patient.
+8   Text &e[&6&lMelvyn&e] Yeah, we ain’t goin’ anywhere anyhow. We’re kind of hung up here!
+14  Text &b[&a&lHenry&b] Gimme a little intro there, Gomer.
+26  Text Howdy folks!
+29  Text Welcome to the one and only, original, Country Bear Jamboree!
+33  Text Featuring a bit of Americana, our musical heritage of the past.
+37  Text And right now, I give you a sordid assortment of executioners of music and song.
+43  Text The Five Bear Rugs!
+46  Text Hit it boys!
+60  Text The Bear Band bears will play now,
+62  Text In the good ol’ key of G.
+64  Text Zeke and Zeb and Ted and Fred,
+66  Text And a bear named Tennessee.
+68  Text Zeke’s a-twangin’ on the banjo,
+69  Text And a-tappin’ with his feet.
+71  Text A-bangin’ on a dishpan,
+73  Text With a real ol’ country beat.
+79  Text Zeb’s a-sawin’ on the fiddle
+81  Text With a crooked hickory bow.
+82  Text When the spirit moves that bruin,
+83  Text He can make that fiddle go.
+89  Text Brother Ted is on the corn jug —
+92  Text Now, I mean, that bear can blow!
+94  Text He also plays the washboard
+95  Text With a handle of a hoe.
+101 Text And big Fred’s playin’ mouth harp.
+102 Text He plays it kinda sad.
+105 Text He never took a lesson;
+106 Text He just picked it up from Dad.
+111 Text And li’l ol’ Tennessee Bear
+113 Text Is a-featured on the thing.
+115 Text Sounds just like a guitar,
+117 Text But it’s only got one string.
+122 Text So clap your hands,
+124 Text And stomp your feet,
+125 Text And try to keep right with ’em.
+127 Text One sure thing the Bear Band’s got
+128 Text Is real ol’ country rhythm.
+133 Text Ah ha!
+157 Text &6[&e&lErnest&6] One night, I left the wife at home,
+159 Text &6And I went out with the boys.
+161 Text &6I was acting like a Don Juan,
+163 Text &6And making a lot of noise.
+163.5 Text &c[&b&lZeke&c] Tell ’em, lover boy!
+165 Text &6[&e&lErnest&6] A go-go girl caught my hand,
+166 Text &6I said, “I can’t. I’m a married man.”
+168 Text &6She said “If you ain’t gonna steal,
+170 Text &6You better not prowl.”
+171 Text &d[&bZeb&d] He’s a born loser!
+172 Text &6[&e&lErnest&6] Don’t do-si-do with a go-go.
+174 Text &6If you can’t bite, don’t growl.
+177 Text &6If you can’t bite, don’t growl.
+185 Text &b[&a&lHenry&b] And now, a heart-renderin’ ditty, by our old growler of song — 
+192 Text Liver Lips McGrowl! Sing it, Mac!
+195 Text &c[&eLiver Lips&c] I got a woman, she’s got me.
+199 Text &cWhatever we do, we both agree.
+203 Text &cShe ain’t purty, but I ain’t too.
+206 Text &cThe things we like are the things we do.
+209 Text &cMy woman ain’t purty, but she don’t swear none.
+213 Text &cShe’s kinda heavy — don’t weigh a ton.
+216 Text &cShe’s my woman, through and through.
+220 Text &cI love her only, ’cause my heart is true.
+233 Text &b[&a&lHenry+Wendell&b] Mama, don’t whup little Buford.
+238 Text Mama, don’t pound on his head.
+243 Text Mama, don’t whup little Buford…
+247 Text I think you should shoot him instead.
+252 Text &b[&a&lHenry&b] Bang!
+255 Text Yes, folks, we only have high-class stuff on this show.
+260 Text And now, here’s a special treat out of Tampa — our own Trixie!
+267 Text &d[&5&lTrixie&d] Tears will be the chaser for your wine
+277 Text &dAfter you leave this love of mine.
+285 Text &dBright lights and taverns,
+289 Text &dThat’s where you’ll spend your time.
+293 Text &dAnd tears will the be chaser for your wine.
+311 Text &6[&4&lTerrance&6] How long is forever?
+315 Text &6How soon is now or never?
+319 Text &6How long will these heartaches linger on?
+323 Text &6And how long will my baby be gone?
+339 Text &b[&a&lHenry&b] And now, here they come,
+342 Text those little Sun Bonnets from the sunshine state,
+344 Text Bunny, Bubbles, and Buelah!
+351 Text &5[&d&lSun Bonnets&5] Every time I meet a guy who gets me shook,
+356 Text &5All I ever get from him’s a dirty look.
+361 Text &5It’s the same way everywhere, I’ve found.
+367 Text &5All the guys that turn me on turn me down.
+372 Text &5All the guys that turn me on turn me down.
+378 Text &5Nothing works for me that I’ve found.
+383 Text &5It’s the same way everywhere, I see.
+389 Text &5Nothing ever seems to work for me.
+392 Text &5Doodle doodle doodle do,
+393 Text &5Bum bum!
+395 Text &b[&a&lHenry&b] My, my. Well, here she is
+398 Text that delightful, delicate, dedicated, and dimpled darling of the Dakotas.
+405 Text Last of the big time swingers:
+408 Text Swingin’ Teddi Barra!
+410 Text &a[&5&lTeddi-Berra&a] Well, there he goes.
+412 Text &aHe hardly knows
+414 Text &aThe heart he’s breaking.
+416 Text &c[&e&lMax&c] Lovely, lovely.
+417 Text &a[&5&lTeddi-Berra&a] I talked to him,
+419 Text &aBut I don’t think
+421 Text &aHe understood.
+423 Text &6[&c&lBuff&6] Aw, sing it gal!
+426 Text &a[&5&lTeddi-Berra&a] Oh, just forget
+428 Text &aAbout the plans
+430 Text &aThat we were makin’.
+433 Text &b[&a&lHenry&b] My, my.
+435 Text &a[&5&lTeddi-Berra&a] Heart, we did all that we could.
+445 Text &aY’all come up and see me some time, ya hear?
+450 Text &b[&a&lHenry&b] Yeah! Soon as I find a ladder, I’ll be right up! Mm-hmm!
+477 Text &4[&c&lBig Al&4] There was blood on the saddle,
+486 Text &4And blood all around,
+494 Text &4And a great big puddle
+500 Text &4Of blood on the ground.
+505 Text &4Heh-heh-heh.
+513 Text &b[&a&lHenry&b] Born on a mountain top in Tennessee —
+516 Text Greenest state in the land of the free.
+519 Text Raised in the woods, so’s he knew every tree.
+522 Text Tamed him a “bar” when he was only three.
+525 Text &b[&a&lHenry+Sammy&b] Davy, Davy Crockett.
+528 Text King of the wild frontier. 
+531 Text Off in the woods, he’s a-marchin’ along.
+534 Text Making up yarns, and a-singing his song.
+537 Text Itchin’ for fighting, and righting a wrong…
+539 Text &4[&c&lBig Al&4] Blood on the saddle...
+540 Text &b[&a&lHenry&b] Hey, wait a minute! Hold the phone down there, you’ve had your turn now!
+543 Text &4[&c&lBig Al&4] And blood all around…
+543 Text &a[&b&lSammy&a] Henry, Henry! We need help!
+546 Text &b[&a&lHenry&b] Right, Sammy! Hey, gang — hit it!
+553 Text &b[&a&lBears&b] High on the mountain,
+554 Text Tell me what do you see?
+556 Text Bear tracks, bear tracks,
+557 Text Looking back at me.
+559 Text Better get your rifles,
+561 Text Before it’s too late.
+563 Text Bear’s got a little big,
+564 Text And he’s headed through the gate.
+566 Text He’s big around the middle,
+567 Text And he’s broad across the rump.
+569 Text Running ninety miles an hour,
+570 Text Making 30 feet a jump.
+572 Text He’s never been cornered,
+574 Text And he’s never been treed.
+576 Text Some folks say he looks a lot like me.
+584 Text &b[&a&lHenry&b] Well, as you can see, we’re just one big, happy family.
+591 Text Well folks, this concludes our show. So thanks for bearing with us to the bear end. What do you say Sammy?
+598 Text &a[&b&lSammy&a] I say, you all come back, ya hear?
+605 Text &b[&a&lEveryone&b] We hope that you’ll be coming back again.
+609 Text That you’ll drop in and see us now and then.
+612 Text We’ve done our very best to please
+614 Text With just the “bear” necessities.
+615 Text We hope that you’ll be coming back again.
+619 Text Come again.
+620 Text Come again.
+622 Text &e[&6&lMelvyn&e] The welcome mat is always out, ‘Cause seeing you is fine.
+625 Text &b[&a&lBuff, Melvyn, and Max&b] We hope that you’ll be coming back again.
+628 Text &c[&e&lMax&c] Don’t forget to gather your belongings…
+630 Text &e[&6&lMelvyn&e] And your husband too!
+633 Text &c[&e&lMax&c] It’s been good to have you.
+636 Text &6[&c&lBuff&6] So long folks!
+642 Text &ePlease exit the theater to your right and enjoy the rest of your day here at &dThe Palace Network!
+
+#Schematic
+0	Schematic	cbjb	-353	47	-1546	wdw	true
+1   Schematic   cbjf2   -353    40  -1543   wdw true
+0   Schematic cbjLight  -353  40  -1543   wdw true
+1	Schematic	cbjb	-353	47	-1546	wdw	true
+46  Schematic   cbj1    -347    44  -1550   wdw true
+185	Schematic	cbjb	-353	47	-1546	wdw	true
+185 Schematic   cbjf2   -353    40  -1543   wdw true
+229.9 Schematic   cbjbarrier -353  47  -1542  wdw true 
+230 Schematic   cbj2    -346    42  -1548   wdw true
+230.1 Schematic   cbjr    -352    47  -1546   wdw true
+230.1 Schematic cbjfarm  -356   41  -1540   wdw  true 
+262 Schematic   cbjfixed -381   57  -1535   wdw  true
+262.1 Schematic	cbjdb	-354	40	-1544	wdw	true
+262.1 Schematic	cbjdb	-354	40	-1544	wdw	true
+262 Schematic   cbjrfinal  -369  49  -1535  wdw true
+262.1 Schematic cbjb    -353	47	-1546	wdw	true
+267 Schematic   cbjfloor  -353  40  -1544   wdw true
+342 Schematic   cbj3    -349   46   -1545   wdw true 
+342.1 Schematic cbjLight  -353  40  -1543   wdw true
+395 Schematic   cbjb   -353	47	-1546	wdw	true 
+398 Schematic   cbjfloor  -353  40  -1544   wdw true
+549 Schematic  cbj1    -347    44  -1550   wdw true
+581 Schematic  cbjb	-353	47	-1546	wdw	true
+582 Schematic   cbjf2   -353    40  -1543   wdw true
+582 Schematic cbjend  -353    40  -1543   wdw true
+582 Schematic cbjLight  -353  40  -1543   wdw true
+##Door Open
+#1
+642	Block	0	-358,43,-1549
+642	Block	0	-358,42,-1549
+642	Block	0	-358,41,-1549
+642	Block	126:0	-358,40,-1549
+642	Block	0	-357,43,-1550
+642	Block	0	-357,42,-1550
+642	Block	0	-357,41,-1550
+642	Block	126:0	-357,40,-1550
+#2
+642	Block	0	-354,43,-1553
+642	Block	0	-354,42,-1553
+642	Block	0	-354,41,-1553
+642	Block	0	-353,43,-1554
+642	Block	0	-353,42,-1554
+642	Block	126:0	-353,41,-1554
+642	Block	0	-352,43,-1555
+642	Block	0	-352,42,-1555
+642	Block	126:0	-352,41,-1555
+##Door Close
+#1
+652	Block	251:14	-358,43,-1549
+652	Block	251:14	-358,42,-1549
+652	Block	251:14	-358,41,-1549
+652	Block	251:14	-358,40,-1549
+652	Block	251:14	-357,43,-1550
+652	Block	251:14	-357,42,-1550
+652	Block	251:14	-357,41,-1550
+652	Block	251:14	-357,40,-1550
+#2
+652	Block	251:14	-354,43,-1553
+652	Block	251:14	-354,42,-1553
+652	Block	251:14	-354,41,-1553
+652	Block	251:14	-353,43,-1554
+652	Block	251:14	-353,42,-1554
+652	Block	251:14	-353,41,-1554
+652	Block	251:14	-352,43,-1555
+652	Block	251:14	-352,42,-1555
+652	Block	251:14	-352,41,-1555
+652	Block	166	-352,43,-1554
+#TP Out
+651	Block	152	-344,35,-1545
+
+### Blocks ###
+0   Block   167	-353,49,-1542
+3   Block   152 -361,29,-1545
+3   Block   152 -359,29,-1545
+3   Block   152 -357,29,-1545
+6   Block   152 -364,29,-1545
+26	Block	152	-366,29,-1546
+26  Block   152 -333,29,-1538
+26  Block     0 -358,45,-1544
+26  Block     0 -358,44,-1544
+26  Block     0 -358,43,-1544
+46  Block    89 -356,46,-1539
+46  Block    20 -355,40,-1540
+46  Block   171:12 	-355,41,-1540
+46  Block   152 -365,29,-1564
+46  Block   152 -363,29,-1564
+46  Block   152 -360,29,-1561
+46  Block   152 -357,29,-1563
+46  Block   152 -353,29,-1563
+46  Block     0 -354,41,-1539
+47  Block   152 -366,29,-1556
+133  Block   152 -365,29,-1564
+133  Block   152 -363,29,-1564
+133  Block   152 -360,29,-1561
+133  Block   152 -357,29,-1563
+133  Block   152 -353,29,-1563
+135  Block   152 -365,29,-1564
+135  Block   152 -363,29,-1564
+135  Block   152 -360,29,-1561
+135  Block   152 -357,29,-1563
+135  Block   152 -353,29,-1563
+135  Block   152 -337,29,-1543
+135  Block   251:14	-358,45,-1544
+135  Block   251:14 -358,44,-1544
+135  Block   252:14	-358,43,-1544
+135  Block     0 -348,44,-1537
+135  Block     0 -348,43,-1537
+135  Block     0 -348,42,-1537
+135  Block   152 -366,29,-1554
+135  Block   152 -333,29,-1542
+184  Block   251:14 -348,44,-1537
+184  Block   251:14 -348,43,-1537
+184  Block   252:14 -348,42,-1537
+184  Block   152 -339,29,-1543
+184  Block   152 -365,29,-1564
+184  Block   152 -363,29,-1564
+184  Block   152 -360,29,-1561
+184  Block   152 -357,29,-1563
+184  Block   152 -353,29,-1563
+185  Block     0 -354,41,-1537
+185  Block     0 -355,41,-1537
+185  Block     0 -355,41,-1538
+185  Block     0 -365,41,-1538
+185  Block     0 -356,41,-1539
+185  Block     0 -356,41,-1538
+185  Block     0 -357,41,-1539
+185  Block     0 -357,41,-1540
+185  Block     0 -358,41,-1540
+185  Block     0 -358,41,-1541
+185  Block   152 -351,29,-1561
+185  Block   152 -333,29,-1540
+185  Block   152 -366,29,-1554
+185  Block     0 -351,45,-1538
+185  Block     0 -351,44,-1538
+185  Block     0 -351,43,-1538
+185  Block   152 -359,29,-1549
+185  Block   152 -359,29,-1556
+189  Block   152 -341,29,-1543
+195  Block     0 -358,45,-1544
+195  Block     0 -358,44,-1544
+195  Block     0 -358,43,-1544
+195  Block   152 -333,29,-1538
+195  Block   152 -366,29,-1558
+214  Block   351:14 -358,45,-1544
+214  Block   351:14 -358,44,-1544
+214  Block   352:14 -358,43,-1544
+226  Block   152 -337,29,-1543
+222  Block   152 -366,29,-1558
+227  Block   251:14	-358,45,-1544
+227  Block   251:14	-358,44,-1544
+227  Block   252:14	-358,43,-1544
+229  Block   152 -361,29,-1555
+230  Block     0 -357,44,-1538
+230  Block     0 -358,45,-1538
+230  Block     0 -357,45,-1537
+230  Block     0 -356,45,-1536
+267  Block   152 -357,29,-1555
+267  Block   152 -333,29,-1536
+267  Block     0 -359,44,-1547
+267  Block     0 -359,43,-1547
+267  Block     0 -359,42,-1547
+267  Block     0 -356,46,-1539
+267  Block   152 -339,29,-1543
+267  Block   35:15 -354,42,-1538
+267.1 Block    0 -354,42,-1538
+267  Block  251:14 -351,45,-1538
+267  Block   152 -366,29,-1551
+267  Block  251:14 -351,44,-1538
+267  Block  252:14 -351,43,-1538
+302  Block  251:14 -359,44,-1547
+302  Block  251:14 -359,43,-1547
+302  Block  252:14 -359,42,-1547
+302  Block   152 -357,29,-1555
+302  Block   152 -335,29,-1543
+302  Block   152 -354,29,-1555
+304  Block   152 -333,29,-1540
+304  Block   152 -355,29,-1545
+304  Block     0  -351,45,-1538
+304  Block     0  -351,44,-1538
+304  Block     0  -351,43,-1538
+332  Block  251:14 -351,45,-1538
+332  Block  251:14 -351,44,-1538
+332  Block  252:14 -351,43,-1538
+334  Block   152 -354,29,-1555
+334  Block   152 -339,29,-1543
+334  Block   152 -337,29,-1543
+338  Block   152 -350,29,-1551
+335  Block   152 -347,29,-1545
+337  Block   152 -333,29,-1538
+338  Block  0 -358,45,-1544
+338  Block  0 -358,44,-1544
+338  Block  0 -358,43,-1544
+342  Block  152 -350,29,-1556
+336  Block  20  -355,40,-1540
+337  Block  20  -355,40,-1540
+351  Block  152 -364,29,-1554
+339  Block  152 -347,29,-1545
+351  Block   251:14	-358,45,-1544
+351  Block   251:14 -358,44,-1544
+351  Block   252:14	-358,43,-1544
+351  Block  152 -337,29,-1543
+390  Block  152 -350,34,-1542
+390  Block  0 -353,49,-1542
+398  Block  152 -350,35,-1544
+398  Block  152 -356,29,-1550
+398  Block   89 -353,50,-1542
+397  Block  152 -338,29,-1554
+397  Block  18:3 -353,48,-1541
+397  Block  18:3 -352,48,-1542
+397  Block  18:3 -353,48,-1543
+397  Block  18:3 -354,48,-1542
+394  Block     0  -351,45,-1538
+394  Block     0  -351,44,-1538
+394  Block     0  -351,43,-1538
+392  Block  152 -347,29,-1547
+394  Block  152 -333,29,-1540
+394  Block  152 -359,29,-1549
+450  Block  152 -350,35,-1546
+450  Block  152 -338,29,-1552
+447  Block     0 -353,50,-1542
+455  Block  251:14 -351,45,-1538
+455  Block  251:14 -351,44,-1538
+455  Block  252:14 -351,43,-1538
+455  Block  152 -339,29,-1543
+460  Block  167	-353,49,-1542
+460  Block  152 -345,29,-1545
+460  Block     0 -353,48,-1541
+460  Block     0 -352,48,-1542
+460  Block     0 -353,48,-1543
+460  Block     0 -354,48,-1542
+460  Block     0 -351,43,-1537
+465  Block  152 -352,29,-1551
+465  Block  152 -333,29,-1542
+465  Block     0 -348,44,-1537
+465  Block     0 -348,43,-1537
+465  Block     0 -348,42,-1537
+507  Block  152 -352,29,-1551
+507  Block  152 -341,29,-1543
+507  Block  251:14 -348,44,-1537
+507  Block  251:14 -348,43,-1537
+507  Block  252:14 -348,42,-1537
+509  Block     0  -359,44,-1547
+509  Block     0  -359,43,-1547
+509  Block     0  -359,42,-1547
+509  Block  152 -333,29,-1536
+509  Block  152 -359,29,-1551
+509  Block  152 -351,29,-1548
+537  Block     0 -348,44,-1537
+537  Block     0 -348,43,-1537
+537  Block     0 -348,42,-1537
+537  Block  152 -333,29,-1542
+537  Block  152 -344,29,-1557
+546  Block  18:3 -353,48,-1541
+546  Block  18:3 -352,48,-1542
+546  Block  18:3 -353,48,-1543
+546  Block  18:3 -354,48,-1542
+549  Block   89 -353,50,-1542
+546  Block  152 -338,29,-1554
+549  Block  152 -346,29,-1563
+549  Block  152 -365,29,-1564 
+549  Block  152 -363,29,-1564  
+549  Block  152 -360,29,-1561  
+549  Block  152 -357,29,-1563 
+549  Block  152 -353,29,-1563 
+549  Block  152 -346,29,-1554
+550  Block  152 -364,29,-1545
+549  Block  152 -346,29,-1557
+549  Block    0 -354,41,-1539
+549  Block  152 -348,29,-1559
+549  Block    0 -351,45,-1538  
+549  Block    0 -351,44,-1538  
+549  Block    0 -351,43,-1538  
+549  Block    0 -358,45,-1544  
+549  Block    0 -358,44,-1544  
+549  Block    0 -358,43,-1544  
+549  Block    89 -356,46,-1539
+549  Block    9 -353,43,-1538
+549  Block  152 -333,29,-1540
+549  Block  152 -333,29,-1538
+549  Block  152 -356,29,-1552
+547  Block  152 -350,34,-1542
+549  Block  152 -350,35,-1544
+580  Block  152 -350,35,-1546
+581  Block  152 -365,29,-1564 
+581  Block  152 -363,29,-1564
+581  Block  152 -360,29,-1561
+581  Block  152 -357,29,-1563
+581  Block  152 -353,29,-1563
+581  Block  152 -346,29,-1554
+581  Block  152 -346,29,-1557
+581  Block  152 -344,29,-1557
+581  Block  251:14 -351,45,-1538
+581  Block  251:14 -351,44,-1538
+581  Block  252:14 -351,43,-1538  
+581  Block  251:14 -358,45,-1544
+581  Block  251:14 -358,44,-1544
+581  Block  252:14 -358,43,-1544
+581  Block  251:14 -348,44,-1537
+581  Block  251:14 -348,43,-1537
+581  Block  252:14 -348,42,-1537
+581  Block    0 -356,46,-1539
+581  Block  152 -339,29,-1543
+581  Block  152 -337,29,-1543
+581  Block  152 -341,29,-1543
+581  Block  152 -348,37,-1548
+582  Block  152 -356,38,-1539
+581  Block  152 -338,29,-1552
+585  Block    0 -353,48,-1541
+582  Block    0 -353,50,-1542
+585  Block    0 -352,48,-1542
+585  Block    0 -353,48,-1543
+585  Block    0 -354,48,-1542
+585  Block  152 -345,29,-1545
+585  Block  152 -344,29,-1549
+622  Block   152 -361,29,-1545
+622  Block   152 -359,29,-1545
+622  Block   152 -357,29,-1545
+633  Block  152 -335,29,-1543
+633  Block  251:14 -359,44,-1547
+633  Block  251:14 -359,43,-1547
+633  Block  252:14 -359,42,-1547
+634  Block  152 -335,29,-1545
+642  Block  152 -355,29,-1545
+634  Block  152 -335,29,-1543
+634  Block  152 -355,29,-1543
+634  Block    0 -360,42,-1547
+640  Block  152 -359,35,-1542
+640  Block   89 -361,40,-1555
+640  Block   89 -340,46,-1541
+640  Block   89 -343,45,-1539

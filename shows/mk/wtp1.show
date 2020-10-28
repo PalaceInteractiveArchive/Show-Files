@@ -1,0 +1,198 @@
+﻿Show	Location	6,46,-1687
+Show	TextRadius	30
+#ArmorStandsDefine
+ArmorStand	wtppiglet1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjI1NWMzYmYzNWVkYzVhZTE0YjRkMzg0ODMxNWYzODhmZmJmOWM5ZmRlMjFiYjc5OTk5M2E4MzJmZmM2In19fQ==";299(243,139,170);300(243,139,170);301(243,139,170);0
+ArmorStand	wtpeeyore1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ5ZWU2MWU5ZjA2NjI4ZGY5NzRmN2NjMmM4YjRiY2RiMzEwNDFhYzQ0NTQ1MjdkMTRiOTJiZjg5NjRmMSJ9fX0=";299(117,123,184);0;0;0
+ArmorStand	wtpeeyore2	false	0;299(117,123,184);0;0;0
+ArmorStand	wtppooh1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIzYmJjMzQ1NGExNzk2MzdkNWJhNGY3NGViMmU4ZmM4NWZjZWI3NzcxYzFlNWVlMjI1MzIyNzA3OTAxOSJ9fX0=";299(176,46,38);300(254,216,61);301(254,216,61);0
+ArmorStand	wtproo1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4ZDNmMmE0ZjQxODUyN2QyMjhkNDMxMmRiZTlkYThkOTIxZjg1NDk2NDRlMjIzYmE4MmRlYjFiOWVhZTc1MyJ9fX0=";299(58,179,218);300;301;0
+ArmorStand	wtpkanga1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4ZDNmMmE0ZjQxODUyN2QyMjhkNDMxMmRiZTlkYThkOTIxZjg1NDk2NDRlMjIzYmE4MmRlYjFiOWVhZTc1MyJ9fX0=";299;300;301;0
+ArmorStand	wtprabbit1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E5NjkzZWNlZTJmNTc0NWQyZTllNTMxN2IzZDdiZWFkMmMzMzZkMTYzMDA2MTA1Nzg2ZGFjNDUwMzc2ZTFhNSJ9fX0=";299(254,244,183);300(254,244,183);301(254,244,183);0
+ArmorStand	wtpblow1	false	6:2;0;0;0;0
+ArmorStand	wtpblow2	true	6:2;0;0;0;0
+ArmorStand	wtpblow3	false	6:2;0;0;0;0
+ArmorStand	wtpblow4	true	6:2;0;0;0;0
+#Spawn
+0	ArmorStand	wtpblow1	Spawn	13.5,49,-1687.5,0
+0	ArmorStand	wtpblow2	Spawn	13.5,49,-1687.5,0
+0	ArmorStand	wtpblow3	Spawn	13.5,49,-1687.5,0
+0	ArmorStand	wtpblow4	Spawn	13.5,49,-1687.5,0
+0	ArmorStand	wtppiglet1	Spawn	9.431,47.187,-1687.444,-180
+0	ArmorStand	wtpeeyore1	Spawn	2.438,46.05625,-1688.500,0
+0	ArmorStand	wtpeeyore2	Spawn	2.469,46.11875,-1689.400,0
+0	ArmorStand	wtppooh1	Spawn	2.375,47.95625,-1687.125,-120
+0	ArmorStand	wtproo1	Spawn	7.181,48.05625,-1680.506,116,0
+0	ArmorStand	wtpkanga1	Spawn	6.063,46.96875,-1681.156,-60
+0	ArmorStand	wtprabbit1	Spawn	4.406,46.56250,-1681.250,-146
+2	Block	152	9,41,-1690
+#BlowMove
+2	ArmorStand	wtpblow1	Move	7.5,45,-1686.5	1.5
+2.5	ArmorStand	wtpblow2	Move	8.5,45,-1686.5	2
+2.3	ArmorStand	wtpblow3	Move	9.5,45,-1686.5	1.5
+2.9	ArmorStand	wtpblow4	Move	7.5,45,-1686.5	2
+#wtpblow1
+3.7	ArmorStand	wtpblow1	Move	13.5,44,-1687.5	0.5
+4.4	ArmorStand	wtpblow1	Move	13.5,49,-1687.5	0.5
+5.1	ArmorStand	wtpblow1	Move	7.5,45,-1686.5	1.5
+#wtpblow2
+4.6	ArmorStand	wtpblow2	Move	13.5,44,-1687.5	0.5
+5.2	ArmorStand	wtpblow2	Move	13.5,49,-1687.5	0.5
+5.9	ArmorStand	wtpblow2	Move	8.5,45,-1686.5	2
+#wtpblow3
+3.9	ArmorStand	wtpblow3	Move	13.5,44,-1687.5	0.5
+4.5	ArmorStand	wtpblow3	Move	13.5,49,-1687.5	0.5
+5.3	ArmorStand	wtpblow3	Move	9.5,45,-1686.5	1.5
+#wtpblow4
+5	ArmorStand	wtpblow4	Move	13.5,44,-1687.5	0.5
+5.6	ArmorStand	wtpblow4	Move	13.5,49,-1687.5	0.5
+6.3	ArmorStand	wtpblow4	Move	7.5,45,-1686.5	2
+#wtpblow1
+4.7	ArmorStand	wtpblow1	Move	13.5,44,-1687.5	0.5
+5.4	ArmorStand	wtpblow1	Move	13.5,49,-1687.5	0.5
+6.1	ArmorStand	wtpblow1	Move	7.5,45,-1686.5	1.5
+#wtpblow2
+5.6	ArmorStand	wtpblow2	Move	13.5,44,-1687.5	0.5
+6.2	ArmorStand	wtpblow2	Move	13.5,49,-1687.5	0.5
+6.9	ArmorStand	wtpblow2	Move	8.5,45,-1686.5	2
+#wtpblow3
+4.9	ArmorStand	wtpblow3	Move	13.5,44,-1687.5	0.5
+5.5	ArmorStand	wtpblow3	Move	13.5,49,-1687.5	0.5
+6.3	ArmorStand	wtpblow3	Move	9.5,45,-1686.5	1.5
+#wtpblow4
+6	ArmorStand	wtpblow4	Move	13.5,44,-1687.5	0.5
+6.6	ArmorStand	wtpblow4	Move	13.5,49,-1687.5	0.5
+7.3	ArmorStand	wtpblow4	Move	7.5,45,-1686.5	2
+#StartPosPig
+0.1	ArmorStand	wtppiglet1	Position	LEG_LEFT	50,0,-1	1
+0.1	ArmorStand	wtppiglet1	Position	LEG_RIGHT	48,0,1	1
+0.1	ArmorStand	wtppiglet1	Position	ARM_LEFT	-85,24,-10	1
+0.1	ArmorStand	wtppiglet1	Position	ARM_RIGHT	-84,-33,7	1
+0.1	ArmorStand	wtppiglet1	Position	BODY	9,-1.79,0	1
+#StartPoswtpeeyore1
+0.1	ArmorStand	wtpeeyore1	Position	LEG_LEFT	-1,0,-1	1
+0.1	ArmorStand	wtpeeyore1	Position	LEG_RIGHT	1,0,1	1
+0.1	ArmorStand	wtpeeyore1	Position	ARM_LEFT	-10,0,-10	1
+0.1	ArmorStand	wtpeeyore1	Position	ARM_RIGHT	-15,0,10	1
+0.1	ArmorStand	wtpeeyore1	Position	BODY	90,0,0	1
+0.1	ArmorStand	wtpeeyore1	Position	HEAD	-21,-39,0	1
+#StartPoswtpeeyore2
+0.1	ArmorStand	wtpeeyore2	Position	LEG_LEFT	5,0,-1	1
+0.1	ArmorStand	wtpeeyore2	Position	LEG_RIGHT	6,0,3	1
+0.1	ArmorStand	wtpeeyore2	Position	ARM_LEFT	-1,0,-1	1
+0.1	ArmorStand	wtpeeyore2	Position	ARM_RIGHT	1,0,1	1
+0.1	ArmorStand	wtpeeyore2	Position	BODY	-93,0,180	1
+0.1	ArmorStand	wtpeeyore2	Position	HEAD	90,0,0	1
+#StartPosPooh
+0.1	ArmorStand	wtppooh1	Position	LEG_LEFT	-118,0,23	1
+0.1	ArmorStand	wtppooh1	Position	LEG_RIGHT	-101,0,-24	1
+0.1	ArmorStand	wtppooh1	Position	ARM_LEFT	233,-42,-7	1
+0.1	ArmorStand	wtppooh1	Position	ARM_RIGHT	18,87,127	1
+0.1	ArmorStand	wtppooh1	Position	BODY	-12,11.45,-6	1
+0.1	ArmorStand	wtppooh1	Position	HEAD	0,6.15,15	1
+#StartPosRoo
+0.1	ArmorStand	wtproo1	Position	LEG_LEFT	68,0,-1	1
+0.1	ArmorStand	wtproo1	Position	LEG_RIGHT	69,0,0	1
+0.1	ArmorStand	wtproo1	Position	ARM_LEFT	-49,0,-10	1
+0.1	ArmorStand	wtproo1	Position	ARM_RIGHT	-51,0,10	1
+0.1	ArmorStand	wtproo1	Position	BODY	6,0.01,0	1
+0.1	ArmorStand	wtproo1	Position	HEAD	18,1.02,0	1
+#StartPosKanga
+0.1	ArmorStand	wtpkanga1	Position	LEG_LEFT	-31,0,-1	1
+0.1	ArmorStand	wtpkanga1	Position	LEG_RIGHT	-29,0,1	1
+0.1	ArmorStand	wtpkanga1	Position	ARM_LEFT	-100,18,-10	1
+0.1	ArmorStand	wtpkanga1	Position	ARM_RIGHT	-105,-9,7	1
+0.1	ArmorStand	wtpkanga1	Position	BODY	0,-1.68,0	1
+0.1	ArmorStand	wtpkanga1	Position	HEAD	0,1.02,0	1
+#StartPosRabbit
+0.1	ArmorStand	wtprabbit1	Position	LEG_LEFT	-82,-12,-1	1
+0.1	ArmorStand	wtprabbit1	Position	LEG_RIGHT	-90,6,0	1
+0.1	ArmorStand	wtprabbit1	Position	ARM_LEFT	-61,-6,-28	1
+0.1	ArmorStand	wtprabbit1	Position	ARM_RIGHT	-12,-36,39	1
+0.1	ArmorStand	wtprabbit1	Position	BODY	0,-4.3,0	1
+0.1	ArmorStand	wtprabbit1	Position	HEAD	0,4.33,9	1
+#PigletMove
+2.1	Block	152	10,41,-1687
+2	ArmorStand	wtppiglet1	Move	9.3,47.187,-1687.567	0.5
+2.6	ArmorStand	wtppiglet1	Move	9.5,47.187,-1687.775	0.5
+3.2	ArmorStand	wtppiglet1	Move	9.8,47.187,-1687.661	0.5
+3.8	ArmorStand	wtppiglet1	Move	9.531,47.187,-1687.344	0.5
+4.4	ArmorStand	wtppiglet1	Move	9.3,47.187,-1687.567	0.5
+5	ArmorStand	wtppiglet1	Move	9.5,47.187,-1687.775	0.5
+5.6	ArmorStand	wtppiglet1	Move	9.8,47.187,-1687.661	0.5
+6.2	ArmorStand	wtppiglet1	Move	9.531,47.187,-1687.344	0.5
+6.8	ArmorStand	wtppiglet1	Move	9.3,47.187,-1687.567	0.5
+7.4	ArmorStand	wtppiglet1	Move	9.5,47.187,-1687.775	0.5
+8	ArmorStand	wtppiglet1	Move	9.8,47.187,-1687.661	0.5
+8.6	ArmorStand	wtppiglet1	Move	9.531,47.187,-1687.344	0.5
+9.2	ArmorStand	wtppiglet1	Move	9.3,47.187,-1687.567	0.5
+9.8	ArmorStand	wtppiglet1	Move	9.5,47.187,-1687.775	0.5
+10.4	ArmorStand	wtppiglet1	Move	9.8,47.187,-1687.661	0.5
+11	ArmorStand	wtppiglet1	Move	9.531,47.187,-1687.344	0.5
+11.6	ArmorStand	wtppiglet1	Move	9.3,47.187,-1687.567	0.5
+12.2	ArmorStand	wtppiglet1	Move	9.5,47.187,-1687.775	0.5
+12.8	ArmorStand	wtppiglet1	Move	9.8,47.187,-1687.661	0.5
+13.4	ArmorStand	wtppiglet1	Move	9.531,47.187,-1687.344	0.5
+14	ArmorStand	wtppiglet1	Move	9.3,47.187,-1687.567	0.5
+14.6	ArmorStand	wtppiglet1	Move	9.5,47.187,-1687.775	0.5
+15.2	ArmorStand	wtppiglet1	Move	9.8,47.187,-1687.661	0.5
+15.8	ArmorStand	wtppiglet1	Move	9.531,47.187,-1687.344	0.5
+16.2	Block	0	10,41,-1687
+#PoohMove
+8	ArmorStand	wtppooh1	Move	2.375,47.50625,-1687.125	2
+9.5	ArmorStand	wtppooh1	Move	2.375,47.95625,-1687.125	2
+11	ArmorStand	wtppooh1	Move	2.375,47.50625,-1687.125	2
+12.5	ArmorStand	wtppooh1	Move	2.375,47.95625,-1687.125	2
+14	ArmorStand	wtppooh1	Move	2.375,47.50625,-1687.125	2
+15.5	ArmorStand	wtppooh1	Move	2.375,47.95625,-1687.125	2
+#RabbitMove
+10	ArmorStand	wtprabbit1	Position	HEAD	-10,4,9	3
+10.7	ArmorStand	wtprabbit1	Position	HEAD	-10,20,10	3
+11.4	ArmorStand	wtprabbit1	Position	HEAD	0,10,-10	3
+12.1	ArmorStand	wtprabbit1	Position	HEAD	-10,-20,10	3
+12.8	ArmorStand	wtprabbit1	Position	HEAD	0,5,20	3
+13.5	ArmorStand	wtprabbit1	Position	HEAD	10,3,5	3
+14.2	ArmorStand	wtprabbit1	Position	HEAD	-10,4,9	3
+14.9	ArmorStand	wtprabbit1	Position	HEAD	-10,20,10	3
+15.6	ArmorStand	wtprabbit1	Position	HEAD	0,10,-10	3
+16.3	ArmorStand	wtprabbit1	Position	HEAD	-10,-20,10	3
+17	ArmorStand	wtprabbit1	Position	HEAD	0,5,20	3
+17.7	ArmorStand	wtprabbit1	Position	HEAD	10,3,5	3
+18.4	ArmorStand	wtprabbit1	Position	HEAD	0,4.33,9	3
+#RooMove
+14	ArmorStand	wtproo1	Position	ARM_RIGHT	-31,0,10	3
+14	ArmorStand	wtproo1	Position	ARM_LEFT	-29,0,-10	3
+13.5	ArmorStand	wtproo1	Move	7.181,48.25625,-1680.506	1
+15.1	ArmorStand	wtproo1	Position	ARM_RIGHT	-51,0,10	2
+15.1	ArmorStand	wtproo1	Position	ARM_LEFT	-49,0,-10	2
+14.7	ArmorStand	wtproo1	Move	7.181,48.05625,-1680.506	1
+16.2	ArmorStand	wtproo1	Position	ARM_RIGHT	-31,0,10	3
+16.2	ArmorStand	wtproo1	Position	ARM_LEFT	-29,0,-10	3
+15.8	ArmorStand	wtproo1	Move	7.181,48.25625,-1680.506	1
+17.3	ArmorStand	wtproo1	Position	ARM_RIGHT	-51,0,10	2
+17.3	ArmorStand	wtproo1	Position	ARM_LEFT	-49,0,-10	2
+16.9	ArmorStand	wtproo1	Move	7.181,48.05625,-1680.506	1
+18.4	ArmorStand	wtproo1	Position	ARM_RIGHT	-31,0,10	3
+18.4	ArmorStand	wtproo1	Position	ARM_LEFT	-29,0,-10	3
+18.1	ArmorStand	wtproo1	Move	7.181,48.25625,-1680.506	1
+19.5	ArmorStand	wtproo1	Position	ARM_RIGHT	-51,0,10	2
+19.5	ArmorStand	wtproo1	Position	ARM_LEFT	-49,0,-10	2
+19.1	ArmorStand	wtproo1	Move	7.181,48.05625,-1680.506	1
+20.6	ArmorStand	wtproo1	Position	ARM_RIGHT	-31,0,10	3
+20.6	ArmorStand	wtproo1	Position	ARM_LEFT	-29,0,-10	3
+20.2	ArmorStand	wtproo1	Move	7.181,48.25625,-1680.506	1
+21.7	ArmorStand	wtproo1	Position	ARM_RIGHT	-51,0,10	2
+21.7	ArmorStand	wtproo1	Position	ARM_LEFT	-49,0,-10	2
+21.3	ArmorStand	wtproo1	Move	7.181,48.05625,-1680.506	1
+#Reset
+29	ArmorStand	wtproo1	Despawn
+29	ArmorStand	wtprabbit1	Despawn
+29	ArmorStand	wtppooh1	Despawn
+29	ArmorStand	wtppiglet1	Despawn
+29	ArmorStand	wtpkanga1	Despawn
+29	ArmorStand	wtpeeyore1	Despawn
+29	ArmorStand	wtpeeyore2	Despawn
+29	ArmorStand	wtpblow1	Despawn
+29	ArmorStand	wtpblow2	Despawn
+29	ArmorStand	wtpblow3	Despawn
+29	ArmorStand	wtpblow4	Despawn
+29	Block	152	2,36,-1682

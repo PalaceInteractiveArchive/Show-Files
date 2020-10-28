@@ -1,0 +1,80 @@
+#Show Started January 2nd, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths9
+5	AudioSync	flaths9	5
+10	AudioSync	flaths9	10
+30	AudioSync	flaths9	30
+60	AudioSync	flaths9	60
+110	AudioSync	flaths9	110
+#S9 Reindeer are Better than People
+34.6	Text	&f[&6Oaken&f] &7This is what you get for calling me a crook!
+38.7	Text	&f[&3Kristoff&f] &7Woah!
+42.1	Text	&f[&6Oaken&f] &7Hoo-hoo!
+45.8	Text	&f[&3Kristoff&f] &7Sorry, Sven.
+47.3	Text	&7No carrots.
+49.1	Text	&7&oBut, Kristoff, you promised!
+52.8	Text	&7Let me make it up to you, how’s about a lullaby?
+57.4	Text	&7&oBut I can’t eat a lullaby.
+63.4	Text	&7At least it’ll keep your mind off your stomach.
+67.3	Text	&3Reindeers are better than people.
+70.4	Text	&3Sven, don’t you think that’s true?
+73.3	Text	&3&oYeah, people will beat you, and curse you, and cheat you.
+76.8	Text	&3&oEvery one of em’s bad, except you.
+79.1	Text	&7Thanks, buddy.
+82.6	Text	&7Uh, gross.
+85.1	Text	&3But, people smell better than reindeers
+88.8	Text	&3Sven, don’t you think I’m right?
+91.8	Text	&3&oThat’s once again true, for all except you.
+95.2	Text	&3You got me.
+96.5	Text	&3Let’s call it a night.
+99.2	Text	&3&oGood night.
+101.8	Text	&3Don’t let the frostbite, bite.
+#ProjectorDoors
+0	Block	152	477,66,57
+.6	Block	152	477,66,58
+1.2	Block	152	477,66,59
+#MoveDoors
+1.8	Block	152	468,89,94
+2.4	Block	152	468,89,94
+3	Block	152	468,89,94
+3.6	Block	152	468,89,94
+4.2	Block	152	468,89,94
+4.8	Block	152	468,89,94
+5.2	Block	152	468,89,94
+6	Block	152	468,89,94
+6.6	Block	152	468,89,94
+7.2	Block	152	468,89,94
+7.8	Block	152	468,89,94
+8.4	Block	152	468,89,94
+9	Block	152	468,89,94
+9.6	Block	152	468,89,94
+10.2	Block	152	468,89,94
+#CloseProjectors
+10.8	Block	152	468,89,99
+10.9	Block	0	468,89,99
+11.4	Block	152	468,89,98
+11.5	Block	0	468,89,98
+12.0	Block	152	468,89,97
+#KillStairs
+17	Block	152	473,66,64
+#Schematics	
+12.5	Schematic	FLatHS9.1	439	62	68	newhws	false
+19.8	Schematic	FLatHS9.2	439	62	68	newhws	false
+27.1	Schematic	FLatHS9.3	439	62	68	newhws	false
+34.4	Schematic	FLatHS9.4	439	62	68	newhws	false
+45.8	Schematic	FLatHS9.5	439	62	68	newhws	false
+##ItemFrames
+#34.4	Block	152	-143,90,-291
+#34.4	Block	152	-143,90,-290
+#34.4	Block	152	-143,90,-289
+##Pixelator
+#34.5	Block	152	-144,90,-291
+#34.5	Block	152	-144,90,-290
+#34.5	Block	152	-144,90,-289
+#Snow
+12	Block	152	458,65,64
+
+

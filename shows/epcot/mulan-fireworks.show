@@ -1,0 +1,30 @@
+Show	Location	-1261,81,3860
+Show	TextRadius	30
+
+##FW Effects
+Effect  b1  BALL_LARGE,FUCHSIA,YELLOW,WHITE,FLICKER,TRAIL
+Effect  b2  BALL_LARGE,RED,YELLOW,WHITE,FLICKER,TRAIL
+Effect  b3  BALL_LARGE,YELLOW,FLICKER,TRAIL
+Effect  b4  BALL_LARGE,RED,FLICKER,TRAIL
+Effect  b5  BALL_LARGE,WHITE,FLICKER,TRAIL
+
+0   PowerFirework   -1261,98,3860   b1  0,0,0
+1   PowerFirework   -1255,101,3860  b2  0,0,0
+2   PowerFirework   -1265,102,3860  b3  0,0,0
+3   PowerFirework   -1260,100,3860  b4  0,0,0
+5   PowerFirework   -1262,103,3860  b5  0,0,0
+5.5 PowerFirework   -1261,98,3860   b1  0,0,0
+6.0 PowerFirework   -1255,101,3860  b2  0,0,0
+6.5 PowerFirework   -1265,102,3860  b3  0,0,0
+7.0 PowerFirework   -1260,100,3860  b4  0,0,0
+7.5 PowerFirework   -1262,103,3860  b5  0,0,0
+8.0 PowerFirework   -1261,98,3860   b1  0,0,0
+8.2 PowerFirework   -1255,101,3860  b2  0,0,0
+8.4 PowerFirework   -1265,102,3860  b3  0,0,0
+8.6 PowerFirework   -1260,100,3860  b4  0,0,0
+8.8 PowerFirework   -1262,103,3860  b5  0,0,0
+9.0 PowerFirework   -1261,98,3860   b1  0,0,0
+9.2 PowerFirework   -1255,101,3860  b2  0,0,0
+9.4 PowerFirework   -1265,102,3860  b3  0,0,0
+9.6 PowerFirework   -1260,100,3860  b4  0,0,0
+9.8 PowerFirework   -1262,103,3860  b5  0,0,0

@@ -1,0 +1,274 @@
+Show	Location	-89,47,-1549
+Show	TextRadius	150
+Show	Name	Castle
+
+Effect	b1	BURST,YELLOW,YELLOW,TRAIL
+Effect	b2	BURST,WHITE,WHITE,FLICKER
+
+#Audio
+0	AudioStart	ltmb
+60	AudioSync	ltmb	60
+120	AudioSync	ltmb	120
+180	AudioSync	ltmb	180
+240	AudioSync	ltmb	240
+
+#Text
+10.3	Text	&f[&6Majesty Maker&f] &eHear ye! Hear Ye!
+12.2	Text	&eCome, gather round everyone, gather round.
+15.3	Text	&eWelcome to this &bMagical Kingdom&e!
+18.8	Text	&eMy name is &6Sir Sterling&e, one of the &dRoyal Majesty Makers&e, here in the beautiful...
+23.6	Text	&eOh my goodness! Look at the time! You know what, I'd better get right to this.
+30.2	Text	&eIt is hereby decreed that all are welcome at this Happy Place.
+35.5	Text	&eWhere the young and young at heart can explore, and laugh, and play together.
+41.7	Text	&eHere, where &dMagic &eawaits you around every corner.
+46.2	Text	&eBursting with the joy and inspiration to make your dreams come true.
+52.1	Text	&eAnd now to welcome you today, the one and only &4Mickey Mouse&e!
+
+70.2	Text	&f[&4Mickey Mouse&f] &cWell, hi everybody!
+72.1	Text	&cOh gosh, it sure is great to see so many good friends.
+75.2	Text	&cSo, are you excited to be here today?
+#unmute chat
+79.5	Block	152	-31,19,-1583
+#mute chat
+81.0	Block	152	-30,19,-1583
+
+80.8	Text	&cWell, I thought so!
+83.4	Text	&cHey pal, thanks for getting things started.
+
+86.8	Text	&cAnd now we're all together, I've got a surprise for ya'!
+90.5	Text	&cYou see...
+91.2	Text	&cWhen folks from around the kingdom heard you were gonna be here,
+94.9	Text	&cWell, they just had to come and give you a great, big &e&lwelcome!
+#CHARACTERS COME IN
+
+136.0	Text	&eHa ha ha, wonderful!
+137.8	Text	&cWell, now that everybody's here, I think it's time to start the day!
+142.2	Text	&cAnd that means that it's time for a little bit of &bmagic&c!
+
+#Particles here
+150.0	Particle	fireworksSpark	-89,54,-1607	18	6	20	1	1000
+
+154.2	Text	&f[&bFairy Godmother&f] &bIs someone in need of magic?
+158.5	Text	&cOh gosh! It's the &bFairy Godmother&c!
+
+161.7	Text	&eShe must've heard you &4Mickey&e.
+163.3	Text	&bWhy hello everyone!
+165.3	Text	&bOh my, look at all of you.
+169.5	Text	&bSo many smiling faces, including yours.
+174.8	Text	&bNow, how may I be of assistance?
+
+177.7	Text	&cWell, erm, do you think you can help kick off our Magical Day?
+182.7	Text	&bOh, of course my dear!
+184.8	Text	&bOh, and I know just the trick! But I'll need everyones' help with the magic words.
+191.4	Text	&bOn the count of three, we're all going to say &b&lBibbidi Bobbidi Boo!
+197.0	Text	&bHere we go!
+199.6	Text	&b&l&oOne...
+200.6	Text	&b&l&oTwo...
+201.6	Text	&b&l&oThree...
+
+#unmute chat
+201.7	Block	152	-31,19,-1583
+
+203.1	Text	&b&lBibbidi
+204.2	Text	&b&lBobbidi
+205.5	Text	&l&lBoo!
+
+#mute chat
+206.0	Block	152	-30,19,-1583
+
+#Fireworks here
+
+205.5	PowerFirework	-99,67,-1623	b1,b2	-15,40,11
+205.5	PowerFirework	-76,67,-1623	b1,b2	15,40,11
+
+205.5	Particle	fireworksSpark	-89,54,-1607	18	6	20	1	1000
+
+#Beacons (COMMENTED OUT UNTIL BEACONS ON NEWMK)
+#0	Block	20	-1645,57,-520
+#0	Block	20	-1644,57,-520
+#0	Block	20	-1643,57,-521
+#0	Block	20	-1642,57,-521
+#0	Block	20	-1641,57,-522
+#0	Block	20	-1640,57,-522
+#0	Block	20	-1639,57,-523
+#0	Block	20	-1638,57,-523
+#0	Block	20	-1637,57,-524
+#0	Block	20	-1636,57,-524
+#0	Block	20	-1635,57,-525
+#0	Block	20	-1634,57,-526
+#0	Block	20	-1633,57,-526
+#0	Block	20	-1632,57,-527
+#0	Block	20	-1631,57,-527
+
+#0	Block	20	-1583,57,-520
+#0	Block	20	-1584,57,-520
+#0	Block	20	-1585,57,-521
+#0	Block	20	-1586,57,-521
+#0	Block	20	-1587,57,-522
+#0	Block	20	-1588,57,-522
+#0	Block	20	-1589,57,-523
+#0	Block	20	-1590,57,-523
+#0	Block	20	-1591,57,-524
+#0	Block	20	-1592,57,-524
+#0	Block	20	-1593,57,-525
+#0	Block	20	-1594,57,-526
+#0	Block	20	-1595,57,-526
+#0	Block	20	-1596,57,-527
+#0	Block	20	-1597,57,-527
+
+#205
+#205.5	Block	20	-1645,60,-520
+#205.6	Block	20	-1644,60,-520
+#205.7	Block	20	-1643,60,-521
+#205.8	Block	20	-1642,60,-521
+#205.9	Block	20	-1641,60,-522
+#206.0	Block	20	-1640,60,-522
+#206.1	Block	20	-1639,60,-523
+#206.2	Block	20	-1638,60,-523
+#206.3	Block	20	-1637,60,-524
+#206.4	Block	20	-1636,60,-524
+#206.5	Block	20	-1635,60,-525
+#206.6	Block	20	-1634,60,-526
+#206.7	Block	20	-1633,60,-526
+#206.8	Block	20	-1632,60,-527
+#206.9	Block	20	-1631,60,-527
+
+#205.5	Block	20	-1583,60,-520
+#205.6	Block	20	-1584,60,-520
+#205.7	Block	20	-1585,60,-521
+#205.8	Block	20	-1586,60,-521
+#205.9	Block	20	-1587,60,-522
+#206.0	Block	20	-1588,60,-522
+#206.1	Block	20	-1589,60,-523
+#206.2	Block	20	-1590,60,-523
+#206.3	Block	20	-1591,60,-524
+#206.4	Block	20	-1592,60,-524
+#206.5	Block	20	-1593,60,-525
+#206.6	Block	20	-1594,60,-526
+#206.7	Block	20	-1595,60,-526
+#206.8	Block	20	-1596,60,-527
+#206.9	Block	20	-1597,60,-527
+
+#300	Block	35	-1645,57,-520
+#300	Block	35	-1644,57,-520
+#300	Block	35	-1643,57,-521
+#300	Block	35	-1642,57,-521
+#300	Block	35	-1641,57,-522
+#300	Block	35	-1640,57,-522
+#300	Block	35	-1639,57,-523
+#300	Block	35	-1638,57,-523
+#300	Block	35	-1637,57,-524
+#300	Block	35	-1636,57,-524
+#300	Block	35	-1635,57,-525
+#300	Block	35	-1634,57,-526
+#300	Block	35	-1633,57,-526
+#300	Block	35	-1632,57,-527
+#300	Block	35	-1631,57,-527
+
+#300	Block	35	-1583,57,-520
+#300	Block	35	-1584,57,-520
+#300	Block	35	-1585,57,-521
+#300	Block	35	-1586,57,-521
+#300	Block	35	-1587,57,-522
+#300	Block	35	-1588,57,-522
+#300	Block	35	-1589,57,-523
+#300	Block	35	-1590,57,-523
+#300	Block	35	-1591,57,-524
+#300	Block	35	-1592,57,-524
+#300	Block	35	-1593,57,-525
+#300	Block	35	-1594,57,-526
+#300	Block	35	-1595,57,-526
+#300	Block	35	-1596,57,-527
+#300	Block	35	-1597,57,-527
+
+#300	Block	35:3	-1645,60,-520
+#300	Block	35:3	-1644,60,-520
+#300	Block	35:3	-1643,60,-521
+#300	Block	35:3	-1642,60,-521
+#300	Block	35:3	-1641,60,-522
+#300	Block	35:3	-1640,60,-522
+#300	Block	35:3	-1639,60,-523
+#300	Block	35:3	-1638,60,-523
+#300	Block	35:3	-1637,60,-524
+#300	Block	35:3	-1636,60,-524
+#300	Block	35:3	-1635,60,-525
+#300	Block	35:3	-1634,60,-526
+#300	Block	35:3	-1633,60,-526
+#300	Block	35:3	-1632,60,-527
+#300	Block	35:3	-1631,60,-527
+
+#300	Block	35:3	-1583,60,-520
+#300	Block	35:3	-1584,60,-520
+#300	Block	35:3	-1585,60,-521
+#300	Block	35:3	-1586,60,-521
+#300	Block	35:3	-1587,60,-522
+#300	Block	35:3	-1588,60,-522
+#300	Block	35:3	-1589,60,-523
+#300	Block	35:3	-1590,60,-523
+#300	Block	35:3	-1591,60,-524
+#300	Block	35:3	-1592,60,-524
+#300	Block	35:3	-1593,60,-525
+#300	Block	35:3	-1594,60,-526
+#300	Block	35:3	-1595,60,-526
+#300	Block	35:3	-1596,60,-527
+#300	Block	35:3	-1597,60,-527
+
+210.5	Text	&cLet the Magic Begin!
+
+#CHARACTERS EXIT
+245.1	Text	&eThank you all for joining us here in this &bMagical Kingdom&e.
+250.9	Text	&cWell, what are we waiting for?
+253.2	Text	&cLet's get goin'! See ya' real soon!
+
+#Honour
+253.0	Block	152	-27,23,-1583
+
+#Money
+254.0	Block	152	-28,23,-1583
+
+258.0	Text	&6Credits:
+260.0	Text	&6Plugin - &dPalace &eDev Team
+262.0	Text	&6Have a Magical Day at &b&lThe Magic Kingdom&r&e!
+
+#unmute chat
+265.0	Block	152	-31,19,-1583
+
+#Close gate
+300	Block	0	-93,45,-1611
+300	Block	0	-93,45,-1612
+300	Block	0	-93,45,-1613
+
+300	Block	0	-87,45,-1611
+300	Block	0	-87,45,-1612
+300	Block	0	-87,45,-1613
+
+#Fence off castle area
+#Right
+300	Block	0	-75,43,-1592
+300	Block	0	-75,43,-1591
+300	Block	0	-74,43,-1591
+300	Block	0	-74,43,-1590
+300	Block	0	-73,43,-1590
+
+#Left
+300	Block	0	-107,43,-1590
+300	Block	0	-106,43,-1590
+300	Block	0	-106,43,-1591
+300	Block	0	-105,43,-1591
+300	Block	0	-105,43,-1592
+
+#Fence off back castle
+300	Block	0	-88,45,-1641
+300	Block	0	-89,45,-1641
+300	Block	0	-90,45,-1641
+300	Block	0	-91,45,-1641
+300	Block	0	-92,45,-1641
+
+#Audio
+265.0	Block	152	-29,19,-1583
+
+#Daylight
+265.0	Block	152	-40,19,-1583
+
+#Gate
+300	Schematic	LTMBCastleGate	-90	45	-1609	mk	false

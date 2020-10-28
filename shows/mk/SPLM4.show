@@ -1,0 +1,151 @@
+﻿Show	Location	-543,49,-1604
+Show	TextRadius	25
+#Define
+ArmorStand	splmporcupine1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIwMTg4YzhjZjRhYzE1ZTE2OTMxYWExMWU5NGVjZDhiNmQ5ZmEwNzY1MzVjMTdiYjIyNjg2MmMxNWEzNzFiIn19fQ==";299(84,54,33);300(84,54,33);301(84,54,33);0
+ArmorStand	splmturtle1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjEyYjU4Yzg0MWIzOTQ4NjNkYmNjNTRkZTFjMmFkMjY0OGFmOGYwM2U2NDg5ODhjMWY5Y2VmMGJjMjBlZTIzYyJ9fX0=";0;0;0;0
+ArmorStand	splmracoon1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzE1Y2U1OWI5N2QxOGVmNzRkNTY1MmJjZjhlZjJhM2QxNWFjOTg4ZWJmYWRmZmRiODhjZGZjYWZlYTU5MzgxYSJ9fX0=";299(230,230,230);300(179,21,16);301(230,230,230);157
+ArmorStand	splmrabbit2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM3YTMxN2VjNWMxZWQ3Nzg4Zjg5ZTdmMWE2YWYzZDJlZWI5MmQxZTk4NzljMDUzNDNjNTdmOWQ4NjNkZTEzMCJ9fX0=";299(214,160,222);300(37,107,43);301(110,88,66);269
+ArmorStand	splmrabbit3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM3YTMxN2VjNWMxZWQ3Nzg4Zjg5ZTdmMWE2YWYzZDJlZWI5MmQxZTk4NzljMDUzNDNjNTdmOWQ4NjNkZTEzMCJ9fX0=";299(214,160,222);300(39,75,138);301(110,88,66);269
+#Spawn
+0	ArmorStand	splmturtle1	Spawn	-536.5,49.3,-1595.5,-180
+0	ArmorStand	splmporcupine1	Spawn	-536.35,49.83,-1595.5,90
+0	ArmorStand	splmracoon1	Spawn	-535.480,49.42,-1592.409,129.7
+0	ArmorStand	splmrabbit2	Spawn	-537.644,49.5,-1587.863,-132.8
+0	ArmorStand	splmrabbit3	Spawn	-532.571,50.06,-1583.57,163.2
+0.1	ArmorStand	splmrabbit3	Position	LEG_RIGHT	0,0,7	0.5
+0.1	ArmorStand	splmrabbit3	Position	LEG_LEFT	0,0,-7	0.5
+0.1	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	0.5
+0.1	ArmorStand	splmrabbit3	Position	ARM_LEFT	-40,0,0	0.5
+0.1	ArmorStand	splmrabbit2	Position	LEG_RIGHT	0,0,7	0.5
+0.1	ArmorStand	splmrabbit2	Position	LEG_LEFT	0,0,-7	0.5
+0.1	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	0.5
+0.1	ArmorStand	splmrabbit2	Position	ARM_LEFT	-40,0,0	0.5
+0.1	ArmorStand	splmracoon1	Position	LEG_RIGHT	0,0,7	0.5
+0.1	ArmorStand	splmracoon1	Position	LEG_LEFT	0,0,-7	0.5
+0.1	ArmorStand	splmracoon1	Position	ARM_RIGHT	-90,0,70	0.5
+0.1	ArmorStand	splmracoon1	Position	ARM_LEFT	-90,0,-70	0.5
+0.1	ArmorStand	splmporcupine1	Position	LEG_LEFT	-60,-20,0	0.5
+0.1	ArmorStand	splmporcupine1	Position	LEG_RIGHT	-60,20,0	0.5
+0.1	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,-30,90	0.5
+0.1	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,30,-100	0.5
+0.1	Block	152	-535,46,-1597
+#Movements
+15	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,-30,90	2
+15.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,30,-100	2
+16	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,10,90	2
+16.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,-10,-100	2
+17	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,-30,90	2
+17.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,30,-100	2
+18	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,10,90	2
+18.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,-10,-100	2
+20	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,-30,90	2
+20.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,30,-100	2
+21	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,10,90	2
+21.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,-10,-100	2
+22	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,-30,90	2
+22.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,30,-100	2
+23	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,10,90	2
+23.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,-10,-100	2
+27	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,-30,90	2
+27.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,30,-100	2
+28	ArmorStand	splmporcupine1	Position	ARM_RIGHT	-75,10,90	2
+28.2	ArmorStand	splmporcupine1	Position	ARM_LEFT	-70,-10,-100	2
+#Rabbit
+15	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+17	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	5
+18	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+20	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	5
+21	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+24	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	5
+25	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+28	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	5
+29	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+31	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	5
+32	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+33	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,130	5
+34	ArmorStand	splmrabbit2	Position	ARM_RIGHT	-90,0,180	5
+12	ArmorStand	splmrabbit2	Position	HEAD	0,20,0	4
+13.1	ArmorStand	splmrabbit2	Position	HEAD	0,-30,0	4
+15	ArmorStand	splmrabbit2	Position	HEAD	-20,-30,0	2
+15.3	ArmorStand	splmrabbit2	Position	HEAD	20,-30,0	2
+15.6	ArmorStand	splmrabbit2	Position	HEAD	0,-30,0	1
+16.3	ArmorStand	splmrabbit2	Position	HEAD	0,0,0	2
+20	ArmorStand	splmrabbit2	Position	HEAD	0,20,0	2
+21	ArmorStand	splmrabbit2	Position	HEAD	-10,20,0	1
+22	ArmorStand	splmrabbit2	Position	HEAD	0,-20,0	4
+23	ArmorStand	splmrabbit2	Position	HEAD	0,0,0	3
+25	ArmorStand	splmrabbit2	Position	HEAD	0,20,0	4
+26.1	ArmorStand	splmrabbit2	Position	HEAD	0,-30,0	4
+28	ArmorStand	splmrabbit2	Position	HEAD	-20,-30,0	2
+28.3	ArmorStand	splmrabbit2	Position	HEAD	20,-30,0	2
+28.6	ArmorStand	splmrabbit2	Position	HEAD	0,-30,0	1
+29.3	ArmorStand	splmrabbit2	Position	HEAD	0,0,0	2
+33	ArmorStand	splmrabbit2	Position	HEAD	0,20,0	2
+34	ArmorStand	splmrabbit2	Position	HEAD	-10,20,0	1
+35	ArmorStand	splmrabbit2	Position	HEAD	0,-20,0	4
+36	ArmorStand	splmrabbit2	Position	HEAD	0,0,0	3
+#Rabbit3
+15	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+17	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	5
+18	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+20	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	5
+21	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+24	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	5
+25	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+28	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	5
+29	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+31	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	5
+32	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+33	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,130	5
+34	ArmorStand	splmrabbit3	Position	ARM_RIGHT	-90,0,180	5
+12	ArmorStand	splmrabbit3	Position	HEAD	0,20,0	4
+13.1	ArmorStand	splmrabbit3	Position	HEAD	0,-30,0	4
+15	ArmorStand	splmrabbit3	Position	HEAD	-20,-30,0	2
+15.3	ArmorStand	splmrabbit3	Position	HEAD	20,-30,0	2
+15.6	ArmorStand	splmrabbit3	Position	HEAD	0,-30,0	1
+16.3	ArmorStand	splmrabbit3	Position	HEAD	0,0,0	2
+20	ArmorStand	splmrabbit3	Position	HEAD	0,20,0	2
+21	ArmorStand	splmrabbit3	Position	HEAD	-10,20,0	1
+22	ArmorStand	splmrabbit3	Position	HEAD	0,-20,0	4
+23	ArmorStand	splmrabbit3	Position	HEAD	0,0,0	3
+25	ArmorStand	splmrabbit3	Position	HEAD	0,20,0	4
+26.1	ArmorStand	splmrabbit3	Position	HEAD	0,-30,0	4
+28	ArmorStand	splmrabbit3	Position	HEAD	-20,-30,0	2
+28.3	ArmorStand	splmrabbit3	Position	HEAD	20,-30,0	2
+28.6	ArmorStand	splmrabbit3	Position	HEAD	0,-30,0	1
+29.3	ArmorStand	splmrabbit3	Position	HEAD	0,0,0	2
+33	ArmorStand	splmrabbit3	Position	HEAD	0,20,0	2
+34	ArmorStand	splmrabbit3	Position	HEAD	-10,20,0	1
+35	ArmorStand	splmrabbit3	Position	HEAD	0,-20,0	4
+36	ArmorStand	splmrabbit3	Position	HEAD	0,0,0	3
+#Racoon
+16	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+17	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+18	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+19	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+20	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+21	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+22	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+23	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+24	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+25	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+26	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+27	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+28	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+29	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+30	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+31	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+32	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+33	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+34	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+35	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+36	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+37	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+38	ArmorStand	splmracoon1	Position	HEAD	0,0,-20	2
+39	ArmorStand	splmracoon1	Position	HEAD	0,0,20	2
+#Despawn
+40	ArmorStand	splmporcupine1	Despawn
+40	ArmorStand	splmturtle1	Despawn
+40	ArmorStand	splmracoon1	Despawn
+40	ArmorStand	splmrabbit2	Despawn
+40	ArmorStand	splmrabbit3	Despawn

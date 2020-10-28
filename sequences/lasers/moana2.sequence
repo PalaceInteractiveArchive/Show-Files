@@ -1,0 +1,5 @@
+Sequence	Laser	Relative		
+7.3	Spawn			
+9.9	Move	Base	-25.4,0,54.4	2
+10	Move	Base	-13.2,0,-8.4	24
+11.2	Despawn			

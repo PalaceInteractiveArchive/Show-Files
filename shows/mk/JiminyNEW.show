@@ -1,0 +1,434 @@
+Show	Location	-90,45,-1596
+Show	TextRadius	150
+Show	Name	Castle
+#Audio
+0	AudioStart	wishes2
+10	AudioSync	wishes2	10
+15	AudioSync	wishes2	15
+30	AudioSync	wishes2	30
+60	AudioSync	wishes2	60
+120	AudioSync	wishes2	120
+180	AudioSync	wishes2	180
+240	AudioSync	wishes2	240
+300	AudioSync	wishes2	300
+360	AudioSync	wishes2	360
+420	AudioSync	wishes2	420
+480	AudioSync	wishes2	480
+540	AudioSync	wishes2	540
+600	AudioSync	wishes2	600
+660	AudioSync	wishes2	660
+720	AudioSync	wishes2	720
+780	AudioSync	wishes2	780
+#Effects	######= secondary option
+#Intro
+Effect	b1	BURST,255;238;181&213;255;255
+Effect	b1a	BURST,255;238;181&213;255;255,TRAIL
+Effect	s1	STAR,83;199;255
+Effect	s1a	STAR,83;199;255,TRAIL
+Effect	b2	BURST,253;201;123,TRAIL
+######
+Effect	intro	BALL_LARGE,253;201;123,TRAIL
+#Tink
+Effect	lb1b	BALL_LARGE,140;140;140,149;255;255
+Effect	s2b	STAR,255;128;128,255;199;83
+Effect	lb2c	BALL_LARGE,140;140;140,255;128;128
+Effect	s3c	STAR,149;255;255,255;199;83
+#VV intro+snow2
+Effect	snow1	BALL,150;150;203
+Effect	snow2	BALL,253;201;123,TRAIL,FLICKER
+#Ariel uses V+s2b and set c
+Effect	ariel1b	BALL_LARGE,0;160;238
+Effect	peter	BURST,0;255;64
+Effect	pino1	BALL_LARGE,30;30;30,240;240;240,TRAIL,FLICKER
+Effect	pino1a	BALL_LARGE,30;30;30,240;240;240
+Effect	pino2	BALL_LARGE,30;30;30,255;128;128&0;255;0,TRAIL,FLICKER
+Effect	pino2a	BALL_LARGE,30;30;30,255;128;128&0;255;0
+Effect	alad1d	BALL_LARGE,254;191;1,251;164;111&254;191;1,FLICKER
+Effect	alad2d	BALL,WHITE,245;214;116,TRAIL
+Effect	herc1	BALL_LARGE,251;145;81,249;200;125
+Effect	herc1a	BALL_LARGE,251;201;125
+Effect	herc2	BALL_LARGE,255;96;175
+#With s1 V or herc3b+s1
+Effect	herc3	BALL_LARGE,255;121;121
+#Check me V
+Effect	herc4	BALL_LARGE,30;30;30,255;0;255&250;207;5,TRAIL,FLICKER
+Effect	herc4a	BALL_LARGE,30;30;30,255;0;255&250;207;5
+#herc3 here, no s1
+Effect	herc5	BURST,255;255;196,WHITE
+Effect	herc6e	BALL_LARGE,WHITE,252;226;122
+Effect	herc7e	BALL,255;0;255&250;207;5,TRAIL
+######
+Effect	herc3a	CREEPER,255;128;128&0;255;0,255;128;128&255;238;181
+Effect	herc3b	BALL_LARGE,204;196;145
+Effect	herc8	BALL_LARGE,30;30;30,255;0;102,TRAIL,FLICKER
+Effect	herc8a	BALL_LARGE,30;30;30,255;0;102
+#Middle Section
+Effect	lb2	BALL_LARGE,220;202;129,FLICKER
+#snow comes back
+Effect	b3	BURST,255;128;128,FLICKER
+Effect	lb3f	BALL_LARGE,255;72;72
+Effect	sb1f	BALL,247;220;149,FLICKER,TRAIL
+Effect	lb4	BALL_LARGE,30;30;30,255;255;181&255;223;181,TRAIL,FLICKER
+Effect	lb4a	BALL_LARGE,30;30;30,255;255;181&255;223;181
+Effect	heart	CREEPER,255;64;64,FLICKER
+Effect	heart2g	BALL_LARGE,253;201;123,255;64;64,FLICKER,TRAIL
+Effect	heart3g	BALL,255;64;64,FLICKER
+######
+#Genie/Sorcerer
+Effect	geniei	BALL,60;157;255
+Effect	genie1	BALL_LARGE,60;157;255,60;157;255&247;224;117
+#herc2 !?
+Effect	herc2a	BALL_LARGE,255;96;175,255;223;181,TRAIL
+Effect	genie2	BURST,145;255;136&255;191;0&255;238;187,TRAIL
+Effect	genie3	BURST,145;255;136&255;0;0&255;238;187,TRAIL
+Effect	genie4h	BALL_LARGE,255;163;128&128;255;128
+Effect	genie5h	BALL,255;163;128&128;255;128
+#+heart3g V
+Effect	genie6	BALL_LARGE,30;30;30,230;230;230,FLICKER
+Effect	genie7	BALL_LARGE,30;30;30,128;255;128,FLICKER
+Effect	sor1	BURST,RED&255;77;77
+#in air V
+Effect	sor2	BURST,247;224;117&WHITE,TRAIL,FLICKER
+Effect	sor3	BALL_LARGE,RED&255;77;77
+Effect	sor4	BALL,RED&255;77;77
+######
+#Evil_Queen
+Effect	evil1	BURST,119;251;40&250;253;130
+Effect	evil1a	BURST,119;251;40&250;253;130,TRAIL
+Effect	evil2	BALL,30;30;30&253;201;123,FLICKER,TRAIL
+Effect	evil2a	BALL,30;30;30&253;201;123,FLICKER
+Effect	evil2b	BALL_LARGE,30;30;30&253;201;123,FLICKER,TRAIL
+Effect	evil2c	BALL_LARGE,30;30;30&253;201;123,FLICKER
+Effect	evil3	BALL_LARGE,255;128;255
+Effect	evil4	BALL_LARGE,30;30;30,RED&255;77;77
+Effect	evil5	BURST,72;255;0&213;206;189,WHITE,FLICKER,TRAIL
+#in air v
+Effect	evil6	BURST,72;255;0&213;206;189
+Effect	evil7	BURST,72;255;0&255;0;128&255;218;119,FLICKER,TRAIL
+Effect	evil7a	BURST,72;255;0&255;0;128&255;218;119
+Effect	evil8	BURST,0;255;0,BLACK
+##From front
+Effect	evil9	BALL_LARGE,72;255;0,255;218;119
+Effect	evil9a	BALL_LARGE,255;0;128,255;218;119
+Effect	evil9b	BALL_LARGE,190;97;241,255;218;119
+Effect	evil10	BALL_LARGE,255;218;119,FLICKER
+#Front v
+Effect	evil11	BALL_LARGE,255;255;153,FLICKER
+######
+Effect	evilb1	BURST,250;202;150,FLICKER
+#Blue_Fairy
+Effect	blue1	BURST,WHITE,231;206;156,TRAIL
+Effect	blue2	BALL_LARGE,244;201;142,134;208;253,TRAIL
+Effect	blue3i	BALL_LARGE,134;208;253
+Effect	blue4i	BALL,244;201;142,TRAIL,FLICKER
+#LIES I WANT MY WEIRD BURST THINGS V
+Effect	blue5	BALL_LARGE,WHITE,251;214;136,TRAIL
+Effect	blue6	BALL_LARGE,WHITE&253;201;123,FLICKER,TRAIL
+Effect	blue6a	BALL_LARGE,WHITE&253;201;123,FLICKER
+Effect	blue6ab	BURST,WHITE,FLICKER
+######
+Effect	weird	BURST,251;213;123&200;200;200,TRAIL
+#Finale we start with lb4(a) then intro and then V+blue6ab
+Effect	fin1	BALL_LARGE,WHITE,253;201;123,FLICKER,TRAIL
+Effect	fin1a	BALL_LARGE,WHITE,253;201;123,FLICKER
+Effect	fin2	BALL_LARGE,253;201;123&255;0;255&209;165;222&0;255;0
+Effect	fin3	BURST,253;201;123&255;0;255&209;165;222&0;255;0,TRAIL,FLICKER
+#+blue6ab V
+Effect	fin4j	BALL_LARGE,253;236;196
+Effect	fin5	BURST,251;213;123,TRAIL
+Effect	fin6	STAR,251;213;123
+Effect	fin7	BURST,255;0;70,251;213;123,TRAIL
+Effect	fin7a	BURST,15;240;20,251;213;123,TRAIL
+Effect	fin7b	BURST,241;207;14,251;213;123,TRAIL
+#Legacies
+Effect	leg1	BALL_LARGE,BLUE,WHITE
+Effect	leg2	BALL,BLUE,WHITE,FLICKER
+#Text
+39.9	Text	&f[&9Blue Fairy&f] &9When stars are born,
+42.2	Text	&9they possess a gift or two.
+45.1	Text	&9One of them is this:
+47.2	Text	&9They have the power to make a wish come true.
+52.5	Text	&bStar light,
+53.9	Text	&bstar bright, 
+56.4	Text	&bfirst star I see tonight. 
+59.9	Text	&bI wish I may,
+61.3	Text	&bI wish I might,
+63.8	Text	&bhave the wish I wish tonight.
+67.5	Text	&bWe'll make a wish, and do as dreamers do.
+72	Text	&bDo as dreamers do.
+74.5	Text	&bAnd all our wishes…
+77.5	Text	&bAll our wishes…
+80.3	Text	&bwill come true.
+86.2	Text	&dWhen you wish upon a star,
+92.4	Text	&dmakes no difference who you are!
+99.1	Text	&dAnything your heart desires will come
+104.8	Text	&dto
+106.7	Text	&dyou.
+108.7	Text	&f[&aJiminy Cricket&f] &aPretty, huh?
+110.5	Text	&aI'll bet a lot of you folks don't believe that-
+112.8	Text	&aabout a wish coming true—
+114.4	Text	&ado ya?
+115.3	Text	&aWell I didn't either.
+117.3	Text	&aCourse, I'm just a cricket, but
+118.9	Text	&alet me tell you what made me change my mind.
+121.7	Text	&aYou see, the most fantastic, magical things can happen,
+125.9	Text	&aand it all starts with a wish!
+129.5	Block	152	-1621,61,-520
+131	Block	20	-1621,61,-520
+#
+138.1	Text	&dIf your heart is in your dreams…
+143.1	Text	&f[&bCinderella&f] &6I wish I could go to the ball!
+149.2	Text	&f[&bSnow White&f] &fI'm wishing…
+151.2	Text	&fSomeday, my prince will come!
+154.5	Text	&dNo request is too extreme!
+160	Text	&f[&bAriel&f] &3I wish-
+161.6	Text	&3Oh, I wish I could be part of that world!
+165.6	Text	&f[&aPeter Pan&f] &2I wish we'd never have to grow up.
+168.5	Text	&2Off to Neverland! Haha!
+171.7	Text	&dWhen you wish upon a star as dreamers do.
+178.7	Text	&f[&6Pinocchio&f] &dLook Jiminy!
+180.8	Text	&dSomeday, I wish I could be a real boy!
+187.5	Text	&f[&eAladdin&f] &6Genie, I wish for your freedom!
+196.6	Text	&dWishes!
+200.7	Text	&f[&aJiminy Cricket&f] &aYou know, any wish is possible.
+211.4	Text	&aAll it takes is a little courage to set it free!
+#
+262.1	Text	&f[&aJiminy Cricket&f] &aA wish is a powerful thing,
+264.9	Text	&aespecially when it comes from the heart.
+268.9	Text	&dFate is kind. 
+272.3	Text	&dShe brings to those who love,
+276.1	Text	&dthe sweet fulfilment of their secret longing.
+#
+382.2	Text	&f[&aJiminy Cricket&f] &aLike a bolt out of the blue, 
+385.7	Text	&afate steps in and sees you through. 
+389.2	Text	&aWhen you wish upon a star, 
+392	Text	&ayour dreams come true!
+396.9	Text	&aSometimes, wishes can be granted in the most unexpected ways.
+405	Text	&f[&bGenie&f] &9Whoa!!!
+408.1	Text	&910,000 years can give you such a crick in the neck!
+411.6	Text	&9Hello people!
+412.6	Text	&9Up here!
+413.6	Text	&9Come on, we've got some wishes to grant!
+#
+475.7	Text	&f[&aJiminy Cricket&f] &aUh oh, now don't worry.
+478.9	Text	&aJust remember, always let your conscience be your guide.
+483.4	Text	&aLet your conscience be your guide…
+486.5	Text	&aLet your conscience be your guide…
+493.2	Text	&f[&2Evil Queen&f] &cSlave in the magic mirror,
+496	Text	&ccome from the farthest space.
+499.1	Text	&cThrough wind and darkness, I summon thee.
+503.2	Text	&cLet me see thy face!
+506.3	Text	&cA blast of wind,
+508.8	Text	&cto fan my hate.
+510.65	Text	&cA thunderbolt,
+512.2	Lightning	-91,91,-537
+512.8	Text	&cto cast my spell.
+515.6	Text	&cAlas, grant me my wish as well!
+563.8	Text	&f[&aJiminy Cricket&f] &aYa know folks,
+564.5	Text	&ayou gotta be careful what you wish for around here,
+567.1	Text	&aor you'll get yourself in an awful mess.
+569.7	Text	&aBut just when things look bad,
+571.8	Text	&afate steps in to see you through.
+575.3	Text	&aWell I'll be-
+578.8	Text	&aIt's the Blue Fairy!
+#
+591.7	Text	&f[&9Blue Fairy&f] &9Remember,
+592.9	Text	&9we must always believe in our wishes,
+595.8	Text	&9for they are the magic in the world.
+598.7	Text	&9Now, let's all put our hearts together and make a wish come true.
+605	Text	&bStar light,
+606.4	Text	&bstar bright, 
+608.6	Text	&bfirst star I see tonight.
+611.8	Text	&bI wish I may,
+613.1	Text	&bI wish I might,
+615.5	Text	&bhave the wish I wish tonight.
+618.8	Text	&bWe'll make a wish, and do as dreamers do…
+625.2	Text	&bAnd all our wishes
+631.7	Text	&bwill
+633.2	Text	&bcome
+634.8	Text	&btrue.
+#
+643.7	Text	&f[&aJiminy Cricket&f] &aYou see,
+644.5	Text	&ait's just like I told ya.
+646.5	Text	&aWishes can come true,
+648.3	Text	&aif you believe in them with all your heart.
+651.2	Text	&aAnd the best part is:
+652.6	Text	&ayou'll never run out of wishes.
+655	Text	&aThey're shining deep down inside of you.
+658.1	Text	&a'Cause that, my friends, is where the magic lives.
+663	Text	&bWishes!
+664	Text	&dFate is kind.
+665	Text	&bDream a dream.
+666.8	Text	&bWishes!
+667.3	Text	&dShe brings to those who love…
+668.7	Text	&bSet it free.
+670.7	Text	&bWishes! 
+671.2	Text	&dThe sweet fulfillment of…
+672.5	Text	&bTrust your heart.
+673.8	Text	&dTheir secret longing.
+675.4	Text	&bJust believe.
+679.2	Text	&bJust believe!
+681.1	Text	&dJust believe!
+685.8	Text	&dLike a bolt out of the blue,
+690	Text	&dfate steps in and sees you through!
+694.6	Text	&dWhen you wish upon a star, 
+698.3	Text	&dyour dreams come true.
+703	Text	&bMake a wish, and do as dreamers do.
+706.5	Text	&dJust do as dreamers do.
+709.4	Text	&dMake a wish! 
+710.9	Text	&6Wishes!
+711.4	Text	&dDream a dream! 
+713	Text	&6Wishes!
+713.5	Text	&dTrust your heart! 
+715	Text	&dAnd your wish will come true!
+731	Text	&f[&aJiminy Cricket&f] &aHaha, what they can do these days!
+#
+749.3	Text	&f[&aJiminy Cricket&f] &aThanks folks,
+750.3	Text	&afor making this little gathering of ours so extra magical.
+754.2	Text	&aFrom our family and friends to yours:
+756.7	Text	&aGoodnight, and may all your wishes come true.
+757	Text	&6Credits:
+#758	Text	&b&oVirusElite524, Owils, and Steven_Davison
+759	Text	&6Plugin by -- &d&oPalace Dev Team
+760	Text	&6Presented by -- &dTheRealEgamer25!
+761	Text	&6And, of course, the &dPalace - Family of Servers!
+#FIREWORKS #intro
+52.6	PowerFirework	-89,92,-1622	b1	-0.1,0.0,0.3
+54.0	PowerFirework	-78,93,-1622	b1	0.0,-0.4,0.3
+55.0	PowerFirework	-93,95,-1622	b1	0.2,-0.5,0.2
+56.1	PowerFirework	-89,92,-1623	b1	-0.2,-0.4,0.3
+57.1	PowerFirework	-89,96,-1623	b1	0.1,-0.6,0.3
+57.8	PowerFirework	-92,93,-1622	b1	0.0,-0.1,0.3
+57.9	PowerFirework	-90,95,-1623	b1	-0.2,-0.7,0.3
+58.6	PowerFirework	-90,95,-1623	b1	0.2,-0.4,0.3
+59.8	PowerFirework	-89,92,-1623	b1	-0.3,-0.1,0.3
+59.8	PowerFirework	-95,92,-1623	b1	0.1,-0.2,0.3
+61.5	PowerFirework	-88,102,-1623	b1	0.0,-0.6,0.3
+62.2	PowerFirework	-100,93,-1622	b1	0.2,-0.3,0.3
+62.9	PowerFirework	-98,91,-1622	b1	-0.2,-0.3,0.3
+63.5	PowerFirework	-95,96,-1623	b1	0.0,-0.7,0.3
+64.4	PowerFirework	-90,97,-1623	b1	0.2,-0.9,0.3
+65.5	PowerFirework	-99,96,-1623	b1	0.2,-0.5,0.3
+65.8	PowerFirework	-78,92,-1622	b1	-0.1,-0.0,0.3
+66.1	PowerFirework	-91,96,-1622	b1	0.0,-0.1,0.3
+67.2	PowerFirework	-94,92,-1623	b1	0.2,-0.4,0.3
+68.2	PowerFirework	-89,96,-1622	b1	-0.3,-0.4,0.3
+69.1	PowerFirework	-94,99,-1623	b1	0.1,-0.8,0.3
+69.1	PowerFirework	-97,95,-1623	b1	0.0,-0.6,0.3
+70.3	PowerFirework	-91,91,-1622	b1	0.3,-0.6,0.3
+71.1	PowerFirework	-75,87,-1623	b1	-0.2,-0.7,0.3
+71.9	PowerFirework	-96,100,-1623	b1	-0.2,-0.9,0.3
+71.9	PowerFirework	-99,96,-1622	b1	0.0,-0.7,0.3
+74.6	PowerFirework	-100,92,-1622	b1	0.1,-0.8,0.3
+76.2	PowerFirework	-94,90,-1622	b1	0.0,-0.5,0.3
+76.6	PowerFirework	-90,94,-1623	b1	-0.3,-0.4,0.3
+78.4	PowerFirework	-88,99,-1623	b1	0.2,-0.4,0.3
+80.4	PowerFirework	-95,92,-1623	b1	-0.1,-0.6,0.3
+81.3	PowerFirework	-99,93,-1622	b1	0.2,-0.4,0.3
+82.3	PowerFirework	-78,102,-1623	b1	0.0,-0.5,0.3
+82.3	PowerFirework	-89,92,-1623	b1	-0.1,-0.2,0.3
+90.0	PowerFirework	-100,93,-1622	s1	0,0,0
+96.3	PowerFirework	-88,93,-1622	s1	0,0,0
+103.9	PowerFirework	-91,97,-1622	s1	0,0,0
+105.7	PowerFirework	-85,93,-1623	b2	-0.1,-0.6,0.3
+105.8	PowerFirework	-93,102,-1622	b2	0.0,-0.4,0.3
+106.8	PowerFirework	-93,99,-1623	intro	0,0,0
+106.8	PowerFirework	-90,100,-1623	intro	0,0,0
+#
+142.6	PowerFirework	-93,97,-1622	lb1b,s2b	0,0,0
+143.3	PowerFirework	-91,95,-1623	lb1b,s2b	0,0,0
+144.2	PowerFirework	-88,93,-1622	lb1b,s2b	0,0,0
+145.6	PowerFirework	-95,98,-1622	lb2c,s3c	0,0,0
+146.0	PowerFirework	-92,92,-1623	lb2c,s3c	0,0,0
+147.6	PowerFirework	-93,96,-1622	lb2c,s3c	0,0,0
+149.4	PowerFirework	-80,99,-1622	snow1	0,0,0
+149.4	PowerFirework	-88,96,-1622	snow1	0,0,0
+150.3	PowerFirework	-98,89,-1622	intro,snow2	0,0,0
+150.3	PowerFirework	-86,99,-1623	intro,snow2	0,0,0
+151.3	PowerFirework	-93,98,-1623	intro,snow2	0,0,0
+153.0	PowerFirework	-89,98,-1623	intro,snow2	0,0,0
+153.0	PowerFirework	-93,100,-1623	intro,snow2	0,0,0
+159.1	PowerFirework	-91,93,-1623	ariel1b,s2b	0,0,0
+160.8	PowerFirework	-88,102,-1622	ariel1b,s2b	0,0,0
+162.6	PowerFirework	-89,102,-1622	lb2c,s3c	0,0,0
+162.6	PowerFirework	-95,104,-1623	lb2c,s3c	0,0,0
+164.5	PowerFirework	-90,93,-1622	peter,peter,peter,peter,peter	0.1,-0.4,0.8
+166.2	PowerFirework	-98,89,-1623	peter,peter,peter,peter,peter	0.0,-0.4,0.7
+168.0	PowerFirework	-86,90,-1622	peter,peter,peter,peter,peter	0.0,-0.4,0.9
+168.0	PowerFirework	-97,102,-1622	peter,peter,peter,peter,peter	0.1,-0.4,0.8
+169.6	PowerFirework	-95,101,-1622	peter,peter,peter,peter,peter	0.1,-0.4,0.9
+177.2	PowerFirework	-95,97,-1622	pino1	0,0,0
+178.6	PowerFirework	-90,97,-1622	pino2a	0,0,0
+178.7	PowerFirework	-91,87,-1623	pino2a	0,0,0
+180.1	PowerFirework	-102,87,-1622	pino2a	0,0,0
+180.2	PowerFirework	-89,97,-1623	pino1a	0,0,0
+182	PowerFirework	-96,96,-1623	pino2	0,0,0
+185.4	PowerFirework	-98,94,-1623	alad1d,alad2d	0,0,0
+185.5	PowerFirework	-95,95,-1623	alad1d,alad2d	0,0,0
+189.0	PowerFirework	-90,91,-1622	alad1d,alad2d	0,0,0
+189.7	PowerFirework	-100,92,-1622	alad1d,alad2d	0,0,0
+192.6	PowerFirework	-92,96,-1622	alad1d,alad2d	0,0,0
+192.6	PowerFirework	-97,92,-1623	alad1d,alad2d	0,0,0
+199.0	PowerFirework	-95,99,-1623	s1	0,0,0
+204.9	PowerFirework	-88,95,-1622	herc1	0,0,0
+204.9	PowerFirework	-91,100,-1623	herc1	0,0,0
+207.1	PowerFirework	-86,90,-1622	herc1a	0,0,0
+207.1	PowerFirework	-97,93,-1622	herc1a	0,0,0
+208.8	PowerFirework	-98,95,-1622	herc3a	0,0,0
+212.2	PowerFirework	-95,92,-1623	herc1	0,0,0
+213.2	PowerFirework	-97,91,-1622	herc1	0,0,0
+214.2	PowerFirework	-89,94,-1622	herc1a	0,0,0
+215.2	PowerFirework	-93,91,-1623	herc1a	0,0,0
+220.0	PowerFirework	-100,102,-1623	herc3a	0,0,0
+220.0	PowerFirework	-98,98,-1622	herc3a	0,0,0
+223.1	PowerFirework	-95,93,-1623	herc3,s1	0,0,0
+224.1	PowerFirework	-88,99,-1622	herc3,s1	0,0,0
+225.3	PowerFirework	-99,95,-1623	herc2	0,0,0
+225.3	PowerFirework	-95,101,-1623	herc2	0,0,0
+227.7	PowerFirework	-95,97,-1622	herc3b,s1	0,0,0
+228.8	PowerFirework	-89,95,-1622	herc3b,s1	0,0,0
+229.9	PowerFirework	-98,89,-1622	herc2	0,0,0
+229.9	PowerFirework	-90,96,-1622	herc2	0,0,0
+232.2	PowerFirework	-79,99,-1623	herc3,s1	0,0,0
+233.3	PowerFirework	-93,100,-1622	herc3,s1	0,0,0
+234.4	PowerFirework	-88,96,-1622	herc2	0,0,0
+234.8	PowerFirework	-93,97,-1622	herc2	0,0,0
+235.3	PowerFirework	-93,94,-1622	herc2	0,0,0
+239.4	PowerFirework	-91,97,-1623	herc4	0,0,0
+239.4	PowerFirework	-90,91,-1623	herc4a	0,0,0
+240.7	PowerFirework	-95,93,-1622	herc4	0,0,0
+240.7	PowerFirework	-100,101,-1622	herc4a	0,0,0
+240.7	PowerFirework	-91,92,-1622	herc4a	0,0,0
+242.0	PowerFirework	-91,101,-1623	herc8	0,0,0
+242.0	PowerFirework	-90,101,-1623	herc8a	0,0,0
+243.5	PowerFirework	-92,92,-1623	herc8	0,0,0
+243.5	PowerFirework	-95,95,-1622	herc8a	0,0,0
+243.5	PowerFirework	-97,96,-1623	herc8a	0,0,0
+244.5	PowerFirework	-94,95,-1623	herc1	0,0,0
+246.3	PowerFirework	-95,99,-1622	herc1	0,0,0
+248.5	PowerFirework	-89,100,-1623	herc3b	0,0,0
+#OHAI GROUND
+252.4	PowerFirework	-61,56,-1619	herc5	7.07,7.07,0
+252.5	PowerFirework	-61,56,-1619	herc5	6.42,7.66,0
+252.6	PowerFirework	-61,56,-1619	herc5	5,8.66,0
+252.7	PowerFirework	-61,56,-1619	herc5	3.42,9.4,0
+252.8	PowerFirework	-61,56,-1619	herc5	1.23,9.85,0
+252.9	PowerFirework	-61,56,-1619	herc5	0,10,0
+253.0	PowerFirework	-61,56,-1619	herc5	-1.23,9.85,0
+253.1	PowerFirework	-61,56,-1619	herc5	-3.42,9.4,0
+253.2	PowerFirework	-61,56,-1619	herc5	-5,8.66,0
+253.3	PowerFirework	-61,56,-1619	herc5	-6.42,7.66,0
+253.4	PowerFirework	-61,56,-1619	herc5	-7.07,7.07,0
+252.4	PowerFirework	-116,56,-1619	herc5	-7.07,7.07,0
+252.5	PowerFirework	-116,56,-1619	herc5	-6.42,7.66,0
+252.6	PowerFirework	-116,56,-1619	herc5	-5,8.66,0
+252.7	PowerFirework	-116,56,-1619	herc5	-3.42,9.4,0
+252.8	PowerFirework	-116,56,-1619	herc5	-1.23,9.85,0
+252.9	PowerFirework	-116,56,-1619	herc5	0,10,0
+253.0	PowerFirework	-116,56,-1619	herc5	1.23,9.85,0
+253.1	PowerFirework	-116,56,-1619	herc5	3.42,9.4,0
+253.2	PowerFirework	-116,56,-1619	herc5	5,8.66,0
+253.3	PowerFirework	-116,56,-1619	herc5	6.42,7.66,0
+253.4	PowerFirework	-116,56,-1619	herc5	7.07,7.07,0
+255.1	PowerFirework	-1625,93,-1622	herc6e,herc7e	0,0,0
+255.1	PowerFirework	-90,109,-1622	herc6e,herc7e	0,0,0

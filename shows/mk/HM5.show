@@ -1,0 +1,143 @@
+﻿Show	Location	-249,45,-1832
+Show	TextRadius	25
+#Define
+ArmorStand	hmML1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzM5NzgxNjRiNWUyNzQzZWRjNmZiMWJjYTc2MzhlY2E4MjJhYTE4YjMzZDkxNmRmZTEyZDQ4ZDUxZmVjNmMifX19";0;0;0;0
+ArmorStand	hmMLGlass1	false	95:11;0;0;0;0
+ArmorStand	hmFloat1	false	0;0;0;0;294
+ArmorStand	hmFloat2	false	96;0;0;0;0
+ArmorStand	hmFloat3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFjZGU5NTRkYjMyNzY4NTIwMWY3ODVhNmIyNDhiNzNmZGM4OTgyYzJhZWQ0MzBmNjk3Y2RlYmVjOWI3ZTE0In19fQ==";0;0;0;0
+ArmorStand	hmFloat4	false	203;0;0;0;0
+#Spawn
+0	ArmorStand	hmML1	Spawn	-233.5,46.7,-1824.5,-90
+0	ArmorStand	hmMLGlass1	Spawn	-233.5,46,-1824.5,-90
+0.1	Block	152	-235,43,-1826
+0.2	Block	0	-235,43,-1826
+0	ArmorStand	hmFloat2	Spawn	-230.7,47,-1830,90
+0.1	ArmorStand	hmFloat2	Position	HEAD	90,0,0	0.5
+0	ArmorStand	hmFloat1	Spawn	-231.5,47,-1822,-90
+1	ArmorStand	hmFloat1	Rotate	-360	6
+7.1	ArmorStand	hmFloat1	Rotate	-360	6
+13.2	ArmorStand	hmFloat1	Rotate	-360	6
+19.3	ArmorStand	hmFloat1	Rotate	-360	6
+25.4	ArmorStand	hmFloat1	Rotate	-360	6
+31.5	ArmorStand	hmFloat1	Rotate	-360	6
+37.6	ArmorStand	hmFloat1	Rotate	-360	6
+43.7	ArmorStand	hmFloat1	Rotate	-360	6
+49.8	ArmorStand	hmFloat1	Rotate	-360	6
+55.9	ArmorStand	hmFloat1	Rotate	-360	6
+62	ArmorStand	hmFloat1	Rotate	-360	6
+68.1	ArmorStand	hmFloat1	Rotate	-360	6
+0	ArmorStand	hmFloat3	Spawn	-226.5,47,-1822.5,0
+0	ArmorStand	hmFloat4	Spawn	-227.5,46,-1827.5,90
+0.1	ArmorStand	hmFloat4	Position	HEAD	20,10,-15	0.5
+2	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+4.1	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+6.2	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+8.3	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+10.4	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+12.5	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+14.6	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+16.7	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+18.8	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+20.9	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+23	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+25.1	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+27.2	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+29.3	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+31.4	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+33.5	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+35.6	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+37.7	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+39.8	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+41.9	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+44	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+46.1	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+48.2	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+50.3	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+52.4	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+54.5	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+56.6	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+58.7	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+60.8	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+62.9	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+65	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+67.1	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+69.2	ArmorStand	hmFloat4	Move	-227.5,46.5,-1827.5	2
+71.3	ArmorStand	hmFloat4	Move	-227.5,46,-1827.5	2
+#MoveML1
+1	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+3.1	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+5.2	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+7.3	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+9.4	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+11.5	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+13.6	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+15.7	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+17.8	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+19.9	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+22.0	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+24.1	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+26.2	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+28.3	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+30.4	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+32.5	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+34.6	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+36.7	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+38.8	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+40.9	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+43	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+45.1	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+47.2	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+49.3	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+51.4	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+53.5	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+55.6	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+57.7	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+59.8	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+61.9	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+64	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+66.1	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+68.2	ArmorStand	hmML1	Move	-233.5,47.2,-1824.5	2
+70.3	ArmorStand	hmML1	Move	-233.5,46.7,-1824.5	2
+#MoveGlass
+1	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+3.1	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+5.2	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+7.3	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+9.4	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+11.5	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+13.6	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+15.7	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+17.8	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+19.9	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+22.0	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+24.1	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+26.2	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+28.3	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+30.4	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+32.5	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+34.6	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+36.7	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+38.8	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+40.9	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+43	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+45.1	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+47.2	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+49.3	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+51.4	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+53.5	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+55.6	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+57.7	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+59.8	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+61.9	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+64	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+66.1	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+68.2	ArmorStand	hmMLGlass1	Move	-233.5,46.5,-1824.5	2
+70.3	ArmorStand	hmMLGlass1	Move	-233.5,46,-1824.5	2
+#Despawn
+72	ArmorStand	hmML1	Despawn
+72	ArmorStand	hmMLGlass1	Despawn
+72	ArmorStand	hmFloat1	Despawn
+72	ArmorStand	hmFloat2	Despawn
+72	ArmorStand	hmFloat3	Despawn
+72	ArmorStand	hmFloat4	Despawn

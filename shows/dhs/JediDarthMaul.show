@@ -1,0 +1,113 @@
+Show	Location	-63,64,357
+Show	TextRadius	50
+
+Show	Name	JediTemple
+
+#Effects
+#Effect	<name>	Type,Color&Color&Color,Color&Color,(optional)Flicker,(optional)Trail
+Effect	maul1	BALL,172;172;172&255;28;28,255;255;255,FLICKER
+Effect	maul2	BURST,255;0;0,0;0;0,TRAIL
+Effect	maul3	BURST,255;0;0&0;0;0,255;255;255,TRAIL
+Effect	maul4Part1	BALL_LARGE,191;191;191&98;98;98,255;255;255,FLICKER
+Effect	maul4Part2	BALL,198;0;0&178;178;178,255;255;255,TRAIL
+Effect	maul5Part1	BALL_LARGE,191;191;191&98;98;98,255;255;255,FLICKER
+Effect	maul5Part2	BURST,198;0;0&178;178;178,255;255;255,TRAIL
+Effect	maul6	BURST,255;0;0&155;155;155,255;255;255,FLICKER
+
+#Audio at shows/jeditraining/darth_maul
+0	AudioStart	JediDarthMaul
+#Section 1
+0	PowerFirework	-57,74,364	maul1	0,0,0
+0.2	PowerFirework	-58,74,364	maul1	0,0,0
+0.3	PowerFirework	-59,74,364	maul1	0,0,0
+0.6	PowerFirework	-60,74,364	maul1	0,0,0
+0.8	PowerFirework	-61,74,364	maul1	0,0,0
+1.2	PowerFirework	-57,74,365	maul1	0,0,0
+1.4	PowerFirework	-57,74,366	maul1	0,0,0
+1.4	PowerFirework	-58,74,365	maul1	0,0,0
+1.6	PowerFirework	-58,74,366	maul1	0,0,0
+1.6	PowerFirework	-59,74,365	maul1	0,0,0
+1.9	PowerFirework	-59,74,366	maul1	0,0,0
+1.9	PowerFirework	-60,74,365	maul1	0,0,0
+2.1	PowerFirework	-61,74,365	maul1	0,0,0
+2.1	PowerFirework	-60,74,366	maul1	0,0,0
+2.3	PowerFirework	-61,74,366	maul1	0,0,0
+
+#Section 2 break of 3.2secs
+6.8	PowerFirework	-58,70,363	maul2	-3,6,3
+7.6	PowerFirework	-62,70,365	maul2	3,6,-3
+8.2	PowerFirework	-60,70,364	maul2	-3,6,3
+9.0	PowerFirework	-60,70,364	maul2	3,6,-3
+9.7	PowerFirework	-62,70,365	maul2	-3,6,3
+10.5	PowerFirework	-58,70,363	maul2	3,6,-3
+11.3	PowerFirework	-62,70,365	maul2	-3,6,3
+12.0	PowerFirework	-60,70,364	maul2	3,6,-3
+
+#Section 3
+12.7	PowerFirework	-58,70,363	maul3	0,0,0
+13.6	PowerFirework	-60,70,364	maul3	0,0,0
+14.3	PowerFirework	-62,70,365	maul3	0,0,0
+15.8	PowerFirework	-62,70,365	maul3	0,0,0
+16.4	PowerFirework	-60,70,364	maul3	0,0,0
+17.6	PowerFirework	-58,70,363	maul3	0,0,0
+
+#Section 4
+#Part 1
+19.0	PowerFirework	-70,78,358	maul4Part1	0,0,0
+19.4	PowerFirework	-70,78,359	maul5Part1	0,0,0
+19.8	PowerFirework	-70,78,360	maul4Part1	0,0,0
+20.2	PowerFirework	-69,78,360	maul5Part1	0,0,0
+20.6	PowerFirework	-69,79,363	maul4Part1	0,0,0
+21.0	PowerFirework	-70,79,363	maul5Part1	0,0,0
+21.4	PowerFirework	-71,80,366	maul4Part1	0,0,0
+21.8	PowerFirework	-72,80,366	maul5Part1	0,0,0
+22.2	PowerFirework	-70,78,358	maul4Part1	0,0,0
+22.6	PowerFirework	-70,78,359	maul5Part1	0,0,0
+23.0	PowerFirework	-70,78,360	maul4Part1	0,0,0
+23.4	PowerFirework	-69,78,360	maul5Part1	0,0,0
+23.8	PowerFirework	-69,79,363	maul4Part1	0,0,0
+24.2	PowerFirework	-70,79,363	maul5Part1	0,0,0
+24.4	PowerFirework	-71,80,366	maul4Part1	0,0,0
+#Part 2
+19.0	PowerFirework	-70,78,358	maul4Part2	0,0,0
+19.4	PowerFirework	-70,78,359	maul5Part2	0,0,0
+19.8	PowerFirework	-70,78,360	maul4Part2	0,0,0
+20.2	PowerFirework	-69,78,360	maul5Part2	0,0,0
+20.6	PowerFirework	-69,79,363	maul4Part2	0,0,0
+21.0	PowerFirework	-70,79,363	maul5Part2	0,0,0
+21.4	PowerFirework	-71,80,366	maul4Part2	0,0,0
+21.8	PowerFirework	-72,80,366	maul5Part2	0,0,0
+22.2	PowerFirework	-70,78,358	maul4Part2	0,0,0
+22.6	PowerFirework	-70,78,359	maul5Part2	0,0,0
+23.0	PowerFirework	-70,78,360	maul4Part2	0,0,0
+23.4	PowerFirework	-69,78,360	maul5Part2	0,0,0
+23.8	PowerFirework	-69,79,363	maul4Part2	0,0,0
+24.2	PowerFirework	-70,79,363	maul5Part2	0,0,0
+24.4	PowerFirework	-71,80,366	maul4Part2	0,0,0
+
+#Section 5
+24.8	PowerFirework	-58,65,361	maul6	0,1,0
+25.6	PowerFirework	-61,67,361	maul6	0,1,0
+26.3	PowerFirework	-64,65,361	maul6	0,1,0
+27.1	PowerFirework	-62,67,361	maul6	0,1,0
+27.8	PowerFirework	-59,66,361	maul6	0,1,0
+28.5	PowerFirework	-60,67,361	maul6	0,1,0
+29.4	PowerFirework	-63,66,361	maul6	0,1,0
+30.1	PowerFirework	-61,65,361	maul6	0,1,0
+
+#Section 6
+30.8	PowerFirework	-57,74,364	maul1	0,0,0
+31.0	PowerFirework	-58,74,364	maul1	0,0,0
+31.2	PowerFirework	-59,74,364	maul1	0,0,0
+31.4	PowerFirework	-60,74,364	maul1	0,0,0
+31.6	PowerFirework	-61,74,364	maul1	0,0,0
+31.8	PowerFirework	-57,74,365	maul1	0,0,0
+32.0	PowerFirework	-57,74,366	maul1	0,0,0
+32.2	PowerFirework	-58,74,365	maul1	0,0,0
+32.4	PowerFirework	-58,74,366	maul1	0,0,0
+32.6	PowerFirework	-59,74,365	maul1	0,0,0
+32.8	PowerFirework	-59,74,366	maul1	0,0,0
+33.0	PowerFirework	-60,74,365	maul1	0,0,0
+33.2	PowerFirework	-61,74,365	maul1	0,0,0
+33.4	PowerFirework	-60,74,366	maul1	0,0,0
+33.6	PowerFirework	-61,74,366	maul1	0,0,0

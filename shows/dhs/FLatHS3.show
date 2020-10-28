@@ -1,0 +1,317 @@
+#Show Started December 24, 2016
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Other
+0.2	Block	152	436,49,34
+98.1	Block	152	436,49,31
+146.3	Block	152	436,49,29
+#Audio
+0	AudioStart	flaths3
+5	AudioSync	flaths3	5
+10	AudioSync	flaths3	10
+30	AudioSync	flaths3	30
+60	AudioSync	flaths3	60
+120	AudioSync	flaths3	120
+180	AudioSync	flaths3	180
+240	AudioSync	flaths3	240
+275	AudioSync	flaths3	275
+#S3 Do you wanna build a snowman?
+35.6	Text	&f[&dAnna&f] &7Oh, excuse me! Pardon me.
+38.4	Text	&f[&aButler&f] &7What’s the rush?
+39.5	Text	&f[&dAnna&f] &7It’s the first snow of the season!
+42.1	Text	&f[&aMaid&f] &7Well, be careful.
+43.7	Text	&f[&dAnna&f] &7Okay.
+54.5	Text	&dDo you wanna build a snowman?
+57.6	Text	&dCome on let’s go and play.
+61	Text	&dI never see you anymore.
+63.2	Text	&dCome out the door.
+64.6	Text	&dIt’s like you’ve gone away.
+67.5	Text	&dWe used to be best buddies
+69.9	Text	&dand now we’re not.
+71.9	Text	&dI wish you would tell me why.
+75.7	Text	&dDo you wanna build a snowman?
+78.6	Text	&dIt doesn’t have to be a snowman.
+81.1	Text	&f[&bElsa&f] &7Go away, Anna.
+83	Text	&f[&dAnna&f] &dOkay bye...
+90.3	Text	&f[&5King&f] &7These gloves will help.
+92.2	Text	&7See? You’re good.
+94.2	Text	&7Now, conceal it.
+96.5	Text	&f[&bElsa&f] &7Don’t feel it.
+98.1	Text	&e&lDon’t let it show.
+108.9	Text	&f[&dAnna&f] &dDo you wanna build a snowman?
+111.6	Text	&dOr ride our bike around the hall?
+114.7	Text	&dI think some company is overdue... 
+117	Text	&dI’ve started talking to the pictures on the walls. 
+120.2	Text	&7Hang in there, Joan.
+122.9	Text	&dIt gets a little lonely
+125.4	Text	&dall these empty rooms.
+127.4	Text	&dJust watching the hours tick by.
+134.7	Text	&f[&bElsa&f] &7I’m scared. 
+135.9	Text	&7My powers just keep getting stronger!
+137.3	Text	&f[&5King&f] &7Please, Elsa, getting upset only makes it worse.
+139.3	Text	&f[&bElsa&f] &7Do you have to go?
+140.1	Text	&f[&5King&f] &7It’s a short trip.
+141.2	Text	&f[&5Queen&f] &7Your father and I will only be gone for a few weeks.
+143.5	Text	&f[&5King&f] &7Be strong, Elsa.
+144.8	Text	&f[&bElsa&f] &7No, don’t touch me.
+146.3	Text	&7I don’t want to hurt you.
+199.5	Text	&f[&aButler&f] &7Our deepest sympathies, princess.
+202.7	Text	&f[&aMaid&f] &7Your parents will be greatly missed.
+234.2	Text	&f[&dAnna&f] &7Elsa... please.
+237.8	Text	&dI know you’re in there.
+241.3	Text	&dPeople are asking where you’ve been.
+245	Text	&dThey say have courage and I’m trying to.
+248.7	Text	&dI’m right out here for you.
+251.2	Text	&dJust let me in.
+255.1	Text	&dWe only have each other.
+257.7	Text	&dIt’s just you and me.
+260.2	Text	&dWhat are we gonna do?
+268.8	Text	&dDo you wanna build a snowman?
+#Schematics
+#Schematics
+1.10	Schematic	FLatHS3.1	439	62	68	newhws	false
+7.60	Schematic	FLatHS3.2	439	62	68	newhws	false
+14.1	Schematic	FLatHS3.3	439	62	68	newhws	false
+14.2	Schematic	FLatHS3.3	439	62	68	newhws	false
+#Clock
+14.1	Block	152	420,65,103
+20.5	Block	152	420,65,104
+#Joan
+14.1	Block	152	420,71,68
+14.1	Block	152	420,71,69
+14.1	Block	152	420,71,70
+14.1	Block	152	420,71,71
+14.2	Block	152	418,71,68
+14.2	Block	152	418,71,69
+14.2	Block	152	418,71,70
+14.2	Block	152	418,71,71
+20.5	Block	152	416,71,68
+20.6	Schematic	FLatHS3.4	439	62	68	newhws	false
+20.7	Schematic	FLatHS3.4	439	62	68	newhws	false
+#Clock
+20.6	Block	152	420,65,105
+83.0	Block	152	420,65,106
+#Joan
+20.6	Block	152	420,68,68
+20.6	Block	152	420,68,69
+20.6	Block	152	420,68,70
+20.6	Block	152	420,68,71
+20.7	Block	152	418,68,68
+20.7	Block	152	418,68,69
+20.7	Block	152	418,68,70
+20.7	Block	152	418,68,71
+83.0	Block	152	416,71,68
+83.1	Schematic	FLatHS3.5	439	62	68	newhws	false
+83.2	Schematic	FLatHS3.5	439	62	68	newhws	false
+#Joan
+83.1	Block	152	468,66,58
+83.1	Block	152	467,66,58
+83.1	Block	152	466,66,58
+83.1	Block	152	465,66,58
+83.2	Block	152	468,66,57
+83.2	Block	152	467,66,57
+83.2	Block	152	466,66,57
+83.2	Block	152	465,66,57
+85.4	Block	152	416,71,68
+85.5	Schematic	FLatHS3.6	439	62	68	newhws	false
+85.6	Schematic	FLatHS3.6	439	62	68	newhws	false
+85.5	Block	152	468,5,60
+85.5	Block	152	467,5,60
+85.5	Block	152	466,5,60
+85.5	Block	152	465,5,60
+85.6	Block	152	468,5,59
+85.6	Block	152	467,5,59
+85.6	Block	152	466,5,59
+85.6	Block	152	465,5,59
+87.8	Block	152	416,6,68
+87.9	Schematic	FLatHS3.7	439	62	68	newhws	false
+88	Schematic	FLatHS3.7	439	62	68	newhws	false
+87.9	Block	152	468,66,62
+87.9	Block	152	467,66,62
+87.9	Block	152	466,66,62
+87.9	Block	152	465,66,62
+88.0	Block	152	468,66,61
+88.0	Block	152	467,66,61
+88.0	Block	152	466,66,61
+88.0	Block	152	465,66,61
+90.2	Block	152	416,71,68
+90.3	Schematic	FLatHS3.8	439	62	68	newhws	false
+99.9	Schematic	FLatHS3.9	439	62	68	newhws	false
+102.8	Schematic	FLatHS3.10	439	62	68	newhws	false
+105.7	Schematic	FLatHS3.11	439	62	68	newhws	false
+90.4	Schematic	FLatHS3.8	439	62	68	newhws	false
+100	Schematic	FLatHS3.9	439	62	68	newhws	false
+102.9	Schematic	FLatHS3.10	439	62	68	newhws	false
+105.8	Schematic	FLatHS3.11	439	62	68	newhws	false
+#Joan
+105.7	Block	152	468,66,64
+105.7	Block	152	467,66,64
+105.7	Block	152	466,66,64
+105.7	Block	152	465,66,64
+105.8	Block	152	468,66,63
+105.8	Block	152	467,66,63
+105.8	Block	152	466,66,63
+105.8	Block	152	465,66,63
+108.5	Block	152	416,71,68
+#Clock
+105.7	Block	152	463,66,64
+108.5	Block	152	462,66,64
+108.6	Schematic	FLatHS3.12	439	62	68	newhws	false
+108.7	Schematic	FLatHS3.12	439	62	68	newhws	false
+#Clock
+108.6	Block	152	420,65,105
+120.1	Block	152	420,65,106
+#Joan
+108.6	Block	152	420,68,68
+108.6	Block	152	420,68,69
+108.6	Block	152	420,68,70
+108.6	Block	152	420,68,71
+108.7	Block	152	418,68,68
+108.7	Block	152	418,68,69
+108.7	Block	152	418,68,70
+108.7	Block	152	418,68,71
+120.1	Block	152	416,71,68
+120.2	Schematic	FLatHS3.13	439	62	68	newhws	false
+120.3	Schematic	FLatHS3.13	439	62	68	newhws	false
+#Clock
+120.2	Block	152	420,65,103
+122.7	Block	152	420,65,104
+#Joan
+120.2	Block	152	420,71,68
+120.2	Block	152	420,71,69
+120.2	Block	152	420,71,70
+120.2	Block	152	420,71,71
+120.3	Block	152	418,71,68
+120.3	Block	152	418,71,69
+120.3	Block	152	418,71,70
+120.3	Block	152	418,71,71
+122.7	Block	152	416,71,68
+122.8	Schematic	FLatHS3.14	439	62	68	newhws	false
+127.4	Schematic	FLatHS3.15	439	62	68	newhws	false
+131.1	Schematic	FLatHS3.16	439	62	68	newhws	false
+134.7	Schematic	FLatHS3.17	439	62	68	newhws	false
+137.3	Schematic	FLatHS3.18	439	62	68	newhws	false
+150.5	Schematic	FLatHS3.19	439	62	68	newhws	false
+152.9	Schematic	FLatHS3.20	439	62	68	newhws	false
+155.3	Schematic	FLatHS3.21	439	62	68	newhws	false
+157.7	Schematic	FLatHS3.22	439	62	68	newhws	false
+160.1	Schematic	FLatHS3.23	439	62	68	newhws	false
+162.5	Schematic	FLatHS3.24	439	62	68	newhws	false
+188.0	Schematic	FLatHS3.25	439	62	68	newhws	false
+194.0	Schematic	FLatHS3.26	439	62	68	newhws	false
+226.0	Schematic	FLatHS3.25	439	62	68	newhws	false
+232.0	Schematic	FLatHS3.24	439	62	68	newhws	false
+284.0	Schematic	FLatHS3.27	439	62	68	newhws	false
+287.0	Schematic	FLatHS3.28	439	62	68	newhws	false
+122.9	Schematic	FLatHS3.14	439	62	68	newhws	false
+127.5	Schematic	FLatHS3.15	439	62	68	newhws	false
+131.2	Schematic	FLatHS3.16	439	62	68	newhws	false
+134.8	Schematic	FLatHS3.17	439	62	68	newhws	false
+137.4	Schematic	FLatHS3.18	439	62	68	newhws	false
+150.6	Schematic	FLatHS3.19	439	62	68	newhws	false
+153.0	Schematic	FLatHS3.20	439	62	68	newhws	false
+155.4	Schematic	FLatHS3.21	439	62	68	newhws	false
+157.8	Schematic	FLatHS3.22	439	62	68	newhws	false
+160.2	Schematic	FLatHS3.23	439	62	68	newhws	false
+162.6	Schematic	FLatHS3.24	439	62	68	newhws	false
+188.1	Schematic	FLatHS3.25	439	62	68	newhws	false
+194.1	Schematic	FLatHS3.26	439	62	68	newhws	false
+226.1	Schematic	FLatHS3.25	439	62	68	newhws	false
+232.1	Schematic	FLatHS3.24	439	62	68	newhws	false
+284.1	Schematic	FLatHS3.27	439	62	68	newhws	false
+287.1	Schematic	FLatHS3.28	439	62	68	newhws	false
+#DoorForTopStageRightBalcony
+287.0	Block	76	455,67,67
+188.0	Lightning	466,65,84
+188.0	Block	152	460,65,64
+226.0	Block	0	460,65,64
+0.00	Block	152	475,66,64
+30.4	Block	152	477,66,57
+31.4	Block	152	477,66,58
+32.4	Block	152	477,66,59
+45.4	Block	152	477,65,62
+45.4	Block	152	477,69,62
+46.4	Block	152	477,66,62
+46.4	Block	152	477,68,62
+47.4	Block	152	477,67,62
+33.4	Block	152	474,66,64
+34.4	Block	152	474,66,64
+35.4	Block	152	474,66,64
+36.4	Block	152	474,66,64
+37.4	Block	152	474,66,64
+38.4	Block	152	474,66,64
+39.4	Block	152	474,66,64
+40.4	Block	152	474,66,64
+41.4	Block	152	474,66,64
+42.4	Block	152	474,66,64
+43.4	Block	152	474,66,64
+44.4	Block	152	474,66,64
+170.8	Block	76	445,62,104
+170.8	Block	76	445,62,103
+170.8	Block	76	444,62,64
+170.8	Block	76	444,62,63
+175.8	Block	152	470,65,106
+175.8	Block	0	443,65,66
+175.8	Block	0	442,65,66
+175.8	Block	0	441,65,66
+175.8	Block	0	440,65,66
+175.8	Block	0	443,64,66
+175.8	Block	0	442,64,66
+175.8	Block	0	441,64,66
+175.8	Block	0	440,64,66
+175.8	Block	0	443,65,102
+175.8	Block	0	442,65,102
+175.8	Block	0	441,65,102
+175.8	Block	0	440,65,102
+175.8	Block	0	443,64,102
+175.8	Block	0	442,64,102
+175.8	Block	0	441,64,102
+175.8	Block	0	440,64,102
+237.8	Block	152	465,65,106
+237.8	Block	173	443,65,66
+237.8	Block	173	442,65,66
+237.8	Block	173	441,65,66
+237.8	Block	173	440,65,66
+237.8	Block	173	443,64,66
+237.8	Block	173	442,64,66
+237.8	Block	173	441,64,66
+237.8	Block	173	440,64,66
+237.8	Block	173	443,65,102
+237.8	Block	173	442,65,102
+237.8	Block	173	441,65,102
+237.8	Block	173	440,65,102
+237.8	Block	173	443,64,102
+237.8	Block	173	442,64,102
+237.8	Block	173	441,64,102
+237.8	Block	173	440,64,102
+242.8	Block	0	445,62,104
+242.8	Block	0	445,62,103
+242.8	Block	0	444,62,63
+242.8	Block	0	444,62,64
+278.0	Block	76	445,62,104
+278.0	Block	76	445,62,103
+278.0	Block	76	444,62,64
+278.0	Block	76	444,62,63
+283.0	Block	152	470,65,106
+283.0	Block	0	443,65,66
+283.0	Block	0	442,65,66
+283.0	Block	0	441,65,66
+283.0	Block	0	440,65,66
+283.0	Block	0	443,64,66
+283.0	Block	0	442,64,66
+283.0	Block	0	441,64,66
+283.0	Block	0	443,65,102
+283.0	Block	0	442,65,102
+283.0	Block	0	441,65,102
+283.0	Block	0	440,65,102
+283.0	Block	0	443,64,102
+283.0	Block	0	442,64,102
+283.0	Block	0	441,64,102
+283.0	Block	0	440,64,102
+183.0	Block	152	445,56,47
+192.0	Block	152	464,89,94
+192.4	Block	152	464,89,94
+195.0	Block	152	464,89,94
+200.0	Block	152	464,89,94
+200.4	Block	152	464,89,94

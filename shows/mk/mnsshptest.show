@@ -1,0 +1,4 @@
+Show	Location	-90,45,-1599
+Show	TextRadius	60
+#TestLights
+0	Sequence    Light	mnsshplights

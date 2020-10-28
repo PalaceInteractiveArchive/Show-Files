@@ -1,0 +1,26 @@
+﻿Show	Location	-449,70,383
+Show	TextRadius	25
+#Spawn
+0	Block	152	-440,62,346
+0	Block	152	-443,62,350
+0	Block	152	-451,62,348
+#Enter
+11.5	Block	152	-449,62,344
+11.5	Block	152	-442,62,346
+11.5	Block	152	-443,62,351
+13	Block	0	-449,62,344
+13	Block	0	-442,62,346
+13	Block	0	-443,62,351
+#Station
+96	Block	152	-452,62,362
+96	Block	152	-464,62,359
+98	Block	152	-462,62,354
+#MoneyCounterHonor
+110	Block	152	-448,61,361
+#Remove
+112	Block	152	-452,61,359
+112.5	Block	152	-448,61,359
+#Reset
+115	Block	0	-452,62,362
+115	Block	0	-464,62,359
+115	Block	0	-462,62,354

@@ -1,0 +1,15 @@
+﻿Show	Location	-90,55,-1621
+Show	TextRadius	50
+0	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+2	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+3	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+4	Schematic	LTMBCastleGate	-90	45	-1609	mk	false
+4	Block	0	-86,45,-1612
+4	Block	0	-86,46,-1612
+4	Block	0	-87,45,-1613
+4	Block	0	-87,46,-1613
+4	Block	0	-94,45,-1612
+4	Block	0	-94,46,-1612
+4	Block	0	-93,45,-1613
+4	Block	0	-93,46,-1613

@@ -1,0 +1,3958 @@
+#Show	Location	-217,65,216
+#Show	TextRadius	250
+#Show	Name		CT
+
+#0	AudioStart		swags
+#0	AudioSync	swags	0
+2	AudioSync	swags	2
+5	AudioSync	swags	5
+10	AudioSync	swags	10
+20	AudioSync	swags	20
+30	AudioSync	swags	30
+60	AudioSync	swags	60
+120	AudioSync	swags	120
+180	AudioSync	swags	180
+240	AudioSync	swags	240
+300	AudioSync	swags	300
+360	AudioSync	swags	360
+420	AudioSync	swags	420
+480	AudioSync	swags	480
+540	AudioSync	swags	540
+600	AudioSync	swags	600
+660	AudioSync	swags	660
+720	AudioSync	swags	720
+780	AudioSync	swags	780
+840	AudioSync	swags	840
+
+#0	Sequence	light	SWaGSlights   
+
+#TEXT
+#Text
+0.4	Text	&aAnd now, please join us
+2.4	Text	&aas &6Disney's Hollywood Studios &aproudly presents
+6.3	Text	&9&l&OStar Wars: A Galactic Spectacular&r&a!
+11.7	Text	&c1977: a triumphant year in screen history.
+17.9	Text	&cOn May 25, &oStar Wars &r&cpremiered.
+24.1	Text	&cNow, more than forty years later
+27.1	Text	&c&oStar Wars &r&chas reached every corner of the world
+31.3	Text	&cand across generations 
+33.9	Text	&cas the saga continues to transport audiences
+38.4	Text	&cwith the words...
+40.3	Text	&cA long time ago in a galaxy far, far away.
+47.2	Text	&7[&2Master Yoda&7] &2Through the Force, things you will see,
+49.9	Text	&2other places, the future, the past, 
+53.9	Text	&2old friends long gone.
+56.6	Text	&2[&aLuke Skywalker&2] &aThe Force is strong in my family.
+59.2	Text	&aMy father has it. I have it.
+63.1	Text	&aMy sister has it.
+65.6	Text	&aYou have that &2&lpower &atoo.
+68.4	Text	&6[&eRey Skywalker&6] &eThere's stories about what happened.
+72.1	Text	&7[&7Han Solo&7] &7It's true, all of it.
+149	Text	&5[&dPrincess Leia&5] &dHelp me, Obi-Wan Kenobi.
+151.1	Text	&dYou're my only hope.
+182.4	Text	&7We have incoming in 24-6.
+185.2	Text	&7A communications disruption could mean only one thing:
+188.2	Text	&cInvasion.
+189.2	Text	&7We have spotted imperial walkers.
+190.9	Text	&7Imperial walkers on the north ridge.
+193.5	Text	&7Echo Station 5-7, we're on our way.
+196.2	Text	&7Prepare to target the main generator.
+199.3	Text	&2[&aLuke Skywalker&2] &aWatch that crossfire, boys!
+219.9	Text	&7It's a trap!
+221.2	Text	&7I've got one behind me!
+223.4	Text	&7We're going to get hit!
+225.3	Text	&7This is it.
+226.4	Text	&7Draw their fire away from the cruisers.
+228.9	Text	&7We're in position.
+230.5	Text	&7We just lost R1.
+233.5	Text	&7Commence primary ignition.
+235.4	Text	&7Look at the size of that thing.
+237.9	Text	&7There's too many of them!
+242.1	Text	&7[&cGeneral Hux&7] &cToday is the end of the Republic.
+246.7	Text	&cAll remaining systems will bow to the First Order.
+267.1	Text	&5[&2Padmé Amidala&5] &2So this is how liberty dies...
+269.5	Text	&2With thunderous applause.
+277.1	Text	&7[&3Maz Kanata&7] &3Who are you?
+279.9	Text	&6[&eRey Skywalker&6] &eI'm no one.
+283.6	Text	&2[&aLuke Skywalker&2] &aWhere are you from?
+286.1	Text	&6[&eRey Skywalker&6] &eNowhere.
+306.7	Text	&eI need someone to show me my place in all this.
+313.5	Text	&2[&aLuke Skywalker&2] &aI wanna learn the ways of the Force and become a Jedi like my father.
+321.2	Text	&7[&2Master Yoda&7] &2Skywalker, still looking to the horizon?
+339.1	Text	&9[&bObi-Wan Kenobi&9] &bThat boy is our last hope.
+341.2	Text	&7[&2Master Yoda&7] &2No, there is another.
+344.3	Text	&5[&dPrincess Leia&5] &dThis is our rescue!
+347.2	Text	&dBut didn't you have a plan for getting out?
+349.3	Text	&2[&aAnakin Skywalker&2] &aYou call this a diplomatic solution?
+351.2	Text	&5[&2Padmé Amidala&5] &2No, I call it aggressive negotiations.
+354.7	Text	&7[&7Jyn Erso&7] &7This is a rebellion isn't it?
+359.5	Text	&7I rebel.
+387.4	Text	&6[C-3PO] &eSir, the possibility of successfully navigating an asteroid field 
+390.7	Text	&eis approximately 3,720 to 1.
+393.1	Text	&7[&7Han Solo&7] &7Never tell me the odds.
+399	Text	&2[&aLuke Skywalker&2] &aI got him!
+399.8	Text	&7[&7Han Solo&7] &7Great kid! Don't get cocky!
+414.5	Text	&6[&eRey Skywalker&6] &eWhoo! I like this!
+419.4	Text	&7[&cKylo Ren&7] &cBlow that piece of junk out of the sky!
+488.5	Text	&9[&bObi-Wan Kenobi&9] &bWell, the Force is what gives a Jedi his power.
+491.6	Text	&bIt’s an energy field created by all living things.
+495	Text	&bIt surrounds us, penetrates us, it binds the galaxy together.
+501.6	Text	&7[&2Master Yoda&7] &2Do or do not. There is no try.
+513	Text	&2[&aLuke Skywalker&2] &aReach out. What do you see?
+529.1	Text	&5[&dPrincess Leia&5] &dI love you.
+531.6	Text	&7[&7Han Solo&7] &7I know.
+553	Text	&2[&aLuke Skywalker&2] &aI won't fail you. I'm not afraid.
+557.8	Text	&7[&2Master Yoda&7] &2You will be. &2&oYou will be.
+567	Text	&9[&bObi-Wan Kenobi&9] &bYou were the chosen one!
+570.4	Text	&bIt was said that you would destroy the Sith, not join them.
+574.5	Text	&bBring balance to the Force, not leave it in darkness.
+580	Text	&bYou were my brother, Anakin! I loved you.
+586.6	Text	&7[&9Palpatine&7] &8Darth Vader.
+588.8	Text	&8Rise.
+599.7	Text	&0[&4Darth Vader&0] &4The Force is with you, young Skywalker.
+611.9	Text	&4But you are not a Jedi yet. 
+615.7	Text	&2[&aLuke Skywalker&2] &aNooooooooooo... Nooooooooooo...
+619.7	Text	&7[&cDarth Maul&7] &cAt last we will reveal ourselves to the Jedi.
+624.2	Text	&cAt last we will have our revenge.
+643.2	Text	&7[&9Palpatine&7] &8Unlimited power!
+655	Text	&4[&cSupreme Leader Snoke&4] &cDarkness rises and light to meet it.
+682.1	Text	&2[&aLuke Skywalker&2] &aConfronting fear is the destiny of a Jedi.
+688.8	Text	&aYour destiny.
+692.6	Text	&7Lock S-foils in attack position.
+695.4	Text	&7Red 5 standing by.
+#Test
+686.6		Text	&7Stay on target.
+698.2	Text	&7We're passing through their magnetic field.
+699.9	Text	&7Hold tight.
+700.4	Text	&7This is Red 5, I'm going in!
+703.6	Text	&7Watch it, you've got one on your tail.
+705.1	Text	&7They're coming in!
+706.4	Text	&73 marks at 2-10.
+709.3	Text	&f[&6Poe Dameron&f] &6Hit the target hard. Give it everything you got!
+712.8	Text	&7All clear.
+713.4	Text	&f[&6Poe Dameron&f] &6I'm going in! Pull up and cover me!
+716.1	Text	&7Copy that, Black Leader! Good luck, Poe!
+839.2	Text	&9[&bObi-Wan Kenobi&9] &bThe Force will be with you.
+842.1	Text	&bAlways.
+848.9	Text	&aThank you for joining us for &9&lStar Wars: A Galactic Spectacular&a!
+853.7	Text	&aNow please make sure to gather all of your belongings,
+856.4	Text	&aand enjoy the rest of your evening here at &6Disney's Hollywood Studios&a!
+861	Text	&6Brought to you by:
+862	Text	&6Plugin by -- &dPalace Development Team
+#863	Text	&6Developed by -- &dSteven_Davison, halofreak894, Mavly, and Dacostabro
+863	Text	&6And, of course the Palace family of servers!
+
+#ATAT needs to borrow from EF expanders
+#https://youtu.be/Yj3iiHE3n74?t=433 Needs sits help
+#######Particles- top left smoke
+0	Sequence	Particle	swagspart
+0	Sequence	Particle	swagscometstemp
+79.8	Block	119	-193,76,238
+80	Block	119	-197,76,238
+80.2	Block	119	-193,86,238
+80.1	Block	119	-197,86,238
+80.1	Block	119	-193,96,238
+79.95	Block	119	-197,96,238
+79.85	Block	119	-193,106,238
+79.8	Block	119	-197,106,238
+80.05	Block	119	-210,76,244
+79.95	Block	119	-214,76,244
+80.1	Block	119	-210,86,244
+79.85	Block	119	-214,86,244
+80.15	Block	119	-210,96,244
+80.1	Block	119	-214,96,244
+80.05	Block	119	-210,106,244
+79.85	Block	119	-214,106,244
+80.1	Block	119	-232,86,236
+80	Block	119	-237,86,-231
+79.8	Block	119	-232,96,236
+80	Block	119	-237,96,-231
+80.05	Block	119	-232,106,236
+80.15	Block	119	-237,106,-231
+79.9	Block	119	-232,116,236
+80.1	Block	119	-237,116,-231
+79.95	Block	119	-246,76,212
+79.9	Block	119	-246,76,208
+80.05	Block	119	-246,86,212
+80	Block	119	-246,86,208
+79.95	Block	119	-246,96,212
+79.9	Block	119	-246,96,208
+80	Block	119	-246,106,212
+79.85	Block	119	-246,106,208
+80.1	Block	119	-234,82,193
+80.05	Block	119	-237,83,196
+80.1	Block	119	-234,92,193
+80.05	Block	119	-237,93,196
+79.9	Block	119	-234,102,193
+80.1	Block	119	-237,103,196
+80.1	Block	119	-234,112,193
+80.05	Block	119	-237,113,196
+102.85	Block	0	-193,76,238
+102.95	Block	0	-197,76,238
+103.2	Block	0	-193,86,238
+103.1	Block	0	-197,86,238
+103.05	Block	0	-193,96,238
+102.8	Block	0	-197,96,238
+103.1	Block	0	-193,106,238
+102.95	Block	0	-197,106,238
+103.2	Block	0	-210,76,244
+102.85	Block	0	-214,76,244
+103.05	Block	0	-210,86,244
+103.05	Block	0	-214,86,244
+102.9	Block	0	-210,96,244
+102.9	Block	0	-214,96,244
+103.15	Block	0	-210,106,244
+103.05	Block	0	-214,106,244
+102.85	Block	0	-232,86,236
+103.05	Block	0	-237,86,-231
+102.85	Block	0	-232,96,236
+102.9	Block	0	-237,96,-231
+102.8	Block	0	-232,106,236
+102.9	Block	0	-237,106,-231
+103.15	Block	0	-232,116,236
+103.2	Block	0	-237,116,-231
+103	Block	0	-246,76,212
+102.95	Block	0	-246,76,208
+103.15	Block	0	-246,86,212
+103.15	Block	0	-246,86,208
+102.95	Block	0	-246,96,212
+102.95	Block	0	-246,96,208
+103.1	Block	0	-246,106,212
+102.95	Block	0	-246,106,208
+103.05	Block	0	-234,82,193
+103.15	Block	0	-237,83,196
+103	Block	0	-234,92,193
+103	Block	0	-237,93,196
+102.95	Block	0	-234,102,193
+102.8	Block	0	-237,103,196
+103.1	Block	0	-234,112,193
+103.05	Block	0	-237,113,196
+114.8	Block	119	-193,76,238
+114.8	Block	119	-197,76,238
+114.85	Block	119	-193,86,238
+115.15	Block	119	-197,86,238
+115	Block	119	-193,96,238
+115.1	Block	119	-197,96,238
+115	Block	119	-193,106,238
+114.9	Block	119	-197,106,238
+115.2	Block	119	-210,76,244
+114.9	Block	119	-214,76,244
+115.1	Block	119	-210,86,244
+114.95	Block	119	-214,86,244
+115.15	Block	119	-210,96,244
+115	Block	119	-214,96,244
+114.95	Block	119	-210,106,244
+114.8	Block	119	-214,106,244
+115	Block	119	-232,86,236
+115	Block	119	-237,86,-231
+115.05	Block	119	-232,96,236
+115.05	Block	119	-237,96,-231
+114.95	Block	119	-232,106,236
+115.05	Block	119	-237,106,-231
+115	Block	119	-232,116,236
+114.85	Block	119	-237,116,-231
+114.95	Block	119	-246,76,212
+115.15	Block	119	-246,76,208
+114.9	Block	119	-246,86,212
+114.9	Block	119	-246,86,208
+115.2	Block	119	-246,96,212
+114.95	Block	119	-246,96,208
+114.9	Block	119	-246,106,212
+115	Block	119	-246,106,208
+114.95	Block	119	-234,82,193
+115.05	Block	119	-237,83,196
+114.85	Block	119	-234,92,193
+114.8	Block	119	-237,93,196
+114.95	Block	119	-234,102,193
+114.85	Block	119	-237,103,196
+114.95	Block	119	-234,112,193
+114.85	Block	119	-237,113,196
+132	Block	0	-193,76,238
+131.95	Block	0	-197,76,238
+132	Block	0	-193,86,238
+131.9	Block	0	-197,86,238
+131.85	Block	0	-193,96,238
+132.1	Block	0	-197,96,238
+131.85	Block	0	-193,106,238
+132.15	Block	0	-197,106,238
+132.05	Block	0	-210,76,244
+131.8	Block	0	-214,76,244
+132.1	Block	0	-210,86,244
+132.15	Block	0	-214,86,244
+131.85	Block	0	-210,96,244
+131.95	Block	0	-214,96,244
+132.05	Block	0	-210,106,244
+132.1	Block	0	-214,106,244
+132	Block	0	-232,86,236
+131.85	Block	0	-237,86,-231
+131.8	Block	0	-232,96,236
+132.05	Block	0	-237,96,-231
+132.05	Block	0	-232,106,236
+132.15	Block	0	-237,106,-231
+131.95	Block	0	-232,116,236
+131.85	Block	0	-237,116,-231
+132.2	Block	0	-246,76,212
+132	Block	0	-246,76,208
+132.1	Block	0	-246,86,212
+132.15	Block	0	-246,86,208
+132.05	Block	0	-246,96,212
+132.05	Block	0	-246,96,208
+132.05	Block	0	-246,106,212
+132	Block	0	-246,106,208
+131.95	Block	0	-234,82,193
+131.9	Block	0	-237,83,196
+132.1	Block	0	-234,92,193
+132	Block	0	-237,93,196
+131.8	Block	0	-234,102,193
+131.9	Block	0	-237,103,196
+132	Block	0	-234,112,193
+132	Block	0	-237,113,196
+179.85	Block	119	-210,76,244
+180.05	Block	119	-214,76,244
+179.8	Block	119	-210,86,244
+179.95	Block	119	-214,86,244
+179.95	Block	119	-210,96,244
+180	Block	119	-214,96,244
+180.1	Block	119	-210,106,244
+179.95	Block	119	-214,106,244
+180.1	Block	119	-246,76,212
+180.15	Block	119	-246,76,208
+180	Block	119	-246,86,212
+180.05	Block	119	-246,86,208
+179.9	Block	119	-246,96,212
+180.1	Block	119	-246,96,208
+180	Block	119	-246,106,212
+180.1	Block	119	-246,106,208
+192.15	Block	119	-193,76,238
+192.15	Block	119	-197,76,238
+191.9	Block	119	-193,86,238
+192.15	Block	119	-197,86,238
+191.85	Block	119	-193,96,238
+191.95	Block	119	-197,96,238
+191.95	Block	119	-193,106,238
+191.8	Block	119	-197,106,238
+191.85	Block	119	-210,76,244
+191.85	Block	119	-214,76,244
+192	Block	119	-210,86,244
+192.15	Block	119	-214,86,244
+192.05	Block	119	-210,96,244
+191.95	Block	119	-214,96,244
+192.1	Block	119	-210,106,244
+192.1	Block	119	-214,106,244
+191.8	Block	119	-232,86,236
+192.1	Block	119	-237,86,-231
+191.85	Block	119	-232,96,236
+192.05	Block	119	-237,96,-231
+191.9	Block	119	-232,106,236
+192	Block	119	-237,106,-231
+192.05	Block	119	-232,116,236
+191.85	Block	119	-237,116,-231
+191.95	Block	119	-246,76,212
+191.9	Block	119	-246,76,208
+192.05	Block	119	-246,86,212
+192.15	Block	119	-246,86,208
+191.8	Block	119	-246,96,212
+192	Block	119	-246,96,208
+192.1	Block	119	-246,106,212
+192.2	Block	119	-246,106,208
+191.85	Block	119	-234,82,193
+191.95	Block	119	-237,83,196
+191.8	Block	119	-234,92,193
+192.05	Block	119	-237,93,196
+192.15	Block	119	-234,102,193
+192.05	Block	119	-237,103,196
+192.05	Block	119	-234,112,193
+192.15	Block	119	-237,113,196
+234	Block	0	-193,76,238
+233.85	Block	0	-197,76,238
+233.85	Block	0	-193,86,238
+234	Block	0	-197,86,238
+234	Block	0	-193,96,238
+234	Block	0	-197,96,238
+233.85	Block	0	-193,106,238
+234.2	Block	0	-197,106,238
+233.8	Block	0	-210,76,244
+233.85	Block	0	-214,76,244
+233.85	Block	0	-210,86,244
+234.05	Block	0	-214,86,244
+233.85	Block	0	-210,96,244
+233.95	Block	0	-214,96,244
+234	Block	0	-210,106,244
+233.95	Block	0	-214,106,244
+233.8	Block	0	-232,86,236
+234.15	Block	0	-237,86,-231
+234.1	Block	0	-232,96,236
+234	Block	0	-237,96,-231
+233.8	Block	0	-232,106,236
+234	Block	0	-237,106,-231
+234.1	Block	0	-232,116,236
+234.2	Block	0	-237,116,-231
+233.85	Block	0	-246,76,212
+234	Block	0	-246,76,208
+233.9	Block	0	-246,86,212
+234.1	Block	0	-246,86,208
+233.85	Block	0	-246,96,212
+234.1	Block	0	-246,96,208
+234.15	Block	0	-246,106,212
+234.05	Block	0	-246,106,208
+233.95	Block	0	-234,82,193
+234	Block	0	-237,83,196
+233.95	Block	0	-234,92,193
+234.05	Block	0	-237,93,196
+234.1	Block	0	-234,102,193
+234.05	Block	0	-237,103,196
+234	Block	0	-234,112,193
+234.1	Block	0	-237,113,196
+256.5	Block	119	-193,76,238
+256.55	Block	119	-197,76,238
+256.45	Block	119	-193,86,238
+256.45	Block	119	-197,86,238
+256.35	Block	119	-193,96,238
+256.4	Block	119	-197,96,238
+256.6	Block	119	-193,106,238
+256.55	Block	119	-197,106,238
+256.7	Block	119	-210,76,244
+256.65	Block	119	-214,76,244
+256.4	Block	119	-210,86,244
+256.65	Block	119	-214,86,244
+256.45	Block	119	-210,96,244
+256.5	Block	119	-214,96,244
+256.5	Block	119	-210,106,244
+256.55	Block	119	-214,106,244
+256.55	Block	119	-232,86,236
+256.6	Block	119	-237,86,-231
+256.7	Block	119	-232,96,236
+256.35	Block	119	-237,96,-231
+256.35	Block	119	-232,106,236
+256.4	Block	119	-237,106,-231
+256.65	Block	119	-232,116,236
+256.35	Block	119	-237,116,-231
+256.7	Block	119	-246,76,212
+256.5	Block	119	-246,76,208
+256.35	Block	119	-246,86,212
+256.6	Block	119	-246,86,208
+256.45	Block	119	-246,96,212
+256.45	Block	119	-246,96,208
+256.35	Block	119	-246,106,212
+256.65	Block	119	-246,106,208
+256.7	Block	119	-234,82,193
+256.35	Block	119	-237,83,196
+256.45	Block	119	-234,92,193
+256.45	Block	119	-237,93,196
+256.3	Block	119	-234,102,193
+256.6	Block	119	-237,103,196
+256.6	Block	119	-234,112,193
+256.4	Block	119	-237,113,196
+272.95	Block	0	-193,76,238
+273.15	Block	0	-197,76,238
+272.85	Block	0	-193,86,238
+272.95	Block	0	-197,86,238
+273.05	Block	0	-193,96,238
+272.95	Block	0	-197,96,238
+272.9	Block	0	-193,106,238
+273	Block	0	-197,106,238
+273.05	Block	0	-210,76,244
+273.1	Block	0	-214,76,244
+273.2	Block	0	-210,86,244
+273.05	Block	0	-214,86,244
+272.85	Block	0	-210,96,244
+273	Block	0	-214,96,244
+272.95	Block	0	-210,106,244
+273.1	Block	0	-214,106,244
+272.85	Block	0	-232,86,236
+272.85	Block	0	-237,86,-231
+273.05	Block	0	-232,96,236
+272.85	Block	0	-237,96,-231
+272.9	Block	0	-232,106,236
+273.1	Block	0	-237,106,-231
+273.15	Block	0	-232,116,236
+272.9	Block	0	-237,116,-231
+272.85	Block	0	-246,76,212
+273.2	Block	0	-246,76,208
+272.85	Block	0	-246,86,212
+272.85	Block	0	-246,86,208
+273	Block	0	-246,96,212
+273.05	Block	0	-246,96,208
+272.85	Block	0	-246,106,212
+272.8	Block	0	-246,106,208
+272.8	Block	0	-234,82,193
+273.1	Block	0	-237,83,196
+273.2	Block	0	-234,92,193
+272.95	Block	0	-237,93,196
+272.85	Block	0	-234,102,193
+273	Block	0	-237,103,196
+273.15	Block	0	-234,112,193
+273.15	Block	0	-237,113,196
+343.1	Block	119	-193,76,238
+342.9	Block	119	-197,76,238
+343.05	Block	119	-193,86,238
+343.15	Block	119	-197,86,238
+343.1	Block	119	-193,96,238
+342.85	Block	119	-197,96,238
+342.9	Block	119	-193,106,238
+343.05	Block	119	-197,106,238
+342.9	Block	119	-210,76,244
+343.05	Block	119	-214,76,244
+343	Block	119	-210,86,244
+343.05	Block	119	-214,86,244
+343.15	Block	119	-210,96,244
+343.05	Block	119	-214,96,244
+343.05	Block	119	-210,106,244
+342.9	Block	119	-214,106,244
+342.9	Block	119	-232,86,236
+343.05	Block	119	-237,86,-231
+342.8	Block	119	-232,96,236
+343.15	Block	119	-237,96,-231
+343	Block	119	-232,106,236
+342.95	Block	119	-237,106,-231
+343.05	Block	119	-232,116,236
+342.9	Block	119	-237,116,-231
+342.85	Block	119	-246,76,212
+343.1	Block	119	-246,76,208
+342.9	Block	119	-246,86,212
+342.95	Block	119	-246,86,208
+343.1	Block	119	-246,96,212
+343.1	Block	119	-246,96,208
+343.1	Block	119	-246,106,212
+343.15	Block	119	-246,106,208
+343.1	Block	119	-234,82,193
+342.9	Block	119	-237,83,196
+342.8	Block	119	-234,92,193
+343.05	Block	119	-237,93,196
+342.8	Block	119	-234,102,193
+343.05	Block	119	-237,103,196
+343.1	Block	119	-234,112,193
+343	Block	119	-237,113,196
+437.85	Block	0	-193,76,238
+438.1	Block	0	-197,76,238
+438.1	Block	0	-193,86,238
+438.05	Block	0	-197,86,238
+438.05	Block	0	-193,96,238
+437.95	Block	0	-197,96,238
+437.9	Block	0	-193,106,238
+437.85	Block	0	-197,106,238
+438.05	Block	0	-210,76,244
+437.8	Block	0	-214,76,244
+438.1	Block	0	-210,86,244
+438.05	Block	0	-214,86,244
+438.1	Block	0	-210,96,244
+438.15	Block	0	-214,96,244
+437.85	Block	0	-210,106,244
+438	Block	0	-214,106,244
+438.2	Block	0	-232,86,236
+437.95	Block	0	-237,86,-231
+437.8	Block	0	-232,96,236
+437.95	Block	0	-237,96,-231
+438.05	Block	0	-232,106,236
+438.2	Block	0	-237,106,-231
+437.8	Block	0	-232,116,236
+438.2	Block	0	-237,116,-231
+437.9	Block	0	-246,76,212
+438.05	Block	0	-246,76,208
+437.9	Block	0	-246,86,212
+438	Block	0	-246,86,208
+438.2	Block	0	-246,96,212
+438	Block	0	-246,96,208
+437.9	Block	0	-246,106,212
+437.85	Block	0	-246,106,208
+438.15	Block	0	-234,82,193
+438.15	Block	0	-237,83,196
+438	Block	0	-234,92,193
+438	Block	0	-237,93,196
+438.2	Block	0	-234,102,193
+437.9	Block	0	-237,103,196
+437.9	Block	0	-234,112,193
+437.8	Block	0	-237,113,196
+520	Block	119	-193,76,238
+519.95	Block	119	-197,76,238
+519.85	Block	119	-193,86,238
+519.85	Block	119	-197,86,238
+519.8	Block	119	-193,96,238
+520.2	Block	119	-197,96,238
+520.15	Block	119	-193,106,238
+520	Block	119	-197,106,238
+520.05	Block	119	-210,76,244
+519.8	Block	119	-214,76,244
+519.85	Block	119	-210,86,244
+520.15	Block	119	-214,86,244
+519.85	Block	119	-210,96,244
+519.95	Block	119	-214,96,244
+520.05	Block	119	-210,106,244
+520.2	Block	119	-214,106,244
+519.9	Block	119	-232,86,236
+520.05	Block	119	-237,86,-231
+520.1	Block	119	-232,96,236
+520.15	Block	119	-237,96,-231
+520.2	Block	119	-232,106,236
+520.05	Block	119	-237,106,-231
+520.1	Block	119	-232,116,236
+519.9	Block	119	-237,116,-231
+520.05	Block	119	-246,76,212
+520	Block	119	-246,76,208
+519.95	Block	119	-246,86,212
+520.1	Block	119	-246,86,208
+520.05	Block	119	-246,96,212
+520.15	Block	119	-246,96,208
+520.15	Block	119	-246,106,212
+520.2	Block	119	-246,106,208
+520.15	Block	119	-234,82,193
+520.1	Block	119	-237,83,196
+519.8	Block	119	-234,92,193
+519.8	Block	119	-237,93,196
+519.8	Block	119	-234,102,193
+520.15	Block	119	-237,103,196
+519.85	Block	119	-234,112,193
+519.85	Block	119	-237,113,196
+527.15	Block	0	-193,76,238
+526.8	Block	0	-197,76,238
+526.9	Block	0	-193,86,238
+526.95	Block	0	-197,86,238
+527	Block	0	-193,96,238
+526.8	Block	0	-197,96,238
+527	Block	0	-193,106,238
+526.9	Block	0	-197,106,238
+526.85	Block	0	-210,76,244
+526.9	Block	0	-214,76,244
+526.85	Block	0	-210,86,244
+526.9	Block	0	-214,86,244
+526.85	Block	0	-210,96,244
+526.95	Block	0	-214,96,244
+527.15	Block	0	-210,106,244
+527	Block	0	-214,106,244
+527	Block	0	-232,86,236
+526.9	Block	0	-237,86,-231
+526.8	Block	0	-232,96,236
+527.15	Block	0	-237,96,-231
+527.1	Block	0	-232,106,236
+526.95	Block	0	-237,106,-231
+527.1	Block	0	-232,116,236
+526.8	Block	0	-237,116,-231
+527.05	Block	0	-246,76,212
+526.9	Block	0	-246,76,208
+527	Block	0	-246,86,212
+527.05	Block	0	-246,86,208
+526.9	Block	0	-246,96,212
+527.2	Block	0	-246,96,208
+526.95	Block	0	-246,106,212
+526.85	Block	0	-246,106,208
+526.85	Block	0	-234,82,193
+527	Block	0	-237,83,196
+527	Block	0	-234,92,193
+527.05	Block	0	-237,93,196
+526.95	Block	0	-234,102,193
+526.9	Block	0	-237,103,196
+527.15	Block	0	-234,112,193
+526.95	Block	0	-237,113,196
+556.05	Block	119	-193,76,238
+556.05	Block	119	-197,76,238
+556.15	Block	119	-193,86,238
+555.95	Block	119	-197,86,238
+556.1	Block	119	-193,96,238
+556.2	Block	119	-197,96,238
+555.85	Block	119	-193,106,238
+556	Block	119	-197,106,238
+556.15	Block	119	-210,76,244
+556.1	Block	119	-214,76,244
+556.1	Block	119	-210,86,244
+556	Block	119	-214,86,244
+556.05	Block	119	-210,96,244
+555.95	Block	119	-214,96,244
+555.9	Block	119	-210,106,244
+556.15	Block	119	-214,106,244
+555.9	Block	119	-232,86,236
+555.9	Block	119	-237,86,-231
+555.8	Block	119	-232,96,236
+555.95	Block	119	-237,96,-231
+556.05	Block	119	-232,106,236
+556.1	Block	119	-237,106,-231
+555.9	Block	119	-232,116,236
+556.1	Block	119	-237,116,-231
+555.85	Block	119	-246,76,212
+556.2	Block	119	-246,76,208
+556.05	Block	119	-246,86,212
+555.85	Block	119	-246,86,208
+556.15	Block	119	-246,96,212
+555.9	Block	119	-246,96,208
+556.15	Block	119	-246,106,212
+556.05	Block	119	-246,106,208
+556.1	Block	119	-234,82,193
+555.85	Block	119	-237,83,196
+555.95	Block	119	-234,92,193
+555.85	Block	119	-237,93,196
+555.95	Block	119	-234,102,193
+556.05	Block	119	-237,103,196
+556.05	Block	119	-234,112,193
+556.05	Block	119	-237,113,196
+590.35	Block	0	-193,76,238
+590.25	Block	0	-197,76,238
+590.2	Block	0	-193,86,238
+590.15	Block	0	-197,86,238
+590.15	Block	0	-193,96,238
+590.2	Block	0	-197,96,238
+590.15	Block	0	-193,106,238
+590.2	Block	0	-197,106,238
+590.4	Block	0	-210,76,244
+590.3	Block	0	-214,76,244
+590.35	Block	0	-210,86,244
+590.4	Block	0	-214,86,244
+590.15	Block	0	-210,96,244
+590.2	Block	0	-214,96,244
+590.2	Block	0	-210,106,244
+590.15	Block	0	-214,106,244
+590.15	Block	0	-232,86,236
+590.2	Block	0	-237,86,-231
+590.45	Block	0	-232,96,236
+590.4	Block	0	-237,96,-231
+590.2	Block	0	-232,106,236
+590.45	Block	0	-237,106,-231
+590.25	Block	0	-232,116,236
+590.2	Block	0	-237,116,-231
+590.5	Block	0	-246,76,212
+590.2	Block	0	-246,76,208
+590.35	Block	0	-246,86,212
+590.25	Block	0	-246,86,208
+590.15	Block	0	-246,96,212
+590.3	Block	0	-246,96,208
+590.25	Block	0	-246,106,212
+590.4	Block	0	-246,106,208
+590.3	Block	0	-234,82,193
+590.25	Block	0	-237,83,196
+590.1	Block	0	-234,92,193
+590.15	Block	0	-237,93,196
+590.5	Block	0	-234,102,193
+590.5	Block	0	-237,103,196
+590.15	Block	0	-234,112,193
+590.2	Block	0	-237,113,196
+662	Block	119	-193,76,238
+661.9	Block	119	-197,76,238
+661.95	Block	119	-193,86,238
+661.85	Block	119	-197,86,238
+661.8	Block	119	-193,96,238
+661.7	Block	119	-197,96,238
+661.8	Block	119	-193,106,238
+661.9	Block	119	-197,106,238
+661.75	Block	119	-210,76,244
+661.8	Block	119	-214,76,244
+661.75	Block	119	-210,86,244
+661.7	Block	119	-214,86,244
+661.85	Block	119	-210,96,244
+661.95	Block	119	-214,96,244
+662	Block	119	-210,106,244
+661.75	Block	119	-214,106,244
+661.95	Block	119	-232,86,236
+661.75	Block	119	-237,86,-231
+661.8	Block	119	-232,96,236
+661.85	Block	119	-237,96,-231
+662	Block	119	-232,106,236
+661.9	Block	119	-237,106,-231
+661.85	Block	119	-232,116,236
+661.85	Block	119	-237,116,-231
+661.75	Block	119	-246,76,212
+661.65	Block	119	-246,76,208
+661.8	Block	119	-246,86,212
+661.95	Block	119	-246,86,208
+662	Block	119	-246,96,212
+661.75	Block	119	-246,96,208
+661.95	Block	119	-246,106,212
+661.7	Block	119	-246,106,208
+661.7	Block	119	-234,82,193
+661.9	Block	119	-237,83,196
+661.9	Block	119	-234,92,193
+661.8	Block	119	-237,93,196
+661.75	Block	119	-234,102,193
+661.95	Block	119	-237,103,196
+661.7	Block	119	-234,112,193
+661.9	Block	119	-237,113,196
+845.95	Block	0	-193,76,238
+845.95	Block	0	-197,76,238
+845.65	Block	0	-193,86,238
+845.85	Block	0	-197,86,238
+845.75	Block	0	-193,96,238
+845.7	Block	0	-197,96,238
+845.7	Block	0	-193,106,238
+845.85	Block	0	-197,106,238
+845.7	Block	0	-210,76,244
+845.85	Block	0	-214,76,244
+845.85	Block	0	-210,86,244
+845.85	Block	0	-214,86,244
+845.6	Block	0	-210,96,244
+845.85	Block	0	-214,96,244
+845.8	Block	0	-210,106,244
+845.85	Block	0	-214,106,244
+845.75	Block	0	-232,86,236
+845.9	Block	0	-237,86,-231
+845.95	Block	0	-232,96,236
+845.75	Block	0	-237,96,-231
+845.8	Block	0	-232,106,236
+845.75	Block	0	-237,106,-231
+845.7	Block	0	-232,116,236
+845.9	Block	0	-237,116,-231
+845.95	Block	0	-246,76,212
+845.75	Block	0	-246,76,208
+845.85	Block	0	-246,86,212
+845.7	Block	0	-246,86,208
+845.9	Block	0	-246,96,212
+845.8	Block	0	-246,96,208
+845.6	Block	0	-246,106,212
+845.7	Block	0	-246,106,208
+845.6	Block	0	-234,82,193
+845.8	Block	0	-237,83,196
+845.85	Block	0	-234,92,193
+845.8	Block	0	-237,93,196
+845.9	Block	0	-234,102,193
+845.7	Block	0	-237,103,196
+845.8	Block	0	-234,112,193
+845.75	Block	0	-237,113,196
+#/particle cloud -224.5 80.5 250.5 0.6 1.2 0.6 0 4 force
+#/particle cloud -225.9 80.5 249.1 0.6 1.2 0.6 0 4 force
+#/particle cloud -227.3 80.5 247.7 0.6 1.2 0.6 0 4 force
+#/particle cloud -228.7 80.5 247.3 0.6 1.2 0.6 0 4 force
+#The top right
+#/particle cloud -250.5 80.5 224.5 0.6 1.2 0.6 0 4 force
+#/particle cloud -249.1 80.5 225.9 0.6 1.2 0.6 0 4 force
+#/particle cloud -247.7 80.5 227.3 0.6 1.2 0.6 0 4 force
+#/particle cloud -246.3 80.5 228.7 0.6 1.2 0.6 0 4 force
+
+#
+Effect	lb1	BURST,255;165;0&240;230;140&245;222;179,240;230;140&255;239;213&255;222;173,TRAIL
+Effect	lb1a	BURST,152;251;152&127;255;0,WHITE
+Effect	lb1b	BURST,255;20;147&250;128;114,255;20;147&250;128;114
+Effect	lb1c	BALL_LARGE,WHITE,WHITE,FLICKER
+Effect	ring1	BURST,240;128;128&255;105;180,240;128;128&255;105;180
+Effect	lb2	BURST,255;0;0&255;69;0,255;0;0&255;69;0
+Effect	lb2a	BURST,WHITE&135;206;235&173;216;230,WHITE&173;216;230&25;25;112
+Effect	lb3	BURST,WHITE,240;128;128
+Effect	lb4	BURST,186;85;211&138;43;226&65;105;225,224;255;255&173;216;230,FLICKER
+Effect	lb5	BURST,255;165;0,224;255;255&173;216;230,FLICKER
+Effect	lb6	BURST,255;0;0&240;128;128,224;255;255&173;216;230,FLICKER
+Effect	lb7	BURST,255;255;0&255;215;0,224;255;255&173;216;230,FLICKER
+Effect	lb8	BURST,238;130;238&216;191;216,224;255;255&173;216;230,FLICKER
+Effect	lb8a	BURST,255;222;173&WHITE&255;228;196,255;222;173&WHITE&255;255;224,TRAIL
+Effect	flower1	BURST,176;224;230&173;216;230,176;224;230&173;216;230
+Effect	flower1a	BURST,238;130;238&255;105;180,238;130;238&255;105;180
+Effect	flower1b	BURST,255;215;0&255;250;205&255;255;240,240;230;140&255;250;205&255;255;240
+Effect	flower1c	BURST,255;222;173&WHITE&255;228;196,255;222;173&WHITE&255;255;224,FLICKER,TRAIL
+Effect	flower1d	BURST,250;128;114&255;127;80,250;128;114&255;127;80
+Effect	flower1da	BALL,250;128;114&255;127;80,250;128;114&255;127;80
+Effect	expander1	BURST,255;0;0&255;99;71&255;127;80,255;0;0&255;99;71&255;127;80
+Effect	lb9	BURST,0;0;0,255;0;0
+Effect	lb9cr	BURST,220;20;60&255;0;0,220;20;60&255;0;0
+Effect	lb9a	BALL,255;165;0&240;230;140&245;222;179,255;165;0&240;230;140&245;222;179,TRAIL
+Effect	lb10ex	BURST,0;0;0,255;222;173&WHITE&255;228;196,TRAIL
+Effect	tail1	BURST,0;0;0,WHITE,FLICKER
+Effect	lb11	BURST,173;255;47&127;255;0,0;0;0
+Effect	lb12	BURST,255;235;205&255;239;213&255;228;196,255;222;173&WHITE&255;255;224,TRAIL
+Effect	lb13	BURST,173;255;47&127;255;0,224;255;255&152;251;152,FLICKER
+Effect	lb14	BURST,219;112;147&220;20;60&250;128;114,219;112;147&220;20;60&0;0;0
+Effect	lb14a	BURST,238;130;238&255;105;180,238;130;238&255;105;180&224;255;255,FLICKER
+Effect	duo1	BURST,34;125;237&135;206;235,34;125;237&173;216;230
+Effect	duo1a	BURST,255;0;0&250;128;114,255;0;0&250;128;114
+Effect	delay1	BURST,0;0;0,224;255;255&176;224;230
+Effect	power1	BURST,255;165;0&240;230;140&245;222;179,240;230;140&255;239;213&255;222;173,TRAIL
+Effect	power2	BURST,255;165;0&240;230;140&245;222;179,240;230;140&255;239;213&255;222;173,FLICKER
+Effect	power3	BALL,255;235;205&255;239;213&255;228;196,255;222;173&WHITE&255;255;224
+Effect	power3a	BALL_LARGE,255;235;205&255;239;213&255;228;196,255;222;173&WHITE&255;255;224
+Effect	lb15	BURST,255;20;147&250;128;114,152;251;152&127;255;0
+Effect	lb15a	BURST,152;251;152&127;255;0,255;20;147&250;128;114
+Effect	jediblue	BURST,34;125;237,34;125;237
+Effect	jedired	BURST,255;0;0,255;0;0
+Effect	sparkly	BURST,224;255;255&176;224;230,224;255;255&176;224;230,FLICKER
+Effect	circ2	BURST,255;0;0,255;0;0&WHITE
+Effect	lb16	BURST,255;222;173&WHITE&255;228;196,255;222;173&WHITE&255;255;224,FLICKER,TRAIL
+Effect	lb17	BURST,255;255;0&255;215;0,255;255;0&255;215;0,FLICKER
+Effect	fin1	BURST,255;165;0&240;230;140&245;222;179,240;230;140&255;239;213&255;222;173
+Effect	b1	BURST,152;251;152&127;255;0,152;251;152&127;255;0
+Effect	b1a	BURST,255;165;0&240;230;140&245;222;179,240;230;140&255;239;213&255;222;173,FLICKER
+Effect	b2	BURST,255;222;173&WHITE&255;228;196,255;222;173&WHITE&255;255;224,TRAIL
+Effect	b3	BURST,244;164;96,240;230;140&255;239;213&255;222;173,TRAIL
+Effect	b4	BURST,255;99;71&255;0;0,240;230;140&255;239;213&255;222;173,TRAIL
+Effect	b5	BURST,WHITE,255;222;173&WHITE&255;255;224,TRAIL
+Effect	smg1	BALL,245;222;179&250;235;215&255;222;173,224;255;255&176;224;230,FLICKER,TRAIL
+Effect	b6	BURST,255;165;0&240;230;140&245;222;179,255;222;173&WHITE&255;255;224,TRAIL
+Effect	b7	BURST,127;255;212&0;255;0&0;255;127,127;255;212&0;255;0&0;255;127
+Effect	b8	BURST,30;144;255,255;239;213&255;255;224,FLICKER,TRAIL
+Effect	b9	BURST,245;222;179&0;0;0,245;222;179&0;0;0,FLICKER
+Effect	b10	BURST,250;128;114&255;228;196,0;0;0,TRAIL
+Effect	b11	BURST,255;99;71&255;140;0&255;69;0,255;140;0&255;69;0
+Effect	b12	BURST,255;99;71&255;140;0&255;69;0,255;99;71&255;140;0&255;69;0,TRAIL
+Effect	b12a	BURST,255;99;71&255;140;0&255;69;0,255;99;71&255;140;0&255;69;0
+Effect	b13	BURST,255;99;71&255;140;0&255;69;0,0;0;0
+Effect	b14	BURST,100;149;237&176;224;230&100;149;237,100;149;237&176;224;230&100;149;237
+Effect	b15	BURST,255;140;0&255;255;0&255;215;0,255;140;0&255;255;0&255;215;0
+Effect	b16	BURST,218;112;214&186;85;211&238;130;238,0;0;0&186;85;211
+Effect	smg2	BALL_LARGE,173;255;47&127;255;0,224;255;255&152;251;152,FLICKER
+Effect	b17	BURST,173;255;47&255;255;0,240;230;140&245;222;179&255;222;173,FLICKER,TRAIL
+Effect	b18	BURST,244;164;96&255;165;0,244;164;96&255;165;0
+Effect	b19	BURST,250;128;114&255;228;196,0;0;0,FLICKER
+Effect	b20	BURST,255;69;0&255;255;0,0;0;0
+Effect	b21	BURST,221;160;221&218;112;214,0;0;0
+Effect	b22	BURST,255;255;0&255;215;0,255;255;0&255;215;0
+Effect	b23	BURST,255;222;173&WHITE&255;255;224,255;222;173&WHITE&255;255;224
+Effect	b24	BURST,255;222;173&WHITE&255;228;196,255;222;173&WHITE&255;255;224,FLICKER,TRAIL
+Effect	b25	BURST,WHITE,WHITE,TRAIL
+#Tree Fall
+71.6	Block	0:0	-248,67,212
+71.6	Block	0:0	-247,67,213
+71.6	Block	0:0	-242,67,222
+71.6	Block	0:0	-241,67,210
+71.6	Block	0:0	-240,67,211
+71.6	Block	0:0	-235,67,221
+71.6	Block	0:0	-234,67,222
+71.6	Block	0:0	-232,67,206
+71.6	Block	0:0	-231,67,205
+71.6	Block	0:0	-223,67,241
+71.6	Block	0:0	-214,67,246
+71.6	Block	0:0	-213,67,247
+71.6	Block	0:0	-212,67,239
+71.6	Block	0:0	-211,67,240
+71.6	Block	0:0	-207,67,231
+71.6	Block	0:0	-206,67,230
+71.95	Block	18:13	-232,66,208
+71.95	Block	18:13	-230,66,206
+71.95	Block	17:3	-230,66,208
+71.95	Block	18:13	-230,66,210
+71.95	Block	18:13	-228,66,208
+71.95	Block	18:15	-232,67,208
+71.95	Block	18:15	-231,67,207
+71.95	Block	18:15	-231,67,209
+71.95	Block	18:15	-230,67,206
+71.95	Block	18:15	-230,67,210
+71.95	Block	18:15	-229,67,207
+71.95	Block	18:15	-229,67,209
+71.95	Block	18:15	-228,67,208
+71.95	Block	18:13	-228,67,213
+71.95	Block	18:13	-226,67,211
+71.95	Block	17:3	-226,67,213
+71.95	Block	18:13	-226,67,215
+71.95	Block	18:13	-224,67,213
+71.95	Block	18:13	-216,67,226
+71.95	Block	18:13	-214,67,224
+71.95	Block	17:3	-214,67,226
+71.95	Block	18:13	-214,67,228
+71.95	Block	18:13	-212,67,226
+71.95	Block	17:3	-237,68,214
+71.95	Block	0:0	-232,68,208
+71.95	Block	0:0	-231,68,207
+71.95	Block	18:15	-231,68,208
+71.95	Block	0:0	-231,68,209
+71.95	Block	18:13	-231,68,212
+71.95	Block	0:0	-230,68,206
+71.95	Block	18:15	-230,68,207
+71.95	Block	190:0	-230,68,208
+71.95	Block	18:15	-230,68,209
+71.95	Block	0:0	-230,68,210
+71.95	Block	0:0	-229,68,207
+71.95	Block	18:15	-229,68,208
+71.95	Block	0:0	-229,68,209
+71.95	Block	18:13	-229,68,210
+71.95	Block	17:3	-229,68,212
+71.95	Block	18:13	-229,68,214
+71.95	Block	0:0	-228,68,208
+71.95	Block	18:15	-228,68,213
+71.95	Block	18:13	-227,68,212
+71.95	Block	18:15	-227,68,214
+71.95	Block	18:15	-226,68,211
+71.95	Block	18:15	-226,68,215
+71.95	Block	18:15	-225,68,212
+71.95	Block	18:15	-225,68,214
+71.95	Block	18:15	-224,68,213
+71.95	Block	18:15	-216,68,226
+71.95	Block	18:15	-215,68,225
+71.95	Block	18:15	-215,68,227
+71.95	Block	17:3	-215,68,236
+71.95	Block	18:15	-214,68,224
+71.95	Block	18:15	-214,68,228
+71.95	Block	18:15	-213,68,225
+71.95	Block	18:15	-213,68,227
+71.95	Block	18:13	-213,68,229
+71.95	Block	18:15	-212,68,226
+71.95	Block	18:13	-211,68,227
+71.95	Block	17:3	-211,68,229
+71.95	Block	18:13	-211,68,231
+71.95	Block	18:13	-209,68,229
+71.95	Block	18:13	-239,69,214
+71.95	Block	18:13	-237,69,212
+71.95	Block	18:13	-237,69,216
+71.95	Block	18:13	-235,69,214
+71.95	Block	0:0	-231,69,208
+71.95	Block	18:15	-231,69,212
+71.95	Block	0:0	-230,69,207
+71.95	Block	0:0	-230,69,208
+71.95	Block	0:0	-230,69,209
+71.95	Block	18:15	-230,69,211
+71.95	Block	18:15	-230,69,213
+71.95	Block	0:0	-229,69,208
+71.95	Block	18:15	-229,69,210
+71.95	Block	18:15	-229,69,214
+71.95	Block	18:15	-228,69,211
+71.95	Block	18:15	-227,69,212
+71.95	Block	18:15	-227,69,213
+71.95	Block	0:0	-227,69,214
+71.95	Block	0:0	-226,69,211
+71.95	Block	18:15	-226,69,212
+71.95	Block	190:0	-226,69,213
+71.95	Block	18:15	-226,69,214
+71.95	Block	0:0	-226,69,215
+71.95	Block	0:0	-225,69,212
+71.95	Block	18:15	-225,69,213
+71.95	Block	0:0	-225,69,214
+71.95	Block	0:0	-224,69,213
+71.95	Block	18:13	-217,69,236
+71.95	Block	0:0	-216,69,226
+71.95	Block	0:0	-215,69,225
+71.95	Block	18:15	-215,69,226
+71.95	Block	0:0	-215,69,227
+71.95	Block	18:13	-215,69,234
+71.95	Block	18:13	-215,69,238
+71.95	Block	0:0	-214,69,224
+71.95	Block	18:15	-214,69,225
+71.95	Block	190:0	-214,69,226
+71.95	Block	18:15	-214,69,227
+71.95	Block	0:0	-214,69,228
+71.95	Block	0:0	-213,69,225
+71.95	Block	18:15	-213,69,226
+71.95	Block	0:0	-213,69,227
+71.95	Block	18:15	-213,69,229
+71.95	Block	18:13	-213,69,236
+71.95	Block	0:0	-212,69,226
+71.95	Block	18:15	-212,69,228
+71.95	Block	18:15	-212,69,230
+71.95	Block	18:15	-211,69,227
+71.95	Block	18:15	-211,69,231
+71.95	Block	18:15	-210,69,228
+71.95	Block	18:15	-210,69,230
+71.95	Block	18:15	-209,69,229
+71.95	Block	18:15	-239,70,214
+71.95	Block	18:15	-238,70,213
+71.95	Block	18:15	-238,70,215
+71.95	Block	18:15	-237,70,212
+71.95	Block	190:0	-237,70,214
+71.95	Block	18:15	-237,70,216
+71.95	Block	18:15	-236,70,213
+71.95	Block	18:15	-236,70,215
+71.95	Block	18:15	-235,70,214
+71.95	Block	17:3	-234,70,217
+71.95	Block	0:0	-231,70,212
+71.95	Block	17:3	-231,70,220
+71.95	Block	0:0	-230,70,211
+71.95	Block	18:15	-230,70,212
+71.95	Block	0:0	-230,70,213
+71.95	Block	0:0	-229,70,210
+71.95	Block	18:15	-229,70,211
+71.95	Block	190:0	-229,70,212
+71.95	Block	18:15	-229,70,213
+71.95	Block	0:0	-229,70,214
+71.95	Block	0:0	-228,70,211
+71.95	Block	18:15	-228,70,212
+71.95	Block	0:0	-228,70,213
+71.95	Block	0:0	-227,70,212
+71.95	Block	0:0	-227,70,213
+71.95	Block	0:0	-226,70,212
+71.95	Block	0:0	-226,70,213
+71.95	Block	0:0	-226,70,214
+71.95	Block	0:0	-225,70,213
+71.95	Block	17:3	-221,70,230
+71.95	Block	17:3	-218,70,233
+71.95	Block	18:15	-217,70,236
+71.95	Block	18:15	-216,70,235
+71.95	Block	18:15	-216,70,237
+71.95	Block	0:0	-215,70,226
+71.95	Block	18:15	-215,70,234
+71.95	Block	190:0	-215,70,236
+71.95	Block	18:15	-215,70,238
+71.95	Block	0:0	-214,70,225
+71.95	Block	0:0	-214,70,226
+71.95	Block	0:0	-214,70,227
+71.95	Block	18:15	-214,70,235
+71.95	Block	18:15	-214,70,237
+71.95	Block	0:0	-213,70,226
+71.95	Block	0:0	-213,70,229
+71.95	Block	18:15	-213,70,236
+71.95	Block	0:0	-212,70,228
+71.95	Block	18:15	-212,70,229
+71.95	Block	0:0	-212,70,230
+71.95	Block	0:0	-211,70,227
+71.95	Block	18:15	-211,70,228
+71.95	Block	190:0	-211,70,229
+71.95	Block	18:15	-211,70,230
+71.95	Block	0:0	-211,70,231
+71.95	Block	0:0	-210,70,228
+71.95	Block	18:15	-210,70,229
+71.95	Block	0:0	-210,70,230
+71.95	Block	0:0	-209,70,229
+71.95	Block	0:0	-239,71,214
+71.95	Block	0:0	-238,71,213
+71.95	Block	18:15	-238,71,214
+71.95	Block	0:0	-238,71,215
+71.95	Block	0:0	-237,71,212
+71.95	Block	18:15	-237,71,213
+71.95	Block	0:0	-237,71,214
+71.95	Block	18:15	-237,71,215
+71.95	Block	0:0	-237,71,216
+71.95	Block	0:0	-236,71,213
+71.95	Block	18:15	-236,71,214
+71.95	Block	0:0	-236,71,215
+71.95	Block	18:13	-236,71,217
+71.95	Block	0:0	-235,71,214
+71.95	Block	18:13	-234,71,215
+71.95	Block	18:13	-234,71,219
+71.95	Block	18:13	-233,71,220
+71.95	Block	18:13	-232,71,217
+71.95	Block	18:13	-231,71,218
+71.95	Block	18:13	-231,71,222
+71.95	Block	0:0	-230,71,212
+71.95	Block	0:0	-229,71,211
+71.95	Block	0:0	-229,71,212
+71.95	Block	0:0	-229,71,213
+71.95	Block	18:13	-229,71,220
+71.95	Block	0:0	-228,71,212
+71.95	Block	18:13	-223,71,230
+71.95	Block	18:13	-221,71,228
+71.95	Block	18:13	-221,71,232
+71.95	Block	18:13	-220,71,233
+71.95	Block	18:13	-219,71,230
+71.95	Block	18:13	-218,71,231
+71.95	Block	18:13	-218,71,235
+71.95	Block	0:0	-217,71,236
+71.95	Block	18:13	-216,71,233
+71.95	Block	0:0	-216,71,235
+71.95	Block	18:15	-216,71,236
+71.95	Block	0:0	-216,71,237
+71.95	Block	0:0	-215,71,234
+71.95	Block	18:15	-215,71,235
+71.95	Block	0:0	-215,71,236
+71.95	Block	18:15	-215,71,237
+71.95	Block	0:0	-215,71,238
+71.95	Block	0:0	-214,71,235
+71.95	Block	18:15	-214,71,236
+71.95	Block	0:0	-214,71,237
+71.95	Block	0:0	-213,71,236
+71.95	Block	0:0	-212,71,229
+71.95	Block	0:0	-211,71,228
+71.95	Block	0:0	-211,71,229
+71.95	Block	0:0	-211,71,230
+71.95	Block	0:0	-210,71,229
+71.95	Block	0:0	-238,72,214
+71.95	Block	0:0	-237,72,213
+71.95	Block	0:0	-237,72,215
+71.95	Block	0:0	-236,72,214
+71.95	Block	18:15	-236,72,217
+71.95	Block	18:15	-235,72,216
+71.95	Block	18:15	-235,72,218
+71.95	Block	18:15	-234,72,215
+71.95	Block	190:0	-234,72,217
+71.95	Block	18:15	-234,72,219
+71.95	Block	18:15	-233,72,216
+71.95	Block	18:15	-233,72,218
+71.95	Block	18:15	-233,72,220
+71.95	Block	18:15	-232,72,217
+71.95	Block	18:15	-232,72,219
+71.95	Block	18:15	-232,72,221
+71.95	Block	18:15	-231,72,218
+71.95	Block	190:0	-231,72,220
+71.95	Block	18:15	-231,72,222
+71.95	Block	18:15	-230,72,219
+71.95	Block	18:15	-230,72,221
+71.95	Block	18:15	-229,72,220
+71.95	Block	18:15	-223,72,230
+71.95	Block	18:15	-222,72,229
+71.95	Block	18:15	-222,72,231
+71.95	Block	18:15	-221,72,228
+71.95	Block	190:0	-221,72,230
+71.95	Block	18:15	-221,72,232
+71.95	Block	18:15	-220,72,229
+71.95	Block	18:15	-220,72,231
+71.95	Block	18:15	-220,72,233
+71.95	Block	18:15	-219,72,230
+71.95	Block	18:15	-219,72,232
+71.95	Block	18:15	-219,72,234
+71.95	Block	18:15	-218,72,231
+71.95	Block	190:0	-218,72,233
+71.95	Block	18:15	-218,72,235
+71.95	Block	18:15	-217,72,232
+71.95	Block	18:15	-217,72,234
+71.95	Block	18:15	-216,72,233
+71.95	Block	0:0	-216,72,236
+71.95	Block	0:0	-215,72,235
+71.95	Block	0:0	-215,72,237
+71.95	Block	0:0	-214,72,236
+71.95	Block	0:0	-236,73,217
+71.95	Block	0:0	-235,73,216
+71.95	Block	18:15	-235,73,217
+71.95	Block	0:0	-235,73,218
+71.95	Block	0:0	-234,73,215
+71.95	Block	18:15	-234,73,216
+71.95	Block	0:0	-234,73,217
+71.95	Block	18:15	-234,73,218
+71.95	Block	0:0	-234,73,219
+71.95	Block	0:0	-233,73,216
+71.95	Block	18:15	-233,73,217
+71.95	Block	0:0	-233,73,218
+71.95	Block	0:0	-233,73,220
+71.95	Block	0:0	-232,73,217
+71.95	Block	0:0	-232,73,219
+71.95	Block	18:15	-232,73,220
+71.95	Block	0:0	-232,73,221
+71.95	Block	0:0	-231,73,218
+71.95	Block	18:15	-231,73,219
+71.95	Block	0:0	-231,73,220
+71.95	Block	18:15	-231,73,221
+71.95	Block	0:0	-231,73,222
+71.95	Block	0:0	-230,73,219
+71.95	Block	18:15	-230,73,220
+71.95	Block	0:0	-230,73,221
+71.95	Block	0:0	-229,73,220
+71.95	Block	0:0	-223,73,230
+71.95	Block	0:0	-222,73,229
+71.95	Block	18:15	-222,73,230
+71.95	Block	0:0	-222,73,231
+71.95	Block	0:0	-221,73,228
+71.95	Block	18:15	-221,73,229
+71.95	Block	0:0	-221,73,230
+71.95	Block	18:15	-221,73,231
+71.95	Block	0:0	-221,73,232
+71.95	Block	0:0	-220,73,229
+71.95	Block	18:15	-220,73,230
+71.95	Block	0:0	-220,73,231
+71.95	Block	0:0	-220,73,233
+71.95	Block	0:0	-219,73,230
+71.95	Block	0:0	-219,73,232
+71.95	Block	18:15	-219,73,233
+71.95	Block	0:0	-219,73,234
+71.95	Block	0:0	-218,73,231
+71.95	Block	18:15	-218,73,232
+71.95	Block	0:0	-218,73,233
+71.95	Block	18:15	-218,73,234
+71.95	Block	0:0	-218,73,235
+71.95	Block	0:0	-217,73,232
+71.95	Block	18:15	-217,73,233
+71.95	Block	0:0	-217,73,234
+71.95	Block	0:0	-216,73,233
+71.95	Block	0:0	-235,74,217
+71.95	Block	0:0	-234,74,216
+71.95	Block	0:0	-234,74,218
+71.95	Block	0:0	-233,74,217
+71.95	Block	0:0	-232,74,220
+71.95	Block	0:0	-231,74,219
+71.95	Block	0:0	-231,74,221
+71.95	Block	0:0	-230,74,220
+71.95	Block	0:0	-222,74,230
+71.95	Block	0:0	-221,74,229
+71.95	Block	0:0	-221,74,231
+71.95	Block	0:0	-220,74,230
+71.95	Block	0:0	-219,74,233
+71.95	Block	0:0	-218,74,232
+71.95	Block	0:0	-218,74,234
+71.95	Block	0:0	-217,74,233
+72.3	Block	17:3	-230,65,208
+72.3	Block	18:15	-232,66,208
+72.3	Block	18:15	-231,66,207
+72.3	Block	18:15	-231,66,209
+72.3	Block	18:15	-230,66,206
+72.3	Block	18:15	-230,66,210
+72.3	Block	18:15	-229,66,207
+72.3	Block	18:15	-229,66,209
+72.3	Block	18:15	-228,66,208
+72.3	Block	18:13	-228,66,213
+72.3	Block	18:13	-226,66,211
+72.3	Block	17:3	-226,66,213
+72.3	Block	18:13	-226,66,215
+72.3	Block	18:13	-224,66,213
+72.3	Block	18:13	-216,66,226
+72.3	Block	18:13	-214,66,224
+72.3	Block	17:3	-214,66,226
+72.3	Block	18:13	-214,66,228
+72.3	Block	18:13	-212,66,226
+72.3	Block	17:3	-237,67,214
+72.3	Block	0:0	-232,67,208
+72.3	Block	0:0	-231,67,207
+72.3	Block	18:15	-231,67,208
+72.3	Block	0:0	-231,67,209
+72.3	Block	18:13	-231,67,212
+72.3	Block	0:0	-230,67,206
+72.3	Block	18:15	-230,67,207
+72.3	Block	190:0	-230,67,208
+72.3	Block	18:15	-230,67,209
+72.3	Block	0:0	-230,67,210
+72.3	Block	0:0	-229,67,207
+72.3	Block	18:15	-229,67,208
+72.3	Block	0:0	-229,67,209
+72.3	Block	18:13	-229,67,210
+72.3	Block	17:3	-229,67,212
+72.3	Block	18:13	-229,67,214
+72.3	Block	0:0	-228,67,208
+72.3	Block	18:15	-228,67,213
+72.3	Block	18:13	-227,67,212
+72.3	Block	18:15	-227,67,214
+72.3	Block	18:15	-226,67,211
+72.3	Block	18:15	-226,67,215
+72.3	Block	18:15	-225,67,212
+72.3	Block	18:15	-225,67,214
+72.3	Block	18:15	-224,67,213
+72.3	Block	18:15	-216,67,226
+72.3	Block	18:15	-215,67,225
+72.3	Block	18:15	-215,67,227
+72.3	Block	17:3	-215,67,236
+72.3	Block	18:15	-214,67,224
+72.3	Block	18:15	-214,67,228
+72.3	Block	18:15	-213,67,225
+72.3	Block	18:15	-213,67,227
+72.3	Block	18:13	-213,67,229
+72.3	Block	18:15	-212,67,226
+72.3	Block	18:13	-211,67,227
+72.3	Block	17:3	-211,67,229
+72.3	Block	18:13	-211,67,231
+72.3	Block	18:13	-209,67,229
+72.3	Block	18:13	-239,68,214
+72.3	Block	18:13	-237,68,212
+72.3	Block	18:13	-237,68,216
+72.3	Block	18:13	-235,68,214
+72.3	Block	0:0	-231,68,208
+72.3	Block	18:15	-231,68,212
+72.3	Block	0:0	-230,68,207
+72.3	Block	0:0	-230,68,208
+72.3	Block	0:0	-230,68,209
+72.3	Block	18:15	-230,68,211
+72.3	Block	18:15	-230,68,213
+72.3	Block	0:0	-229,68,208
+72.3	Block	18:15	-229,68,210
+72.3	Block	18:15	-229,68,214
+72.3	Block	18:15	-228,68,211
+72.3	Block	18:15	-227,68,212
+72.3	Block	18:15	-227,68,213
+72.3	Block	0:0	-227,68,214
+72.3	Block	0:0	-226,68,211
+72.3	Block	18:15	-226,68,212
+72.3	Block	190:0	-226,68,213
+72.3	Block	18:15	-226,68,214
+72.3	Block	0:0	-226,68,215
+72.3	Block	0:0	-225,68,212
+72.3	Block	18:15	-225,68,213
+72.3	Block	0:0	-225,68,214
+72.3	Block	0:0	-224,68,213
+72.3	Block	18:13	-217,68,236
+72.3	Block	0:0	-216,68,226
+72.3	Block	0:0	-215,68,225
+72.3	Block	18:15	-215,68,226
+72.3	Block	0:0	-215,68,227
+72.3	Block	18:13	-215,68,234
+72.3	Block	18:13	-215,68,238
+72.3	Block	0:0	-214,68,224
+72.3	Block	18:15	-214,68,225
+72.3	Block	190:0	-214,68,226
+72.3	Block	18:15	-214,68,227
+72.3	Block	0:0	-214,68,228
+72.3	Block	0:0	-213,68,225
+72.3	Block	18:15	-213,68,226
+72.3	Block	0:0	-213,68,227
+72.3	Block	18:15	-213,68,229
+72.3	Block	18:13	-213,68,236
+72.3	Block	0:0	-212,68,226
+72.3	Block	18:15	-212,68,228
+72.3	Block	18:15	-212,68,230
+72.3	Block	18:15	-211,68,227
+72.3	Block	18:15	-211,68,231
+72.3	Block	18:15	-210,68,228
+72.3	Block	18:15	-210,68,230
+72.3	Block	18:15	-209,68,229
+72.3	Block	18:15	-239,69,214
+72.3	Block	18:15	-238,69,213
+72.3	Block	18:15	-238,69,215
+72.3	Block	18:15	-237,69,212
+72.3	Block	190:0	-237,69,214
+72.3	Block	18:15	-237,69,216
+72.3	Block	18:15	-236,69,213
+72.3	Block	18:15	-236,69,215
+72.3	Block	18:15	-235,69,214
+72.3	Block	17:3	-234,69,217
+72.3	Block	0:0	-231,69,212
+72.3	Block	17:3	-231,69,220
+72.3	Block	0:0	-230,69,211
+72.3	Block	18:15	-230,69,212
+72.3	Block	0:0	-230,69,213
+72.3	Block	0:0	-229,69,210
+72.3	Block	18:15	-229,69,211
+72.3	Block	190:0	-229,69,212
+72.3	Block	18:15	-229,69,213
+72.3	Block	0:0	-229,69,214
+72.3	Block	0:0	-228,69,211
+72.3	Block	18:15	-228,69,212
+72.3	Block	0:0	-228,69,213
+72.3	Block	0:0	-227,69,212
+72.3	Block	0:0	-227,69,213
+72.3	Block	0:0	-226,69,212
+72.3	Block	0:0	-226,69,213
+72.3	Block	0:0	-226,69,214
+72.3	Block	0:0	-225,69,213
+72.3	Block	17:3	-221,69,230
+72.3	Block	17:3	-218,69,233
+72.3	Block	18:15	-217,69,236
+72.3	Block	18:15	-216,69,235
+72.3	Block	18:15	-216,69,237
+72.3	Block	0:0	-215,69,226
+72.3	Block	18:15	-215,69,234
+72.3	Block	190:0	-215,69,236
+72.3	Block	18:15	-215,69,238
+72.3	Block	0:0	-214,69,225
+72.3	Block	0:0	-214,69,226
+72.3	Block	0:0	-214,69,227
+72.3	Block	18:15	-214,69,235
+72.3	Block	18:15	-214,69,237
+72.3	Block	0:0	-213,69,226
+72.3	Block	0:0	-213,69,229
+72.3	Block	18:15	-213,69,236
+72.3	Block	0:0	-212,69,228
+72.3	Block	18:15	-212,69,229
+72.3	Block	0:0	-212,69,230
+72.3	Block	0:0	-211,69,227
+72.3	Block	18:15	-211,69,228
+72.3	Block	190:0	-211,69,229
+72.3	Block	18:15	-211,69,230
+72.3	Block	0:0	-211,69,231
+72.3	Block	0:0	-210,69,228
+72.3	Block	18:15	-210,69,229
+72.3	Block	0:0	-210,69,230
+72.3	Block	0:0	-209,69,229
+72.3	Block	0:0	-239,70,214
+72.3	Block	0:0	-238,70,213
+72.3	Block	18:15	-238,70,214
+72.3	Block	0:0	-238,70,215
+72.3	Block	0:0	-237,70,212
+72.3	Block	18:15	-237,70,213
+72.3	Block	0:0	-237,70,214
+72.3	Block	18:15	-237,70,215
+72.3	Block	0:0	-237,70,216
+72.3	Block	0:0	-236,70,213
+72.3	Block	18:15	-236,70,214
+72.3	Block	0:0	-236,70,215
+72.3	Block	18:13	-236,70,217
+72.3	Block	0:0	-235,70,214
+72.3	Block	18:13	-234,70,215
+72.3	Block	18:13	-234,70,219
+72.3	Block	18:13	-233,70,220
+72.3	Block	18:13	-232,70,217
+72.3	Block	18:13	-231,70,218
+72.3	Block	18:13	-231,70,222
+72.3	Block	0:0	-230,70,212
+72.3	Block	0:0	-229,70,211
+72.3	Block	0:0	-229,70,212
+72.3	Block	0:0	-229,70,213
+72.3	Block	18:13	-229,70,220
+72.3	Block	0:0	-228,70,212
+72.3	Block	18:13	-223,70,230
+72.3	Block	18:13	-221,70,228
+72.3	Block	18:13	-221,70,232
+72.3	Block	18:13	-220,70,233
+72.3	Block	18:13	-219,70,230
+72.3	Block	18:13	-218,70,231
+72.3	Block	18:13	-218,70,235
+72.3	Block	0:0	-217,70,236
+72.3	Block	18:13	-216,70,233
+72.3	Block	0:0	-216,70,235
+72.3	Block	18:15	-216,70,236
+72.3	Block	0:0	-216,70,237
+72.3	Block	0:0	-215,70,234
+72.3	Block	18:15	-215,70,235
+72.3	Block	0:0	-215,70,236
+72.3	Block	18:15	-215,70,237
+72.3	Block	0:0	-215,70,238
+72.3	Block	0:0	-214,70,235
+72.3	Block	18:15	-214,70,236
+72.3	Block	0:0	-214,70,237
+72.3	Block	0:0	-213,70,236
+72.3	Block	0:0	-212,70,229
+72.3	Block	0:0	-211,70,228
+72.3	Block	0:0	-211,70,229
+72.3	Block	0:0	-211,70,230
+72.3	Block	0:0	-210,70,229
+72.3	Block	0:0	-238,71,214
+72.3	Block	0:0	-237,71,213
+72.3	Block	0:0	-237,71,215
+72.3	Block	0:0	-236,71,214
+72.3	Block	18:15	-236,71,217
+72.3	Block	18:15	-235,71,216
+72.3	Block	18:15	-235,71,218
+72.3	Block	18:15	-234,71,215
+72.3	Block	190:0	-234,71,217
+72.3	Block	18:15	-234,71,219
+72.3	Block	18:15	-233,71,216
+72.3	Block	18:15	-233,71,218
+72.3	Block	18:15	-233,71,220
+72.3	Block	18:15	-232,71,217
+72.3	Block	18:15	-232,71,219
+72.3	Block	18:15	-232,71,221
+72.3	Block	18:15	-231,71,218
+72.3	Block	190:0	-231,71,220
+72.3	Block	18:15	-231,71,222
+72.3	Block	18:15	-230,71,219
+72.3	Block	18:15	-230,71,221
+72.3	Block	18:15	-229,71,220
+72.3	Block	18:15	-223,71,230
+72.3	Block	18:15	-222,71,229
+72.3	Block	18:15	-222,71,231
+72.3	Block	18:15	-221,71,228
+72.3	Block	190:0	-221,71,230
+72.3	Block	18:15	-221,71,232
+72.3	Block	18:15	-220,71,229
+72.3	Block	18:15	-220,71,231
+72.3	Block	18:15	-220,71,233
+72.3	Block	18:15	-219,71,230
+72.3	Block	18:15	-219,71,232
+72.3	Block	18:15	-219,71,234
+72.3	Block	18:15	-218,71,231
+72.3	Block	190:0	-218,71,233
+72.3	Block	18:15	-218,71,235
+72.3	Block	18:15	-217,71,232
+72.3	Block	18:15	-217,71,234
+72.3	Block	18:15	-216,71,233
+72.3	Block	0:0	-216,71,236
+72.3	Block	0:0	-215,71,235
+72.3	Block	0:0	-215,71,237
+72.3	Block	0:0	-214,71,236
+72.3	Block	0:0	-236,72,217
+72.3	Block	0:0	-235,72,216
+72.3	Block	18:15	-235,72,217
+72.3	Block	0:0	-235,72,218
+72.3	Block	0:0	-234,72,215
+72.3	Block	18:15	-234,72,216
+72.3	Block	0:0	-234,72,217
+72.3	Block	18:15	-234,72,218
+72.3	Block	0:0	-234,72,219
+72.3	Block	0:0	-233,72,216
+72.3	Block	18:15	-233,72,217
+72.3	Block	0:0	-233,72,218
+72.3	Block	0:0	-233,72,220
+72.3	Block	0:0	-232,72,217
+72.3	Block	0:0	-232,72,219
+72.3	Block	18:15	-232,72,220
+72.3	Block	0:0	-232,72,221
+72.3	Block	0:0	-231,72,218
+72.3	Block	18:15	-231,72,219
+72.3	Block	0:0	-231,72,220
+72.3	Block	18:15	-231,72,221
+72.3	Block	0:0	-231,72,222
+72.3	Block	0:0	-230,72,219
+72.3	Block	18:15	-230,72,220
+72.3	Block	0:0	-230,72,221
+72.3	Block	0:0	-229,72,220
+72.3	Block	0:0	-223,72,230
+72.3	Block	0:0	-222,72,229
+72.3	Block	18:15	-222,72,230
+72.3	Block	0:0	-222,72,231
+72.3	Block	0:0	-221,72,228
+72.3	Block	18:15	-221,72,229
+72.3	Block	0:0	-221,72,230
+72.3	Block	18:15	-221,72,231
+72.3	Block	0:0	-221,72,232
+72.3	Block	0:0	-220,72,229
+72.3	Block	18:15	-220,72,230
+72.3	Block	0:0	-220,72,231
+72.3	Block	0:0	-220,72,233
+72.3	Block	0:0	-219,72,230
+72.3	Block	0:0	-219,72,232
+72.3	Block	18:15	-219,72,233
+72.3	Block	0:0	-219,72,234
+72.3	Block	0:0	-218,72,231
+72.3	Block	18:15	-218,72,232
+72.3	Block	0:0	-218,72,233
+72.3	Block	18:15	-218,72,234
+72.3	Block	0:0	-218,72,235
+72.3	Block	0:0	-217,72,232
+72.3	Block	18:15	-217,72,233
+72.3	Block	0:0	-217,72,234
+72.3	Block	0:0	-216,72,233
+72.3	Block	0:0	-235,73,217
+72.3	Block	0:0	-234,73,216
+72.3	Block	0:0	-234,73,218
+72.3	Block	0:0	-233,73,217
+72.3	Block	0:0	-232,73,220
+72.3	Block	0:0	-231,73,219
+72.3	Block	0:0	-231,73,221
+72.3	Block	0:0	-230,73,220
+72.3	Block	0:0	-222,73,230
+72.3	Block	0:0	-221,73,229
+72.3	Block	0:0	-221,73,231
+72.3	Block	0:0	-220,73,230
+72.3	Block	0:0	-219,73,233
+72.3	Block	0:0	-218,73,232
+72.3	Block	0:0	-218,73,234
+72.3	Block	0:0	-217,73,233
+72.7	Block	18:15	-229,65,209
+72.7	Block	18:13	-228,65,213
+72.7	Block	17:3	-226,65,213
+72.7	Block	18:13	-214,65,224
+72.7	Block	17:3	-214,65,226
+72.7	Block	18:13	-214,65,228
+72.7	Block	17:3	-237,66,214
+72.7	Block	0:0	-232,66,208
+72.7	Block	0:0	-231,66,207
+72.7	Block	18:15	-231,66,208
+72.7	Block	0:0	-231,66,209
+72.7	Block	18:13	-231,66,212
+72.7	Block	0:0	-230,66,206
+72.7	Block	18:15	-230,66,207
+72.7	Block	190:0	-230,66,208
+72.7	Block	18:15	-230,66,209
+72.7	Block	0:0	-230,66,210
+72.7	Block	0:0	-229,66,207
+72.7	Block	18:15	-229,66,208
+72.7	Block	0:0	-229,66,209
+72.7	Block	18:13	-229,66,210
+72.7	Block	17:3	-229,66,212
+72.7	Block	18:13	-229,66,214
+72.7	Block	0:0	-228,66,208
+72.7	Block	18:15	-228,66,213
+72.7	Block	18:13	-227,66,212
+72.7	Block	18:15	-227,66,214
+72.7	Block	18:15	-226,66,211
+72.7	Block	18:15	-226,66,215
+72.7	Block	18:15	-225,66,212
+72.7	Block	18:15	-225,66,214
+72.7	Block	18:15	-224,66,213
+72.7	Block	18:15	-216,66,226
+72.7	Block	18:15	-215,66,225
+72.7	Block	18:15	-215,66,227
+72.7	Block	17:3	-215,66,236
+72.7	Block	18:15	-214,66,224
+72.7	Block	18:15	-214,66,228
+72.7	Block	18:15	-213,66,225
+72.7	Block	18:15	-213,66,227
+72.7	Block	18:13	-213,66,229
+72.7	Block	18:15	-212,66,226
+72.7	Block	18:13	-211,66,227
+72.7	Block	17:3	-211,66,229
+72.7	Block	18:13	-211,66,231
+72.7	Block	18:13	-209,66,229
+72.7	Block	18:13	-239,67,214
+72.7	Block	18:13	-237,67,212
+72.7	Block	18:13	-237,67,216
+72.7	Block	18:13	-235,67,214
+72.7	Block	0:0	-231,67,208
+72.7	Block	18:15	-231,67,212
+72.7	Block	0:0	-230,67,207
+72.7	Block	0:0	-230,67,208
+72.7	Block	0:0	-230,67,209
+72.7	Block	18:15	-230,67,211
+72.7	Block	18:15	-230,67,213
+72.7	Block	0:0	-229,67,208
+72.7	Block	18:15	-229,67,210
+72.7	Block	18:15	-229,67,214
+72.7	Block	18:15	-228,67,211
+72.7	Block	18:15	-227,67,212
+72.7	Block	18:15	-227,67,213
+72.7	Block	0:0	-227,67,214
+72.7	Block	0:0	-226,67,211
+72.7	Block	18:15	-226,67,212
+72.7	Block	190:0	-226,67,213
+72.7	Block	18:15	-226,67,214
+72.7	Block	0:0	-226,67,215
+72.7	Block	0:0	-225,67,212
+72.7	Block	18:15	-225,67,213
+72.7	Block	0:0	-225,67,214
+72.7	Block	0:0	-224,67,213
+72.7	Block	18:13	-217,67,236
+72.7	Block	0:0	-216,67,226
+72.7	Block	0:0	-215,67,225
+72.7	Block	18:15	-215,67,226
+72.7	Block	0:0	-215,67,227
+72.7	Block	18:13	-215,67,234
+72.7	Block	18:13	-215,67,238
+72.7	Block	0:0	-214,67,224
+72.7	Block	18:15	-214,67,225
+72.7	Block	190:0	-214,67,226
+72.7	Block	18:15	-214,67,227
+72.7	Block	0:0	-214,67,228
+72.7	Block	0:0	-213,67,225
+72.7	Block	18:15	-213,67,226
+72.7	Block	0:0	-213,67,227
+72.7	Block	18:15	-213,67,229
+72.7	Block	18:13	-213,67,236
+72.7	Block	0:0	-212,67,226
+72.7	Block	18:15	-212,67,228
+72.7	Block	18:15	-212,67,230
+72.7	Block	18:15	-211,67,227
+72.7	Block	18:15	-211,67,231
+72.7	Block	18:15	-210,67,228
+72.7	Block	18:15	-210,67,230
+72.7	Block	18:15	-209,67,229
+72.7	Block	18:15	-239,68,214
+72.7	Block	18:15	-238,68,213
+72.7	Block	18:15	-238,68,215
+72.7	Block	18:15	-237,68,212
+72.7	Block	190:0	-237,68,214
+72.7	Block	18:15	-237,68,216
+72.7	Block	18:15	-236,68,213
+72.7	Block	18:15	-236,68,215
+72.7	Block	18:15	-235,68,214
+72.7	Block	17:3	-234,68,217
+72.7	Block	0:0	-231,68,212
+72.7	Block	17:3	-231,68,220
+72.7	Block	0:0	-230,68,211
+72.7	Block	18:15	-230,68,212
+72.7	Block	0:0	-230,68,213
+72.7	Block	0:0	-229,68,210
+72.7	Block	18:15	-229,68,211
+72.7	Block	190:0	-229,68,212
+72.7	Block	18:15	-229,68,213
+72.7	Block	0:0	-229,68,214
+72.7	Block	0:0	-228,68,211
+72.7	Block	18:15	-228,68,212
+72.7	Block	0:0	-228,68,213
+72.7	Block	0:0	-227,68,212
+72.7	Block	0:0	-227,68,213
+72.7	Block	0:0	-226,68,212
+72.7	Block	0:0	-226,68,213
+72.7	Block	0:0	-226,68,214
+72.7	Block	0:0	-225,68,213
+72.7	Block	17:3	-221,68,230
+72.7	Block	17:3	-218,68,233
+72.7	Block	18:15	-217,68,236
+72.7	Block	18:15	-216,68,235
+72.7	Block	18:15	-216,68,237
+72.7	Block	0:0	-215,68,226
+72.7	Block	18:15	-215,68,234
+72.7	Block	190:0	-215,68,236
+72.7	Block	18:15	-215,68,238
+72.7	Block	0:0	-214,68,225
+72.7	Block	0:0	-214,68,226
+72.7	Block	0:0	-214,68,227
+72.7	Block	18:15	-214,68,235
+72.7	Block	18:15	-214,68,237
+72.7	Block	0:0	-213,68,226
+72.7	Block	0:0	-213,68,229
+72.7	Block	18:15	-213,68,236
+72.7	Block	0:0	-212,68,228
+72.7	Block	18:15	-212,68,229
+72.7	Block	0:0	-212,68,230
+72.7	Block	0:0	-211,68,227
+72.7	Block	18:15	-211,68,228
+72.7	Block	190:0	-211,68,229
+72.7	Block	18:15	-211,68,230
+72.7	Block	0:0	-211,68,231
+72.7	Block	0:0	-210,68,228
+72.7	Block	18:15	-210,68,229
+72.7	Block	0:0	-210,68,230
+72.7	Block	0:0	-209,68,229
+72.7	Block	0:0	-239,69,214
+72.7	Block	0:0	-238,69,213
+72.7	Block	18:15	-238,69,214
+72.7	Block	0:0	-238,69,215
+72.7	Block	0:0	-237,69,212
+72.7	Block	18:15	-237,69,213
+72.7	Block	0:0	-237,69,214
+72.7	Block	18:15	-237,69,215
+72.7	Block	0:0	-237,69,216
+72.7	Block	0:0	-236,69,213
+72.7	Block	18:15	-236,69,214
+72.7	Block	0:0	-236,69,215
+72.7	Block	18:13	-236,69,217
+72.7	Block	0:0	-235,69,214
+72.7	Block	18:13	-234,69,215
+72.7	Block	18:13	-234,69,219
+72.7	Block	18:13	-233,69,220
+72.7	Block	18:13	-232,69,217
+72.7	Block	18:13	-231,69,218
+72.7	Block	18:13	-231,69,222
+72.7	Block	0:0	-230,69,212
+72.7	Block	0:0	-229,69,211
+72.7	Block	0:0	-229,69,212
+72.7	Block	0:0	-229,69,213
+72.7	Block	18:13	-229,69,220
+72.7	Block	0:0	-228,69,212
+72.7	Block	18:13	-223,69,230
+72.7	Block	18:13	-221,69,228
+72.7	Block	18:13	-221,69,232
+72.7	Block	18:13	-220,69,233
+72.7	Block	18:13	-219,69,230
+72.7	Block	18:13	-218,69,231
+72.7	Block	18:13	-218,69,235
+72.7	Block	0:0	-217,69,236
+72.7	Block	18:13	-216,69,233
+72.7	Block	0:0	-216,69,235
+72.7	Block	18:15	-216,69,236
+72.7	Block	0:0	-216,69,237
+72.7	Block	0:0	-215,69,234
+72.7	Block	18:15	-215,69,235
+72.7	Block	0:0	-215,69,236
+72.7	Block	18:15	-215,69,237
+72.7	Block	0:0	-215,69,238
+72.7	Block	0:0	-214,69,235
+72.7	Block	18:15	-214,69,236
+72.7	Block	0:0	-214,69,237
+72.7	Block	0:0	-213,69,236
+72.7	Block	0:0	-212,69,229
+72.7	Block	0:0	-211,69,228
+72.7	Block	0:0	-211,69,229
+72.7	Block	0:0	-211,69,230
+72.7	Block	0:0	-210,69,229
+72.7	Block	0:0	-238,70,214
+72.7	Block	0:0	-237,70,213
+72.7	Block	0:0	-237,70,215
+72.7	Block	0:0	-236,70,214
+72.7	Block	18:15	-236,70,217
+72.7	Block	18:15	-235,70,216
+72.7	Block	18:15	-235,70,218
+72.7	Block	18:15	-234,70,215
+72.7	Block	190:0	-234,70,217
+72.7	Block	18:15	-234,70,219
+72.7	Block	18:15	-233,70,216
+72.7	Block	18:15	-233,70,218
+72.7	Block	18:15	-233,70,220
+72.7	Block	18:15	-232,70,217
+72.7	Block	18:15	-232,70,219
+72.7	Block	18:15	-232,70,221
+72.7	Block	18:15	-231,70,218
+72.7	Block	190:0	-231,70,220
+72.7	Block	18:15	-231,70,222
+72.7	Block	18:15	-230,70,219
+72.7	Block	18:15	-230,70,221
+72.7	Block	18:15	-229,70,220
+72.7	Block	18:15	-223,70,230
+72.7	Block	18:15	-222,70,229
+72.7	Block	18:15	-222,70,231
+72.7	Block	18:15	-221,70,228
+72.7	Block	190:0	-221,70,230
+72.7	Block	18:15	-221,70,232
+72.7	Block	18:15	-220,70,229
+72.7	Block	18:15	-220,70,231
+72.7	Block	18:15	-220,70,233
+72.7	Block	18:15	-219,70,230
+72.7	Block	18:15	-219,70,232
+72.7	Block	18:15	-219,70,234
+72.7	Block	18:15	-218,70,231
+72.7	Block	190:0	-218,70,233
+72.7	Block	18:15	-218,70,235
+72.7	Block	18:15	-217,70,232
+72.7	Block	18:15	-217,70,234
+72.7	Block	18:15	-216,70,233
+72.7	Block	0:0	-216,70,236
+72.7	Block	0:0	-215,70,235
+72.7	Block	0:0	-215,70,237
+72.7	Block	0:0	-214,70,236
+72.7	Block	0:0	-236,71,217
+72.7	Block	0:0	-235,71,216
+72.7	Block	18:15	-235,71,217
+72.7	Block	0:0	-235,71,218
+72.7	Block	0:0	-234,71,215
+72.7	Block	18:15	-234,71,216
+72.7	Block	0:0	-234,71,217
+72.7	Block	18:15	-234,71,218
+72.7	Block	0:0	-234,71,219
+72.7	Block	0:0	-233,71,216
+72.7	Block	18:15	-233,71,217
+72.7	Block	0:0	-233,71,218
+72.7	Block	0:0	-233,71,220
+72.7	Block	0:0	-232,71,217
+72.7	Block	0:0	-232,71,219
+72.7	Block	18:15	-232,71,220
+72.7	Block	0:0	-232,71,221
+72.7	Block	0:0	-231,71,218
+72.7	Block	18:15	-231,71,219
+72.7	Block	0:0	-231,71,220
+72.7	Block	18:15	-231,71,221
+72.7	Block	0:0	-231,71,222
+72.7	Block	0:0	-230,71,219
+72.7	Block	18:15	-230,71,220
+72.7	Block	0:0	-230,71,221
+72.7	Block	0:0	-229,71,220
+72.7	Block	0:0	-223,71,230
+72.7	Block	0:0	-222,71,229
+72.7	Block	18:15	-222,71,230
+72.7	Block	0:0	-222,71,231
+72.7	Block	0:0	-221,71,228
+72.7	Block	18:15	-221,71,229
+72.7	Block	0:0	-221,71,230
+72.7	Block	18:15	-221,71,231
+72.7	Block	0:0	-221,71,232
+72.7	Block	0:0	-220,71,229
+72.7	Block	18:15	-220,71,230
+72.7	Block	0:0	-220,71,231
+72.7	Block	0:0	-220,71,233
+72.7	Block	0:0	-219,71,230
+72.7	Block	0:0	-219,71,232
+72.7	Block	18:15	-219,71,233
+72.7	Block	0:0	-219,71,234
+72.7	Block	0:0	-218,71,231
+72.7	Block	18:15	-218,71,232
+72.7	Block	0:0	-218,71,233
+72.7	Block	18:15	-218,71,234
+72.7	Block	0:0	-218,71,235
+72.7	Block	0:0	-217,71,232
+72.7	Block	18:15	-217,71,233
+72.7	Block	0:0	-217,71,234
+72.7	Block	0:0	-216,71,233
+72.7	Block	0:0	-235,72,217
+72.7	Block	0:0	-234,72,216
+72.7	Block	0:0	-234,72,218
+72.7	Block	0:0	-233,72,217
+72.7	Block	0:0	-232,72,220
+72.7	Block	0:0	-231,72,219
+72.7	Block	0:0	-231,72,221
+72.7	Block	0:0	-230,72,220
+72.7	Block	0:0	-222,72,230
+72.7	Block	0:0	-221,72,229
+72.7	Block	0:0	-221,72,231
+72.7	Block	0:0	-220,72,230
+72.7	Block	0:0	-219,72,233
+72.7	Block	0:0	-218,72,232
+72.7	Block	0:0	-218,72,234
+72.7	Block	0:0	-217,72,233
+73.05	Block	17:3	-237,65,214
+73.05	Block	190:0	-230,65,208
+73.05	Block	18:15	-230,65,209
+73.05	Block	0:0	-229,65,209
+73.05	Block	17:3	-229,65,212
+73.05	Block	18:15	-228,65,213
+73.05	Block	18:13	-227,65,212
+73.05	Block	17:3	-215,65,236
+73.05	Block	18:15	-214,65,224
+73.05	Block	18:15	-214,65,228
+73.05	Block	18:15	-213,65,227
+73.05	Block	18:13	-211,65,227
+73.05	Block	17:3	-211,65,229
+73.05	Block	18:13	-209,65,229
+73.05	Block	18:13	-237,66,212
+73.05	Block	18:13	-237,66,216
+73.05	Block	18:13	-235,66,214
+73.05	Block	0:0	-231,66,208
+73.05	Block	18:15	-231,66,212
+73.05	Block	0:0	-230,66,207
+73.05	Block	0:0	-230,66,208
+73.05	Block	0:0	-230,66,209
+73.05	Block	18:15	-230,66,211
+73.05	Block	18:15	-230,66,213
+73.05	Block	0:0	-229,66,208
+73.05	Block	18:15	-229,66,210
+73.05	Block	18:15	-229,66,214
+73.05	Block	18:15	-228,66,211
+73.05	Block	18:15	-227,66,212
+73.05	Block	18:15	-227,66,213
+73.05	Block	0:0	-227,66,214
+73.05	Block	0:0	-226,66,211
+73.05	Block	18:15	-226,66,212
+73.05	Block	190:0	-226,66,213
+73.05	Block	18:15	-226,66,214
+73.05	Block	0:0	-226,66,215
+73.05	Block	0:0	-225,66,212
+73.05	Block	18:15	-225,66,213
+73.05	Block	0:0	-225,66,214
+73.05	Block	0:0	-224,66,213
+73.05	Block	18:13	-217,66,236
+73.05	Block	0:0	-216,66,226
+73.05	Block	0:0	-215,66,225
+73.05	Block	18:15	-215,66,226
+73.05	Block	0:0	-215,66,227
+73.05	Block	0:0	-214,66,224
+73.05	Block	18:15	-214,66,225
+73.05	Block	190:0	-214,66,226
+73.05	Block	18:15	-214,66,227
+73.05	Block	0:0	-214,66,228
+73.05	Block	0:0	-213,66,225
+73.05	Block	18:15	-213,66,226
+73.05	Block	0:0	-213,66,227
+73.05	Block	18:15	-213,66,229
+73.05	Block	18:13	-213,66,236
+73.05	Block	0:0	-212,66,226
+73.05	Block	18:15	-212,66,228
+73.05	Block	18:15	-212,66,230
+73.05	Block	18:15	-211,66,227
+73.05	Block	18:15	-211,66,231
+73.05	Block	18:15	-210,66,228
+73.05	Block	18:15	-210,66,230
+73.05	Block	18:15	-209,66,229
+73.05	Block	18:15	-239,67,214
+73.05	Block	18:15	-238,67,213
+73.05	Block	18:15	-238,67,215
+73.05	Block	18:15	-237,67,212
+73.05	Block	190:0	-237,67,214
+73.05	Block	18:15	-237,67,216
+73.05	Block	18:15	-236,67,213
+73.05	Block	18:15	-236,67,215
+73.05	Block	18:15	-235,67,214
+73.05	Block	17:3	-234,67,217
+73.05	Block	0:0	-231,67,212
+73.05	Block	17:3	-231,67,220
+73.05	Block	0:0	-230,67,211
+73.05	Block	18:15	-230,67,212
+73.05	Block	0:0	-230,67,213
+73.05	Block	0:0	-229,67,210
+73.05	Block	18:15	-229,67,211
+73.05	Block	190:0	-229,67,212
+73.05	Block	18:15	-229,67,213
+73.05	Block	0:0	-229,67,214
+73.05	Block	0:0	-228,67,211
+73.05	Block	18:15	-228,67,212
+73.05	Block	0:0	-228,67,213
+73.05	Block	0:0	-227,67,212
+73.05	Block	0:0	-227,67,213
+73.05	Block	0:0	-226,67,212
+73.05	Block	0:0	-226,67,213
+73.05	Block	0:0	-226,67,214
+73.05	Block	0:0	-225,67,213
+73.05	Block	17:3	-221,67,230
+73.05	Block	17:3	-218,67,233
+73.05	Block	18:15	-217,67,236
+73.05	Block	18:15	-216,67,235
+73.05	Block	18:15	-216,67,237
+73.05	Block	0:0	-215,67,226
+73.05	Block	18:15	-215,67,234
+73.05	Block	190:0	-215,67,236
+73.05	Block	18:15	-215,67,238
+73.05	Block	0:0	-214,67,225
+73.05	Block	0:0	-214,67,226
+73.05	Block	0:0	-214,67,227
+73.05	Block	18:15	-214,67,235
+73.05	Block	18:15	-214,67,237
+73.05	Block	0:0	-213,67,226
+73.05	Block	0:0	-213,67,229
+73.05	Block	18:15	-213,67,236
+73.05	Block	0:0	-212,67,228
+73.05	Block	18:15	-212,67,229
+73.05	Block	0:0	-212,67,230
+73.05	Block	0:0	-211,67,227
+73.05	Block	18:15	-211,67,228
+73.05	Block	190:0	-211,67,229
+73.05	Block	18:15	-211,67,230
+73.05	Block	0:0	-211,67,231
+73.05	Block	0:0	-210,67,228
+73.05	Block	18:15	-210,67,229
+73.05	Block	0:0	-210,67,230
+73.05	Block	0:0	-209,67,229
+73.05	Block	0:0	-239,68,214
+73.05	Block	0:0	-238,68,213
+73.05	Block	18:15	-238,68,214
+73.05	Block	0:0	-238,68,215
+73.05	Block	0:0	-237,68,212
+73.05	Block	18:15	-237,68,213
+73.05	Block	0:0	-237,68,214
+73.05	Block	18:15	-237,68,215
+73.05	Block	0:0	-237,68,216
+73.05	Block	0:0	-236,68,213
+73.05	Block	18:15	-236,68,214
+73.05	Block	0:0	-236,68,215
+73.05	Block	18:13	-236,68,217
+73.05	Block	0:0	-235,68,214
+73.05	Block	18:13	-234,68,215
+73.05	Block	18:13	-234,68,219
+73.05	Block	18:13	-233,68,220
+73.05	Block	18:13	-232,68,217
+73.05	Block	18:13	-231,68,218
+73.05	Block	18:13	-231,68,222
+73.05	Block	0:0	-230,68,212
+73.05	Block	0:0	-229,68,211
+73.05	Block	0:0	-229,68,212
+73.05	Block	0:0	-229,68,213
+73.05	Block	18:13	-229,68,220
+73.05	Block	0:0	-228,68,212
+73.05	Block	18:13	-223,68,230
+73.05	Block	18:13	-221,68,228
+73.05	Block	18:13	-221,68,232
+73.05	Block	18:13	-220,68,233
+73.05	Block	18:13	-219,68,230
+73.05	Block	18:13	-218,68,231
+73.05	Block	18:13	-218,68,235
+73.05	Block	0:0	-217,68,236
+73.05	Block	18:13	-216,68,233
+73.05	Block	0:0	-216,68,235
+73.05	Block	18:15	-216,68,236
+73.05	Block	0:0	-216,68,237
+73.05	Block	0:0	-215,68,234
+73.05	Block	18:15	-215,68,235
+73.05	Block	0:0	-215,68,236
+73.05	Block	18:15	-215,68,237
+73.05	Block	0:0	-215,68,238
+73.05	Block	0:0	-214,68,235
+73.05	Block	18:15	-214,68,236
+73.05	Block	0:0	-214,68,237
+73.05	Block	0:0	-213,68,236
+73.05	Block	0:0	-212,68,229
+73.05	Block	0:0	-211,68,228
+73.05	Block	0:0	-211,68,229
+73.05	Block	0:0	-211,68,230
+73.05	Block	0:0	-210,68,229
+73.05	Block	0:0	-238,69,214
+73.05	Block	0:0	-237,69,213
+73.05	Block	0:0	-237,69,215
+73.05	Block	0:0	-236,69,214
+73.05	Block	18:15	-236,69,217
+73.05	Block	18:15	-235,69,216
+73.05	Block	18:15	-235,69,218
+73.05	Block	18:15	-234,69,215
+73.05	Block	190:0	-234,69,217
+73.05	Block	18:15	-234,69,219
+73.05	Block	18:15	-233,69,216
+73.05	Block	18:15	-233,69,218
+73.05	Block	18:15	-233,69,220
+73.05	Block	18:15	-232,69,217
+73.05	Block	18:15	-232,69,219
+73.05	Block	18:15	-232,69,221
+73.05	Block	18:15	-231,69,218
+73.05	Block	190:0	-231,69,220
+73.05	Block	18:15	-231,69,222
+73.05	Block	18:15	-230,69,219
+73.05	Block	18:15	-230,69,221
+73.05	Block	18:15	-229,69,220
+73.05	Block	18:15	-223,69,230
+73.05	Block	18:15	-222,69,229
+73.05	Block	18:15	-222,69,231
+73.05	Block	18:15	-221,69,228
+73.05	Block	190:0	-221,69,230
+73.05	Block	18:15	-221,69,232
+73.05	Block	18:15	-220,69,229
+73.05	Block	18:15	-220,69,231
+73.05	Block	18:15	-220,69,233
+73.05	Block	18:15	-219,69,230
+73.05	Block	18:15	-219,69,232
+73.05	Block	18:15	-219,69,234
+73.05	Block	18:15	-218,69,231
+73.05	Block	190:0	-218,69,233
+73.05	Block	18:15	-218,69,235
+73.05	Block	18:15	-217,69,232
+73.05	Block	18:15	-217,69,234
+73.05	Block	18:15	-216,69,233
+73.05	Block	0:0	-216,69,236
+73.05	Block	0:0	-215,69,235
+73.05	Block	0:0	-215,69,237
+73.05	Block	0:0	-214,69,236
+73.05	Block	0:0	-236,70,217
+73.05	Block	0:0	-235,70,216
+73.05	Block	18:15	-235,70,217
+73.05	Block	0:0	-235,70,218
+73.05	Block	0:0	-234,70,215
+73.05	Block	18:15	-234,70,216
+73.05	Block	0:0	-234,70,217
+73.05	Block	18:15	-234,70,218
+73.05	Block	0:0	-234,70,219
+73.05	Block	0:0	-233,70,216
+73.05	Block	18:15	-233,70,217
+73.05	Block	0:0	-233,70,218
+73.05	Block	0:0	-233,70,220
+73.05	Block	0:0	-232,70,217
+73.05	Block	0:0	-232,70,219
+73.05	Block	18:15	-232,70,220
+73.05	Block	0:0	-232,70,221
+73.05	Block	0:0	-231,70,218
+73.05	Block	18:15	-231,70,219
+73.05	Block	0:0	-231,70,220
+73.05	Block	18:15	-231,70,221
+73.05	Block	0:0	-231,70,222
+73.05	Block	0:0	-230,70,219
+73.05	Block	18:15	-230,70,220
+73.05	Block	0:0	-230,70,221
+73.05	Block	0:0	-229,70,220
+73.05	Block	0:0	-223,70,230
+73.05	Block	0:0	-222,70,229
+73.05	Block	18:15	-222,70,230
+73.05	Block	0:0	-222,70,231
+73.05	Block	0:0	-221,70,228
+73.05	Block	18:15	-221,70,229
+73.05	Block	0:0	-221,70,230
+73.05	Block	18:15	-221,70,231
+73.05	Block	0:0	-221,70,232
+73.05	Block	0:0	-220,70,229
+73.05	Block	18:15	-220,70,230
+73.05	Block	0:0	-220,70,231
+73.05	Block	0:0	-220,70,233
+73.05	Block	0:0	-219,70,230
+73.05	Block	0:0	-219,70,232
+73.05	Block	18:15	-219,70,233
+73.05	Block	0:0	-219,70,234
+73.05	Block	0:0	-218,70,231
+73.05	Block	18:15	-218,70,232
+73.05	Block	0:0	-218,70,233
+73.05	Block	18:15	-218,70,234
+73.05	Block	0:0	-218,70,235
+73.05	Block	0:0	-217,70,232
+73.05	Block	18:15	-217,70,233
+73.05	Block	0:0	-217,70,234
+73.05	Block	0:0	-216,70,233
+73.05	Block	0:0	-235,71,217
+73.05	Block	0:0	-234,71,216
+73.05	Block	0:0	-234,71,218
+73.05	Block	0:0	-233,71,217
+73.05	Block	0:0	-232,71,220
+73.05	Block	0:0	-231,71,219
+73.05	Block	0:0	-231,71,221
+73.05	Block	0:0	-230,71,220
+73.05	Block	0:0	-222,71,230
+73.05	Block	0:0	-221,71,229
+73.05	Block	0:0	-221,71,231
+73.05	Block	0:0	-220,71,230
+73.05	Block	0:0	-219,71,233
+73.05	Block	0:0	-218,71,232
+73.05	Block	0:0	-218,71,234
+73.05	Block	0:0	-217,71,233
+73.4	Block	17:3	-237,64,214
+73.4	Block	17:3	-215,64,236
+73.4	Block	18:13	-237,65,212
+73.4	Block	18:13	-237,65,216
+73.4	Block	18:13	-235,65,214
+73.4	Block	0:0	-230,65,208
+73.4	Block	0:0	-230,65,209
+73.4	Block	18:15	-230,65,211
+73.4	Block	18:15	-228,65,211
+73.4	Block	18:15	-227,65,212
+73.4	Block	18:15	-227,65,213
+73.4	Block	18:15	-226,65,212
+73.4	Block	190:0	-226,65,213
+73.4	Block	18:15	-226,65,214
+73.4	Block	18:13	-217,65,236
+73.4	Block	18:15	-215,65,226
+73.4	Block	0:0	-214,65,224
+73.4	Block	190:0	-214,65,226
+73.4	Block	18:15	-214,65,227
+73.4	Block	0:0	-214,65,228
+73.4	Block	0:0	-213,65,227
+73.4	Block	18:13	-213,65,236
+73.4	Block	18:15	-212,65,228
+73.4	Block	18:15	-212,65,230
+73.4	Block	18:15	-211,65,227
+73.4	Block	18:15	-210,65,230
+73.4	Block	18:15	-209,65,229
+73.4	Block	18:15	-238,66,213
+73.4	Block	18:15	-238,66,215
+73.4	Block	18:15	-237,66,212
+73.4	Block	190:0	-237,66,214
+73.4	Block	18:15	-237,66,216
+73.4	Block	18:15	-236,66,213
+73.4	Block	18:15	-236,66,215
+73.4	Block	18:15	-235,66,214
+73.4	Block	17:3	-234,66,217
+73.4	Block	0:0	-231,66,212
+73.4	Block	17:3	-231,66,220
+73.4	Block	0:0	-230,66,211
+73.4	Block	18:15	-230,66,212
+73.4	Block	0:0	-230,66,213
+73.4	Block	0:0	-229,66,210
+73.4	Block	18:15	-229,66,211
+73.4	Block	190:0	-229,66,212
+73.4	Block	18:15	-229,66,213
+73.4	Block	0:0	-229,66,214
+73.4	Block	0:0	-228,66,211
+73.4	Block	18:15	-228,66,212
+73.4	Block	0:0	-228,66,213
+73.4	Block	0:0	-227,66,212
+73.4	Block	0:0	-227,66,213
+73.4	Block	0:0	-226,66,212
+73.4	Block	0:0	-226,66,213
+73.4	Block	0:0	-226,66,214
+73.4	Block	0:0	-225,66,213
+73.4	Block	17:3	-221,66,230
+73.4	Block	17:3	-218,66,233
+73.4	Block	18:15	-217,66,236
+73.4	Block	18:15	-216,66,235
+73.4	Block	18:15	-216,66,237
+73.4	Block	0:0	-215,66,226
+73.4	Block	190:0	-215,66,236
+73.4	Block	0:0	-214,66,225
+73.4	Block	0:0	-214,66,226
+73.4	Block	0:0	-214,66,227
+73.4	Block	18:15	-214,66,237
+73.4	Block	0:0	-213,66,226
+73.4	Block	0:0	-213,66,229
+73.4	Block	18:15	-213,66,236
+73.4	Block	0:0	-212,66,228
+73.4	Block	18:15	-212,66,229
+73.4	Block	0:0	-212,66,230
+73.4	Block	0:0	-211,66,227
+73.4	Block	18:15	-211,66,228
+73.4	Block	190:0	-211,66,229
+73.4	Block	18:15	-211,66,230
+73.4	Block	0:0	-211,66,231
+73.4	Block	0:0	-210,66,228
+73.4	Block	18:15	-210,66,229
+73.4	Block	0:0	-210,66,230
+73.4	Block	0:0	-209,66,229
+73.4	Block	0:0	-239,67,214
+73.4	Block	0:0	-238,67,213
+73.4	Block	18:15	-238,67,214
+73.4	Block	0:0	-238,67,215
+73.4	Block	0:0	-237,67,212
+73.4	Block	18:15	-237,67,213
+73.4	Block	0:0	-237,67,214
+73.4	Block	18:15	-237,67,215
+73.4	Block	0:0	-237,67,216
+73.4	Block	0:0	-236,67,213
+73.4	Block	18:15	-236,67,214
+73.4	Block	0:0	-236,67,215
+73.4	Block	18:13	-236,67,217
+73.4	Block	0:0	-235,67,214
+73.4	Block	18:13	-234,67,215
+73.4	Block	18:13	-234,67,219
+73.4	Block	18:13	-233,67,220
+73.4	Block	18:13	-232,67,217
+73.4	Block	18:13	-231,67,218
+73.4	Block	18:13	-231,67,222
+73.4	Block	0:0	-230,67,212
+73.4	Block	0:0	-229,67,211
+73.4	Block	0:0	-229,67,212
+73.4	Block	0:0	-229,67,213
+73.4	Block	18:13	-229,67,220
+73.4	Block	0:0	-228,67,212
+73.4	Block	18:13	-223,67,230
+73.4	Block	18:13	-221,67,228
+73.4	Block	18:13	-221,67,232
+73.4	Block	18:13	-220,67,233
+73.4	Block	18:13	-219,67,230
+73.4	Block	18:13	-218,67,231
+73.4	Block	18:13	-218,67,235
+73.4	Block	0:0	-217,67,236
+73.4	Block	18:13	-216,67,233
+73.4	Block	0:0	-216,67,235
+73.4	Block	18:15	-216,67,236
+73.4	Block	0:0	-216,67,237
+73.4	Block	0:0	-215,67,234
+73.4	Block	18:15	-215,67,235
+73.4	Block	0:0	-215,67,236
+73.4	Block	18:15	-215,67,237
+73.4	Block	0:0	-215,67,238
+73.4	Block	0:0	-214,67,235
+73.4	Block	18:15	-214,67,236
+73.4	Block	0:0	-214,67,237
+73.4	Block	0:0	-213,67,236
+73.4	Block	0:0	-212,67,229
+73.4	Block	0:0	-211,67,228
+73.4	Block	0:0	-211,67,229
+73.4	Block	0:0	-211,67,230
+73.4	Block	0:0	-210,67,229
+73.4	Block	0:0	-238,68,214
+73.4	Block	0:0	-237,68,213
+73.4	Block	0:0	-237,68,215
+73.4	Block	0:0	-236,68,214
+73.4	Block	18:15	-236,68,217
+73.4	Block	18:15	-235,68,216
+73.4	Block	18:15	-235,68,218
+73.4	Block	18:15	-234,68,215
+73.4	Block	190:0	-234,68,217
+73.4	Block	18:15	-234,68,219
+73.4	Block	18:15	-233,68,216
+73.4	Block	18:15	-233,68,218
+73.4	Block	18:15	-233,68,220
+73.4	Block	18:15	-232,68,217
+73.4	Block	18:15	-232,68,219
+73.4	Block	18:15	-232,68,221
+73.4	Block	18:15	-231,68,218
+73.4	Block	190:0	-231,68,220
+73.4	Block	18:15	-231,68,222
+73.4	Block	18:15	-230,68,219
+73.4	Block	18:15	-230,68,221
+73.4	Block	18:15	-229,68,220
+73.4	Block	18:15	-223,68,230
+73.4	Block	18:15	-222,68,229
+73.4	Block	18:15	-222,68,231
+73.4	Block	18:15	-221,68,228
+73.4	Block	190:0	-221,68,230
+73.4	Block	18:15	-221,68,232
+73.4	Block	18:15	-220,68,229
+73.4	Block	18:15	-220,68,231
+73.4	Block	18:15	-220,68,233
+73.4	Block	18:15	-219,68,230
+73.4	Block	18:15	-219,68,232
+73.4	Block	18:15	-219,68,234
+73.4	Block	18:15	-218,68,231
+73.4	Block	190:0	-218,68,233
+73.4	Block	18:15	-218,68,235
+73.4	Block	18:15	-217,68,232
+73.4	Block	18:15	-217,68,234
+73.4	Block	18:15	-216,68,233
+73.4	Block	0:0	-216,68,236
+73.4	Block	0:0	-215,68,235
+73.4	Block	0:0	-215,68,237
+73.4	Block	0:0	-214,68,236
+73.4	Block	0:0	-236,69,217
+73.4	Block	0:0	-235,69,216
+73.4	Block	18:15	-235,69,217
+73.4	Block	0:0	-235,69,218
+73.4	Block	0:0	-234,69,215
+73.4	Block	18:15	-234,69,216
+73.4	Block	0:0	-234,69,217
+73.4	Block	18:15	-234,69,218
+73.4	Block	0:0	-234,69,219
+73.4	Block	0:0	-233,69,216
+73.4	Block	18:15	-233,69,217
+73.4	Block	0:0	-233,69,218
+73.4	Block	0:0	-233,69,220
+73.4	Block	0:0	-232,69,217
+73.4	Block	0:0	-232,69,219
+73.4	Block	18:15	-232,69,220
+73.4	Block	0:0	-232,69,221
+73.4	Block	0:0	-231,69,218
+73.4	Block	18:15	-231,69,219
+73.4	Block	0:0	-231,69,220
+73.4	Block	18:15	-231,69,221
+73.4	Block	0:0	-231,69,222
+73.4	Block	0:0	-230,69,219
+73.4	Block	18:15	-230,69,220
+73.4	Block	0:0	-230,69,221
+73.4	Block	0:0	-229,69,220
+73.4	Block	0:0	-223,69,230
+73.4	Block	0:0	-222,69,229
+73.4	Block	18:15	-222,69,230
+73.4	Block	0:0	-222,69,231
+73.4	Block	0:0	-221,69,228
+73.4	Block	18:15	-221,69,229
+73.4	Block	0:0	-221,69,230
+73.4	Block	18:15	-221,69,231
+73.4	Block	0:0	-221,69,232
+73.4	Block	0:0	-220,69,229
+73.4	Block	18:15	-220,69,230
+73.4	Block	0:0	-220,69,231
+73.4	Block	0:0	-220,69,233
+73.4	Block	0:0	-219,69,230
+73.4	Block	0:0	-219,69,232
+73.4	Block	18:15	-219,69,233
+73.4	Block	0:0	-219,69,234
+73.4	Block	0:0	-218,69,231
+73.4	Block	18:15	-218,69,232
+73.4	Block	0:0	-218,69,233
+73.4	Block	18:15	-218,69,234
+73.4	Block	0:0	-218,69,235
+73.4	Block	0:0	-217,69,232
+73.4	Block	18:15	-217,69,233
+73.4	Block	0:0	-217,69,234
+73.4	Block	0:0	-216,69,233
+73.4	Block	0:0	-235,70,217
+73.4	Block	0:0	-234,70,216
+73.4	Block	0:0	-234,70,218
+73.4	Block	0:0	-233,70,217
+73.4	Block	0:0	-232,70,220
+73.4	Block	0:0	-231,70,219
+73.4	Block	0:0	-231,70,221
+73.4	Block	0:0	-230,70,220
+73.4	Block	0:0	-222,70,230
+73.4	Block	0:0	-221,70,229
+73.4	Block	0:0	-221,70,231
+73.4	Block	0:0	-220,70,230
+73.4	Block	0:0	-219,70,233
+73.4	Block	0:0	-218,70,232
+73.4	Block	0:0	-218,70,234
+73.4	Block	0:0	-217,70,233
+73.75	Block	18:13	-237,64,212
+73.75	Block	18:13	-217,64,236
+73.75	Block	18:13	-213,64,236
+73.75	Block	18:15	-238,65,213
+73.75	Block	18:15	-238,65,215
+73.75	Block	18:15	-237,65,212
+73.75	Block	190:0	-237,65,214
+73.75	Block	18:15	-237,65,216
+73.75	Block	18:15	-236,65,213
+73.75	Block	18:15	-236,65,215
+73.75	Block	18:15	-235,65,214
+73.75	Block	17:3	-234,65,217
+73.75	Block	17:3	-231,65,220
+73.75	Block	0:0	-230,65,211
+73.75	Block	18:15	-230,65,212
+73.75	Block	190:0	-229,65,212
+73.75	Block	18:15	-229,65,213
+73.75	Block	0:0	-228,65,211
+73.75	Block	18:15	-228,65,212
+73.75	Block	0:0	-228,65,213
+73.75	Block	0:0	-227,65,212
+73.75	Block	0:0	-227,65,213
+73.75	Block	0:0	-226,65,212
+73.75	Block	0:0	-226,65,213
+73.75	Block	0:0	-226,65,214
+73.75	Block	17:3	-221,65,230
+73.75	Block	17:3	-218,65,233
+73.75	Block	18:15	-217,65,236
+73.75	Block	18:15	-216,65,235
+73.75	Block	18:15	-216,65,237
+73.75	Block	0:0	-215,65,226
+73.75	Block	190:0	-215,65,236
+73.75	Block	0:0	-214,65,226
+73.75	Block	0:0	-214,65,227
+73.75	Block	18:15	-214,65,237
+73.75	Block	18:15	-213,65,236
+73.75	Block	0:0	-212,65,228
+73.75	Block	0:0	-212,65,230
+73.75	Block	0:0	-211,65,227
+73.75	Block	190:0	-211,65,229
+73.75	Block	18:15	-211,65,230
+73.75	Block	18:15	-210,65,229
+73.75	Block	0:0	-210,65,230
+73.75	Block	0:0	-209,65,229
+73.75	Block	0:0	-238,66,213
+73.75	Block	18:15	-238,66,214
+73.75	Block	0:0	-238,66,215
+73.75	Block	0:0	-237,66,212
+73.75	Block	18:15	-237,66,213
+73.75	Block	0:0	-237,66,214
+73.75	Block	18:15	-237,66,215
+73.75	Block	0:0	-237,66,216
+73.75	Block	0:0	-236,66,213
+73.75	Block	18:15	-236,66,214
+73.75	Block	0:0	-236,66,215
+73.75	Block	18:13	-236,66,217
+73.75	Block	0:0	-235,66,214
+73.75	Block	18:13	-234,66,219
+73.75	Block	18:13	-233,66,220
+73.75	Block	18:13	-231,66,222
+73.75	Block	0:0	-230,66,212
+73.75	Block	0:0	-229,66,211
+73.75	Block	0:0	-229,66,212
+73.75	Block	0:0	-229,66,213
+73.75	Block	18:13	-229,66,220
+73.75	Block	0:0	-228,66,212
+73.75	Block	18:13	-223,66,230
+73.75	Block	18:13	-221,66,228
+73.75	Block	18:13	-221,66,232
+73.75	Block	18:13	-220,66,233
+73.75	Block	18:13	-218,66,235
+73.75	Block	0:0	-217,66,236
+73.75	Block	0:0	-216,66,235
+73.75	Block	18:15	-216,66,236
+73.75	Block	0:0	-216,66,237
+73.75	Block	18:15	-215,66,235
+73.75	Block	0:0	-215,66,236
+73.75	Block	18:15	-215,66,237
+73.75	Block	18:15	-214,66,236
+73.75	Block	0:0	-214,66,237
+73.75	Block	0:0	-213,66,236
+73.75	Block	0:0	-212,66,229
+73.75	Block	0:0	-211,66,228
+73.75	Block	0:0	-211,66,229
+73.75	Block	0:0	-211,66,230
+73.75	Block	0:0	-210,66,229
+73.75	Block	0:0	-238,67,214
+73.75	Block	0:0	-237,67,213
+73.75	Block	0:0	-237,67,215
+73.75	Block	0:0	-236,67,214
+73.75	Block	18:15	-236,67,217
+73.75	Block	18:15	-235,67,216
+73.75	Block	18:15	-235,67,218
+73.75	Block	18:15	-234,67,215
+73.75	Block	190:0	-234,67,217
+73.75	Block	18:15	-234,67,219
+73.75	Block	18:15	-233,67,216
+73.75	Block	18:15	-233,67,218
+73.75	Block	18:15	-233,67,220
+73.75	Block	18:15	-232,67,217
+73.75	Block	18:15	-232,67,219
+73.75	Block	18:15	-232,67,221
+73.75	Block	18:15	-231,67,218
+73.75	Block	190:0	-231,67,220
+73.75	Block	18:15	-231,67,222
+73.75	Block	18:15	-230,67,219
+73.75	Block	18:15	-230,67,221
+73.75	Block	18:15	-229,67,220
+73.75	Block	18:15	-223,67,230
+73.75	Block	18:15	-222,67,229
+73.75	Block	18:15	-222,67,231
+73.75	Block	18:15	-221,67,228
+73.75	Block	190:0	-221,67,230
+73.75	Block	18:15	-221,67,232
+73.75	Block	18:15	-220,67,229
+73.75	Block	18:15	-220,67,231
+73.75	Block	18:15	-220,67,233
+73.75	Block	18:15	-219,67,230
+73.75	Block	18:15	-219,67,232
+73.75	Block	18:15	-219,67,234
+73.75	Block	18:15	-218,67,231
+73.75	Block	190:0	-218,67,233
+73.75	Block	18:15	-218,67,235
+73.75	Block	18:15	-217,67,232
+73.75	Block	18:15	-217,67,234
+73.75	Block	18:15	-216,67,233
+73.75	Block	0:0	-216,67,236
+73.75	Block	0:0	-215,67,235
+73.75	Block	0:0	-215,67,237
+73.75	Block	0:0	-214,67,236
+73.75	Block	0:0	-236,68,217
+73.75	Block	0:0	-235,68,216
+73.75	Block	18:15	-235,68,217
+73.75	Block	0:0	-235,68,218
+73.75	Block	0:0	-234,68,215
+73.75	Block	18:15	-234,68,216
+73.75	Block	0:0	-234,68,217
+73.75	Block	18:15	-234,68,218
+73.75	Block	0:0	-234,68,219
+73.75	Block	0:0	-233,68,216
+73.75	Block	18:15	-233,68,217
+73.75	Block	0:0	-233,68,218
+73.75	Block	0:0	-233,68,220
+73.75	Block	0:0	-232,68,217
+73.75	Block	0:0	-232,68,219
+73.75	Block	18:15	-232,68,220
+73.75	Block	0:0	-232,68,221
+73.75	Block	0:0	-231,68,218
+73.75	Block	18:15	-231,68,219
+73.75	Block	0:0	-231,68,220
+73.75	Block	18:15	-231,68,221
+73.75	Block	0:0	-231,68,222
+73.75	Block	0:0	-230,68,219
+73.75	Block	18:15	-230,68,220
+73.75	Block	0:0	-230,68,221
+73.75	Block	0:0	-229,68,220
+73.75	Block	0:0	-223,68,230
+73.75	Block	0:0	-222,68,229
+73.75	Block	18:15	-222,68,230
+73.75	Block	0:0	-222,68,231
+73.75	Block	0:0	-221,68,228
+73.75	Block	18:15	-221,68,229
+73.75	Block	0:0	-221,68,230
+73.75	Block	18:15	-221,68,231
+73.75	Block	0:0	-221,68,232
+73.75	Block	0:0	-220,68,229
+73.75	Block	18:15	-220,68,230
+73.75	Block	0:0	-220,68,231
+73.75	Block	0:0	-220,68,233
+73.75	Block	0:0	-219,68,230
+73.75	Block	0:0	-219,68,232
+73.75	Block	18:15	-219,68,233
+73.75	Block	0:0	-219,68,234
+73.75	Block	0:0	-218,68,231
+73.75	Block	18:15	-218,68,232
+73.75	Block	0:0	-218,68,233
+73.75	Block	18:15	-218,68,234
+73.75	Block	0:0	-218,68,235
+73.75	Block	0:0	-217,68,232
+73.75	Block	18:15	-217,68,233
+73.75	Block	0:0	-217,68,234
+73.75	Block	0:0	-216,68,233
+73.75	Block	0:0	-235,69,217
+73.75	Block	0:0	-234,69,216
+73.75	Block	0:0	-234,69,218
+73.75	Block	0:0	-233,69,217
+73.75	Block	0:0	-232,69,220
+73.75	Block	0:0	-231,69,219
+73.75	Block	0:0	-231,69,221
+73.75	Block	0:0	-230,69,220
+73.75	Block	0:0	-222,69,230
+73.75	Block	0:0	-221,69,229
+73.75	Block	0:0	-221,69,231
+73.75	Block	0:0	-220,69,230
+73.75	Block	0:0	-219,69,233
+73.75	Block	0:0	-218,69,232
+73.75	Block	0:0	-218,69,234
+73.75	Block	0:0	-217,69,233
+74.1	Block	18:13	-237,63,212
+74.1	Block	18:13	-217,63,236
+74.1	Block	18:13	-213,63,236
+74.1	Block	18:15	-238,64,213
+74.1	Block	18:15	-237,64,212
+74.1	Block	190:0	-237,64,214
+74.1	Block	18:15	-217,64,236
+74.1	Block	18:15	-216,64,237
+74.1	Block	190:0	-215,64,236
+74.1	Block	18:15	-213,64,236
+74.1	Block	0:0	-238,65,213
+74.1	Block	18:15	-238,65,214
+74.1	Block	0:0	-238,65,215
+74.1	Block	0:0	-237,65,212
+74.1	Block	18:15	-237,65,213
+74.1	Block	0:0	-237,65,214
+74.1	Block	18:15	-237,65,215
+74.1	Block	0:0	-237,65,216
+74.1	Block	0:0	-236,65,213
+74.1	Block	18:15	-236,65,214
+74.1	Block	0:0	-236,65,215
+74.1	Block	18:13	-236,65,217
+74.1	Block	0:0	-235,65,214
+74.1	Block	18:13	-234,65,219
+74.1	Block	18:13	-233,65,220
+74.1	Block	18:13	-231,65,222
+74.1	Block	0:0	-230,65,212
+74.1	Block	0:0	-229,65,212
+74.1	Block	0:0	-229,65,213
+74.1	Block	18:13	-229,65,220
+74.1	Block	0:0	-228,65,212
+74.1	Block	18:13	-223,65,230
+74.1	Block	18:13	-221,65,232
+74.1	Block	18:13	-220,65,233
+74.1	Block	18:13	-218,65,235
+74.1	Block	0:0	-217,65,236
+74.1	Block	0:0	-216,65,235
+74.1	Block	18:15	-216,65,236
+74.1	Block	0:0	-216,65,237
+74.1	Block	18:15	-215,65,235
+74.1	Block	0:0	-215,65,236
+74.1	Block	18:15	-215,65,237
+74.1	Block	18:15	-214,65,236
+74.1	Block	0:0	-214,65,237
+74.1	Block	0:0	-213,65,236
+74.1	Block	0:0	-211,65,229
+74.1	Block	0:0	-211,65,230
+74.1	Block	0:0	-210,65,229
+74.1	Block	0:0	-238,66,214
+74.1	Block	0:0	-237,66,213
+74.1	Block	0:0	-237,66,215
+74.1	Block	0:0	-236,66,214
+74.1	Block	18:15	-236,66,217
+74.1	Block	18:15	-235,66,216
+74.1	Block	18:15	-235,66,218
+74.1	Block	190:0	-234,66,217
+74.1	Block	18:15	-234,66,219
+74.1	Block	18:15	-233,66,218
+74.1	Block	18:15	-233,66,220
+74.1	Block	18:15	-232,66,219
+74.1	Block	18:15	-232,66,221
+74.1	Block	190:0	-231,66,220
+74.1	Block	18:15	-231,66,222
+74.1	Block	18:15	-230,66,221
+74.1	Block	18:15	-229,66,220
+74.1	Block	18:15	-223,66,230
+74.1	Block	18:15	-222,66,229
+74.1	Block	18:15	-222,66,231
+74.1	Block	18:15	-221,66,228
+74.1	Block	190:0	-221,66,230
+74.1	Block	18:15	-221,66,232
+74.1	Block	18:15	-220,66,231
+74.1	Block	18:15	-220,66,233
+74.1	Block	18:15	-219,66,232
+74.1	Block	18:15	-219,66,234
+74.1	Block	190:0	-218,66,233
+74.1	Block	18:15	-218,66,235
+74.1	Block	18:15	-217,66,234
+74.1	Block	0:0	-216,66,236
+74.1	Block	0:0	-215,66,235
+74.1	Block	0:0	-215,66,237
+74.1	Block	0:0	-214,66,236
+74.1	Block	0:0	-236,67,217
+74.1	Block	0:0	-235,67,216
+74.1	Block	18:15	-235,67,217
+74.1	Block	0:0	-235,67,218
+74.1	Block	0:0	-234,67,215
+74.1	Block	18:15	-234,67,216
+74.1	Block	0:0	-234,67,217
+74.1	Block	18:15	-234,67,218
+74.1	Block	0:0	-234,67,219
+74.1	Block	0:0	-233,67,216
+74.1	Block	18:15	-233,67,217
+74.1	Block	0:0	-233,67,218
+74.1	Block	0:0	-233,67,220
+74.1	Block	0:0	-232,67,217
+74.1	Block	0:0	-232,67,219
+74.1	Block	18:15	-232,67,220
+74.1	Block	0:0	-232,67,221
+74.1	Block	0:0	-231,67,218
+74.1	Block	18:15	-231,67,219
+74.1	Block	0:0	-231,67,220
+74.1	Block	18:15	-231,67,221
+74.1	Block	0:0	-231,67,222
+74.1	Block	0:0	-230,67,219
+74.1	Block	18:15	-230,67,220
+74.1	Block	0:0	-230,67,221
+74.1	Block	0:0	-229,67,220
+74.1	Block	0:0	-223,67,230
+74.1	Block	0:0	-222,67,229
+74.1	Block	18:15	-222,67,230
+74.1	Block	0:0	-222,67,231
+74.1	Block	0:0	-221,67,228
+74.1	Block	18:15	-221,67,229
+74.1	Block	0:0	-221,67,230
+74.1	Block	18:15	-221,67,231
+74.1	Block	0:0	-221,67,232
+74.1	Block	0:0	-220,67,229
+74.1	Block	18:15	-220,67,230
+74.1	Block	0:0	-220,67,231
+74.1	Block	0:0	-220,67,233
+74.1	Block	0:0	-219,67,230
+74.1	Block	0:0	-219,67,232
+74.1	Block	18:15	-219,67,233
+74.1	Block	0:0	-219,67,234
+74.1	Block	0:0	-218,67,231
+74.1	Block	18:15	-218,67,232
+74.1	Block	0:0	-218,67,233
+74.1	Block	18:15	-218,67,234
+74.1	Block	0:0	-218,67,235
+74.1	Block	0:0	-217,67,232
+74.1	Block	18:15	-217,67,233
+74.1	Block	0:0	-217,67,234
+74.1	Block	0:0	-216,67,233
+74.1	Block	0:0	-235,68,217
+74.1	Block	0:0	-234,68,216
+74.1	Block	0:0	-234,68,218
+74.1	Block	0:0	-233,68,217
+74.1	Block	0:0	-232,68,220
+74.1	Block	0:0	-231,68,219
+74.1	Block	0:0	-231,68,221
+74.1	Block	0:0	-230,68,220
+74.1	Block	0:0	-222,68,230
+74.1	Block	0:0	-221,68,229
+74.1	Block	0:0	-221,68,231
+74.1	Block	0:0	-220,68,230
+74.1	Block	0:0	-219,68,233
+74.1	Block	0:0	-218,68,232
+74.1	Block	0:0	-218,68,234
+74.1	Block	0:0	-217,68,233
+74.5	Block	0:0	-238,64,213
+74.5	Block	0:0	-237,64,212
+74.5	Block	18:15	-237,64,213
+74.5	Block	0:0	-237,64,214
+74.5	Block	18:15	-236,64,214
+74.5	Block	18:13	-220,64,233
+74.5	Block	18:13	-218,64,235
+74.5	Block	0:0	-217,64,236
+74.5	Block	0:0	-216,64,237
+74.5	Block	0:0	-215,64,236
+74.5	Block	0:0	-213,64,236
+74.5	Block	0:0	-238,65,214
+74.5	Block	0:0	-237,65,213
+74.5	Block	0:0	-237,65,215
+74.5	Block	0:0	-236,65,214
+74.5	Block	18:15	-236,65,217
+74.5	Block	18:15	-235,65,216
+74.5	Block	18:15	-235,65,218
+74.5	Block	190:0	-234,65,217
+74.5	Block	18:15	-234,65,219
+74.5	Block	18:15	-233,65,220
+74.5	Block	18:15	-232,65,221
+74.5	Block	190:0	-231,65,220
+74.5	Block	18:15	-231,65,222
+74.5	Block	18:15	-229,65,220
+74.5	Block	18:15	-223,65,230
+74.5	Block	18:15	-222,65,231
+74.5	Block	190:0	-221,65,230
+74.5	Block	18:15	-221,65,232
+74.5	Block	18:15	-220,65,233
+74.5	Block	18:15	-219,65,234
+74.5	Block	190:0	-218,65,233
+74.5	Block	18:15	-218,65,235
+74.5	Block	18:15	-217,65,234
+74.5	Block	0:0	-216,65,236
+74.5	Block	0:0	-215,65,235
+74.5	Block	0:0	-215,65,237
+74.5	Block	0:0	-214,65,236
+74.5	Block	0:0	-236,66,217
+74.5	Block	0:0	-235,66,216
+74.5	Block	18:15	-235,66,217
+74.5	Block	0:0	-235,66,218
+74.5	Block	18:15	-234,66,216
+74.5	Block	0:0	-234,66,217
+74.5	Block	18:15	-234,66,218
+74.5	Block	0:0	-234,66,219
+74.5	Block	18:15	-233,66,217
+74.5	Block	0:0	-233,66,218
+74.5	Block	0:0	-233,66,220
+74.5	Block	0:0	-232,66,219
+74.5	Block	18:15	-232,66,220
+74.5	Block	0:0	-232,66,221
+74.5	Block	18:15	-231,66,219
+74.5	Block	0:0	-231,66,220
+74.5	Block	18:15	-231,66,221
+74.5	Block	0:0	-231,66,222
+74.5	Block	18:15	-230,66,220
+74.5	Block	0:0	-230,66,221
+74.5	Block	0:0	-229,66,220
+74.5	Block	0:0	-223,66,230
+74.5	Block	0:0	-222,66,229
+74.5	Block	18:15	-222,66,230
+74.5	Block	0:0	-222,66,231
+74.5	Block	0:0	-221,66,228
+74.5	Block	18:15	-221,66,229
+74.5	Block	0:0	-221,66,230
+74.5	Block	18:15	-221,66,231
+74.5	Block	0:0	-221,66,232
+74.5	Block	18:15	-220,66,230
+74.5	Block	0:0	-220,66,231
+74.5	Block	0:0	-220,66,233
+74.5	Block	0:0	-219,66,232
+74.5	Block	18:15	-219,66,233
+74.5	Block	0:0	-219,66,234
+74.5	Block	18:15	-218,66,232
+74.5	Block	0:0	-218,66,233
+74.5	Block	18:15	-218,66,234
+74.5	Block	0:0	-218,66,235
+74.5	Block	18:15	-217,66,233
+74.5	Block	0:0	-217,66,234
+74.5	Block	0:0	-235,67,217
+74.5	Block	0:0	-234,67,216
+74.5	Block	0:0	-234,67,218
+74.5	Block	0:0	-233,67,217
+74.5	Block	0:0	-232,67,220
+74.5	Block	0:0	-231,67,219
+74.5	Block	0:0	-231,67,221
+74.5	Block	0:0	-230,67,220
+74.5	Block	0:0	-222,67,230
+74.5	Block	0:0	-221,67,229
+74.5	Block	0:0	-221,67,231
+74.5	Block	0:0	-220,67,230
+74.5	Block	0:0	-219,67,233
+74.5	Block	0:0	-218,67,232
+74.5	Block	0:0	-218,67,234
+74.5	Block	0:0	-217,67,233
+74.85	Block	0:0	-237,64,213
+74.85	Block	0:0	-236,64,214
+74.85	Block	18:15	-235,64,216
+74.85	Block	18:15	-220,64,233
+74.85	Block	18:15	-219,64,234
+74.85	Block	18:15	-218,64,235
+74.85	Block	0:0	-236,65,217
+74.85	Block	0:0	-235,65,216
+74.85	Block	18:15	-235,65,217
+74.85	Block	0:0	-235,65,218
+74.85	Block	0:0	-234,65,217
+74.85	Block	0:0	-234,65,219
+74.85	Block	0:0	-233,65,220
+74.85	Block	0:0	-232,65,221
+74.85	Block	0:0	-231,65,220
+74.85	Block	0:0	-231,65,222
+74.85	Block	18:15	-230,65,220
+74.85	Block	0:0	-229,65,220
+74.85	Block	0:0	-223,65,230
+74.85	Block	0:0	-222,65,231
+74.85	Block	0:0	-221,65,230
+74.85	Block	0:0	-221,65,232
+74.85	Block	0:0	-220,65,233
+74.85	Block	18:15	-219,65,233
+74.85	Block	0:0	-219,65,234
+74.85	Block	0:0	-218,65,233
+74.85	Block	0:0	-218,65,235
+74.85	Block	0:0	-217,65,234
+74.85	Block	0:0	-235,66,217
+74.85	Block	0:0	-234,66,216
+74.85	Block	0:0	-234,66,218
+74.85	Block	0:0	-233,66,217
+74.85	Block	0:0	-232,66,220
+74.85	Block	0:0	-231,66,219
+74.85	Block	0:0	-231,66,221
+74.85	Block	0:0	-230,66,220
+74.85	Block	0:0	-222,66,230
+74.85	Block	0:0	-221,66,229
+74.85	Block	0:0	-221,66,231
+74.85	Block	0:0	-220,66,230
+74.85	Block	0:0	-219,66,233
+74.85	Block	0:0	-218,66,232
+74.85	Block	0:0	-218,66,234
+74.85	Block	0:0	-217,66,233
+75.2	Block	0:0	-235,64,216
+75.2	Block	0:0	-220,64,233
+75.2	Block	0:0	-219,64,234
+75.2	Block	0:0	-218,64,235
+75.2	Block	0:0	-235,65,217
+75.2	Block	0:0	-230,65,220
+75.2	Block	0:0	-219,65,233
+#Tree up
+843.4	Block	190:0	-237,64,214
+843.4	Block	0:0	-221,64,232
+843.4	Block	190:0	-215,64,236
+843.4	Block	190:0	-237,65,214
+843.4	Block	190:0	-234,65,217
+843.4	Block	190:0	-231,65,220
+843.4	Block	190:0	-230,65,208
+843.4	Block	190:0	-229,65,212
+843.4	Block	190:0	-226,65,213
+843.4	Block	190:0	-221,65,230
+843.4	Block	190:0	-218,65,233
+843.4	Block	190:0	-215,65,236
+843.4	Block	190:0	-214,65,226
+843.4	Block	190:0	-211,65,229
+843.4	Block	190:0	-237,66,214
+843.4	Block	190:0	-234,66,217
+843.4	Block	190:0	-231,66,220
+843.4	Block	190:0	-230,66,208
+843.4	Block	190:0	-229,66,212
+843.4	Block	190:0	-226,66,213
+843.4	Block	190:0	-221,66,230
+843.4	Block	190:0	-218,66,233
+843.4	Block	190:0	-215,66,236
+843.4	Block	190:0	-214,66,226
+843.4	Block	190:0	-211,66,229
+843.4	Block	18:4	-248,67,212
+843.4	Block	18:4	-247,67,213
+843.4	Block	18:12	-242,67,222
+843.4	Block	18:12	-241,67,210
+843.4	Block	18:12	-240,67,211
+843.4	Block	190:0	-237,67,214
+843.4	Block	18:12	-235,67,221
+843.4	Block	166:0	-234,67,215
+843.4	Block	190:0	-234,67,217
+843.4	Block	18:12	-234,67,222
+843.4	Block	166:0	-233,67,216
+843.4	Block	18:12	-232,67,206
+843.4	Block	18:13	-232,67,208
+843.4	Block	166:0	-232,67,217
+843.4	Block	18:12	-231,67,205
+843.4	Block	166:0	-231,67,218
+843.4	Block	190:0	-231,67,220
+843.4	Block	18:13	-230,67,206
+843.4	Block	17:3	-230,67,208
+843.4	Block	18:13	-230,67,210
+843.4	Block	166:0	-230,67,219
+843.4	Block	190:0	-229,67,212
+843.4	Block	18:13	-228,67,208
+843.4	Block	190:0	-226,67,213
+843.4	Block	18:12	-223,67,241
+843.4	Block	190:0	-221,67,230
+843.4	Block	166:0	-220,67,229
+843.4	Block	166:0	-219,67,230
+843.4	Block	166:0	-218,67,231
+843.4	Block	190:0	-218,67,233
+843.4	Block	166:0	-217,67,232
+843.4	Block	166:0	-216,67,233
+843.4	Block	190:0	-215,67,236
+843.4	Block	190:0	-214,67,226
+843.4	Block	18:12	-214,67,246
+843.4	Block	18:12	-213,67,247
+843.4	Block	18:12	-212,67,239
+843.4	Block	190:0	-211,67,229
+843.4	Block	18:12	-211,67,240
+843.4	Block	18:4	-207,67,231
+843.4	Block	18:12	-206,67,230
+843.4	Block	190:0	-237,68,214
+843.4	Block	190:0	-234,68,217
+843.4	Block	18:15	-232,68,208
+843.4	Block	18:15	-231,68,207
+843.4	Block	18:15	-231,68,209
+843.4	Block	190:0	-231,68,220
+843.4	Block	18:15	-230,68,206
+843.4	Block	17:3	-230,68,208
+843.4	Block	18:15	-230,68,210
+843.4	Block	18:15	-229,68,207
+843.4	Block	18:15	-229,68,209
+843.4	Block	190:0	-229,68,212
+843.4	Block	18:15	-228,68,208
+843.4	Block	18:13	-228,68,213
+843.4	Block	18:13	-226,68,211
+843.4	Block	17:3	-226,68,213
+843.4	Block	18:5	-226,68,215
+843.4	Block	18:5	-224,68,213
+843.4	Block	190:0	-221,68,230
+843.4	Block	190:0	-218,68,233
+843.4	Block	18:13	-216,68,226
+843.4	Block	190:0	-215,68,236
+843.4	Block	18:13	-214,68,224
+843.4	Block	17:3	-214,68,226
+843.4	Block	18:13	-214,68,228
+843.4	Block	18:13	-212,68,226
+843.4	Block	190:0	-211,68,229
+843.4	Block	17:3	-237,69,214
+843.4	Block	190:0	-234,69,217
+843.4	Block	18:15	-231,69,208
+843.4	Block	18:13	-231,69,212
+843.4	Block	190:0	-231,69,220
+843.4	Block	18:15	-230,69,207
+843.4	Block	190:0	-230,69,208
+843.4	Block	18:15	-230,69,209
+843.4	Block	18:15	-229,69,208
+843.4	Block	18:13	-229,69,210
+843.4	Block	17:3	-229,69,212
+843.4	Block	18:5	-229,69,214
+843.4	Block	18:15	-228,69,213
+843.4	Block	18:13	-227,69,212
+843.4	Block	18:15	-227,69,214
+843.4	Block	18:15	-226,69,211
+843.4	Block	17:3	-226,69,213
+843.4	Block	18:15	-226,69,215
+843.4	Block	18:15	-225,69,212
+843.4	Block	18:15	-225,69,214
+843.4	Block	18:15	-224,69,213
+843.4	Block	190:0	-221,69,230
+843.4	Block	190:0	-218,69,233
+843.4	Block	18:15	-216,69,226
+843.4	Block	18:15	-215,69,225
+843.4	Block	18:15	-215,69,227
+843.4	Block	17:3	-215,69,236
+843.4	Block	18:15	-214,69,224
+843.4	Block	17:3	-214,69,226
+843.4	Block	18:15	-214,69,228
+843.4	Block	18:15	-213,69,225
+843.4	Block	18:15	-213,69,227
+843.4	Block	18:5	-213,69,229
+843.4	Block	18:15	-212,69,226
+843.4	Block	18:13	-211,69,227
+843.4	Block	17:3	-211,69,229
+843.4	Block	18:5	-211,69,231
+843.4	Block	18:5	-209,69,229
+843.4	Block	18:13	-239,70,214
+843.4	Block	18:13	-237,70,212
+843.4	Block	17:3	-237,70,214
+843.4	Block	18:13	-237,70,216
+843.4	Block	18:13	-235,70,214
+843.4	Block	190:0	-234,70,217
+843.4	Block	18:15	-231,70,212
+843.4	Block	190:0	-231,70,220
+843.4	Block	18:15	-230,70,211
+843.4	Block	18:15	-230,70,213
+843.4	Block	18:15	-229,70,210
+843.4	Block	17:3	-229,70,212
+843.4	Block	18:15	-229,70,214
+843.4	Block	18:15	-228,70,211
+843.4	Block	18:15	-228,70,213
+843.4	Block	18:15	-227,70,212
+843.4	Block	18:7	-227,70,213
+843.4	Block	18:15	-226,70,212
+843.4	Block	190:0	-226,70,213
+843.4	Block	18:15	-226,70,214
+843.4	Block	18:15	-225,70,213
+843.4	Block	190:0	-221,70,230
+843.4	Block	190:0	-218,70,233
+843.4	Block	18:13	-217,70,236
+843.4	Block	18:15	-215,70,226
+843.4	Block	18:13	-215,70,234
+843.4	Block	17:3	-215,70,236
+843.4	Block	18:13	-215,70,238
+843.4	Block	18:15	-214,70,225
+843.4	Block	190:0	-214,70,226
+843.4	Block	18:15	-214,70,227
+843.4	Block	18:15	-213,70,226
+843.4	Block	18:15	-213,70,229
+843.4	Block	18:13	-213,70,236
+843.4	Block	18:15	-212,70,228
+843.4	Block	18:15	-212,70,230
+843.4	Block	18:15	-211,70,227
+843.4	Block	17:3	-211,70,229
+843.4	Block	18:15	-211,70,231
+843.4	Block	18:15	-210,70,228
+843.4	Block	18:15	-210,70,230
+843.4	Block	18:15	-209,70,229
+843.4	Block	18:15	-239,71,214
+843.4	Block	18:15	-238,71,213
+843.4	Block	18:15	-238,71,215
+843.4	Block	18:15	-237,71,212
+843.4	Block	190:0	-237,71,214
+843.4	Block	18:15	-237,71,216
+843.4	Block	18:15	-236,71,213
+843.4	Block	18:15	-236,71,215
+843.4	Block	18:15	-235,71,214
+843.4	Block	17:3	-234,71,217
+843.4	Block	17:3	-231,71,220
+843.4	Block	18:15	-230,71,212
+843.4	Block	18:15	-229,71,211
+843.4	Block	190:0	-229,71,212
+843.4	Block	18:15	-229,71,213
+843.4	Block	18:15	-228,71,212
+843.4	Block	17:3	-221,71,230
+843.4	Block	17:3	-218,71,233
+843.4	Block	18:15	-217,71,236
+843.4	Block	18:15	-216,71,235
+843.4	Block	18:15	-216,71,237
+843.4	Block	18:15	-215,71,234
+843.4	Block	190:0	-215,71,236
+843.4	Block	18:15	-215,71,238
+843.4	Block	18:15	-214,71,235
+843.4	Block	18:15	-214,71,237
+843.4	Block	18:15	-213,71,236
+843.4	Block	18:15	-212,71,229
+843.4	Block	18:15	-211,71,228
+843.4	Block	190:0	-211,71,229
+843.4	Block	18:15	-211,71,230
+843.4	Block	18:15	-210,71,229
+843.4	Block	18:15	-238,72,214
+843.4	Block	18:15	-237,72,213
+843.4	Block	18:15	-237,72,215
+843.4	Block	18:15	-236,72,214
+843.4	Block	18:13	-236,72,217
+843.4	Block	18:13	-234,72,215
+843.4	Block	17:3	-234,72,217
+843.4	Block	18:13	-234,72,219
+843.4	Block	18:13	-233,72,220
+843.4	Block	18:13	-232,72,217
+843.4	Block	18:13	-231,72,218
+843.4	Block	17:3	-231,72,220
+843.4	Block	18:13	-231,72,222
+843.4	Block	18:13	-229,72,220
+843.4	Block	18:13	-223,72,230
+843.4	Block	18:13	-221,72,228
+843.4	Block	17:3	-221,72,230
+843.4	Block	18:13	-220,72,233
+843.4	Block	18:13	-219,72,230
+843.4	Block	18:13	-218,72,231
+843.4	Block	17:3	-218,72,233
+843.4	Block	18:13	-218,72,235
+843.4	Block	18:13	-216,72,233
+843.4	Block	18:15	-216,72,236
+843.4	Block	18:15	-215,72,235
+843.4	Block	18:15	-215,72,237
+843.4	Block	18:15	-214,72,236
+843.4	Block	18:15	-236,73,217
+843.4	Block	18:15	-235,73,216
+843.4	Block	18:15	-235,73,218
+843.4	Block	18:15	-234,73,215
+843.4	Block	190:0	-234,73,217
+843.4	Block	18:15	-234,73,219
+843.4	Block	18:15	-233,73,216
+843.4	Block	18:15	-233,73,218
+843.4	Block	18:15	-233,73,220
+843.4	Block	18:15	-232,73,217
+843.4	Block	18:15	-232,73,219
+843.4	Block	18:15	-232,73,221
+843.4	Block	18:15	-231,73,218
+843.4	Block	190:0	-231,73,220
+843.4	Block	18:15	-231,73,222
+843.4	Block	18:15	-230,73,219
+843.4	Block	18:15	-230,73,221
+843.4	Block	18:15	-229,73,220
+843.4	Block	18:15	-223,73,230
+843.4	Block	18:15	-222,73,229
+843.4	Block	18:15	-222,73,231
+843.4	Block	18:15	-221,73,228
+843.4	Block	190:0	-221,73,230
+843.4	Block	18:15	-220,73,229
+843.4	Block	18:15	-220,73,231
+843.4	Block	18:15	-220,73,233
+843.4	Block	18:15	-219,73,230
+843.4	Block	18:15	-219,73,232
+843.4	Block	18:15	-219,73,234
+843.4	Block	18:15	-218,73,231
+843.4	Block	190:0	-218,73,233
+843.4	Block	18:15	-218,73,235
+843.4	Block	18:15	-217,73,232
+843.4	Block	18:15	-217,73,234
+843.4	Block	18:15	-216,73,233
+843.4	Block	18:15	-235,74,217
+843.4	Block	18:15	-234,74,216
+843.4	Block	18:15	-234,74,218
+843.4	Block	18:15	-233,74,217
+843.4	Block	18:15	-232,74,220
+843.4	Block	18:15	-231,74,219
+843.4	Block	18:15	-231,74,221
+843.4	Block	18:15	-230,74,220
+843.4	Block	18:15	-222,74,230
+843.4	Block	18:15	-221,74,229
+843.4	Block	18:15	-221,74,231
+843.4	Block	18:15	-220,74,230
+843.4	Block	18:15	-219,74,233
+843.4	Block	18:15	-218,74,232
+843.4	Block	18:15	-218,74,234
+843.4	Block	18:15	-217,74,233
+#Saber
+829.7	Block	95:15	-254,77,252
+829.7	Block	95:15	-253,77,252
+829.7	Block	95:15	-253,77,253
+829.7	Block	95:15	-254,76,252
+829.7	Block	95:15	-253,76,252
+829.7	Block	95:15	-253,76,253
+836.7	Block	95:3	-254,77,252
+836.7	Block	95:9	-253,77,252
+836.7	Block	95:3	-253,77,253
+836.7	Block	95:11	-254,76,252
+836.7	Block	95:11	-253,76,252
+836.7	Block	95:11	-253,76,253
+843.4	Block	35:8	-254,77,252
+843.4	Block	35:8	-253,77,252
+843.4	Block	35:8	-253,77,253
+843.4	Block	35:8	-254,76,252
+843.4	Block	35:8	-253,76,252
+843.4	Block	35:8	-253,76,253
+#Stage			
+10	Block	2	-217,64,209
+10	Block	2	-210,64,216
+10	Block	2	-211,64,226
+10	Block	2	-224,64,210
+10	Block	2	-211,63,238
+10	Block	2	-221,63,232
+10	Block	2	-233,63,220
+10	Block	2	-239,63,210
+#Front of Theater			
+10	Block	172	-214,62,247
+10	Block	172	-224,62,241
+10	Block	172	-242,62,223
+10	Block	172	-248,62,213
+10	Block	159:11	-224,77,251
+10	Block	159:11	-229,77,245
+10	Block	159:11	-230,77,244
+10	Block	159:11	-245,77,229
+10	Block	159:11	-246,77,228
+10	Block	159:11	-252,77,223
+10	Block	159:9	-225,63,247
+10	Block	159:9	-226,63,246
+10	Block	159:9	-247,63,225
+10	Block	159:9	-248,63,224
+10	Block	48	-236,63,244
+#Mid Theater			
+10	Block	82	-232,77,260
+10	Block	82	-261,77,231
+10	Block	82	-244,77,267
+10	Block	82	-270,77,240
+10	Block	48	-244,73,257
+10	Block	48	-258,73,243
+10	Block	191	-253,82,245
+10	Block	191	-247,82,253
+10	Block	191	-249,89,251
+10	Block	191	-252,89,248
+10	Block	95:15	-249,77,248
+10	Block	82	-252,63,244
+10	Block	82	-245,63,251
+10	Block	159:9	-248,63,251
+10	Block	159:9	-252,64,247
+#Theater Exits			
+10	Block	179:1	-261,63,235
+10	Block	179:1	-234,63,258
+10	Block	18	-215,66,270
+10	Block	18	-217,66,270
+10	Block	95:15	-222,66,270
+10	Block	95:15	-222,66,273
+10	Block	95:15	-222,65,276
+#Planters			
+10.3	Block	2	-193,63,224
+10.3	Block	2	-226,63,194
+10.3	Block	2	-181,62,235
+10.3	Block	2	-191,63,237
+10.3	Block	2	-193,63,243
+10.3	Block	2	-186,62,253
+10.3	Block	2	-174,63,202
+10.3	Block	159:9	-183,62,195
+10.3	Block	2	-191,63,176
+10.3	Block	2	-210,63,176
+10.3	Block	2	-220,63,182
+10.3	Block	2	-225,63,176
+10.3	Block	2	-221,63,172
+10.3	Block	2	-225,63,161
+10.3	Block	35:3	-235,66,172
+10.3	Block	172	-238,62,167
+10.3	Block	172	-247,63,176
+10.3	Block	159:9	-267,61,198
+10.3	Block	159:9	-268,61,202
+#Courtyard			
+10.3	Block	35:9	-243,63,158
+10.3	Block	35:9	-249,63,164
+10.3	Block	35:9	-250,63,165
+10.3	Block	35:9	-256,63,171
+10.3	Block	172	-250,63,170
+10.3	Block	172	-244,63,164
+10.3	Block	95:9	-250,66,170
+10.3	Block	95:9	-244,66,164
+10.3	Block	95:9	-250,67,170
+10.3	Block	95:9	-244,67,164
+10.3	Block	95:15	-248,74,165
+10.3	Block	95:15	-249,74,164
+10.3	Block	95:15	-250,74,165
+10.3	Block	95:15	-249,74,166
+10.3	Block	189	-254,66,166
+10.3	Block	189	-248,66,160
+10.3	Block	35	-264,69,165
+10.3	Block	35	-263,69,164
+10.3	Block	35	-263,69,163
+10.3	Block	35	-263,69,162
+10.3	Block	35	-264,69,161
+10.3	Block	159:9	-270,77,166
+10.3	Block	159:9	-276,77,172
+10.3	Block	159:9	-282,77,178
+10.3	Block	179	-266,67,166
+10.3	Block	179	-269,67,170
+10.3	Block	179	-273,67,174
+10.3	Block	179	-277,67,178
+10.3	Block	179	-281,67,182
+10.3	Block	179	-284,67,181
+10.3	Block	179	-284,67,184
+#Frozen			
+10.3	Block	35	-178,70,266
+10.3	Block	35	-179,70,265
+10.3	Block	35	-180,70,264
+10.3	Block	35	-179,70,263
+10.3	Block	35	-178,70,262
+10.3	Block	35	-177,70,261
+10.3	Block	35	-176,70,260
+10.3	Block	35	-175,70,259
+10.3	Block	35	-174,70,258
+10.3	Block	35	-173,70,257
+10.3	Block	35	-172,70,256
+10.3	Block	35	-171,70,255
+10.3	Block	35	-170,70,254
+10.3	Block	35	-169,70,253
+10.3	Block	35	-168,70,252
+10.3	Block	35	-167,70,251
+10.3	Block	35	-166,70,250
+10.3	Block	35	-165,70,249
+10.3	Block	35	-164,70,248
+10.3	Block	35	-163,70,247
+10.3	Block	35	-162,70,246
+10.3	Block	35	-161,70,245
+10.3	Block	35	-160,70,244
+10.3	Block	35	-159,70,243
+10.3	Block	35	-158,70,243
+10.3	Block	179:2	-199,65,286
+10.3	Block	179:2	-196,65,283
+10.3	Block	179:2	-190,65,283
+#Frozen			
+848.6	Block	89	-178,70,266
+848.6	Block	89	-179,70,265
+848.6	Block	89	-180,70,264
+848.6	Block	89	-179,70,263
+848.6	Block	89	-178,70,262
+848.6	Block	89	-177,70,261
+848.6	Block	89	-176,70,260
+848.6	Block	89	-175,70,259
+848.6	Block	89	-174,70,258
+848.6	Block	89	-173,70,257
+848.6	Block	89	-172,70,256
+848.6	Block	89	-171,70,255
+848.6	Block	89	-170,70,254
+848.6	Block	89	-169,70,253
+848.6	Block	89	-168,70,252
+848.6	Block	89	-167,70,251
+848.6	Block	89	-166,70,250
+848.6	Block	89	-165,70,249
+848.6	Block	89	-164,70,248
+848.6	Block	89	-163,70,247
+848.6	Block	89	-162,70,246
+848.6	Block	89	-161,70,245
+848.6	Block	89	-160,70,244
+848.6	Block	89	-159,70,243
+848.6	Block	89	-158,70,243
+848.6	Block	89	-199,65,286
+848.6	Block	89	-196,65,283
+848.6	Block	89	-190,65,283
+#Courtyard			
+850.3	Block	169	-243,63,158
+850.3	Block	169	-249,63,164
+850.3	Block	169	-250,63,165
+850.3	Block	169	-256,63,171
+850.3	Block	169	-250,63,170
+850.3	Block	169	-244,63,164
+850.3	Block	169	-250,66,170
+850.3	Block	169	-244,66,164
+850.3	Block	169	-250,67,170
+850.3	Block	169	-244,67,164
+850.3	Block	138	-248,74,165
+850.3	Block	138	-249,74,164
+850.3	Block	138	-250,74,165
+850.3	Block	138	-249,74,166
+850.3	Block	50	-254,66,166
+850.3	Block	50	-248,66,160
+850.3	Block	89	-264,69,165
+850.3	Block	89	-263,69,164
+850.3	Block	89	-263,69,163
+850.3	Block	89	-263,69,162
+850.3	Block	89	-264,69,161
+850.3	Block	89	-270,77,166
+850.3	Block	89	-276,77,172
+850.3	Block	89	-282,77,178
+850.3	Block	89	-266,67,166
+850.3	Block	89	-269,67,170
+850.3	Block	89	-273,67,174
+850.3	Block	89	-277,67,178
+850.3	Block	89	-281,67,182
+850.3	Block	89	-284,67,181
+850.3	Block	89	-284,67,184
+#Planters			
+851.4	Block	169	-193,63,224
+851.4	Block	169	-226,63,194
+851.4	Block	169	-181,62,235
+851.4	Block	169	-191,63,237
+851.4	Block	169	-193,63,243
+851.4	Block	169	-186,62,253
+851.4	Block	169	-174,63,202
+851.4	Block	169	-183,62,195
+851.4	Block	169	-191,63,176
+851.4	Block	169	-210,63,176
+851.4	Block	169	-220,63,182
+851.4	Block	169	-225,63,176
+851.4	Block	169	-221,63,172
+851.4	Block	169	-225,63,161
+851.4	Block	89	-235,66,172
+851.4	Block	169	-238,62,167
+851.4	Block	169	-247,63,176
+851.4	Block	169	-267,61,198
+851.4	Block	169	-268,61,202
+#Theater Exits			
+853.3	Block	169	-261,63,235
+853.3	Block	169	-234,63,258
+853.3	Block	89	-215,66,270
+853.3	Block	89	-217,66,270
+853.3	Block	138	-222,66,270
+853.3	Block	138	-222,66,273
+853.3	Block	138	-222,65,276
+#Mid Theater			
+854.8	Block	169	-232,77,260
+854.8	Block	169	-261,77,231
+854.8	Block	169	-244,77,267
+854.8	Block	169	-270,77,240
+854.8	Block	169	-244,73,257
+854.8	Block	169	-258,73,243
+854.8	Block	50	-253,82,245
+854.8	Block	50	-247,82,253
+854.8	Block	50	-249,89,251
+854.8	Block	50	-252,89,248
+854.8	Block	138	-249,77,248
+854.8	Block	169	-252,63,244
+854.8	Block	169	-245,63,251
+854.8	Block	169	-248,63,251
+854.8	Block	169	-252,64,247
+#Front of Theater			
+856.3	Block	169	-214,62,247
+856.3	Block	169	-224,62,241
+856.3	Block	169	-242,62,223
+856.3	Block	169	-248,62,213
+856.3	Block	169	-224,77,251
+856.3	Block	169	-229,77,245
+856.3	Block	169	-230,77,244
+856.3	Block	169	-245,77,229
+856.3	Block	169	-246,77,228
+856.3	Block	169	-252,77,223
+856.3	Block	169	-225,63,247
+856.3	Block	169	-226,63,246
+856.3	Block	169	-247,63,225
+856.3	Block	169	-248,63,224
+856.3	Block	89	-236,63,244
+#Stage			
+858.3	Block	89	-217,64,209
+858.3	Block	89	-210,64,216
+858.3	Block	89	-211,64,226
+858.3	Block	89	-224,64,210
+858.3	Block	169	-211,63,238
+858.3	Block	169	-221,63,232
+858.3	Block	169	-233,63,220
+858.3	Block	169	-239,63,210
+#Time	Glow	color/rgb	center	radius
+10.3	Glow	12,12,64	-206,64,206	50
+10.9	Glow	0,0,128	-206,64,206	50
+11.5	Glow	0,0,139	-206,64,206	50
+12.2	Glow	0,0,205	-206,64,206	50
+12.8	Glow	0,0,255	-206,64,206	50
+71.5	Glow	0,0,200	-206,64,206	50
+72.7	Glow	0,0,150	-206,64,206	50
+74	Glow	0,0,100	-206,64,206	50
+75.2	Glow	0,0,0	-206,64,206	50
+152.1	Glow	30,144,255	-206,64,206	50
+157.1	Glow	176,196,222	-226,73,195	30
+160.7	Glow	176,196,222	-193,73,225	30
+164.6	Glow	192,192,192	-206,64,210	50
+172.4	Glow	210,180,140	-206,64,211	50
+191.4	Glow	176,224,230	-206,64,212	50
+204.6	Glow	178,34,34	-206,64,213	50
+217.1	Glow	173,216,230	-193,73,225	25
+217.8	Glow	173,216,230	-226,73,195	25
+218.5	Glow	173,216,230	-206,64,216	30
+219.2	Glow	224,255,255	-206,64,217	50
+220.2	Glow	0,0,0	-206,64,217	50
+243.5	Glow	220,20,60	-206,64,217	50
+250.9	Glow	255,99,71	-206,64,217	50
+259.6	Glow	255,165,0	-206,64,217	50
+263.2	Glow	255,99,71	-206,64,217	50
+265.5	Glow	220,20,60	-206,64,217	50
+270.3	Glow	0,0,0	-206,64,217	50
+282.1	Glow	255,222,173	-226,73,195	25
+283.2	Glow	255,222,173	-206,64,206	25
+284.4	Glow	255,222,173	-193,73,225	25
+286.9	Glow	255,228,196	-206,64,206	50
+296	Glow	233,150,122	-206,64,206	50
+300.9	Glow	230,230,250	-206,64,206	50
+310.3	Glow	221,160,221	-206,64,206	50
+343.9	Glow	0,0,0	-206,64,217	50
+362.1	Glow	27,41,50	-206,64,217	50
+364.1	Glow	54,82,100	-206,64,217	50
+366.1	Glow	81,124,150	-206,64,217	50
+368.1	Glow	108,165,200	-206,64,217	50
+370.1	Glow	135,206,250	-206,64,217	50
+372.8	Glow	255,165,0	-206,64,217	50
+383.1	Glow	0,0,0	-206,64,217	50
+406.5	Glow	135,206,235	-206,64,217	50
+410.7	Glow	240,255,255	-193,73,225	25
+411.4	Glow	240,255,255	-226,73,195	25
+412.2	Glow	245,255,250	-206,64,272	50
+417.8	Glow	0,0,0	-206,64,272	50
+456	Glow	0,191,255	-193,73,225	30
+456	Glow	244,164,96	-226,73,195	30
+456.45	Glow	0,255,127	-193,73,225	20
+456.45	Glow	138,43,226	-226,73,195	20
+456.9	Glow	255,255,0	-193,73,225	10
+456.9	Glow	255,0,255	-226,73,195	10
+457.35	Glow	255,255,0	-193,73,225	30
+457.35	Glow	255,0,255	-226,73,195	30
+457.8	Glow	0,255,127	-193,73,225	20
+457.8	Glow	138,43,226	-226,73,195	20
+458.25	Glow	0,191,255	-193,73,225	10
+458.25	Glow	244,164,96	-226,73,195	10
+458.7	Glow	0,255,127	-193,73,225	30
+458.7	Glow	138,43,226	-226,73,195	30
+459.15	Glow	0,191,255	-193,73,225	20
+459.15	Glow	244,164,96	-226,73,195	20
+459.6	Glow	255,255,0	-193,73,225	10
+459.6	Glow	255,0,255	-226,73,195	10
+460.05	Glow	244,164,96	-193,73,225	30
+460.05	Glow	0,191,255	-226,73,195	30
+460.5	Glow	138,43,226	-193,73,225	20
+460.5	Glow	0,255,127	-226,73,195	20
+460.95	Glow	255,0,255	-193,73,225	10
+460.95	Glow	255,255,0	-226,73,195	10
+461.4	Glow	255,0,255	-193,73,225	30
+461.4	Glow	255,255,0	-226,73,195	30
+461.85	Glow	138,43,226	-193,73,225	20
+461.85	Glow	0,255,127	-226,73,195	20
+462.3	Glow	244,164,96	-193,73,225	10
+462.3	Glow	0,191,255	-226,73,195	10
+462.75	Glow	138,43,226	-193,73,225	30
+462.75	Glow	0,255,127	-226,73,195	30
+463.2	Glow	244,164,96	-193,73,225	20
+463.2	Glow	0,191,255	-226,73,195	20
+463.65	Glow	255,0,255	-193,73,225	10
+463.65	Glow	255,255,0	-226,73,195	10
+464.1	Glow	0,191,255	-193,73,225	30
+464.1	Glow	244,164,96	-226,73,195	30
+464.55	Glow	0,255,127	-193,73,225	20
+464.55	Glow	138,43,226	-226,73,195	20
+465	Glow	255,255,0	-193,73,225	10
+465	Glow	255,0,255	-226,73,195	10
+465.45	Glow	255,255,0	-193,73,225	30
+465.45	Glow	255,0,255	-226,73,195	30
+465.9	Glow	0,255,127	-193,73,225	20
+465.9	Glow	138,43,226	-226,73,195	20
+466.35	Glow	0,191,255	-193,73,225	10
+466.35	Glow	244,164,96	-226,73,195	10
+466.8	Glow	0,255,127	-193,73,225	30
+466.8	Glow	138,43,226	-226,73,195	30
+467.25	Glow	0,191,255	-193,73,225	20
+467.25	Glow	244,164,96	-226,73,195	20
+467.7	Glow	255,255,0	-193,73,225	10
+467.7	Glow	255,0,255	-226,73,195	10
+468.15	Glow	244,164,96	-193,73,225	30
+468.15	Glow	0,191,255	-226,73,195	30
+468.6	Glow	138,43,226	-193,73,225	20
+468.6	Glow	0,255,127	-226,73,195	20
+469.05	Glow	255,0,255	-193,73,225	10
+469.05	Glow	255,255,0	-226,73,195	10
+469.5	Glow	255,0,255	-193,73,225	30
+469.5	Glow	255,255,0	-226,73,195	30
+469.95	Glow	138,43,226	-193,73,225	20
+469.95	Glow	0,255,127	-226,73,195	20
+470.4	Glow	244,164,96	-193,73,225	10
+470.4	Glow	0,191,255	-226,73,195	10
+470.85	Glow	138,43,226	-193,73,225	30
+470.85	Glow	0,255,127	-226,73,195	30
+471.3	Glow	244,164,96	-193,73,225	20
+471.3	Glow	0,191,255	-226,73,195	20
+471.75	Glow	255,0,255	-193,73,225	10
+471.75	Glow	255,255,0	-226,73,195	10
+472.2	Glow	0,191,255	-193,73,225	30
+472.2	Glow	244,164,96	-226,73,195	30
+472.65	Glow	0,255,127	-193,73,225	20
+472.65	Glow	138,43,226	-226,73,195	20
+473.1	Glow	255,255,0	-193,73,225	10
+473.1	Glow	255,0,255	-226,73,195	10
+473.55	Glow	255,255,0	-193,73,225	30
+473.55	Glow	255,0,255	-226,73,195	30
+474	Glow	0,255,127	-193,73,225	20
+474	Glow	138,43,226	-226,73,195	20
+474.45	Glow	0,191,255	-193,73,225	10
+474.45	Glow	244,164,96	-226,73,195	10
+474.9	Glow	0,255,127	-193,73,225	30
+474.9	Glow	138,43,226	-226,73,195	30
+475.35	Glow	0,191,255	-193,73,225	20
+475.35	Glow	244,164,96	-226,73,195	20
+475.8	Glow	255,255,0	-193,73,225	10
+475.8	Glow	255,0,255	-226,73,195	10
+476.25	Glow	244,164,96	-193,73,225	30
+476.25	Glow	0,191,255	-226,73,195	30
+476.7	Glow	138,43,226	-193,73,225	20
+476.7	Glow	0,255,127	-226,73,195	20
+477.15	Glow	255,0,255	-193,73,225	10
+477.15	Glow	255,255,0	-226,73,195	10
+477.6	Glow	255,0,255	-193,73,225	30
+477.6	Glow	255,255,0	-226,73,195	30
+478.05	Glow	138,43,226	-193,73,225	20
+478.05	Glow	0,255,127	-226,73,195	20
+478.5	Glow	244,164,96	-193,73,225	10
+478.5	Glow	0,191,255	-226,73,195	10
+478.95	Glow	138,43,226	-193,73,225	30
+478.95	Glow	0,255,127	-226,73,195	30
+479.4	Glow	244,164,96	-193,73,225	20
+479.4	Glow	0,191,255	-226,73,195	20
+479.85	Glow	255,0,255	-193,73,225	10
+479.85	Glow	255,255,0	-226,73,195	10
+480.3	Glow	0,191,255	-193,73,225	30
+480.3	Glow	244,164,96	-226,73,195	30
+480.75	Glow	0,255,127	-193,73,225	20
+480.75	Glow	138,43,226	-226,73,195	20
+481.2	Glow	255,255,0	-193,73,225	10
+481.2	Glow	255,0,255	-226,73,195	10
+481.65	Glow	255,255,0	-193,73,225	30
+481.65	Glow	255,0,255	-226,73,195	30
+482.1	Glow	0,255,127	-193,73,225	20
+482.1	Glow	138,43,226	-226,73,195	20
+482.55	Glow	0,191,255	-193,73,225	10
+482.55	Glow	244,164,96	-226,73,195	10
+483	Glow	0,255,127	-193,73,225	30
+483	Glow	138,43,226	-226,73,195	30
+483.45	Glow	0,191,255	-193,73,225	20
+483.45	Glow	244,164,96	-226,73,195	20
+483.9	Glow	255,255,0	-193,73,225	10
+483.9	Glow	255,0,255	-226,73,195	10
+484.3	Glow	0,0,0	-206,64,206	50
+522.6	Glow	0,255,0	-206,64,206	50
+522.9	Glow	0,0,0	-206,64,206	50
+523.3	Glow	0,255,0	-206,64,206	50
+523.7	Glow	0,0,0	-206,64,206	50
+524	Glow	0,255,0	-206,64,206	50
+524.3	Glow	0,0,0	-206,64,206	50
+524.7	Glow	0,255,0	-206,64,206	50
+525.3	Glow	0,206,209	-206,64,206	50
+532.7	Glow	255,105,180	-193,73,225	15
+532.7	Glow	255,105,180	-226,73,195	15
+552.9	Glow	255,160,122	-206,64,206	50
+558.9	Glow	220,20,60	-206,64,206	50
+559.3	Glow	178,34,34	-193,73,225	25
+559.3	Glow	178,34,34	-226,73,195	25
+584	Glow	0,0,0	-206,64,206	60
+590.1	Glow	85,0,0	-193,73,225	30
+590.6	Glow	170,0,0	-193,73,225	30
+591	Glow	255,0,0	-193,73,225	30
+591.5	Glow	170,0,0	-193,73,225	30
+592	Glow	85,0,0	-193,73,225	30
+592.5	Glow	0,0,0	-193,73,225	30
+593.1	Glow	85,0,0	-226,73,195	30
+593.6	Glow	170,0,0	-226,73,195	30
+594	Glow	255,0,0	-226,73,195	30
+594.5	Glow	170,0,0	-226,73,195	30
+595	Glow	85,0,0	-226,73,195	30
+595.5	Glow	0,0,0	-226,73,195	30
+596.2	Glow	85,0,0	-206,64,206	60
+596.7	Glow	170,0,0	-206,64,206	60
+597.1	Glow	255,0,0	-206,64,206	60
+597.6	Glow	170,0,0	-206,64,206	60
+598.1	Glow	85,0,0	-206,64,206	60
+598.6	Glow	0,0,0	-206,64,206	60
+600.8	Glow	85,0,0	-206,64,206	60
+601.3	Glow	170,0,0	-206,64,206	60
+601.7	Glow	255,0,0	-206,64,206	60
+602.2	Glow	170,0,0	-206,64,206	60
+602.7	Glow	85,0,0	-206,64,206	60
+603.2	Glow	0,0,0	-206,64,206	60
+604.7	Glow	220,20,60	-206,64,206	60
+634.4	Glow	106,90,205	-206,64,206	60
+634.6	Glow	230,230,250	-226,73,195	30
+634.6	Glow	106,90,205	-226,73,195	30
+634.7	Glow	230,230,250	-226,73,195	30
+635.3	Glow	106,90,205	-226,73,195	30
+635.7	Glow	230,230,250	-226,73,195	30
+636.3	Glow	106,90,205	-226,73,195	30
+636.5	Glow	230,230,250	-226,73,195	30
+636.8	Glow	106,90,205	-226,73,195	30
+637.3	Glow	230,230,250	-226,73,195	30
+637.9	Glow	106,90,205	-226,73,195	30
+638.7	Glow	230,230,250	-226,73,195	30
+638.8	Glow	106,90,205	-226,73,195	30
+639.5	Glow	230,230,250	-226,73,195	30
+640.1	Glow	106,90,205	-226,73,195	30
+640.7	Glow	230,230,250	-226,73,195	30
+641	Glow	106,90,205	-226,73,195	30
+641.2	Glow	230,230,250	-226,73,195	30
+641.7	Glow	106,90,205	-226,73,195	30
+642	Glow	230,230,250	-226,73,195	30
+642.5	Glow	106,90,205	-226,73,195	30
+642.7	Glow	230,230,250	-226,73,195	30
+643.2	Glow	106,90,205	-226,73,195	30
+643.6	Glow	230,230,250	-226,73,195	30
+644	Glow	106,90,205	-226,73,195	30
+644.1	Glow	230,230,250	-226,73,195	30
+644.3	Glow	106,90,205	-226,73,195	30
+644.7	Glow	230,230,250	-226,73,195	30
+644.9	Glow	106,90,205	-226,73,195	30
+645.6	Glow	230,230,250	-226,73,195	30
+645.8	Glow	106,90,205	-226,73,195	30
+646.1	Glow	230,230,250	-226,73,195	30
+646.3	Glow	106,90,205	-226,73,195	30
+646.7	Glow	230,230,250	-226,73,195	30
+646.9	Glow	106,90,205	-226,73,195	30
+647.3	Glow	230,230,250	-226,73,195	30
+647.4	Glow	106,90,205	-226,73,195	30
+648.2	Glow	230,230,250	-226,73,195	30
+648.5	Glow	106,90,205	-226,73,195	30
+648.5	Glow	230,230,250	-226,73,195	30
+648.8	Glow	106,90,205	-226,73,195	30
+649.6	Glow	230,230,250	-226,73,195	30
+649.6	Glow	106,90,205	-226,73,195	30
+650.1	Glow	230,230,250	-226,73,195	30
+650.8	Glow	106,90,205	-226,73,195	30
+637	Glow	230,230,250	-193,73,225	30
+637.4	Glow	106,90,205	-193,73,225	30
+637.7	Glow	230,230,250	-193,73,225	30
+638.2	Glow	106,90,205	-193,73,225	30
+639	Glow	230,230,250	-193,73,225	30
+639.2	Glow	106,90,205	-193,73,225	30
+639.6	Glow	230,230,250	-193,73,225	30
+640.2	Glow	106,90,205	-193,73,225	30
+640.3	Glow	230,230,250	-193,73,225	30
+640.6	Glow	106,90,205	-193,73,225	30
+640.9	Glow	230,230,250	-193,73,225	30
+641.5	Glow	106,90,205	-193,73,225	30
+641.6	Glow	230,230,250	-193,73,225	30
+642.3	Glow	106,90,205	-193,73,225	30
+642.6	Glow	230,230,250	-193,73,225	30
+643.3	Glow	106,90,205	-193,73,225	30
+643.6	Glow	230,230,250	-193,73,225	30
+643.6	Glow	106,90,205	-193,73,225	30
+644.1	Glow	230,230,250	-193,73,225	30
+644.6	Glow	106,90,205	-193,73,225	30
+645.2	Glow	230,230,250	-193,73,225	30
+645.6	Glow	106,90,205	-193,73,225	30
+645.7	Glow	230,230,250	-193,73,225	30
+646.4	Glow	106,90,205	-193,73,225	30
+646.7	Glow	230,230,250	-193,73,225	30
+646.9	Glow	106,90,205	-193,73,225	30
+647.3	Glow	230,230,250	-193,73,225	30
+647.9	Glow	106,90,205	-193,73,225	30
+648.6	Glow	230,230,250	-193,73,225	30
+649.1	Glow	106,90,205	-193,73,225	30
+649.4	Glow	230,230,250	-193,73,225	30
+649.5	Glow	106,90,205	-193,73,225	30
+649.9	Glow	230,230,250	-193,73,225	30
+650.4	Glow	106,90,205	-193,73,225	30
+650.7	Glow	230,230,250	-193,73,225	30
+651.2	Glow	106,90,205	-193,73,225	30
+651.4	Glow	230,230,250	-193,73,225	30
+652	Glow	106,90,205	-193,73,225	30
+#	Glow	230,230,250	-193,73,225	30
+#VALUE!	Glow	106,90,205	-193,73,225	30
+651.9	Glow	0,0,0	-206,64,206	60
+652.4	Glow	0,0,0	-206,64,206	60
+655	Glow	255,69,0	-206,64,206	50
+667.6	Glow	255,99,71	-206,64,206	50
+680.3	Glow	0,0,0	-206,64,206	60
+743.3	Glow	34,125,237	-206,64,206	60
+759	Glow	218,165,32	-206,64,206	60
+783.1	Glow	34,125,237	-206,64,206	60
+807.6	Glow	218,165,32	-206,64,206	60
+814.2	Glow	230,230,250	-206,64,206	60
+814.2	Glow	255,99,71	-193,73,225	30
+814.2	Glow	255,99,71	-226,73,195	30
+814.2	Glow	230,230,250	-193,73,225	16
+814.2	Glow	230,230,250	-226,73,195	16
+823.8	Glow	255,222,173	-193,73,225	30
+823.8	Glow	34,125,237	-226,73,195	30
+825.2	Glow	34,125,237	-193,73,225	30
+825.2	Glow	255,222,173	-226,73,195	30
+826.6	Glow	255,222,173	-193,73,225	30
+826.6	Glow	34,125,237	-226,73,195	30
+828.4	Glow	255,0,0	-206,64,206	60
+829.6	Glow	255,255,255	-206,64,206	80
+829.6	Glow	34,125,237	-193,73,225	40
+829.6	Glow	34,125,237	-226,73,195	40
+829.6	Glow	255,0,0	-193,73,225	18
+829.6	Glow	255,0,0	-226,73,195	18
+836.5	Glow	0,0,0	-206,64,206	80
+#Time	GlowDone
+843	GlowDone
+75.2	PowerFirework	-193,69,238	b1a	0,2.972,0
+75.25	PowerFirework	-195,69,240	b1a	0,3.144,0
+75.3	PowerFirework	-197,69,242	b1a	0,3.316,0
+75.3	PowerFirework	-209,70,243	b1a	0,3.484,0
+75.35	PowerFirework	-211,70,243	b1a	0,3.656,0
+75.35	PowerFirework	-213,70,243	b1a	0,3.828,0
+75.4	PowerFirework	-215,70,243	b1a	0,4,0
+75.4	PowerFirework	-245,70,213	b1a	0,4,0
+75.35	PowerFirework	-245,70,211	b1a	0,3.828,0
+75.35	PowerFirework	-245,70,209	b1a	0,3.656,0
+75.3	PowerFirework	-245,70,207	b1a	0,3.484,0
+75.3	PowerFirework	-238,71,196	b1a	0,3.316,0
+75.25	PowerFirework	-236,71,194	b1a	0,3.144,0
+75.2	PowerFirework	-234,71,192	b1a	0,2.972,0
+
+75.30	PowerFirework	-247,83,247	lb1	2.571,3.064,2.571
+75.30	PowerFirework	-247,83,247	lb1	2,3.464,2
+75.30	PowerFirework	-247,83,247	lb1	1.368,3.759,1.368
+75.30	PowerFirework	-247,83,247	lb1	0.695,3.939,0.695
+75.30	PowerFirework	-247,83,247	lb1	0,4,0
+75.30	PowerFirework	-247,83,247	lb1	-0.695,3.939,-0.695
+75.30	PowerFirework	-247,83,247	lb1	-1.368,3.759,-1.368
+75.30	PowerFirework	-247,83,247	lb1	-2,3.464,-2
+75.30	PowerFirework	-247,83,247	lb1	-2.571,3.064,-2.571
+#Mains
+83	PowerFirework	-219,75,247	lb8a	0,4,0
+83	PowerFirework	-225,75,241	lb8a	0,4,0
+83	PowerFirework	-231,75,235	lb8a	0,4,0
+83	PowerFirework	-236,75,230	lb8a	0,4,0
+83	PowerFirework	-242,75,224	lb8a	0,4,0
+83	PowerFirework	-248,75,218	lb8a	0,4,0
+83	PowerFirework	-219,75,247	lb8a	0,4,0
+83	PowerFirework	-225,75,241	lb8a	0,4,0
+83	PowerFirework	-231,75,235	lb8a	0,4,0
+83	PowerFirework	-236,75,230	lb8a	0,4,0
+83	PowerFirework	-242,75,224	lb8a	0,4,0
+83	PowerFirework	-248,75,218	lb8a	0,4,0
+86	PowerFirework	-193,69,238	b2	0,3.2,0
+86	PowerFirework	-195,69,240	b2	0,3.2,0
+86	PowerFirework	-197,69,242	b2	0,3.2,0
+86	PowerFirework	-209,70,243	b2	0,3.2,0
+86	PowerFirework	-211,70,243	b2	0,3.2,0
+86	PowerFirework	-213,70,243	b2	0,3.2,0
+86	PowerFirework	-215,70,243	b2	0,3.2,0
+87.1	PowerFirework	-245,70,212	b2	0,3.2,0
+87.1	PowerFirework	-245,70,210	b2	0,3.2,0
+87.1	PowerFirework	-245,70,208	b2	0,3.2,0
+87.1	PowerFirework	-239,71,197	b2	0,3.2,0
+87.1	PowerFirework	-237,71,195	b2	0,3.2,0
+87.1	PowerFirework	-235,71,193	b2	0,3.2,0
+87.1	PowerFirework	-233,71,191	b2	0,3.2,0
+89.5	PowerFirework	-192,69,237	b4	0,3,0
+89.5	PowerFirework	-194,69,239	b4	0,3,0
+89.5	PowerFirework	-196,69,241	b4	0,3,0
+89.5	PowerFirework	-198,69,243	b4	0,3,0
+89.5	PowerFirework	-210,70,243	b4	0,3,0
+89.5	PowerFirework	-212,70,243	b4	0,3,0
+89.5	PowerFirework	-214,70,243	b4	0,3,0
+88.3	PowerFirework	-245,70,213	b4	0,3,0
+88.3	PowerFirework	-245,70,211	b4	0,3,0
+88.3	PowerFirework	-245,70,209	b4	0,3,0
+88.3	PowerFirework	-245,70,207	b4	0,3,0
+88.3	PowerFirework	-238,71,196	b4	0,3,0
+88.3	PowerFirework	-236,71,194	b4	0,3,0
+88.3	PowerFirework	-234,71,192	b4	0,3,0
+
+#Mids
+92.2	PowerFirework	-222,74,244	lb8a	1.094,3.007,1.094
+92.25	PowerFirework	-228,74,238	lb8a	1.094,3.007,1.094
+92.25	PowerFirework	-239,74,227	lb8a	1.094,3.007,1.094
+92.3	PowerFirework	-245,74,221	lb8a	1.094,3.007,1.094
+92.3	PowerFirework	-222,74,244	lb8a	-1.094,3.007,-1.094
+92.25	PowerFirework	-228,74,238	lb8a	-1.094,3.007,-1.094
+92.25	PowerFirework	-239,74,227	lb8a	-1.094,3.007,-1.094
+92.2	PowerFirework	-245,74,221	lb8a	-1.094,3.007,-1.094
+100.4	Firework	-219,75,247	smg1	1	-1.035,3.864,-1.035	1
+100.5	Firework	-225,75,241	smg1	1	-1.035,3.864,-1.035	1
+100.6	Firework	-231,75,235	smg1	1	-1.035,3.864,-1.035	1
+100.7	Firework	-236,75,230	smg1	1	-1.035,3.864,-1.035	1
+100.8	Firework	-242,75,224	smg1	1	-1.035,3.864,-1.035	1
+100.9	Firework	-248,75,218	smg1	1	-1.035,3.864,-1.035	1
+100.4	Firework	-219,75,247	smg1	1	1.035,3.864,1.035	1
+100.5	Firework	-225,75,241	smg1	1	1.035,3.864,1.035	1
+100.6	Firework	-231,75,235	smg1	1	1.035,3.864,1.035	1
+100.7	Firework	-236,75,230	smg1	1	1.035,3.864,1.035	1
+100.8	Firework	-242,75,224	smg1	1	1.035,3.864,1.035	1
+100.9	Firework	-248,75,218	smg1	1	1.035,3.864,1.035	1
+105.4	Firework	-219,75,247	smg1	1	-1.368,3.759,-1.368	1
+105.3	Firework	-225,75,241	smg1	1	-1.368,3.759,-1.368	1
+105.2	Firework	-231,75,235	smg1	1	-1.368,3.759,-1.368	1
+105.1	Firework	-236,75,230	smg1	1	-1.368,3.759,-1.368	1
+105	Firework	-242,75,224	smg1	1	-1.368,3.759,-1.368	1
+104.9	Firework	-248,75,218	smg1	1	-1.368,3.759,-1.368	1
+105.4	Firework	-219,75,247	smg1	1	1.368,3.759,1.368	1
+105.3	Firework	-225,75,241	smg1	1	1.368,3.759,1.368	1
+105.2	Firework	-231,75,235	smg1	1	1.368,3.759,1.368	1
+105.1	Firework	-236,75,230	smg1	1	1.368,3.759,1.368	1
+105	Firework	-242,75,224	smg1	1	1.368,3.759,1.368	1
+104.9	Firework	-248,75,218	smg1	1	1.368,3.759,1.368	1
+110.3	Firework	-219,75,247	smg1	1	-1.368,3.759,-1.368	1
+110.2	Firework	-225,75,241	smg1	1	-1.368,3.759,-1.368	1
+110.1	Firework	-231,75,235	smg1	1	-1.368,3.759,-1.368	1
+110	Firework	-236,75,230	smg1	1	-1.368,3.759,-1.368	1
+109.9	Firework	-242,75,224	smg1	1	-1.368,3.759,-1.368	1
+109.8	Firework	-248,75,218	smg1	1	-1.368,3.759,-1.368	1
+109.8	Firework	-219,75,247	smg1	1	1.368,3.759,1.368	1
+109.9	Firework	-225,75,241	smg1	1	1.368,3.759,1.368	1
+110	Firework	-231,75,235	smg1	1	1.368,3.759,1.368	1
+110.1	Firework	-236,75,230	smg1	1	1.368,3.759,1.368	1
+110.2	Firework	-242,75,224	smg1	1	1.368,3.759,1.368	1
+110.3	Firework	-248,75,218	smg1	1	1.368,3.759,1.368	1
+#Mains
+251.15	PowerFirework	-219,75,247	b12a	1.589,3.671,1.589
+251.4	PowerFirework	-225,75,241	b12a	1.589,3.671,1.589
+251.05	PowerFirework	-231,75,235	b12a	1.589,3.671,1.589
+251.2	PowerFirework	-236,75,230	b12a	1.589,3.671,1.589
+251.15	PowerFirework	-242,75,224	b12a	1.589,3.671,1.589
+251.2	PowerFirework	-248,75,218	b12a	1.589,3.671,1.589
+251.1	PowerFirework	-219,75,247	b12a	-1.589,3.671,-1.589
+251.1	PowerFirework	-225,75,241	b12a	-1.589,3.671,-1.589
+251.2	PowerFirework	-231,75,235	b12a	-1.589,3.671,-1.589
+251.05	PowerFirework	-236,75,230	b12a	-1.589,3.671,-1.589
+251.25	PowerFirework	-242,75,224	b12a	-1.589,3.671,-1.589
+250.95	PowerFirework	-248,75,218	b12a	-1.589,3.671,-1.589
+#Mids
+251.2	PowerFirework	-222,74,244	b12	1.589,3.671,1.589
+251.15	PowerFirework	-228,74,238	b12	1.589,3.671,1.589
+251.35	PowerFirework	-239,74,227	b12	1.589,3.671,1.589
+251.2	PowerFirework	-245,74,221	b12	1.589,3.671,1.589
+251.25	PowerFirework	-222,74,244	b12	-1.589,3.671,-1.589
+251.05	PowerFirework	-228,74,238	b12	-1.589,3.671,-1.589
+250.9	PowerFirework	-239,74,227	b12	-1.589,3.671,-1.589
+251.25	PowerFirework	-245,74,221	b12	-1.589,3.671,-1.589
+308.6	Firework	-222,74,244	power3a,flower1da	1	-1.368,3.759,-1.368	1
+308.65	Firework	-228,74,238	power3a,flower1da	1	-1.368,3.759,-1.368	1
+308.65	Firework	-239,74,227	power3a,flower1da	1	-1.368,3.759,-1.368	1
+308.7	Firework	-245,74,221	power3a,flower1da	1	-1.368,3.759,-1.368	1
+308.7	Firework	-222,74,244	power3a,flower1da	1	1.368,3.759,1.368	1
+308.65	Firework	-228,74,238	power3a,flower1da	1	1.368,3.759,1.368	1
+308.65	Firework	-239,74,227	power3a,flower1da	1	1.368,3.759,1.368	1
+308.6	Firework	-245,74,221	power3a,flower1da	1	1.368,3.759,1.368	1
+#7:51

@@ -1,0 +1,181 @@
+Show	Location	-90,45,-1596
+Show	TextRadius	150
+Show	Name	Castle
+
+#Audio
+0	AudioStart	Anni4
+0.2	AudioSync	Anni4	0.2
+10	AudioSync	Anni4	10
+15	AudioSync	Anni4	15
+30	AudioSync	Anni4	30
+60	AudioSync	Anni4	60
+120	AudioSync	Anni4	120
+180	AudioSync	Anni4	180
+240	AudioSync	Anni4	240
+300	AudioSync	Anni4	300
+360	AudioSync	Anni4	360
+420	AudioSync	Anni4	420
+480	AudioSync	Anni4	480
+540	AudioSync	Anni4	540
+600	AudioSync	Anni4	600
+660	AudioSync	Anni4	660
+720	AudioSync	Anni4	720
+780	AudioSync	Anni4	780
+
+#Text
+0.03	Text	&b&oWithin each of us is a dreamer, just waiting to be awakened.
+5.7	Text	&b&oWe all have the magic to unlock this inner child.
+10.3	Text	&b&oBut sometimes, that inner child needs an invitation to come out and play.
+16.7	Text	&b&oThis is your invitation...
+19.5	Text	&d&l&oto dream.
+46.7	Text	&eA dream is a wish your heart makes.
+52.1	Text	&eWhen you're fast asleep.
+57.3	Text	&eIn dreams you will lose your heartaches.
+62.6	Text	&eWhatever you wish for, you keep.
+67.9	Text	&eYou wake with the morning sunlight.
+73.0	Text	&eTo find fortune that is smiling on you.
+78.0	Text	&eDon't let your heart be filled with sorrow, for all you know tomorrow,
+83.9	Text	&ethe dream that you wish will come true.
+102.6	Text	&e&oA dream is a wish...
+139.2	Text	&b[&fEve&b] &f&oWall-E!
+141.9	Text	&6[&eWall-E&6] &e&oEve!
+143.7	Text	&b[&fEve&b] &fWall-E!
+180.7	Text	&fWall-E?
+190.1	Text	&6[&eRussell&6] &eGood afternoon,
+191.5	Text	&emy name is Russell!
+193.3	Text	&eAnd I am a Wilderness Explorer in Tribe 54.
+197.2	Text	&eSweat Lodge 12.
+198.9	Text	&eAre you in need of any assistance today sir?
+201.8	Text	&f[&7Carl Fredricksen&f] &7No.
+202.9	Text	&6[&eRussell&6] &eI could.. help you cross the street?
+205.3	Text	&f[&7Carl Fredricksen&f] &7No.
+206.0	Text	&6[&eRussell&6] &eI could.. help you cross your yard?
+209.5	Text	&f[&7Carl Fredricksen&f] &7No.
+210.0	Text	&6[&eRussell&6] &eI could help you cross your porch..
+213.1	Text	&f[&7Carl Fredricksen&f] &7No.
+214.0	Text	&6[&eRussell&6] &eWell, I gotta help you cross something.
+216.2	Text	&f[&7Carl Fredricksen&f] &7No, I'm doing fine.
+255.4	Text	&dA whole new world!
+257.1	Text	&d&oA whole new world!
+258.9	Text	&dWith new horizons to pursue!
+262.2	Text	&dI'll chase them anywhere,
+264.6	Text	&dThere's time to spare.
+266.5	Text	&dLet me share this whole new world..
+273.4	Text	&6Nants ingonyama bagithi Baba!
+278.7	Text	&6&oSithi uhm ingonyama.
+313.0	Text	&6Hakuna Matata!
+314.9	Text	&6What a wonderful phrase!
+317.1	Text	&6Hakuna Matata!
+318.7	Text	&6Ain't no passing craze!
+321.1	Text	&6It means no worries, for the rest of your days.
+325.3	Text	&6It's our problem-free, philosophy,
+329.4	Text	&6&lHakuna Matata!
+333.9	Text	&aOoh-bi-doo, I wanna be like you.
+337.9	Text	&aI want to walk like you, talke like you, too.
+341.5	Text	&aYou see it's true, someone like me,
+346.1	Text	&aCan learn to be like someone like you.
+349.5	Text	&a&oOne more time!
+350.3	Text	&aCan learn to be like someone like...
+353.9	Text	&a&lYou!
+364.2	Text	&dWe are the muses!
+366.4	Text	&dGoddesses of the arts,
+367.9	Text	&dAnd proclaimers of heros.
+369.9	Text	&e&oHeros like Hercules.
+371.6	Text	&6Honey, you mean &6&lHunk-ules!
+373.6	Text	&6Woohoo, I'd like to make some sweet music-
+375.9	Text	&dOur story actually begins long before Hercules,
+380.8	Text	&dmany eons ago.
+384.7	Text	&dBack when the world was new,
+387.5	Text	&dthe planet Earth was down on it's luck,
+390.4	Text	&dand everywhere gigantic brutes called Titans ran amok!
+396.3	Text	&6It was a nasty place!
+399.2	Text	&6There was a mess where ever you stepped.
+402.1	Text	&dWhere chaos reigned and earthquakes and volcanoes never slept.
+406.5	Text	&6&oWoo! Sing it girlfriend!
+407.9	Text	&cBut then along came Zeus!
+409.6	Text	&dHe hurled his thunderbolt,
+411.8	Text	&cHe zapped-
+412.4	Text	&6Locked those suckers in a vault.
+414.6	Text	&cThey're trapped-
+415.2	Text	&cAnd on his own stopped chaos in its tracks.
+419.6	Text	&cAnd that's the gospel truth.
+421.0	Text	&cThe guy was too type A to just relax!
+425.5	Text	&dAnd that's the world's first dish!
+427.4	Text	&6&oYeah, baby.
+428.5	Text	&eZeus tamed the globe while still in his youth.
+431.3	Text	&cThough honey it may seem impossible,
+434.0	Text	&cThat's the gospel truth!
+437.2	Text	&cOn Mt. Olympus life was neat,
+439.4	Text	&cand smooth as sweet vermouth.
+443.0	Text	&cThough honey it may seem impossible,
+445.8	Text	&cThat's the gospel truth!
+454.3	Text	&b[&9Hades&b] &9If only...
+455.5	Text	&9If only...
+456.9	Text	&dIf there's one god you don't want to get steamed up,
+460.3	Text	&dIt's Hades.
+461.2	Text	&d'Cause he had an evil plan.
+464.1	Text	&6He ran the Underworld.
+468.8	Text	&6But thought the dead were dull and uncouth.
+472.6	Text	&6He was as mean as he was ruthless.
+475.9	Text	&6And that's the Gospel truth.
+480.2	Text	&6He had a plan to shake things up.
+484.5	Text	&6And that's the Gospel truth.
+495.9	Text	&aA heffalump or woozle is very confuzle.
+500.0	Text	&aA heffalump or woozle's very sly!
+502.6	Text	&aSly! Sly! Sly!
+504.1	Text	&aThey come in ones or twozles,
+506.0	Text	&abut if they so choozles,
+508.0	Text	&abefore your eyes you'll see them multiple!
+510.6	Text	&aPly! Ply! Ply!
+520.0	Text	&aIf honey's what you covet, you'll find that they love it,
+524.1	Text	&abecause they guzzle up the thing you prize!
+542.5	Text	&c[&eWinnie The Pooh&c] &eHum dum dee dum, hum dum dee dum,
+547.3	Text	&eI'm so rumbly in my tumbly.
+552.1	Text	&eTime to munch an early luncheon,
+555.1	Text	&ehum dee dum dum dum.
+562.8	Text	&9[&bSulley&9] &bJames P. Sullivan.
+564.7	Text	&2[&aMike Wazowski&2] &aMike Wazowski.
+566.1	Text	&aListen, it was quite delightful meeting you, but I have to study my scaring.
+569.8	Text	&9[&bSulley&9] &bYou don't need to study scaring, you just do it.
+576.6	Text	&2[&aMike Wazowski&2] &aScary feet, scary feet. The kid's in the bathroom!
+579.6	Text	&aScary feet, scary feet, scary feet! Oh, he's back!
+590.6	Text	&b[&9Dory&b] &bJust keep swimming, just keep swimming, swimming, swimming!
+595.0	Text	&bHey! Whatcha doing?
+595.9	Text	&bCan I help you? Hi, I'm Dory.
+598.5	Text	&e[&6Marlin&e] &6Something's wrong with you.
+600.1	Text	&6Really..
+601.0	Text	&b[&9Dory&b] &9Boing, boing, boing!
+603.0	Text	&e[&6Marlin&e] &6Dory!
+603.3	Text	&b[&9Dory&b] &9Boing, boing, boing!
+604.1	Text	&9You can't catch me!
+604.6	Text	&e[&6Marlin&e] &6Dory!
+607.3	Text	&2[&aCrush&2] &a&oRighteous, righteous, yeah!
+615.9	Text	&b[&9Dory&b] &9Well, hi!
+624.5	Text	&9[&bSadness&9] &bI'm sadness.
+626.2	Text	&a[&eJoy&a] &eOh, hello. I'm Joy!
+629.5	Text	&9[&bSadness&9] &bI'm too sad to walk.
+634.9	Text	&a[&eJoy&a] &eWho's your friend that likes to play?
+635.8	Text	&5[&dBing Bong&5] &dBing bong, Bing Bong!
+638.6	Text	&a[&eJoy&a] &eOh, Bing Bong!
+651.6	Text	&e[&6Russell&e] &6Good afternoon.
+653.1	Text	&6My name is Russell.
+675.2	Text	&bCelebrate a world filled with magic.
+678.7	Text	&bWhere happiness is found around the bend.
+683.3	Text	&bWhere all of your dreams and fantasies.
+687.9	Text	&bMagically will never end.
+709.1	Text	&b&lCelebrate a world filled with magic!
+712.7	Text	&bJust wish upon a star,
+715.2	Text	&bthat shines so bright!
+717.8	Text	&bEnter a world of make believe.
+720.7	Text	&6[&eWalt Disney&6] &e&oI hope that we never lose sight in one thing...
+725.3	Text	&e&oThat it was all started by a mouse.
+728.2	Text	&bLet your dreams come true tonight!
+747.4	Text	&b&l&oCelebrate The Magic!
+760.1	Text	&6=-----= &a&lCredits &6=-----=
+760.11	Text	&f
+760.12	Text	&e- &dPlugin: &bPalace Dev Team
+760.13	Text	&e- &dDeveloped By: &bShows & Tech Team
+760.14	Text	&f
+760.15	Text	&eHave a magical rest of your day!
+760.16	Text	&f
+760.17	Text	&6=-----= &a&lCredits: &6=-----=

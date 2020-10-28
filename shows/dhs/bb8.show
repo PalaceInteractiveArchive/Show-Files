@@ -1,0 +1,32 @@
+Show    Location    75,70,1073
+Show    Name    bb8
+
+#BB-8#
+ArmorStand    bb8    false    365;0;0;0
+0.1    ArmorStand    bb8    Spawn    72.7,69.5,1068.7
+#0.5    ArmorStand    bb8    Rotate    210    0.1
+0.2	Block    152    71,69,1068
+1	Block	44	71,69,1068
+28	ArmorStand	bb8	Despawn
+
+#C3PO#
+ArmorStand C3POBB8 false skull:eyJ0aW1lc3RhbXAiOjE0ODM1NjY3NTU5NjAsInByb2ZpbGVJZCI6IjE4ODdmYzJmZTJkNjQ0MDU5YmU2ZmY5MWEyOGM5MWQyIiwicHJvZmlsZU5hbWUiOiJDM1BPIiwidGV4dHVyZXMiOnsiU0tJTiI6eyJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifSwidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MzVhZTNjZGFmNzhkNGQxNWExNzEzMDM4ZTgzNmJkYjkzMGI5MTc5Y2Q2MzhkMjM2YTE0MjcxNTg2ZjhlZDcifX19;299(226,213,28);300(226,213,28);301(226,213,28)
+.1 ArmorStand C3POBB8 Spawn 71.7,70.3,1069.5
+#.6 ArmorStand C3POBB8 Rotate 210 0.1
+#.6 ArmorStand C3POBB8 Position LEG_LEFT -90,160,13 0.1
+#.6 ArmorStand C3POBB8 Position LEG_RIGHT -90,25,-176 0.1
+#.6 ArmorStand C3POBB8 Position BODY 0,-135,0 0.1
+#.6 ArmorStand C3POBB8 Position HEAD 0,-135,0 0.1
+#.6 ArmorStand C3POBB8 Position ARM_LEFT 322,0,347 0.1
+#.6 ArmorStand C3POBB8 Position ARM_RIGHT 322,0,13 0.1
+27	ArmorStand	C3POBB8	Despawn
+#ArmorStand C3POBB8 Rotate 360 2
+
+5	Block	152	71,65,1069
+5.5	Block	95	71,65,1069
+8	Block	152	71,65,1070
+8.5	Block	95	71,65,1070
+10	Block	152	71,65,1071
+10.5	Block	95	71,65,1071
+17	Block	152	71,65,1072
+17.5	Block	95	71,65,1072

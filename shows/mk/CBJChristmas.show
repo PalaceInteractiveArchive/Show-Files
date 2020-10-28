@@ -1,0 +1,461 @@
+Show	Location	-348,42,-1546
+Show	TextRadius	20
+Show	Name	CBJChristmas
+
+#Audio
+0	AudioStart	cbjch
+60	AudioSync	CBJ	60
+
+#Text
+2  Text &e[&6&lMelvyn&e] Oh, Rudolph the red-nosed reindeer, had a very-
+7  Text &c[&e&lMax&c] Hey, Melvin!  That's supposed to be my song!
+10 Text &e[&6&lMelvyn&e] Huh?
+11 Text &c[&e&lMax&c] Look, Melvin.  I'm the deer.  I got the red nose, so I get to sing-
+16 Text &6[&c&lBuff&6] Ain't we gone through all this before?
+18 Text &e[&6&lMelvyn&e] Why I don't see why he always gets to sing the-
+20 Text &b[&a&lHenry&b] Hold the phone there, boys.  Where's your Christmas spirit?
+25 Text Now sorry, folks
+27 Text Gomer, let's show 'em how it's done.
+33 Text &c[&e&lMax&c] Ain't he a sight for sore eyes.
+36 Text &6[&c&lBuff&6] Well, he sounds better than he looks.  That's for sure.
+40 Text &b[&a&lHenry&b] It's beginning to look a lot like Christmas.
+44 Text Yep!
+45 Text Soon the bells will start.
+48 Text And the thing that'll make 'em ring, is a carol that you sing, right within your heart.
+56.5 Text Howdy, folks and welcome to this special Christmas celebration at the good old Country Bear Jamboree.
+63 Text The snow is softly fallin', the stockin's are hung and comin' from the kitchen, there's the sweet smell of turkey and yams.
+70 Text &e[&6&lMelvyn&e] Mmm-mmm.
+72 Text &b[&a&lHenry&b] But the prettiest sight to see, is the holly that'll be on your own front door.
+84 Text Ladies and gents, The Five Bear Rugs!
+89 Text When the snow begins a fallin',
+91 Text and your blood begins to freeze.
+93 Text It's time to stomp and holler,
+95 Text and slap your hairy knees.
+97 Text &c[&b&lZeke&c] So hand me down my banjo, I think I'm gonna sing!
+101 Text &b[&a&lHenry+Zeke&b] The time for sittin' idle's in the summer or the spring.
+105 Text &b[&a&l5 Bear Rugs&b] We're makin' tracks in the snow and everything is rosy.
+109 Text &b[&a&lHenry&b] No more hibernating, boys!
+111 Text &b[&a&lBears&b] We're up on our feet!
+113 Text Just makin' tracks in the snow, keepin' warm and cozy.
+117 Text Shiverin' and shakin' to that good ole country beat.
+121 Text &c[&b&lZeke&c] Sing it out Henry!
+123 Text &b[&a&lHenry&b] I like the cozy fire on a cold, dark winter night.
+127 Text When the wind is often rattlin',
+129 Text and the stars are shining bright.
+131.5 Text &6[&e&lTennessee&6] My feet upon my huntin' dog, my arm around my wife.
+135 Text &b[&a&l5 Bear Rugs&b] They may be old and toothless.
+136.5 Text &6[&e&lTennessee&6] But I've had 'em all my life.
+139.5 Text &b[&a&l5 Bear Rugs&b] We're makin' tracks in the snow,
+142 Text and everything is rosy.
+144 Text No more hibernating, boys.
+145.5 Text We're up on our feet!
+147 Text Just makin' tracks in the snow,
+149 Text keepin' warm and cozy.
+151.5 Text Shiverin' and shakin',
+152.5 Text to that good ole country beat.
+155 Text Shiverin' and shakin',
+157 Text to that good ole country beat!
+164 Text &bYeah, Good job, Henry!
+171 Text &d[&bWendell&d] On the first day of Christmas, I said to my mate,
+177 Text &d'I'm a goin' a huntin', and I might be home late.'
+183 Text &dThe next day of Christmas, seems I lost my way,
+191 Text &dand I ain't seen my cabin since dawn yesterday.
+199 Text &dOh, what a Christmas.
+203 Text &dI'm lonely and lost, and shakin' and sneezin'
+209 Text &dAnd c-c-covered with frost.
+213 Text &dI fell in the river, and lost all my food.
+220 Text &dDon't sing me no carols, 'cause I ain't in the mood.
+229 Text &dNext year at Christmas, I think I'll use my head .
+232.5 Text &dAnd spend the 12 days of Christmas in my bed.
+237 Text &5[&d&lChorus&5] Next year stay home.
+241 Text &b[&a&lHenry&b] You be careful with that squirrel gun now, Wendell.
+245 Text &d[&bWendell&d] Aw, heck.  It ain't even loaded.
+249.7 Text &dSorry
+252 Text &b[&a&lHenry&b] Rufus?
+252.4 Text &a[&b&lRufus&a] Huh?
+253 Text &b[&a&lHenry&b] I need a little light down here.
+262 Text Thanks Rufus. And now, here's a little gal who's sure to break the ice at any skating party.  Our own Trixie.
+274 Text &d[&5&lTrixie&d] Oh the lakes are frozen over, got my skates and I'm ready to go.  
+281 Text &dBut I'm waitin' for my honey, 'cause I can't skate if he don't show.
+289 Text &6[&c&lBuff&6] Aw, sing it gal!
+290.5 Text But he's in his cave just snorin'; I hear ya in there baby, and don't think I don't!
+296 Text &c[&e&lMax&c] I know you do!
+298 Text &d[&5&lTrixie&d] Well my broken heart's just freezin, out here in the snow.
+309 Text &e[&6&lMelvyn&e] You look cold, too.
+311 Text &6[&c&lBuff&6] Yeah, real cold.
+313 Text &d[&5&lTrixie&d] I got those hibernatin' blues.
+316.5 Text &c[&e&lMax&c] Yes, you do.  
+317.5 Text &d[&5&lTrixie&d] Those hibernatin' blues.
+321 Text &6[&c&lBuff&6] Those low-down blues.
+323.5 Text &e[&6&lMelvyn&e] Real low down. 
+325 Text &d[&5&lTrixie&d] Without my furry baby, springtime better come real soon.
+333.5 Text &6[&c&lBuff&6] Here it comes.
+335 Text &c[&e&lMax&c] Look out!
+337 Text &d[&5&lTrixie&d] If you come out and skate with me, I will be real nice.
+342 Text &c[&e&lMax&c] Alright!
+343 Text &d[&5&lTrixie&d] But baby if you stay inside, I'll be cold as ice.
+348 Text &dI've got those aggravatin', keep me waitin', hibernatin' blues. Oh yeah.
+360 Text &e[&6&lMelvyn&e] Nighty night.
+361 Text &6[&c&lBuff&6] Lovely, lovely, lovely.
+364 Text &b[&a&lHenry&b] That was mighty pretty there, Trixie.
+367 Text &d[&5&lTrixie&d] Why, thank you there, Henry. 
+369 Text &dOh Henry, how'd you like to come on over and try out this here mistletoe?
+377 Text &b[&a&lHenry&b] Well, I-
+378 Text &c[&e&lMax&c] Come on Henry, where's your Christmas spirit?
+380.5  Text &e[&6&lMelvyn&e] Yeah?
+381 Text &6[&c&lBuff&6] What's the matter? Got cold feet?
+383.5 Text &b[&a&lHenry&b] Well gee, Trixie, I-
+388.7 Text Much obliged, fellas!
+392.2 Text  &c[&b&lZeke&c] Deck the halls with boughs of holly.
+394 Text &b[&a&l5 Bear Rugs&b] Fa-la-la-la-la-la-la-la-la.
+397 Text &c[&b&lZeke&c] 'Tis the season to be jolly.
+399 Text &b[&a&l5 Bear Rugs&b] Fa-la-la-la-la-la-la-la-la.
+402 Text &6[&e&lTennessee&6] Follow me in merry measure.
+405 Text &b[&a&l5 Bear Rugs&b] Fa-la-la-la-la-la.
+407 Text &c[&b&lZeke&c] He didn't sneeze!
+409 Text &cHeedless of the wind and weather.
+410.5 Text &b[&a&l5 Bear Rugs&b] Fa-la-la-la.
+411.5 Text &bFa-la-la-la.
+412.3 Text &bFa-la-la-la-la-la-la-.
+416.7 Text &b La.
+426 Text &c[&eLiver Lips&c] I got my bag of presents and I'm in your neighborhood.
+430 Text &cI'll be droppin' down your chimney, 'cause I know you've been extra good.
+434 Text &cI'm your rock and roll Santa, baby. Your rock and roll Santa, baby that's me. Uh-huh.
+441 Text &cBetter put on your pretty red dress darlin.  You're goin' cruisin with me.  You better take out your curlers, honey.
+449 Text &cI got a reindeer V-8 special, and a fuel injected sleigh.
+453 Text &cWe can ride across the rooftops to my North Pole hideaway.  
+457 Text &cI'm your rock and roll Santa, baby.  Your rock and roll Santa, baby that's me.  Uh-huh.
+464 Text &cI'm the fat guy with the presents.  I'm gonna shake your Christmas tree.  
+470.3 Text &cBaby that's me.
+479 Text &6[&4&lTerrance&6] I'll have a b-b-blue Christmas without you.  
+488 Text &6I'll be so b-b-blue, just thinking about you.
+496.5 Text &6Hey help me out here!
+498 Text &6You'll be doing alright with your Christmas of white.
+507 Text &6I can't hear you!
+509 Text &6But I'll have a blue, blue, blue, blue Christmas.
+518 Text &6I thought you was gonna sing?
+521 Text &b[&a&lHenry&b] Let's warm things cookin' here. Ladies and gentlemen, Bunny, Bubbles, Beulah.
+531 Text &5[&d&lBubbles&5] Just hear them sleigh bells jinglin', ring ting tingin; too.
+536 Text &5Come on it's lovely weather for a sleigh ride together with you.
+540 Text &5[&d&lBeulah&5] Outside the snow is falling and friends are calling yoohoo.
+545 Text &5Come on it's lovely weather for a sleigh ride together with you.  
+551 Text &5[&d&lSun Bonnets&5] Giddy up, giddy up, giddy up let's go. Let's look at the show.
+556 Text &5[&d&lBunny&5] We're riding in a wonderland of snow.
+560 Text &5[&d&lSun Bonnets&5] Giddy up, giddy up, giddy up it's grand.  Just holdin' your hand
+565 Text &5We're riding along with a song of a wintry fairy land.
+568.7 Text &5Our cheeks are nice and rosy and comfy cozy are we.
+573 Text &5We'll snuggle up together like two birds of a feather will be.  
+578 Text &5Let's take the road before us and sing a chorus or two.
+582 Text &5Come on, it's lovely weather for a sleigh ride-
+585.2 Text &5Whee!
+586 Text &5Jing a ling, jing a ling, jing a ling a ling.
+588 Text &5Jing a ling, jing a ling, jing a ling a ling.
+590 Text &5Jing a ling, jing a ling, jing a ling a ling.
+592 Text &5Sleigh ride together with you!
+600 Text &6[&e&lErnest&6] The wind is a-howlin', and thrashin' the trees.
+605.5 Text &6[&e&lTennessee&6] My baby is growlin', and scratchin' her fleas.
+611 Text &6[&e&lErnest&6] Can't open the door, 'cause there's ten feet of snow.
+615 Text &b[&a&l5 Bear Rugs&b] And the food is all gone and it's forty below.
+619 Text &6[&e&lErnest&6] Well, I'm hungry.
+621 Text &6Yes, I'm hungry.
+622 Text &6I'm hungry as a bear.
+624 Text &6If you come around my cabin-
+626 Text &b[&a&l5 Bear Rugs&b] You'd better beware.
+627 Text &6[&e&lErnest&6] 'Cause I'm hungry.
+628 Text &6Yes, I'm hungry.
+629 Text &6I'm hungry as a bear.
+631 Text &6Got a mouth full of teeth.
+633 Text &6And a belly full of air.
+638 Text &6This Christmas, dear old Santa won't show up, I bet.
+645 Text &c[&b&lZeke&c] One, two, three!
+646 Text &6[&e&lErnest&6] If he comes down the chimney.
+648 Text &b[&a&l5 Bear Rugs&b] He might just get et!
+652 Text &6[&e&lTennessee&6] Hungry as a bear.
+654 Text &6[&e&lErnest&6] I'm powerful hungrified.
+656.7 Text &b[&a&lHenry&b] Here she is.  That charmin' chanteuse of the ski slopes: Swingin' Teddi Barra.  
+664 Text &c[&e&lMax&c] My, my.
+666 Text &e[&6&lMelvyn&e] Gosh.
+668.5 Text &a[&5&lTeddi-Berra&a] Chestnuts roastin' on an open fire.  
+675 Text &aJack Frost nippin' at your nose.
+682 Text &aYuletide carols bein' sung by a choir and folks dressed up like Eskimos.
+695 Text &aEverybody knows I'm offerin' this simple phrase. To kids from one to ninety-two.  
+771 Text &aAlthough it's been said many times, many ways, Merry Christmas to you.  
+728.3 Text &b[&a&lHenry&b] I sure do enjoy singin' with you Teddi.
+731 Text &a[&5&lTeddi-Berra&a] Why, thank you Henry!  Ya all wanna come up and sign my cast?
+738 Text &b[&a&lHenry&b] Soon as I can find a pen, I'll be there!
+744.5 Text &c[&e&lMax&c] I sure am lookin' forward to the new year.
+747.7 Text &6[&c&lBuff&6] Yep! Ain't nothin' like a brand new year to lift your spirits!
+753.6 Text &6Of course, I could be wrong.
+757 Text &4[&c&lBig Al&4] Another new year wouldn't be quite as hard.
+768 Text &4If you'd only come back, or at least send a card.
+778 Text &4Another new year, and I'm lonely and low.
+788 Text &4Since you stole my heart and my truck and my dough.
+801 Text &6[&c&lBuff&6] Oh no! Not his truck.
+805.4 Text &b[&a&lHenry&b] Sammy, help me out here.
+807.3 Text &a[&b&lSammy&a] Sure thing Henry. Now you folks join right in if you've a mind to.
+812 Text &b[&a&lHenry+Sammy&b] Oh, the weather outside is frightful.
+815 Text &bBut the fire is so delightful.
+818 Text &5[&d&lSun Bonnets&5] And since we've no place to go.
+820.5 Text &5Let it snow, let it snow, let it snow.
+824.5 Text &5Let it snow!
+826 Text &c[&e&lMax&c] Rudolph, the red-nosed reindeer, had a very shiny nose.
+831.5 Text &cAnd if you ever saw it, you would-
+833.4 Text &e[&6&lMelvyn&e] You would even say it glows.
+835.4 Text &c[&e&lMax&c] That's my tune, Melvin!
+837 Text &e[&6&lMelvyn&e] Oh, yeah? Says who?
+839 Text &6[&c&lBuff&6] Are we startin' this again?
+841.5 Text &6[&4&lTerrance&6] Sleigh bells ring.
+844 Text &b[&a&lBears&b] Are you listenin'.
+845.4 Text &6[&4&lTerrance&6] In the lane.
+847 Text &b[&a&lBears&b] Snow is glistenin'.
+849 Text &c[&eLiver Lips&c] A beautiful sight, we're happy tonight.
+851.7 Text &b[&a&lBears&b] Walkin' in a winter wonderland.
+854.6 Text &a[&5&lTeddi-Berra&a] In the meadow we can build a snowman, and pretend that he's a circus clown.
+860.5 Text &b[&a&lHenry&b We'll have lots of fun with Mr. Snowman.
+863.3 Text Until the other kiddies knock him down.
+866 Text &4[&c&lBig Al&4] Winter clothes.
+867.4 Text &b[&a&lBears&b] Ain't it thrillin'.
+868.7 Text &4[&c&lBig Al&4] Though your nose.
+870.3 Text &b[&a&lBears&b] Is a chillin'.
+871.3 Text &d[&bWendell&d] Hey, we'll rollick and play, the Eskimo way.
+875 Text &b[&a&lBears&b] Walkin' in a winter wonderland.
+877 Text &b[&a&lHenry&b] Everybody!
+878 Text &b[&a&lBears&b] Walkin' in a winter wonderland.
+879.7 Text &b[&a&lHenry&b] Hand in hand!
+881 Text &b[&a&lBears&b] Walkin' in a winter wonderland!
+885 Text &d[&bWendell&d] Yahoo!
+890.4 Text &4[&c&lBig Al&4] Walkin' in a winter wonderland.
+893 Text &b[&a&lHenry&b] Will you quit that!
+896 Text &d[&bWendell&d] Sorry.
+897 Text &4[&c&lBig Al&4] Walkin' in a winter wonderland.
+898 Text &b[&a&lHenry&b] Hey Rufus!  Rufus!  How about some lights?
+903 Text &4[&c&lBig Al&4] Walkin' in a winter wonderland.
+910.6 Text &4[&c&lBig Al&4] Walkin' in a winter...Huh?
+914.5 Text &b[&a&lHenry&b] Over here!
+919.5 Text &bWell, folks, I guess that about does it for our show.  Now, bundle up, stay warm-
+926 Text &a[&b&lSammy&a] And come back and see us real soon!
+929 Text &b[&a&lHenry&b] Happy holidays, ya'll.
+936.8 Text &ePlease exit the theater to your right and &4H&aa&4p&ap&4y &aH&4o&al&4i&ad&4a&ay&4s &efrom everyone here at &dThe Palace Network!
+
+#Schematic
+87.6  Schematic	CBJCFBR	-354	40	-1544	wdw	true
+167.5 Schematic   cbj3    -349   46   -1545   wdw true
+199.6 Schematic   cbjr    -352    47  -1546   wdw true 
+199.6 Schematic	CBJCW	-354	40	-1544	wdw	true
+199.6 Schematic cbjcbarrier -354 40 -1544   wdw true
+199.7 Schematic	cbjcw2	-354	40	-1544	wdw	true 
+199.7 Schematic	cbjcw3	-354	40	-1544	wdw	true
+237.2 Schematic   cbj3    -349   46   -1545   wdw true
+237.2 Schematic   cbjfixed -381   57  -1535   wdw  true 
+385.3 Schematic	CBJCFBR	-354	40	-1544	wdw	true
+422.7 Schematic	cbj3    -349   46   -1545   wdw true
+520.7 Schematic   cbj3    -349   46   -1545   wdw true 
+597.2 Schematic	CBJCFBR	-354	40	-1544	wdw	true
+654   Schematic   cbj3    -349   46   -1545   wdw true 
+852   Schematic	CBJCFBR	-354	40	-1544	wdw	true
+893   Schematic   cbj3    -349   46   -1545   wdw true 
+
+### Blocks ###
+16     Block   152 -361,29,-1545
+7      Block   152 -359,29,-1545
+2      Block   152 -357,29,-1545
+20     Block   152 -366,23,-1545
+20     Block     0 -358,45,-1544
+20     Block     0 -358,44,-1544
+20     Block     0 -358,43,-1544
+20     Block   152 -333,29,-1538
+25     Block   152 -363,23,-1545
+87.6   Block   152 -365,23,-1564
+87.6   Block   152 -363,23,-1564
+87.6   Block   152 -360,23,-1561
+87.6   Block   152 -357,23,-1563
+87.6   Block   152 -353,23,-1563
+87.6   Block     0 -357,43,-1538
+87.6   Block   166 -357,43,-1538
+167.8  Block  171:12 -355,40,-1540
+167.6   Block   166 -355,41,-1537
+167.5  Block   152 -351,23,-1561
+167.5  Block     0 -355,41,-1538
+167.5  Block     0 -356,41,-1539
+167.5  Block     0 -357,41,-1539
+167.5  Block     0 -357,41,-1540
+167.5  Block     0 -358,41,-1540
+167.5  Block     0 -356,41,-1538
+167.5  Block     0 -355,41,-1537
+167.5  Block   166 -355,41,-1537
+167.5  Block   166 -355,42,-1537
+167.5  Block   152 -337,29,-1543
+168    Block  251:14 -358,45,-1544
+168    Block  251:14 -358,44,-1544
+168    Block  252:14 -358,43,-1544
+168    Block   152 -366,23,-1550
+166.5  Block   166 -356,46,-1539
+168    Block   152 -363,23,-1554
+199.6  Block     0 -357,44,-1536
+199.6  Block     0 -357,43,-1536
+199.6  Block     0 -356,44,-1536
+199.6  Block     0 -356,43,-1536
+199.6  Block     0 -356,42,-1536
+199.6  Block     0 -357,42,-1537
+199.6  Block     0 -357,42,-1535
+199.6  Block     0 -357,42,-1534
+199.6  Block     0 -358,42,-1539
+199.6  Block     0 -359,42,-1539
+199.6  Block     0 -359,44,-1540
+199.6  Block     0 -360,44,-1539
+199.6  Block     0 -357,46,-1533
+199.6  Block     0 -358,46,-1534
+199.6  Block     0 -358,47,-1534
+199.6  Block     0 -358,46,-1535
+199.6  Block 251:14 -358,45,-1544   
+199.6  Block 251:14	-358,44,-1544
+199.6  Block 252:14	-358,43,-1544
+199.6  Block   152 -337,29,-1543
+199.7  Block     0 -357,44,-1536
+199.7  Block     0 -357,43,-1536
+199.7  Block     0 -356,44,-1536
+199.7  Block     0 -356,43,-1536
+199.7  Block     0 -356,42,-1536
+199.7  Block     0 -357,42,-1537
+199.7  Block     0 -357,42,-1535
+199.7  Block     0 -357,42,-1534
+199.7  Block     0 -358,42,-1539
+199.7  Block     0 -359,42,-1539
+199.7  Block     0 -359,44,-1540
+199.7  Block     0 -360,44,-1539
+199.7  Block     0 -357,46,-1533
+199.7  Block     0 -358,46,-1534
+199.7  Block     0 -358,47,-1534
+199.7  Block     0 -358,46,-1535
+199.7  Block   166 -357,42,-1534
+199.7  Block   166 -357,42,-1537
+199.7  Block   166 -357,43,-1536
+199.7  Block   166 -357,44,-1536
+199.7  Block   166 -356,44,-1536
+199.7  Block   166 -356,43,-1536
+199.7  Block   166 -356,42,-1536
+199.7  Block   166 -359,44,-1540
+199.7  Block   166 -359,42,-1539
+199.7  Block   166 -358,42,-1539
+199.7  Block  18:1 -354,42,-1537
+199.7  Block  18:1 -354,41,-1537
+199.7  Block   152 -343,35,-1542
+237    Block   166 -358,43,-1540
+237    Block   166 -356,41,-1538
+237    Block   166 -355,41,-1537
+240    Block     0 -351,45,-1538
+240    Block     0 -351,44,-1538
+240    Block     0 -351,43,-1538
+240    Block   152 -333,29,-1540
+240    Block   152 -350,23,-1554
+248    Block     0 -356,46,-1539
+248    Block   152 -339,29,-1543
+248    Block   35:12 -355,40,-1540
+248    Block  251:15 -352,41,-1539
+248.1  Block     0 -352,41,-1539
+261    Block   152 -333,29,-1540
+274    Block  251:14 -351,45,-1538
+274    Block  251:14 -351,44,-1538
+274    Block  252:14 -351,43,-1538
+274    Block   152 -339,29,-1543
+274    Block     0 -359,44,-1547
+274    Block     0 -359,43,-1547
+274    Block     0 -359,42,-1547
+274    Block   152 -333,29,-1536
+274    Block   152 -361,23,-1554
+364    Block  251:14 -351,45,-1538
+364    Block  251:14 -351,44,-1538
+364    Block  252:14 -351,43,-1538
+364    Block   152 -333,29,-1540
+364    Block   152 -353,23,-1551
+386    Block  251:14 -359,44,-1547
+386    Block  251:14 -359,43,-1547
+386    Block  252:14 -359,42,-1547
+386    Block   152 -335,29,-1543
+386    Block   152 -361,23,-1554
+385.3  Block   152 -365,23,-1564
+385.3  Block   152 -363,23,-1564
+385.3  Block   152 -360,23,-1561
+385.3  Block   152 -357,23,-1563
+385.3  Block   152 -353,23,-1563
+386    Block   152 -355,29,-1545
+390    Block  251:14 -359,44,-1547
+390    Block  251:14 -359,43,-1547
+390    Block  252:14 -359,42,-1547
+422.7  Block   152 -351,23,-1561
+422.7  Block     0 -355,41,-1538
+422.7  Block     0 -356,41,-1539
+422.7  Block     0 -357,41,-1539
+422.7  Block     0 -357,41,-1540
+422.7  Block     0 -358,41,-1540
+422.7  Block     0 -356,41,-1538
+422.7  Block     0 -355,41,-1537
+422.7  Block   166 -355,41,-1537
+422.7  Block   166 -355,42,-1537
+422    Block     0 -356,46,-1539
+426    Block     0 -358,45,-1544
+426    Block     0 -358,44,-1544
+426    Block     0 -358,43,-1544
+426    Block   152 -364,29,-1554
+426    Block   152 -333,29,-1538
+426    Block   152 -355,23,-1551
+478    Block  251:14 -358,45,-1544
+478    Block  251:14 -358,44,-1544
+478    Block  252:14 -358,43,-1544
+478    Block   152 -337,29,-1543
+478    Block   152 -352,23,-1547
+479    Block     0 -351,45,-1538
+479    Block     0 -351,44,-1538
+479    Block     0 -351,43,-1538
+479    Block   152 -359,23,-1551
+479    Block   152 -333,29,-1540
+519    Block  251:14 -351,45,-1538
+519    Block  251:14 -351,44,-1538
+519    Block  252:14 -351,43,-1538
+519    Block   152 -339,29,-1543
+519    Block   152 -349,23,-1547
+521    Block  171:12 -355,40,-1540
+521    Block   152 -353,23,-1554
+521    Block     0 -358,45,-1544
+521    Block     0 -358,44,-1544
+521    Block     0 -358,43,-1544
+521    Block   152 -348,23,-1554
+521    Block   152 -333,29,-1538
+530    Block  251:14 -358,45,-1544
+530    Block  251:14 -358,44,-1544
+530    Block  252:14 -358,43,-1544
+530    Block   152 -352,23,-1547
+530    Block   152 -337,29,-1543
+595    Block   152 -351,23,-1561
+597.2    Block   152 -365,23,-1564
+597.2    Block   152 -363,23,-1564
+597.2    Block   152 -360,23,-1561
+597.2    Block   152 -357,23,-1563
+597.2    Block   152 -353,23,-1563
+597.2    Block   152 -357,23,-1551
+597.2    Block     0 -348,44,-1537
+597.2    Block     0 -348,43,-1537
+597.2    Block     0 -348,42,-1537
+597.2    Block   152 -333,29,-1542
+654      Block   152 -351,23,-1561  
+654      Block     0 -356,46,-1539
+654  Block   152 -350,34,-1542
+654  Block     0 -355,41,-1538
+654  Block     0 -356,41,-1539
+654  Block     0 -357,41,-1539
+654  Block     0 -357,41,-1540
+654  Block     0 -358,41,-1540
+654  Block     0 -356,41,-1538
+654  Block     0 -355,41,-1537
+654  Block     0 -356,46,-1539
+655      Block  35:12 -355,40,-1540
+655    Block  251:14 -348,44,-1537    
+655    Block  251:14 -348,43,-1537
+655    Block  252:14 -348,42,-1537
+655    Block     152 -341,29,-1543
+656    Block  152 -338,23,-1555
+660    Block  152 -350,35,-1544
+660    Block  152 -356,29,-1550
+738    Block  152 -350,35,-1546
+738    Block  152 -338,23,-1553
+744    Block  152 -345,29,-1545

@@ -1,0 +1,218 @@
+Sequence	Light
+EnderCrystal	liftr1
+EnderCrystal	liftr2
+EnderCrystal	liftr3
+EnderCrystal	liftl1
+EnderCrystal	liftl2
+EnderCrystal	liftl3
+EnderCrystal	rack1
+EnderCrystal	rack2
+EnderCrystal	rack3
+EnderCrystal	rack4
+EnderCrystal	rack5
+EnderCrystal	rack6
+EnderCrystal	rack7
+EnderCrystal	rack8
+EnderCrystal	rack9
+EnderCrystal	stage1
+EnderCrystal	stage2
+EnderCrystal	stage3
+EnderCrystal	stage4
+EnderCrystal	bstage1
+EnderCrystal	bstage2
+EnderCrystal	bstage3
+EnderCrystal	bstage4
+EnderCrystal	fantendL1
+EnderCrystal	fantendL2
+EnderCrystal	fantendL3
+EnderCrystal	fantendR1
+EnderCrystal	fantendR2
+EnderCrystal	fantendR3
+#SearchSpotsL
+88.4	liftl1	Spawn	-28,63,-218 -11.549,69.5,-244.542
+88.9	liftl2	Spawn	-28,63,-218 -11.549,73,-244.542
+89.4	liftl3	Spawn	-28,63,-218 -11.549,76.5,-244.542
+88.5	liftl1	Move	-17,0,-17	0.5
+89	liftl1	Move	-6,0,-27	0.5
+89.5	liftl1	Move	5,0,-19	0.5
+90	liftl1	Move	-5,0,19	0.5
+90.5	liftl1	Move	6,0,27	0.5
+91	liftl1	Move	17,0,17	0.5
+91.5	liftl1	Move	-17,0,-17	0.5
+92	liftl1	Move	-6,0,-27	0.5
+92.5	liftl1	Move	5,0,-19	0.5
+93	liftl1	Move	-5,0,19	0.5
+93.5	liftl1	Move	6,0,27	0.5
+89	liftl2	Move	-17,0,-17	0.5
+89.5	liftl2	Move	-6,0,-27	0.5
+90	liftl2	Move	5,0,-19	0.5
+90.5	liftl2	Move	-5,0,19	0.5
+91	liftl2	Move	6,0,27	0.5
+91.5	liftl2	Move	17,0,17	0.5
+92	liftl2	Move	-17,0,-17	0.5
+92.5	liftl2	Move	-6,0,-27	0.5
+93	liftl2	Move	5,0,-19	0.5
+93.5	liftl2	Move	-5,0,19	0.5
+89.5	liftl3	Move	-17,0,-17	0.5
+90	liftl3	Move	-6,0,-27	0.5
+90.5	liftl3	Move	5,0,-19	0.5
+91	liftl3	Move	-5,0,19	0.5
+91.5	liftl3	Move	6,0,27	0.5
+92	liftl3	Move	17,0,17	0.5
+92.5	liftl3	Move	-17,0,-17	0.5
+93	liftl3	Move	-6,0,-27	0.5
+93.5	liftl3	Move	5,0,-19	0.5
+#SearchSpotsR
+88.4	liftr1	Spawn	-45,63,-281 -18.674,69.5,-261.503
+88.9	liftr2	Spawn	-45,63,-281 -18.674,73,-261.503
+89.4	liftr3	Spawn	-45,63,-281 -18.674,76.5,-261.503
+88.5	liftr1	Move	-5,0,19	0.5
+89	liftr1	Move	6,0,27	0.5
+89.5	liftr1	Move	17,0,17	0.5
+90	liftr1	Move	-17,0,-17	0.5
+90.5	liftr1	Move	-6,0,-27	0.5
+91	liftr1	Move	5,0,-19	0.5
+91.5	liftr1	Move	-5,0,19	0.5
+92	liftr1	Move	6,0,27	0.5
+92.5	liftr1	Move	17,0,17	0.5
+93	liftr1	Move	-17,0,-17	0.5
+93.5	liftr1	Move	-6,0,-27	0.5
+89	liftr2	Move	-5,0,19	0.5
+89.5	liftr2	Move	6,0,27	0.5
+90	liftr2	Move	17,0,17	0.5
+90.5	liftr2	Move	-17,0,-17	0.5
+91	liftr2	Move	-6,0,-27	0.5
+91.5	liftr2	Move	5,0,-19	0.5
+92	liftr2	Move	-5,0,19	0.5
+92.5	liftr2	Move	6,0,27	0.5
+93	liftr2	Move	17,0,17	0.5
+93.5	liftr2	Move	-17,0,-17	0.5
+89.5	liftr3	Move	-5,0,19	0.5
+90	liftr3	Move	6,0,27	0.5
+90.5	liftr3	Move	17,0,17	0.5
+91	liftr3	Move	-17,0,-17	0.5
+91.5	liftr3	Move	-6,0,-27	0.5
+92	liftr3	Move	5,0,-19	0.5
+92.5	liftr3	Move	-5,0,19	0.5
+93	liftr3	Move	6,0,27	0.5
+93.5	liftr3	Move	17,0,17	0.5
+#FirstSpot
+94	rack1	Spawn	-19.0,84,-251 -21.5,78.5,-208.5
+94	rack3	Spawn	-19.0,84,-251 -39.5,78.5,-217.5
+94	rack7	Spawn	-19.0,84,-251 -56.5,78.5,-263.5
+94	rack9	Spawn	-19.0,84,-251 -48.5,78.5,-285.5
+94	stage1	Spawn	-19.0,84,-251 -26.5,74.5,-272.5
+94	stage2	Spawn	-19.0,84,-251 -13.5,75.5,-263.5
+94	stage3	Spawn	-19.0,84,-251 -5.5,75.5,-246.5
+94	stage4	Spawn	-19.0,84,-251 -8.5,74.5,-230.5
+94.1	rack1	Move	0,-16,0	0.5
+94.1	rack3	Move	0,-16,0	0.5
+94.1	rack7	Move	0,-16,0	0.5
+94.1	rack9	Move	0,-16,0	0.5
+94.1	stage1	Move	0,-16,0	0.5
+94.1	stage2	Move	0,-16,0	0.5
+94.1	stage3	Move	0,-16,0	0.5
+94.1	stage4	Move	0,-16,0	0.5
+#Despawn
+98	rack1	Despawn
+98	rack3	Despawn
+98	rack7	Despawn
+98	rack9	Despawn
+98	stage1	Despawn
+98	stage2	Despawn
+98	stage3	Despawn
+98	stage4	Despawn
+94	liftr1	Despawn
+94	liftr2	Despawn
+94	liftr3	Despawn
+94	liftl1	Despawn
+94	liftl2	Despawn
+94	liftl3	Despawn
+#EndingSpotlights
+1583	fantendL1	Spawn	-11.5,125,-286.235	-2.5,67,-267.5
+1583	fantendL2	Spawn	-11.5,125,-276.235	-2.5,67,-266.5
+1583	fantendL3	Spawn	-11.5,125,-266.235	-2.5,67,-265.5
+1583	fantendR1	Spawn	-11.5,125,-247.5	3.5,67,-247.5
+1583	fantendR2	Spawn	-11.5,125,-237.5	3.5,67,-246.5
+1583	fantendR3	Spawn	-11.5,125,-227	3.5,67,-245.5
+1587	fantendL1	Move	0,0,40	0.5
+1587	fantendL2	Move	0,0,40	0.5
+1587	fantendL3	Move	0,0,40	0.5
+1587	fantendR1	Move	0,0,-40	0.5
+1587	fantendR2	Move	0,0,-40	0.5
+1587	fantendR3	Move	0,0,-40	0.5
+1591.7	fantendR3	Move	0,0,10	0.5
+1591.7	fantendL1	Move	0,0,-10	0.5
+1591.7	fantendL2	Move	0,0,-10	0.5
+1591.7	fantendR2	Move	0,0,10	0.5
+1594.3	fantendL3	Move	0,0,-50	0.7
+1594.3	fantendR1	Move	0,0,50	0.7
+1594.8	fantendL2	Move	0,0,-40	1.0
+1594.8	fantendR2	Move	0,0,40	1.0
+1594.8	fantendR3	Move	0,0,40	1.2
+1594.8	fantendL1	Move	0,0,-40	1.2
+#MoveAround
+1598.4	fantendL1	Move	0,0,-20	2
+1598.4	fantendL2	Move	0,0,-20	3
+1598.4	fantendL3	Move	0,0,-20	4
+1598.4	fantendR1	Move	0,0,20	2
+1598.4	fantendR2	Move	0,0,20	3
+1598.4	fantendL3	Move	0,0,20	4
+1600.4	fantendL1	Move	0,0,-20	2
+1601.4	fantendL2	Move	0,0,-20	3
+1602.4	fantendL3	Move	0,0,-20	4
+1600.4	fantendR1	Move	0,0,20	2
+1601.4	fantendR2	Move	0,0,20	3
+1602.4	fantendR3	Move	0,0,20	4
+#
+1602.4	fantendL1	Move	0,0,40	2
+1603.4	fantendL2	Move	0,0,40	3
+1604.4	fantendL3	Move	0,0,40	4
+1602.4	fantendR1	Move	0,0,-40	2
+1603.4	fantendR2	Move	0,0,-40	3
+1604.4	fantendR3	Move	0,0,-40	4
+#
+1604.4	fantendL1	Move	0,0,-20	2
+1605.4	fantendL2	Move	0,0,-20	3
+1607.4	fantendL3	Move	0,0,-20	4
+1604.4	fantendR1	Move	0,0,20	2
+1605.4	fantendR2	Move	0,0,20	3
+1607.4	fantendR3	Move	0,0,20	4
+#
+1606.4	fantendL1	Move	0,0,60	2
+1607.4	fantendL2	Move	0,0,60	3
+1608.4	fantendL3	Move	0,0,60	4
+1606.4	fantendR1	Move	0,0,-60	2
+1607.4	fantendR2	Move	0,0,-60	3
+1608.4	fantendR3	Move	0,0,-60	4
+#
+1608.4	fantendL1	Move	0,0,-20	2
+1609.4	fantendL2	Move	0,0,-20	3
+1610.4	fantendL3	Move	0,0,-20	4
+1608.4	fantendR1	Move	0,0,20	2
+1609.4	fantendR2	Move	0,0,20	3
+1610.4	fantendR3	Move	0,0,20	4
+#
+1610.4	fantendL1	Move	0,0,40	2
+1611.4	fantendL2	Move	0,0,40	3
+1612.4	fantendL3	Move	0,0,40	4
+1610.4	fantendR1	Move	0,0,-40	2
+1611.4	fantendR2	Move	0,0,-40	3
+1612.4	fantendR3	Move	0,0,-40	4
+#
+1612.4	fantendL1	Move	0,0,-60	2
+1613.4	fantendL2	Move	0,0,-60	3
+1614.4	fantendL3	Move	0,0,-60	4
+1612.4	fantendR1	Move	0,0,60	2
+1613.4	fantendR2	Move	0,0,60	3
+1614.4	fantendR3	Move	0,0,60	4
+#
+1614.4	fantendL1	Move	0,0,20	2
+1614.4	fantendR1	Move	0,0,-20	2
+#Despawn
+1615.4	fantendL1	Despawn
+1615.4	fantendL2	Despawn
+1615.4	fantendL3	Despawn
+1615.4	fantendR1	Despawn
+1615.4	fantendR2	Despawn
+1615.4	fantendR3	Despawn

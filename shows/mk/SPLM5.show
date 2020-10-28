@@ -1,0 +1,51 @@
+﻿Show	Location	-526,49,-1587
+Show	TextRadius	25
+#Define
+ArmorStand	splmbear2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U3ZWEzOTRjZGU5NDY1YWYyNjVjNTZjYTA3MTY2N2YxMjE1MTdiMmY1MTRjMzJjNWRmYjRmZWVkMzAwZmQ0OSJ9fX0=";299(64,101,173);300(74,47,21);301(74,47,21);0
+ArmorStand	splmfox2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM3ZDhiNDQ5NGY1YTNhZjdlZWM4N2RiYjM0NjZjZDNkZGE3ODM1Y2Y1ZDNhMzVkMWQ2YTFmYTQzMzdlMGIzIn19fQ==";299(80,152,181);300(33,46,33);301(186,126,73);287
+#Spawn
+0.2	Block	152	-524,46,-1583
+0	ArmorStand	splmfox2	Spawn	-526.5,50.0625,-1586.5,-90
+0.1	ArmorStand	splmfox2	Position	ARM_RIGHT	-80,20,0	0.5
+0.1	ArmorStand	splmfox2	Position	ARM_LEFT	-100,-30,0	0.5
+0	ArmorStand	splmbear2	Spawn	-524.462,50.26,-1585.464,-148.7
+0.1	ArmorStand	splmbear2	Position	LEG_LEFT	-130,-20,0	0.5
+0.1	ArmorStand	splmbear2	Position	LEG_RIGHT	-130,20,0	0.5
+0.1	ArmorStand	splmbear2	Position	ARM_RIGHT	-140,0,-20	0.5
+0.1	ArmorStand	splmbear2	Position	ARM_LEFT	-140,0,20	0.5
+#Movements
+1	ArmorStand	splmfox2	Position	HEAD	20,0,0	0.7
+2	ArmorStand	splmfox2	Position	HEAD	-20,10,0	0.7
+3	ArmorStand	splmfox2	Position	HEAD	0,0,0	1
+5	ArmorStand	splmfox2	Position	HEAD	-20,-20,0	0.7
+6	ArmorStand	splmfox2	Position	HEAD	0,0,-10	0.7
+7	ArmorStand	splmfox2	Position	HEAD	10,20,-10	1
+8	ArmorStand	splmfox2	Position	HEAD	-10,0,-20	1
+9	ArmorStand	splmfox2	Position	HEAD	0,0,0	1
+12	ArmorStand	splmfox2	Position	HEAD	20,0,0	0.7
+13	ArmorStand	splmfox2	Position	HEAD	-20,10,0	0.7
+14	ArmorStand	splmfox2	Position	HEAD	0,0,0	1
+15	ArmorStand	splmfox2	Position	HEAD	-20,-20,0	0.7
+18	ArmorStand	splmfox2	Position	HEAD	0,0,-10	0.7
+19	ArmorStand	splmfox2	Position	HEAD	10,20,-10	1
+20	ArmorStand	splmfox2	Position	HEAD	-10,0,-20	1
+21	ArmorStand	splmfox2	Position	HEAD	0,0,0	1
+#Bear
+1	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+3.1	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+5.2	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+7.3	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+9.4	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+11.5	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+13.6	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+15.7	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+17.8	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+19.9	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+22	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+24.1	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+26.2	ArmorStand	splmbear2	Move	-524.462,50.66,-1585.464	2
+28.3	ArmorStand	splmbear2	Move	-524.462,50.26,-1585.464	2
+#Despawn
+30	ArmorStand	splmbear2	Despawn
+30	ArmorStand	splmfox2	Despawn
+#http://prntscr.com/qx5jw0

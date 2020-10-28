@@ -1,0 +1,17 @@
+Show	Location	-90,44,-1407
+Show	TextRadius	40
+
+#Spawn Vehicle
+0   Block   152 -166,41,-1393
+
+##Clone systems
+
+#Gate
+0   Block   152 -174,17,-1381
+0   Block   152 -174,17,-1380
+
+#Show File
+0   Block   152 -176,17,-1377
+
+
+

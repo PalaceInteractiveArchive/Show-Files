@@ -1,0 +1,39 @@
+Sequence    Light
+#Define
+EnderCrystal    he1
+EnderCrystal	he2
+EnderCrystal	he3
+EnderCrystal	he4
+EnderCrystal	he5
+EnderCrystal	he6
+EnderCrystal	he7
+EnderCrystal	he8
+EnderCrystal	he9
+EnderCrystal	he10
+
+#Spawn
+0   he1 Spawn   -729,60,3889   -783,64,3906
+0   he2 Spawn   -729,60,3889    -777,64,3906
+0   he3 Spawn   -729,60,3889    -772,64,3906
+0   he4 Spawn   -729,60,3889    -767,64,3906
+0   he4 Spawn   -729,60,3889    -762,64,3906
+0   he5 Spawn   -729,60,3889    -759,64,3906
+0   he6 Spawn   -729,60,3889    -699,64,3906
+0   he7 Spawn   -729,60,3889    -693,64,3906
+0   he8 Spawn   -729,60,3889    -688,64,3906
+0   he9 Spawn   -729,60,3889    -681,64,3906
+0   he10    Spawn   -729,60,3889    -676,64,3906
+
+#Move
+1   he1 Move    0.5,40,0    7
+1   he2 Move    0.5,40,0    7
+1   he3 Move    0.5,40,0    7
+1   he4 Move    0.5,40,0    7
+1   he5 Move    0.5,40,0    7
+1   he6 Move    0.5,40,0    7
+1   he7 Move    0.5,40,0    7
+1   he8 Move    0.5,40,0    7
+1   he9 Move    0.5,40,0    7
+1   he10    Move    0.5,40,0    7
+
+

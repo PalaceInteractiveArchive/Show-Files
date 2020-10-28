@@ -1,0 +1,5 @@
+Sequence    Laser   Relative
+0   Spawn
+0.1 Move    target  17,0,21    100
+5.1 Despawn
+5.2 Despawn

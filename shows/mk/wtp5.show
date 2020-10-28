@@ -1,0 +1,131 @@
+﻿Show	Location	-21,46,-1690
+Show	TextRadius	25
+#ArmorStandsDefine
+ArmorStand	wtpeeyore1a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ5ZWU2MWU5ZjA2NjI4ZGY5NzRmN2NjMmM4YjRiY2RiMzEwNDFhYzQ0NTQ1MjdkMTRiOTJiZjg5NjRmMSJ9fX0=";299(117,123,184);0;0;0
+ArmorStand	wtpeeyore2a	false	0;299(117,123,184);0;0;0
+ArmorStand	wtpkanga2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4ZDNmMmE0ZjQxODUyN2QyMjhkNDMxMmRiZTlkYThkOTIxZjg1NDk2NDRlMjIzYmE4MmRlYjFiOWVhZTc1MyJ9fX0=";299;300;301;0
+ArmorStand	wtproo2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk4ZDNmMmE0ZjQxODUyN2QyMjhkNDMxMmRiZTlkYThkOTIxZjg1NDk2NDRlMjIzYmE4MmRlYjFiOWVhZTc1MyJ9fX0=";299(58,179,218);300;301;0
+ArmorStand	wtprabbit2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E5NjkzZWNlZTJmNTc0NWQyZTllNTMxN2IzZDdiZWFkMmMzMzZkMTYzMDA2MTA1Nzg2ZGFjNDUwMzc2ZTFhNSJ9fX0=";299(254,244,183);300(254,244,183);301(254,244,183);0
+ArmorStand	wtppiglet2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjI1NWMzYmYzNWVkYzVhZTE0YjRkMzg0ODMxNWYzODhmZmJmOWM5ZmRlMjFiYjc5OTk5M2E4MzJmZmM2In19fQ==";299(243,139,170);300(243,139,170);301(243,139,170);0
+ArmorStand	wtptigger5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE2MjU2ZmM2ODJiMmQzNzU4NzdhOTA2Yjc4NDJiYmI3MTU5NGYyYWYxMmViZTZiYWI4YzE1MmY0MTVhIn19fQ==";299(249,128,29);300(249,128,29);301(0,0,0);0
+ArmorStand	wtpowl2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRiZDhiNmNiM2IxZWNkOWNhMzU5YjgzM2MxYmVmMjJlOTczMmZiN2FhMGQwZmY0ZmI1NTg4ODZmNWE2YSJ9fX0=";299(64,38,13);300(54,45,22);301(64,38,13);0
+ArmorStand	wtplegs1	false	0;0;300(254,216,61);301(254,216,61);0
+#ParticlesOn
+0	Block	152	-16,40,-1695
+#ParticlesOff
+35	Block	0	-16,40,-1695
+#DoorOpen1
+0	Block	0	-19,47,-1683
+0	Block	0	-19,46,-1683
+0	Block	0	-20,47,-1683
+0	Block	0	-20,46,-1683
+#DoorOpen2
+1	Block	0	-19,47,-1684
+1	Block	0	-19,46,-1684
+#DoorOpen3
+2	Block	0	-20,47,-1685
+2	Block	0	-20,46,-1685
+2	Block	0	-20,47,-1684
+2	Block	0	-20,46,-1684
+#DoorOpen4
+3	Block	0	-21,47,-1685
+3	Block	0	-21,46,-1685
+3	Block	0	-21,47,-1684
+3	Block	0	-21,46,-1684
+#DoorClose1
+12	Block	35:15	-21,47,-1685
+12	Block	35:15	-21,46,-1685
+12	Block	160:11	-21,47,-1684
+12	Block	160:11	-21,46,-1684
+#DoorClose2
+13	Block	35:15	-20,47,-1685
+13	Block	35:15	-20,46,-1685
+13	Block	160:0	-20,47,-1684
+13	Block	160:0	-20,46,-1684
+#DoorClose3
+14	Block	35:15	-19,47,-1684
+14	Block	35:15	-19,46,-1684
+#DoorClose4
+15	Block	35:15	-19,47,-1683
+15	Block	35:15	-19,46,-1683
+15	Block	160:11	-20,47,-1683
+15	Block	160:11	-20,46,-1683
+#ArmorStandSpawn
+0	ArmorStand	wtpeeyore1a	Spawn	-22.919,46.03,-1692.731,42
+0	ArmorStand	wtpeeyore2a	Spawn	-22.313,46.06,-1693.406,45
+0	ArmorStand	wtproo2	Spawn	-21.551,46.38,-1693.481,0
+0	ArmorStand	wtpkanga2	Spawn	-20.757,46.03,-1693.497,90
+0	ArmorStand	wtprabbit2	Spawn	-19.924,46,-1693.416,-87
+0	ArmorStand	wtptigger5	Spawn	-17,46.25,-1692.512,33
+0	ArmorStand	wtppiglet2	Spawn	-16.375,46.78,-1691.449,0
+0	ArmorStand	wtpowl2	Spawn	-18.651,46.5,-1693.395,0
+0	ArmorStand	wtplegs1	Spawn	-14.056,46.53,-1685.150,-45
+0.2	Block	152	-17,41,-1693
+#wtpeeyore1aStartPos
+0.1	ArmorStand	wtpeeyore1a	Position	BODY	90,0,0	1
+0.1	ArmorStand	wtpeeyore1a	Position	HEAD	-9,-54,12	1
+0.1	ArmorStand	wtpeeyore1a	Position	LEG_LEFT	-58,30,-1	1
+0.1	ArmorStand	wtpeeyore1a	Position	LEG_RIGHT	-66,39,-2	1
+0.1	ArmorStand	wtpeeyore1a	Position	ARM_LEFT	0,0,-10	1
+0.1	ArmorStand	wtpeeyore1a	Position	ARM_RIGHT	-6,0,10	1
+#wtpeeyore2aStartPos
+0.1	ArmorStand	wtpeeyore2a	Position	BODY	-90,1.61,183	1
+0.1	ArmorStand	wtpeeyore2a	Position	HEAD	-112,36,0	1
+0.1	ArmorStand	wtpeeyore2a	Position	LEG_LEFT	-64,24,-1	1
+0.1	ArmorStand	wtpeeyore2a	Position	LEG_RIGHT	-63,3,9	1
+0.1	ArmorStand	wtpeeyore2a	Position	ARM_LEFT	-1,0,-4	1
+0.1	ArmorStand	wtpeeyore2a	Position	ARM_RIGHT	3,0,0	1
+#RooStartPos
+0.1	ArmorStand	wtproo2	Position	HEAD	21,0,0	1
+0.1	ArmorStand	wtproo2	Position	LEG_LEFT	-61,-30,-1	1
+0.1	ArmorStand	wtproo2	Position	LEG_RIGHT	-59,30,-2	1
+0.1	ArmorStand	wtproo2	Position	ARM_LEFT	-10,0,-130	1
+0.1	ArmorStand	wtproo2	Position	ARM_RIGHT	-15,0,120	1
+#KangaStartPos
+0.1	ArmorStand	wtpkanga2	Position	BODY	12,0,0	1
+0.1	ArmorStand	wtpkanga2	Position	HEAD	0,-15,0	1
+0.1	ArmorStand	wtpkanga2	Position	LEG_LEFT	20,0,-1	1
+0.1	ArmorStand	wtpkanga2	Position	LEG_RIGHT	19,0,1	1
+0.1	ArmorStand	wtpkanga2	Position	ARM_LEFT	-73,39,-10	1
+0.1	ArmorStand	wtpkanga2	Position	ARM_RIGHT	-75,-42,10	1
+#RabbitStartPos
+0.1	ArmorStand	wtprabbit2	Position	BODY	15,0,0	1
+0.1	ArmorStand	wtprabbit2	Position	HEAD	3,18,0	1
+0.1	ArmorStand	wtprabbit2	Position	LEG_LEFT	38,0,-1	1
+0.1	ArmorStand	wtprabbit2	Position	LEG_RIGHT	39,0,1	1
+0.1	ArmorStand	wtprabbit2	Position	ARM_LEFT	-55,51,-10	1
+0.1	ArmorStand	wtprabbit2	Position	ARM_RIGHT	-54,-48,10	1
+#OwlStartPos
+0.1	ArmorStand	wtpowl2	Position	HEAD	-3,-15,0	1
+0.1	ArmorStand	wtpowl2	Position	LEG_LEFT	-25,-12,-1	1
+0.1	ArmorStand	wtpowl2	Position	LEG_RIGHT	-23,12,0	1
+0.1	ArmorStand	wtpowl2	Position	ARM_LEFT	-37,18,-10	1
+0.1	ArmorStand	wtpowl2	Position	ARM_RIGHT	-63,48,10	1
+#TiggerStartPos
+0.1	ArmorStand	wtptigger5	Position	BODY	0,-15,0	1
+0.1	ArmorStand	wtptigger5	Position	HEAD	12,-30,0	1
+0.1	ArmorStand	wtptigger5	Position	LEG_LEFT	-1,0,20	1
+0.1	ArmorStand	wtptigger5	Position	LEG_RIGHT	4,0,58	1
+0.1	ArmorStand	wtptigger5	Position	ARM_LEFT	-10,0,-61	1
+0.1	ArmorStand	wtptigger5	Position	ARM_RIGHT	-15,0,91	1
+#PigletStartPos
+0.1	ArmorStand	wtppiglet2	Position	HEAD	-21,0,0	1
+0.1	ArmorStand	wtppiglet2	Position	LEG_LEFT	-10,0,-1	1
+0.1	ArmorStand	wtppiglet2	Position	LEG_RIGHT	-11,3,1	1
+0.1	ArmorStand	wtppiglet2	Position	ARM_LEFT	-28,0,-10	1
+0.1	ArmorStand	wtppiglet2	Position	ARM_RIGHT	-66,0,10	1
+0.1	ArmorStand	wtppiglet2	Rotate	141	1
+#LegsStartPos
+0.1	ArmorStand	wtplegs1	Position	LEG_LEFT	70,15,0	1
+0.1	ArmorStand	wtplegs1	Position	LEG_RIGHT	70,-15,0	1
+#Reset
+45	ArmorStand	wtpeeyore1a	Despawn
+45	ArmorStand	wtpeeyore2a	Despawn
+45	ArmorStand	wtpkanga2	Despawn
+45	ArmorStand	wtproo2	Despawn
+45	ArmorStand	wtprabbit2	Despawn
+45	ArmorStand	wtptigger5	Despawn
+45	ArmorStand	wtpowl2	Despawn
+45	ArmorStand	wtplegs1	Despawn
+45	ArmorStand	wtppiglet2	Despawn
+45	Block	152	-14,36,-1688

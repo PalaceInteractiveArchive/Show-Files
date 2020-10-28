@@ -1,0 +1,1130 @@
+Show	Location	-114,64,-28
+Show	TextRadius	45
+Show	Name	BATB
+#January 23 - 
+#Audio
+0	AudioStart	batb
+5	AudioSync	batb	5
+10	AudioSync	batb	10
+30	AudioSync	batb	30
+120	AudioSync	batb	120
+240	AudioSync	batb	240
+360	AudioSync	batb	360
+480	AudioSync	batb	480
+600	AudioSync	batb	600
+720	AudioSync	batb	720
+840	AudioSync	batb	840
+960	AudioSync	batb	960
+1080	AudioSync	batb	1080
+1200	AudioSync	batb	1200
+1320	AudioSync	batb	1320
+1440	AudioSync	batb	1440
+#ArmorStands IDs
+#ArmorStand	name	small	headID:data;chestID:data;legsID:data;bootsID:data
+ArmorStand	bannerguy1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNhMjdiYTQ1MjNlNTgzYWUxYmQyNzAzMGQ3YTJlMDdiN2VlYmEyY2U3M2FjMzljZjM1NzQ5ZTI0MmQyOSJ9fX0=;299(255,0,0);300(255,179,179);301(0,0,0)
+ArmorStand	prince	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGY2Y2YzNWFkOTFmZTM2MzkwYmZmZmVjMjU1Mzc0MzI1Njg0MzRkNzYxZTYxYTU0ZmNmZTA2NDc2ZjVmMzc0In19fQ==;299(255,255,255);300(65,105,225);301(0,0,0)
+ArmorStand	bannerguy2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM4YWMwMTY0ZDZiZjc4MmJiMDc2YWYzZDk3NzI0MjlkODBmYjJmZmRkMDY5NzEzY2FiZTI2MmFhMjYyZSJ9fX0=;299(255,243,255);300(44,191,59);301(58,255,18)
+ArmorStand	town2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjgzZjMxZWIwM2U1NjM2ZWE2ZmE4OGVlZjk4M2RhOTZhMWM0MGJmMzE0ZjA0ZDg1YTE0Y2EyNmJiNzgyZjQifX19;299(225,160,122);300(225,69,0);301(225,165,0)
+ArmorStand	town1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmOWM1MzE3N2E0Mzk5MjYyZmUzNDhjM2Y3MWEyMjYzYTY3N2QwNmY0MWJiYzIzMWZiYWNjNTU5OTY0ZTM5In19fQ==;299(5,191,39);300(4,127,26);301(7,255,51)
+ArmorStand	town4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjgyYzQxOWQxYjI1M2E5NGE5ODllMjM1NTg4Yjk1ODhlNjE1ZDAzZTVlMjkzOTA5NzhjNjI2YmNjMTk0In19fQ==;299(127,52,51);300(255,105,102);301(191,79,76)
+ArmorStand	town5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjE2NDEzYWZlMTMwNjNiNTViYTc4MjcxNjczYWQyZmE4NDM2MzJhOGYzZWE2YzMzYjZmN2UwM2Y2MmY2In19fQ==;299(171,234,255);300(250,255,245);301(127,100,84)
+ArmorStand	town3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGNhOTgyNjY2M2RlNTZjOTYyOGI3OGM0ZTM3NzU4ODE3ZWJkNDBiMDkyZjA0MzMwNmU4Y2RmMWJiNjUxZSJ9fX0=;299(220,20,60);300(178,34,34);301(165,42,42)
+ArmorStand	town7	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRhN2E5N2EzZTY0YTI2ZDI2ZTgxOWJjMzhkYWM5YTY1OGQ2OGQ3MmY3YmUxZmQwZWRhYTc4ZGNkMzZjZCJ9fX0=;299(234,169,227);300(29,143,191);301(38,190,255)
+ArmorStand	town6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUyZmViOTY1MWNjMjkxZTljZjMyZjk3MzU2ZjdiN2JmZjlkZWRjYzZlZGZlMmQ4M2VmZDgzYTg4ZDQ3OWJiMyJ9fX0=;299(144,238,144);300(50,205,50);301(143,188,143)
+ArmorStand	town8	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RkMjY4MzhlN2NjZmY2ZGI4ZmQxZDAzNzZjNTgwN2MzY2I2YThkMTg5OTU4ODNmNDYwYzQ1OWI5ZDg4OCJ9fX0=;299(255,211,230);300(255,11,21);301(127,5,10)
+ArmorStand	beast	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU2ZjE4YTg2NjQwZWQ1NmIyNjllZmFiNDU2ODdiNDVmYjAyZmFiMjFkN2RjZmM5ZWU0NDlkOTY1N2I3OWZkIn19fQ==;299(102,68,0);300(65,105,225);301(102,68,0)
+ArmorStand	bimbette1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE4OTc4MzhhN2FmNDQzYTc3MDk3N2UzMGUzOGY5N2RlNjE3NzMxODRlMTg5YjJhYmExNTIyYmY2NmIifX19;299(255,228,225);300(255,240,245);301(225,228,225)
+ArmorStand	bimbette2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE4OTc4MzhhN2FmNDQzYTc3MDk3N2UzMGUzOGY5N2RlNjE3NzMxODRlMTg5YjJhYmExNTIyYmY2NmIifX19;299(255,228,225);300(255,240,245);301(225,228,225)
+ArmorStand	bimbette3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE4OTc4MzhhN2FmNDQzYTc3MDk3N2UzMGUzOGY5N2RlNjE3NzMxODRlMTg5YjJhYmExNTIyYmY2NmIifX19;299(255,228,225);300(255,240,245);301(225,228,225)
+ArmorStand	witch	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2MzkxODkwNjIsInByb2ZpbGVJZCI6IjAwNmQ4MDZlNjllMDQ2YTBhMmRhMTllZWY3ZmRjY2VhIiwicHJvZmlsZU5hbWUiOiJMaWxXaGFsZVRhaWwiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FiNDVkMGI2NmQxODNhNGExMmVmMmI0ZjQ4ZDc4NDhjZmNmMTZlZjI2YmYzN2UyNWRlMzJmZGQ2MDcyZWYifX19;299(0,0,0);300(115,38,115);301(0,0,0)
+ArmorStand	gg1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,96,36);300(127,48,18);301(227,86,32)
+ArmorStand	gg2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,143,126);300(127,72,63);301(191,108,95)
+ArmorStand	gg3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,243,255);300(44,191,59);301(58,255,18)
+ArmorStand	gg4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,74,24);300(176,253,255);301(127,46,30)
+ArmorStand	gaston	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNiY2IwMzZjMDcwOThkMDIyYmYyNDNlOWMyNjQ1N2Y5ZmM2ODljYjRmYTI5MWIwYjI0MmYxN2NmMGIyN2QifX19;299(204,0,0);300(0,0,0);301(102,51,0)
+ArmorStand	belle1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjczM2YxODE3Yjc0MTM4MGU0OTVmM2NiYzVjN2JkOWFkOWU2YjI5YzM1MWIwZDg2YTE2OTA5MjI0NjU1YSJ9fX0=;299(255,255,255);300(30,144,225);301(0,0,0)
+ArmorStand	lumiere	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RjMzMxNWVlMmMzNDM4NzNmNmQ2ZWFkOGI2YWE4ZGY0MjY5OWZjYzUwYjE2ZmE1M2Y0YWVlZGMxZjA4ZWZjIn19fQ==;299(255,221,34);300(255,181,0);301(255,232,0)
+ArmorStand	cogsworth	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY0MjRmOTMyMGEyNjE3NmEyODRkZDVhY2FmY2E3OTY2NTdhNDE3NGNjMjE5YWNiYzM5ZDhiNGFhMTQ4YzdkNyJ9fX0=;299(139,69,19);300(218,165,32);301(139,69,19)
+ArmorStand	mrspotts	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUwZjk0YTY5M2U2N2E4M2FjZmM2MzRkYzA1NTEyZGNlNTEwNmFiY2JkNDJlNGU1MzBjZGE5YWIyMTg2OTcifX19;299(204,102,204);300(255,255,255);301(255,102,217)
+ArmorStand	chip	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUwZjk0YTY5M2U2N2E4M2FjZmM2MzRkYzA1NTEyZGNlNTEwNmFiY2JkNDJlNGU1MzBjZGE5YWIyMTg2OTcifX19;299(204,102,204);300(255,255,255);301(255,102,217)
+ArmorStand	boggreen	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(0,255,46);301(0,255,46)
+ArmorStand	bogred	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(255,9,0);301(255,9,0)
+ArmorStand	bogblue	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(4,28,255);301(4,28,255)
+ArmorStand	bogorange	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(255,126,14);301(255,126,14)
+ArmorStand	bogyellow	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(255,239,0);301(255,239,0)
+ArmorStand	bogaqua	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(0,229,184);301(0,229,184)
+ArmorStand	bogguy1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+#
+#ArmorStand Actions Zaf
+#Prince
+14	ArmorStand	prince	spawn	-111,64,-49
+15	ArmorStand	prince	move	-107,64,-44	1
+16	ArmorStand	prince	move	-108,64,-43	1
+16	ArmorStand	prince	position	ARM_LEFT	316,0,199	1
+16	ArmorStand	prince	position	HEAD	0,30,0	3
+19	ArmorStand	prince	position	HEAD	0,-30,0	3
+22	ArmorStand	prince	position	ARM_LEFT	0,0,0	1
+22	ArmorStand	prince	position	HEAD	0,0,0	1
+23	ArmorStand	prince	position	ARM_RIGHT	252,0,0	1
+23	ArmorStand	prince	position	BODY	9,0,0	1
+24	ArmorStand	prince	move	-107,64,-44	1
+25	ArmorStand	prince	position	ARM_RIGHT	0,0,0	0.1
+25	ArmorStand	prince	position	BODY	0,0,0	0.1
+25	ArmorStand	prince	move	-103,64,-40	1.5
+26.5	ArmorStand	prince	position	ARM_RIGHT	252,0,0	0.1
+26.5	ArmorStand	prince	position	BODY	9,0,0	0.1
+27	ArmorStand	prince	position	ARM_RIGHT	0,0,0	0.1
+27	ArmorStand	prince	position	BODY	0,0,0	0.1
+27	ArmorStand	prince	move	-100,64,-36	3
+30	ArmorStand	prince	position	ARM_LEFT	-40,0,0	6
+30	ArmorStand	prince	position	HEAD	30,0,0	6
+36	ArmorStand	prince	position	HEAD	0,0,0	0.1
+36	ArmorStand	prince	position	ARM_LEFT	0,0,150	0.1
+36	ArmorStand	prince	position	ARM_RIGHT	0,0,200	0.1
+41	ArmroStand	prince	position	ARM_LEFT	-85,0,0	1
+41	ArmorStand	prince	position	ARM_RIGHT	-30,0,0	1
+48	ArmorStand	prince	position	ARM_LEFT	0,0,0	2
+48	ArmorStand	prince	position	ARM_RIGHT	0,0,0	2
+50	ArmorStand	prince	move	-103,64,-38	5
+55.5	ArmorStand	prince	position	ARM_LEFT	206,0,0	0.1
+68	ArmorStand	prince	position	ARM_LEFT	0,0,0	2
+70	ArmorStand	prince	move	-107,64,-44	5
+78	ArmorStand	prince	despawn
+#Beast
+78.1	ArmorStand	beast	spawn	-107,64,-44
+80	ArmorStand	beast	move	-108,64,-43	1
+80	ArmorStand	beast	position	BODY	9,0,0	1
+80	ArmorStand	beast	position	ARM_LEFT	238,41,0	1
+84	ArmorStand	beast	position	BODY	0,0,0	1
+84	ArmorStand	beast	position	ARM_LEFT	0,0,0	1
+85	ArmorStand	beast	move	-107,64,-44	1
+86	ArmorStand	beast	move	-111,64,-49	2
+90	ArmorStand	beast	despawn
+#ArmorStand Actions Sea
+#bannerguy1=RED
+6	ArmorStand	bannerguy1	spawn	-111,64,-49
+6.3	ArmorStand	bannerguy1	rotate	-45 0.2
+6.4	ArmorStand	bannerguy1	move	-109,64,-47	.6
+7.5	ArmorStand	bannerguy1	rotate	495	2.5
+7.5	ArmorStand	bannerguy1	move	-99,64,-34	2.5
+11	ArmorStand	bannerguy1	move	-106,64,-42	2
+11	ArmorStand	bannerguy1	rotate	360	2
+20	ArmorStand	bannerguy1	move	-104,64,-38	4
+20	ArmorStand	bannerguy1	rotate	180	4
+24	ArmorStand	bannerguy1	move	-98,64,-34	4
+24	ArmorStand	bannerguy1	rotate	90	4
+53	ArmorStand	bannerguy1	move	-102,64,-36	3
+53	ArmorStand	bannerguy1	rotate	45	3
+71	ArmorStand	bannerguy1	move	-106,64,-42	4
+80	ArmorStand	bannerguy1	move	-109,64,-47	1
+81	ArmorStand	bannerguy1	move	-111,64,-49	1
+82	ArmorStand	bannerguy1	despawn	
+#bannerguy2=GREEN
+9	ArmorStand	bannerguy2	spawn	-93,64,-31
+9.3	ArmorStand	bannerguy2	rotate	135	0.2
+9.4	ArmorStand	bannerguy2	move	-95,64,-33	0.6
+10.5	ArmorStand	bannerguy2	move	-108,64,-44	3
+10.5	ArmorStand	bannerguy2	rotate	380	2.5
+20	ArmorStand	bannerguy2	move	-102,64,-40	4
+20	ArmorStand	bannerguy2	rotate	345	4
+24	ArmorStand	bannerguy2	move	-96.5,64,-32.5	4
+24	ArmorStand	bannerguy2	rotate	45	4
+53	ArmorStand	bannerguy2	move	-100,64,-38	1.5
+54.5	ArmorStand	bannerguy2	move	-104,64,-38	1.5
+71	ArmorStand	bannerguy2	move	-108,64,-44 4
+80	ArmorStand	bannerguy2	move	-109,64,-47	1
+81	ArmorStand	bannerguy2	move	-111,64,-49	1
+82	ArmorStand	bannerguy2	despawn
+#witch
+28	ArmorStand	witch	spawn	-95,64,-33
+28.1	ArmorStand	witch	rotate	135	1
+29.6	ArmorStand	witch	move	-96,64,-33	1
+30.6	ArmorStand	witch	move	-98,64,-33	1
+39	ArmorStand	witch	rotate	90	1
+42	ArmorStand	witch	rotate	90	1
+48	ArmorStand	witch	rotate	360	6
+48	ArmorStand	witch	move	-101,64,-40	2
+50	ArmorStand	witch	move	-106,64,-39	4
+58	ArmorStand	witch	move	-104,64,-36	3
+60	ArmorStand	witch	rotate	180	4
+64	ArmorStand	witch	move	-103,64,-38	2
+69	ArmorStand	witch	move	-93,64,-31	5
+74	ArmorStand	witch	despawn		
+#might put back 
+#51.2	ArmorStand	witch	move	-104,64,-41	3.4
+#51.2	ArmorStand	witch	rotate	360	3
+#little town belle= belle1
+81	ArmorStand	belle1	spawn	-101.534,64,-42.276
+#belle spawns 81.3 at -130 degrees
+#at 88	belle will rotate to 45
+81.3	ArmorStand	belle1	rotate	45	1
+90	ArmorStand	belle1	move	-104.705,64,-37.664	8
+90	ArmorStand	belle1	position	HEAD	10,0,0	1
+90.5	ArmorStand	belle1	position	ARM_LEFT	-10,0,0	.5
+91	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
+92.2	ArmorStand	belle1	position	ARM_RIGHT	10,0,0	1
+93.4	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
+94.5	ArmorStand	belle1	position	ARM_RIGHT	10,0,0	1
+95.6	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
+97.7	ArmorStand	belle1	position	ARM_RIGHT	0,0,0	1
+99	ArmorStand	belle1	position	ARM_LEFT	-30,15,0	.5
+99	ArmorStand	belle1	position	ARM_RIGHT	-30,-15,0	.5
+99	ArmorStand	belle1	position	HEAD	0,0,0	.5
+100	ArmorStand	belle1	position	HEAD	-10,0,0	1
+102	ArmorStand	belle1	position	HEAD	-10,20,0	1
+104	ArmorStand	belle1	position	HEAD	-10,-20,0	1
+109	ArmorStand	belle1	position	HEAD	-10,0,0	1
+112	ArmorStand	belle1	position	HEAD	10,0,0	1
+113.5	ArmorStand	belle1	position	HEAD	0,10,0	.5
+117.5	ArmorStand	belle1	position	HEAD	0,0,0	.5
+118.2	ArmorStand	belle1	position	HEAD	-10,0,0	.5
+#at 120.5, belle will go to rotation -30
+120.5	ArmorStand	belle1	position	HEAD	0,-20,0	.5
+121.3	ArmorStand	belle1	position	ARM_LEFT	-130,-40,0	.5
+122	ArmorStand	belle1	position	ARM_LEFT	-30,15,0	.5
+#at 122.3	belle1 will rotate to 105
+122.3	ArmorStand	belle1	position	HEAD	0,0,0	.5
+122.8	ArmorStand	belle1	position	HEAD	20,0,0	.5
+122.8	ArmorStand	belle1	position	ARM_RIGHT	-145,50,0	.3
+#at 123.7	belle will rotate to 45
+123.7	ArmorStand	belle1	position	ARM_RIGHT	0,0,0	.2
+123.7	ArmorStand	belle1	position	ARM_LEFT	0,0,0	.2
+123.7	ArmorStand	belle1	position	HEAD	0,0,0	.2
+#at 124.4	belle will rotate to -30
+124.2	ArmorStand	belle1	move	-103.4,64,-39.456	3
+126	ArmorStand	belle1	position	ARM_LEFT	-20,0,0	.5
+#at 128, belle will rotate to 15
+128	ArmorStand	belle1	position	ARM_LEFT	-30,15,0	.5
+128	ArmorStand	belle1	position	ARM_RIGHT	-30,-15,0	.5
+129	ArmorStand	belle1	position	HEAD	0,-10,0	.5
+131.1	ArmorStand	belle1	position	HEAD	-10,0,0	.5
+132.8	ArmorStand	belle1	position	HEAD	-10,20,0	.5
+#belle moves at 134.8
+#at 134.8, belle rotates to 105
+134.8	ArmorStand	belle1	move	-104.705,64,-37.664	1.5
+#at 136.4 is "goodmorning belle'
+#at 136.4 belle rotates to 25
+136.5	ArmorStand	belle1	position	HEAD	5,-20,0	.5
+#at 136.8 while moving, belle rotates to
+136.8	ArmorStand	belle1	move	-104.546,64,-38.634	1.2
+#townperson1= green dress, blonde
+81	ArmorStand	town1	spawn	-104.496,64,-46.324
+81.3	ArmorStand	town1	rotate	-100	1
+81.5	ArmorStand	town1	position	ARM_LEFT	-50,24,0	.5
+81.5	ArmorStand	town1	position	ARM_RIGHT	-50,-24,0	.5
+#townperson2=orange guy
+81	ArmorStand	town2	spawn	-103.715,64,-45.486
+81.3	ArmorStand	town2	rotate	-135	1
+#townperson3=red guy
+81	ArmorStand	town3	spawn	-102.884,64,-44.386
+81.3	ArmorStand	town3	rotate	165	1
+81.5	ArmorStand	town3	position	ARM_LEFT	-20,0,0	.5
+#townsperson4=redgirl
+81	ArmorStand	town4	spawn	-99.533,64,-41.369
+81.3	ArmorStand	town4	rotate	45	1
+81.5	ArmorStand	town4	position	HEAD	0,-30,0	.5
+81.5	ArmorStand	town4	position	ARM_LEFT	-50,24,0	.5
+81.5	ArmorStand	town4	position	ARM_RIGHT	-50,-24,0	.5
+#townsperson5=baker
+81	ArmorStand	town5	spawn	-98.663,64,-40.418
+81.3	ArmorStand	town5	rotate	45	1
+81.5	ArmorStand	town5	position	HEAD	-10,20,0	.5
+81.5	ArmorStand	town5	position	ARM_RIGHT	-45,20,0	.5
+81.5	ArmorStand	town5	position	ARM_LEFT	0,0,-145	.5
+81.5	ArmorStand	town5	position	LEG_LEFT	-15,0,0	.5
+#townsperson6=greengirl
+81	ArmorStand	town6	spawn	-97.541,64,-39.662
+81.3	ArmorStand	town6	rotate	-42	1
+81.5	ArmorStand	town6	position	ARM_RIGHT	-45,0,0	.5
+#townsperson7=blueguy
+81	ArmorStand	town7	spawn	-96.434,64,-38.362
+81.3	ArmorStand	town7	rotate	65	1
+81.5	ArmorStand	town7	position	HEAD	0,30,0	.5
+#townsperson8=blonde red girl with no bread????
+81	ArmorStand	town8	spawn	-95.419,64,-37.389
+81.3	ArmorStand	town8	rotate	80	1
+81.5	ArmorStand	town8	position	ARM_LEFT	-50,24,0	.5
+81.5	ArmorStand	town8	position	ARM_RIGHT	-50,-24,0	.5
+#Text
+#1118	Text	&f[&aZafacon2&f] &4&lAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+#620	Text	&f[&aBoogieramon&f] &d&lhahahahahahahhahahahaa
+#491	Text	&f[&aZafacon2&f] &4&lAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+#**Prologue**
+12.4	Text	&f[&9&lNarrator&f] &eOnce upon a time, in a faraway land, a young prince lived in a shining castle.
+19.2	Text	&eAlthough he had everything his heart desired, the prince was spoiled, selfish, and unkind.
+27.4	Text	&eOne winter's night, an old beggar woman came to the castle and offered him a single rose in return for shelter from the bitter cold.	
+36.4	Text	&eRepulsed by her haggard appearance, the prince sneered at the gift and turned the old woman away, but she warned him not to be deceived by appearances, for beauty is found within.
+49	Text	&eFor she had seen that there was no love in his heart, and as punishment, she transformed him into a hideous Beast, and placed a powerful spell on the castle, and all who lived there.
+61.6	Text	&eIf he could learn to love another, and earn their love in return, the spell would be broken.
+70.4	Text	&eIf not, he would be doomed to remain a Beast for all time.
+76.6	Text	&eAs the years passed, he fell into despair, and lost all hope, for who could ever learn to love a Beast?
+#**Start of Song:  "Bonjour"**
+101.4	Text	&f[&e&lBelle&f] &dLittle town, it's a quiet village
+106.6	Text	&dEvery day, like the one before
+111.5	Text	&dLittle town, full of little people
+116.3	Text	&dWaking up to say...
+120.3	Text	&f[&7&lTownsfolk 1&f] &eBonjour!
+121.2	Text	&f[&7&lTownsfolk 2&f] &6Bonjour!
+122.1	Text	&f[&7&lTownsfolk 3&f] &dBonjour!
+122.5	Text	&f[&7&lTownsfolk 4&f] &5Bonjour!
+122.9	Text	&f[&7&lTownsfolk 5&f] &2Bonjour!
+124.3	Text	&f[&e&lBelle&f] &dThere goes the baker with his tray like always
+127.8	Text	&dThe same old bread and rolls to sell
+131.1	Text	&dEv'ry morning just the same
+132.9	Text	&dSince the morning that we came
+134.7	Text	&dTo this poor provincial town...
+136.2	Text	&f[&e&lBaker&f] &6Good morning, Belle!
+137.1	Text	&f[&e&lBelle&f] &dGood morning monsieur!
+138.2	Text	&f[&e&lBaker&f] &6Where are you off to?
+138.9	Text	&f[&e&lBelle&f] &dThe bookshop! I just finished the most wonderful story, about a beanstalk and an ogre and...
+143.7	Text	&f[&e&lBaker&f] &6That's nice... Marie, the baguettes! Hurry up!!
+147.9	Text	&f[&7&lTownsfolk&f] &eLook there she goes, that girl is so peculiar 
+151.5	Text	&eI wonder if she's feeling well!
+154.6	Text	&f[&d&lWomen&f] &5With a dreamy far-off look!
+156.6	Text	&f[&7&lTownsfolk&f] &eAnd her nose stuck in a book!
+158.2	Text	&f[&3&lAll&f] &aWhat a puzzle to the rest of us is &eBelle&a!
+162.1	Text	&f[&e&lBelle&f] &dOh! Isn't this amazing! 
+168	Text	&dIt's my favorite part because, you'll see!
+176.6	Text	&dHere's where she meets Prince Charming
+182.5	Text	&dBut she won't discover that it's him 'til chapter three!
+191.2	Text	&f[&d&lWomen&f] &5Look there she goes a girl who's strange but special
+194.8	Text	&5A most peculiar mademoiselle
+198.1	Text	&f[&7&lTownsfolk&f] &eIt's a pity and a sin
+200	Text	&eShe doesn't quite fit in!
+201.8	Text	&f[&7&lTownsfolk&f] &eVery different from the rest of us...
+203.4	Text	&f[&d&lWomen&f] &5She's nothing like the rest of us
+205.3	Text	&f[&3&lAll&f] &aYes different from the rest of us is Belle!
+212.4	Text	&f[&c&lGaston&f] &6Who does she think she is? 
+214.4	Text	&6No one says 'no' to Gaston! 
+218.4	Text	&6Right from the moment when I met her, saw her,
+222.1	Text	&6I said she's gorgeous and I fell
+225.2	Text	&6Here in town there's only she 
+227.2	Text	&6Who is beautiful as me
+229	Text	&6So I'm making plans to woo and marry Belle
+235.2	Text	&f[&3&lAll&f] &aNo one's slick as Gaston
+239.4	Text	&aNo one's quick as Gaston
+241.3	Text	&aNo one's neck's as incredibly thick as Gaston
+244.7	Text	&f[&d&lBimbettes&f] &5For there's no one as burly and brawny
+248	Text	&f[&c&lGaston&f] &6As you see I've got biceps to spare
+251.6	Text	&f[&3&lAll&f] &aNo one hits like Gaston 
+253.1	Text	&aMatches wits like Gaston
+254.9	Text	&f[&c&lGaston&f] &6In a spitting match nobody spits like Gaston
+259.1	Text	&6I'm espcially good at expectorating! 
+262.3	Text	&6Ptooey!
+263	Text	&f[&3&lAll&f] &aTen points for Gaston!
+265.6	Text	&f[&c&lGaston&f] &6When I was a lad I ate four dozen eggs
+268.9	Text	&6Every morning to help me get large!
+272.4	Text	&6And now that I'm grown, I eat five dozen eggs
+276.2	Text	&6So I'm roughly the size of a barge!
+285.8	Text	&f[&d&lBimbettes&f] &5Look there he goes, isn't he dreamy
+289.4	Text	&5Monsieur Gaston, &5oh he's so cute
+292.9	Text	&5Be still my heart, I'm hardly breathing
+296	Text	&f[&e&lBelle&f] &dThere must be more than this provincial life!
+300.1	Text	&f[&c&lGaston&f] &6Watch I'm going to make Belle my wife! 
+304	Text	&f[&3&lAll&f] &aLook there she goes a girl who's strange but special
+307.4	Text	&aA most peculiar mademoiselle
+310.7	Text	&aIt's a pity and a sin
+312.5	Text	&aShe doesn't quite fit in!
+314.4	Text	&f[&7&lGroup 1&f] &eBut she really is a funny girl
+316.3	Text	&f[&7&lGroup 2&f] &6A beauty but a funny girl
+317.8	Text	&f[&3&lAll&f] &aShe really is a funny girl! 
+322.6	Text	&aThat Belle!
+323.5	Text	&f[&7&lTownsfolk 1&f] &eBonjour!
+324.4	Text	&f[&7&lTownsfolk 2&f] &6Bonjour!
+325.2	Text	&f[&7&lTownsfolk 3&f] &dBonjour!
+325.9	Text	&f[&7&lTownsfolk 4&f] &5Bonjour!
+326.2	Text	&f[&7&lTownsfolk 5&f] &2Bonjour!
+326.5	Text	&f[&7&lTownsfolk 6&f] &3Bonjour!
+#**End of Song**
+#**Start of Song:  "Belle Reprise"**
+346.3	Text	&f[&c&lGaston&f] &6Hello, Belle.
+347.8	Text	&f[&e&lBelle&f] &dGaston, what a pleasant surprise.
+350.3	Text	&f[&c&lGaston&f] &6Isn't it though?
+351.4	Text	&6I'm just full of surprises.
+353.8	Text	&6You know, &eBelle&6, there isn't a girl in town who wouldn't love to be in your shoes.
+359.3	Text	&6This is the day your dreams come true.
+362.6	Text	&f[&e&lBelle&f] &dWhat do you know of my dreams, Gaston?
+373.9	Text	&dI want adventure in the great wide somewhere
+379.7	Text	&dI want it more than I can tell
+385	Text	&dAnd for once it might be grand
+388.4	Text	&dTo have someone understand
+392.1	Text	&dI want so much more than they've got planned
+#**End of Song**
+402.7	Text	&f[&9&lNarrator&f] &eBelle got more adventure than even she and her wildest imagination could of dreamt.
+408.1	Text	&eBut through a series of strange circumstances she found herself held captive inside a dark and foreboding castle, inhabited by a very odd collection of characters.
+421.4	Text	&f[&e&lCogsworth&f] &6Master will be furious if he finds out what we're up to.
+425	Text	&f[&d&lMrs. Potts&f] &bWell, we don't have to tell him. 
+426.6	Text	&bDo we?
+427.4	Text	&f[&6&lLumiere&f] &eThere is nothing to worry about.
+429.1	Text	&f[&e&lCogsworth&f] &6Nooo, nothing, just our entire future.
+433.2	Text	&f[&d&lMrs. Potts&f] &bOh pish, posh. We'll merely invite this lovely audience to be our guest for dinner.
+438.5	Text	&f[&6&lLumiere&f] &eKeep it simple.
+439.5	Text	&f[&9&lChip&f] &bWhat are you talking about? What's going on?
+442.8	Text	&bCome on, mom!
+444.1	Text	&f[&d&lMrs. Potts&f] &bCome along Chip, dear.
+445.6	Text	&f[&e&lCogsworth&f] &6Ohhhhh dear.
+446.8	Text	&f[&6&lLumiere&f] &eNo need to worry!
+447.9	Text	&f[&d&lMrs. Potts&f] &bWe'll keep it simple.
+449.2	Text	&f[&9&lChip&f] &bHi!
+450.7	Text	&f[&e&lCogsworth&f] &6Stop! Stop it I say, do you hear me? All of you! 
+454.3	Text	&6I said quiet!
+458.9	Text	&6If we're going to do this, then let's do it.
+463.5	Text	&f[&6&lLumiere&f] &eBut of course! 
+464.6	Text	&eWe must make them feel welcome!
+471.3	Text	&eMesdames et messieurs. It is with deepest pride and greatest pleasure that we welcome you.
+482.7	Text	&eAnd now, we invite you to relax. Pull up a chair as the dining room proudly presents...
+489.9	Text	&eYour dinner.
+503	Text	&6Be our guest, be our guest
+504.6	Text	&6Put our service to the test,
+506.2	Text	&6tie your napkin 'round your neck, cherie
+508.2	Text	&6and we provide the rest!
+509.6	Text	&6Soup du jour, hot hors d'oeuvres
+511.3	Text	&6Why we only live to serve
+513	Text	&6Try the &7grey &6stuff, it's delicious
+514.6	Text	&6Don't believe me? Ask the dishes!
+516.2	Text	&6They can sing, they can dance
+518	Text	&6After all, now, this is France!
+519.6	Text	&6And a dinner here is never second best!
+522.7	Text	&6Go on unfold your menu, take a glance and then you'll
+526.1	Text	&6Be our guest, be our guest, be our guest!
+529.9	Text	&6Beef ragout, cheese souffle,
+531.3	Text	&6Pie and pudding en flambe!
+532.9	Text	&6We'll prepare and serve with flair
+534.6	Text	&6A culinary cabaret!
+536.3	Text	&eYou're alone and you're scared,
+538	Text	&eBut the banquet's all prepared!
+539.6	Text	&eNo one's gloomy or complaining,
+541.3	Text	&eWhile the flatware's entertaining!
+543	Text	&eWe tell jokes, &6we do tricks
+544.6	Text	&6With our fellow candlesticks
+546.3	Text	&6And it's all in perfect taste
+547.7	Text	&6That you can bet!!!
+549.4	Text	&6Come on and lift your glass,
+551.2	Text	&6You've won your own free pass
+552.7	Text	&6To be our guest, if you're stressed, it's fine dining we suggest!
+556.4	Text	&6Be our guest, be our guest, be our guest!
+600.3	Text	&eLife is so unnerving,
+601.8	Text	&eFor a servant who's not serving!
+603.5	Text	&eHe's not whole without a soul to wait upon
+607.5	Text	&6Ah, those good old days when we were useful
+610.8	Text	&6Suddenly, those good old days are gone.
+614.1	Text	&eTen years we've been rusting
+616	Text	&eNeeding so much more than dusting
+617.5	Text	&eNeeding exercise, a chance to use our skills!
+621.3	Text	&6Most days we just lay around the castle,
+625	Text	&6Flabby fat and lazy
+626.2	Text	&6You walked in, and oops-a-daisie!
+641.3	Text	&eIt's a guest, it's a guest!
+645.8	Text	&eOur command is your request!
+647.6	Text	&eIt's ten years since we had anybody here
+650.1	Text	&eAnd we're obsessed!
+651.1	Text	&6With your meal, with your ease,
+652.8	Text	&6Yes indeed, we aim to please
+654.7	Text	&6While the candlelight's still glowing
+656.8	Text	&6Let us help you, we'll keep going --
+660	Text	&eCourse, by course
+664.2	Text	&eOne by one
+666	Text	&e'Til you shout "Enough, I'm done!"
+668.1	Text	&eThen we'll sing you off to sleep as you digest
+671.3	Text	&eTonight you'll prop your feet up,
+673.2	Text	&eBut for now let's eat up
+674.8	Text	&eBe our guest! 
+676.6	Text	&6Be our guest! 
+678.2	Text	&e&lBe our guest! 
+679.4	Text	&6&lPlease be our guest!!
+699.4	Text	&f[&9&lBeast&f] &6I am the master of this castle!
+705.3	Text	&6She'll never see me as anything... but a monster!
+721.3	Text	&f[&6&lLumiere&f] &eTry to understand master, the poor girl has lost her father and her freedom all in one day.
+728.7	Text	&f[&e&lCogsworth&f] &6Need I remind you that your twenty-first birthday will be here soon.
+732.5	Text	&f[&9&lBeast&f] &6I know that!
+734	Text	&f[&6&lLumiere&f] &ePerhaps she has come to break the spell!
+736.7	Text	&f[&d&lMrs. Potts&f] &bRemember, we must learn to love another and earn their love in return.
+741.7	Text	&f[&9&lBeast&f] &6I know.
+742.8	Text	&f[&6&lLumiere&f] &eAnd then we might all be human again!
+745.4	Text	&f[&e&lCogsworth&f] &6Yes! Yes! Human again, oh that's good, oh that's very good!
+748.3	Text	&f[&d&lMrs. Potts&f] &bHow lovely.
+749.4	Text	&f[&9&lChip&f] &bA human again? Wow!
+752	Text	&f[&e&lBelle&f] &dOh!
+753.9	Text	&f[&9&lChip&f] &bOh no!
+755.2	Text	&f[&9&lBeast&f] &6I thought I told you never to come here!
+758.2	Text	&f[&e&lBelle&f] &dBut I-I just wanted to find out what was in the other room and-
+760.2	Text	&f[&9&lBeast&f] &6It's none of your business!
+763.1	Text	&f[&e&lBelle&f] &dPlease stop.
+764.7	Text	&f[&9&lBeast&f] &6You shouldn't have come to the West Wing!
+767.7	Text	&f[&e&lBelle&f] &dAnd you should learn how to control your temper.
+770.7	Text	&f[&9&lBeast&f] &6I-I can't help it. 
+773.4	Text	&f[&e&lBelle&f] &dWell, how do you know if you don't even try?
+777.3	Text	&f[&6&lLumiere&f] &eSay something nice to her.
+778.6	Text	&f[&d&lMrs. Potts&f] &bTry to act like a gentlemen.
+782.1	Text	&f[&9&lBeast&f] &6I'm- I apologize.
+786.2	Text	&f[&e&lBelle&f] &dApology accepted.
+789	Text	&f[&e&lCogsworth&f] &6That's it.
+793	Text	&f[&9&lBeast&f] &6I never felt this way before.
+#*Start of Song:  "Something There"**
+801.8	Text	&f[&e&lBelle&f] &dThere's something sweet
+803.8	Text	&dAnd almost kind
+805.6	Text	&dBut he was mean
+806.7	Text	&dAnd he was coarse and unrefined.
+809.3	Text	&dAnd now he's dear
+811.3	Text	&dAnd so unsure,
+813.1	Text	&dI wonder why I didn't see it there before.
+830.2	Text	&f[&9&lBeast&f] &6She glanced this way
+832	Text	&6I thought I saw
+833.9	Text	&6And when we touched
+834.9	Text	&6She didn't shudder at my paw
+837.7	Text	&6No it can't be
+839.6	Text	&6I'll just ignore
+841.4	Text	&6But then she's never looked at me that way before.
+847.9	Text	&f[&e&lBelle&f] &dNew, and a bit alarming
+854.1	Text	&dWho'd have ever thought that this could be?
+863.1	Text	&dTrue, that he's no Prince Charming
+869	Text	&dBut there's something in him that I simply didn't see.
+877.5	Text	&f[&6&lLumiere&f] &eWell who'd have thought?
+878.4	Text	&f[&d&lMrs. Potts&f] &bWell bless my soul.
+879.3	Text	&f[&e&lCogsworth&f] &6Well who'd have known?
+880.2	Text	&f[&d&lMrs. Potts&f] &bWell who indeed?
+881.3	Text	&f[&6&lLumiere&f] &eAnd who'd have guessed they'd come together on their own?
+884	Text	&f[&d&lMrs. Potts&f] &bIt's so peculiar
+885	Text	&f[&3&lAll&f] &aWe'll wait and see
+886.9	Text	&aA few days more
+888.8	Text	&aThere may be something there that wasn't there before
+894	Text	&f[&e&lCogsworth&f] &6You know, perhaps there is something there that wasn't there before.
+898.3	Text	&f[&9&lChip&f] &bWhat?
+900.2	Text	&f[&d&lMrs. Potts&f] &bThere may be something there that wasn't there before.
+905	Text	&f[&9&lChip&f] &bWhat's there, mama?
+907.3	Text	&f[&d&lMrs. Potts&f] &bShhh, I'll tell you when you're older.
+923.6	Text	&f[&c&lGaston&f] &6Kill the Beast, or he will kill your children!
+934.7	Text	&6The Beast will make off with your children!
+936.8	Text	&6He'll come after them in the night.
+939.1	Text	&6No one will be safe til' his head is mounted on my wall!
+942.4	Text	&6I say we kill the Beast!
+945	Text	&6We're not safe until he's dead,
+946.5	Text	&6He'll come stalking us at night!
+948.2	Text	&6Set to sacrifice our children to his monstrous appetite!
+951.7	Text	&6He'll wreak havoc on our village
+953.3	Text	&6If we let him wander free
+955.1	Text	&6So it's time to take some action,   
+958.2	Text	&6Yes it's time to follow me!
+964.9	Text	&6Through the mist, through the woods
+966.3	Text	&6Through the darkness and the shadows
+968.1	Text	&6It's a nightmare but it's one exciting ride.
+971.2	Text	&6Say a prayer, then we're there
+973	Text	&6At the drawbridge of a castle,
+974.6	Text	&6And there's something truly terrible inside.
+977.9	Text	&6It's a Beast,
+978.7	Text	&6He's got fangs, razor sharp ones
+981.3	Text	&6Massive paws,
+982.2	Text	&6Killer claws for the feast
+984.3	Text	&6Hear him roar, see him foam,
+986.3	Text	&6But we're not coming home,
+987.7	Text	&6'Til he's dead, good and dead, kill the Beast!
+993	Text	&6If you're not with us, you're against us. 
+995.6	Text	&6We'll rid the village of this Beast. Who's with me?
+1002.5	Text	&cLight your torch, mount your horse!
+1004	Text	&f[&c&lGaston&f] &6Screw your courage to the sticking place
+1005.9	Text	&cWe're counting on Gaston to lead the way!
+1009.2	Text	&cThrough a mist, to a wood,
+1010.7	Text	&cWhere within a haunted castle,
+1012.3	Text	&cSomething's lurking that you don't see every day!
+1015.7	Text	&f[&c&lGaston&f] &6It's a Beast,
+1016.5	Text	&6One as tall as a mountain!
+1019	Text	&6We won't rest
+1019.8	Text	&6'Til he's good and deceased!
+1022.3	Text	&6Sally forth, tally ho, 
+1023.9	Text	&6Grab your sword, grab your bow
+1025.5	Text	&6Praise the Lord and here we go!
+1030.5	Text	&6We'll lay siege to his castle and bring back his head!
+1034.4	Text	&6Take whatever booty you can find, but remember, the Beast is mine!
+1038.7	Text	&cHearts ablaze, banners high!
+1040.3	Text	&cWe go marching into battle,
+1042	Text	&cUnafraid, although the danger just increased!
+1045.2	Text	&cRaise the flag, sing the song
+1047	Text	&cHere we come, we're fifty strong
+1048.5	Text	&cAnd fifty Frenchmen can't be wrong,
+1051.9	Text	&cKill the Beast!
+1053.5	Text	&cKill the Beast!
+1055.2	Text	&c&lKill the Beast!
+1065.6	Text	&f[&c&lGaston&f] Beast, come out!
+1066.9	Text	&6I know you're here!
+1091.3	Text	&6Face it Beast, you're a fool to think Belle could ever love a monster like you.
+1102.9	Text	&f[&9&lBeast&f] &6Get out of here!
+1106.4	Text	&f[&c&lGaston&f] &6Were you in love with her, Beast?  
+1109.2	Text	&f[&e&lBelle&f] &9Beast!
+1111	Text	&f[&9&lBeast&f] &eBelle!
+1112.5	Text	&f[&e&lBelle&f] &dI tried to get here sooner!
+1114.5	Text	&f[&c&lGaston&f] &6It's over, Beast.
+1115.9	Text	&6Belle is mine!
+1123.4	Text	&f[&e&lBelle&f] &dGaston, no!
+1129.8	Text	&dNo! No! Oh, no! No! No!
+1142	Text	&9Beast.
+1147.1	Text	&f[&9&lBeast&f] &eBelle? 
+1150.5	Text	&6You came back.
+1151.9	Text	&f[&e&lBelle&f] &dOf course I came back. I couldn't let them do this to you.
+1156.6	Text	&dI tried to warn you. It's all my fault.
+1160.6	Text	&f[&9&lBeast&f] &6At least I get to see you one... last time.
+1167.8	Text	&f[&e&lBelle&f] &dI won't let you die.
+1171	Text	&f[&9&lBeast&f] &6It's better this way...
+1173.6	Text	&f[&e&lBelle&f] &dNo! No, please! Please don't leave me.
+1179.2	Text	&d&l&oI love you.
+1230.7	Text	&f[&9&lPrince&f] &6Belle! It's me!
+1236.7	Text	&f[&e&lBelle&f] &dIt is you!
+1256.6	Text	&e&lTale as old as time
+1261.3	Text	&e&lTrue as it can be
+1266.1	Text	&e&lBarely even friends
+1268.7	Text	&e&lThen somebody bends
+1271.3	Text	&e&lUnexpectedly
+1275.6	Text	&e&lJust a little change
+1280.3	Text	&e&lSmall to say the least
+1282.9	Text	&e&lBoth a little scared
+1285.3	Text	&e&lNeither one prepared
+1287.8	Text	&e&lBeauty &6&land the &9&lBeast
+1292.5	Text	&eEver just the same
+1296.9	Text	&eEver a surprise
+1301.2	Text	&eEver as before
+1303.3	Text	&eEver just as sure
+1305.3	Text	&eAs the sun will rise
+1309.9	Text	&eCertain as the sun
+1314.1	Text	&eRising in the east
+1316.1	Text	&eTale as old as time
+1318.1	Text	&eSong as old as rhyme
+1320.6	Text	&e&lBeauty &6&land the &9&lBeast
+1388.2	Text	&e&lRising in the east
+1390.6	Text	&e&lTale as old as time
+1392.6	Text	&e&lSong as old as rhyme
+1395.5	Text	&e&lBeauty &6&land the &9&lBeast
+1401.1	Text	&6&lTale as old as time
+1404.1	Text	&6&lSong as old as rhyme
+1407	Text	&e&l&oBeauty &6&l&oand the &9&l&oBeast
+#Credits
+1427	Text	&6Brought to you by:
+#1429	Text	&eXavier9214 and Zafacon2
+1431	Text	&6Plugin by -- &dChiss and the MCMagic Dev Team
+1433	Text	&6And of course, the &bMCMagic Parks Family!
+#Lightning
+1056.2	Block	152	-74,65,-26
+1057	Block	152	-74,65,-26
+1209.4	Block	152	-74,65,-26
+1214.7	Block	152	-74,65,-26
+1215.1	Block	152	-74,65,-26
+#MainStageLightsOutAfterBell
+6.7	Block	123	-104,74,-38
+6.7	Block	123	-101,73,-35
+6.7	Block	123	-102,73,-36
+6.7	Block	123	-106,73,-40
+6.7	Block	123	-107,73,-41
+6.7	Block	123	-100,72,-34
+6.7	Block	123	-108,72,-42
+6.7	Block	123	-98,71,-31
+6.7	Block	123	-111,71,-44
+6.7	Block	123	-111,69,-46
+6.7	Block	123	-96,69,-31
+664.6	Block	123	-104,74,-38
+664.6	Block	123	-101,73,-35
+664.6	Block	123	-102,73,-36
+664.6	Block	123	-106,73,-40
+664.6	Block	123	-107,73,-41
+664.6	Block	123	-100,72,-34
+664.6	Block	123	-108,72,-42
+664.6	Block	123	-98,71,-31
+664.6	Block	123	-111,71,-44
+664.6	Block	123	-111,69,-46
+664.6	Block	123	-96,69,-31
+665.7	Block	123	-104,74,-38
+665.7	Block	123	-101,73,-35
+665.7	Block	123	-102,73,-36
+665.7	Block	123	-106,73,-40
+665.7	Block	123	-107,73,-41
+665.7	Block	123	-100,72,-34
+665.7	Block	123	-108,72,-42
+665.7	Block	123	-98,71,-31
+665.7	Block	123	-111,71,-44
+665.7	Block	123	-111,69,-46
+665.7	Block	123	-96,69,-31
+667	Block	123	-104,74,-38
+667	Block	123	-101,73,-35
+667	Block	123	-102,73,-36
+667	Block	123	-106,73,-40
+667	Block	123	-107,73,-41
+667	Block	123	-100,72,-34
+667	Block	123	-108,72,-42
+667	Block	123	-98,71,-31
+667	Block	123	-111,71,-44
+667	Block	123	-111,69,-46
+667	Block	123	-96,69,-31
+668	Block	123	-104,74,-38
+668	Block	123	-101,73,-35
+668	Block	123	-102,73,-36
+668	Block	123	-106,73,-40
+668	Block	123	-107,73,-41
+668	Block	123	-100,72,-34
+668	Block	123	-108,72,-42
+668	Block	123	-98,71,-31
+668	Block	123	-111,71,-44
+668	Block	123	-111,69,-46
+668	Block	123	-96,69,-31
+691.9	Block	123	-104,74,-38
+691.9	Block	123	-101,73,-35
+691.9	Block	123	-102,73,-36
+691.9	Block	123	-106,73,-40
+691.9	Block	123	-107,73,-41
+691.9	Block	123	-100,72,-34
+691.9	Block	123	-108,72,-42
+691.9	Block	123	-98,71,-31
+691.9	Block	123	-111,71,-44
+691.9	Block	123	-111,69,-46
+691.9	Block	123	-96,69,-31
+#MainStageLightsOnAfterBell
+663.5	Block	89	-104,74,-38
+663.5	Block	89	-101,73,-35
+663.5	Block	89	-102,73,-36
+663.5	Block	89	-106,73,-40
+663.5	Block	89	-107,73,-41
+663.5	Block	89	-100,72,-34
+663.5	Block	89	-108,72,-42
+663.5	Block	89	-98,71,-31
+663.5	Block	89	-111,71,-44
+663.5	Block	89	-111,69,-46
+663.5	Block	89	-96,69,-31
+665.5	Block	89	-104,74,-38
+665.5	Block	89	-101,73,-35
+665.5	Block	89	-102,73,-36
+665.5	Block	89	-106,73,-40
+665.5	Block	89	-107,73,-41
+665.5	Block	89	-100,72,-34
+665.5	Block	89	-108,72,-42
+665.5	Block	89	-98,71,-31
+665.5	Block	89	-111,71,-44
+665.5	Block	89	-111,69,-46
+665.5	Block	89	-96,69,-31
+667.5	Block	89	-104,74,-38
+667.5	Block	89	-101,73,-35
+667.5	Block	89	-102,73,-36
+667.5	Block	89	-106,73,-40
+667.5	Block	89	-107,73,-41
+667.5	Block	89	-100,72,-34
+667.5	Block	89	-108,72,-42
+667.5	Block	89	-98,71,-31
+667.5	Block	89	-111,71,-44
+667.5	Block	89	-111,69,-46
+667.5	Block	89	-96,69,-31
+668.2	Block	89	-104,74,-38
+668.2	Block	89	-101,73,-35
+668.2	Block	89	-102,73,-36
+668.2	Block	89	-106,73,-40
+668.2	Block	89	-107,73,-41
+668.2	Block	89	-100,72,-34
+668.2	Block	89	-108,72,-42
+668.2	Block	89	-98,71,-31
+668.2	Block	89	-111,71,-44
+668.2	Block	89	-111,69,-46
+668.2	Block	89	-96,69,-31
+688.6	Block	89	-104,74,-38
+688.6	Block	89	-101,73,-35
+688.6	Block	89	-102,73,-36
+688.6	Block	89	-106,73,-40
+688.6	Block	89	-107,73,-41
+688.6	Block	89	-100,72,-34
+688.6	Block	89	-108,72,-42
+688.6	Block	89	-98,71,-31
+688.6	Block	89	-111,71,-44
+688.6	Block	89	-111,69,-46
+688.6	Block	89	-96,69,-31
+1418	Block	89	-104,74,-38
+1418	Block	89	-101,73,-35
+1418	Block	89	-102,73,-36
+1418	Block	89	-106,73,-40
+1418	Block	89	-107,73,-41
+1418	Block	89	-100,72,-34
+1418	Block	89	-108,72,-42
+1418	Block	89	-98,71,-31
+1418	Block	89	-111,71,-44
+1418	Block	89	-111,69,-46
+1418	Block	89	-96,69,-31
+#SmokeEffectOn
+12.4	Block	152	-85,65,-25
+918.2	Block	152	-85,65,-25
+#SmokeEffectOff
+85.5	Block	0	-85,65,-25
+1065.6	Block	0	-85,65,-25
+#VillageEffectOn
+86.7	Block	152	-80,65,-30
+#VillageEffectOff
+398	Block	0	-80,65,-30
+#Curtains1Up.1
+86.7	Block	0	-106,64,-46
+86.7	Block	0	-104,64,-44
+86.7	Block	0	-102,64,-42
+86.7	Block	0	-100,64,-40
+86.7	Block	0	-98,64,-38
+86.7	Block	0	-96,64,-36
+#Curtains1Up.2
+87.7	Block	0	-106,65,-46
+87.7	Block	0	-104,65,-44
+87.7	Block	0	-102,65,-42
+87.7	Block	0	-100,65,-40
+87.7	Block	0	-98,65,-38
+87.7	Block	0	-96,65,-36
+#Curtains1Up.3
+88.7	Block	0	-106,66,-46
+88.7	Block	0	-104,66,-44
+88.7	Block	0	-102,66,-42
+88.7	Block	0	-100,66,-40
+88.7	Block	0	-98,66,-38
+88.7	Block	0	-96,66,-36
+#Curtains1Up.4
+89.8	Block	0	-106,67,-46
+89.8	Block	0	-104,67,-44
+89.8	Block	0	-102,67,-42
+89.8	Block	0	-100,67,-40
+89.8	Block	0	-98,67,-38
+89.8	Block	0	-96,67,-36
+#Curtains1Up.5
+90.8	Block	0	-106,68,-46
+90.8	Block	0	-104,68,-44
+90.8	Block	0	-102,68,-42
+90.8	Block	0	-100,68,-40
+90.8	Block	0	-98,68,-38
+90.8	Block	0	-96,68,-36
+#Curtains1Up.6
+91.9	Block	0	-106,69,-46
+91.9	Block	0	-104,69,-44
+91.9	Block	0	-102,69,-42
+91.9	Block	0	-100,69,-40
+91.9	Block	0	-98,69,-38
+91.9	Block	0	-96,69,-36
+#Curtains1Up.6
+92.9	Block	0	-106,70,-46
+92.9	Block	0	-104,70,-44
+92.9	Block	0	-102,70,-42
+92.9	Block	0	-100,70,-40
+92.9	Block	0	-98,70,-38
+92.9	Block	0	-96,70,-36
+#Curtains2Up.1
+87.7	Block	0	-105,64,-45
+87.7	Block	0	-103,64,-43
+87.7	Block	0	-101,64,-41
+87.7	Block	0	-99,64,-39
+87.7	Block	0	-97,64,-37
+#Curtains2Up.2
+88.7	Block	0	-105,65,-45
+88.7	Block	0	-103,65,-43
+88.7	Block	0	-101,65,-41
+88.7	Block	0	-99,65,-39
+88.7	Block	0	-97,65,-37
+#Curtains2Up.3
+89.8	Block	0	-105,66,-45
+89.8	Block	0	-103,66,-43
+89.8	Block	0	-101,66,-41
+89.8	Block	0	-99,66,-39
+89.8	Block	0	-97,66,-37
+#Curtains2Up.4
+90.8	Block	0	-105,67,-45
+90.8	Block	0	-103,67,-43
+90.8	Block	0	-101,67,-41
+90.8	Block	0	-99,67,-39
+90.8	Block	0	-97,67,-37
+#Curtains2Up.5
+91.9	Block	0	-105,68,-45
+91.9	Block	0	-103,68,-43
+91.9	Block	0	-101,68,-41
+91.9	Block	0	-99,68,-39
+91.9	Block	0	-97,68,-37
+#Curtains2Up.6
+92.9	Block	0	-105,69,-45
+92.9	Block	0	-103,69,-43
+92.9	Block	0	-101,69,-41
+92.9	Block	0	-99,69,-39
+92.9	Block	0	-97,69,-37
+#CenterStageLightOn
+101.4	Block	95:8	-104,63,-38
+218.4	Block	95:8	-104,63,-38
+373.9	Block	95:8	-104,63,-38
+#CenterStageLightOff
+120.3	Block	159:0	-104,63,-38
+235.2	Block	159:0	-104,63,-38
+398.8	Block	159:0	-104,63,-38
+#RightStageLightOn
+162.1	Block	95:8	-99,63,-35
+327.7	Block	95:8	-99,63,-35
+#RightStageLightOff
+191.2	Block	159:0	-99,63,-35
+332.2	Block	159:0	-99,63,-35
+#LeftStageMidLightOn
+327.7	Block	95:8	-106,63,-40
+#LeftStageMidLightOff
+332.2	Block	159:0	-106,63,-40
+#CurtainLightsOn(4)
+120.3	Block	89	-100,74,-41
+120.3	Block	89	-101,74,-42
+120.3	Block	89	-96,72,-37
+120.3	Block	89	-105,72,-46
+191.2	Block	89	-100,74,-41
+191.2	Block	89	-101,74,-42
+191.2	Block	89	-96,72,-37
+191.2	Block	89	-105,72,-46
+235.2	Block	89	-100,74,-41
+235.2	Block	89	-101,74,-42
+235.2	Block	89	-96,72,-37
+235.2	Block	89	-105,72,-46
+332.5	Block	89	-100,74,-41
+332.5	Block	89	-101,74,-42
+332.5	Block	89	-96,72,-37
+332.5	Block	89	-105,72,-46
+421.4	Block	89	-100,74,-41
+421.4	Block	89	-101,74,-42
+421.4	Block	89	-96,72,-37
+421.4	Block	89	-105,72,-46
+477.8	Block	89	-100,74,-41
+477.8	Block	89	-101,74,-42
+477.8	Block	89	-96,72,-37
+477.8	Block	89	-105,72,-46
+489.1	Block	89	-100,74,-41
+489.1	Block	89	-101,74,-42
+489.1	Block	89	-96,72,-37
+489.1	Block	89	-105,72,-46
+721.3	Block	89	-100,74,-41
+721.3	Block	89	-101,74,-42
+721.3	Block	89	-96,72,-37
+721.3	Block	89	-105,72,-46
+1251	Block	89	-100,74,-41
+1251	Block	89	-101,74,-42
+1251	Block	89	-96,72,-37
+1251	Block	89	-105,72,-46
+#CurtainLightsOff(4)
+101.4	Block	123	-100,74,-41
+101.4	Block	123	-101,74,-42
+101.4	Block	123	-96,72,-37
+101.4	Block	123	-105,72,-46
+162.1	Block	123	-100,74,-41
+162.1	Block	123	-101,74,-42
+162.1	Block	123	-96,72,-37
+162.1	Block	123	-105,72,-46
+218.4	Block	123	-100,74,-41
+218.4	Block	123	-101,74,-42
+218.4	Block	123	-96,72,-37
+218.4	Block	123	-105,72,-46
+327.7	Block	123	-100,74,-41
+327.7	Block	123	-101,74,-42
+327.7	Block	123	-96,72,-37
+327.7	Block	123	-105,72,-46
+373.5	Block	123	-100,74,-41
+373.5	Block	123	-101,74,-42
+373.5	Block	123	-96,72,-37
+373.5	Block	123	-105,72,-46
+471.3	Block	123	-100,74,-41
+471.3	Block	123	-101,74,-42
+471.3	Block	123	-96,72,-37
+471.3	Block	123	-105,72,-46
+482.7	Block	123	-100,74,-41
+482.7	Block	123	-101,74,-42
+482.7	Block	123	-96,72,-37
+482.7	Block	123	-105,72,-46
+691.9	Block	123	-100,74,-41
+691.9	Block	123	-101,74,-42
+691.9	Block	123	-96,72,-37
+661.9	Block	123	-105,72,-46
+921	Block	123	-100,74,-41
+921	Block	123	-101,74,-42
+921	Block	123	-96,72,-37
+921	Block	123	-105,72,-46
+#BackCurainLightsOn(4)
+421.4	Block	89	-95,74,-45
+421.4	Block	89	-97,74,-47
+421.4	Block	89	-92,72,-42
+421.4	Block	89	-100,72,-50
+477.8	Block	89	-95,74,-45
+477.8	Block	89	-97,74,-47
+477.8	Block	89	-92,72,-42
+477.8	Block	89	-100,72,-50
+489.1	Block	89	-95,74,-45
+489.1	Block	89	-97,74,-47
+489.1	Block	89	-92,72,-42
+489.1	Block	89	-100,72,-50
+699.4	Block	89	-95,74,-45
+699.4	Block	89	-97,74,-47
+699.4	Block	89	-92,72,-42
+699.4	Block	89	-100,72,-50
+751.1	Block	89	-95,74,-45
+751.1	Block	89	-97,74,-47
+751.1	Block	89	-92,72,-42
+751.1	Block	89	-100,72,-50
+1363	Block	89	-95,74,-45
+1363	Block	89	-97,74,-47
+1363	Block	89	-92,72,-42
+1363	Block	89	-100,72,-50
+#BackCurainLightsOff(4)
+0	Block	123	-95,74,-45
+0	Block	123	-97,74,-47
+0	Block	123	-92,72,-42
+0	Block	123	-100,72,-50
+471.3	Block	123	-95,74,-45
+471.3	Block	123	-97,74,-47
+471.3	Block	123	-92,72,-42
+471.3	Block	123	-100,72,-50
+482.7	Block	123	-95,74,-45
+482.7	Block	123	-97,74,-47
+482.7	Block	123	-92,72,-42
+482.7	Block	123	-100,72,-50
+691.9	Block	123	-95,74,-45
+691.9	Block	123	-97,74,-47
+691.9	Block	123	-92,72,-42
+691.9	Block	123	-100,72,-50
+702	Block	123	-95,74,-45
+702	Block	123	-97,74,-47
+702	Block	123	-92,72,-42
+702	Block	123	-100,72,-50
+767.7	Block	123	-95,74,-45
+767.7	Block	123	-97,74,-47
+767.7	Block	123	-92,72,-42
+767.7	Block	123	-100,72,-50
+1466.6	Block	123	-95,74,-45
+1466.6	Block	123	-97,74,-47
+1466.6	Block	123	-92,72,-42
+1466.6	Block	123	-100,72,-50
+#MiddleGlowstoneByCurtainOn(2)
+477.8	Block	95:8	-105,63,-50
+477.8	Block	95:8	-92,63,-37
+489.1	Block	95:8	-105,63,-50
+489.1	Block	95:8	-92,63,-37
+#MiddleGlowstoneByCurtainOff(2)
+471.3	Block	159:0	-105,63,-50
+471.3	Block	159:0	-92,63,-37
+482.7	Block	159:0	-105,63,-50
+482.7	Block	159:0	-92,63,-37
+691.9	Block	159:0	-105,63,-50
+691.9	Block	159:0	-92,63,-37
+#Schematic
+398.5	Schematic	BatB-Village2	-104	64	-38	newhws	false
+398.8	Schematic	BatB-Sliding	-104	64	-38	newhws	false
+400.8	Schematic	BatB-Sliding2	-104	64	-38	newhws	false
+402.8	Schematic	BatB-Sliding3	-104	64	-38	newhws	false
+404.8	Schematic	BatB-Sliding4	-104	64	-38	newhws	false
+406.8	Schematic	BatB-Sliding5	-104	64	-38	newhws	false
+408.8	Schematic	BatB-Sliding6	-104	64	-38	newhws	false
+696.8	Schematic	BatB-Shelf1	-101	64	-50	newhws	false
+696.8	Schematic	BatB-Shelf2	-92	64	-41	newhws	false
+751.1	Schematic	BatB-Rose	-104	64	-38	newhws	false
+918.2	Schematic	BatB-Sliding.1	-104	64	-38	newhws	true
+920.9	Schematic	BatB-Sliding.2	-104	64	-38	newhws	true
+923.6	Schematic	BatB-Sliding.3	-104	64	-38	newhws	false
+923.9	Schematic	BatB-Castle	-104	64	-38	newhws	true
+1244.7	Schematic	BatB-Sliding.3	-104	64	-38	newhws	false
+1245	Schematic	BatB-Sliding.4	-104	64	-38	newhws	false
+1248	Schematic	BatB-Sliding.5	-104	64	-38	newhws	false
+1251	Schematic	BatB-Sliding.6	-104	64	-38	newhws	false
+1363	Schematic	BatB-Curtain	-104	64	-38	newhws	false
+1481.6	Schematic	BatB-Village	-104	64	-38	newhws	false
+#CurtainsClosing
+1460.6	Block	35:14	-106,70,-46
+1460.6	Block	35:14	-104,70,-44
+1460.6	Block	35:14	-102,70,-42
+1460.6	Block	35:14	-100,70,-40
+1460.6	Block	35:14	-98,70,-38
+1460.6	Block	35:14	-96,70,-36
+#
+1461.6	Block	35:14	-106,69,-46
+1461.6	Block	35:14	-104,69,-44
+1461.6	Block	35:14	-102,69,-42
+1461.6	Block	35:14	-100,69,-40
+1461.6	Block	35:14	-98,69,-38
+1461.6	Block	35:14	-96,69,-36
+#
+1462.6	Block	159:14	-106,68,-46
+1462.6	Block	159:14	-104,68,-44
+1462.6	Block	159:14	-102,68,-42
+1462.6	Block	159:14	-100,68,-40
+1462.6	Block	159:14	-98,68,-38
+1462.6	Block	159:14	-96,68,-36
+#
+1463.6	Block	159:14	-106,67,-46
+1463.6	Block	159:14	-104,67,-44
+1463.6	Block	159:14	-102,67,-42
+1463.6	Block	159:14	-100,67,-40
+1463.6	Block	159:14	-98,67,-38
+1463.6	Block	159:14	-96,67,-36
+#
+1464.6	Block	35:14	-106,66,-46
+1464.6	Block	35:14	-104,66,-44
+1464.6	Block	35:14	-102,66,-42
+1464.6	Block	35:14	-100,66,-40
+1464.6	Block	35:14	-98,66,-38
+1464.6	Block	35:14	-96,66,-36
+#
+1465.6	Block	35:14	-106,65,-46
+1465.6	Block	35:14	-104,65,-44
+1465.6	Block	35:14	-102,65,-42
+1465.6	Block	35:14	-100,65,-40
+1465.6	Block	35:14	-98,65,-38
+1465.6	Block	35:14	-96,65,-36
+#
+1466.6	Block	159:14	-106,64,-46
+1466.6	Block	159:14	-104,64,-44
+1466.6	Block	159:14	-102,64,-42
+1466.6	Block	159:14	-100,64,-40
+1466.6	Block	159:14	-98,64,-38
+1466.6	Block	159:14	-96,64,-36
+#EarlyClose
+1460.6	Block	159:14	-105,69,-45
+1460.6	Block	159:14	-103,69,-43
+1460.6	Block	159:14	-101,69,-41
+1460.6	Block	159:14	-99,69,-39
+1460.6	Block	159:14	-97,69,-37
+#
+1461.6	Block	35:14	-105,68,-45
+1461.6	Block	35:14	-103,68,-43
+1461.6	Block	35:14	-101,68,-41
+1461.6	Block	35:14	-99,68,-39
+1461.6	Block	35:14	-97,68,-37
+#
+1462.6	Block	35:14	-105,67,-45
+1462.6	Block	35:14	-103,67,-43
+1462.6	Block	35:14	-101,67,-41
+1462.6	Block	35:14	-99,67,-39
+1462.6	Block	35:14	-97,67,-37
+#
+1463.6	Block	159:14	-105,66,-45
+1463.6	Block	159:14	-103,66,-43
+1463.6	Block	159:14	-101,66,-41
+1463.6	Block	159:14	-99,66,-39
+1463.6	Block	159:14	-97,66,-37
+#
+1464.6	Block	159:14	-105,65,-45
+1464.6	Block	159:14	-103,65,-43
+1464.6	Block	159:14	-101,65,-41
+1464.6	Block	159:14	-99,65,-39
+1464.6	Block	159:14	-97,65,-37
+#
+1465.6	Block	35:14	-105,64,-45
+1465.6	Block	35:14	-103,64,-43
+1465.6	Block	35:14	-101,64,-41
+1465.6	Block	35:14	-99,64,-39
+1465.6	Block	35:14	-97,64,-37
+#Shelf.1
+699.4	Block	0	-102,69,-51
+699.4	Block	0	-102,68,-51
+699.4	Block	0	-101,68,-51
+699.4	Block	0	-102,67,-51
+699.4	Block	0	-101,67,-51
+699.4	Block	0	-102,66,-51
+699.4	Block	0	-101,66,-51
+699.4	Block	0	-102,65,-51
+699.4	Block	0	-101,65,-51
+699.4	Block	0	-102,64,-51
+699.4	Block	0	-101,64,-51
+#Shelf.2
+699.4	Block	0	-91,69,-40
+699.4	Block	0	-91,68,-40
+699.4	Block	0	-91,68,-41
+699.4	Block	0	-91,67,-40
+699.4	Block	0	-91,67,-41
+699.4	Block	0	-91,66,-40
+699.4	Block	0	-91,66,-41
+699.4	Block	0	-91,65,-40
+699.4	Block	0	-91,65,-41
+699.4	Block	0	-91,64,-40
+699.4	Block	0	-91,64,-41

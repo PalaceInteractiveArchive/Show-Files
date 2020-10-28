@@ -1,0 +1,134 @@
+#Show Started January 16th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths11
+5	AudioSync	flaths11	5
+10	AudioSync	flaths11	10
+30	AudioSync	flaths11	30
+60	AudioSync	flaths11	60
+120	AudioSync	flaths11	120
+170	AudioSync	flaths11	170
+190	AudioSync	flaths11	190
+#S11 In summer
+0.2	Text	&f[&3Kristoff&f] &7Are you okay?
+1.6	Text	&f[&dAnna&f] &7Yeah, I’m alright, thank you.
+6.4	Text	&7How’s your head?
+9.5	Text	&f[&3Kristoff&f] &7It’s good, I’m fine.
+10.1	Text	&f[&dAnna&f] &7Yeah?
+11.3	Text	&7Ah!
+14.7	Text	&7I’ve got a thick skull... so.... yeah.
+21.5	Text	&f[&9Olaf&f] &7I don’t have a skull.
+23.8	Text	&7Or bones.
+24.8	Text	&f[&dAnna&f] &7Where did you come from?
+26.3	Text	&f[&9Olaf&f] &7Hi, I’m Olaf, and I like warm hugs!
+30.3	Text	&f[&3Kristoff&f] &7Olaf?
+31.2	Text	&f[&dAnna&f] &7That’s right, Olaf!
+33.5	Text	&7Did Elsa build you?
+35	Text	&f[&9Olaf&f] &7Yeah, why?
+35.9	Text	&f[&dAnna&f] &7Do you know where she is?
+37.1	Text	&f[&9Olaf&f] &7Yeah, why?
+38	Text	&f[&dAnna&f] &7Do you think you could show us the way?
+39.7	Text	&f[&9Olaf&f] &7Yeah... why?
+43.1	Text	&f[&dAnna&f] &7I’ll tell you why.
+44.2	Text	&7We need Elsa to bring back summer.
+46.4	Text	&f[&9Olaf&f] &7Ooh, summer.
+49.3	Text	&7Oh I don’t know why, but I’ve always loved the idea of
+53.8	Text	&7summer, and sun, and all things hot.
+58	Text	&f[&3Kristoff&f] &7Really?
+59.1	Text	&7I’m guessing you don’t have much experience with heat.
+62.6	Text	&f[&9Olaf&f] &7Nope!
+63.6	Text	&7But sometimes, I like to close my eyes and imagine what it would be like when summer does come!
+69.7	Text	&7Ahhh...
+72.2	Text	&9Bees will buzz,
+74.3	Text	&9kids’ll blow dandelion fuzz,
+76.4	Text	&9and I’ll be doing whatever snow does in summer...
+82.9	Text	&9A drink,
+83.9	Text	&9in my hand,
+85	Text	&9my snow up against the burning sand.
+87.6	Text	&9Prob’ly getting gorgeously tanned in summer.
+91.8	Text	&9I’ll finally see a summer breeze,
+93.9	Text	&9blow away a winter storm.
+96.1	Text	&9And find out what happens to solid water when it gets warm...
+102.6	Text	&9And I can’t,
+103.6	Text	&9wait to see,
+104.6	Text	&9what my buddies all think of me.
+107.1	Text	&9Just imagine how much cooler I’ll be in summer!
+121.4	Text	&eSummer!
+127.1	Text	&6Summer!
+127.6	Text	&eSummer!
+128.1	Text	&6Summer!
+128.9	Text	&e&lSummer!
+131.3	Text	&9Dah dah,
+132.4	Text	&9da doo,
+133.7	Text 	&9uh bah bah bah bah bah boo.
+135.6	Text	&9The hot and the cold are both so intense,
+138.1	Text	&9put ‘em together it just makes sense!
+139.7	Text	&9Rrr Raht da daht dah dah dah dah dah dah dah dah doo.
+144.7	Text	&9Winter’s a good time to stay in and cuddle,
+146.6	Text	&9but put me in summer, and I’ll be a -
+150.7	Text	&9Happy snowman!
+154.1	Text	&9When life gets rough, I like to hold on to my dream,
+157.9	Text	&9of relaxing in the summer sun,
+160.2	Text	&9just lettin’ off steam... 
+166.6	Text	&9Oh the sky,
+168.3	Text	&9will be blue, 
+170.2	Text	&9and you guys will be there too!
+174.5	Text	&9When I finally do what frozen things do in summer!
+179.8	Text	&f[&3Kristoff&f] &7I’m gonna tell him.
+180.6	Text	&f[&dAnna&f] &7Don’t you dare!
+182.8	Text	&f[&9Olaf&f] &9IN SUMMER!!!
+#Schematics
+0	Schematic	FLatHS10.10	439	62	68	newhws	false
+69.7	Schematic	FLatHS11.1	439	62	68	newhws	false
+70.7	Schematic	FLatHS11.2	439	62	68	newhws	false
+71.7	Schematic	FLatHS11.3	439	62	68	newhws	false
+126.6	Schematic	FLatHS11.4	439	62	68	newhws	false
+127.1	Schematic	FLatHS11.5	439	62	68	newhws	false
+127.6	Schematic	FLatHS11.6	439	62	68	newhws	false
+128.1	Schematic	FLatHS11.7	439	62	68	newhws	false
+128.9	Schematic	FLatHS11.8	439	62	68	newhws	false
+131.3	Schematic	FLatHS11.3	439	62	68	newhws	false
+148.6	Schematic	FLatHS11.9	439	62	68	newhws	false
+154.1	Schematic	FLatHS11.3	439	62	68	newhws	false
+185.4	Schematic	FLatHS11.2	439	62	68	newhws	false
+187.2	Schematic	FLatHS11.1	439	62	68	newhws	false
+189	Schematic	FLatHS11.10	439	62	68	newhws	false
+#Banners
+127.2	Block	152	464,89,100
+127.7	Block	152	464,89,99
+128.2	Block	152	464,89,98
+129	Block	152	464,89,97
+129.6	Block	0	465,71,75
+129.6	Block	0	465,71,76
+129.6	Block	0	465,71,77
+129.6	Block	0	465,71,78
+129.6	Block	0	465,71,79
+129.6	Block	0	465,71,80
+129.6	Block	0	466,71,75
+129.6	Block	0	466,71,76
+129.6	Block	0	466,71,77
+129.6	Block	0	466,71,78
+129.6	Block	0	466,71,79
+129.6	Block	0	466,71,80
+#MoveCurtainDown
+191.0	Block	152	452,89,102
+191.5	Block	152	453,89,102
+192.0	Block	152	454,89,102
+192.5	Block	152	455,89,102
+193.0	Block	152	456,89,102
+193.5	Block	152	457,89,102
+194.0	Block	152	458,89,102
+194.5	Block	152	459,89,102
+195.0	Block	152	460,89,102
+195.5	Block	152	461,89,102
+196.0	Block	152	462,89,102
+#BackstageDoors
+#BackStageDoorsOpen
+192	Block	76	445,62,104
+192	Block	76	445,62,103
+192	Block	76	444,62,64
+192	Block	76	444,62,63
+#Snow
+196	Block	152	465,88,68

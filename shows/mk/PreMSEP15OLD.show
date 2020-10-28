@@ -1,0 +1,33 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+#Mainstreet/Show start
+0	Block	152	-102,50,-1405
+1	Block	20	-102,50,-1405
+900	Block	152	-113,48,-1411
+#Time system
+0	Block	35	-122,53,-1400
+900	Block	152	-123,53,-1401
+901	Block	20	-123,53,-1401
+#Text
+0	Text	&6Ladies and gentlemen boys and girls, in just &c15 Minutes&6, &dThe Palace Network &6will proudly present &eDisney`s &cM&6a&ei&an&2s&9t&dr&5e&ce&6t &eE&al&2e&9c&dt&5r&ci&6c&ea&al &2P&9a&dr&5a&cd&6e&e! &6at /warp mainstreet.
+300	Text	&6Ladies and gentlemen, boys and girls, in just &c10 Minutes&6, &dThe Palace Network &6will proudly present &eDisney`s &cM&6a&ei&an&2s&9t&dr&5e&ce&6t &eE&al&2e&9c&dt&5r&ci&6c&ea&al &2P&9a&dr&5a&cd&6e&e! &6at /warp mainstreet.
+300	Block	152	-129,46,-1412
+600	Text	&6Ladies and gentlemen, boys and girls, in just &c5 Minutes&6, &dThe Palace Network &6will proudly present &eDisney`s &cM&6a&ei&an&2s&9t&dr&5e&ce&6t &eE&al&2e&9c&dt&5r&ci&6c&ea&al &2P&9a&dr&5a&cd&6e&e! &6at /warp mainstreet.
+600	Block	152	-129,46,-1411
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+660	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+720	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+780	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+840	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+880	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-129,46,-1413
+270	Block	152	-129,46,-1414
+570	Block	152	-129,46,-1415
+750	Block	152	-129,46,-1416

@@ -1,0 +1,130 @@
+Show	Location	-424,45,-1598
+Show	TextRadius	300
+Show	Name	splm
+
+##Audio
+0	AudioStart	splmopen
+
+##Fountains
+0   Fountain    95:3    0.8 -428,46,-1595   0,0.5,-0.5
+1.5 Fountain    95:3    0.8 -428,46,-1601   0,0.5,0.5
+
+#My oh My
+3.5 Fountain    95:3    2.5 -429.5,45,-1598.5   0,0.5,0
+3.7 Fountain    95:3    2.3 -430.5,45,-1595.5   0,0.5,0
+3.7 Fountain    95:3    2.3 -430.5,45,-1601.5   0,0.5,0
+
+4.0 Fountain    95:3    2.0 -432.5,45,-1598.5   0,1,0
+4.0 Fountain    95:3    2.0 -433.5,45,-1600.5   0,1,0
+4.0 Fountain    95:3    2.0 -433.5,45,-1596.5   0,1,0
+4.0 Fountain    95:3    2.0 -435.5,45,-1594.5   0,1,0
+4.0 Fountain    95:3    2.0 -435.5,45,-1602.5   0,1,0
+
+#Plenty of Sunshine
+7   Fountain    95:3    1.0 -428,46,-1595   0,0.5,-0.5
+9.0 Fountain    95:3    1.0 -428,46,-1601   0,0.5,0.5
+
+#Zip-Ade-Do Dah
+10.5    Fountain    95:3    0.2 -435.5,45,-1602.5   0,1,0
+10.8    Fountain    95:3    0.2 -433.5,45,-1600.5   0,1,0
+11.2    Fountain    95:3    0.2 -432.5,45,-1598.5   0,1,0
+11.4    Fountain    95:3    0.2 -433.5,45,-1596.5   0,1,0
+11.6    Fountain    95:3    0.2 -435.5,45,-1594.5   0,1,0
+
+12.1    Fountain    95:3    0.2 -433.5,45,-1596.5   0,1,0
+12.2    Fountain    95:3    0.2 -432.5,45,-1598.5   0,1,0
+12.3    Fountain    95:3    0.2 -433.5,45,-1600.5   0,1,0
+12.4    Fountain    95:3    0.2 -435.5,45,-1602.5   0,1,0
+
+#7 second long fountains. begin at 14 seconds
+14.0    Fountain    95:3    7.0 -427.5,45,-1594.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -430.5,45,-1595.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -429.5,45,-1598.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -427.5,45,-1600.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -430.5,45,-1601.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -432.5,45,-1598.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -433.5,45,-1600.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -433.5,45,-1596.5   0,0.4,0
+14.0    Fountain    95:3    7.0 -435.5,45,-1603.5   0,0.4,0
+
+#Rainbow (these don't go do 45 y)
+14.0    Fountain    95:3    1.0 -434.5,46,-1583.5   0,1,-1
+15.0    Fountain    95:14   1.0 -434.5,46,-1583.5   0,1,-1
+16.0    Fountain    95:1    1.0 -434.5,46,-1583.5   0,1,-1
+17.0    Fountain    95:4    1.0 -434.5,46,-1583.5   0,1,-1
+18.0    Fountain    95:5    1.0 -434.5,46,-1583.5   0,1,-1
+19.0    Fountain    95:10   1.0 -434.5,46,-1583.5   0,1,-1
+
+#Ending
+22.5    Fountain    95:3    2.5 -432.5,45,-1598.5   0,0.5,0
+22.5    Fountain    95:3    2.5 -433.5,45,-1600.5   0,0.5,0
+22.5    Fountain    95:3    2.5 -433.5,45,-1596.5   0,0.5,0
+22.5    Fountain    95:3    2.5 -435.5,45,-1594.5   0,0.5,0
+22.5    Fountain    95:3    2.5 -435.5,45,-1602.5   0,0.5,0
+
+
+###FIREWORKS
+
+#Effects    
+Effect  b1  BURST,YELLOW,ORANGE,FLICKER,TRAIL
+Effect  b2  BALL_LARGE,YELLOW,ORANGE,FLICKER,TRAIL
+Effect  b3  BURST,BLUE,AQUA,TEAL,FLICKER,TRAIL
+
+#FW
+22.6    PowerFirework   -465,70,-1598   b1  0,2,1
+22.7    PowerFirework   -465,70,-1598   b1  0,2,0
+22.8    PowerFirework   -465,70,-1598   b1  0,2,-1
+22.9    PowerFirework   -465,70,-1598   b1  0,2,-2
+23.1    PowerFirework   -465,70,-1598   b1  0,2,-1
+23.2    PowerFirework   -465,70,-1598   b1  0,2,0
+23.3    PowerFirework   -465,70,-1598   b1  0,2,1
+23.4    PowerFirework   -465,70,-1598   b1  0,2,2
+23.5    PowerFirework   -465,70,-1598   b1  0,2,1
+23.5    PowerFirework   -465,70,-1598   b1  0,2,0
+23.6    PowerFirework   -465,70,-1598   b1  0,2,-1
+23.7    PowerFirework   -465,70,-1598   b1  0,2,-2
+23.8    PowerFirework   -465,70,-1598   b1  0,2,-1
+23.9    PowerFirework   -465,70,-1598   b1  0,2,0
+24.0    PowerFirework   -465,70,-1598   b1  0,2,1
+
+25.5    PowerFirework   -465,70,-1598   b1  0,2,2
+25.5    PowerFirework   -465,70,-1598   b1  0,2,1
+25.5    PowerFirework   -465,70,-1598   b1  0,2,0
+25.5    PowerFirework   -465,70,-1598   b1  0,2,-1
+25.5    PowerFirework   -465,70,-1598   b1  0,2,-2
+
+#Last bang
+25.5    PowerFirework   -464,66,-1608   b2  0,0,0
+25.5    PowerFirework   -447,55,-1612   b2  0,0,0
+25.5    PowerFirework   -436,57,-1619   b2  0,0,0
+25.5    PowerFirework   -475,64,-1584   b2  0,0,0
+25.5    PowerFirework   -435,52,-1584   b2  0,0,0
+
+
+25.5    PowerFirework   -469,76,-1598   b3  0,2,-2
+25.5    PowerFirework   -469,76,-1598   b3  0,2,-1
+25.5    PowerFirework   -469,76,-1598   b3  0,2,0
+25.5    PowerFirework   -469,76,-1598   b3  0,2,1
+25.5    PowerFirework   -469,76,-1598   b3  0,2,2
+
+#Beacons 
+25.0    Block   0   -478,66,-1601
+25.0    Block   0   -478,66,-1600
+25.0    Block   0   -478,66,-1599
+25.0    Block   0   -478,66,-1598
+25.0    Block   0   -478,66,-1597
+25.0    Block   0   -478,66,-1596
+25.0    Block   0   -478,66,-1595
+
+
+40.5    Block   1   -478,66,-1601
+40.5    Block   1   -478,66,-1600
+40.5    Block   1   -478,66,-1599
+40.5    Block   1   -478,66,-1598
+40.5    Block   1   -478,66,-1597
+40.5    Block   1   -478,66,-1596
+40.5    Block   1   -478,66,-1595
+
+#Chat
+27  Block   152 -409,42,-1564
+28  Block   152 -400,46,-1563

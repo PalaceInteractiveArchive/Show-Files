@@ -1,0 +1,7 @@
+﻿Show	Location	205,2,2593
+Show	TextRadius	20
+#Door
+0	Sequence	Build	msdoor
+0	Schematic	msdoor1	205	2	2593	epcot	false
+#DoorOpen
+3	Schematic	msdoor2	205	2	2593	epcot	false

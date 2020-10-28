@@ -1,0 +1,58 @@
+Show	Location	-90,44,-1550
+Show	TextRadius	5000
+Show	Name	Castle
+
+#Resume Harold
+0   Block   0   -90,35,-1328
+
+#Fences
+0   Block   152 -81,28,-1611
+
+#Audio
+0   AudioStart	nss-post
+2   AudioSync	nss-post 2
+10	AudioSync	nss-post	10
+15  AudioSync	nss-post	15
+30	AudioSync	nss-post	30
+60	AudioSync	nss-post	60
+120	AudioSync	nss-post	120
+180	AudioSync	nss-post	180
+
+#Text
+2.0 Text    &6[&eGhost Host&6] &eThe happy haunts want to thank you for..
+4.7 Text    &ehanging around,
+6.2 Text    &ewhile we scared up a little Halloween fun. 
+9.8 Text    &eWe do hope you drop in again, 
+13.3    Text    &efor another spook-tacular celebration. 
+17.2    Text    &eHappy HaloWishes everyone! Muahaha.
+20.0    Text    &6Credits:
+21.0    Text    &6Plugin- &dPalace Dev Team
+23.0    Text    &6Event Director: &dpinkiness
+24.0    Text    &6Event Technical Director: &dcreatorforparks
+26.0    Text    &e&o&lHappy Halloween! 
+
+#Chat
+26.7    Block   152 -87,28,-1611
+
+#Money
+0   Block   152 -84,28,-1611
+
+#Time
+26.7    Block   152 -103,29,-1611
+
+#Lights
+26.7    Block   89  -90,54,-1620
+26.7    Block   89  -90,44,-1619
+26.7    Block   89  -84,43,-1597
+26.7    Block   89  -96,43,-1597
+
+26.7    Block   152 -96,30,-1611
+26.7    Block   152 -99,28,-1611
+26.7    Block   152 -93,28,-1611
+26.7    Block   152 -89,28,-1611
+
+
+#End
+
+150 Block   152 -170,17,-1397
+

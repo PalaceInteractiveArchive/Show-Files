@@ -1,0 +1,4974 @@
+﻿Show	Location	-79,63,2986
+Show	TextRadius	100
+Show	Name	IROE
+#1137.7 18:58 31:02-10
+1	AudioStart	iroeny
+1	AudioSync	iroeny	0
+3	AudioSync	iroeny	2
+6	AudioSync	iroeny	5
+16	AudioSync	iroeny	15
+31	AudioSync	iroeny	30
+61	AudioSync	iroeny	60
+121	AudioSync	iroeny	120
+181	AudioSync	iroeny	180
+241	AudioSync	iroeny	240
+301	AudioSync	iroeny	300
+361	AudioSync	iroeny	360
+421	AudioSync	iroeny	420
+481	AudioSync	iroeny	480
+#Effects Barges 1>8
+#Japan8
+Effect	j1	BURST,RED&FUCHSIA
+Effect	j2	BURST,LIME
+Effect	j3	BURST,WHITE
+Effect	j4	BALL,RED
+Effect	j5	BALL,YELLOW&WHITE&ORANGE,TRAIL
+Effect	j6	BURST,WHITE,ORANGE&YELLOW,TRAIL
+Effect	j7	BURST,WHITE,TRAIL
+Effect	j8	BURST,RED&FUCHSIA,ORANGE&YELLOW,TRAIL
+#China7
+Effect	c1	BURST,WHITE&YELLOW
+Effect	c2	BURST,YELLOW
+Effect	c3	BURST,FUCHSIA,FLICKER
+Effect	c4	BALL,SILVER&FUCHSIA,FLICKER
+Effect	c5	BALL,WHITE&YELLOW
+Effect	c6	BURST,WHITE&FUCHSIA,FLICKER
+Effect	c7	BALL,FUCHSIA&AQUA,FLICKER
+Effect	c8	BURST,RED,TRAIL
+Effect	c9	BURST,YELLOW,TRAIL
+#Italy1
+Effect	i0	BURST,FUCHSIA
+Effect	i1	BALL,WHITE&SILVER,FLICKER
+Effect	i2	BALL,WHITE&SILVER&LIME,FLICKER
+Effect	i3	BURST,SILVER,FLICKER,TRAIL
+Effect	i4	BURST,WHITE,0;0;0
+Effect	i5	BURST,YELLOW&ORANGE,0;0;0
+Effect	i6	BALL,WHITE&RED
+#Norway2
+Effect	n1	BALL,WHITE,FUCHSIA,FLICKER
+Effect	n2	BALL,BLUE&AQUA
+Effect	n3	BALL,ORANGE,ORANGE&YELLOW,TRAIL
+Effect	n4	BURST,ORANGE&RED
+Effect	n5	BURST,FUCHSIA&PURPLE&WHITE
+Effect	n6	BALL,YELLOW&WHITE
+Effect	n7	BURST,BLUE&AQUA&WHITE,TRAIL
+Effect	n8	BALL,0;0;0,ORANGE&YELLOW,TRAIL
+#France3
+Effect	f1	BURST,RED,ORANGE&YELLOW,TRAIL
+Effect	f2	BURST,LIME,ORANGE&YELLOW,TRAIL
+Effect	f3	BURST,FUCHSIA&PURPLE,ORANGE&YELLOW,TRAIL
+Effect	f4	BURST,BLUE,SILVER&YELLOW&WHITE,TRAIL
+Effect	f5	BURST,RED,SILVER&ORANGE&YELLOW,TRAIL
+Effect	f6	BURST,SILVER&ORANGE&YELLOW,TRAIL
+Effect	f7	BALL,RED&BLUE&SILVER,FLICKER
+Effect	f8	BURST,YELLOW&SILVER&WHITE,FLICKER,TRAIL
+#Germany4
+Effect	g1	BURST,ORANGE&YELLOW,TRAIL,FLICKER
+Effect	g2	BALL,YELLOW&SILVER,FLICKER
+Effect	g3	STAR,YELLOW&ORANGE,FLICKER
+#Morocco6
+Effect	m1	CREEPER,LIME
+Effect	m2	CREEPER,FUCHSIA&RED
+Effect	m3	BURST,SILVER&WHITE,SILVER,FLICKER,TRAIL
+Effect	m4	BURST,FUCHSIA&LIME,SILVER&YELLOW,TRAIL
+Effect	m5	BALL,LIME
+#UK5
+Effect	u1	BURST,BLUE&AQUA,YELLOW&ORANGE&SILVER,TRAIL
+Effect	u2	BURST,RED&FUCHSIA,YELLOW&ORANGE&SILVER,TRAIL
+Effect	u3	BURST,WHITE,YELLOW&ORANGE&SILVER,TRAIL
+Effect	u4	STAR,BLUE,WHITE
+Effect	u5	STAR,ORANGE&YELLOW&WHITE,TRAIL
+Effect	u6	STAR,FUCHSIA&RED
+Effect	u7	BURST,BLUE
+Effect	u8	BURST,RED
+#Count/Auld
+Effect	cd1	BURST,WHITE&YELLOW&WHITE,ORANGE&YELLOW,FLICKER
+Effect	cd2	BURST,0;0;0
+Effect	a1	BALL_LARGE,RED&AQUA&SILVER
+Effect	a2	BALL,WHITE&ORANGE&YELLOW
+Effect	a3	BALL_LARGE,ORANGE&BLUE
+Effect	a4	STAR,0;0;0,WHITE
+Effect	a5	BURST,BLUE&AQUA,WHITE,FLICKER,TRAIL
+Effect	a6	BALL_LARGE,ORANGE&YELLOW,RED&WHITE
+Effect	a7	CREEPER,SILVER,TRAIL,FLICKER
+Effect	a8	BALL_LARGE,BLUE&AQUA
+Effect	a9	BURST,MAROON&PURPLE&FUCHSIA,ORANGE&YELLOW&WHITE,TRAIL
+Effect	a10	BALL_LARGE,LIME,WHITE
+Effect	a11	BURST,MAROON&PURPLE&FUCHSIA
+Effect	a12	BALL_LARGE,FUCHSIA&PURPLE
+Effect	a13	BALL_LARGE,WHITE
+Effect	a14	BURST,YELLOW
+Effect	a15	BALL_LARGE,WHITE&YELLOW,FLICKER
+Effect	a16	BALL_LARGE,0;0;0,WHITE
+Effect	a17	BURST,WHITE&FUCHSIA,WHITE&ORANGE&YELLOW,TRAIL,FLICKER
+Effect	a18	STAR,30;30;30,WHITE,TRAIL,FLICKER
+Effect	a19	STAR,FUCHSIA&ORANGE
+Effect	a20	STAR,LIME&GREEN
+Effect	a21	CREEPER,WHITE
+Effect	a22	CREEPER,RED
+Effect	a23	BALL_LARGE,RED&MAROON,FLICKER
+Effect	a24	BALL_LARGE,YELLOW
+Effect	a25	BALL_LARGE,0;0;0,ORANGE&YELLOW,FLICKER
+Effect	a26	BALL_LARGE,WHITE,FLICKER
+#Musics
+1	Block	152	-102,37,3013
+2	Block	20	-102,37,3013
+493	Block	152	-105,37,3000
+493	Block	20	-105,37,3000
+#Visual Indicator
+1	Block	35:15	-89,60,2981
+1	Block	152	-88,60,2981
+493	Block	35:15	-88,60,2981
+493	Block	152	-89,60,2981
+#Text
+4.5	Text	&ELadies and gentlemen, boys and girls,
+7	Text	&EWelcome to our &BNew Years Eve Countdown!
+10.4	Text	&EAs we await the approach of midnight here in the United States, Canada, and Mexico,
+14.8	Text	&EWe should note that many of our World Showcase friends have already greeted the New Year!
+20.0	Text	&EAt 10 AM this morning, Japan welcomed the first day of the New Year!
+24.3	Text	&EAnd one hour later, China celebrated the New Year!
+27	Text	&ELet's celebrate with them now!
+29.9	Text	&d明けましておめでとうございます！
+65.6	Text	&d我們祝你新年快樂！
+95.4	Text	&EAt 6 PM, the countries of Italy, Norway, France and Germany toasted the New Year!
+102.0	Text	&EPlease join us in saluting our friends across the sea!
+105.7	Text	&dFelice anno nuovo tutti!
+144.1	Text	&dGodt Nyttår alle sammen!
+171.2	Text	&dBonne année à tous!
+200	Text	&dAllen ein frohes neues Jahr!
+238.3	Text	&EAnd barely five hours ago,
+239.8	Text	&EOur friends in Morocco and the United Kingdom shouted a rousing cheer!
+245.5	Text	&dسنة سعيدة
+278.1	Text	&EAnd now, the United Kingdom's Happy New Year!
+317.5	Text	&ELadies and gentlemen, boys and girls, now it's our turn!
+322.2	Text	&EThe moment has arrived!
+323.7	Text	&ELet us count down together to greet the New Year!
+329.7	Text	&FTen!
+331.9	Text	&FNine!
+334	Text	&FEight!
+336.1	Text	&FSeven!
+338.1	Text	&FSix!
+340.2	Text	&FFive!
+342.3	Text	&FFour!
+344.4	Text	&FThree!
+346.6	Text	&FTwo!
+348.4	Text	&FOne!
+#329.7	Title	title	4	4	36	&910
+#331.9	Title	title	4	4	32	&99
+#334	Title	title	4	4	32	&98
+#336.1	Title	title	4	4	32	&97
+#338.1	Title	title	4	4	34	&96
+#340.2	Title	title	4	4	34	&95
+#342.3	Title	title	4	4	34	&94
+#344.4	Title	title	4	4	36	&93
+#346.6	Title	title	4	4	28	&92
+#348.4	Title	title	4	4	30	&91
+#350.3	Title	title	4	4	78	&6Happy New Year!
+367.5	Text	&BShould auld acquaintance be forgot
+374.5	Text	&BAnd never brought to mind
+381.3	Text	&BShould auld acquaintance be forgot
+388.4	Text	&BAnd days of auld lang syne 
+395.6	Text	&BFor auld lang syne, my dear
+402.6	Text	&BFor auld lang syne
+410.1	Text	&BWe'll take a cup of kindness yet
+417.5	Text	&BFor auld lang syne
+425.5	Text	&BFor auld lang syne, my dear
+433.1	Text	&BFor auld lang syne
+440.6	Text	&BWe'll take a cup of kindness yet
+448.4	Text	&BFor auld lang syne
+456.2	Text	&BFor auld lang syne, my dear
+462.8	Text	&BFor auld lang syne
+476.1	Text	&BFor auld lang syne
+#Torches/Lights
+0	Block	20	-105,42,3002
+0	Block	152	-105,43,3002
+350.4	Block	152	-105,41,3002
+350.4	Block	152	-105,42,3002
+29.9	Block	89	-101,61,3002
+65.6	Block	89	-96,61,3006
+245.5	Block	89	-92,61,3014
+282.3	Block	89	-83,61,3010
+200	Block	89	-76,61,3010
+171.2	Block	89	-67,61,3014
+144.1	Block	89	-63,61,3006
+105.7	Block	89	-58,61,3002
+63.5	Block	20	-101,61,3002
+94.2	Block	20	-96,61,3006
+278.7	Block	20	-92,61,3014
+315.6	Block	20	-83,61,3010
+238.5	Block	20	-76,61,3010
+199.4	Block	20	-67,61,3014
+170.5	Block	20	-63,61,3006
+123.9	Block	20	-58,61,3002
+#Fireworks JAPAN first
+34.8	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+34.8	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+35.2	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+35.2	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+35.6	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+35.6	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+36	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+36	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+36.4	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+36.4	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+36.8	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+36.8	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+37.2	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+37.2	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+37.6	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+37.6	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+38	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+38	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+38.4	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+38.4	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+38.8	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+38.8	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+39.2	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+39.2	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+39.6	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+39.6	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+40	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+40	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+40.4	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+40.4	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+41.8	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+41.8	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+42.2	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+42.2	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+42.6	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+42.6	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+43	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+43	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+43.4	PowerFirework	-101,62,3002	j2	3.54,3.54,0
+43.4	PowerFirework	-101,62,3002	j2	-3.54,3.54,0
+43.8	PowerFirework	-101,62,3002	j3	3.54,3.54,0
+43.8	PowerFirework	-101,62,3002	j3	-3.54,3.54,0
+44.2	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+44.2	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+44.6	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+44.6	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+45	PowerFirework	-101,62,3002	j1	3.54,3.54,0
+45	PowerFirework	-101,62,3002	j1	-3.54,3.54,0
+34.8	PowerFirework	-101,62,3002	j6	0,4,0
+36.7	PowerFirework	-101,62,3002	j6	0,4,0
+38.7	PowerFirework	-101,62,3002	j6	0,4,0
+40.6	PowerFirework	-101,62,3002	j6	0,4,0
+42.3	PowerFirework	-101,62,3002	j6	0,4,0
+44.3	PowerFirework	-101,62,3002	j6	0,4,0
+46.2	PowerFirework	-100,62,3002	j8	-3.54,3.54,0
+46.5	PowerFirework	-100,62,3002	j6	-1.29,4.83,0
+46.8	PowerFirework	-100,62,3002	j8	0,5,0
+47.1	PowerFirework	-100,62,3002	j6	1.29,4.83,0
+47.4	PowerFirework	-100,62,3002	j8	3.54,3.54,0
+48.2	PowerFirework	-102,62,3002	j6	3.54,3.54,0
+48.6	PowerFirework	-102,62,3002	j8	1.29,4.83,0
+48.9	PowerFirework	-102,62,3002	j6	0,5,0
+49.2	PowerFirework	-102,62,3002	j8	-1.29,4.83,0
+49.5	PowerFirework	-102,62,3002	j6	-3.54,3.54,0
+51.9	PowerFirework	-100,62,3002	j7	1.29,4.83,0
+51.9	PowerFirework	-100,62,3002	j7	3.54,3.54,0
+52.2	PowerFirework	-102,62,3002	j7	-1.29,4.83,0
+52.2	PowerFirework	-102,62,3002	j7	-3.54,3.54,0
+53.9	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+53.9	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+54.3	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+54.3	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+54.7	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+54.7	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+55.1	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+55.1	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+55.5	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+55.5	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+55.9	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+55.9	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+56.3	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+56.3	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+56.7	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+56.7	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+57.1	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+57.1	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+57.5	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+57.5	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+57.9	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+57.9	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+58.3	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+58.3	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+58.7	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+58.7	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+59.1	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+59.1	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+59.5	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+59.5	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+59.9	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+59.9	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+60.3	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+60.3	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+60.7	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+60.7	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+61.1	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+61.1	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+61.5	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+61.5	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+61.9	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+61.9	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+62.3	PowerFirework	-101,62,3002	j1	3.6,3.5,0
+62.3	PowerFirework	-101,62,3002	j1	-3.6,3.5,0
+62.7	PowerFirework	-101,62,3002	j3	3.6,3.5,0
+62.7	PowerFirework	-101,62,3002	j3	-3.6,3.5,0
+53.8	PowerFirework	-101,62,3002	j6	0,4,0
+55.8	PowerFirework	-101,62,3002	j6	0,4,0
+57.6	PowerFirework	-101,62,3002	j6	0,4,0
+58.4	PowerFirework	-101,62,3002	j6	0,4,0
+60.5	PowerFirework	-101,62,3002	j6	0,4,0
+62.5	PowerFirework	-101,62,3002	j6	0,4,0
+63.4	PowerFirework	-101,62,3002	j8	-1.29,4.83,0
+63.4	PowerFirework	-101,62,3002	j8	1.29,4.83,0
+63.4	PowerFirework	-101,62,3002	j8	0,6,0
+35.2	Firework	-100,63,3002	j4	1	2.59,9.66,0	1
+35.2	Firework	-102,63,3002	j4	1	-2.59,9.66,0	1
+35.2	Firework	-101,65,3002	j5	1	0,10,0	1
+37.4	Firework	-100,63,3002	j4	1	4.23,9.06,0	1
+37.4	Firework	-100,64,3002	j4	1	2.59,9.66,0	1
+37.4	Firework	-102,64,3002	j5	1	-2.59,9.66,0	1
+37.4	Firework	-102,63,3002	j5	1	-4.23,9.06,0	1
+41	Firework	-100,63,3002	j5,j4	1	4.23,9.06,0	1
+41	Firework	-102,63,3002	j5,j4	1	-4.23,9.06,0	1
+48.5	Firework	-100,63,3002	j5,j4	1	4.23,9.06,0	1
+49	Firework	-100,64,3002	j5,j4	1	2.59,9.66,0	1
+49.6	Firework	-102,64,3002	j5,j4	1	-2.59,9.66,0	1
+50.1	Firework	-102,63,3002	j5,j4	1	-4.23,9.06,0	1
+52.4	Firework	-100,63,3002	j4	1	4.23,9.06,0	1
+54.2	Firework	-100,64,3002	j4	1	2.59,9.66,0	1
+55.1	Firework	-102,64,3002	j4	1	-2.59,9.66,0	1
+53.2	Firework	-102,63,3002	j4	1	-4.23,9.06,0	1
+57.1	Firework	-100,63,3002	j4	1	4.23,9.06,0	1
+55.7	Firework	-100,64,3002	j5	1	2.59,9.66,0	1
+58.2	Firework	-102,64,3002	j5	1	-2.59,9.66,0	1
+56.2	Firework	-102,63,3002	j4	1	-4.23,9.06,0	1
+59.1	Firework	-100,63,3002	j4	1	2.59,9.66,0	1
+60	Firework	-102,63,3002	j4	1	-2.59,9.66,0	1
+61	Firework	-101,65,3002	j5	1	0,10,0	1
+#China
+70.5	PowerFirework	-97,62,3006	c1	1.71,4.7,0
+70.5	PowerFirework	-97,62,3006	c1	-1.71,4.7,0
+72.2	PowerFirework	-95,62,3006	c2	1.71,4.7,0
+72.2	PowerFirework	-95,62,3006	c2	-1.71,4.7,0
+73.9	PowerFirework	-96,62,3006	c1	1.71,4.7,0
+74.7	PowerFirework	-96,62,3006	c2	-1.71,4.7,0
+75.7	PowerFirework	-96,62,3006	c3	1.71,4.7,0
+75.7	PowerFirework	-96,62,3006	c3	1.38,4.81,0
+75.7	PowerFirework	-96,62,3006	c3	-1.38,4.81,0
+75.7	PowerFirework	-96,62,3006	c3	-1.71,4.7,0
+79.1	PowerFirework	-95,62,3006	j1	1.71,4.7,0
+79.1	PowerFirework	-95,62,3006	j1	-1.71,4.7,0
+80.8	PowerFirework	-97,62,3006	j1	1.71,4.7,0
+80.8	PowerFirework	-97,62,3006	j1	-1.71,4.7,0
+82.5	PowerFirework	-96,62,3006	j1	1.71,4.7,0
+82.5	PowerFirework	-96,62,3006	j1	-1.71,4.7,0
+83.4	PowerFirework	-96,62,3006	j1	1.71,4.7,0
+83.4	PowerFirework	-96,62,3006	j1	-1.71,4.7,0
+84.3	PowerFirework	-96,62,3006	c6	1.71,4.7,0
+84.3	PowerFirework	-96,62,3006	c6	1.38,4.81,0
+84.3	PowerFirework	-96,62,3006	c6	-1.38,4.81,0
+84.3	PowerFirework	-96,62,3006	c6	-1.71,4.7,0
+85.9	PowerFirework	-95,62,3006	c1	1.71,4.7,0
+85.9	PowerFirework	-95,62,3006	c1	-1.71,4.7,0
+87.2	PowerFirework	-96,62,3006	c2	1.71,4.7,0
+87.2	PowerFirework	-96,62,3006	c2	-1.71,4.7,0
+88.4	PowerFirework	-97,62,3006	j1	1.71,4.7,0
+88.4	PowerFirework	-97,62,3006	j1	-1.71,4.7,0
+90.9	PowerFirework	-95,62,3006	c1	1.71,4.7,0
+91.1	PowerFirework	-95,62,3006	c1	0,5,0
+90.9	PowerFirework	-95,62,3006	c1	-1.71,4.7,0
+91.5	PowerFirework	-96,62,3006	c2	1.71,4.7,0
+91.4	PowerFirework	-96,62,3006	c2	0,5,0
+91.5	PowerFirework	-96,62,3006	c2	-1.71,4.7,0
+91.8	PowerFirework	-97,62,3006	j1	1.71,4.7,0
+92	PowerFirework	-97,62,3006	j1	0,5,0
+91.8	PowerFirework	-97,62,3006	j1	-1.71,4.7,0
+92.5	PowerFirework	-95,62,3006	c3,j1	1.71,4.7,0
+92.5	PowerFirework	-97,62,3006	c3,j1	-1.71,4.7,0
+92.5	PowerFirework	-96,62,3006	c3,j1	0,6,0
+71.4	PowerFirework	-96,62,3006	c8	0,1,0
+70.2	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+71.9	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+73.1	PowerFirework	-96,62,3006	c8	0,1,0
+73.5	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+72.2	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+73.9	PowerFirework	-96,62,3006	c8	0,1,0
+73.9	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+73.9	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+74.8	PowerFirework	-96,62,3006	c9	0,1,0
+74.8	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+74.8	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+80	PowerFirework	-96,62,3006	c9	0,1,0
+80.4	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+79.1	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+81.7	PowerFirework	-96,62,3006	c9	0,1,0
+80.9	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+82.1	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+82.5	PowerFirework	-96,62,3006	c9	0,1,0
+82.5	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+82.5	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+83.3	PowerFirework	-96,62,3006	c8	0,1,0
+83.3	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+83.3	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+86	PowerFirework	-96,62,3006	c9	0,1,0
+86.8	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+86.8	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+87.2	PowerFirework	-96,62,3006	c8	0,1,0
+88.1	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+88.1	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+88.4	PowerFirework	-96,62,3006	c9	0,1,0
+89.1	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+89.1	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+89.7	PowerFirework	-96,62,3006	c8	0,1,0
+90.5	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+90.5	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+91	PowerFirework	-96,62,3006	c8	0,1,0
+91	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+91	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+91.4	PowerFirework	-96,62,3006	c9	0,1,0
+91.4	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+91.4	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+91.8	PowerFirework	-96,62,3006	c8	0,1,0
+91.8	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+91.8	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+92.1	PowerFirework	-95,62,3006	c9	0.42,0.91,0
+92.1	PowerFirework	-97,62,3006	c8	-0.42,0.91,0
+92.5	PowerFirework	-95,62,3006	c8	0.42,0.91,0
+92.5	PowerFirework	-97,62,3006	c9	-0.42,0.91,0
+74	Firework	-97,65,3006	c4	1	-2.6,9.7,0	1
+74	Firework	-95,65,3006	c4	1	2.6,9.7,0	1
+75.9	Firework	-97,65,3006	j4	1	-4.25,7,0	1
+75.9	Firework	-97,65,3006	c4	1	-2.6,9.7,0	1
+75.9	Firework	-95,65,3006	c4	1	2.6,9.7,0	1
+75.9	Firework	-95,65,3006	j4	1	4.25,7,0	1
+82.7	Firework	-97,65,3006	c4	1	-2.6,9.7,0	1
+82.7	Firework	-95,65,3006	c4	1	2.6,9.7,0	1
+83.7	Firework	-97,65,3006	j4	1	-4.25,7,0	1
+83.7	Firework	-97,65,3006	c5	1	0,10,0	1
+83.7	Firework	-97,65,3006	c4	1	-2.6,9.7,0	1
+83.7	Firework	-95,65,3006	c4	1	2.6,9.7,0	1
+83.7	Firework	-95,65,3006	j4	1	4.25,7,0	1
+85.3	Firework	-96,65,3006	c4,c5	1	4.25,7,0	1
+85.3	Firework	-96,65,3006	c4,c5	1	-4.25,7,0	1
+86.6	Firework	-96,65,3006	c4,c5	1	2.6,9.7,0	1
+86.6	Firework	-96,65,3006	c4,c5	1	-2.6,9.7,0	1
+87.8	Firework	-96,65,3006	c4,c5	1	4.25,7,0	1
+87.8	Firework	-96,65,3006	c4,c5	1	-4.25,7,0	1
+89.2	Firework	-96,65,3006	c4,c5	1	2.6,9.7,0	1
+89.2	Firework	-96,65,3006	c4,c5	1	-2.6,9.7,0	1
+91	Firework	-97,65,3006	c7	1	-4.25,7,0	1
+91	Firework	-96,65,3006	c5	1	0,10,0	1
+91	Firework	-97,65,3006	c4	1	-2.6,9.7,0	1
+91	Firework	-95,65,3006	c4	1	2.6,9.7,0	1
+91	Firework	-95,65,3006	c7	1	4.25,7,0	1
+#Italy
+107.5	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+107.5	PowerFirework	-58,62,3002	i0	0,5,0
+107.5	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+108.2	PowerFirework	-58,62,3002	j3	3.5,3.5,0
+108.2	PowerFirework	-58,62,3002	j3	0,5,0
+108.2	PowerFirework	-58,62,3002	j3	-3.5,3.5,0
+108.8	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+108.8	PowerFirework	-58,62,3002	j2	0,5,0
+108.8	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+109.6	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+109.6	PowerFirework	-58,62,3002	i0	0,5,0
+109.6	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+110.4	PowerFirework	-58,62,3002	j3	3.5,3.5,0
+110.4	PowerFirework	-58,62,3002	j3	0,5,0
+110.4	PowerFirework	-58,62,3002	j3	-3.5,3.5,0
+111.1	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+111.1	PowerFirework	-58,62,3002	j2	0,5,0
+111.1	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+111.9	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+112.1	PowerFirework	-58,62,3002	j3	0,5,0
+112.3	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+112.5	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+112.7	PowerFirework	-58,62,3002	j3	0,5,0
+112.9	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+113.1	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+113.3	PowerFirework	-58,62,3002	j3	0,5,0
+113.3	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+113.3	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+113.6	PowerFirework	-58,62,3002	i0	0,5,0
+113.9	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+114.2	PowerFirework	-58,62,3002	j3	3.5,3.5,0
+114.5	PowerFirework	-58,62,3002	j3	0,5,0
+114.8	PowerFirework	-58,62,3002	j3	-3.5,3.5,0
+115.1	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+115.4	PowerFirework	-58,62,3002	j2	0,5,0
+115.7	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+116	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+116.3	PowerFirework	-58,62,3002	i0	0,5,0
+116.6	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+116.9	PowerFirework	-58,62,3002	j3	3.5,3.5,0
+117.2	PowerFirework	-58,62,3002	j3	0,5,0
+117.5	PowerFirework	-58,62,3002	j3	-3.5,3.5,0
+117.8	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+118.1	PowerFirework	-58,62,3002	j2	0,5,0
+118.4	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+118.7	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+119	PowerFirework	-58,62,3002	i0	0,5,0
+119.3	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+119.6	PowerFirework	-58,62,3002	j3	3.5,3.5,0
+119.9	PowerFirework	-58,62,3002	j3	0,5,0
+120.2	PowerFirework	-58,62,3002	j3	-3.5,3.5,0
+120.5	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+120.8	PowerFirework	-58,62,3002	j2	0,5,0
+120.8	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+121	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+121	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+122.2	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+122.2	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+123.4	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+123.4	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+124.6	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+124.6	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+125.8	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+125.8	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+127	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+127	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+128.2	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+128.2	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+128.8	PowerFirework	-58,62,3002	i3	4.3,6.5,0
+128.8	PowerFirework	-58,62,3002	i3	-4.3,6.5,0
+129.5	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+129.5	PowerFirework	-58,62,3002	j2	0,6,0
+129.5	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+130.3	PowerFirework	-58,62,3002	j3	3.5,3.5,0
+130.3	PowerFirework	-58,62,3002	j3	0,6,0
+130.3	PowerFirework	-58,62,3002	j3	-3.5,3.5,0
+131.1	PowerFirework	-58,62,3002	i0	3.5,3.5,0
+131.1	PowerFirework	-58,62,3002	i0	0,6,0
+131.1	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+131.9	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+131.9	PowerFirework	-58,62,3002	j2	0,6,0
+131.9	PowerFirework	-58,62,3002	j2	-3.5,3.5,0
+132.4	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+132.7	PowerFirework	-59,62,3002	i0	0,5,0
+133	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+133.3	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+133.6	PowerFirework	-59,62,3002	i0	0,5,0
+133.9	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+134.2	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+134.5	PowerFirework	-59,62,3002	i0	0,5,0
+134.8	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+135.1	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+135.4	PowerFirework	-59,62,3002	i0	0,5,0
+135.7	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+136	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+136.3	PowerFirework	-59,62,3002	i0	0,5,0
+136.6	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+136.9	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+137.2	PowerFirework	-59,62,3002	i0	0,5,0
+137.5	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+138	PowerFirework	-59,62,3002	j2	-3.5,3.5,0
+137.8	PowerFirework	-59,62,3002	i0	0,5,0
+138	PowerFirework	-59,62,3002	j3	3.5,3.5,0
+132.5	PowerFirework	-57,62,3002	j3	-3.5,3.5,0
+132.8	PowerFirework	-57,62,3002	j2	0,5,0
+133.1	PowerFirework	-57,62,3002	i0	3.5,3.5,0
+133.4	PowerFirework	-57,62,3002	i0	-3.5,3.5,0
+133.7	PowerFirework	-57,62,3002	j2	0,5,0
+134	PowerFirework	-57,62,3002	j3	3.5,3.5,0
+134.3	PowerFirework	-57,62,3002	j3	-3.5,3.5,0
+134.6	PowerFirework	-57,62,3002	j2	0,5,0
+134.9	PowerFirework	-57,62,3002	i0	3.5,3.5,0
+135.2	PowerFirework	-57,62,3002	i0	-3.5,3.5,0
+135.5	PowerFirework	-57,62,3002	j2	0,5,0
+135.8	PowerFirework	-57,62,3002	j3	3.5,3.5,0
+136.1	PowerFirework	-57,62,3002	j3	-3.5,3.5,0
+136.4	PowerFirework	-57,62,3002	j2	0,5,0
+136.7	PowerFirework	-57,62,3002	i0	3.5,3.5,0
+137	PowerFirework	-57,62,3002	i0	-3.5,3.5,0
+137.3	PowerFirework	-57,62,3002	j2	0,5,0
+137.6	PowerFirework	-57,62,3002	j3	3.5,3.5,0
+137.9	PowerFirework	-57,62,3002	j3	-3.5,3.5,0
+138	PowerFirework	-57,62,3002	j2	0,5,0
+137.9	PowerFirework	-57,62,3002	i0	3.5,3.5,0
+138	PowerFirework	-58,62,3002	i4	4.3,6.5,0
+138	PowerFirework	-58,62,3002	i4	-4.3,6.5,0
+140.2	PowerFirework	-58,62,3002	i5	4.3,6.5,0
+140.2	PowerFirework	-58,62,3002	i5	-4.3,6.5,0
+141.2	PowerFirework	-58,62,3002	i4	4.3,6.5,0
+141.7	PowerFirework	-58,62,3002	i5	-4.3,6.5,0
+142.2	PowerFirework	-58,62,3002	i5	4.3,6.5,0
+142.8	PowerFirework	-58,62,3002	i4	-4.3,6.5,0
+143.2	PowerFirework	-58,62,3002	i4	4.3,6.5,0
+143.2	PowerFirework	-58,62,3002	i4	-4.3,6.5,0
+143.2	PowerFirework	-58,62,3002	i0	-3.5,3.5,0
+143.2	PowerFirework	-58,62,3002	j3	0,5,0
+143.2	PowerFirework	-58,62,3002	j2	3.5,3.5,0
+111.7	Firework	-58,63,3002	i1	1	2.59,9.66,0	1
+111.7	Firework	-58,63,3002	i1	1	-2.59,9.66,0	1
+111.7	Firework	-58,63,3002	i1	1	0,10,0	1
+113.3	Firework	-58,63,3002	i1	1	2.59,9.66,0	1
+113.3	Firework	-58,63,3002	i1	1	-2.59,9.66,0	1
+113.3	Firework	-58,63,3002	i1	1	0,10,0	1
+116.3	Firework	-58,63,3002	i2	1	2.59,9.66,0	1
+116.3	Firework	-58,63,3002	i2	1	-2.59,9.66,0	1
+116.3	Firework	-58,63,3002	i2	1	0,10,0	1
+117.2	Firework	-58,64,3002	i1	1	1.2,9.66,0	1
+118	Firework	-58,64,3002	i1	1	-1.2,9.66,0	1
+118.7	Firework	-58,64,3002	i2	1	2.59,9.66,0	1
+118.7	Firework	-58,64,3002	i2	1	-2.59,9.66,0	1
+118.7	Firework	-58,64,3002	i2	1	0,10,0	1
+127.2	Firework	-58,63,3002	i1	1	2.59,9.66,0	1
+127.2	Firework	-58,63,3002	i1	1	-2.59,9.66,0	1
+127.2	Firework	-58,63,3002	i1	1	0,10,0	1
+130.9	Firework	-58,64,3002	i2	1	2.59,9.66,0	1
+130.95	Firework	-58,64,3002	i2	1	-2.59,9.66,0	1
+130.9	Firework	-58,64,3002	i1	1	0,10,0	1
+133	Firework	-58,63,3002	i1	1	2.59,9.66,0	1
+133	Firework	-58,63,3002	i1	1	-2.59,9.66,0	1
+133	Firework	-58,63,3002	i1	1	0,10,0	1
+134.5	Firework	-58,64,3002	j4	1	2.59,9.66,0	1
+134.5	Firework	-58,64,3002	j4	1	-2.59,9.66,0	1
+134.5	Firework	-58,64,3002	j4	1	0,10,0	1
+141.7	Firework	-58,63,3002	i6	1	2.59,9.66,0	1
+141.7	Firework	-58,63,3002	i6	1	-2.59,9.66,0	1
+141.7	Firework	-58,63,3002	i6	1	0,10,0	1
+141.7	Firework	-58,63,3002	i6	1	-4.23,9.06,0	1
+141.7	Firework	-58,63,3002	i6	1	4.23,9.06,0	1
+#Norway
+146.2	PowerFirework	-63,62,3006	j3	0,5,0
+146.4	PowerFirework	-63,62,3006	j3	-1.2,9.66,0
+146.6	PowerFirework	-63,62,3006	j3	1.2,9.66,0
+146.8	PowerFirework	-63,62,3006	j3	-2.6,9.6,0
+147	PowerFirework	-63,62,3006	j3	2.6,9.6,0
+147.4	PowerFirework	-64,62,3006	j3	-2.6,9.6,0
+147.6	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+147.8	PowerFirework	-63,62,3006	j3	0,5,0
+148	PowerFirework	-62,62,3006	j3	2.6,9.6,0
+148.2	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+148.4	PowerFirework	-63,62,3006	j3	0,5,0
+149.4	PowerFirework	-63,62,3006	j3	0,5,0
+149	PowerFirework	-63,62,3006	j3	-1.2,9.66,0
+149.2	PowerFirework	-63,62,3006	j3	1.2,9.66,0
+148.6	PowerFirework	-63,62,3006	j3	-2.6,9.6,0
+148.8	PowerFirework	-63,62,3006	j3	2.6,9.6,0
+149.6	PowerFirework	-64,62,3006	j3	-2.6,9.6,0
+149.8	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+150	PowerFirework	-63,62,3006	j3	0,5,0
+150.2	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+150.4	PowerFirework	-62,62,3006	j3	2.6,9.6,0
+151.4	PowerFirework	-64,62,3006	j3	-2.6,9.6,0
+151.2	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+151	PowerFirework	-63,62,3006	j3	0,5,0
+150.8	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+150.6	PowerFirework	-62,62,3006	j3	2.6,9.6,0
+151.6	PowerFirework	-64,62,3006	j3	-2.6,9.6,0
+152	PowerFirework	-63,62,3006	j3	0,5,0
+151.8	PowerFirework	-62,62,3006	j3	2.6,9.6,0
+152.4	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+152.6	PowerFirework	-63,62,3006	j3	0,5,0
+152.2	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+153	PowerFirework	-64,62,3006	j3	-2.6,9.6,0
+153.6	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+153.2	PowerFirework	-63,62,3006	j3	0,5,0
+152.8	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+153.4	PowerFirework	-62,62,3006	j3	2.6,9.6,0
+154.2	PowerFirework	-64,62,3006	j3	-2.6,9.6,0
+154.6	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+153.8	PowerFirework	-63,62,3006	j3	0,5,0
+154.4	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+154	PowerFirework	-62,62,3006	j3	2.6,9.6,0
+155	PowerFirework	-64,62,3006	j3	-1.2,9.66,0
+154.8	PowerFirework	-63,62,3006	j3	0,5,0
+155	PowerFirework	-62,62,3006	j3	1.2,9.66,0
+155.6	PowerFirework	-62,62,3006	i4	1.03,2.82,0
+155.6	PowerFirework	-62,62,3006	i4	-1.03,2.82,0
+155.6	PowerFirework	-64,62,3006	i4	1.03,2.82,0
+155.6	PowerFirework	-64,62,3006	i4	-1.03,2.82,0
+159.3	PowerFirework	-62,62,3006	i5	1.03,2.82,0
+159.3	PowerFirework	-62,62,3006	i5	-1.03,2.82,0
+159.3	PowerFirework	-64,62,3006	i5	1.03,2.82,0
+159.3	PowerFirework	-64,62,3006	i5	-1.03,2.82,0
+163	PowerFirework	-62,62,3006	n4	2.03,3.82,0
+163.9	PowerFirework	-62,62,3006	n4	-2.03,3.82,0
+163.9	PowerFirework	-64,62,3006	n4	2.03,3.82,0
+163	PowerFirework	-64,62,3006	n4	-2.03,3.82,0
+164.8	PowerFirework	-62,62,3006	n5	4.25,7,0
+165.1	PowerFirework	-62,62,3006	n5	2.6,9.7,0
+165.4	PowerFirework	-62,62,3006	n5	-2.6,9.7,0
+165.7	PowerFirework	-62,62,3006	n5	-4.25,7,0
+166	PowerFirework	-64,62,3006	n5	-1.2,9.66,0
+166.3	PowerFirework	-64,62,3006	n5	0,5,0
+166.6	PowerFirework	-64,62,3006	n5	1.2,9.66,0
+169.1	PowerFirework	-64,62,3006	n7	-2.6,9.6,0
+169.1	PowerFirework	-64,62,3006	n7	-1.2,9.66,0
+169.1	PowerFirework	-63,62,3006	n7	0,6,0
+169.1	PowerFirework	-62,62,3006	n7	1.2,9.66,0
+169.1	PowerFirework	-62,62,3006	n7	2.6,9.6,0
+146.6	Firework	-63,64,3006	n1	1	4.25,8,0	1
+146.6	Firework	-63,65,3006	n1	1	2.6,9.7,0	1
+146.6	Firework	-63,64,3006	n1	1	-4.25,8,0	1
+146.6	Firework	-63,65,3006	n1	1	-2.6,9.7,0	1
+148.4	Firework	-63,65,3006	n2	1	4.25,8,0	1
+148.4	Firework	-63,66,3006	n2	1	2.6,9.7,0	1
+148.4	Firework	-63,65,3006	n2	1	-4.25,8,0	1
+148.4	Firework	-63,66,3006	n2	1	-2.6,9.7,0	1
+151.4	Firework	-63,64,3006	n1	1	4.25,8,0	1
+151.4	Firework	-63,65,3006	n1	1	2.6,9.7,0	1
+151.4	Firework	-63,64,3006	n1	1	-4.25,8,0	1
+151.4	Firework	-63,65,3006	n1	1	-2.6,9.7,0	1
+153.1	Firework	-63,65,3006	n2	1	4.25,8,0	1
+153.1	Firework	-63,66,3006	n2	1	2.6,9.7,0	1
+153.1	Firework	-63,65,3006	n2	1	-4.25,8,0	1
+153.1	Firework	-63,66,3006	n2	1	-2.6,9.7,0	1
+156	Firework	-63,66,3006	n8	1	4.25,8,0	1
+156.8	Firework	-63,66,3006	n8	1	2.6,9.7,0	1
+156.4	Firework	-63,66,3006	n8	1	-4.25,8,0	1
+157.3	Firework	-63,66,3006	n8	1	-2.6,9.7,0	1
+160.1	Firework	-63,67,3006	n8	1	4.25,8,0	1
+161.1	Firework	-63,67,3006	n8	1	2.6,9.7,0	1
+160.6	Firework	-63,67,3006	n8	1	-4.25,8,0	1
+159.6	Firework	-63,67,3006	n8	1	-2.6,9.7,0	1
+167.6	Firework	-63,65,3006	n6	1	4.25,8,0	1
+167.6	Firework	-63,66,3006	n6	1	2.6,9.7,0	1
+167.6	Firework	-63,65,3006	n6	1	-4.25,8,0	1
+167.6	Firework	-63,66,3006	n6	1	-2.6,9.7,0	1
+#France
+172.8	PowerFirework	-66,62,3013	f1	1.37,3.76,0
+172.8	PowerFirework	-66,62,3013	f2	0.69,3.94,0
+172.8	PowerFirework	-66,62,3013	f3	0,5,0
+172.8	PowerFirework	-66,62,3013	f2	-0.69,3.94,0
+172.8	PowerFirework	-66,62,3013	f1	-1.37,3.76,0
+174	PowerFirework	-68,62,3015	f1	1.37,3.76,0
+174	PowerFirework	-68,62,3015	f2	0.69,3.94,0
+174	PowerFirework	-68,62,3015	f3	0,5,0
+174	PowerFirework	-68,62,3015	f2	-0.69,3.94,0
+174	PowerFirework	-68,62,3015	f1	-1.37,3.76,0
+175.2	PowerFirework	-66,62,3013	f4	1.37,3.76,0
+175.2	PowerFirework	-66,62,3013	f5	0.69,3.94,0
+175.2	PowerFirework	-66,62,3013	f6	0,5,0
+175.2	PowerFirework	-66,62,3013	f5	-0.69,3.94,0
+175.2	PowerFirework	-66,62,3013	f4	-1.37,3.76,0
+176.4	PowerFirework	-68,62,3015	f4	1.37,3.76,0
+176.4	PowerFirework	-68,62,3015	f5	0.69,3.94,0
+176.4	PowerFirework	-68,62,3015	f6	0,5,0
+176.4	PowerFirework	-68,62,3015	f5	-0.69,3.94,0
+176.4	PowerFirework	-68,62,3015	f4	-1.37,3.76,0
+177.5	PowerFirework	-66,62,3013	f1	1.37,3.76,0
+177.5	PowerFirework	-66,62,3013	f2	0.69,3.94,0
+177.5	PowerFirework	-66,62,3013	f3	0,5,0
+177.5	PowerFirework	-66,62,3013	f2	-0.69,3.94,0
+177.5	PowerFirework	-66,62,3013	f1	-1.37,3.76,0
+178.8	PowerFirework	-68,62,3015	f4	1.37,3.76,0
+178.8	PowerFirework	-68,62,3015	f5	0.69,3.94,0
+178.8	PowerFirework	-68,62,3015	f6	0,5,0
+178.8	PowerFirework	-68,62,3015	f5	-0.69,3.94,0
+178.8	PowerFirework	-68,62,3015	f4	-1.37,3.76,0
+178.5	Firework	-68,64,3015	f7	1	-1,8,0	1
+178.5	Firework	-68,64,3015	f7	1	1,8,0	1
+179.7	Firework	-66,64,3013	f7	1	-1,8,0	1
+179.7	Firework	-66,64,3013	f7	1	1,8,0	1
+180.9	Firework	-68,64,3015	i6	1	-1,8,0	1
+180.9	Firework	-68,64,3015	i6	1	1,8,0	1
+181.1	Firework	-66,64,3013	i6	1	-1,8,0	1
+181.1	Firework	-66,64,3013	i6	1	1,8,0	1
+184.8	PowerFirework	-66,62,3013	f4	-4.25,8,0
+185.1	PowerFirework	-66,62,3013	f4	-2.6,9.7,0
+185.4	PowerFirework	-66,62,3013	f4	2.6,9.7,0
+185.7	PowerFirework	-66,62,3013	f4	4.25,8,0
+184.8	PowerFirework	-68,62,3015	f4	-4.25,8,0
+185.1	PowerFirework	-68,62,3015	f4	-2.6,9.7,0
+185.4	PowerFirework	-68,62,3015	f4	2.6,9.7,0
+185.7	PowerFirework	-68,62,3015	f4	4.25,8,0
+185.15	Firework	-68,64,3015	f7	1	-1,8,0	1
+185.05	Firework	-68,64,3015	f7	1	1,8,0	1
+185.1	Firework	-66,64,3013	f7	1	-1,8,0	1
+185	Firework	-66,64,3013	f7	1	1,8,0	1
+187.1	PowerFirework	-66,62,3013	f5	4.25,8,0
+187.5	PowerFirework	-66,62,3013	f5	2.6,9.7,0
+187.8	PowerFirework	-66,62,3013	f5	-2.6,9.7,0
+188	PowerFirework	-66,62,3013	f5	-4.25,8,0
+187.1	PowerFirework	-68,62,3015	f5	4.25,8,0
+187.5	PowerFirework	-68,62,3015	f5	2.6,9.7,0
+187.8	PowerFirework	-68,62,3015	f5	-2.6,9.7,0
+188	PowerFirework	-68,62,3015	f5	-4.25,8,0
+187.4	Firework	-68,64,3015	f7	1	-1,8,0	1
+187.5	Firework	-68,64,3015	f7	1	1,8,0	1
+187.45	Firework	-66,64,3013	f7	1	-1,8,0	1
+187.55	Firework	-66,64,3013	f7	1	1,8,0	1
+189.6	Firework	-66,62,3013	f8	1	3.53,3.53,0	1
+189.6	Firework	-66,62,3013	f8	1	-3.53,3.53,0	1
+189.6	Firework	-68,62,3015	f8	1	3.53,3.53,0	1
+189.6	Firework	-68,62,3015	f8	1	-3.53,3.53,0	1
+189.3	Firework	-68,64,3015	n2	1	-1,8,0	1
+189.3	Firework	-68,64,3015	n2	1	1,8,0	1
+189.3	Firework	-66,64,3013	n2	1	-1,8,0	1
+189.3	Firework	-66,64,3013	n2	1	1,8,0	1
+192.2	Firework	-66,62,3013	f8	1	3.53,3.53,0	1
+192.2	Firework	-66,62,3013	f8	1	-3.53,3.53,0	1
+192.2	Firework	-68,62,3015	f8	1	3.53,3.53,0	1
+192.2	Firework	-68,62,3015	f8	1	-3.53,3.53,0	1
+192	Firework	-68,64,3015	n2	1	-1,8,0	1
+192	Firework	-68,64,3015	n2	1	1,8,0	1
+192	Firework	-66,64,3013	n2	1	-1,8,0	1
+192	Firework	-66,64,3013	n2	1	1,8,0	1
+194.8	PowerFirework	-67,62,3014	f5	0.69,3.94,0
+194.6	PowerFirework	-67,62,3014	f6	0,5,0
+194.8	PowerFirework	-67,62,3014	f5	-0.69,3.94,0
+195.2	PowerFirework	-67,62,3014	f4	1.37,3.76,0
+195	PowerFirework	-67,62,3014	f6	0,5,0
+195.2	PowerFirework	-67,62,3014	f4	-1.37,3.76,0
+195.6	PowerFirework	-67,62,3014	f5	0.69,3.94,0
+195.4	PowerFirework	-67,62,3014	f6	0,5,0
+195.6	PowerFirework	-67,62,3014	f5	-0.69,3.94,0
+196	PowerFirework	-67,62,3014	f4	1.37,3.76,0
+195.8	PowerFirework	-67,62,3014	f6	0,5,0
+196	PowerFirework	-67,62,3014	f4	-1.37,3.76,0
+196.2	PowerFirework	-67,62,3014	f5	0.69,3.94,0
+196.1	PowerFirework	-67,62,3014	f6	0,5,0
+196.2	PowerFirework	-67,62,3014	f5	-0.69,3.94,0
+196.4	PowerFirework	-67,62,3014	f4	1.37,3.76,0
+196.3	PowerFirework	-67,62,3014	f6	0,5,0
+196.4	PowerFirework	-67,62,3014	f4	-1.37,3.76,0
+196.6	PowerFirework	-67,62,3014	f5	0.69,3.94,0
+196.5	PowerFirework	-67,62,3014	f6	0,5,0
+196.6	PowerFirework	-67,62,3014	f5	-0.69,3.94,0
+196.8	PowerFirework	-67,62,3014	f4	1.37,3.76,0
+196.7	PowerFirework	-67,62,3014	f6	0,5,0
+196.8	PowerFirework	-67,62,3014	f4	-1.37,3.76,0
+196.9	PowerFirework	-67,62,3014	f6	0.69,3.94,0
+196.9	PowerFirework	-67,62,3014	f6	-0.69,3.94,0
+197.6	PowerFirework	-67,62,3014	f5	1.37,3.76,0
+197.6	PowerFirework	-67,62,3014	f4	0,5,0
+197.6	PowerFirework	-67,62,3014	f5	-1.37,3.76,0
+198.3	PowerFirework	-66,62,3013	f8	1.37,3.76,0
+198.3	PowerFirework	-66,62,3013	f8	-0.69,3.94,0
+198.3	PowerFirework	-68,62,3015	f8	0.69,3.94,0
+198.3	PowerFirework	-68,62,3015	f8	-1.37,3.76,0
+196.8	Firework	-67,65,3014	f7	1	-1.5,8,0	1
+196.8	Firework	-67,65,3014	f7	1	1.5,8,0	1
+#Germany
+201.4	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+201.7	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+202	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+202.3	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+202.6	PowerFirework	-76,62,3010	g1	0,4,0
+204.8	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+204.2	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+204.5	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+203.9	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+205.1	PowerFirework	-76,62,3010	g1	0,4,0
+206	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+205.4	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+206.3	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+206.6	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+205.7	PowerFirework	-76,62,3010	g1	0,4,0
+208.1	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+207.5	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+207.8	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+207.2	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+206.9	PowerFirework	-76,62,3010	g1	0,4,0
+209.6	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+208.4	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+209	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+209.3	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+208.7	PowerFirework	-76,62,3010	g1	0,4,0
+210.2	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+210.8	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+209.6	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+210.5	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+209.9	PowerFirework	-76,62,3010	g1	0,4,0
+211.1	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+212	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+212.3	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+211.7	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+211.4	PowerFirework	-76,62,3010	g1	0,4,0
+213.2	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+212.9	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+213.5	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+213.8	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+212.6	PowerFirework	-76,62,3010	g1	0,4,0
+214.7	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+214.1	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+215.3	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+215	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+214.4	PowerFirework	-76,62,3010	g1	0,4,0
+216.5	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+215.9	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+216.8	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+215.6	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+216.2	PowerFirework	-76,62,3010	g1	0,4,0
+217.4	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+218.3	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+218	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+217.7	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+217.1	PowerFirework	-76,62,3010	g1	0,4,0
+218.6	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+218.9	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+219.5	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+219.8	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+219.2	PowerFirework	-76,62,3010	g1	0,4,0
+220.4	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+220.7	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+221	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+220.1	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+221.3	PowerFirework	-76,62,3010	g1	0,4,0
+221.9	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+222.8	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+222.2	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+221.6	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+222.5	PowerFirework	-76,62,3010	g1	0,4,0
+223.1	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+224	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+224.3	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+223.4	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+223.7	PowerFirework	-76,62,3010	g1	0,4,0
+225.1	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+225.9	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+224.7	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+225.5	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+226.3	PowerFirework	-76,62,3010	g1	0,4,0
+228.3	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+227.5	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+227.9	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+226.7	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+227.1	PowerFirework	-76,62,3010	g1	0,4,0
+230.1	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+229.1	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+228.7	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+229.5	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+229.8	PowerFirework	-76,62,3010	g1	0,4,0
+230.1	PowerFirework	-76,62,3010	j3	1.37,3.76,0
+230.1	PowerFirework	-76,62,3010	j3	-1.37,3.76,0
+230.7	PowerFirework	-76,62,3010	j3	0.69,3.94,0
+230.7	PowerFirework	-76,62,3010	j3	-0.69,3.94,0
+231.3	PowerFirework	-76,62,3010	j3	1.37,3.76,0
+231.3	PowerFirework	-76,62,3010	j3	-1.37,3.76,0
+232.1	PowerFirework	-76,62,3010	j3	0.69,3.94,0
+232.1	PowerFirework	-76,62,3010	j3	-0.69,3.94,0
+232.7	PowerFirework	-76,62,3010	j3	1.37,3.76,0
+232.7	PowerFirework	-76,62,3010	j3	-1.37,3.76,0
+233.5	PowerFirework	-76,62,3010	j3	0.69,3.94,0
+233.5	PowerFirework	-76,62,3010	j3	-0.69,3.94,0
+235.9	PowerFirework	-76,62,3010	g1	1.5,3.7,0
+235.9	PowerFirework	-76,62,3010	g1	-1.5,3.7,0
+235.9	PowerFirework	-76,62,3010	g1	0.7,3.9,0
+235.9	PowerFirework	-76,62,3010	g1	-0.7,3.9,0
+235.9	PowerFirework	-76,62,3010	g1	0,4,0
+206.2	Firework	-76,65,3010	j4	1	-1.4,9,0	1
+206.2	Firework	-76,65,3010	j4	1	1.4,9,0	1
+207.4	Firework	-76,65,3010	g2	1	-1.4,9,0	1
+207.4	Firework	-76,65,3010	g2	1	1.4,9,0	1
+210	Firework	-76,65,3010	j4	1	-1.4,9,0	1
+210	Firework	-76,65,3010	j4	1	1.4,9,0	1
+208.6	Firework	-76,65,3010	g2	1	-1.4,9,0	1
+208.6	Firework	-76,65,3010	g2	1	1.4,9,0	1
+211.2	Firework	-76,65,3010	j4	1	-1.4,9,0	1
+211.2	Firework	-76,65,3010	j4	1	1.4,9,0	1
+212.4	Firework	-76,65,3010	g2	1	-1.4,9,0	1
+212.4	Firework	-76,65,3010	g2	1	1.4,9,0	1
+214.8	Firework	-76,65,3010	j4	1	-1.4,9,0	1
+214.8	Firework	-76,65,3010	j4	1	1.4,9,0	1
+213.6	Firework	-76,65,3010	g2	1	-1.4,9,0	1
+213.6	Firework	-76,65,3010	g2	1	1.4,9,0	1
+216	Firework	-76,65,3010	j4	1	-1.4,9,0	1
+216	Firework	-76,65,3010	j4	1	1.4,9,0	1
+216.1	Firework	-76,63,3010	g3	1	0,9,0	1
+216.7	Firework	-76,63,3010	g3	1	1.4,9,0	1
+217.3	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+217.9	Firework	-76,63,3010	g3	1	1.4,9,0	1
+218.5	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+219.1	Firework	-76,63,3010	g3	1	0,9,0	1
+219.7	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+220.3	Firework	-76,63,3010	g3	1	1.4,9,0	1
+220.9	Firework	-76,63,3010	g3	1	0,9,0	1
+221.5	Firework	-76,63,3010	g3	1	1.4,9,0	1
+222.1	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+222.7	Firework	-76,63,3010	g3	1	1.4,9,0	1
+223.3	Firework	-76,63,3010	g3	1	0,9,0	1
+223.9	Firework	-76,63,3010	g3	1	1.4,9,0	1
+224.5	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+225.1	Firework	-76,63,3010	g3	1	0,9,0	1
+225.7	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+226.3	Firework	-76,63,3010	g3	1	0,9,0	1
+226.9	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+227.5	Firework	-76,63,3010	g3	1	1.4,9,0	1
+228.1	Firework	-76,63,3010	g3	1	-1.4,9,0	1
+234.5	Firework	-76,63,3010	n8	1	1.4,9,0	1
+234.5	Firework	-76,63,3010	n8	1	-0.6,9.3,0	1
+234.5	Firework	-76,63,3010	n8	1	0,9,0	1
+234.5	Firework	-76,63,3010	n8	1	0.6,9.3,0	1
+234.5	Firework	-76,63,3010	n8	1	-1.4,9,0	1
+#Morocco
+247	PowerFirework	-92,62,3014	j2	1.29,4.83,0
+247	PowerFirework	-92,62,3014	j2	0,6,0
+247	PowerFirework	-92,62,3014	j2	-1.29,4.83,0
+249.3	PowerFirework	-92,62,3014	j1	1.29,4.83,0
+249.3	PowerFirework	-92,62,3014	j1	0,6,0
+249.3	PowerFirework	-92,62,3014	j1	-1.29,4.83,0
+251.3	PowerFirework	-92,62,3014	j2	1.29,4.83,0
+251.3	PowerFirework	-92,62,3014	j2	0,6,0
+251.3	PowerFirework	-92,62,3014	j2	-1.29,4.83,0
+264	PowerFirework	-92,62,3014	j1	1.29,4.83,0
+264	PowerFirework	-92,62,3014	j1	0,6,0
+264	PowerFirework	-92,62,3014	j1	-1.29,4.83,0
+265	PowerFirework	-92,62,3014	j2	1.29,4.83,0
+265	PowerFirework	-92,62,3014	j2	0,6,0
+265	PowerFirework	-92,62,3014	j2	-1.29,4.83,0
+266	PowerFirework	-92,62,3014	j1	1.29,4.83,0
+266	PowerFirework	-92,62,3014	j1	0,6,0
+266	PowerFirework	-92,62,3014	j1	-1.29,4.83,0
+271.8	PowerFirework	-92,62,3014	j2	1.29,4.83,0
+271.8	PowerFirework	-92,62,3014	j2	0,6,0
+271.8	PowerFirework	-92,62,3014	j2	-1.29,4.83,0
+272.7	PowerFirework	-92,62,3014	j1	1.29,4.83,0
+272.7	PowerFirework	-92,62,3014	j1	0,6,0
+272.7	PowerFirework	-92,62,3014	j1	-1.29,4.83,0
+273.7	PowerFirework	-92,62,3014	j2	1.29,4.83,0
+273.7	PowerFirework	-92,62,3014	j2	0,6,0
+273.7	PowerFirework	-92,62,3014	j2	-1.29,4.83,0
+277.6	PowerFirework	-92,62,3014	m4	1.29,4.83,0
+277.6	PowerFirework	-92,62,3014	m4	0,5,0
+277.6	PowerFirework	-92,62,3014	m4	-1.29,4.83,0
+247	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+248	PowerFirework	-92,62,3014	m3	0,3,0
+247.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+249	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+249.5	PowerFirework	-92,62,3014	m3	0,3,0
+248.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+250.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+251	PowerFirework	-92,62,3014	m3	0,3,0
+250	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+251.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+252	PowerFirework	-92,62,3014	m3	0,3,0
+252.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+253.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+253	PowerFirework	-92,62,3014	m3	0,3,0
+254	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+255	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+255.5	PowerFirework	-92,62,3014	m3	0,3,0
+254.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+257	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+256	PowerFirework	-92,62,3014	m3	0,3,0
+256.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+258	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+257.5	PowerFirework	-92,62,3014	m3	0,3,0
+258.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+259.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+260	PowerFirework	-92,62,3014	m3	0,3,0
+259	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+261.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+261	PowerFirework	-92,62,3014	m3	0,3,0
+260.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+262.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+263	PowerFirework	-92,62,3014	m3	0,3,0
+262	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+264	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+263.5	PowerFirework	-92,62,3014	m3	0,3,0
+264.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+266	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+265	PowerFirework	-92,62,3014	m3	0,3,0
+265.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+267	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+267.5	PowerFirework	-92,62,3014	m3	0,3,0
+266.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+268	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+268.5	PowerFirework	-92,62,3014	m3	0,3,0
+269	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+270	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+270.5	PowerFirework	-92,62,3014	m3	0,3,0
+269.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+271	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+272	PowerFirework	-92,62,3014	m3	0,3,0
+271.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+273.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+273	PowerFirework	-92,62,3014	m3	0,3,0
+272.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+274	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+275	PowerFirework	-92,62,3014	m3	0,3,0
+274.5	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+275.5	PowerFirework	-92,62,3014	m3	0.75,1.85,0
+276.5	PowerFirework	-92,62,3014	m3	0,3,0
+276	PowerFirework	-92,62,3014	m3	-0.75,1.85,0
+253.7	Firework	-92,65,3014	m1,j4	1	2.59,9.66,0	1
+254.2	Firework	-92,65,3014	m1,j4	1	0,10,0	1
+254.7	Firework	-92,65,3014	m1,j4	1	-2.59,9.66,0	1
+255.8	Firework	-92,65,3014	m2,m5	1	2.59,9.66,0	1
+255.9	Firework	-92,65,3014	m2,m5	1	0,10,0	1
+256	Firework	-92,65,3014	m2,m5	1	-2.59,9.66,0	1
+257.6	Firework	-92,65,3014	m1,j4	1	2.59,9.66,0	1
+258.1	Firework	-92,65,3014	m1,j4	1	0,10,0	1
+258.6	Firework	-92,65,3014	m1,j4	1	-2.59,9.66,0	1
+260.5	Firework	-92,65,3014	m2,m5	1	2.59,9.66,0	1
+260.5	Firework	-92,65,3014	m2,m5	1	0,10,0	1
+260.5	Firework	-92,65,3014	m2,m5	1	-2.59,9.66,0	1
+266.3	Firework	-92,65,3014	m1,j4	1	2.59,9.66,0	1
+268.3	Firework	-92,65,3014	m2,m5	1	0,10,0	1
+267.4	Firework	-92,65,3014	m1,j4	1	-2.59,9.66,0	1
+275.7	Firework	-92,65,3014	m2,m5	1	2.59,9.66,0	1
+275	Firework	-92,65,3014	m1,j4	1	0,10,0	1
+274.1	Firework	-92,65,3014	m2,m5	1	-2.59,9.66,0	1
+276.1	Firework	-92,66,3014	n5	1	2.59,9.66,0	1
+276.1	Firework	-92,66,3014	n5	1	0,10,0	1
+276.1	Firework	-92,66,3014	n5	1	-2.59,9.66,0	1
+#UK
+282.3	PowerFirework	-83,62,3010	j3	1.8,7.79,0
+282.3	PowerFirework	-83,62,3010	j3	0,9,0
+282.3	PowerFirework	-83,62,3010	j3	-1.8,7.79,0
+290.5	PowerFirework	-83,62,3010	u7	1.8,7.79,0
+290.5	PowerFirework	-83,62,3010	j3	0,9,0
+290.5	PowerFirework	-83,62,3010	u8	-1.8,7.79,0
+298.6	PowerFirework	-83,62,3010	u7	1.8,7.79,0
+299.2	PowerFirework	-83,62,3010	u7	0,9,0
+299.8	PowerFirework	-83,62,3010	u7	-1.8,7.79,0
+300.8	PowerFirework	-83,62,3010	u8	1.8,7.79,0
+300.8	PowerFirework	-83,62,3010	u8	-1.8,7.79,0
+302.8	PowerFirework	-83,62,3010	c1	1.8,7.79,0
+302.8	PowerFirework	-83,62,3010	c1	0,9,0
+302.8	PowerFirework	-83,62,3010	c1	-1.8,7.79,0
+313.1	PowerFirework	-83,62,3010	u1	1.8,7.79,0
+313.1	PowerFirework	-83,62,3010	u3	0,9,0
+313.1	PowerFirework	-83,62,3010	u2	-1.8,7.79,0
+283	Firework	-83,63,3010	u4	1	1.4,9,0	1
+283.95	Firework	-83,63,3010	u5	1	-0.6,9.3,0	1
+283.95	Firework	-83,63,3010	u5	1	0.6,9.3,0	1
+283	Firework	-83,63,3010	u4	1	-1.4,9,0	1
+285	Firework	-83,63,3010	u6	1	1.4,9,0	1
+285	Firework	-83,63,3010	u6	1	-1.4,9,0	1
+288	Firework	-83,63,3010	u4	1	1.4,9,0	1
+288	Firework	-83,63,3010	u5	1	-0.6,9.3,0	1
+288	Firework	-83,63,3010	u5	1	0.6,9.3,0	1
+288	Firework	-83,63,3010	u4	1	-1.4,9,0	1
+293	Firework	-83,63,3010	u6	1	1.4,9,0	1
+293	Firework	-83,63,3010	u6	1	-1.4,9,0	1
+293	Firework	-83,63,3010	u6	1	1.2,9,0	1
+293	Firework	-83,63,3010	u6	1	-1.2,9,0	1
+294	Firework	-83,63,3010	u4	1	1,9,0	1
+294	Firework	-83,63,3010	u4	1	-1,9,0	1
+294	Firework	-83,63,3010	u4	1	0.8,9,0	1
+294	Firework	-83,63,3010	u4	1	-0.8,9,0	1
+295.1	Firework	-83,63,3010	u5	1	-0.6,9.3,0	1
+295.1	Firework	-83,63,3010	u5	1	0.6,9.3,0	1
+295.1	Firework	-83,63,3010	u5	1	-0.3,9.3,0	1
+295.1	Firework	-83,63,3010	u5	1	0.3,9.3,0	1
+305.4	Firework	-83,63,3010	u5	1	-0.6,9.3,0	1
+305.4	Firework	-83,63,3010	u5	1	0.6,9.3,0	1
+305.4	Firework	-83,63,3010	u5	1	-1,9.3,0	1
+305.4	Firework	-83,63,3010	u5	1	1,9.3,0	1
+306.5	Firework	-83,63,3010	n8	1	-0.6,9.3,0	1
+306.5	Firework	-83,63,3010	n8	1	0.6,9.3,0	1
+306.5	Firework	-83,63,3010	n8	1	-1,9.3,0	1
+306.5	Firework	-83,63,3010	n8	1	1,9.3,0	1
+307.5	Firework	-83,63,3010	u4	1	1.4,9,0	1
+288.5	Firework	-83,63,3010	u6	1	-0.6,9.3,0	1
+288.5	Firework	-83,63,3010	u6	1	0.6,9.3,0	1
+307.5	Firework	-83,63,3010	u4	1	-1.4,9,0	1
+309.5	Firework	-83,63,3010	u4	1	1.4,9,0	1
+309.5	Firework	-83,63,3010	u6	1	-0.6,9.5,0	1
+309.5	Firework	-83,63,3010	u5	1	0,10,0	1
+309.5	Firework	-83,63,3010	u6	1	0.6,9.5,0	1
+309.5	Firework	-83,63,3010	u4	1	-1.4,9,0	1
+311.6	Firework	-83,63,3010	u4	1	1.4,9,0	1
+311.6	Firework	-83,63,3010	u6	1	-0.6,9.5,0	1
+311.6	Firework	-83,63,3010	u5	1	0,10,0	1
+311.6	Firework	-83,63,3010	u6	1	0.6,9.5,0	1
+311.6	Firework	-83,63,3010	u4	1	-1.4,9,0	1
+311.7	Firework	-83,63,3010	u6	1	1.6,9,0	1
+311.8	Firework	-83,63,3010	u5	1	-0.9,9.5,0	1
+311.7	Firework	-83,63,3010	u4	1	0,10,0	1
+311.8	Firework	-83,63,3010	u5	1	0.9,9.5,0	1
+311.7	Firework	-83,63,3010	u6	1	-1.6,9,0	1
+#Countdown
+329.6	PowerFirework	-58,62,3002	j3	5.543,2.296,0
+329.65	PowerFirework	-58,62,3002	j3	4.24,4.24,0
+329.7	PowerFirework	-58,62,3002	j3	2.296,5.543,0
+329.75	PowerFirework	-58,62,3002	j3	0,6,0
+329.8	PowerFirework	-58,62,3002	j3	-2.296,5.543,0
+329.85	PowerFirework	-58,62,3002	j3	-4.24,4.24,0
+329.9	PowerFirework	-58,62,3002	j3	-5.543,2.296,0
+329.95	PowerFirework	-58,62,3002	u3	-6.43,7.66,0
+331.9	PowerFirework	-101,62,3002	j3	-5.543,2.296,0
+331.95	PowerFirework	-101,62,3002	j3	-4.24,4.24,0
+332	PowerFirework	-101,62,3002	j3	-2.296,5.543,0
+332.05	PowerFirework	-101,62,3002	j3	0,6,0
+332.1	PowerFirework	-101,62,3002	j3	2.296,5.543,0
+332.15	PowerFirework	-101,62,3002	j3	4.24,4.24,0
+332.2	PowerFirework	-101,62,3002	j3	5.543,2.296,0
+332.25	PowerFirework	-101,62,3002	u3	6.43,7.66,0
+334.1	PowerFirework	-63,62,3006	j3	5.543,2.296,0
+334.15	PowerFirework	-63,62,3006	j3	4.24,4.24,0
+334.2	PowerFirework	-63,62,3006	j3	2.296,5.543,0
+334.25	PowerFirework	-63,62,3006	j3	0,6,0
+334.3	PowerFirework	-63,62,3006	j3	-2.296,5.543,0
+334.35	PowerFirework	-63,62,3006	j3	-4.24,4.24,0
+334.4	PowerFirework	-63,62,3006	j3	-5.543,2.296,0
+334.45	PowerFirework	-63,62,3006	u3	-6.43,7.66,0
+336.1	PowerFirework	-96,62,3006	j3	-5.543,2.296,0
+336.15	PowerFirework	-96,62,3006	j3	-4.24,4.24,0
+336.2	PowerFirework	-96,62,3006	j3	-2.296,5.543,0
+336.25	PowerFirework	-96,62,3006	j3	0,6,0
+336.3	PowerFirework	-96,62,3006	j3	2.296,5.543,0
+336.35	PowerFirework	-96,62,3006	j3	4.24,4.24,0
+336.4	PowerFirework	-96,62,3006	j3	5.543,2.296,0
+336.45	PowerFirework	-96,62,3006	u3	6.43,7.66,0
+338.2	PowerFirework	-67,62,3014	j3	5.543,2.296,0
+338.25	PowerFirework	-67,62,3014	j3	4.24,4.24,0
+338.3	PowerFirework	-67,62,3014	j3	2.296,5.543,0
+338.35	PowerFirework	-67,62,3014	j3	0,6,0
+338.4	PowerFirework	-67,62,3014	j3	-2.296,5.543,0
+338.45	PowerFirework	-67,62,3014	j3	-4.24,4.24,0
+338.5	PowerFirework	-67,62,3014	j3	-5.543,2.296,0
+338.55	PowerFirework	-67,62,3014	u3	-6.43,7.66,0
+340.2	PowerFirework	-92,62,3014	j3	-5.543,2.296,0
+340.25	PowerFirework	-92,62,3014	j3	-4.24,4.24,0
+340.3	PowerFirework	-92,62,3014	j3	-2.296,5.543,0
+340.35	PowerFirework	-92,62,3014	j3	0,6,0
+340.4	PowerFirework	-92,62,3014	j3	2.296,5.543,0
+340.45	PowerFirework	-92,62,3014	j3	4.24,4.24,0
+340.5	PowerFirework	-92,62,3014	j3	5.543,2.296,0
+340.55	PowerFirework	-92,62,3014	u3	6.43,7.66,0
+342.4	PowerFirework	-76,62,3010	j3	5.543,2.296,0
+342.45	PowerFirework	-76,62,3010	j3	4.24,4.24,0
+342.5	PowerFirework	-76,62,3010	j3	2.296,5.543,0
+342.55	PowerFirework	-76,62,3010	j3	0,6,0
+342.6	PowerFirework	-76,62,3010	j3	-2.296,5.543,0
+342.65	PowerFirework	-76,62,3010	j3	-4.24,4.24,0
+342.7	PowerFirework	-76,62,3010	j3	-5.543,2.296,0
+342.75	PowerFirework	-76,62,3010	u3	-6.43,7.66,0
+344.4	PowerFirework	-83,62,3010	j3	-5.543,2.296,0
+344.45	PowerFirework	-83,62,3010	j3	-4.24,4.24,0
+344.5	PowerFirework	-83,62,3010	j3	-2.296,5.543,0
+344.55	PowerFirework	-83,62,3010	j3	0,6,0
+344.6	PowerFirework	-83,62,3010	j3	2.296,5.543,0
+344.65	PowerFirework	-83,62,3010	j3	4.24,4.24,0
+344.7	PowerFirework	-83,62,3010	j3	5.543,2.296,0
+344.75	PowerFirework	-83,62,3010	u3	6.43,7.66,0
+346.4	PowerFirework	-57,66,3023	j3	5.543,2.296,0
+346.45	PowerFirework	-57,66,3023	j3	4.24,4.24,0
+346.5	PowerFirework	-57,66,3023	j3	2.296,5.543,0
+346.55	PowerFirework	-57,66,3023	j3	0,6,0
+346.6	PowerFirework	-57,66,3023	j3	-2.296,5.543,0
+346.65	PowerFirework	-57,66,3023	j3	-4.24,4.24,0
+346.7	PowerFirework	-57,66,3023	j3	-5.543,2.296,0
+346.75	PowerFirework	-57,66,3023	u3	-6.43,7.66,0
+346.4	PowerFirework	-102,66,3023	j3	-5.543,2.296,0
+346.45	PowerFirework	-102,66,3023	j3	-4.24,4.24,0
+346.5	PowerFirework	-102,66,3023	j3	-2.296,5.543,0
+346.55	PowerFirework	-102,66,3023	j3	0,6,0
+346.6	PowerFirework	-102,66,3023	j3	2.296,5.543,0
+346.65	PowerFirework	-102,66,3023	j3	4.24,4.24,0
+346.7	PowerFirework	-102,66,3023	j3	5.543,2.296,0
+346.75	PowerFirework	-102,66,3023	u3	6.43,7.66,0
+348.3	PowerFirework	-73,61,3024	j3	5.543,2.296,0
+348.35	PowerFirework	-73,61,3024	j3	4.24,4.24,0
+348.4	PowerFirework	-73,61,3024	j3	2.296,5.543,0
+348.45	PowerFirework	-73,61,3024	j3	0,6,0
+348.5	PowerFirework	-73,61,3024	j3	-2.296,5.543,0
+348.55	PowerFirework	-73,61,3024	j3	-4.24,4.24,0
+348.6	PowerFirework	-73,61,3024	j3	-5.543,2.296,0
+348.65	PowerFirework	-73,61,3024	u3	-6.43,7.66,0
+348.3	PowerFirework	-86,61,3024	j3	-5.543,2.296,0
+348.35	PowerFirework	-86,61,3024	j3	-4.24,4.24,0
+348.4	PowerFirework	-86,61,3024	j3	-2.296,5.543,0
+348.45	PowerFirework	-86,61,3024	j3	0,6,0
+348.5	PowerFirework	-86,61,3024	j3	2.296,5.543,0
+348.55	PowerFirework	-86,61,3024	j3	4.24,4.24,0
+348.6	PowerFirework	-86,61,3024	j3	5.543,2.296,0
+348.65	PowerFirework	-86,61,3024	u3	6.43,7.66,0
+350.4	PowerFirework	-75,62,3016	j3	5.543,2.296,0
+350.45	PowerFirework	-75,62,3016	j3	4.24,4.24,0
+350.5	PowerFirework	-75,62,3016	j3	2.296,5.543,0
+350.55	PowerFirework	-75,62,3016	j3	0,6,0
+350.6	PowerFirework	-75,62,3016	j3	-2.296,5.543,0
+350.65	PowerFirework	-75,62,3016	j3	-4.24,4.24,0
+350.7	PowerFirework	-75,62,3016	j3	-5.543,2.296,0
+350.75	PowerFirework	-75,62,3016	u3	-6.43,7.66,0
+350.4	PowerFirework	-84,62,3016	j3	-5.543,2.296,0
+350.45	PowerFirework	-84,62,3016	j3	-4.24,4.24,0
+350.5	PowerFirework	-84,62,3016	j3	-2.296,5.543,0
+350.55	PowerFirework	-84,62,3016	j3	0,6,0
+350.6	PowerFirework	-84,62,3016	j3	2.296,5.543,0
+350.65	PowerFirework	-84,62,3016	j3	4.24,4.24,0
+350.7	PowerFirework	-84,62,3016	j3	5.543,2.296,0
+350.75	PowerFirework	-84,62,3016	u3	6.43,7.66,0
+348.9	Firework	-77,67,3022	a1,a2	1	0,9,0	1
+349	Firework	-79,68,3022	a1,a2	1	0,9,0	1
+349	Firework	-80,68,3022	a1,a2	1	0,9,0	1
+348.9	Firework	-82,67,3022	a1,a2	1	0,9,0	1
+350.7	Firework	-58,62,3002	g3	1	4.25,7,0	1
+350.7	Firework	-58,62,3002	g3	1	-4.25,7,0	1
+350.7	Firework	-63,62,3006	g3	1	4.25,7,0	1
+350.7	Firework	-63,62,3006	g3	1	-4.25,7,0	1
+350.7	Firework	-76,62,3010	g3	1	4.25,7,0	1
+350.7	Firework	-76,62,3010	g3	1	-4.25,7,0	1
+350.7	Firework	-67,62,3014	g3	1	4.25,7,0	1
+350.7	Firework	-67,62,3014	g3	1	-4.25,7,0	1
+350.7	Firework	-92,62,3014	g3	1	4.25,7,0	1
+350.7	Firework	-92,62,3014	g3	1	-4.25,7,0	1
+350.7	Firework	-83,62,3010	g3	1	4.25,7,0	1
+350.7	Firework	-83,62,3010	g3	1	-4.25,7,0	1
+350.7	Firework	-96,62,3006	g3	1	4.25,7,0	1
+350.7	Firework	-96,62,3006	g3	1	-4.25,7,0	1
+350.7	Firework	-101,62,3002	g3	1	4.25,7,0	1
+350.7	Firework	-101,62,3002	g3	1	-4.25,7,0	1
+356.5	Firework	-101,65,3002	n8	1	0,10,0	1
+356.5	Firework	-96,65,3006	n8	1	0,10,0	1
+356.5	Firework	-92,65,3014	n8	1	0,10,0	1
+356.5	Firework	-83,65,3010	n8	1	0,10,0	1
+356.5	Firework	-76,65,3010	n8	1	0,10,0	1
+356.5	Firework	-67,65,3014	n8	1	0,10,0	1
+356.5	Firework	-63,65,3006	n8	1	0,10,0	1
+356.5	Firework	-58,65,3002	n8	1	0,10,0	1
+358.8	Firework	-101,66,3002	n8	1	0,10,0	1
+359.9	Firework	-96,66,3006	n8	1	0,10,0	1
+359.8	Firework	-92,66,3014	n8	1	0,10,0	1
+359.9	Firework	-83,66,3010	n8	1	0,10,0	1
+359.9	Firework	-76,66,3010	n8	1	0,10,0	1
+359.8	Firework	-67,66,3014	n8	1	0,10,0	1
+359.9	Firework	-63,66,3006	n8	1	0,10,0	1
+359.8	Firework	-58,66,3002	n8	1	0,10,0	1
+368.6	PowerFirework	-101,62,3002	f6	2.05,5.64,0
+368.6	PowerFirework	-96,62,3006	f6	2.05,5.64,0
+368.6	PowerFirework	-92,62,3014	f6	2.05,5.64,0
+368.6	PowerFirework	-83,62,3010	f6	2.05,5.64,0
+368.6	PowerFirework	-76,62,3010	f6	2.05,5.64,0
+368.6	PowerFirework	-67,62,3014	f6	2.05,5.64,0
+368.6	PowerFirework	-63,62,3006	f6	2.05,5.64,0
+368.6	PowerFirework	-58,62,3002	f6	2.05,5.64,0
+368.6	PowerFirework	-101,62,3002	f6	-2.05,5.64,0
+368.6	PowerFirework	-96,62,3006	f6	-2.05,5.64,0
+368.6	PowerFirework	-92,62,3014	f6	-2.05,5.64,0
+368.6	PowerFirework	-83,62,3010	f6	-2.05,5.64,0
+368.6	PowerFirework	-76,62,3010	f6	-2.05,5.64,0
+368.6	PowerFirework	-67,62,3014	f6	-2.05,5.64,0
+368.6	PowerFirework	-63,62,3006	f6	-2.05,5.64,0
+368.6	PowerFirework	-58,62,3002	f6	-2.05,5.64,0
+368.6	Firework	-57,67,3023	a3,a4	1	0,10,0	1
+368.6	Firework	-102,67,3023	a3,a4	1	0,10,0	1
+368.6	Firework	-73,63,3024	a3,a4	1	0,10,0	1
+368.6	Firework	-86,63,3024	a3,a4	1	0,10,0	1
+370.3	Firework	-101,65,3002	f7	1	0,10,0	1
+370.3	Firework	-96,65,3006	f7	1	0,10,0	1
+370.3	Firework	-92,65,3014	f7	1	0,10,0	1
+370.3	Firework	-83,65,3010	f7	1	0,10,0	1
+370.3	Firework	-76,65,3010	f7	1	0,10,0	1
+370.3	Firework	-67,65,3014	f7	1	0,10,0	1
+370.3	Firework	-63,65,3006	f7	1	0,10,0	1
+370.3	Firework	-58,65,3002	f7	1	0,10,0	1
+371.7	Firework	-73,63,3024	a4	1	0,10,0	1
+371.7	Firework	-86,63,3024	a4	1	0,10,0	1
+373	Firework	-57,68,3023	a6	1	0,10,0	1
+373	Firework	-102,68,3023	a6	1	0,10,0	1
+373	Firework	-73,65,3024	a6	1	0,10,0	1
+373	Firework	-86,65,3024	a6	1	0,10,0	1
+375.4	PowerFirework	-101,62,3002	n4	2.17,9,0
+375.45	PowerFirework	-96,62,3006	n4	2.17,9,0
+375.5	PowerFirework	-92,62,3014	n4	2.17,9,0
+375.55	PowerFirework	-83,62,3010	n4	2.17,9,0
+375.6	PowerFirework	-76,62,3010	n4	2.17,9,0
+375.65	PowerFirework	-67,62,3014	n4	2.17,9,0
+375.7	PowerFirework	-63,62,3006	n4	2.17,9,0
+375.75	PowerFirework	-58,62,3002	n4	2.17,9,0
+377.3	PowerFirework	-101,62,3002	n4	-2.17,9,0
+377.25	PowerFirework	-96,62,3006	n4	-2.17,9,0
+377.2	PowerFirework	-92,62,3014	n4	-2.17,9,0
+377.15	PowerFirework	-83,62,3010	n4	-2.17,9,0
+377.1	PowerFirework	-76,62,3010	n4	-2.17,9,0
+377.05	PowerFirework	-67,62,3014	n4	-2.17,9,0
+377	PowerFirework	-63,62,3006	n4	-2.17,9,0
+376.95	PowerFirework	-58,62,3002	n4	-2.17,9,0
+376.6	Firework	-101,65,3002	a2	1	0,10,0	1
+376.6	Firework	-96,65,3006	a2	1	0,10,0	1
+376.6	Firework	-92,65,3014	a2	1	0,10,0	1
+376.6	Firework	-83,65,3010	a2	1	0,10,0	1
+376.6	Firework	-76,65,3010	a2	1	0,10,0	1
+376.6	Firework	-67,65,3014	a2	1	0,10,0	1
+376.6	Firework	-63,65,3006	a2	1	0,10,0	1
+376.6	Firework	-58,65,3002	a2	1	0,10,0	1
+377.3	Firework	-57,68,3023	a8,n2	1	0,10,0	1
+377.3	Firework	-102,68,3023	a8,n2	1	0,10,0	1
+377.3	Firework	-73,65,3024	a8,n2	1	0,10,0	1
+377.3	Firework	-86,65,3024	a8,n2	1	0,10,0	1
+382.3	PowerFirework	-101,62,3002	a9	2.05,5.64,0
+382.3	PowerFirework	-96,62,3006	a9	2.05,5.64,0
+382.3	PowerFirework	-92,62,3014	a9	2.05,5.64,0
+382.3	PowerFirework	-83,62,3010	a9	2.05,5.64,0
+382.3	PowerFirework	-76,62,3010	a9	2.05,5.64,0
+382.3	PowerFirework	-67,62,3014	a9	2.05,5.64,0
+382.3	PowerFirework	-63,62,3006	a9	2.05,5.64,0
+382.3	PowerFirework	-58,62,3002	a9	2.05,5.64,0
+382.3	PowerFirework	-101,62,3002	a9	-2.05,5.64,0
+382.3	PowerFirework	-96,62,3006	a9	-2.05,5.64,0
+382.3	PowerFirework	-92,62,3014	a9	-2.05,5.64,0
+382.3	PowerFirework	-83,62,3010	a9	-2.05,5.64,0
+382.3	PowerFirework	-76,62,3010	a9	-2.05,5.64,0
+382.3	PowerFirework	-67,62,3014	a9	-2.05,5.64,0
+382.3	PowerFirework	-63,62,3006	a9	-2.05,5.64,0
+382.3	PowerFirework	-58,62,3002	a9	-2.05,5.64,0
+382.1	Firework	-101,66,3002	n2,16	1	0,10,0	1
+382.1	Firework	-96,66,3006	n2,16	1	0,10,0	1
+382.1	Firework	-92,66,3014	n2,16	1	0,10,0	1
+382.1	Firework	-83,66,3010	n2,16	1	0,10,0	1
+382.1	Firework	-76,66,3010	n2,16	1	0,10,0	1
+382.1	Firework	-67,66,3014	n2,16	1	0,10,0	1
+382.1	Firework	-63,66,3006	n2,16	1	0,10,0	1
+382.1	Firework	-58,66,3002	n2,16	1	0,10,0	1
+385.7	PowerFirework	-101,62,3002	j2	3.05,5.64,0
+385.7	PowerFirework	-96,62,3006	j2	2.05,5.64,0
+385.7	PowerFirework	-92,62,3014	j2	1.05,5.64,0
+385.7	PowerFirework	-83,62,3010	j2	-1.05,5.64,0
+385.7	PowerFirework	-76,62,3010	j2	1.05,5.64,0
+385.7	PowerFirework	-67,62,3014	j2	-1.05,5.64,0
+385.7	PowerFirework	-63,62,3006	j2	-2.05,5.64,0
+385.7	PowerFirework	-58,62,3002	j2	-3.05,5.64,0
+387.1	PowerFirework	-57,66,3023	a11	2.05,5.64,0
+387.1	PowerFirework	-102,66,3023	a11	2.05,5.64,0
+387.1	PowerFirework	-73,61,3024	a11	2.05,5.64,0
+387.1	PowerFirework	-86,61,3024	a11	2.05,5.64,0
+387.1	PowerFirework	-57,66,3023	a11	-2.05,5.64,0
+387.1	PowerFirework	-102,66,3023	a11	-2.05,5.64,0
+387.1	PowerFirework	-73,61,3024	a11	-2.05,5.64,0
+387.1	PowerFirework	-86,61,3024	a11	-2.05,5.64,0
+389.5	Firework	-57,68,3023	a10	1	0,10,0	1
+390.4	Firework	-102,68,3023	a10	1	0,10,0	1
+387.9	Firework	-73,65,3024	a10	1	0,10,0	1
+387.9	Firework	-86,65,3024	a10	1	0,10,0	1
+391.4	Firework	-53,69,3027	a12	1	0,10,0	1
+391.4	Firework	-106,69,3027	a12	1	0,10,0	1
+391.4	Firework	-91,67,3029	a12	1	0,10,0	1
+391.4	Firework	-62,67,3029	a12	1	0,10,0	1
+396.5	PowerFirework	-101,62,3002	a17	2.39,6.58,0
+396.5	PowerFirework	-96,62,3006	a17	2.39,6.58,0
+396.5	PowerFirework	-92,62,3014	a17	2.39,6.58,0
+396.5	PowerFirework	-83,62,3010	a17	2.39,6.58,0
+396.5	PowerFirework	-76,62,3010	a17	2.39,6.58,0
+396.5	PowerFirework	-67,62,3014	a17	2.39,6.58,0
+396.5	PowerFirework	-63,62,3006	a17	2.39,6.58,0
+396.5	PowerFirework	-58,62,3002	a17	2.39,6.58,0
+396.7	Firework	-101,66,3002	a2	1	0,10,0	1
+396.7	Firework	-96,66,3006	a2	1	0,10,0	1
+396.7	Firework	-92,66,3014	a2	1	0,10,0	1
+396.7	Firework	-83,66,3010	a2	1	0,10,0	1
+396.7	Firework	-76,66,3010	a2	1	0,10,0	1
+396.7	Firework	-67,66,3014	a2	1	0,10,0	1
+396.7	Firework	-63,66,3006	a2	1	0,10,0	1
+396.7	Firework	-58,66,3002	a2	1	0,10,0	1
+400.2	PowerFirework	-101,62,3002	a14	2.05,5.64,0
+400.2	PowerFirework	-96,62,3006	a14	1.05,5.64,0
+400.2	PowerFirework	-92,62,3014	a14	1.05,5.64,0
+400.2	PowerFirework	-83,62,3010	a14	-1.05,5.64,0
+400.2	PowerFirework	-76,62,3010	a14	1.05,5.64,0
+400.2	PowerFirework	-67,62,3014	a14	-1.05,5.64,0
+400.2	PowerFirework	-63,62,3006	a14	-1.05,5.64,0
+400.2	PowerFirework	-58,62,3002	a14	-3.05,5.64,0
+402.6	PowerFirework	-101,62,3002	a17	-2.39,6.58,0
+402.6	PowerFirework	-96,62,3006	a17	-2.39,6.58,0
+402.6	PowerFirework	-92,62,3014	a17	-2.39,6.58,0
+402.6	PowerFirework	-83,62,3010	a17	-2.39,6.58,0
+402.6	PowerFirework	-76,62,3010	a17	-2.39,6.58,0
+402.6	PowerFirework	-67,62,3014	a17	-2.39,6.58,0
+402.6	PowerFirework	-63,62,3006	a17	-2.39,6.58,0
+402.6	PowerFirework	-58,62,3002	a17	-2.39,6.58,0
+402.3	Firework	-57,68,3023	a13	1	0,10,0	1
+402.3	Firework	-102,68,3023	a13	1	0,10,0	1
+404	Firework	-73,65,3024	a13	1	0,10,0	1
+404.1	Firework	-86,65,3024	a13	1	0,10,0	1
+405.75	Firework	-53,69,3027	a15,a2	1	0,10,0	1
+405.75	Firework	-106,69,3027	a15,a2	1	0,10,0	1
+405.7	Firework	-91,67,3029	a15,a2	1	0,10,0	1
+405.7	Firework	-62,67,3029	a15,a2	1	0,10,0	1
+407.2	Firework	-57,68,3023	a16	1	0,10,0	1
+407.2	Firework	-102,68,3023	a16	1	0,10,0	1
+407.2	Firework	-73,65,3024	a16	1	0,10,0	1
+407.2	Firework	-86,65,3024	a16	1	0,10,0	1
+411.1	PowerFirework	-101,62,3002	cd1	-2.4,5.5,0
+411.1	PowerFirework	-96,62,3006	cd1	-2.4,5.5,0
+411.1	PowerFirework	-92,62,3014	cd1	-2.4,5.5,0
+411.1	PowerFirework	-83,62,3010	cd1	-2.4,5.5,0
+411.1	PowerFirework	-76,62,3010	cd1	-2.4,5.5,0
+411.1	PowerFirework	-67,62,3014	cd1	-2.4,5.5,0
+411.1	PowerFirework	-63,62,3006	cd1	-2.4,5.5,0
+411.1	PowerFirework	-58,62,3002	cd1	-2.4,5.5,0
+411.1	PowerFirework	-101,62,3002	cd1	2.4,5.5,0
+411.1	PowerFirework	-96,62,3006	cd1	2.4,5.5,0
+411.1	PowerFirework	-92,62,3014	cd1	2.4,5.5,0
+411.1	PowerFirework	-83,62,3010	cd1	2.4,5.5,0
+411.1	PowerFirework	-76,62,3010	cd1	2.4,5.5,0
+411.1	PowerFirework	-67,62,3014	cd1	2.4,5.5,0
+411.1	PowerFirework	-63,62,3006	cd1	2.4,5.5,0
+411.1	PowerFirework	-58,62,3002	cd1	2.4,5.5,0
+411.5	Firework	-101,66,3002	a18,n8	1	0,10,0	1
+411.5	Firework	-96,66,3006	a18,n8	1	0,10,0	1
+411.5	Firework	-92,66,3014	a18,n8	1	0,10,0	1
+411.5	Firework	-83,66,3010	a18,n8	1	0,10,0	1
+411.5	Firework	-76,66,3010	a18,n8	1	0,10,0	1
+411.5	Firework	-67,66,3014	a18,n8	1	0,10,0	1
+411.5	Firework	-63,66,3006	a18,n8	1	0,10,0	1
+411.5	Firework	-58,66,3002	a18,n8	1	0,10,0	1
+414.7	PowerFirework	-101,62,3002	j7	0,7,0
+414.7	PowerFirework	-96,62,3006	j7	0,7,0
+414.7	PowerFirework	-92,62,3014	j7	0,7,0
+414.7	PowerFirework	-83,62,3010	j7	0,7,0
+414.7	PowerFirework	-76,62,3010	j7	0,7,0
+414.7	PowerFirework	-67,62,3014	j7	0,7,0
+414.7	PowerFirework	-63,62,3006	j7	0,7,0
+414.7	PowerFirework	-58,62,3002	j7	0,7,0
+417.6	PowerFirework	-57,66,3023	u5	1.91,9.82,0
+417.6	PowerFirework	-102,66,3023	u5	1.91,9.82,0
+417.6	PowerFirework	-73,61,3024	u5	1.91,9.82,0
+417.6	PowerFirework	-86,61,3024	u5	1.91,9.82,0
+417.6	PowerFirework	-57,66,3023	u5	-1.91,9.82,0
+417.6	PowerFirework	-102,66,3023	u5	-1.91,9.82,0
+417.6	PowerFirework	-73,61,3024	u5	-1.91,9.82,0
+417.6	PowerFirework	-86,61,3024	u5	-1.91,9.82,0
+417.1	Firework	-53,69,3027	a18	1	0,10,0	1
+417.1	Firework	-106,69,3027	a18	1	0,10,0	1
+417.1	Firework	-91,67,3029	a18	1	0,10,0	1
+417.1	Firework	-62,67,3029	a18	1	0,10,0	1
+418.8	Firework	-57,68,3023	a19	1	0,10,0	1
+418.8	Firework	-102,68,3023	a19	1	0,10,0	1
+419.9	Firework	-73,65,3024	a20	1	0,10,0	1
+419.9	Firework	-86,65,3024	a20	1	0,10,0	1
+419.95	Firework	-53,69,3027	a18	1	0,10,0	1
+419.95	Firework	-106,69,3027	a18	1	0,10,0	1
+419.95	Firework	-91,67,3029	a18	1	0,10,0	1
+419.95	Firework	-62,67,3029	a18	1	0,10,0	1
+419.95	Firework	-57,68,3023	a18	1	0,10,0	1
+419.95	Firework	-102,68,3023	a18	1	0,10,0	1
+419.95	Firework	-73,65,3024	a18	1	0,10,0	1
+419.95	Firework	-86,65,3024	a18	1	0,10,0	1
+427	Firework	-102,66,3002	a7	1	0,10,0	1
+427	Firework	-57,66,3002	a7	1	0,10,0	1
+425.2	Firework	-62,66,3006	a22,a20	1	0,10,0	1
+425.2	Firework	-97,66,3006	a22,a20	1	0,10,0	1
+427	Firework	-93,66,3014	a7	1	0,10,0	1
+427	Firework	-66,66,3014	a7	1	0,10,0	1
+425.2	Firework	-84,66,3010	a21,a19	1	0,10,0	1
+425.2	Firework	-75,66,3010	a21,a19	1	0,10,0	1
+430.7	Firework	-102,66,3002	a21,a19	1	0,10,0	1
+430.7	Firework	-57,66,3002	a21,a19	1	0,10,0	1
+428.8	Firework	-62,66,3006	a7	1	0,10,0	1
+428.8	Firework	-97,66,3006	a7	1	0,10,0	1
+430.7	Firework	-93,66,3014	a22,a20	1	0,10,0	1
+430.7	Firework	-66,66,3014	a22,a20	1	0,10,0	1
+428.8	Firework	-84,66,3010	a7	1	0,10,0	1
+428.8	Firework	-75,66,3010	a7	1	0,10,0	1
+434.5	Firework	-102,66,3002	a7	1	0,10,0	1
+434.5	Firework	-57,66,3002	a7	1	0,10,0	1
+432.7	Firework	-62,66,3006	a22,a20	1	0,10,0	1
+432.9	Firework	-97,66,3006	a22,a20	1	0,10,0	1
+435.3	Firework	-93,66,3014	a7	1	0,10,0	1
+435.3	Firework	-66,66,3014	a7	1	0,10,0	1
+433.1	Firework	-84,66,3010	a21,a19	1	0,10,0	1
+433.3	Firework	-75,66,3010	a21,a19	1	0,10,0	1
+436.3	Firework	-102,66,3002	a7	1	0,10,0	1
+436.3	Firework	-57,66,3002	a7	1	0,10,0	1
+436.3	Firework	-62,66,3006	a7	1	0,10,0	1
+436.3	Firework	-97,66,3006	a7	1	0,10,0	1
+436.3	Firework	-93,66,3014	a7	1	0,10,0	1
+436.3	Firework	-66,66,3014	a7	1	0,10,0	1
+436.3	Firework	-84,66,3010	a7	1	0,10,0	1
+436.3	Firework	-75,66,3010	a7	1	0,10,0	1
+437.8	PowerFirework	-101,62,3002	cd1	3.4,9.4,0
+437.8	PowerFirework	-96,62,3006	cd1	3.4,9.4,0
+437.8	PowerFirework	-92,62,3014	cd1	3.4,9.4,0
+437.8	PowerFirework	-83,62,3010	cd1	3.4,9.4,0
+437.8	PowerFirework	-76,62,3010	cd1	3.4,9.4,0
+437.8	PowerFirework	-67,62,3014	cd1	3.4,9.4,0
+437.8	PowerFirework	-63,62,3006	cd1	3.4,9.4,0
+437.8	PowerFirework	-58,62,3002	cd1	3.4,9.4,0
+437.8	PowerFirework	-101,62,3002	cd1	-3.4,9.4,0
+437.8	PowerFirework	-96,62,3006	cd1	-3.4,9.4,0
+437.8	PowerFirework	-92,62,3014	cd1	-3.4,9.4,0
+437.8	PowerFirework	-83,62,3010	cd1	-3.4,9.4,0
+437.8	PowerFirework	-76,62,3010	cd1	-3.4,9.4,0
+437.8	PowerFirework	-67,62,3014	cd1	-3.4,9.4,0
+437.8	PowerFirework	-63,62,3006	cd1	-3.4,9.4,0
+437.8	PowerFirework	-58,62,3002	cd1	-3.4,9.4,0
+437.8	PowerFirework	-101,62,3002	a17	0,10,0
+437.8	PowerFirework	-96,62,3006	a17	0,10,0
+437.8	PowerFirework	-92,62,3014	a17	0,10,0
+437.8	PowerFirework	-83,62,3010	a17	0,10,0
+437.8	PowerFirework	-76,62,3010	a17	0,10,0
+437.8	PowerFirework	-67,62,3014	a17	0,10,0
+437.8	PowerFirework	-63,62,3006	a17	0,10,0
+437.8	PowerFirework	-58,62,3002	a17	0,10,0
+425.8	PowerFirework	-101,62,3002	i3	0,10,0
+425.8	PowerFirework	-58,62,3002	i3	0,10,0
+426.3	PowerFirework	-96,62,3006	i3	0,10,0
+426.3	PowerFirework	-63,62,3006	i3	0,10,0
+426.8	PowerFirework	-92,62,3014	i3	0,10,0
+426.8	PowerFirework	-67,62,3014	i3	0,10,0
+427.3	PowerFirework	-83,62,3010	i3	0,10,0
+427.3	PowerFirework	-76,62,3010	i3	0,10,0
+427.8	PowerFirework	-101,62,3002	i3	0,10,0
+427.8	PowerFirework	-58,62,3002	i3	0,10,0
+428.3	PowerFirework	-96,62,3006	i3	0,10,0
+428.3	PowerFirework	-63,62,3006	i3	0,10,0
+428.8	PowerFirework	-92,62,3014	i3	0,10,0
+428.8	PowerFirework	-67,62,3014	i3	0,10,0
+429.3	PowerFirework	-83,62,3010	i3	0,10,0
+429.3	PowerFirework	-76,62,3010	i3	0,10,0
+429.8	PowerFirework	-101,62,3002	i3	0,10,0
+429.8	PowerFirework	-58,62,3002	i3	0,10,0
+430.3	PowerFirework	-96,62,3006	i3	0,10,0
+430.3	PowerFirework	-63,62,3006	i3	0,10,0
+430.8	PowerFirework	-92,62,3014	i3	0,10,0
+430.8	PowerFirework	-67,62,3014	i3	0,10,0
+431.3	PowerFirework	-83,62,3010	i3	0,10,0
+431.3	PowerFirework	-76,62,3010	i3	0,10,0
+431.8	PowerFirework	-101,62,3002	i3	0,10,0
+431.8	PowerFirework	-58,62,3002	i3	0,10,0
+432.3	PowerFirework	-96,62,3006	i3	0,10,0
+432.3	PowerFirework	-63,62,3006	i3	0,10,0
+432.8	PowerFirework	-92,62,3014	i3	0,10,0
+432.8	PowerFirework	-67,62,3014	i3	0,10,0
+433.3	PowerFirework	-83,62,3010	i3	0,10,0
+433.3	PowerFirework	-76,62,3010	i3	0,10,0
+433.8	PowerFirework	-101,62,3002	i3	0,10,0
+433.8	PowerFirework	-58,62,3002	i3	0,10,0
+434.3	PowerFirework	-96,62,3006	i3	0,10,0
+434.3	PowerFirework	-63,62,3006	i3	0,10,0
+434.8	PowerFirework	-92,62,3014	i3	0,10,0
+434.8	PowerFirework	-67,62,3014	i3	0,10,0
+435.3	PowerFirework	-83,62,3010	i3	0,10,0
+435.3	PowerFirework	-76,62,3010	i3	0,10,0
+435.8	PowerFirework	-101,62,3002	i3	0,10,0
+435.8	PowerFirework	-58,62,3002	i3	0,10,0
+436.3	PowerFirework	-96,62,3006	i3	0,10,0
+436.3	PowerFirework	-63,62,3006	i3	0,10,0
+436.8	PowerFirework	-92,62,3014	i3	0,10,0
+436.8	PowerFirework	-67,62,3014	i3	0,10,0
+437.3	PowerFirework	-83,62,3010	i3	0,10,0
+437.3	PowerFirework	-76,62,3010	i3	0,10,0
+437.8	PowerFirework	-101,62,3002	i3	0,10,0
+437.8	PowerFirework	-58,62,3002	i3	0,10,0
+438.3	PowerFirework	-96,62,3006	i3	0,10,0
+438.3	PowerFirework	-63,62,3006	i3	0,10,0
+438.8	PowerFirework	-92,62,3014	i3	0,10,0
+438.8	PowerFirework	-67,62,3014	i3	0,10,0
+439.3	PowerFirework	-83,62,3010	i3	0,10,0
+439.3	PowerFirework	-76,62,3010	i3	0,10,0
+439.8	PowerFirework	-101,62,3002	i3	0,10,0
+439.8	PowerFirework	-58,62,3002	i3	0,10,0
+440.3	PowerFirework	-96,62,3006	i3	0,10,0
+440.3	PowerFirework	-63,62,3006	i3	0,10,0
+440.8	PowerFirework	-92,62,3014	i3	0,10,0
+440.8	PowerFirework	-67,62,3014	i3	0,10,0
+441.3	PowerFirework	-83,62,3010	i3	0,10,0
+441.3	PowerFirework	-76,62,3010	i3	0,10,0
+441.8	PowerFirework	-101,62,3002	i3	0,10,0
+441.8	PowerFirework	-58,62,3002	i3	0,10,0
+442.3	PowerFirework	-96,62,3006	i3	0,10,0
+442.3	PowerFirework	-63,62,3006	i3	0,10,0
+442.8	PowerFirework	-92,62,3014	i3	0,10,0
+442.8	PowerFirework	-67,62,3014	i3	0,10,0
+443.3	PowerFirework	-83,62,3010	i3	0,10,0
+443.3	PowerFirework	-76,62,3010	i3	0,10,0
+443.8	PowerFirework	-101,62,3002	i3	0,10,0
+443.8	PowerFirework	-58,62,3002	i3	0,10,0
+444.3	PowerFirework	-96,62,3006	i3	0,10,0
+444.3	PowerFirework	-63,62,3006	i3	0,10,0
+444.8	PowerFirework	-92,62,3014	i3	0,10,0
+444.8	PowerFirework	-67,62,3014	i3	0,10,0
+445.3	PowerFirework	-83,62,3010	i3	0,10,0
+445.3	PowerFirework	-76,62,3010	i3	0,10,0
+445.8	PowerFirework	-101,62,3002	i3	0,10,0
+445.8	PowerFirework	-58,62,3002	i3	0,10,0
+446.3	PowerFirework	-96,62,3006	i3	0,10,0
+446.3	PowerFirework	-63,62,3006	i3	0,10,0
+446.8	PowerFirework	-92,62,3014	i3	0,10,0
+446.8	PowerFirework	-67,62,3014	i3	0,10,0
+447.3	PowerFirework	-83,62,3010	i3	0,10,0
+447.3	PowerFirework	-76,62,3010	i3	0,10,0
+447.8	PowerFirework	-101,62,3002	i3	0,10,0
+447.8	PowerFirework	-58,62,3002	i3	0,10,0
+448.3	PowerFirework	-96,62,3006	i3	0,10,0
+448.3	PowerFirework	-63,62,3006	i3	0,10,0
+448.8	PowerFirework	-92,62,3014	i3	0,10,0
+448.8	PowerFirework	-67,62,3014	i3	0,10,0
+449.3	PowerFirework	-83,62,3010	i3	0,10,0
+449.3	PowerFirework	-76,62,3010	i3	0,10,0
+449.8	PowerFirework	-101,62,3002	i3	0,10,0
+449.8	PowerFirework	-58,62,3002	i3	0,10,0
+450.3	PowerFirework	-96,62,3006	i3	0,10,0
+450.3	PowerFirework	-63,62,3006	i3	0,10,0
+450.8	PowerFirework	-92,62,3014	i3	0,10,0
+450.8	PowerFirework	-67,62,3014	i3	0,10,0
+451.3	PowerFirework	-83,62,3010	i3	0,10,0
+451.3	PowerFirework	-76,62,3010	i3	0,10,0
+451.8	PowerFirework	-101,62,3002	i3	0,10,0
+451.8	PowerFirework	-58,62,3002	i3	0,10,0
+452.3	PowerFirework	-96,62,3006	i3	0,10,0
+452.3	PowerFirework	-63,62,3006	i3	0,10,0
+452.8	PowerFirework	-92,62,3014	i3	0,10,0
+452.8	PowerFirework	-67,62,3014	i3	0,10,0
+453.3	PowerFirework	-83,62,3010	i3	0,10,0
+453.3	PowerFirework	-76,62,3010	i3	0,10,0
+439.9	Firework	-57,68,3023	a13	1	0,10,0	1
+439.9	Firework	-102,68,3023	a13	1	0,10,0	1
+439.9	Firework	-73,65,3024	a13	1	0,10,0	1
+439.9	Firework	-86,65,3024	a13	1	0,10,0	1
+440.4	Firework	-58,62,3002	g3	1	4.25,7,0	1
+440.4	Firework	-58,62,3002	g3	1	-4.25,7,0	1
+440.4	Firework	-63,62,3006	g3	1	4.25,7,0	1
+440.4	Firework	-63,62,3006	g3	1	-4.25,7,0	1
+440.4	Firework	-76,62,3010	g3	1	4.25,7,0	1
+440.4	Firework	-76,62,3010	g3	1	-4.25,7,0	1
+440.4	Firework	-67,62,3014	g3	1	4.25,7,0	1
+440.4	Firework	-67,62,3014	g3	1	-4.25,7,0	1
+440.4	Firework	-92,62,3014	g3	1	4.25,7,0	1
+440.4	Firework	-92,62,3014	g3	1	-4.25,7,0	1
+440.4	Firework	-83,62,3010	g3	1	4.25,7,0	1
+440.4	Firework	-83,62,3010	g3	1	-4.25,7,0	1
+440.4	Firework	-96,62,3006	g3	1	4.25,7,0	1
+440.4	Firework	-96,62,3006	g3	1	-4.25,7,0	1
+440.4	Firework	-101,62,3002	g3	1	4.25,7,0	1
+440.4	Firework	-101,62,3002	g3	1	-4.25,7,0	1
+442	Firework	-53,69,3027	a16	1	0,10,0	1
+442	Firework	-106,69,3027	a16	1	0,10,0	1
+442	Firework	-91,67,3029	a16	1	0,10,0	1
+442	Firework	-62,67,3029	a16	1	0,10,0	1
+444	Firework	-57,68,3023	a23	1	0,10,0	1
+444	Firework	-102,68,3023	a23	1	0,10,0	1
+444	Firework	-73,65,3024	a23	1	0,10,0	1
+444	Firework	-86,65,3024	a23	1	0,10,0	1
+447	Firework	-53,69,3027	a12	1	0,10,0	1
+447	Firework	-106,69,3027	a12	1	0,10,0	1
+447	Firework	-91,67,3029	a12	1	0,10,0	1
+447	Firework	-62,67,3029	a12	1	0,10,0	1
+451.9	Firework	-57,68,3023	a13	1	0,10,0	1
+451.9	Firework	-102,68,3023	a13	1	0,10,0	1
+451.9	Firework	-73,65,3024	a13	1	0,10,0	1
+451.9	Firework	-86,65,3024	a13	1	0,10,0	1
+451.9	Firework	-53,69,3027	a13	1	0,10,0	1
+451.9	Firework	-106,69,3027	a13	1	0,10,0	1
+451.9	Firework	-91,67,3029	a13	1	0,10,0	1
+451.9	Firework	-62,67,3029	a13	1	0,10,0	1
+457.2	PowerFirework	-101,62,3002	cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1	0,0.7,0
+457.2	PowerFirework	-58,62,3002	cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1	0,0.7,0
+457.2	PowerFirework	-92,62,3014	cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1	0,0.7,0
+457.2	PowerFirework	-67,62,3014	cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1,cd1	0,0.7,0
+457.2	PowerFirework	-96,62,3006	cd1	0,1,0
+457.2	PowerFirework	-63,62,3006	cd1	0,1,0
+457.2	PowerFirework	-83,62,3010	cd1	0,1,0
+457.2	PowerFirework	-76,62,3010	cd1	0,1,0
+457.8	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+457.8	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+457.8	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+457.8	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+457.8	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+457.8	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+457.8	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+457.8	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+458.4	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+458.4	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+458.4	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+458.4	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+458.4	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+458.4	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+458.4	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+458.4	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+459	PowerFirework	-96,62,3006	cd1	0,1,0
+459	PowerFirework	-63,62,3006	cd1	0,1,0
+459	PowerFirework	-83,62,3010	cd1	0,1,0
+459	PowerFirework	-76,62,3010	cd1	0,1,0
+459.6	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+459.6	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+459.6	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+459.6	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+459.6	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+459.6	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+459.6	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+459.6	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+460.2	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+460.2	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+460.2	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+460.2	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+460.2	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+460.2	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+460.2	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+460.2	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+460.8	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+460.8	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+460.8	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+460.8	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+460.8	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+460.8	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+460.8	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+460.8	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+461.4	PowerFirework	-96,62,3006	cd1	0,1,0
+461.4	PowerFirework	-63,62,3006	cd1	0,1,0
+461.4	PowerFirework	-83,62,3010	cd1	0,1,0
+461.4	PowerFirework	-76,62,3010	cd1	0,1,0
+462	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+462	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+462	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+462	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+462	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+462	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+462	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+462	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+462.6	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+462.6	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+462.6	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+462.6	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+462.6	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+462.6	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+462.6	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+462.6	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+463.2	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+463.2	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+463.2	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+463.2	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+463.2	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+463.2	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+463.2	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+463.2	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+464.8	PowerFirework	-96,62,3006	cd1	0,1,0
+464.8	PowerFirework	-63,62,3006	cd1	0,1,0
+464.8	PowerFirework	-83,62,3010	cd1	0,1,0
+464.8	PowerFirework	-76,62,3010	cd1	0,1,0
+465.4	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+465.4	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+465.4	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+465.4	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+465.4	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+465.4	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+465.4	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+465.4	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+466	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+466	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+466	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+466	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+466	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+466	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+466	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+466	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+466.6	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+466.6	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+466.6	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+466.6	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+466.6	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+466.6	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+466.6	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+466.6	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+467.2	PowerFirework	-96,62,3006	cd1	0,1,0
+467.2	PowerFirework	-63,62,3006	cd1	0,1,0
+467.2	PowerFirework	-83,62,3010	cd1	0,1,0
+467.2	PowerFirework	-76,62,3010	cd1	0,1,0
+467.8	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+467.8	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+467.8	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+467.8	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+467.8	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+467.8	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+467.8	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+467.8	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+468.4	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+468.4	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+468.4	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+468.4	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+468.4	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+468.4	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+468.4	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+468.4	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+469	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+469	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+469	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+469	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+469	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+469	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+469	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+469	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+469.6	PowerFirework	-96,62,3006	cd1	0,1,0
+469.6	PowerFirework	-63,62,3006	cd1	0,1,0
+469.6	PowerFirework	-83,62,3010	cd1	0,1,0
+469.6	PowerFirework	-76,62,3010	cd1	0,1,0
+470.2	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+470.2	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+470.2	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+470.2	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+470.2	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+470.2	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+470.2	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+470.2	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+470.8	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+470.8	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+470.8	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+470.8	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+470.8	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+470.8	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+470.8	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+470.8	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+471.4	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+471.4	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+471.4	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+471.4	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+471.4	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+471.4	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+471.4	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+471.4	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+472	PowerFirework	-96,62,3006	cd1	0,1,0
+472	PowerFirework	-63,62,3006	cd1	0,1,0
+472	PowerFirework	-83,62,3010	cd1	0,1,0
+472	PowerFirework	-76,62,3010	cd1	0,1,0
+472.6	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+472.6	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+472.6	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+472.6	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+472.6	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+472.6	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+472.6	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+472.6	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+473.2	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+473.2	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+473.2	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+473.2	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+473.2	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+473.2	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+473.2	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+473.2	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+473.8	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+473.8	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+473.8	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+473.8	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+473.8	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+473.8	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+473.8	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+473.8	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+474.4	PowerFirework	-96,62,3006	cd1	0,1,0
+474.4	PowerFirework	-63,62,3006	cd1	0,1,0
+474.4	PowerFirework	-83,62,3010	cd1	0,1,0
+474.4	PowerFirework	-76,62,3010	cd1	0,1,0
+475	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+475	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+475	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+475	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+475	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+475	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+475	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+475	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+475.6	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+475.6	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+475.6	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+475.6	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+475.6	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+475.6	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+475.6	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+475.6	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+476.2	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+476.2	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+476.2	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+476.2	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+476.2	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+476.2	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+476.2	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+476.2	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+476.8	PowerFirework	-96,62,3006	cd1	0,1,0
+476.8	PowerFirework	-63,62,3006	cd1	0,1,0
+476.8	PowerFirework	-83,62,3010	cd1	0,1,0
+476.8	PowerFirework	-76,62,3010	cd1	0,1,0
+477.4	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+477.4	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+477.4	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+477.4	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+477.4	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+477.4	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+477.4	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+477.4	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+478	PowerFirework	-96,62,3006	cd1	0.71,0.71,0
+478	PowerFirework	-63,62,3006	cd1	0.71,0.71,0
+478	PowerFirework	-83,62,3010	cd1	0.71,0.71,0
+478	PowerFirework	-76,62,3010	cd1	0.71,0.71,0
+478	PowerFirework	-96,62,3006	cd1	-0.71,0.71,0
+478	PowerFirework	-63,62,3006	cd1	-0.71,0.71,0
+478	PowerFirework	-83,62,3010	cd1	-0.71,0.71,0
+478	PowerFirework	-76,62,3010	cd1	-0.71,0.71,0
+478.6	PowerFirework	-96,62,3006	cd1	0.3,0.954,0
+478.6	PowerFirework	-63,62,3006	cd1	0.3,0.954,0
+478.6	PowerFirework	-83,62,3010	cd1	0.3,0.954,0
+478.6	PowerFirework	-76,62,3010	cd1	0.3,0.954,0
+478.6	PowerFirework	-96,62,3006	cd1	-0.3,0.954,0
+478.6	PowerFirework	-63,62,3006	cd1	-0.3,0.954,0
+478.6	PowerFirework	-83,62,3010	cd1	-0.3,0.954,0
+478.6	PowerFirework	-76,62,3010	cd1	-0.3,0.954,0
+455.7	Firework	-57,68,3023	a15	1	0,10,0	1
+455.7	Firework	-102,68,3023	a15	1	0,10,0	1
+455.7	Firework	-73,65,3024	a15	1	0,10,0	1
+455.7	Firework	-86,65,3024	a15	1	0,10,0	1
+458.9	Firework	-53,69,3027	a1	1	0,10,0	1
+458.9	Firework	-106,69,3027	a1	1	0,10,0	1
+458.9	Firework	-91,67,3029	a1	1	0,10,0	1
+458.9	Firework	-62,67,3029	a1	1	0,10,0	1
+462.4	Firework	-57,68,3023	a25	1	0,10,0	1
+462.4	Firework	-102,68,3023	a25	1	0,10,0	1
+462.4	Firework	-73,65,3024	a25	1	0,10,0	1
+462.4	Firework	-86,65,3024	a25	1	0,10,0	1
+465.4	Firework	-53,69,3027	a23	1	0,10,0	1
+465.4	Firework	-106,69,3027	a23	1	0,10,0	1
+465.4	Firework	-91,67,3029	a23	1	0,10,0	1
+465.4	Firework	-62,67,3029	a23	1	0,10,0	1
+468.9	Firework	-57,68,3023	a12	1	0,10,0	1
+468.9	Firework	-102,68,3023	a12	1	0,10,0	1
+468.9	Firework	-73,65,3024	a12	1	0,10,0	1
+468.9	Firework	-86,65,3024	a12	1	0,10,0	1
+468.9	Firework	-53,69,3027	a10	1	0,10,0	1
+468.9	Firework	-106,69,3027	a10	1	0,10,0	1
+468.9	Firework	-91,67,3029	a10	1	0,10,0	1
+468.9	Firework	-62,67,3029	a10	1	0,10,0	1
+472	Firework	-101,64,3002	f7	1	0,8,0	1
+472	Firework	-58,64,3002	f7	1	0,8,0	1
+472	Firework	-96,64,3006	f7	1	0,8,0	1
+472	Firework	-63,64,3006	f7	1	0,8,0	1
+472	Firework	-92,64,3014	f7	1	0,8,0	1
+472	Firework	-67,64,3014	f7	1	0,8,0	1
+472	Firework	-83,64,3010	f7	1	0,8,0	1
+472	Firework	-76,64,3010	f7	1	0,8,0	1
+475.5	Firework	-53,69,3027	a3	1	0,10,0	1
+475.5	Firework	-106,69,3027	a3	1	0,10,0	1
+475.5	Firework	-91,67,3029	a3	1	0,10,0	1
+475.5	Firework	-62,67,3029	a3	1	0,10,0	1
+477.5	Firework	-101,64,3002	j4	1	0,8,0	1
+477.5	Firework	-58,64,3002	n2	1	0,8,0	1
+477.5	Firework	-96,64,3006	j4	1	0,8,0	1
+477.5	Firework	-63,64,3006	n2	1	0,8,0	1
+477.5	Firework	-92,64,3014	n2	1	0,8,0	1
+477.5	Firework	-67,64,3014	j4	1	0,8,0	1
+477.5	Firework	-83,64,3010	n2	1	0,8,0	1
+477.5	Firework	-76,64,3010	j4	1	0,8,0	1
+478.6	Firework	-57,68,3023	a8,m5	1	0,10,0	1
+478.6	Firework	-102,68,3023	a8,m5	1	0,10,0	1
+478.6	Firework	-73,65,3024	a8,m5	1	0,10,0	1
+478.6	Firework	-86,65,3024	a8,m5	1	0,10,0	1
+480.3	Firework	-53,69,3027	a26	1	0,10,0	1
+480.3	Firework	-106,69,3027	a26	1	0,10,0	1
+480.4	Firework	-91,67,3029	a26	1	0,10,0	1
+480.4	Firework	-62,67,3029	a26	1	0,10,0	1
+480.5	Firework	-57,68,3023	a26	1	0,10,0	1
+480.5	Firework	-102,68,3023	a26	1	0,10,0	1
+480.6	Firework	-73,65,3024	a26	1	0,10,0	1
+480.6	Firework	-86,65,3024	a26	1	0,10,0	1
+480.7	Firework	-53,69,3027	a26	1	0,10,0	1
+480.7	Firework	-106,69,3027	a26	1	0,10,0	1
+480.8	Firework	-91,67,3029	a26	1	0,10,0	1
+480.8	Firework	-62,67,3029	a26	1	0,10,0	1
+480.9	Firework	-57,68,3023	a26	1	0,10,0	1
+480.9	Firework	-102,68,3023	a26	1	0,10,0	1
+481	Firework	-73,65,3024	a26	1	0,10,0	1
+481	Firework	-86,65,3024	a26	1	0,10,0	1
+481.1	Firework	-53,69,3027	a26	1	0,10,0	1
+481.1	Firework	-106,69,3027	a26	1	0,10,0	1
+481.2	Firework	-91,67,3029	a26	1	0,10,0	1
+481.2	Firework	-62,67,3029	a26	1	0,10,0	1
+481.3	Firework	-57,68,3023	a26	1	0,10,0	1
+481.3	Firework	-102,68,3023	a26	1	0,10,0	1
+481.4	Firework	-73,65,3024	a26	1	0,10,0	1
+481.4	Firework	-86,65,3024	a26	1	0,10,0	1
+481.5	Firework	-53,69,3027	a26	1	0,10,0	1
+481.5	Firework	-106,69,3027	a26	1	0,10,0	1
+481.6	Firework	-91,67,3029	a26	1	0,10,0	1
+481.6	Firework	-62,67,3029	a26	1	0,10,0	1
+481.7	Firework	-57,68,3023	a26	1	0,10,0	1
+481.7	Firework	-102,68,3023	a26	1	0,10,0	1
+481.8	Firework	-73,65,3024	a26	1	0,10,0	1
+481.8	Firework	-86,65,3024	a26	1	0,10,0	1
+481.9	Firework	-53,69,3027	a26	1	0,10,0	1
+481.9	Firework	-106,69,3027	a26	1	0,10,0	1
+482	Firework	-91,67,3029	a26	1	0,10,0	1
+482	Firework	-62,67,3029	a26	1	0,10,0	1
+482.1	Firework	-57,68,3023	a26	1	0,10,0	1
+482.1	Firework	-102,68,3023	a26	1	0,10,0	1
+482.2	Firework	-73,65,3024	a26	1	0,10,0	1
+482.2	Firework	-86,65,3024	a26	1	0,10,0	1
+482.3	Firework	-53,69,3027	a26	1	0,10,0	1
+482.3	Firework	-106,69,3027	a26	1	0,10,0	1
+482.4	Firework	-91,67,3029	a26	1	0,10,0	1
+482.4	Firework	-62,67,3029	a26	1	0,10,0	1
+482.5	Firework	-57,68,3023	a26	1	0,10,0	1
+482.5	Firework	-102,68,3023	a26	1	0,10,0	1
+482.6	Firework	-73,65,3024	a26	1	0,10,0	1
+482.6	Firework	-86,65,3024	a26	1	0,10,0	1
+482.7	Firework	-53,69,3027	a26	1	0,10,0	1
+482.7	Firework	-106,69,3027	a26	1	0,10,0	1
+482.8	Firework	-91,67,3029	a26	1	0,10,0	1
+482.8	Firework	-62,67,3029	a26	1	0,10,0	1
+482.9	Firework	-57,68,3023	a26	1	0,10,0	1
+482.9	Firework	-102,68,3023	a26	1	0,10,0	1
+483	Firework	-73,65,3024	a26	1	0,10,0	1
+483	Firework	-86,65,3024	a26	1	0,10,0	1
+483.1	Firework	-53,69,3027	a26	1	0,10,0	1
+483.1	Firework	-106,69,3027	a26	1	0,10,0	1
+483.2	Firework	-91,67,3029	a26	1	0,10,0	1
+483.2	Firework	-62,67,3029	a26	1	0,10,0	1
+483.3	Firework	-57,68,3023	a26	1	0,10,0	1
+483.3	Firework	-102,68,3023	a26	1	0,10,0	1
+483.4	Firework	-73,65,3024	a26	1	0,10,0	1
+483.4	Firework	-86,65,3024	a26	1	0,10,0	1
+483.5	Firework	-53,69,3027	a26	1	0,10,0	1
+483.5	Firework	-106,69,3027	a26	1	0,10,0	1
+483.6	Firework	-91,67,3029	a26	1	0,10,0	1
+483.6	Firework	-62,67,3029	a26	1	0,10,0	1
+483.7	Firework	-57,68,3023	a26	1	0,10,0	1
+483.7	Firework	-102,68,3023	a26	1	0,10,0	1
+483.8	Firework	-73,65,3024	a26	1	0,10,0	1
+483.8	Firework	-86,65,3024	a26	1	0,10,0	1
+483.9	Firework	-53,69,3027	a26	1	0,10,0	1
+483.9	Firework	-106,69,3027	a26	1	0,10,0	1
+484	Firework	-91,67,3029	a26	1	0,10,0	1
+484	Firework	-62,67,3029	a26	1	0,10,0	1
+484.1	Firework	-57,68,3023	a26	1	0,10,0	1
+484.1	Firework	-102,68,3023	a26	1	0,10,0	1
+484.2	Firework	-73,65,3024	a26	1	0,10,0	1
+484.2	Firework	-86,65,3024	a26	1	0,10,0	1
+484.3	Firework	-53,69,3027	a26	1	0,10,0	1
+484.3	Firework	-106,69,3027	a26	1	0,10,0	1
+484.4	Firework	-91,67,3029	a26	1	0,10,0	1
+484.4	Firework	-62,67,3029	a26	1	0,10,0	1
+484.5	Firework	-57,68,3023	a26	1	0,10,0	1
+484.5	Firework	-102,68,3023	a26	1	0,10,0	1
+484.6	Firework	-73,65,3024	a26	1	0,10,0	1
+484.6	Firework	-86,65,3024	a26	1	0,10,0	1
+484.7	Firework	-53,69,3027	a26	1	0,10,0	1
+484.7	Firework	-106,69,3027	a26	1	0,10,0	1
+484.8	Firework	-91,67,3029	a26	1	0,10,0	1
+484.8	Firework	-62,67,3029	a26	1	0,10,0	1
+484.9	Firework	-57,68,3023	a26	1	0,10,0	1
+484.9	Firework	-102,68,3023	a26	1	0,10,0	1
+485	Firework	-73,65,3024	a26	1	0,10,0	1
+485	Firework	-86,65,3024	a26	1	0,10,0	1
+485.1	Firework	-53,69,3027	a26	1	0,10,0	1
+485.1	Firework	-106,69,3027	a26	1	0,10,0	1
+485.2	Firework	-91,67,3029	a26	1	0,10,0	1
+485.2	Firework	-62,67,3029	a26	1	0,10,0	1
+485.3	Firework	-57,68,3023	a26	1	0,10,0	1
+485.3	Firework	-102,68,3023	a26	1	0,10,0	1
+485.4	Firework	-73,65,3024	a26	1	0,10,0	1
+485.4	Firework	-86,65,3024	a26	1	0,10,0	1
+485.5	Firework	-53,69,3027	a26	1	0,10,0	1
+485.5	Firework	-106,69,3027	a26	1	0,10,0	1
+485.6	Firework	-91,67,3029	a26	1	0,10,0	1
+485.6	Firework	-62,67,3029	a26	1	0,10,0	1
+485.7	Firework	-57,68,3023	a26	1	0,10,0	1
+485.7	Firework	-102,68,3023	a26	1	0,10,0	1
+485.8	Firework	-73,65,3024	a26	1	0,10,0	1
+485.8	Firework	-86,65,3024	a26	1	0,10,0	1
+485.9	Firework	-53,69,3027	a26	1	0,10,0	1
+485.9	Firework	-106,69,3027	a26	1	0,10,0	1
+486	Firework	-91,67,3029	a26	1	0,10,0	1
+486	Firework	-62,67,3029	a26	1	0,10,0	1
+486.1	Firework	-57,68,3023	a26	1	0,10,0	1
+486.1	Firework	-102,68,3023	a26	1	0,10,0	1
+486.2	Firework	-73,65,3024	a26	1	0,10,0	1
+486.2	Firework	-86,65,3024	a26	1	0,10,0	1
+486.3	Firework	-53,69,3027	a26	1	0,10,0	1
+486.3	Firework	-106,69,3027	a26	1	0,10,0	1
+486.4	Firework	-91,67,3029	a26	1	0,10,0	1
+486.4	Firework	-62,67,3029	a26	1	0,10,0	1
+486.5	Firework	-57,68,3023	a26	1	0,10,0	1
+486.5	Firework	-102,68,3023	a26	1	0,10,0	1
+486.6	Firework	-73,65,3024	a26	1	0,10,0	1
+486.6	Firework	-86,65,3024	a26	1	0,10,0	1
+486.7	Firework	-53,69,3027	a26	1	0,10,0	1
+486.7	Firework	-106,69,3027	a26	1	0,10,0	1
+486.8	Firework	-91,67,3029	a26	1	0,10,0	1
+486.8	Firework	-62,67,3029	a26	1	0,10,0	1
+486.9	Firework	-57,68,3023	a26	1	0,10,0	1
+486.9	Firework	-102,68,3023	a26	1	0,10,0	1
+487	Firework	-73,65,3024	a26	1	0,10,0	1
+487	Firework	-86,65,3024	a26	1	0,10,0	1
+487.1	Firework	-53,69,3027	a26	1	0,10,0	1
+487.1	Firework	-106,69,3027	a26	1	0,10,0	1
+487.2	Firework	-91,67,3029	a26	1	0,10,0	1
+487.2	Firework	-62,67,3029	a26	1	0,10,0	1
+487.3	Firework	-101,66,3002	a6	1	0,10,0	1
+487.3	Firework	-58,66,3002	a6	1	0,10,0	1
+487.4	Firework	-63,66,3006	a6	1	0,10,0	1
+487.4	Firework	-96,66,3006	a6	1	0,10,0	1
+487.5	Firework	-92,66,3014	a6	1	0,10,0	1
+487.5	Firework	-67,66,3014	a6	1	0,10,0	1
+487.6	Firework	-83,66,3010	a6	1	0,10,0	1
+487.6	Firework	-76,66,3010	a6	1	0,10,0	1
+487.7	Firework	-102,66,3002	a12	1	0,10,0	1
+487.7	Firework	-57,66,3002	a12	1	0,10,0	1
+487.8	Firework	-62,66,3006	a12	1	0,10,0	1
+487.8	Firework	-97,66,3006	a12	1	0,10,0	1
+487.9	Firework	-93,66,3014	a12	1	0,10,0	1
+487.9	Firework	-66,66,3014	a12	1	0,10,0	1
+488	Firework	-84,66,3010	a12	1	0,10,0	1
+488	Firework	-75,66,3010	a12	1	0,10,0	1
+488.1	Firework	-101,66,3002	a6	1	0,10,0	1
+488.1	Firework	-58,66,3002	a6	1	0,10,0	1
+488.2	Firework	-63,66,3006	a6	1	0,10,0	1
+488.2	Firework	-96,66,3006	a6	1	0,10,0	1
+488.3	Firework	-92,66,3014	a6	1	0,10,0	1
+488.3	Firework	-67,66,3014	a6	1	0,10,0	1
+488.4	Firework	-83,66,3010	a6	1	0,10,0	1
+488.4	Firework	-76,66,3010	a6	1	0,10,0	1
+488.5	Firework	-102,66,3002	a12	1	0,10,0	1
+488.5	Firework	-57,66,3002	a12	1	0,10,0	1
+488.6	Firework	-62,66,3006	a12	1	0,10,0	1
+488.6	Firework	-97,66,3006	a12	1	0,10,0	1
+488.7	Firework	-93,66,3014	a12	1	0,10,0	1
+488.7	Firework	-66,66,3014	a12	1	0,10,0	1
+488.8	Firework	-84,66,3010	a12	1	0,10,0	1
+488.8	Firework	-75,66,3010	a12	1	0,10,0	1
+488.9	Firework	-101,66,3002	a6	1	0,10,0	1
+488.9	Firework	-58,66,3002	a6	1	0,10,0	1
+489	Firework	-63,66,3006	a6	1	0,10,0	1
+489	Firework	-96,66,3006	a6	1	0,10,0	1
+489.1	Firework	-92,66,3014	a6	1	0,10,0	1
+489.1	Firework	-67,66,3014	a6	1	0,10,0	1
+489.2	Firework	-83,66,3010	a6	1	0,10,0	1
+489.2	Firework	-76,66,3010	a6	1	0,10,0	1
+489.3	Firework	-102,66,3002	a12	1	0,10,0	1
+489.3	Firework	-57,66,3002	a12	1	0,10,0	1
+489.4	Firework	-62,66,3006	a12	1	0,10,0	1
+489.4	Firework	-97,66,3006	a12	1	0,10,0	1
+489.5	Firework	-93,66,3014	a12	1	0,10,0	1
+489.5	Firework	-66,66,3014	a12	1	0,10,0	1
+489.6	Firework	-84,66,3010	a12	1	0,10,0	1
+489.6	Firework	-75,66,3010	a12	1	0,10,0	1
+489.7	Firework	-101,66,3002	a6	1	0,10,0	1
+489.7	Firework	-58,66,3002	a6	1	0,10,0	1
+489.8	Firework	-63,66,3006	a6	1	0,10,0	1
+489.8	Firework	-96,66,3006	a6	1	0,10,0	1
+489.9	Firework	-92,66,3014	a6	1	0,10,0	1
+489.9	Firework	-67,66,3014	a6	1	0,10,0	1
+490	Firework	-83,66,3010	a6	1	0,10,0	1
+490	Firework	-76,66,3010	a6	1	0,10,0	1
+490.1	Firework	-102,66,3002	a12	1	0,10,0	1
+490.1	Firework	-57,66,3002	a12	1	0,10,0	1
+490.2	Firework	-62,66,3006	a12	1	0,10,0	1
+490.2	Firework	-97,66,3006	a12	1	0,10,0	1
+490.3	Firework	-93,66,3014	a12	1	0,10,0	1
+490.3	Firework	-66,66,3014	a12	1	0,10,0	1
+490.4	Firework	-84,66,3010	a12	1	0,10,0	1
+490.4	Firework	-75,66,3010	a12	1	0,10,0	1
+490.5	Firework	-101,66,3002	a6	1	0,10,0	1
+490.5	Firework	-58,66,3002	a6	1	0,10,0	1
+490.6	Firework	-63,66,3006	a6	1	0,10,0	1
+490.6	Firework	-96,66,3006	a6	1	0,10,0	1
+490.7	Firework	-92,66,3014	a6	1	0,10,0	1
+490.7	Firework	-67,66,3014	a6	1	0,10,0	1
+490.8	Firework	-83,66,3010	a6	1	0,10,0	1
+490.8	Firework	-76,66,3010	a6	1	0,10,0	1
+490.9	Firework	-102,66,3002	a12	1	0,10,0	1
+490.9	Firework	-57,66,3002	a12	1	0,10,0	1
+491	Firework	-62,66,3006	a12	1	0,10,0	1
+491	Firework	-97,66,3006	a12	1	0,10,0	1
+491.1	Firework	-93,66,3014	a12	1	0,10,0	1
+491.1	Firework	-66,66,3014	a12	1	0,10,0	1
+491.2	Firework	-84,66,3010	a12	1	0,10,0	1
+491.2	Firework	-75,66,3010	a12	1	0,10,0	1
+491.3	Firework	-101,66,3002	a6	1	0,10,0	1
+491.3	Firework	-58,66,3002	a6	1	0,10,0	1
+491.4	Firework	-63,66,3006	a6	1	0,10,0	1
+491.4	Firework	-96,66,3006	a6	1	0,10,0	1
+491.5	Firework	-92,66,3014	a6	1	0,10,0	1
+491.5	Firework	-67,66,3014	a6	1	0,10,0	1
+491.6	Firework	-83,66,3010	a6	1	0,10,0	1
+491.6	Firework	-76,66,3010	a6	1	0,10,0	1
+491.7	Firework	-102,66,3002	a12	1	0,10,0	1
+491.7	Firework	-57,66,3002	a12	1	0,10,0	1
+491.8	Firework	-62,66,3006	a12	1	0,10,0	1
+491.8	Firework	-97,66,3006	a12	1	0,10,0	1
+491.9	Firework	-93,66,3014	a12	1	0,10,0	1
+491.9	Firework	-66,66,3014	a12	1	0,10,0	1
+492	Firework	-84,66,3010	a26	1	0,10,0	1
+492	Firework	-75,66,3010	a26	1	0,10,0	1
+493	PowerFirework	-101,62,3002	j3	3.42,9.4,0
+493	PowerFirework	-96,62,3006	j3	3.42,9.4,0
+493	PowerFirework	-92,62,3014	j3	3.42,9.4,0
+493	PowerFirework	-83,62,3010	j3	3.42,9.4,0
+493	PowerFirework	-76,62,3010	j3	3.42,9.4,0
+493	PowerFirework	-67,62,3014	j3	3.42,9.4,0
+493	PowerFirework	-63,62,3006	j3	3.42,9.4,0
+493	PowerFirework	-58,62,3002	j3	3.42,9.4,0
+493	PowerFirework	-101,62,3002	j3	-3.42,9.4,0
+493	PowerFirework	-96,62,3006	j3	-3.42,9.4,0
+493	PowerFirework	-92,62,3014	j3	-3.42,9.4,0
+493	PowerFirework	-83,62,3010	j3	-3.42,9.4,0
+493	PowerFirework	-76,62,3010	j3	-3.42,9.4,0
+493	PowerFirework	-67,62,3014	j3	-3.42,9.4,0
+493	PowerFirework	-63,62,3006	j3	-3.42,9.4,0
+493	PowerFirework	-58,62,3002	j3	-3.42,9.4,0
+493	PowerFirework	-101,62,3002	j3	0,10,0
+493	PowerFirework	-96,62,3006	j3	0,10,0
+493	PowerFirework	-92,62,3014	j3	0,10,0
+493	PowerFirework	-83,62,3010	j3	0,10,0
+493	PowerFirework	-76,62,3010	j3	0,10,0
+493	PowerFirework	-67,62,3014	j3	0,10,0
+493	PowerFirework	-63,62,3006	j3	0,10,0
+493	PowerFirework	-58,62,3002	j3	0,10,0
+#Earth AI/Colors
+2.1	Block	20	-53,34,2994
+2.3	Block	0	-93,14,3000
+2.5	Block	0	-93,14,2999
+2.4	Block	0	-94,14,3000
+2.6	Block	0	-94,14,2999
+1	Block	152	-60,33,2998
+#Beacons
+0	Block	35	-83,54,3024
+0	Block	35	-84,54,3024
+0	Block	35	-85,54,3024
+0	Block	35	-86,54,3024
+0	Block	35	-87,54,3024
+0	Block	35	-88,54,3024
+0	Block	35	-89,54,3024
+0	Block	35	-99,56,3027
+0	Block	35	-100,56,3026
+0	Block	35	-101,56,3025
+0	Block	35	-102,56,3024
+0	Block	35	-103,56,3023
+0	Block	35	-104,56,3022
+0	Block	35	-105,56,3021
+0	Block	35	-106,56,3020
+0	Block	0	-99,62,3027
+0	Block	0	-100,62,3026
+0	Block	0	-101,62,3025
+0	Block	0	-102,62,3024
+0	Block	0	-103,62,3023
+0	Block	0	-104,62,3022
+0	Block	0	-105,62,3021
+0	Block	0	-106,62,3020
+1	Block	138	-83,53,3024
+1	Block	138	-84,53,3024
+1	Block	138	-85,53,3024
+1	Block	138	-86,53,3024
+1	Block	138	-87,53,3024
+1	Block	138	-88,53,3024
+1	Block	138	-89,53,3024
+1	Block	138	-99,55,3027
+1	Block	138	-100,55,3026
+1	Block	138	-101,55,3025
+1	Block	138	-102,55,3024
+1	Block	138	-103,55,3023
+1	Block	138	-104,55,3022
+1	Block	138	-105,55,3021
+1	Block	138	-106,55,3020
+0	Block	35	-53,56,3020
+0	Block	35	-54,56,3021
+0	Block	35	-55,56,3022
+0	Block	35	-55,56,3022
+0	Block	35	-56,56,3023
+0	Block	35	-57,56,3024
+0	Block	35	-58,56,3025
+0	Block	35	-59,56,3026
+0	Block	35	-60,56,3027
+0	Block	0	-53,62,3020
+0	Block	0	-54,62,3021
+0	Block	0	-55,62,3022
+0	Block	0	-55,62,3022
+0	Block	0	-56,62,3023
+0	Block	0	-57,62,3024
+0	Block	0	-58,62,3025
+0	Block	0	-59,62,3026
+0	Block	0	-60,62,3027
+0	Block	35	-70,54,3024
+0	Block	35	-71,54,3024
+0	Block	35	-72,54,3024
+0	Block	35	-73,54,3024
+0	Block	35	-74,54,3024
+0	Block	35	-75,54,3024
+0	Block	35	-76,54,3024
+1	Block	138	-70,53,3024
+1	Block	138	-71,53,3024
+1	Block	138	-72,53,3024
+1	Block	138	-73,53,3024
+1	Block	138	-74,53,3024
+1	Block	138	-75,53,3024
+1	Block	138	-76,53,3024
+1	Block	138	-53,55,3020
+1	Block	138	-54,55,3021
+1	Block	138	-55,55,3022
+1	Block	138	-55,55,3022
+1	Block	138	-56,55,3023
+1	Block	138	-57,55,3024
+1	Block	138	-58,55,3025
+1	Block	138	-59,55,3026
+1	Block	138	-60,55,3027
+0	Block	35:15	-58,51,3002
+0	Block	35:15	-63,51,3006
+0	Block	35:15	-67,51,3014
+0	Block	35:15	-76,51,3010
+0	Block	35:15	-83,51,3010
+0	Block	35:15	-92,51,3014
+0	Block	35:15	-96,51,3006
+0	Block	35:15	-101,51,3002
+0	Block	20	-58,52,3002
+0	Block	20	-58,53,3002
+0	Block	20	-63,52,3006
+0	Block	20	-63,53,3006
+0	Block	20	-67,52,3014
+0	Block	20	-67,53,3014
+0	Block	20	-76,52,3010
+0	Block	20	-76,53,3010
+0	Block	20	-83,52,3010
+0	Block	20	-83,53,3010
+0	Block	20	-92,52,3014
+0	Block	20	-92,53,3014
+0	Block	20	-96,52,3006
+0	Block	20	-96,53,3006
+0	Block	20	-101,52,3002
+0	Block	20	-101,53,3002
+1	Block	20	-58,59,3002
+1	Block	20	-58,61,3002
+1	Block	20	-63,59,3006
+1	Block	20	-63,61,3006
+1	Block	20	-67,59,3014
+1	Block	20	-67,61,3014
+1	Block	20	-76,59,3010
+1	Block	20	-76,61,3010
+1	Block	20	-83,61,3010
+1	Block	20	-83,59,3010
+1	Block	20	-92,61,3014
+1	Block	20	-92,59,3014
+1	Block	20	-96,61,3006
+1	Block	20	-96,59,3006
+1	Block	20	-101,61,3002
+1	Block	20	-101,59,3002
+2.5	Block	138	-58,50,3002
+2.5	Block	138	-63,50,3006
+2.5	Block	138	-67,50,3014
+2.5	Block	138	-76,50,3010
+2.5	Block	138	-83,50,3010
+2.5	Block	138	-92,50,3014
+2.5	Block	138	-96,50,3006
+2.5	Block	138	-101,50,3002
+#JAPAN
+29.9	Block	95:0	-53,56,3020
+29.9	Block	95:0	-54,56,3021
+29.9	Block	95:0	-55,56,3022
+29.9	Block	95:0	-55,56,3022
+29.9	Block	95:0	-56,56,3023
+29.9	Block	95:0	-57,56,3024
+29.9	Block	95:0	-58,56,3025
+29.9	Block	95:0	-59,56,3026
+29.9	Block	95:0	-60,56,3027
+29.9	Block	95:0	-53,57,3020
+29.9	Block	95:0	-54,57,3021
+29.9	Block	95:0	-55,57,3022
+29.9	Block	95:0	-55,57,3022
+29.9	Block	95:0	-56,57,3023
+29.9	Block	95:0	-57,57,3024
+29.9	Block	95:0	-58,57,3025
+29.9	Block	95:0	-59,57,3026
+29.9	Block	95:0	-60,57,3027
+29.9	Block	95:0	-53,58,3020
+29.9	Block	95:0	-54,58,3021
+29.9	Block	95:0	-55,58,3022
+29.9	Block	95:0	-55,58,3022
+29.9	Block	95:0	-56,58,3023
+29.9	Block	95:0	-57,58,3024
+29.9	Block	95:0	-58,58,3025
+29.9	Block	95:0	-59,58,3026
+29.9	Block	95:0	-60,58,3027
+29.9	Block	95:0	-53,67,3020
+29.9	Block	95:0	-53,68,3020
+29.9	Block	95:0	-53,69,3020
+29.9	Block	95:0	-53,70,3020
+29.9	Block	95:0	-53,71,3020
+29.9	Block	95:0	-53,72,3020
+29.9	Block	95:0	-53,73,3020
+29.9	Block	95:0	-53,74,3020
+29.9	Block	95:0	-54,67,3021
+29.9	Block	95:0	-54,68,3021
+29.9	Block	95:0	-54,69,3021
+29.9	Block	95:0	-54,70,3021
+29.9	Block	95:0	-54,71,3021
+29.9	Block	95:0	-54,72,3021
+29.9	Block	95:0	-54,73,3021
+29.9	Block	95:0	-54,74,3021
+29.9	Block	95:0	-55,67,3022
+29.9	Block	95:0	-55,68,3022
+29.9	Block	95:0	-55,69,3022
+29.9	Block	95:14	-55,70,3022
+29.9	Block	95:14	-55,71,3022
+29.9	Block	95:0	-55,72,3022
+29.9	Block	95:0	-55,73,3022
+29.9	Block	95:0	-55,74,3022
+29.9	Block	95:0	-56,67,3023
+29.9	Block	95:0	-56,68,3023
+29.9	Block	95:14	-56,69,3023
+29.9	Block	95:14	-56,70,3023
+29.9	Block	95:14	-56,71,3023
+29.9	Block	95:14	-56,72,3023
+29.9	Block	95:0	-56,73,3023
+29.9	Block	95:0	-56,74,3023
+29.9	Block	95:0	-57,67,3024
+29.9	Block	95:0	-57,68,3024
+29.9	Block	95:14	-57,69,3024
+29.9	Block	95:14	-57,70,3024
+29.9	Block	95:14	-57,71,3024
+29.9	Block	95:14	-57,72,3024
+29.9	Block	95:0	-57,73,3024
+29.9	Block	95:0	-57,74,3024
+29.9	Block	95:0	-58,67,3025
+29.9	Block	95:0	-58,68,3025
+29.9	Block	95:0	-58,69,3025
+29.9	Block	95:14	-58,70,3025
+29.9	Block	95:14	-58,71,3025
+29.9	Block	95:0	-58,72,3025
+29.9	Block	95:0	-58,73,3025
+29.9	Block	95:0	-58,74,3025
+29.9	Block	95:0	-59,67,3026
+29.9	Block	95:0	-59,68,3026
+29.9	Block	95:0	-59,69,3026
+29.9	Block	95:0	-59,70,3026
+29.9	Block	95:0	-59,71,3026
+29.9	Block	95:0	-59,72,3026
+29.9	Block	95:0	-59,73,3026
+29.9	Block	95:0	-59,74,3026
+29.9	Block	95:0	-60,67,3027
+29.9	Block	95:0	-60,68,3027
+29.9	Block	95:0	-60,69,3027
+29.9	Block	95:0	-60,70,3027
+29.9	Block	95:0	-60,71,3027
+29.9	Block	95:0	-60,72,3027
+29.9	Block	95:0	-60,73,3027
+29.9	Block	95:0	-60,74,3027
+29.9	Block	160:14	-56,69,3022
+29.9	Block	160:14	-56,72,3022
+29.9	Block	160:14	-58,69,3024
+29.9	Block	160:14	-58,72,3024
+63.6	Block	0	-56,69,3022
+63.6	Block	0	-56,72,3022
+63.6	Block	0	-58,69,3024
+63.6	Block	0	-58,72,3024
+63.6	Block	0	-54,72,3020
+63.6	Block	0	-55,72,3021
+63.6	Block	0	-56,71,3022
+63.6	Block	0	-56,74,3022
+63.6	Block	0	-57,72,3023
+63.6	Block	0	-57,73,3023
+63.6	Block	0	-53,67,3020
+63.6	Block	0	-53,68,3020
+63.6	Block	0	-53,69,3020
+63.6	Block	0	-53,70,3020
+63.6	Block	0	-53,71,3020
+63.6	Block	0	-53,72,3020
+63.6	Block	0	-53,73,3020
+63.6	Block	0	-53,74,3020
+63.6	Block	0	-54,67,3021
+63.6	Block	0	-54,68,3021
+63.6	Block	0	-54,69,3021
+63.6	Block	0	-54,70,3021
+63.6	Block	0	-54,71,3021
+63.6	Block	0	-54,72,3021
+63.6	Block	0	-54,73,3021
+63.6	Block	0	-54,74,3021
+63.6	Block	0	-55,67,3022
+63.6	Block	0	-55,68,3022
+63.6	Block	0	-55,69,3022
+63.6	Block	0	-55,70,3022
+63.6	Block	0	-55,71,3022
+63.6	Block	0	-55,72,3022
+63.6	Block	0	-55,73,3022
+63.6	Block	0	-55,74,3022
+63.6	Block	0	-56,67,3023
+63.6	Block	0	-56,68,3023
+63.6	Block	0	-56,69,3023
+63.6	Block	0	-56,70,3023
+63.6	Block	0	-56,71,3023
+63.6	Block	0	-56,72,3023
+63.6	Block	0	-56,73,3023
+63.6	Block	0	-56,74,3023
+63.6	Block	0	-57,67,3024
+63.6	Block	0	-57,68,3024
+63.6	Block	0	-57,69,3024
+63.6	Block	0	-57,70,3024
+63.6	Block	0	-57,71,3024
+63.6	Block	0	-57,72,3024
+63.6	Block	0	-57,73,3024
+63.6	Block	0	-57,74,3024
+63.6	Block	0	-58,67,3025
+63.6	Block	0	-58,68,3025
+63.6	Block	0	-58,69,3025
+63.6	Block	0	-58,70,3025
+63.6	Block	0	-58,71,3025
+63.6	Block	0	-58,72,3025
+63.6	Block	0	-58,73,3025
+63.6	Block	0	-58,74,3025
+63.6	Block	0	-59,67,3026
+63.6	Block	0	-59,68,3026
+63.6	Block	0	-59,69,3026
+63.6	Block	0	-59,70,3026
+63.6	Block	0	-59,71,3026
+63.6	Block	0	-59,72,3026
+63.6	Block	0	-59,73,3026
+63.6	Block	0	-59,74,3026
+63.6	Block	0	-60,67,3027
+63.6	Block	0	-60,68,3027
+63.6	Block	0	-60,69,3027
+63.6	Block	0	-60,70,3027
+63.6	Block	0	-60,71,3027
+63.6	Block	0	-60,72,3027
+63.6	Block	0	-60,73,3027
+63.6	Block	0	-60,74,3027
+63.6	Block	35:15	-53,56,3020
+63.6	Block	95:15	-53,57,3020
+63.6	Block	95:15	-53,58,3020
+63.6	Block	35:15	-54,56,3021
+63.6	Block	95:15	-54,57,3021
+63.6	Block	95:15	-54,58,3021
+63.6	Block	35:15	-55,56,3022
+63.6	Block	95:15	-55,57,3022
+63.6	Block	95:15	-55,58,3022
+63.6	Block	35:15	-56,56,3023
+63.6	Block	95:15	-56,57,3023
+63.6	Block	95:15	-56,58,3023
+63.6	Block	35:15	-57,56,3024
+63.6	Block	95:15	-57,57,3024
+63.6	Block	95:15	-57,58,3024
+63.6	Block	35:15	-58,56,3025
+63.6	Block	95:15	-58,57,3025
+63.6	Block	95:15	-58,58,3025
+63.6	Block	35:15	-59,56,3026
+63.6	Block	95:15	-59,57,3026
+63.6	Block	95:15	-59,58,3026
+63.6	Block	35:15	-60,56,3027
+63.6	Block	95:15	-60,57,3027
+63.6	Block	95:15	-60,58,3027
+#CHINA
+65.6	Block	95:0	-53,56,3020
+65.6	Block	95:0	-54,56,3021
+65.6	Block	95:0	-55,56,3022
+65.6	Block	95:0	-55,56,3022
+65.6	Block	95:0	-56,56,3023
+65.6	Block	95:0	-57,56,3024
+65.6	Block	95:0	-58,56,3025
+65.6	Block	95:0	-59,56,3026
+65.6	Block	95:0	-60,56,3027
+65.6	Block	95:0	-53,57,3020
+65.6	Block	95:0	-54,57,3021
+65.6	Block	95:0	-55,57,3022
+65.6	Block	95:0	-55,57,3022
+65.6	Block	95:0	-56,57,3023
+65.6	Block	95:0	-57,57,3024
+65.6	Block	95:0	-58,57,3025
+65.6	Block	95:0	-59,57,3026
+65.6	Block	95:0	-60,57,3027
+65.6	Block	95:0	-53,58,3020
+65.6	Block	95:0	-54,58,3021
+65.6	Block	95:0	-55,58,3022
+65.6	Block	95:0	-55,58,3022
+65.6	Block	95:0	-56,58,3023
+65.6	Block	95:0	-57,58,3024
+65.6	Block	95:0	-58,58,3025
+65.6	Block	95:0	-59,58,3026
+65.6	Block	95:0	-60,58,3027
+65.6	Block	95:14	-53,67,3020
+65.6	Block	95:14	-53,68,3020
+65.6	Block	95:14	-53,69,3020
+65.6	Block	95:14	-53,70,3020
+65.6	Block	95:14	-53,71,3020
+65.6	Block	95:14	-53,72,3020
+65.6	Block	95:14	-53,73,3020
+65.6	Block	95:14	-53,74,3020
+65.6	Block	95:14	-54,67,3021
+65.6	Block	95:14	-54,68,3021
+65.6	Block	95:14	-54,69,3021
+65.6	Block	95:14	-54,70,3021
+65.6	Block	95:14	-54,71,3021
+65.6	Block	95:14	-54,72,3021
+65.6	Block	95:4	-54,73,3021
+65.6	Block	95:14	-54,74,3021
+65.6	Block	95:14	-55,67,3022
+65.6	Block	95:14	-55,68,3022
+65.6	Block	95:14	-55,69,3022
+65.6	Block	95:14	-55,70,3022
+65.6	Block	95:14	-55,71,3022
+65.6	Block	95:14	-55,72,3022
+65.6	Block	95:14	-55,73,3022
+65.6	Block	95:14	-55,74,3022
+65.6	Block	95:14	-56,67,3023
+65.6	Block	95:14	-56,68,3023
+65.6	Block	95:14	-56,69,3023
+65.6	Block	95:14	-56,70,3023
+65.6	Block	95:14	-56,71,3023
+65.6	Block	95:14	-56,72,3023
+65.6	Block	95:14	-56,73,3023
+65.6	Block	95:14	-56,74,3023
+65.6	Block	95:14	-57,67,3024
+65.6	Block	95:14	-57,68,3024
+65.6	Block	95:14	-57,69,3024
+65.6	Block	95:14	-57,70,3024
+65.6	Block	95:14	-57,71,3024
+65.6	Block	95:14	-57,72,3024
+65.6	Block	95:14	-57,73,3024
+65.6	Block	95:14	-57,74,3024
+65.6	Block	95:14	-58,67,3025
+65.6	Block	95:14	-58,68,3025
+65.6	Block	95:14	-58,69,3025
+65.6	Block	95:14	-58,70,3025
+65.6	Block	95:14	-58,71,3025
+65.6	Block	95:14	-58,72,3025
+65.6	Block	95:14	-58,73,3025
+65.6	Block	95:14	-58,74,3025
+65.6	Block	95:14	-59,67,3026
+65.6	Block	95:14	-59,68,3026
+65.6	Block	95:14	-59,69,3026
+65.6	Block	95:14	-59,70,3026
+65.6	Block	95:14	-59,71,3026
+65.6	Block	95:14	-59,72,3026
+65.6	Block	95:14	-59,73,3026
+65.6	Block	95:14	-59,74,3026
+65.6	Block	95:14	-60,67,3027
+65.6	Block	95:14	-60,68,3027
+65.6	Block	95:14	-60,69,3027
+65.6	Block	95:14	-60,70,3027
+65.6	Block	95:14	-60,71,3027
+65.6	Block	95:14	-60,72,3027
+65.6	Block	95:14	-60,73,3027
+65.6	Block	95:14	-60,74,3027
+65.6	Block	160:4	-54,72,3020
+65.6	Block	160:4	-55,72,3021
+65.6	Block	160:4	-56,71,3022
+65.6	Block	160:4	-56,74,3022
+65.6	Block	160:4	-57,72,3023
+65.6	Block	160:4	-57,73,3023
+93.5	Block	0	-54,72,3020
+93.5	Block	0	-55,72,3021
+93.5	Block	0	-56,71,3022
+93.5	Block	0	-56,74,3022
+93.5	Block	0	-57,72,3023
+93.5	Block	0	-57,73,3023
+93.5	Block	0	-53,67,3020
+93.5	Block	0	-53,68,3020
+93.5	Block	0	-53,69,3020
+93.5	Block	0	-53,70,3020
+93.5	Block	0	-53,71,3020
+93.5	Block	0	-53,72,3020
+93.5	Block	0	-53,73,3020
+93.5	Block	0	-53,74,3020
+93.5	Block	0	-54,67,3021
+93.5	Block	0	-54,68,3021
+93.5	Block	0	-54,69,3021
+93.5	Block	0	-54,70,3021
+93.5	Block	0	-54,71,3021
+93.5	Block	0	-54,72,3021
+93.5	Block	0	-54,73,3021
+93.5	Block	0	-54,74,3021
+93.5	Block	0	-55,67,3022
+93.5	Block	0	-55,68,3022
+93.5	Block	0	-55,69,3022
+93.5	Block	0	-55,70,3022
+93.5	Block	0	-55,71,3022
+93.5	Block	0	-55,72,3022
+93.5	Block	0	-55,73,3022
+93.5	Block	0	-55,74,3022
+93.5	Block	0	-56,67,3023
+93.5	Block	0	-56,68,3023
+93.5	Block	0	-56,69,3023
+93.5	Block	0	-56,70,3023
+93.5	Block	0	-56,71,3023
+93.5	Block	0	-56,72,3023
+93.5	Block	0	-56,73,3023
+93.5	Block	0	-56,74,3023
+93.5	Block	0	-57,67,3024
+93.5	Block	0	-57,68,3024
+93.5	Block	0	-57,69,3024
+93.5	Block	0	-57,70,3024
+93.5	Block	0	-57,71,3024
+93.5	Block	0	-57,72,3024
+93.5	Block	0	-57,73,3024
+93.5	Block	0	-57,74,3024
+93.5	Block	0	-58,67,3025
+93.5	Block	0	-58,68,3025
+93.5	Block	0	-58,69,3025
+93.5	Block	0	-58,70,3025
+93.5	Block	0	-58,71,3025
+93.5	Block	0	-58,72,3025
+93.5	Block	0	-58,73,3025
+93.5	Block	0	-58,74,3025
+93.5	Block	0	-59,67,3026
+93.5	Block	0	-59,68,3026
+93.5	Block	0	-59,69,3026
+93.5	Block	0	-59,70,3026
+93.5	Block	0	-59,71,3026
+93.5	Block	0	-59,72,3026
+93.5	Block	0	-59,73,3026
+93.5	Block	0	-59,74,3026
+93.5	Block	0	-60,67,3027
+93.5	Block	0	-60,68,3027
+93.5	Block	0	-60,69,3027
+93.5	Block	0	-60,70,3027
+93.5	Block	0	-60,71,3027
+93.5	Block	0	-60,72,3027
+93.5	Block	0	-60,73,3027
+93.5	Block	0	-60,74,3027
+93.5	Block	35:15	-53,56,3020
+93.5	Block	95:15	-53,57,3020
+93.5	Block	95:15	-53,58,3020
+93.5	Block	35:15	-54,56,3021
+93.5	Block	95:15	-54,57,3021
+93.5	Block	95:15	-54,58,3021
+93.5	Block	35:15	-55,56,3022
+93.5	Block	95:15	-55,57,3022
+93.5	Block	95:15	-55,58,3022
+93.5	Block	35:15	-56,56,3023
+93.5	Block	95:15	-56,57,3023
+93.5	Block	95:15	-56,58,3023
+93.5	Block	35:15	-57,56,3024
+93.5	Block	95:15	-57,57,3024
+93.5	Block	95:15	-57,58,3024
+93.5	Block	35:15	-58,56,3025
+93.5	Block	95:15	-58,57,3025
+93.5	Block	95:15	-58,58,3025
+93.5	Block	35:15	-59,56,3026
+93.5	Block	95:15	-59,57,3026
+93.5	Block	95:15	-59,58,3026
+93.5	Block	35:15	-60,56,3027
+93.5	Block	95:15	-60,57,3027
+93.5	Block	95:15	-60,58,3027
+#Italy
+105.5	Block	95:0	-99,56,3027
+105.5	Block	95:0	-100,56,3026
+105.5	Block	95:0	-101,56,3025
+105.5	Block	95:0	-102,56,3024
+105.5	Block	95:0	-103,56,3023
+105.5	Block	95:0	-104,56,3022
+105.5	Block	95:0	-105,56,3021
+105.5	Block	95:0	-106,56,3020
+105.5	Block	95:0	-99,57,3027
+105.5	Block	95:0	-100,57,3026
+105.5	Block	95:0	-101,57,3025
+105.5	Block	95:0	-102,57,3024
+105.5	Block	95:0	-103,57,3023
+105.5	Block	95:0	-104,57,3022
+105.5	Block	95:0	-105,57,3021
+105.5	Block	95:0	-106,57,3020
+105.5	Block	95:0	-99,58,3027
+105.5	Block	95:0	-100,58,3026
+105.5	Block	95:0	-101,58,3025
+105.5	Block	95:0	-102,58,3024
+105.5	Block	95:0	-103,58,3023
+105.5	Block	95:0	-104,58,3022
+105.5	Block	95:0	-105,58,3021
+105.5	Block	95:0	-106,58,3020
+105.5	Block	95:0	-101,67,3025
+105.5	Block	95:0	-101,68,3025
+105.5	Block	95:0	-101,69,3025
+105.5	Block	95:0	-101,70,3025
+105.5	Block	95:0	-101,71,3025
+105.5	Block	95:0	-101,72,3025
+105.5	Block	95:0	-101,73,3025
+105.5	Block	95:0	-101,74,3025
+105.5	Block	95:0	-102,67,3024
+105.5	Block	95:0	-102,68,3024
+105.5	Block	95:0	-102,69,3024
+105.5	Block	95:0	-102,70,3024
+105.5	Block	95:0	-102,71,3024
+105.5	Block	95:0	-102,72,3024
+105.5	Block	95:0	-102,73,3024
+105.5	Block	95:0	-102,74,3024
+105.5	Block	95:0	-103,67,3023
+105.5	Block	95:0	-103,68,3023
+105.5	Block	95:0	-103,69,3023
+105.5	Block	95:0	-103,70,3023
+105.5	Block	95:0	-103,71,3023
+105.5	Block	95:0	-103,72,3023
+105.5	Block	95:0	-103,73,3023
+105.5	Block	95:0	-103,74,3023
+105.5	Block	95:0	-104,67,3022
+105.5	Block	95:0	-104,68,3022
+105.5	Block	95:0	-104,69,3022
+105.5	Block	95:0	-104,70,3022
+105.5	Block	95:0	-104,71,3022
+105.5	Block	95:0	-104,72,3022
+105.5	Block	95:0	-104,73,3022
+105.5	Block	95:0	-104,74,3022
+105.5	Block	95:14	-105,67,3021
+105.5	Block	95:14	-105,68,3021
+105.5	Block	95:14	-105,69,3021
+105.5	Block	95:14	-105,70,3021
+105.5	Block	95:14	-105,71,3021
+105.5	Block	95:14	-105,72,3021
+105.5	Block	95:14	-105,73,3021
+105.5	Block	95:14	-105,74,3021
+105.5	Block	95:14	-106,67,3020
+105.5	Block	95:14	-106,68,3020
+105.5	Block	95:14	-106,69,3020
+105.5	Block	95:14	-106,70,3020
+105.5	Block	95:14	-106,71,3020
+105.5	Block	95:14	-106,72,3020
+105.5	Block	95:14	-106,73,3020
+105.5	Block	95:14	-106,74,3020
+105.5	Block	95:13	-99,67,3027
+105.5	Block	95:13	-99,68,3027
+105.5	Block	95:13	-99,69,3027
+105.5	Block	95:13	-99,70,3027
+105.5	Block	95:13	-99,71,3027
+105.5	Block	95:13	-99,72,3027
+105.5	Block	95:13	-99,73,3027
+105.5	Block	95:13	-99,74,3027
+105.5	Block	95:13	-100,67,3026
+105.5	Block	95:13	-100,68,3026
+105.5	Block	95:13	-100,69,3026
+105.5	Block	95:13	-100,70,3026
+105.5	Block	95:13	-100,71,3026
+105.5	Block	95:13	-100,72,3026
+105.5	Block	95:13	-100,73,3026
+105.5	Block	95:13	-100,74,3026
+143.4	Block	0	-99,67,3027
+143.4	Block	0	-99,68,3027
+143.4	Block	0	-99,69,3027
+143.4	Block	0	-99,70,3027
+143.4	Block	0	-99,71,3027
+143.4	Block	0	-99,72,3027
+143.4	Block	0	-99,73,3027
+143.4	Block	0	-99,74,3027
+143.4	Block	0	-100,67,3026
+143.4	Block	0	-100,68,3026
+143.4	Block	0	-100,69,3026
+143.4	Block	0	-100,70,3026
+143.4	Block	0	-100,71,3026
+143.4	Block	0	-100,72,3026
+143.4	Block	0	-100,73,3026
+143.4	Block	0	-100,74,3026
+143.4	Block	0	-101,67,3025
+143.4	Block	0	-101,68,3025
+143.4	Block	0	-101,69,3025
+143.4	Block	0	-101,70,3025
+143.4	Block	0	-101,71,3025
+143.4	Block	0	-101,72,3025
+143.4	Block	0	-101,73,3025
+143.4	Block	0	-101,74,3025
+143.4	Block	0	-102,67,3024
+143.4	Block	0	-102,68,3024
+143.4	Block	0	-102,69,3024
+143.4	Block	0	-102,70,3024
+143.4	Block	0	-102,71,3024
+143.4	Block	0	-102,72,3024
+143.4	Block	0	-102,73,3024
+143.4	Block	0	-102,74,3024
+143.4	Block	0	-103,67,3023
+143.4	Block	0	-103,68,3023
+143.4	Block	0	-103,69,3023
+143.4	Block	0	-103,70,3023
+143.4	Block	0	-103,71,3023
+143.4	Block	0	-103,72,3023
+143.4	Block	0	-103,73,3023
+143.4	Block	0	-103,74,3023
+143.4	Block	0	-104,67,3022
+143.4	Block	0	-104,68,3022
+143.4	Block	0	-104,69,3022
+143.4	Block	0	-104,70,3022
+143.4	Block	0	-104,71,3022
+143.4	Block	0	-104,72,3022
+143.4	Block	0	-104,73,3022
+143.4	Block	0	-104,74,3022
+143.4	Block	0	-105,67,3021
+143.4	Block	0	-105,68,3021
+143.4	Block	0	-105,69,3021
+143.4	Block	0	-105,70,3021
+143.4	Block	0	-105,71,3021
+143.4	Block	0	-105,72,3021
+143.4	Block	0	-105,73,3021
+143.4	Block	0	-105,74,3021
+143.4	Block	0	-106,67,3020
+143.4	Block	0	-106,68,3020
+143.4	Block	0	-106,69,3020
+143.4	Block	0	-106,70,3020
+143.4	Block	0	-106,71,3020
+143.4	Block	0	-106,72,3020
+143.4	Block	0	-106,73,3020
+143.4	Block	0	-106,74,3020
+143.4	Block	35:15	-99,56,3027
+143.4	Block	35:15	-100,56,3026
+143.4	Block	35:15	-101,56,3025
+143.4	Block	35:15	-102,56,3024
+143.4	Block	35:15	-103,56,3023
+143.4	Block	35:15	-104,56,3022
+143.4	Block	35:15	-105,56,3021
+143.4	Block	35:15	-106,56,3020
+143.4	Block	95:15	-99,57,3027
+143.4	Block	95:15	-100,57,3026
+143.4	Block	95:15	-101,57,3025
+143.4	Block	95:15	-102,57,3024
+143.4	Block	95:15	-103,57,3023
+143.4	Block	95:15	-104,57,3022
+143.4	Block	95:15	-105,57,3021
+143.4	Block	95:15	-106,57,3020
+143.4	Block	95:15	-99,58,3027
+143.4	Block	95:15	-100,58,3026
+143.4	Block	95:15	-101,58,3025
+143.4	Block	95:15	-102,58,3024
+143.4	Block	95:15	-103,58,3023
+143.4	Block	95:15	-104,58,3022
+143.4	Block	95:15	-105,58,3021
+143.4	Block	95:15	-106,58,3020
+#Norway
+144.1	Block	95:0	-99,56,3027
+144.1	Block	95:0	-100,56,3026
+144.1	Block	95:0	-101,56,3025
+144.1	Block	95:0	-102,56,3024
+144.1	Block	95:0	-103,56,3023
+144.1	Block	95:0	-104,56,3022
+144.1	Block	95:0	-105,56,3021
+144.1	Block	95:0	-106,56,3020
+144.1	Block	95:0	-99,57,3027
+144.1	Block	95:0	-100,57,3026
+144.1	Block	95:0	-101,57,3025
+144.1	Block	95:0	-102,57,3024
+144.1	Block	95:0	-103,57,3023
+144.1	Block	95:0	-104,57,3022
+144.1	Block	95:0	-105,57,3021
+144.1	Block	95:0	-106,57,3020
+144.1	Block	95:0	-99,58,3027
+144.1	Block	95:0	-100,58,3026
+144.1	Block	95:0	-101,58,3025
+144.1	Block	95:0	-102,58,3024
+144.1	Block	95:0	-103,58,3023
+144.1	Block	95:0	-104,58,3022
+144.1	Block	95:0	-105,58,3021
+144.1	Block	95:0	-106,58,3020
+169.1	Block	35:15	-99,56,3027
+169.1	Block	35:15	-100,56,3026
+169.1	Block	35:15	-101,56,3025
+169.1	Block	35:15	-102,56,3024
+169.1	Block	35:15	-103,56,3023
+169.1	Block	35:15	-104,56,3022
+169.1	Block	35:15	-105,56,3021
+169.1	Block	35:15	-106,56,3020
+169.1	Block	95:15	-99,57,3027
+169.1	Block	95:15	-100,57,3026
+169.1	Block	95:15	-101,57,3025
+169.1	Block	95:15	-102,57,3024
+169.1	Block	95:15	-103,57,3023
+169.1	Block	95:15	-104,57,3022
+169.1	Block	95:15	-105,57,3021
+169.1	Block	95:15	-106,57,3020
+169.1	Block	95:15	-99,58,3027
+169.1	Block	95:15	-100,58,3026
+169.1	Block	95:15	-101,58,3025
+169.1	Block	95:15	-102,58,3024
+169.1	Block	95:15	-103,58,3023
+169.1	Block	95:15	-104,58,3022
+169.1	Block	95:15	-105,58,3021
+169.1	Block	95:15	-106,58,3020
+169.1	Block	0	-99,67,3027
+169.1	Block	0	-99,68,3027
+169.1	Block	0	-99,69,3027
+169.1	Block	0	-99,70,3027
+169.1	Block	0	-99,71,3027
+169.1	Block	0	-99,72,3027
+169.1	Block	0	-99,73,3027
+169.1	Block	0	-99,74,3027
+169.1	Block	0	-100,67,3026
+169.1	Block	0	-100,68,3026
+169.1	Block	0	-100,69,3026
+169.1	Block	0	-100,70,3026
+169.1	Block	0	-100,71,3026
+169.1	Block	0	-100,72,3026
+169.1	Block	0	-100,73,3026
+169.1	Block	0	-100,74,3026
+169.1	Block	0	-101,67,3025
+169.1	Block	0	-101,68,3025
+169.1	Block	0	-101,69,3025
+169.1	Block	0	-101,70,3025
+169.1	Block	0	-101,71,3025
+169.1	Block	0	-101,72,3025
+169.1	Block	0	-101,73,3025
+169.1	Block	0	-101,74,3025
+169.1	Block	0	-102,67,3024
+169.1	Block	0	-102,68,3024
+169.1	Block	0	-102,69,3024
+169.1	Block	0	-102,70,3024
+169.1	Block	0	-102,71,3024
+169.1	Block	0	-102,72,3024
+169.1	Block	0	-102,73,3024
+169.1	Block	0	-102,74,3024
+169.1	Block	0	-103,67,3023
+169.1	Block	0	-103,68,3023
+169.1	Block	0	-103,69,3023
+169.1	Block	0	-103,70,3023
+169.1	Block	0	-103,71,3023
+169.1	Block	0	-103,72,3023
+169.1	Block	0	-103,73,3023
+169.1	Block	0	-103,74,3023
+169.1	Block	0	-104,67,3022
+169.1	Block	0	-104,68,3022
+169.1	Block	0	-104,69,3022
+169.1	Block	0	-104,70,3022
+169.1	Block	0	-104,71,3022
+169.1	Block	0	-104,72,3022
+169.1	Block	0	-104,73,3022
+169.1	Block	0	-104,74,3022
+169.1	Block	0	-105,67,3021
+169.1	Block	0	-105,68,3021
+169.1	Block	0	-105,69,3021
+169.1	Block	0	-105,70,3021
+169.1	Block	0	-105,71,3021
+169.1	Block	0	-105,72,3021
+169.1	Block	0	-105,73,3021
+169.1	Block	0	-105,74,3021
+169.1	Block	0	-106,67,3020
+169.1	Block	0	-106,68,3020
+169.1	Block	0	-106,69,3020
+169.1	Block	0	-106,70,3020
+169.1	Block	0	-106,71,3020
+169.1	Block	0	-106,72,3020
+169.1	Block	0	-106,73,3020
+169.1	Block	0	-106,74,3020
+144.1	Block	95:14	-99,67,3027
+144.1	Block	95:14	-99,68,3027
+144.1	Block	95:14	-99,69,3027
+144.1	Block	95:11	-99,70,3027
+144.1	Block	95:11	-99,71,3027
+144.1	Block	95:14	-99,72,3027
+144.1	Block	95:14	-99,73,3027
+144.1	Block	95:14	-99,74,3027
+144.1	Block	95:14	-100,67,3026
+144.1	Block	95:14	-100,68,3026
+144.1	Block	95:14	-100,69,3026
+144.1	Block	95:11	-100,70,3026
+144.1	Block	95:11	-100,71,3026
+144.1	Block	95:14	-100,72,3026
+144.1	Block	95:14	-100,73,3026
+144.1	Block	95:14	-100,74,3026
+144.1	Block	95:14	-101,67,3025
+144.1	Block	95:14	-101,68,3025
+144.1	Block	95:14	-101,69,3025
+144.1	Block	95:11	-101,70,3025
+144.1	Block	95:11	-101,71,3025
+144.1	Block	95:14	-101,72,3025
+144.1	Block	95:14	-101,73,3025
+144.1	Block	95:14	-101,74,3025
+144.1	Block	95:14	-102,67,3024
+144.1	Block	95:14	-102,68,3024
+144.1	Block	95:14	-102,69,3024
+144.1	Block	95:11	-102,70,3024
+144.1	Block	95:11	-102,71,3024
+144.1	Block	95:14	-102,72,3024
+144.1	Block	95:14	-102,73,3024
+144.1	Block	95:14	-102,74,3024
+144.1	Block	95:14	-103,67,3023
+144.1	Block	95:14	-103,68,3023
+144.1	Block	95:14	-103,69,3023
+144.1	Block	95:11	-103,70,3023
+144.1	Block	95:11	-103,71,3023
+144.1	Block	95:14	-103,72,3023
+144.1	Block	95:14	-103,73,3023
+144.1	Block	95:14	-103,74,3023
+144.1	Block	95:14	-104,67,3022
+144.1	Block	95:14	-104,68,3022
+144.1	Block	95:14	-104,69,3022
+144.1	Block	95:11	-104,70,3022
+144.1	Block	95:11	-104,71,3022
+144.1	Block	95:14	-104,72,3022
+144.1	Block	95:14	-104,73,3022
+144.1	Block	95:14	-104,74,3022
+144.1	Block	95:14	-105,67,3021
+144.1	Block	95:14	-105,68,3021
+144.1	Block	95:14	-105,69,3021
+144.1	Block	95:11	-105,70,3021
+144.1	Block	95:11	-105,71,3021
+144.1	Block	95:14	-105,72,3021
+144.1	Block	95:14	-105,73,3021
+144.1	Block	95:14	-105,74,3021
+144.1	Block	95:14	-106,67,3020
+144.1	Block	95:14	-106,68,3020
+144.1	Block	95:14	-106,69,3020
+144.1	Block	95:11	-106,70,3020
+144.1	Block	95:11	-106,71,3020
+144.1	Block	95:14	-106,72,3020
+144.1	Block	95:14	-106,73,3020
+144.1	Block	95:14	-106,74,3020
+144.1	Block	160:0	-99,69,3026
+144.1	Block	160:0	-99,72,3026
+144.1	Block	160:0	-100,67,3025
+144.1	Block	160:0	-100,68,3025
+144.1	Block	160:0	-100,69,3025
+144.1	Block	160:0	-100,72,3025
+144.1	Block	160:0	-100,73,3025
+144.1	Block	160:0	-100,74,3025
+144.1	Block	160:0	-101,67,3024
+144.1	Block	160:0	-101,68,3024
+144.1	Block	160:0	-101,69,3024
+144.1	Block	160:0	-101,72,3024
+144.1	Block	160:0	-101,73,3024
+144.1	Block	160:0	-101,74,3024
+144.1	Block	160:0	-102,69,3023
+144.1	Block	160:0	-102,72,3023
+144.1	Block	160:0	-103,69,3022
+144.1	Block	160:0	-103,72,3022
+144.1	Block	160:0	-104,69,3021
+144.1	Block	160:0	-104,72,3021
+144.1	Block	160:0	-105,69,3020
+144.1	Block	160:0	-105,72,3020
+169.1	Block	0	-99,69,3026
+169.1	Block	0	-99,72,3026
+169.1	Block	0	-100,67,3025
+169.1	Block	0	-100,68,3025
+169.1	Block	0	-100,69,3025
+169.1	Block	0	-100,72,3025
+169.1	Block	0	-100,73,3025
+169.1	Block	0	-100,74,3025
+169.1	Block	0	-101,67,3024
+169.1	Block	0	-101,68,3024
+169.1	Block	0	-101,69,3024
+169.1	Block	0	-101,72,3024
+169.1	Block	0	-101,73,3024
+169.1	Block	0	-101,74,3024
+169.1	Block	0	-102,69,3023
+169.1	Block	0	-102,72,3023
+169.1	Block	0	-103,69,3022
+169.1	Block	0	-103,72,3022
+169.1	Block	0	-104,69,3021
+169.1	Block	0	-104,72,3021
+169.1	Block	0	-105,69,3020
+169.1	Block	0	-105,72,3020
+#France
+171.2	Block	95:0	-99,56,3027
+171.2	Block	95:0	-100,56,3026
+171.2	Block	95:0	-101,56,3025
+171.2	Block	95:0	-102,56,3024
+171.2	Block	95:0	-103,56,3023
+171.2	Block	95:0	-104,56,3022
+171.2	Block	95:0	-105,56,3021
+171.2	Block	95:0	-106,56,3020
+171.2	Block	95:0	-99,57,3027
+171.2	Block	95:0	-100,57,3026
+171.2	Block	95:0	-101,57,3025
+171.2	Block	95:0	-102,57,3024
+171.2	Block	95:0	-103,57,3023
+171.2	Block	95:0	-104,57,3022
+171.2	Block	95:0	-105,57,3021
+171.2	Block	95:0	-106,57,3020
+171.2	Block	95:0	-99,58,3027
+171.2	Block	95:0	-100,58,3026
+171.2	Block	95:0	-101,58,3025
+171.2	Block	95:0	-102,58,3024
+171.2	Block	95:0	-103,58,3023
+171.2	Block	95:0	-104,58,3022
+171.2	Block	95:0	-105,58,3021
+171.2	Block	95:0	-106,58,3020
+198.3	Block	35:15	-99,56,3027
+198.3	Block	35:15	-100,56,3026
+198.3	Block	35:15	-101,56,3025
+198.3	Block	35:15	-102,56,3024
+198.3	Block	35:15	-103,56,3023
+198.3	Block	35:15	-104,56,3022
+198.3	Block	35:15	-105,56,3021
+198.3	Block	35:15	-106,56,3020
+198.3	Block	95:15	-99,57,3027
+198.3	Block	95:15	-100,57,3026
+198.3	Block	95:15	-101,57,3025
+198.3	Block	95:15	-102,57,3024
+198.3	Block	95:15	-103,57,3023
+198.3	Block	95:15	-104,57,3022
+198.3	Block	95:15	-105,57,3021
+198.3	Block	95:15	-106,57,3020
+198.3	Block	95:15	-99,58,3027
+198.3	Block	95:15	-100,58,3026
+198.3	Block	95:15	-101,58,3025
+198.3	Block	95:15	-102,58,3024
+198.3	Block	95:15	-103,58,3023
+198.3	Block	95:15	-104,58,3022
+198.3	Block	95:15	-105,58,3021
+198.3	Block	95:15	-106,58,3020
+198.3	Block	0	-99,67,3027
+198.3	Block	0	-99,68,3027
+198.3	Block	0	-99,69,3027
+198.3	Block	0	-99,70,3027
+198.3	Block	0	-99,71,3027
+198.3	Block	0	-99,72,3027
+198.3	Block	0	-99,73,3027
+198.3	Block	0	-99,74,3027
+198.3	Block	0	-100,67,3026
+198.3	Block	0	-100,68,3026
+198.3	Block	0	-100,69,3026
+198.3	Block	0	-100,70,3026
+198.3	Block	0	-100,71,3026
+198.3	Block	0	-100,72,3026
+198.3	Block	0	-100,73,3026
+198.3	Block	0	-100,74,3026
+198.3	Block	0	-101,67,3025
+198.3	Block	0	-101,68,3025
+198.3	Block	0	-101,69,3025
+198.3	Block	0	-101,70,3025
+198.3	Block	0	-101,71,3025
+198.3	Block	0	-101,72,3025
+198.3	Block	0	-101,73,3025
+198.3	Block	0	-101,74,3025
+198.3	Block	0	-102,67,3024
+198.3	Block	0	-102,68,3024
+198.3	Block	0	-102,69,3024
+198.3	Block	0	-102,70,3024
+198.3	Block	0	-102,71,3024
+198.3	Block	0	-102,72,3024
+198.3	Block	0	-102,73,3024
+198.3	Block	0	-102,74,3024
+198.3	Block	0	-103,67,3023
+198.3	Block	0	-103,68,3023
+198.3	Block	0	-103,69,3023
+198.3	Block	0	-103,70,3023
+198.3	Block	0	-103,71,3023
+198.3	Block	0	-103,72,3023
+198.3	Block	0	-103,73,3023
+198.3	Block	0	-103,74,3023
+198.3	Block	0	-104,67,3022
+198.3	Block	0	-104,68,3022
+198.3	Block	0	-104,69,3022
+198.3	Block	0	-104,70,3022
+198.3	Block	0	-104,71,3022
+198.3	Block	0	-104,72,3022
+198.3	Block	0	-104,73,3022
+198.3	Block	0	-104,74,3022
+198.3	Block	0	-105,67,3021
+198.3	Block	0	-105,68,3021
+198.3	Block	0	-105,69,3021
+198.3	Block	0	-105,70,3021
+198.3	Block	0	-105,71,3021
+198.3	Block	0	-105,72,3021
+198.3	Block	0	-105,73,3021
+198.3	Block	0	-105,74,3021
+198.3	Block	0	-106,67,3020
+198.3	Block	0	-106,68,3020
+198.3	Block	0	-106,69,3020
+198.3	Block	0	-106,70,3020
+198.3	Block	0	-106,71,3020
+198.3	Block	0	-106,72,3020
+198.3	Block	0	-106,73,3020
+198.3	Block	0	-106,74,3020
+171.2	Block	95:11	-99,67,3027
+171.2	Block	95:11	-99,68,3027
+171.2	Block	95:11	-99,69,3027
+171.2	Block	95:11	-99,70,3027
+171.2	Block	95:11	-99,71,3027
+171.2	Block	95:11	-99,72,3027
+171.2	Block	95:11	-99,73,3027
+171.2	Block	95:11	-99,74,3027
+171.2	Block	95:11	-100,67,3026
+171.2	Block	95:11	-100,68,3026
+171.2	Block	95:11	-100,69,3026
+171.2	Block	95:11	-100,70,3026
+171.2	Block	95:11	-100,71,3026
+171.2	Block	95:11	-100,72,3026
+171.2	Block	95:11	-100,73,3026
+171.2	Block	95:11	-100,74,3026
+171.2	Block	95:0	-101,67,3025
+171.2	Block	95:0	-101,68,3025
+171.2	Block	95:0	-101,69,3025
+171.2	Block	95:0	-101,70,3025
+171.2	Block	95:0	-101,71,3025
+171.2	Block	95:0	-101,72,3025
+171.2	Block	95:0	-101,73,3025
+171.2	Block	95:0	-101,74,3025
+171.2	Block	95:0	-102,67,3024
+171.2	Block	95:0	-102,68,3024
+171.2	Block	95:0	-102,69,3024
+171.2	Block	95:0	-102,70,3024
+171.2	Block	95:0	-102,71,3024
+171.2	Block	95:0	-102,72,3024
+171.2	Block	95:0	-102,73,3024
+171.2	Block	95:0	-102,74,3024
+171.2	Block	95:0	-103,67,3023
+171.2	Block	95:0	-103,68,3023
+171.2	Block	95:0	-103,69,3023
+171.2	Block	95:0	-103,70,3023
+171.2	Block	95:0	-103,71,3023
+171.2	Block	95:0	-103,72,3023
+171.2	Block	95:0	-103,73,3023
+171.2	Block	95:0	-103,74,3023
+171.2	Block	95:0	-104,67,3022
+171.2	Block	95:0	-104,68,3022
+171.2	Block	95:0	-104,69,3022
+171.2	Block	95:0	-104,70,3022
+171.2	Block	95:0	-104,71,3022
+171.2	Block	95:0	-104,72,3022
+171.2	Block	95:0	-104,73,3022
+171.2	Block	95:0	-104,74,3022
+171.2	Block	95:14	-105,67,3021
+171.2	Block	95:14	-105,68,3021
+171.2	Block	95:14	-105,69,3021
+171.2	Block	95:14	-105,70,3021
+171.2	Block	95:14	-105,71,3021
+171.2	Block	95:14	-105,72,3021
+171.2	Block	95:14	-105,73,3021
+171.2	Block	95:14	-105,74,3021
+171.2	Block	95:14	-106,67,3020
+171.2	Block	95:14	-106,68,3020
+171.2	Block	95:14	-106,69,3020
+171.2	Block	95:14	-106,70,3020
+171.2	Block	95:14	-106,71,3020
+171.2	Block	95:14	-106,72,3020
+171.2	Block	95:14	-106,73,3020
+171.2	Block	95:14	-106,74,3020
+#Germany
+199.9	Block	95:0	-99,56,3027
+199.9	Block	95:0	-100,56,3026
+199.9	Block	95:0	-101,56,3025
+199.9	Block	95:0	-102,56,3024
+199.9	Block	95:0	-103,56,3023
+199.9	Block	95:0	-104,56,3022
+199.9	Block	95:0	-105,56,3021
+199.9	Block	95:0	-106,56,3020
+199.9	Block	95:0	-99,57,3027
+199.9	Block	95:0	-100,57,3026
+199.9	Block	95:0	-101,57,3025
+199.9	Block	95:0	-102,57,3024
+199.9	Block	95:0	-103,57,3023
+199.9	Block	95:0	-104,57,3022
+199.9	Block	95:0	-105,57,3021
+199.9	Block	95:0	-106,57,3020
+199.9	Block	95:0	-99,58,3027
+199.9	Block	95:0	-100,58,3026
+199.9	Block	95:0	-101,58,3025
+199.9	Block	95:0	-102,58,3024
+199.9	Block	95:0	-103,58,3023
+199.9	Block	95:0	-104,58,3022
+199.9	Block	95:0	-105,58,3021
+199.9	Block	95:0	-106,58,3020
+237.7	Block	35:15	-99,56,3027
+237.7	Block	35:15	-100,56,3026
+237.7	Block	35:15	-101,56,3025
+237.7	Block	35:15	-102,56,3024
+237.7	Block	35:15	-103,56,3023
+237.7	Block	35:15	-104,56,3022
+237.7	Block	35:15	-105,56,3021
+237.7	Block	35:15	-106,56,3020
+237.7	Block	20	-99,57,3027
+237.7	Block	20	-100,57,3026
+237.7	Block	20	-101,57,3025
+237.7	Block	20	-102,57,3024
+237.7	Block	20	-103,57,3023
+237.7	Block	20	-104,57,3022
+237.7	Block	20	-105,57,3021
+237.7	Block	20	-106,57,3020
+237.7	Block	20	-99,58,3027
+237.7	Block	20	-100,58,3026
+237.7	Block	20	-101,58,3025
+237.7	Block	20	-102,58,3024
+237.7	Block	20	-103,58,3023
+237.7	Block	20	-104,58,3022
+237.7	Block	20	-105,58,3021
+237.7	Block	20	-106,58,3020
+237.7	Block	0	-99,67,3027
+237.7	Block	0	-99,68,3027
+237.7	Block	0	-99,69,3027
+237.7	Block	0	-99,70,3027
+237.7	Block	0	-99,71,3027
+237.7	Block	0	-99,72,3027
+237.7	Block	0	-99,73,3027
+237.7	Block	0	-99,74,3027
+237.7	Block	0	-100,67,3026
+237.7	Block	0	-100,68,3026
+237.7	Block	0	-100,69,3026
+237.7	Block	0	-100,70,3026
+237.7	Block	0	-100,71,3026
+237.7	Block	0	-100,72,3026
+237.7	Block	0	-100,73,3026
+237.7	Block	0	-100,74,3026
+237.7	Block	0	-101,67,3025
+237.7	Block	0	-101,68,3025
+237.7	Block	0	-101,69,3025
+237.7	Block	0	-101,70,3025
+237.7	Block	0	-101,71,3025
+237.7	Block	0	-101,72,3025
+237.7	Block	0	-101,73,3025
+237.7	Block	0	-101,74,3025
+237.7	Block	0	-102,67,3024
+237.7	Block	0	-102,68,3024
+237.7	Block	0	-102,69,3024
+237.7	Block	0	-102,70,3024
+237.7	Block	0	-102,71,3024
+237.7	Block	0	-102,72,3024
+237.7	Block	0	-102,73,3024
+237.7	Block	0	-102,74,3024
+237.7	Block	0	-103,67,3023
+237.7	Block	0	-103,68,3023
+237.7	Block	0	-103,69,3023
+237.7	Block	0	-103,70,3023
+237.7	Block	0	-103,71,3023
+237.7	Block	0	-103,72,3023
+237.7	Block	0	-103,73,3023
+237.7	Block	0	-103,74,3023
+237.7	Block	0	-104,67,3022
+237.7	Block	0	-104,68,3022
+237.7	Block	0	-104,69,3022
+237.7	Block	0	-104,70,3022
+237.7	Block	0	-104,71,3022
+237.7	Block	0	-104,72,3022
+237.7	Block	0	-104,73,3022
+237.7	Block	0	-104,74,3022
+237.7	Block	0	-105,67,3021
+237.7	Block	0	-105,68,3021
+237.7	Block	0	-105,69,3021
+237.7	Block	0	-105,70,3021
+237.7	Block	0	-105,71,3021
+237.7	Block	0	-105,72,3021
+237.7	Block	0	-105,73,3021
+237.7	Block	0	-105,74,3021
+237.7	Block	0	-106,67,3020
+237.7	Block	0	-106,68,3020
+237.7	Block	0	-106,69,3020
+237.7	Block	0	-106,70,3020
+237.7	Block	0	-106,71,3020
+237.7	Block	0	-106,72,3020
+237.7	Block	0	-106,73,3020
+237.7	Block	0	-106,74,3020
+199.9	Block	95:1	-99,67,3027
+199.9	Block	95:1	-99,68,3027
+199.9	Block	95:1	-99,69,3027
+199.9	Block	95:14	-99,70,3027
+199.9	Block	95:14	-99,71,3027
+199.9	Block	95:14	-99,72,3027
+199.9	Block	95:15	-99,73,3027
+199.9	Block	95:15	-99,74,3027
+199.9	Block	95:1	-100,67,3026
+199.9	Block	95:1	-100,68,3026
+199.9	Block	95:1	-100,69,3026
+199.9	Block	95:14	-100,70,3026
+199.9	Block	95:14	-100,71,3026
+199.9	Block	95:14	-100,72,3026
+199.9	Block	95:15	-100,73,3026
+199.9	Block	95:15	-100,74,3026
+199.9	Block	95:1	-101,67,3025
+199.9	Block	95:1	-101,68,3025
+199.9	Block	95:1	-101,69,3025
+199.9	Block	95:14	-101,70,3025
+199.9	Block	95:14	-101,71,3025
+199.9	Block	95:14	-101,72,3025
+199.9	Block	95:15	-101,73,3025
+199.9	Block	95:15	-101,74,3025
+199.9	Block	95:1	-102,67,3024
+199.9	Block	95:1	-102,68,3024
+199.9	Block	95:1	-102,69,3024
+199.9	Block	95:14	-102,70,3024
+199.9	Block	95:14	-102,71,3024
+199.9	Block	95:14	-102,72,3024
+199.9	Block	95:15	-102,73,3024
+199.9	Block	95:15	-102,74,3024
+199.9	Block	95:1	-103,67,3023
+199.9	Block	95:1	-103,68,3023
+199.9	Block	95:1	-103,69,3023
+199.9	Block	95:14	-103,70,3023
+199.9	Block	95:14	-103,71,3023
+199.9	Block	95:14	-103,72,3023
+199.9	Block	95:15	-103,73,3023
+199.9	Block	95:15	-103,74,3023
+199.9	Block	95:1	-104,67,3022
+199.9	Block	95:1	-104,68,3022
+199.9	Block	95:1	-104,69,3022
+199.9	Block	95:14	-104,70,3022
+199.9	Block	95:14	-104,71,3022
+199.9	Block	95:14	-104,72,3022
+199.9	Block	95:15	-104,73,3022
+199.9	Block	95:15	-104,74,3022
+199.9	Block	95:1	-105,67,3021
+199.9	Block	95:1	-105,68,3021
+199.9	Block	95:1	-105,69,3021
+199.9	Block	95:14	-105,70,3021
+199.9	Block	95:14	-105,71,3021
+199.9	Block	95:14	-105,72,3021
+199.9	Block	95:15	-105,73,3021
+199.9	Block	95:15	-105,74,3021
+199.9	Block	95:1	-106,67,3020
+199.9	Block	95:1	-106,68,3020
+199.9	Block	95:1	-106,69,3020
+199.9	Block	95:14	-106,70,3020
+199.9	Block	95:14	-106,71,3020
+199.9	Block	95:14	-106,72,3020
+199.9	Block	95:15	-106,73,3020
+199.9	Block	95:15	-106,74,3020
+#Morocco
+245.6	Block	95:0	-53,56,3020
+245.6	Block	95:0	-54,56,3021
+245.6	Block	95:0	-55,56,3022
+245.6	Block	95:0	-55,56,3022
+245.6	Block	95:0	-56,56,3023
+245.6	Block	95:0	-57,56,3024
+245.6	Block	95:0	-58,56,3025
+245.6	Block	95:0	-59,56,3026
+245.6	Block	95:0	-60,56,3027
+245.6	Block	95:0	-53,57,3020
+245.6	Block	95:0	-54,57,3021
+245.6	Block	95:0	-55,57,3022
+245.6	Block	95:0	-55,57,3022
+245.6	Block	95:0	-56,57,3023
+245.6	Block	95:0	-57,57,3024
+245.6	Block	95:0	-58,57,3025
+245.6	Block	95:0	-59,57,3026
+245.6	Block	95:0	-60,57,3027
+245.6	Block	95:0	-53,58,3020
+245.6	Block	95:0	-54,58,3021
+245.6	Block	95:0	-55,58,3022
+245.6	Block	95:0	-55,58,3022
+245.6	Block	95:0	-56,58,3023
+245.6	Block	95:0	-57,58,3024
+245.6	Block	95:0	-58,58,3025
+245.6	Block	95:0	-59,58,3026
+245.6	Block	95:0	-60,58,3027
+277.7	Block	0	-54,72,3020
+277.7	Block	0	-55,72,3021
+277.7	Block	0	-56,71,3022
+277.7	Block	0	-56,74,3022
+277.7	Block	0	-57,72,3023
+277.7	Block	0	-57,73,3023
+277.7	Block	0	-53,67,3020
+277.7	Block	0	-53,68,3020
+277.7	Block	0	-53,69,3020
+277.7	Block	0	-53,70,3020
+277.7	Block	0	-53,71,3020
+277.7	Block	0	-53,72,3020
+277.7	Block	0	-53,73,3020
+277.7	Block	0	-53,74,3020
+277.7	Block	0	-54,67,3021
+277.7	Block	0	-54,68,3021
+277.7	Block	0	-54,69,3021
+277.7	Block	0	-54,70,3021
+277.7	Block	0	-54,71,3021
+277.7	Block	0	-54,72,3021
+277.7	Block	0	-54,73,3021
+277.7	Block	0	-54,74,3021
+277.7	Block	0	-55,67,3022
+277.7	Block	0	-55,68,3022
+277.7	Block	0	-55,69,3022
+277.7	Block	0	-55,70,3022
+277.7	Block	0	-55,71,3022
+277.7	Block	0	-55,72,3022
+277.7	Block	0	-55,73,3022
+277.7	Block	0	-55,74,3022
+277.7	Block	0	-56,67,3023
+277.7	Block	0	-56,68,3023
+277.7	Block	0	-56,69,3023
+277.7	Block	0	-56,70,3023
+277.7	Block	0	-56,71,3023
+277.7	Block	0	-56,72,3023
+277.7	Block	0	-56,73,3023
+277.7	Block	0	-56,74,3023
+277.7	Block	0	-57,67,3024
+277.7	Block	0	-57,68,3024
+277.7	Block	0	-57,69,3024
+277.7	Block	0	-57,70,3024
+277.7	Block	0	-57,71,3024
+277.7	Block	0	-57,72,3024
+277.7	Block	0	-57,73,3024
+277.7	Block	0	-57,74,3024
+277.7	Block	0	-58,67,3025
+277.7	Block	0	-58,68,3025
+277.7	Block	0	-58,69,3025
+277.7	Block	0	-58,70,3025
+277.7	Block	0	-58,71,3025
+277.7	Block	0	-58,72,3025
+277.7	Block	0	-58,73,3025
+277.7	Block	0	-58,74,3025
+277.7	Block	0	-59,67,3026
+277.7	Block	0	-59,68,3026
+277.7	Block	0	-59,69,3026
+277.7	Block	0	-59,70,3026
+277.7	Block	0	-59,71,3026
+277.7	Block	0	-59,72,3026
+277.7	Block	0	-59,73,3026
+277.7	Block	0	-59,74,3026
+277.7	Block	0	-60,67,3027
+277.7	Block	0	-60,68,3027
+277.7	Block	0	-60,69,3027
+277.7	Block	0	-60,70,3027
+277.7	Block	0	-60,71,3027
+277.7	Block	0	-60,72,3027
+277.7	Block	0	-60,73,3027
+277.7	Block	0	-60,74,3027
+277.7	Block	35:15	-53,56,3020
+277.7	Block	95:15	-53,57,3020
+277.7	Block	95:15	-53,58,3020
+277.7	Block	35:15	-54,56,3021
+277.7	Block	95:15	-54,57,3021
+277.7	Block	95:15	-54,58,3021
+277.7	Block	35:15	-55,56,3022
+277.7	Block	95:15	-55,57,3022
+277.7	Block	95:15	-55,58,3022
+277.7	Block	35:15	-56,56,3023
+277.7	Block	95:15	-56,57,3023
+277.7	Block	95:15	-56,58,3023
+277.7	Block	35:15	-57,56,3024
+277.7	Block	95:15	-57,57,3024
+277.7	Block	95:15	-57,58,3024
+277.7	Block	35:15	-58,56,3025
+277.7	Block	95:15	-58,57,3025
+277.7	Block	95:15	-58,58,3025
+277.7	Block	35:15	-59,56,3026
+277.7	Block	95:15	-59,57,3026
+277.7	Block	95:15	-59,58,3026
+277.7	Block	35:15	-60,56,3027
+277.7	Block	95:15	-60,57,3027
+277.7	Block	95:15	-60,58,3027
+245.6	Block	95:14	-53,67,3020
+245.6	Block	95:14	-53,68,3020
+245.6	Block	95:14	-53,69,3020
+245.6	Block	95:14	-53,70,3020
+245.6	Block	95:14	-53,71,3020
+245.6	Block	95:14	-53,72,3020
+245.6	Block	95:14	-53,73,3020
+245.6	Block	95:14	-53,74,3020
+245.6	Block	95:14	-54,67,3021
+245.6	Block	95:14	-54,68,3021
+245.6	Block	95:14	-54,69,3021
+245.6	Block	95:14	-54,70,3021
+245.6	Block	95:14	-54,71,3021
+245.6	Block	95:14	-54,72,3021
+245.6	Block	95:14	-54,73,3021
+245.6	Block	95:14	-54,74,3021
+245.6	Block	95:14	-55,67,3022
+245.6	Block	95:14	-55,68,3022
+245.6	Block	95:14	-55,69,3022
+245.6	Block	95:14	-55,70,3022
+245.6	Block	95:13	-55,71,3022
+245.6	Block	95:14	-55,72,3022
+245.6	Block	95:14	-55,73,3022
+245.6	Block	95:14	-55,74,3022
+245.6	Block	95:14	-56,67,3023
+245.6	Block	95:14	-56,68,3023
+245.6	Block	95:14	-56,69,3023
+245.6	Block	95:13	-56,70,3023
+245.6	Block	95:13	-56,71,3023
+245.6	Block	95:14	-56,72,3023
+245.6	Block	95:14	-56,73,3023
+245.6	Block	95:14	-56,74,3023
+245.6	Block	95:14	-57,67,3024
+245.6	Block	95:14	-57,68,3024
+245.6	Block	95:14	-57,69,3024
+245.6	Block	95:13	-57,70,3024
+245.6	Block	95:13	-57,71,3024
+245.6	Block	95:14	-57,72,3024
+245.6	Block	95:14	-57,73,3024
+245.6	Block	95:14	-57,74,3024
+245.6	Block	95:14	-58,67,3025
+245.6	Block	95:14	-58,68,3025
+245.6	Block	95:14	-58,69,3025
+245.6	Block	95:14	-58,70,3025
+245.6	Block	95:13	-58,71,3025
+245.6	Block	95:14	-58,72,3025
+245.6	Block	95:14	-58,73,3025
+245.6	Block	95:14	-58,74,3025
+245.6	Block	95:14	-59,67,3026
+245.6	Block	95:14	-59,68,3026
+245.6	Block	95:14	-59,69,3026
+245.6	Block	95:14	-59,70,3026
+245.6	Block	95:14	-59,71,3026
+245.6	Block	95:14	-59,72,3026
+245.6	Block	95:14	-59,73,3026
+245.6	Block	95:14	-59,74,3026
+245.6	Block	95:14	-60,67,3027
+245.6	Block	95:14	-60,68,3027
+245.6	Block	95:14	-60,69,3027
+245.6	Block	95:14	-60,70,3027
+245.6	Block	95:14	-60,71,3027
+245.6	Block	95:14	-60,72,3027
+245.6	Block	95:14	-60,73,3027
+245.6	Block	95:14	-60,74,3027
+245.6	Block	160:13	-56,69,3022
+245.6	Block	160:13	-56,70,3022
+245.6	Block	160:13	-56,71,3022
+245.6	Block	160:13	-57,70,3023
+245.6	Block	160:13	-57,71,3023
+245.6	Block	160:13	-57,72,3023
+245.6	Block	160:13	-58,69,3024
+245.6	Block	160:13	-58,70,3024
+245.6	Block	160:13	-58,71,3024
+277.7	Block	0	-56,69,3022
+277.7	Block	0	-56,70,3022
+277.7	Block	0	-56,71,3022
+277.7	Block	0	-57,70,3023
+277.7	Block	0	-57,71,3023
+277.7	Block	0	-57,72,3023
+277.7	Block	0	-58,69,3024
+277.7	Block	0	-58,70,3024
+277.7	Block	0	-58,71,3024
+#UK
+282.2	Block	95:0	-53,56,3020
+282.2	Block	95:0	-54,56,3021
+282.2	Block	95:0	-55,56,3022
+282.2	Block	95:0	-55,56,3022
+282.2	Block	95:0	-56,56,3023
+282.2	Block	95:0	-57,56,3024
+282.2	Block	95:0	-58,56,3025
+282.2	Block	95:0	-59,56,3026
+282.2	Block	95:0	-60,56,3027
+282.2	Block	95:0	-53,57,3020
+282.2	Block	95:0	-54,57,3021
+282.2	Block	95:0	-55,57,3022
+282.2	Block	95:0	-55,57,3022
+282.2	Block	95:0	-56,57,3023
+282.2	Block	95:0	-57,57,3024
+282.2	Block	95:0	-58,57,3025
+282.2	Block	95:0	-59,57,3026
+282.2	Block	95:0	-60,57,3027
+282.2	Block	95:0	-53,58,3020
+282.2	Block	95:0	-54,58,3021
+282.2	Block	95:0	-55,58,3022
+282.2	Block	95:0	-55,58,3022
+282.2	Block	95:0	-56,58,3023
+282.2	Block	95:0	-57,58,3024
+282.2	Block	95:0	-58,58,3025
+282.2	Block	95:0	-59,58,3026
+282.2	Block	95:0	-60,58,3027
+314.9	Block	0	-54,72,3020
+314.9	Block	0	-55,72,3021
+314.9	Block	0	-56,71,3022
+314.9	Block	0	-56,74,3022
+314.9	Block	0	-57,72,3023
+314.9	Block	0	-57,73,3023
+314.9	Block	0	-53,67,3020
+314.9	Block	0	-53,68,3020
+314.9	Block	0	-53,69,3020
+314.9	Block	0	-53,70,3020
+314.9	Block	0	-53,71,3020
+314.9	Block	0	-53,72,3020
+314.9	Block	0	-53,73,3020
+314.9	Block	0	-53,74,3020
+314.9	Block	0	-54,67,3021
+314.9	Block	0	-54,68,3021
+314.9	Block	0	-54,69,3021
+314.9	Block	0	-54,70,3021
+314.9	Block	0	-54,71,3021
+314.9	Block	0	-54,72,3021
+314.9	Block	0	-54,73,3021
+314.9	Block	0	-54,74,3021
+314.9	Block	0	-55,67,3022
+314.9	Block	0	-55,68,3022
+314.9	Block	0	-55,69,3022
+314.9	Block	0	-55,70,3022
+314.9	Block	0	-55,71,3022
+314.9	Block	0	-55,72,3022
+314.9	Block	0	-55,73,3022
+314.9	Block	0	-55,74,3022
+314.9	Block	0	-56,67,3023
+314.9	Block	0	-56,68,3023
+314.9	Block	0	-56,69,3023
+314.9	Block	0	-56,70,3023
+314.9	Block	0	-56,71,3023
+314.9	Block	0	-56,72,3023
+314.9	Block	0	-56,73,3023
+314.9	Block	0	-56,74,3023
+314.9	Block	0	-57,67,3024
+314.9	Block	0	-57,68,3024
+314.9	Block	0	-57,69,3024
+314.9	Block	0	-57,70,3024
+314.9	Block	0	-57,71,3024
+314.9	Block	0	-57,72,3024
+314.9	Block	0	-57,73,3024
+314.9	Block	0	-57,74,3024
+314.9	Block	0	-58,67,3025
+314.9	Block	0	-58,68,3025
+314.9	Block	0	-58,69,3025
+314.9	Block	0	-58,70,3025
+314.9	Block	0	-58,71,3025
+314.9	Block	0	-58,72,3025
+314.9	Block	0	-58,73,3025
+314.9	Block	0	-58,74,3025
+314.9	Block	0	-59,67,3026
+314.9	Block	0	-59,68,3026
+314.9	Block	0	-59,69,3026
+314.9	Block	0	-59,70,3026
+314.9	Block	0	-59,71,3026
+314.9	Block	0	-59,72,3026
+314.9	Block	0	-59,73,3026
+314.9	Block	0	-59,74,3026
+314.9	Block	0	-60,67,3027
+314.9	Block	0	-60,68,3027
+314.9	Block	0	-60,69,3027
+314.9	Block	0	-60,70,3027
+314.9	Block	0	-60,71,3027
+314.9	Block	0	-60,72,3027
+314.9	Block	0	-60,73,3027
+314.9	Block	0	-60,74,3027
+314.9	Block	35:15	-53,56,3020
+314.9	Block	20	-53,57,3020
+314.9	Block	20	-53,58,3020
+314.9	Block	35:15	-54,56,3021
+314.9	Block	20	-54,57,3021
+314.9	Block	20	-54,58,3021
+314.9	Block	35:15	-55,56,3022
+314.9	Block	20	-55,57,3022
+314.9	Block	20	-55,58,3022
+314.9	Block	35:15	-56,56,3023
+314.9	Block	20	-56,57,3023
+314.9	Block	20	-56,58,3023
+314.9	Block	35:15	-57,56,3024
+314.9	Block	20	-57,57,3024
+314.9	Block	20	-57,58,3024
+314.9	Block	35:15	-58,56,3025
+314.9	Block	20	-58,57,3025
+314.9	Block	20	-58,58,3025
+314.9	Block	35:15	-59,56,3026
+314.9	Block	20	-59,57,3026
+314.9	Block	20	-59,58,3026
+314.9	Block	35:15	-60,56,3027
+314.9	Block	20	-60,57,3027
+314.9	Block	20	-60,58,3027
+282.2	Block	95:0	-53,56,3020
+282.2	Block	95:0	-53,57,3020
+282.2	Block	95:0	-53,58,3020
+282.2	Block	95:0	-54,56,3021
+282.2	Block	95:0	-54,57,3021
+282.2	Block	95:0	-54,58,3021
+282.2	Block	95:0	-55,56,3022
+282.2	Block	95:0	-55,57,3022
+282.2	Block	95:0	-55,58,3022
+282.2	Block	95:0	-56,56,3023
+282.2	Block	95:0	-56,57,3023
+282.2	Block	95:0	-56,58,3023
+282.2	Block	95:0	-57,56,3024
+282.2	Block	95:0	-57,57,3024
+282.2	Block	95:0	-57,58,3024
+282.2	Block	95:0	-58,56,3025
+282.2	Block	95:0	-58,57,3025
+282.2	Block	95:0	-58,58,3025
+282.2	Block	95:0	-59,56,3026
+282.2	Block	95:0	-59,57,3026
+282.2	Block	95:0	-59,58,3026
+282.2	Block	95:0	-60,56,3027
+282.2	Block	95:0	-60,57,3027
+282.2	Block	95:0	-60,58,3027
+282.2	Block	95:0	-53,67,3020
+282.2	Block	95:11	-53,68,3020
+282.2	Block	95:11	-53,69,3020
+282.2	Block	95:14	-53,70,3020
+282.2	Block	95:14	-53,71,3020
+282.2	Block	95:11	-53,72,3020
+282.2	Block	95:11	-53,73,3020
+282.2	Block	95:0	-53,74,3020
+282.2	Block	95:11	-54,67,3021
+282.2	Block	95:0	-54,68,3021
+282.2	Block	95:11	-54,69,3021
+282.2	Block	95:14	-54,70,3021
+282.2	Block	95:14	-54,71,3021
+282.2	Block	95:11	-54,72,3021
+282.2	Block	95:0	-54,73,3021
+282.2	Block	95:11	-54,74,3021
+282.2	Block	95:11	-55,67,3022
+282.2	Block	95:11	-55,68,3022
+282.2	Block	95:0	-55,69,3022
+282.2	Block	95:14	-55,70,3022
+282.2	Block	95:14	-55,71,3022
+282.2	Block	95:0	-55,72,3022
+282.2	Block	95:11	-55,73,3022
+282.2	Block	95:11	-55,74,3022
+282.2	Block	95:14	-56,67,3023
+282.2	Block	95:14	-56,68,3023
+282.2	Block	95:14	-56,69,3023
+282.2	Block	95:14	-56,70,3023
+282.2	Block	95:14	-56,71,3023
+282.2	Block	95:14	-56,72,3023
+282.2	Block	95:14	-56,73,3023
+282.2	Block	95:14	-56,74,3023
+282.2	Block	95:14	-57,67,3024
+282.2	Block	95:14	-57,68,3024
+282.2	Block	95:14	-57,69,3024
+282.2	Block	95:14	-57,70,3024
+282.2	Block	95:14	-57,71,3024
+282.2	Block	95:14	-57,72,3024
+282.2	Block	95:14	-57,73,3024
+282.2	Block	95:14	-57,74,3024
+282.2	Block	95:11	-58,67,3025
+282.2	Block	95:11	-58,68,3025
+282.2	Block	95:0	-58,69,3025
+282.2	Block	95:14	-58,70,3025
+282.2	Block	95:14	-58,71,3025
+282.2	Block	95:0	-58,72,3025
+282.2	Block	95:11	-58,73,3025
+282.2	Block	95:11	-58,74,3025
+282.2	Block	95:11	-59,67,3026
+282.2	Block	95:0	-59,68,3026
+282.2	Block	95:11	-59,69,3026
+282.2	Block	95:14	-59,70,3026
+282.2	Block	95:14	-59,71,3026
+282.2	Block	95:11	-59,72,3026
+282.2	Block	95:0	-59,73,3026
+282.2	Block	95:11	-59,74,3026
+282.2	Block	95:0	-60,67,3027
+282.2	Block	95:11	-60,68,3027
+282.2	Block	95:11	-60,69,3027
+282.2	Block	95:14	-60,70,3027
+282.2	Block	95:14	-60,71,3027
+282.2	Block	95:11	-60,72,3027
+282.2	Block	95:11	-60,73,3027
+282.2	Block	95:0	-60,74,3027
+#Countdown
+329.7	Block	95:0	-58,51,3002
+331.9	Block	95:0	-63,51,3006
+334	Block	95:0	-67,51,3014
+336.1	Block	95:0	-76,51,3010
+338.1	Block	95:0	-83,51,3010
+340.2	Block	95:0	-92,51,3014
+342.3	Block	95:0	-96,51,3006
+344.4	Block	95:0	-101,51,3002
+346.6	Block	95:0	-53,56,3020
+346.65	Block	95:0	-54,56,3021
+346.7	Block	95:0	-59,56,3026
+346.75	Block	95:0	-60,56,3027
+348.4	Block	95:0	-70,54,3024
+348.45	Block	95:0	-73,54,3024
+348.5	Block	95:0	-76,54,3024
+348.5	Block	95:0	-83,54,3024
+348.45	Block	95:0	-86,54,3024
+348.4	Block	95:0	-89,54,3024
+346.75	Block	95:0	-99,56,3027
+346.7	Block	95:0	-100,56,3026
+346.65	Block	95:0	-105,56,3021
+346.6	Block	95:0	-106,56,3020
+350.3	Block	95:4	-58,51,3002
+350.3	Block	95:4	-63,51,3006
+350.3	Block	95:4	-67,51,3014
+350.3	Block	95:4	-76,51,3010
+350.3	Block	95:4	-83,51,3010
+350.3	Block	95:4	-92,51,3014
+350.3	Block	95:4	-96,51,3006
+350.3	Block	95:4	-101,51,3002
+350.3	Block	95:4	-53,56,3020
+350.3	Block	95:4	-54,56,3021
+350.3	Block	95:4	-59,56,3026
+350.3	Block	95:4	-60,56,3027
+350.3	Block	95:4	-70,54,3024
+350.3	Block	95:4	-73,54,3024
+350.3	Block	95:4	-76,54,3024
+350.3	Block	95:4	-83,54,3024
+350.3	Block	95:4	-86,54,3024
+350.3	Block	95:4	-89,54,3024
+350.3	Block	95:4	-99,56,3027
+350.3	Block	95:4	-100,56,3026
+350.3	Block	95:4	-105,56,3021
+350.3	Block	95:4	-106,56,3020
+350.3	Block	95:1	-58,52,3002
+350.3	Block	95:1	-63,52,3006
+350.3	Block	95:1	-67,52,3014
+350.3	Block	95:1	-76,52,3010
+350.3	Block	95:1	-83,52,3010
+350.3	Block	95:1	-92,52,3014
+350.3	Block	95:1	-96,52,3006
+350.3	Block	95:1	-101,52,3002
+350.3	Block	95:1	-53,57,3020
+350.3	Block	95:1	-54,57,3021
+350.3	Block	95:1	-59,57,3026
+350.3	Block	95:1	-60,57,3027
+350.3	Block	95:1	-70,55,3024
+350.3	Block	95:1	-73,55,3024
+350.3	Block	95:1	-76,55,3024
+350.3	Block	95:1	-83,55,3024
+350.3	Block	95:1	-86,55,3024
+350.3	Block	95:1	-89,55,3024
+350.3	Block	95:1	-99,57,3027
+350.3	Block	95:1	-100,57,3026
+350.3	Block	95:1	-105,57,3021
+350.3	Block	95:1	-106,57,3020
+353.8	Block	95:10	-58,51,3002
+353.8	Block	95:10	-63,51,3006
+353.8	Block	95:10	-67,51,3014
+353.8	Block	95:10	-76,51,3010
+353.8	Block	95:10	-83,51,3010
+353.8	Block	95:10	-92,51,3014
+353.8	Block	95:10	-96,51,3006
+353.8	Block	95:10	-101,51,3002
+354.55	Block	95:10	-53,56,3020
+355.3	Block	95:10	-54,56,3021
+356	Block	95:10	-55,56,3022
+356.75	Block	95:10	-56,56,3023
+357.55	Block	95:10	-57,56,3024
+358.2	Block	95:10	-58,56,3025
+359	Block	95:10	-59,56,3026
+359.75	Block	95:10	-60,56,3027
+360.5	Block	95:10	-70,54,3024
+361.25	Block	95:10	-71,54,3024
+362	Block	95:10	-72,54,3024
+362.75	Block	95:10	-73,54,3024
+363.5	Block	95:10	-74,54,3024
+364.25	Block	95:10	-75,54,3024
+365	Block	95:10	-76,54,3024
+365	Block	95:10	-83,54,3024
+364.25	Block	95:10	-84,54,3024
+363.5	Block	95:10	-85,54,3024
+362.75	Block	95:10	-86,54,3024
+362	Block	95:10	-87,54,3024
+361.25	Block	95:10	-88,54,3024
+360.5	Block	95:10	-89,54,3024
+359.75	Block	95:10	-99,56,3027
+359	Block	95:10	-100,56,3026
+358.2	Block	95:10	-101,56,3025
+357.55	Block	95:10	-102,56,3024
+356.75	Block	95:10	-103,56,3023
+356	Block	95:10	-104,56,3022
+355.3	Block	95:10	-105,56,3021
+354.55	Block	95:10	-106,56,3020
+353.8	Block	95:11	-58,52,3002
+353.8	Block	95:11	-63,52,3006
+353.8	Block	95:11	-67,52,3014
+353.8	Block	95:11	-76,52,3010
+353.8	Block	95:11	-83,52,3010
+353.8	Block	95:11	-92,52,3014
+353.8	Block	95:11	-96,52,3006
+353.8	Block	95:11	-101,52,3002
+354.55	Block	95:11	-53,57,3020
+355.3	Block	95:11	-54,57,3021
+356	Block	95:11	-55,57,3022
+356.75	Block	95:11	-56,57,3023
+357.55	Block	95:11	-57,57,3024
+358.2	Block	95:11	-58,57,3025
+359	Block	95:11	-59,57,3026
+359.75	Block	95:11	-60,57,3027
+360.5	Block	95:11	-70,55,3024
+361.25	Block	95:11	-71,55,3024
+362	Block	95:11	-72,55,3024
+362.75	Block	95:11	-73,55,3024
+363.5	Block	95:11	-74,55,3024
+364.25	Block	95:11	-75,55,3024
+365	Block	95:11	-76,55,3024
+365	Block	95:11	-83,55,3024
+364.25	Block	95:11	-84,55,3024
+363.5	Block	95:11	-85,55,3024
+362.75	Block	95:11	-86,55,3024
+362	Block	95:11	-87,55,3024
+361.25	Block	95:11	-88,55,3024
+360.5	Block	95:11	-89,55,3024
+359.75	Block	95:11	-99,57,3027
+359	Block	95:11	-100,57,3026
+358.2	Block	95:11	-101,57,3025
+357.55	Block	95:11	-102,57,3024
+356.75	Block	95:11	-103,57,3023
+356	Block	95:11	-104,57,3022
+355.3	Block	95:11	-105,57,3021
+354.55	Block	95:11	-106,57,3020
+########EDIT WHAT IS ON########
+368.6	Block	95:14	-58,51,3002
+368.6	Block	35:14	-63,51,3006
+368.6	Block	35:14	-67,51,3014
+368.6	Block	95:14	-76,51,3010
+368.6	Block	95:14	-83,51,3010
+368.6	Block	35:14	-92,51,3014
+368.6	Block	35:14	-96,51,3006
+368.6	Block	95:14	-101,51,3002
+366.5	Block	95:10	-53,56,3020
+366.4	Block	95:10	-54,56,3021
+366.3	Block	35:10	-55,56,3022
+366.2	Block	35:10	-56,56,3023
+366.1	Block	35:10	-57,56,3024
+366	Block	35:10	-58,56,3025
+365.9	Block	95:10	-59,56,3026
+365.8	Block	95:10	-60,56,3027
+365.7	Block	95:10	-70,54,3024
+365.6	Block	35:10	-71,54,3024
+365.5	Block	35:10	-72,54,3024
+365.4	Block	95:10	-73,54,3024
+365.3	Block	35:10	-74,54,3024
+365.2	Block	35:10	-75,54,3024
+365.1	Block	95:10	-76,54,3024
+365.1	Block	95:10	-83,54,3024
+365.2	Block	35:10	-84,54,3024
+365.3	Block	35:10	-85,54,3024
+365.4	Block	95:10	-86,54,3024
+365.5	Block	35:10	-87,54,3024
+365.6	Block	35:10	-88,54,3024
+365.7	Block	95:10	-89,54,3024
+365.8	Block	95:10	-99,56,3027
+365.9	Block	95:10	-100,56,3026
+366	Block	35:10	-101,56,3025
+366.1	Block	35:10	-102,56,3024
+366.2	Block	35:10	-103,56,3023
+366.3	Block	35:10	-104,56,3022
+366.4	Block	95:10	-105,56,3021
+366.5	Block	95:10	-106,56,3020
+368.6	Block	20	-58,52,3002
+368.6	Block	20	-63,52,3006
+368.6	Block	20	-67,52,3014
+368.6	Block	20	-76,52,3010
+368.6	Block	20	-83,52,3010
+368.6	Block	20	-92,52,3014
+368.6	Block	20	-96,52,3006
+368.6	Block	20	-101,52,3002
+366.5	Block	95:11	-53,57,3020
+366.4	Block	95:11	-54,57,3021
+366.3	Block	20	-55,57,3022
+366.2	Block	20	-56,57,3023
+366.1	Block	20	-57,57,3024
+366	Block	20	-58,57,3025
+365.9	Block	95:11	-59,57,3026
+365.8	Block	95:11	-60,57,3027
+365.7	Block	95:11	-70,55,3024
+365.6	Block	20	-71,55,3024
+365.5	Block	20	-72,55,3024
+365.4	Block	95:11	-73,55,3024
+365.3	Block	20	-74,55,3024
+365.2	Block	20	-75,55,3024
+365.1	Block	95:11	-76,55,3024
+365.1	Block	95:11	-83,55,3024
+365.2	Block	20	-84,55,3024
+365.3	Block	20	-85,55,3024
+365.4	Block	95:11	-86,55,3024
+365.5	Block	20	-87,55,3024
+365.6	Block	20	-88,55,3024
+365.7	Block	95:11	-89,55,3024
+365.8	Block	95:11	-99,57,3027
+365.9	Block	95:11	-100,57,3026
+366	Block	20	-101,57,3025
+366.1	Block	20	-102,57,3024
+366.2	Block	20	-103,57,3023
+366.3	Block	20	-104,57,3022
+366.4	Block	95:11	-105,57,3021
+366.5	Block	95:11	-106,57,3020
+371.9	Block	95:1	-58,51,3002
+373.65	Block	95:1	-76,51,3010
+373.65	Block	95:1	-83,51,3010
+371.9	Block	95:1	-101,51,3002
+375.4	Block	95:5	-58,51,3002
+377.05	Block	95:5	-76,51,3010
+377.05	Block	95:5	-83,51,3010
+375.4	Block	95:5	-101,51,3002
+378.7	Block	95:3	-58,51,3002
+378.7	Block	95:3	-76,51,3010
+378.7	Block	95:3	-83,51,3010
+378.7	Block	95:3	-101,51,3002
+382.4	Block	95:9	-58,51,3002
+383.7	Block	95:9	-76,51,3010
+383.7	Block	95:9	-83,51,3010
+382.4	Block	95:9	-101,51,3002
+385.7	Block	95:11	-58,51,3002
+387.1	Block	95:11	-76,51,3010
+387.1	Block	95:11	-83,51,3010
+385.7	Block	95:11	-101,51,3002
+389.4	Block	95:10	-58,51,3002
+392.8	Block	95:10	-76,51,3010
+392.8	Block	95:10	-83,51,3010
+389.4	Block	95:10	-101,51,3002
+396.4	Block	95:2	-58,51,3002
+396.4	Block	95:2	-76,51,3010
+396.4	Block	95:2	-83,51,3010
+396.4	Block	95:2	-101,51,3002
+403.7	Block	95:6	-58,51,3002
+403.7	Block	95:6	-76,51,3010
+403.7	Block	95:6	-83,51,3010
+403.7	Block	95:6	-101,51,3002
+407.3	Block	95:3	-58,51,3002
+407.3	Block	95:4	-76,51,3010
+407.3	Block	95:4	-83,51,3010
+407.3	Block	95:3	-101,51,3002
+411	Block	95:2	-58,51,3002
+411	Block	95:11	-76,51,3010
+411	Block	95:11	-83,51,3010
+411	Block	95:2	-101,51,3002
+414.7	Block	95:10	-58,51,3002
+414.7	Block	95:11	-76,51,3010
+414.7	Block	95:11	-83,51,3010
+414.7	Block	95:10	-101,51,3002
+417.5	Block	95:2	-58,51,3002
+417.5	Block	95:6	-76,51,3010
+417.5	Block	95:6	-83,51,3010
+417.5	Block	95:2	-101,51,3002
+422.3	Block	95:0	-58,51,3002
+422.3	Block	95:0	-76,51,3010
+422.3	Block	95:0	-83,51,3010
+422.3	Block	95:0	-101,51,3002
+425.8	Block	95:15	-63,51,3006
+425.8	Block	95:15	-67,51,3014
+425.8	Block	95:15	-92,51,3014
+425.8	Block	95:15	-96,51,3006
+426.1	Block	95:7	-63,51,3006
+426.1	Block	95:7	-67,51,3014
+426.1	Block	95:7	-92,51,3014
+426.1	Block	95:7	-96,51,3006
+426.4	Block	95:8	-63,51,3006
+426.4	Block	95:8	-67,51,3014
+426.4	Block	95:8	-92,51,3014
+426.4	Block	95:8	-96,51,3006
+426.7	Block	95:0	-63,51,3006
+426.7	Block	95:0	-67,51,3014
+426.7	Block	95:0	-92,51,3014
+426.7	Block	95:0	-96,51,3006
+426.7	Block	95:10	-58,51,3002
+426.7	Block	95:10	-76,51,3010
+426.7	Block	95:10	-83,51,3010
+426.7	Block	95:10	-101,51,3002
+426.7	Block	95:11	-58,52,3002
+426.7	Block	95:11	-76,52,3010
+426.7	Block	95:11	-83,52,3010
+426.7	Block	95:11	-101,52,3002
+427.2	Block	95:4	-63,51,3006
+427.7	Block	95:4	-67,51,3014
+427.7	Block	95:4	-92,51,3014
+427.2	Block	95:4	-96,51,3006
+428.2	Block	95:5	-63,51,3006
+428.7	Block	95:5	-67,51,3014
+428.7	Block	95:5	-92,51,3014
+428.2	Block	95:5	-96,51,3006
+429.2	Block	95:9	-63,51,3006
+429.7	Block	95:9	-67,51,3014
+429.7	Block	95:9	-92,51,3014
+429.2	Block	95:9	-96,51,3006
+430.2	Block	95:3	-63,51,3006
+430.7	Block	95:3	-67,51,3014
+430.7	Block	95:3	-92,51,3014
+430.2	Block	95:3	-96,51,3006
+431.2	Block	95:6	-63,51,3006
+431.7	Block	95:6	-67,51,3014
+431.7	Block	95:6	-92,51,3014
+431.2	Block	95:6	-96,51,3006
+432.2	Block	95:0	-63,51,3006
+432.7	Block	95:0	-67,51,3014
+432.7	Block	95:0	-92,51,3014
+432.2	Block	95:0	-96,51,3006
+433.2	Block	95:4	-63,51,3006
+433.7	Block	95:4	-67,51,3014
+433.7	Block	95:4	-92,51,3014
+433.2	Block	95:4	-96,51,3006
+434.2	Block	95:5	-63,51,3006
+434.7	Block	95:5	-67,51,3014
+434.7	Block	95:5	-92,51,3014
+434.2	Block	95:5	-96,51,3006
+435.2	Block	95:9	-63,51,3006
+435.7	Block	95:9	-67,51,3014
+435.7	Block	95:9	-92,51,3014
+435.2	Block	95:9	-96,51,3006
+436.2	Block	95:3	-63,51,3006
+436.7	Block	95:3	-67,51,3014
+436.7	Block	95:3	-92,51,3014
+436.2	Block	95:3	-96,51,3006
+437.2	Block	95:6	-63,51,3006
+437.7	Block	95:6	-67,51,3014
+437.7	Block	95:6	-92,51,3014
+437.2	Block	95:6	-96,51,3006
+438.2	Block	95:0	-63,51,3006
+438.7	Block	95:0	-67,51,3014
+438.7	Block	95:0	-92,51,3014
+438.2	Block	95:0	-96,51,3006
+439.2	Block	95:4	-63,51,3006
+439.7	Block	95:4	-67,51,3014
+439.7	Block	95:4	-92,51,3014
+439.2	Block	95:4	-96,51,3006
+440.2	Block	95:5	-63,51,3006
+440.7	Block	95:5	-67,51,3014
+440.7	Block	95:5	-92,51,3014
+440.2	Block	95:5	-96,51,3006
+441.2	Block	95:9	-63,51,3006
+441.7	Block	95:9	-67,51,3014
+441.7	Block	95:9	-92,51,3014
+441.2	Block	95:9	-96,51,3006
+442.2	Block	95:3	-63,51,3006
+442.7	Block	95:3	-67,51,3014
+442.7	Block	95:3	-92,51,3014
+442.2	Block	95:3	-96,51,3006
+443.2	Block	95:6	-63,51,3006
+443.7	Block	95:6	-67,51,3014
+443.7	Block	95:6	-92,51,3014
+443.2	Block	95:6	-96,51,3006
+444.2	Block	95:0	-63,51,3006
+444.7	Block	95:0	-67,51,3014
+444.7	Block	95:0	-92,51,3014
+444.2	Block	95:0	-96,51,3006
+445.2	Block	95:4	-63,51,3006
+445.7	Block	95:4	-67,51,3014
+445.7	Block	95:4	-92,51,3014
+445.2	Block	95:4	-96,51,3006
+446.2	Block	95:5	-63,51,3006
+446.7	Block	95:5	-67,51,3014
+446.7	Block	95:5	-92,51,3014
+446.2	Block	95:5	-96,51,3006
+447.2	Block	95:9	-63,51,3006
+447.7	Block	95:9	-67,51,3014
+447.7	Block	95:9	-92,51,3014
+447.2	Block	95:9	-96,51,3006
+448.2	Block	95:3	-63,51,3006
+448.7	Block	95:3	-67,51,3014
+448.7	Block	95:3	-92,51,3014
+448.2	Block	95:3	-96,51,3006
+449.2	Block	95:6	-63,51,3006
+449.7	Block	95:6	-67,51,3014
+449.7	Block	95:6	-92,51,3014
+449.2	Block	95:6	-96,51,3006
+450.2	Block	95:0	-63,51,3006
+450.7	Block	95:0	-67,51,3014
+450.7	Block	95:0	-92,51,3014
+450.2	Block	95:0	-96,51,3006
+451.2	Block	95:4	-63,51,3006
+451.7	Block	95:4	-67,51,3014
+451.7	Block	95:4	-92,51,3014
+451.2	Block	95:4	-96,51,3006
+452.2	Block	95:5	-63,51,3006
+452.7	Block	95:5	-67,51,3014
+452.7	Block	95:5	-92,51,3014
+452.2	Block	95:5	-96,51,3006
+453.2	Block	95:9	-63,51,3006
+453.7	Block	95:9	-67,51,3014
+453.7	Block	95:9	-92,51,3014
+453.2	Block	95:9	-96,51,3006
+454.2	Block	95:3	-63,51,3006
+454.7	Block	95:3	-67,51,3014
+454.7	Block	95:3	-92,51,3014
+454.2	Block	95:3	-96,51,3006
+455.2	Block	95:6	-63,51,3006
+455.7	Block	95:6	-67,51,3014
+455.7	Block	95:6	-92,51,3014
+455.2	Block	95:6	-96,51,3006
+456.2	Block	95:0	-63,51,3006
+456.7	Block	95:0	-67,51,3014
+456.7	Block	95:0	-92,51,3014
+456.2	Block	95:0	-96,51,3006
+457.2	Block	95:4	-63,51,3006
+457.7	Block	95:4	-67,51,3014
+457.7	Block	95:4	-92,51,3014
+457.2	Block	95:4	-96,51,3006
+458.2	Block	95:5	-63,51,3006
+458.7	Block	95:5	-67,51,3014
+458.7	Block	95:5	-92,51,3014
+458.2	Block	95:5	-96,51,3006
+459.2	Block	95:9	-63,51,3006
+459.7	Block	95:9	-67,51,3014
+459.7	Block	95:9	-92,51,3014
+459.2	Block	95:9	-96,51,3006
+460.2	Block	95:3	-63,51,3006
+460.7	Block	95:3	-67,51,3014
+460.7	Block	95:3	-92,51,3014
+460.2	Block	95:3	-96,51,3006
+461.2	Block	95:6	-63,51,3006
+461.7	Block	95:6	-67,51,3014
+461.7	Block	95:6	-92,51,3014
+461.2	Block	95:6	-96,51,3006
+462.2	Block	95:0	-63,51,3006
+462.7	Block	95:0	-67,51,3014
+462.7	Block	95:0	-92,51,3014
+462.2	Block	95:0	-96,51,3006
+463.2	Block	95:4	-63,51,3006
+463.7	Block	95:4	-67,51,3014
+463.7	Block	95:4	-92,51,3014
+463.2	Block	95:4	-96,51,3006
+464.2	Block	95:5	-63,51,3006
+464.7	Block	95:5	-67,51,3014
+464.7	Block	95:5	-92,51,3014
+464.2	Block	95:5	-96,51,3006
+465.2	Block	95:9	-63,51,3006
+465.7	Block	95:9	-67,51,3014
+465.7	Block	95:9	-92,51,3014
+465.2	Block	95:9	-96,51,3006
+466.2	Block	95:3	-63,51,3006
+466.7	Block	95:3	-67,51,3014
+466.7	Block	95:3	-92,51,3014
+466.2	Block	95:3	-96,51,3006
+467.2	Block	95:6	-63,51,3006
+467.7	Block	95:6	-67,51,3014
+467.7	Block	95:6	-92,51,3014
+467.2	Block	95:6	-96,51,3006
+468.2	Block	95:0	-63,51,3006
+468.7	Block	95:0	-67,51,3014
+468.7	Block	95:0	-92,51,3014
+468.2	Block	95:0	-96,51,3006
+469.2	Block	95:4	-63,51,3006
+469.7	Block	95:4	-67,51,3014
+469.7	Block	95:4	-92,51,3014
+469.2	Block	95:4	-96,51,3006
+470.2	Block	95:5	-63,51,3006
+470.7	Block	95:5	-67,51,3014
+470.7	Block	95:5	-92,51,3014
+470.2	Block	95:5	-96,51,3006
+471.2	Block	95:9	-63,51,3006
+471.7	Block	95:9	-67,51,3014
+471.7	Block	95:9	-92,51,3014
+471.2	Block	95:9	-96,51,3006
+472.2	Block	95:3	-63,51,3006
+472.7	Block	95:3	-67,51,3014
+472.7	Block	95:3	-92,51,3014
+472.2	Block	95:3	-96,51,3006
+473.2	Block	95:6	-63,51,3006
+473.7	Block	95:6	-67,51,3014
+473.7	Block	95:6	-92,51,3014
+473.2	Block	95:6	-96,51,3006
+474.2	Block	95:0	-63,51,3006
+474.7	Block	95:0	-67,51,3014
+474.7	Block	95:0	-92,51,3014
+474.2	Block	95:0	-96,51,3006
+475.2	Block	95:4	-63,51,3006
+475.7	Block	95:4	-67,51,3014
+475.7	Block	95:4	-92,51,3014
+475.2	Block	95:4	-96,51,3006
+476.2	Block	95:5	-63,51,3006
+476.7	Block	95:5	-67,51,3014
+476.7	Block	95:5	-92,51,3014
+476.2	Block	95:5	-96,51,3006
+477.2	Block	95:9	-63,51,3006
+477.7	Block	95:9	-67,51,3014
+477.7	Block	95:9	-92,51,3014
+477.2	Block	95:9	-96,51,3006
+478.2	Block	95:3	-63,51,3006
+478.7	Block	95:3	-67,51,3014
+478.7	Block	95:3	-92,51,3014
+478.2	Block	95:3	-96,51,3006
+479.2	Block	95:6	-63,51,3006
+479.7	Block	95:6	-67,51,3014
+479.7	Block	95:6	-92,51,3014
+479.2	Block	95:6	-96,51,3006
+480.2	Block	95:0	-63,51,3006
+480.7	Block	95:0	-67,51,3014
+480.7	Block	95:0	-92,51,3014
+480.2	Block	95:0	-96,51,3006
+481.2	Block	95:4	-63,51,3006
+481.7	Block	95:4	-67,51,3014
+481.7	Block	95:4	-92,51,3014
+481.2	Block	95:4	-96,51,3006
+482.2	Block	95:5	-63,51,3006
+482.7	Block	95:5	-67,51,3014
+482.7	Block	95:5	-92,51,3014
+482.2	Block	95:5	-96,51,3006
+483.2	Block	95:9	-63,51,3006
+483.7	Block	95:9	-67,51,3014
+483.7	Block	95:9	-92,51,3014
+483.2	Block	95:9	-96,51,3006
+484.2	Block	95:3	-63,51,3006
+484.7	Block	95:3	-67,51,3014
+484.7	Block	95:3	-92,51,3014
+484.2	Block	95:3	-96,51,3006
+485.2	Block	95:3	-63,51,3006
+485.7	Block	95:6	-67,51,3014
+485.7	Block	95:6	-92,51,3014
+485.2	Block	95:3	-96,51,3006
+486.7	Block	95:0	-67,51,3014
+486.7	Block	95:0	-92,51,3014
+487.7	Block	95:3	-67,51,3014
+487.7	Block	95:3	-92,51,3014
+488.6	Block	95:0	-67,51,3014
+488.6	Block	95:0	-92,51,3014
+488.6	Block	95:4	-58,51,3002
+488.6	Block	95:4	-101,51,3002
+437.8	Block	95:11	-53,56,3020
+437.8	Block	95:10	-54,57,3021
+437.8	Block	20	-54,56,3021
+437.8	Block	20	-59,56,3026
+437.8	Block	95:10	-59,57,3026
+437.8	Block	95:11	-60,56,3027
+437.8	Block	95:10	-70,55,3024
+437.8	Block	95:11	-73,54,3024
+437.8	Block	95:10	-76,55,3024
+437.8	Block	95:10	-83,55,3024
+437.8	Block	95:11	-86,54,3024
+437.8	Block	95:10	-89,55,3024
+437.8	Block	20	-70,54,3024
+437.8	Block	20	-76,54,3024
+437.8	Block	20	-83,54,3024
+437.8	Block	20	-89,54,3024
+437.8	Block	95:11	-99,56,3027
+437.8	Block	95:10	-100,57,3026
+437.8	Block	20	-100,56,3026
+437.8	Block	20	-105,56,3021
+437.8	Block	95:10	-105,57,3021
+437.8	Block	95:11	-106,56,3020
+441.9	Block	95:10	-53,56,3020
+441.9	Block	95:11	-54,56,3021
+441.9	Block	20	-54,57,3021
+441.9	Block	20	-59,57,3026
+441.9	Block	95:11	-59,56,3026
+441.9	Block	95:10	-60,56,3027
+441.9	Block	95:11	-70,54,3024
+441.9	Block	95:10	-73,54,3024
+441.9	Block	95:11	-76,54,3024
+441.9	Block	95:11	-83,54,3024
+441.9	Block	95:10	-86,54,3024
+441.9	Block	95:11	-89,54,3024
+441.9	Block	20	-70,55,3024
+441.9	Block	20	-76,55,3024
+441.9	Block	20	-83,55,3024
+441.9	Block	20	-89,55,3024
+441.9	Block	95:10	-99,56,3027
+441.9	Block	95:11	-100,56,3026
+441.9	Block	20	-100,57,3026
+441.9	Block	20	-105,57,3021
+441.9	Block	95:11	-105,56,3021
+441.9	Block	95:10	-106,56,3020
+445.6	Block	95:11	-53,56,3020
+445.6	Block	95:10	-54,56,3021
+445.6	Block	95:10	-59,56,3026
+445.6	Block	95:11	-60,56,3027
+445.6	Block	95:10	-70,54,3024
+445.6	Block	95:11	-73,54,3024
+445.6	Block	95:10	-76,54,3024
+445.6	Block	95:10	-83,54,3024
+445.6	Block	95:11	-86,54,3024
+445.6	Block	95:10	-89,54,3024
+445.6	Block	95:11	-99,56,3027
+445.6	Block	95:10	-100,56,3026
+445.6	Block	95:10	-105,56,3021
+445.6	Block	95:11	-106,56,3020
+449.5	Block	95:10	-53,56,3020
+449.5	Block	95:11	-54,56,3021
+449.5	Block	95:11	-59,56,3026
+449.5	Block	95:10	-60,56,3027
+449.5	Block	95:11	-70,54,3024
+449.5	Block	95:10	-73,54,3024
+449.5	Block	95:11	-76,54,3024
+449.5	Block	95:11	-83,54,3024
+449.5	Block	95:10	-86,54,3024
+449.5	Block	95:11	-89,54,3024
+449.5	Block	95:10	-99,56,3027
+449.5	Block	95:11	-100,56,3026
+449.5	Block	95:11	-105,56,3021
+449.5	Block	95:10	-106,56,3020
+453.4	Block	95:11	-53,56,3020
+453.4	Block	95:10	-54,56,3021
+453.4	Block	95:10	-59,56,3026
+453.4	Block	95:11	-60,56,3027
+453.4	Block	95:10	-70,54,3024
+453.4	Block	95:11	-73,54,3024
+453.4	Block	95:10	-76,54,3024
+453.4	Block	95:10	-83,54,3024
+453.4	Block	95:11	-86,54,3024
+453.4	Block	95:10	-89,54,3024
+453.4	Block	95:11	-99,56,3027
+453.4	Block	95:10	-100,56,3026
+453.4	Block	95:10	-105,56,3021
+453.4	Block	95:11	-106,56,3020
+457.2	Block	95:10	-53,56,3020
+457.2	Block	95:11	-54,56,3021
+457.2	Block	95:11	-59,56,3026
+457.2	Block	95:10	-60,56,3027
+457.2	Block	95:11	-70,54,3024
+457.2	Block	95:10	-73,54,3024
+457.2	Block	95:11	-76,54,3024
+457.2	Block	95:11	-83,54,3024
+457.2	Block	95:10	-86,54,3024
+457.2	Block	95:11	-89,54,3024
+457.2	Block	95:10	-99,56,3027
+457.2	Block	95:11	-100,56,3026
+457.2	Block	95:11	-105,56,3021
+457.2	Block	95:10	-106,56,3020
+463.8	Block	95:11	-53,56,3020
+463.8	Block	95:10	-54,56,3021
+463.8	Block	95:10	-59,56,3026
+463.8	Block	95:11	-60,56,3027
+463.8	Block	95:10	-70,54,3024
+463.8	Block	95:11	-73,54,3024
+463.8	Block	95:10	-76,54,3024
+463.8	Block	95:10	-83,54,3024
+463.8	Block	95:11	-86,54,3024
+463.8	Block	95:10	-89,54,3024
+463.8	Block	95:11	-99,56,3027
+463.8	Block	95:10	-100,56,3026
+463.8	Block	95:10	-105,56,3021
+463.8	Block	95:11	-106,56,3020
+470.4	Block	95:10	-53,56,3020
+470.4	Block	95:11	-54,56,3021
+470.4	Block	95:11	-59,56,3026
+470.4	Block	95:10	-60,56,3027
+470.4	Block	95:11	-70,54,3024
+470.4	Block	95:10	-73,54,3024
+470.4	Block	95:11	-76,54,3024
+470.4	Block	95:11	-83,54,3024
+470.4	Block	95:10	-86,54,3024
+470.4	Block	95:11	-89,54,3024
+470.4	Block	95:10	-99,56,3027
+470.4	Block	95:11	-100,56,3026
+470.4	Block	95:11	-105,56,3021
+470.4	Block	95:10	-106,56,3020
+479	Block	95:11	-53,56,3020
+479	Block	95:10	-54,56,3021
+479	Block	95:10	-59,56,3026
+479	Block	95:11	-60,56,3027
+479	Block	95:10	-70,54,3024
+479	Block	95:11	-73,54,3024
+479	Block	95:10	-76,54,3024
+479	Block	95:10	-83,54,3024
+479	Block	95:11	-86,54,3024
+479	Block	95:10	-89,54,3024
+479	Block	95:11	-99,56,3027
+479	Block	95:10	-100,56,3026
+479	Block	95:10	-105,56,3021
+479	Block	95:11	-106,56,3020
+480.2	Block	95:10	-53,56,3020
+480.2	Block	95:11	-54,56,3021
+480.2	Block	95:11	-59,56,3026
+480.2	Block	95:10	-60,56,3027
+480.2	Block	95:11	-70,54,3024
+480.2	Block	95:10	-73,54,3024
+480.2	Block	95:11	-76,54,3024
+480.2	Block	95:11	-83,54,3024
+480.2	Block	95:10	-86,54,3024
+480.2	Block	95:11	-89,54,3024
+480.2	Block	95:10	-99,56,3027
+480.2	Block	95:11	-100,56,3026
+480.2	Block	95:11	-105,56,3021
+480.2	Block	95:10	-106,56,3020
+481.7	Block	20	-58,52,3002
+481.7	Block	20	-76,52,3010
+481.7	Block	20	-83,52,3010
+481.7	Block	20	-101,52,3002
+482	Block	95:6	-58,51,3002
+481.9	Block	95:6	-76,51,3010
+481.9	Block	95:6	-83,51,3010
+482	Block	95:6	-101,51,3002
+482.2	Block	95:3	-58,51,3002
+482.1	Block	95:3	-76,51,3010
+482.1	Block	95:3	-83,51,3010
+482.2	Block	95:3	-101,51,3002
+482.4	Block	95:9	-58,51,3002
+482.3	Block	95:9	-76,51,3010
+482.3	Block	95:9	-83,51,3010
+482.4	Block	95:9	-101,51,3002
+482.6	Block	95:5	-58,51,3002
+482.5	Block	95:5	-76,51,3010
+482.5	Block	95:5	-83,51,3010
+482.6	Block	95:5	-101,51,3002
+482.8	Block	95:0	-58,51,3002
+482.7	Block	95:0	-76,51,3010
+482.7	Block	95:0	-83,51,3010
+482.8	Block	95:0	-101,51,3002
+483	Block	95:6	-58,51,3002
+482.9	Block	95:6	-76,51,3010
+482.9	Block	95:6	-83,51,3010
+483	Block	95:6	-101,51,3002
+483.2	Block	95:3	-58,51,3002
+483.1	Block	95:3	-76,51,3010
+483.1	Block	95:3	-83,51,3010
+483.2	Block	95:3	-101,51,3002
+483.4	Block	95:9	-58,51,3002
+483.3	Block	95:9	-76,51,3010
+483.3	Block	95:9	-83,51,3010
+483.4	Block	95:9	-101,51,3002
+483.6	Block	95:5	-58,51,3002
+483.5	Block	95:5	-76,51,3010
+483.5	Block	95:5	-83,51,3010
+483.6	Block	95:5	-101,51,3002
+483.8	Block	95:0	-58,51,3002
+483.7	Block	95:0	-76,51,3010
+483.7	Block	95:0	-83,51,3010
+483.8	Block	95:0	-101,51,3002
+484	Block	95:6	-58,51,3002
+483.9	Block	95:6	-76,51,3010
+483.9	Block	95:6	-83,51,3010
+484	Block	95:6	-101,51,3002
+484.2	Block	95:3	-58,51,3002
+484.1	Block	95:3	-76,51,3010
+484.1	Block	95:3	-83,51,3010
+484.2	Block	95:3	-101,51,3002
+484.4	Block	95:9	-58,51,3002
+484.3	Block	95:9	-76,51,3010
+484.3	Block	95:9	-83,51,3010
+484.4	Block	95:9	-101,51,3002
+484.6	Block	95:5	-58,51,3002
+484.5	Block	95:5	-76,51,3010
+484.5	Block	95:5	-83,51,3010
+484.6	Block	95:5	-101,51,3002
+484.8	Block	95:0	-58,51,3002
+484.7	Block	95:0	-76,51,3010
+484.7	Block	95:0	-83,51,3010
+484.8	Block	95:0	-101,51,3002
+485	Block	95:6	-58,51,3002
+484.9	Block	95:6	-76,51,3010
+484.9	Block	95:6	-83,51,3010
+485	Block	95:6	-101,51,3002
+485.2	Block	95:3	-58,51,3002
+485.1	Block	95:3	-76,51,3010
+485.1	Block	95:3	-83,51,3010
+485.2	Block	95:3	-101,51,3002
+485.3	Block	95:9	-76,51,3010
+485.3	Block	95:9	-83,51,3010
+485.4	Block	95:5	-76,51,3010
+485.4	Block	95:5	-83,51,3010
+485.5	Block	95:4	-76,51,3010
+485.5	Block	95:4	-83,51,3010
+485.6	Block	95:0	-76,51,3010
+485.6	Block	95:0	-83,51,3010
+485.7	Block	95:6	-76,51,3010
+485.7	Block	95:6	-83,51,3010
+485.8	Block	95:3	-76,51,3010
+485.8	Block	95:3	-83,51,3010
+485.9	Block	95:9	-76,51,3010
+485.9	Block	95:9	-83,51,3010
+486	Block	95:5	-76,51,3010
+486	Block	95:5	-83,51,3010
+486.1	Block	95:4	-76,51,3010
+486.1	Block	95:4	-83,51,3010
+486.2	Block	95:0	-76,51,3010
+486.2	Block	95:0	-83,51,3010
+486.3	Block	95:6	-76,51,3010
+486.3	Block	95:6	-83,51,3010
+486.4	Block	95:3	-76,51,3010
+486.4	Block	95:3	-83,51,3010
+486.5	Block	95:9	-76,51,3010
+486.5	Block	95:9	-83,51,3010
+486.6	Block	95:5	-76,51,3010
+486.6	Block	95:5	-83,51,3010
+486.7	Block	95:4	-76,51,3010
+486.7	Block	95:4	-83,51,3010
+486.8	Block	95:0	-76,51,3010
+486.8	Block	95:0	-83,51,3010
+486.9	Block	95:6	-76,51,3010
+486.9	Block	95:6	-83,51,3010
+487	Block	95:3	-76,51,3010
+487	Block	95:3	-83,51,3010
+487.1	Block	95:9	-76,51,3010
+487.1	Block	95:9	-83,51,3010
+487.2	Block	95:5	-76,51,3010
+487.2	Block	95:5	-83,51,3010
+487.3	Block	95:4	-76,51,3010
+487.3	Block	95:4	-83,51,3010
+487.4	Block	95:0	-76,51,3010
+487.4	Block	95:0	-83,51,3010
+487.5	Block	95:6	-76,51,3010
+487.5	Block	95:6	-83,51,3010
+487.6	Block	95:3	-76,51,3010
+487.6	Block	95:3	-83,51,3010
+487.7	Block	95:9	-76,51,3010
+487.7	Block	95:9	-83,51,3010
+487.8	Block	95:5	-76,51,3010
+487.8	Block	95:5	-83,51,3010
+487.9	Block	95:4	-76,51,3010
+487.9	Block	95:4	-83,51,3010
+488	Block	95:0	-76,51,3010
+488	Block	95:0	-83,51,3010
+488.1	Block	95:6	-76,51,3010
+488.1	Block	95:6	-83,51,3010
+488.2	Block	95:3	-76,51,3010
+488.2	Block	95:3	-83,51,3010
+488.3	Block	95:9	-76,51,3010
+488.3	Block	95:9	-83,51,3010
+488.4	Block	95:5	-76,51,3010
+488.4	Block	95:5	-83,51,3010
+488.5	Block	95:4	-76,51,3010
+488.5	Block	95:4	-83,51,3010
+488.6	Block	95:15	-76,51,3010
+488.6	Block	95:15	-83,51,3010
+488.6	Block	95:1	-53,56,3020
+488.7	Block	95:1	-54,56,3021
+488.8	Block	95:1	-55,56,3022
+488.9	Block	95:1	-56,56,3023
+489	Block	95:1	-57,56,3024
+489.1	Block	95:1	-58,56,3025
+489.2	Block	95:1	-59,56,3026
+489.3	Block	95:1	-60,56,3027
+489.4	Block	95:1	-70,54,3024
+489.5	Block	95:1	-71,54,3024
+489.6	Block	95:1	-72,54,3024
+489.7	Block	95:1	-73,54,3024
+489.8	Block	95:1	-74,54,3024
+489.9	Block	95:1	-75,54,3024
+490	Block	95:1	-76,54,3024
+490	Block	95:1	-83,54,3024
+489.9	Block	95:1	-84,54,3024
+489.8	Block	95:1	-85,54,3024
+489.7	Block	95:1	-86,54,3024
+489.6	Block	95:1	-87,54,3024
+489.5	Block	95:1	-88,54,3024
+489.4	Block	95:1	-89,54,3024
+489.3	Block	95:1	-99,56,3027
+489.2	Block	95:1	-100,56,3026
+489.1	Block	95:1	-101,56,3025
+489	Block	95:1	-102,56,3024
+488.9	Block	95:1	-103,56,3023
+488.8	Block	95:1	-104,56,3022
+488.7	Block	95:1	-105,56,3021
+488.6	Block	95:1	-106,56,3020
+488.6	Block	95:4	-53,57,3020
+488.7	Block	95:4	-54,57,3021
+488.8	Block	95:4	-55,57,3022
+488.9	Block	95:4	-56,57,3023
+489	Block	95:4	-57,57,3024
+489.1	Block	95:4	-58,57,3025
+489.2	Block	95:4	-59,57,3026
+489.3	Block	95:4	-60,57,3027
+489.4	Block	95:4	-70,55,3024
+489.5	Block	95:4	-71,55,3024
+489.6	Block	95:4	-72,55,3024
+489.7	Block	95:4	-73,55,3024
+489.8	Block	95:4	-74,55,3024
+489.9	Block	95:4	-75,55,3024
+490	Block	95:4	-76,55,3024
+490	Block	95:4	-83,55,3024
+489.9	Block	95:4	-84,55,3024
+489.8	Block	95:4	-85,55,3024
+489.7	Block	95:4	-86,55,3024
+489.6	Block	95:4	-87,55,3024
+489.5	Block	95:4	-88,55,3024
+489.4	Block	95:4	-89,55,3024
+489.3	Block	95:4	-99,57,3027
+489.2	Block	95:4	-100,57,3026
+489.1	Block	95:4	-101,57,3025
+489	Block	95:4	-102,57,3024
+488.9	Block	95:4	-103,57,3023
+488.8	Block	95:4	-104,57,3022
+488.7	Block	95:4	-105,57,3021
+488.6	Block	95:4	-106,57,3020
+490.1	Block	95:0	-53,56,3020
+490.2	Block	95:0	-54,56,3021
+490.3	Block	95:0	-55,56,3022
+490.4	Block	95:0	-56,56,3023
+490.5	Block	95:0	-57,56,3024
+490.6	Block	95:0	-58,56,3025
+490.7	Block	95:0	-59,56,3026
+490.8	Block	95:0	-60,56,3027
+490.9	Block	95:0	-70,54,3024
+491	Block	95:0	-71,54,3024
+491.1	Block	95:0	-72,54,3024
+491.2	Block	95:0	-73,54,3024
+491.3	Block	95:0	-74,54,3024
+491.4	Block	95:0	-75,54,3024
+491.5	Block	95:0	-76,54,3024
+491.5	Block	95:0	-83,54,3024
+491.4	Block	95:0	-84,54,3024
+491.3	Block	95:0	-85,54,3024
+491.2	Block	95:0	-86,54,3024
+491.1	Block	95:0	-87,54,3024
+491	Block	95:0	-88,54,3024
+490.9	Block	95:0	-89,54,3024
+490.8	Block	95:0	-99,56,3027
+490.7	Block	95:0	-100,56,3026
+490.6	Block	95:0	-101,56,3025
+490.5	Block	95:0	-102,56,3024
+490.4	Block	95:0	-103,56,3023
+490.3	Block	95:0	-104,56,3022
+490.2	Block	95:0	-105,56,3021
+490.1	Block	95:0	-106,56,3020
+490.1	Block	20	-53,57,3020
+490.2	Block	20	-54,57,3021
+490.3	Block	20	-55,57,3022
+490.4	Block	20	-56,57,3023
+490.5	Block	20	-57,57,3024
+490.6	Block	20	-58,57,3025
+490.7	Block	20	-59,57,3026
+490.8	Block	20	-60,57,3027
+490.9	Block	20	-70,55,3024
+491	Block	20	-71,55,3024
+491.1	Block	20	-72,55,3024
+491.2	Block	20	-73,55,3024
+491.3	Block	20	-74,55,3024
+491.4	Block	20	-75,55,3024
+491.5	Block	20	-76,55,3024
+491.5	Block	20	-83,55,3024
+491.4	Block	20	-84,55,3024
+491.3	Block	20	-85,55,3024
+491.2	Block	20	-86,55,3024
+491.1	Block	20	-87,55,3024
+491	Block	20	-88,55,3024
+490.9	Block	20	-89,55,3024
+490.8	Block	20	-99,57,3027
+490.7	Block	20	-100,57,3026
+490.6	Block	20	-101,57,3025
+490.5	Block	20	-102,57,3024
+490.4	Block	20	-103,57,3023
+490.3	Block	20	-104,57,3022
+490.2	Block	20	-105,57,3021
+490.1	Block	20	-106,57,3020
+491.4	Block	95:0	-53,56,3020
+491.5	Block	95:8	-54,56,3021
+491.6	Block	35:0	-55,56,3022
+491.7	Block	35:0	-56,56,3023
+491.8	Block	35:0	-57,56,3024
+491.9	Block	35:0	-58,56,3025
+492	Block	95:8	-59,56,3026
+492.1	Block	95:0	-60,56,3027
+492.2	Block	95:0	-70,54,3024
+492.3	Block	35:0	-71,54,3024
+492.4	Block	35:0	-72,54,3024
+492.5	Block	95:8	-73,54,3024
+492.6	Block	35:0	-74,54,3024
+492.7	Block	35:0	-75,54,3024
+492.8	Block	95:0	-76,54,3024
+492.8	Block	95:0	-83,54,3024
+492.7	Block	35:0	-84,54,3024
+492.6	Block	35:0	-85,54,3024
+492.5	Block	95:8	-86,54,3024
+492.4	Block	35:0	-87,54,3024
+492.3	Block	35:0	-88,54,3024
+492.2	Block	95:0	-89,54,3024
+492.1	Block	95:0	-99,56,3027
+492	Block	95:8	-100,56,3026
+491.9	Block	35:0	-101,56,3025
+491.8	Block	35:0	-102,56,3024
+491.7	Block	35:0	-103,56,3023
+491.6	Block	35:0	-104,56,3022
+491.5	Block	95:8	-105,56,3021
+491.4	Block	95:0	-106,56,3020

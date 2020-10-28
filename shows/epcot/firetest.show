@@ -1,0 +1,73 @@
+Show  Location	-81,64,2515
+Show  TextRadius	250
+Show  Name	prideshow
+
+
+Effect	large_red_ball	BALL_LARGE,249;27;97,WHITE,FLICKER,TRAIL
+Effect	small_red_ball	BALL,249;27;97,WHITE,FLICKER,TRAIL
+Effect	large_orange_ball	BALL_LARGE,249;160;27,WHITE,FLICKER,TRAIL
+Effect	small_orange_ball	BALL,249;160;27,WHITE,FLICKER,TRAIL
+Effect	large_yellow_ball	BALL_LARGE,249;201;27,WHITE,FLICKER,TRAIL
+Effect	small_yellow_ball	BALL,249;201;27,WHITE,FLICKER,TRAIL
+Effect	large_green_ball	BALL_LARGE,38;249;27,WHITE,FLICKER,TRAIL
+Effect	small_green_ball	BALL,38;249;27,WHITE,FLICKER,TRAIL
+Effect	large_blue_ball	BALL_LARGE,27;212;249,WHITE,FLICKER,TRAIL
+Effect	small_blue_ball	BALL,27;212;249,WHITE,FLICKER,TRAIL
+Effect	large_purple_ball	BALL_LARGE,186;27;249,WHITE,FLICKER,TRAIL
+Effect	small_purple_ball	BALL,186;27;249,WHITE,FLICKER,TRAIL
+
+Effect	b1red	BURST,249;27;97,WHITE,TRAIL
+Effect	b1orange	BURST,249;160;27,WHITE,TRAIL
+Effect	b1yellow	BURST,249;201;27,WHITE,TRAIL
+Effect	b1green	BURST,38;249;27,WHITE,TRAIL
+Effect	b1blue	BURST,27;212;249,WHITE,TRAIL
+Effect	b1purple	BURST,186;27;249,WHITE,TRAIL
+Effect	bla	BURST,SILVER,WHITE,TRAIL
+
+Effect	b1	BURST,255;253;192,WHITE,FLICKER,TRAIL
+
+
+#0 Firework  -73,98,2524	large_red_ball,small_red_ball	0	0,1,0	1
+#0 Firework  -81,92,2521	large_orange_ball,small_orange_ball	0	0,1,0	1
+#0 Firework  -91,96,2521	large_yellow_ball,small_yellow_ball	0	0,1,0	1
+#0 Firework  -96,105,2521	large_green_ball,small_green_ball	0	0,1,0	1
+#0 Firework  -55,92,2521	large_blue_ball,small_blue_ball	0	0,1,0	1
+#0 Firework  -62,100,2517	large_purple_ball,small_purple_ball	0	0,1,0	1
+
+
+0  PowerFirework  -58,67,2529  b1red,b1a	1.0,10,0
+0.2  PowerFirework  -58,67,2529  b1orange,b1a	0.8,10,0
+0.4  PowerFirework  -58,67,2529  b1yellow,b1a	0.6,10,0
+0.6  PowerFirework  -58,67,2529  b1green,b1a	0.4,10,0
+0.8  PowerFirework  -58,67,2529  b1blue,b1a	0.2,10,0
+1.0  PowerFirework  -58,67,2529  b1purple,b1a	-0.0,10,0
+1.2  PowerFirework  -58,67,2529  b1red,b1a	-0.2,10,0
+1.4  PowerFirework  -58,67,2529  b1orange,b1a	-0.4,10,0
+1.6  PowerFirework  -58,67,2529  b1yellow,b1a	-0.6,10,0
+1.8  PowerFirework  -58,67,2529  b1green,b1a	-0.8,10,0
+
+0  PowerFirework  -106,67,2528  b1red,b1a	-0.8,10,0
+0.2  PowerFirework  -106,67,2528  b1orange,b1a	-0.6,10,0
+0.4  PowerFirework  -106,67,2528  b1yellow,b1a	-0.4,10,0
+0.6  PowerFirework  -106,67,2528  b1green,b1a	-0.2,10,0
+0.8  PowerFirework  -106,67,2528  b1blue,b1a	0.0,10,0
+1.0  PowerFirework  -106,67,2528  b1purple,b1a	0.2,10,0
+1.2  PowerFirework  -106,67,2528  b1red,b1a	0.4,10,0
+1.4  PowerFirework  -106,67,2528  b1orange,b1a	0.6,10,0
+1.6  PowerFirework  -106,67,2528  b1yellow,b1a	0.8,10,0
+1.8  PowerFirework  -106,67,2528  b1green,b1a	1.0,10,0
+
+#0  PowerFirework  -106,67,2528  b1,b1a	0,10,0
+#0  PowerFirework  -58,67,2529  b1,b1a	0,10,0
+#0  PowerFirework  -119,67,2514  b1,b1a	0,10,0
+#0  PowerFirework  -41,67,2510  b1,b1a	0,10,0
+#0  PowerFirework  -106,67,2528  b1,b1a	0,10,0
+#0  PowerFirework  -58,67,2529  b1,b1a	0,10,0
+#0  PowerFirework  -119,67,2514  b1,b1a	0,10,0
+#0  PowerFirework  -41,67,2510  b1,b1a	0,10,0
+#0 Firework  -81,106,2520	large_red_ball,small_red_ball	0	0,1,0	1
+#0 Firework  -85,109,2521	large_orange_ball,small_orange_ball	0	0,1,0	1
+#0 Firework  -74,103,2520	large_blue_ball,small_blue_ball	0	0,1,0  1
+
+
+-62,100,2517

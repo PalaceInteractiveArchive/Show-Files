@@ -1,0 +1,10 @@
+Show    Location    29,44,-49
+Show    TextRadius  100
+#FW
+Effect  b1  BURST,YELLOW,ORANGE,FLICKER,TRAIL
+Effect  b2  BURST,YELLOW,ORANGE,FLICKER
+0.0 PowerFirework   35,47,-51   b2  2,2,2
+0.0 PowerFirework   35,47,-51   b2  1,2,1
+0.0 PowerFirework   35,47,-51   b2  0,2,0
+0.0 PowerFirework   35,47,-51   b2  -1,2,-1
+0.0 PowerFirework   35,47,-51   b2  -2,2,-2

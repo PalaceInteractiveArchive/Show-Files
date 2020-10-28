@@ -1,0 +1,95 @@
+Show	Location	-248,43,-1646
+Show	TextRadius	30
+0	Block	152	-201,51,-1644
+12.7	Text	&bWelcome to the opening ceremony of the &6&lLiberty Bell Riverboat!
+17.2	Text	&bSince &e&oOctober 2, 1951&e, 
+18.5	Text	&bThe Mark Twain has been entertaining guests at Walt Disney World.
+22.5	Text	&bToday, we can find this iconic boat at other places like:
+24.3	Text	&d&lDisneyland,
+25.3	Text	&6&lTokyo Disneyland,
+26.3	Text	&c&lAnd Disneyland Paris!
+31.6	Text	&bJoin us now as we open up this attraction!
+#chat
+34.3	Block	152	-202,51,-1646
+35.0	Text	&d&l10!
+36.0	Text	&d&l9!
+37.0	Text	&e&l8!
+38.0	Text	&e&l7!
+39.0	Text	&c&l6!
+40.0	Text	&c&l5!
+41.0	Text	&a&l4!
+42.0	Text	&a&l3!
+43.0	Text	&b&l2!
+44.0	Text	&b&l1!
+Effect	gbu1	BURST,LIME,LIME,FLICKER
+44.0	PowerFirework	-248.5,59,-1644.5	gbu1	-2,1,2
+44.1	PowerFirework	-248.5,59,-1644.5	gbu1	-1.5,1.5,1.5
+44.2	PowerFirework	-248.5,59,-1644.5	gbu1	-1,2,1
+44.3	PowerFirework	-248.5,59,-1644.5	gbu1	-0.5,2.5,0.5
+44.4	PowerFirework	-248.5,59,-1644.5	gbu1	0,3,0
+44.5	PowerFirework	-248.5,59,-1644.5	gbu1	0.5,2.5,-0.5
+44.6	PowerFirework	-248.5,59,-1644.5	gbu1	1,2,-1
+44.7	PowerFirework	-248.5,59,-1644.5	gbu1	1.5,1.5,-1.5
+44.8	PowerFirework	-248.5,59,-1644.5	gbu1	2,1,-2
+Effect	ob1	BURST,ORANGE,ORANGE,FLICKER,TRAIL
+45.0	PowerFirework	-239.5,49,-1642.5	ob1	0,5,0
+45.0	PowerFirework	-241.5,49,-1639.5	ob1	0,5,0
+Effect	rb1	BURST,RED,RED,FLICKER,TRAIL
+46.5	PowerFirework	-248.5,57,-1643.5	rb1	-2,0,2
+46.5	PowerFirework	-247.5,57,-1644.5	rb1	2,0,-2
+Effect	bb1	BURST,AQUA,AQUA,FLICKER
+48.0	PowerFirework	-248.5,59,-1644.5	bb1	-2,1,2
+48.1	PowerFirework	-248.5,59,-1644.5	bb1	-1.5,1.5,1.5
+48.2	PowerFirework	-248.5,59,-1644.5	bb1	-1,2,1
+48.3	PowerFirework	-248.5,59,-1644.5	bb1	-0.5,2.5,0.5
+48.4	PowerFirework	-248.5,59,-1644.5	bb1	0,3,0
+48.5	PowerFirework	-248.5,59,-1644.5	bb1	0.5,2.5,-0.5
+48.6	PowerFirework	-248.5,59,-1644.5	bb1	1,2,-1
+48.7	PowerFirework	-248.5,59,-1644.5	bb1	1.5,1.5,-1.5
+48.8	PowerFirework	-248.5,59,-1644.5	bb1	2,1,-2
+Effect	ob2	BURST,ORANGE,ORANGE,FLICKER
+50.0	PowerFirework	-240.5,54,-1648.5	ob1	2,5,-2
+50.0	PowerFirework	-246.5,54,-1635.5	ob1	-2,5,2
+52.0	PowerFirework	-248.5,59,-1644.5	gbu1	-2,1,2
+52.1	PowerFirework	-248.5,59,-1644.5	gbu1	-1.5,1.5,1.5
+52.2	PowerFirework	-248.5,59,-1644.5	gbu1	-1,2,1
+52.3	PowerFirework	-248.5,59,-1644.5	gbu1	-0.5,2.5,0.5
+52.4	PowerFirework	-248.5,59,-1644.5	gbu1	0,3,0
+52.5	PowerFirework	-248.5,59,-1644.5	gbu1	0.5,2.5,-0.5
+52.6	PowerFirework	-248.5,59,-1644.5	gbu1	1,2,-1
+52.7	PowerFirework	-248.5,59,-1644.5	gbu1	1.5,1.5,-1.5
+52.8	PowerFirework	-248.5,59,-1644.5	gbu1	2,1,-2
+52.4	PowerFirework	-248.5,59,-1644.5	bb1	-2,1,2
+52.5	PowerFirework	-248.5,59,-1644.5	bb1	-1.5,1.5,1.5
+52.6	PowerFirework	-248.5,59,-1644.5	bb1	-1,2,1
+52.7	PowerFirework	-248.5,59,-1644.5	bb1	-0.5,2.5,0.5
+52.8	PowerFirework	-248.5,59,-1644.5	bb1	0,3,0
+52.9	PowerFirework	-248.5,59,-1644.5	bb1	0.5,2.5,-0.5
+53.0	PowerFirework	-248.5,59,-1644.5	bb1	1,2,-1
+53.1	PowerFirework	-248.5,59,-1644.5	bb1	1.5,1.5,-1.5
+53.2	PowerFirework	-248.5,59,-1644.5	bb1	2,1,-2
+52.8	PowerFirework	-248.5,59,-1644.5	ob2	-2,1,2
+52.9	PowerFirework	-248.5,59,-1644.5	ob2	-1.5,1.5,1.5
+52.0	PowerFirework	-248.5,59,-1644.5	ob2	-1,2,1
+53.1	PowerFirework	-248.5,59,-1644.5	ob2	-0.5,2.5,0.5
+53.2	PowerFirework	-248.5,59,-1644.5	ob2	0,3,0
+53.3	PowerFirework	-248.5,59,-1644.5	ob2	0.5,2.5,-0.5
+53.4	PowerFirework	-248.5,59,-1644.5	ob2	1,2,-1
+53.5	PowerFirework	-248.5,59,-1644.5	ob2	1.5,1.5,-1.5
+53.6	PowerFirework	-248.5,59,-1644.5	ob2	2,1,-2
+55.0	Text	&bThe Liberty Bell Riverboat is...
+57.0	Text	&e&lNow Open!
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	-2,1,2
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	-1.5,1.5,1.5
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	-1,2,1
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	-0.5,2.5,0.5
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	0,3,0
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	0.5,2.5,-0.5
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	1,2,-1
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	1.5,1.5,-1.5
+57.0	PowerFirework	-248.5,59,-1644.5	gbu1	2,1,-2
+Effect	bb2	BURST,AQUA,AQUA,FLICKER,TRAIL
+57.0	PowerFirework	-240.5,54,-1648.5	bb2	2,5,-2
+57.0	PowerFirework	-246.5,54,-1635.5	bb2	-2,5,2
+57.0	PowerFirework	-239.5,49,-1642.5	bb2	0,5,0
+57.0	PowerFirework	-241.5,49,-1639.5	bb2	0,5,0

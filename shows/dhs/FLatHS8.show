@@ -1,0 +1,257 @@
+#Show Started January 2nd, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Other
+0.6	Block	152	436,49,45
+180.1	Block	152	436,49,43
+#Audio
+0	AudioStart	flaths8
+5	AudioSync	flaths8	5
+10	AudioSync	flaths8	10
+30	AudioSync	flaths8	30
+60	AudioSync	flaths8	60
+120	AudioSync	flaths8	120
+180	AudioSync	flaths8	180
+210	AudioSync	flaths8	210
+#S8 Let it Go
+14.1	Text	&f[&bElsa&f] &bThe snow glows white on the mountain tonight,
+17.4	Text	&bnot a footprint to be seen.
+21.1	Text	&bA kingdom of isolation
+24.5	Text	&band it looks like I’m the Queen.
+28.8	Text	&bThe wind is howling like this swirling storm inside.
+35.7	Text	&bCouldn’t keep it in,
+37.6	Text	&bheaven knows I tried…
+42.8	Text	&bDon’t let them in,
+44.5	Text	&bdon’t let them see,
+46.3	Text	&bbe the good girl you always have to be.
+49.8	Text	&bConceal, don’t feel,
+51.6	Text	&bdon’t let them know.
+55.9	Text	&bWell, now they know. 
+59.3	Text	&bLet it go.
+61	Text	&bLet it go.
+62.9	Text	&bCan’t hold it back anymore.
+66.2	Text	&bLet it go.
+67.9	Text	&bLet it go.
+69.8	Text	&bTurn away and slam the door.
+73.8	Text	&bI don’t care what they’re going to say.
+80.4	Text	&bLet the storm rage on.
+84.2	Text	&bThe cold never bothered me anyway.
+91.6	Text	&bIt’s funny how some distance
+94.4	Text	&bmakes everything seem small.
+97.9	Text	&bAnd the fears that once controlled me
+101.4	Text	&bcan’t get to me at all!
+105.9	Text	&bIt’s time to see what I can do,
+109.4	Text	&bto test the limits and break through.
+112.9	Text	&bNo right, no wrong, no rules for me…
+117	Text	&bI’m free!
+120.5	Text	&bLet it go!
+122.3	Text	&bLet it go!
+124	Text	&bI am one with the wind and sky.
+127.6	Text	&bLet it go!
+129.4	Text	&bLet it go!
+131.2	Text	&bYou’ll never see me cry.
+135.3	Text	&bHere I stand! 
+138.3	Text	&bAnd here I’ll stay.
+141.6	Text	&bLet the storm rage on...
+153.1	Text	&bMy power flurries through the air into the ground.
+160.1	Text	&bMy soul is spiraling in frozen fractals all around.
+167.1	Text	&bAnd one thought crystallizes like an icy blast.
+174.2	Text	&bI’m never going back,
+177	Text	&bthe past is in the past!
+181.8	Text	&bLet it go!
+183.6	Text	&bLet it go!
+185.3	Text	&bAnd I’ll rise like the break of dawn.
+188.8	Text	&bLet it go!
+190.6	Text	&bLet it go!
+192.5	Text	&bThat perfect girl is gone.
+196.7	Text	&bHere I stand in the light of day.
+204.8	Text	&bLet the storm rage on!!
+210.3	Text	&bThe cold never bothered me anyway.
+#StageDoorsClose
+10	Block	152	465,65,106
+#BackstageDoorsClose
+15	Block	0	445,62,104
+15	Block	0	445,62,103
+15	Block	0	444,62,63
+15	Block	0	444,62,64
+#Snow
+0.00	Block	152	458,65,64
+145.7	Block	0	458,65,64
+#Clone
+0	Block	152	468,89,102
+#Smoke
+0.00	Block	152	465,64,104
+55.9	Block	0	465,64,104
+#Olaf
+74.1	Block	152	470,89,95
+74.2	Block	152	470,89,94
+74.2	Block	0	470,89,95
+74.3	Block	0	470,89,94
+#KillOlaf
+81.8	Block	152	-136,90,-271
+#Schematics
+0	Schematic	FLatHS8.1	439	62	68	newhws	false
+7.2	Schematic	FLatHS8.2	439	62	68	newhws	false
+9	Schematic	FLatHS8.3	439	62	68	newhws	false
+10.7	Schematic	FLatHS8.4	439	62	68	newhws	false
+91.6	Schematic	FLatHS8.3	439	62	68	newhws	false
+92.6	Schematic	FLatHS8.2	439	62	68	newhws	false
+127.6	Schematic	FLatHS8.5	439	62	68	newhws	false
+129.4	Schematic	FLatHS8.6	439	62	68	newhws	false
+131.2	Schematic	FLatHS8.7	439	62	68	newhws	false
+135.3	Schematic	FLatHS8.8	439	62	68	newhws	false
+145.7	Schematic	FLatHS8.9	439	62	68	newhws	false
+152.7	Schematic	FLatHS8.10	439	62	68	newhws	false
+159.6	Schematic	FLatHS8.11	439	62	68	newhws	false
+166.7	Schematic	FLatHS8.12	439	62	68	newhws	false
+173.7	Schematic	FLatHS8.13	439	62	68	newhws	false
+179.7	Schematic	FLatHS8.14	439	62	68	newhws	false
+181.5	Schematic	FLatHS8.13	439	62	68	newhws	false
+217.7	Schematic	FLatHS8.15	439	62	68	newhws	false
+181.8	Schematic	FLatHS8.16	439	62	68	newhws	false
+182.1	Schematic	FLatHS8.17	439	62	68	newhws	false
+182.4	Schematic	FLatHS8.18	439	62	68	newhws	false
+182.7	Schematic	FLatHS8.19	439	62	68	newhws	false
+183	Schematic	FLatHS8.20	439	62	68	newhws	false
+183.3	Schematic	FLatHS8.21	439	62	68	newhws	false
+183.6	Schematic	FLatHS8.20	439	62	68	newhws	false
+183.9	Schematic	FLatHS8.19	439	62	68	newhws	false
+184.2	Schematic	FLatHS8.18	439	62	68	newhws	false
+184.5	Schematic	FLatHS8.17	439	62	68	newhws	false
+184.8	Schematic	FLatHS8.16	439	62	68	newhws	false
+185.1	Schematic	FLatHS8.13	439	62	68	newhws	false
+188.8	Schematic	FLatHS8.16	439	62	68	newhws	false
+189.1	Schematic	FLatHS8.17	439	62	68	newhws	false
+189.4	Schematic	FLatHS8.18	439	62	68	newhws	false
+189.7	Schematic	FLatHS8.19	439	62	68	newhws	false
+190	Schematic	FLatHS8.20	439	62	68	newhws	false
+190.3	Schematic	FLatHS8.21	439	62	68	newhws	false
+190.6	Schematic	FLatHS8.20	439	62	68	newhws	false
+190.9	Schematic	FLatHS8.19	439	62	68	newhws	false
+191.2	Schematic	FLatHS8.18	439	62	68	newhws	false
+191.5	Schematic	FLatHS8.17	439	62	68	newhws	false
+191.8	Schematic	FLatHS8.16	439	62	68	newhws	false
+192.1	Schematic	FLatHS8.13	439	62	68	newhws	false
+208.9	Schematic	FLatHS8.22	439	62	68	newhws	false
+209.1	Schematic	FLatHS8.23	439	62	68	newhws	false
+209.3	Schematic	FLatHS8.22	439	62	68	newhws	false
+209.5	Schematic	FLatHS8.23	439	62	68	newhws	false
+209.7	Schematic	FLatHS8.22	439	62	68	newhws	false
+209.9	Schematic	FLatHS8.23	439	62	68	newhws	false
+210.1	Schematic	FLatHS8.22	439	62	68	newhws	false
+210.3	Schematic	FLatHS8.13	439	62	68	newhws	false
+#DressChange
+179.7	Block	152	466,88,102
+#Magic
+66.2	Block	152	454,90,85
+67.9	Block	152	464,90,83
+109.6	Block	152	470,90,82
+109.6	Block	152	467,90,82
+#Slamthedoor
+71.1	Block	152	468,89,96
+#stormrage
+82	Block	152	468,89,95
+#TPElsa
+129.4	Block	152	470,89,102
+131.2	Block	152	470,89,101
+135.3	Block	152	470,89,100
+152.7	Block	152	470,89,99
+159.6	Block	152	470,89,98
+166.7	Block	152	470,89,97
+173.7	Block	152	470,89,96
+#StairLight
+136.4	Block	89	455,68,84
+#Ceiling
+136.4	Block	89	451,85,87
+136.4	Block	89	451,85,84
+136.4	Block	89	451,85,81
+#ProjectionScreensOpen
+93.6	Block	152	477,66,57
+94.6	Block	152	477,66,58
+95.6	Block	152	477,66,59
+#LetItGoSmokeforStairs
+93.6	Block	152	470,88,79
+122.4	Block	0	470,88,79
+#LetItGoLight
+109.6	Block	89	479,64,84
+122.4	Block	35:15	479,64,84
+#LiftCurtain
+109.6	Block	152	468,89,101
+109.7	Block	152	468,89,101
+109.8	Block	152	468,89,101
+109.9	Block	152	468,89,101
+110.0	Block	152	468,89,101
+110.1	Block	152	468,89,101
+110.2	Block	152	468,89,101
+110.3	Block	152	468,89,101
+110.4	Block	152	468,89,101
+110.5	Block	152	468,89,101
+110.6	Block	152	468,89,101
+110.7	Block	152	468,89,101
+110.8	Block	152	468,89,101
+110.9	Block	152	468,89,101
+#MoveStairs
+111.0	Block	152	468,89,100
+111.9	Block	152	468,89,100
+112.8	Block	152	468,89,100
+113.7	Block	152	468,89,100
+114.6	Block	152	468,89,100
+115.5	Block	152	468,89,100
+116.4	Block	152	468,89,100
+117.3	Block	152	468,89,100
+118.2	Block	152	468,89,100
+119.1	Block	152	468,89,100
+120.0	Block	152	468,89,100
+120.9	Block	152	468,89,100
+121.8	Block	152	468,89,100
+122.7	Block	152	468,89,100
+123.6	Block	152	468,89,100
+#CloseProjectors
+124.6	Block	152	468,89,99
+125.6	Block	152	468,89,98
+125.6	Block	0	468,89,99
+126.6	Block	0	468,89,98
+126.6	Block	152	468,89,97
+#CapeFlies
+88.2	Block	171:10	460,66,85
+88.3	Block	166	460,65,85
+88.5	Block	0	460,65,85
+88.5	Block	171:10	460,67,86
+88.6	Block	166	460,66,86
+88.8	Block	0	460,66,86
+88.8	Block	171:10	461,66,87
+88.9	Block	166	461,65,87
+89.1	Block	0	461,65,87
+89.1	Block	171:10	461,67,88
+89.2	Block	166	461,66,88
+89.4	Block	0	461,66,88
+89.4	Block	171:10	461,68,89
+89.5	Block	166	461,67,89
+89.7	Block	0	461,67,89	
+89.7	Block	171:10	462,68,90
+89.8	Block	166	462,67,90
+90.0	Block	0	462,67,90
+90	Block	171:10	462,68,91
+90.1	Block	166	462,67,91
+90.3	Block	0	462,67,91
+#Chandelier
+166.7	Block	152	470,88,86
+217.7	Block	0	470,88,86
+#Magic
+152.7	Block	152	470,89,91
+#Snowball
+173.7	Block	152	464,89,102
+#SceneLight
+0	Block	152	471,58,-1
+#PowerOnSide
+149.3	Block	152	460,90,83
+150.9	Block	152	457,90,83
+#StormRageOnLights
+205.2	Block	89	460,64,77
+205.2	Block	89	460,64,91
+206.1	Block	89	457,73,94
+206.1	Block	89	457,73,74
+206.6	Block	89	457,62,93
+206.6	Block	89	457,62,75
+

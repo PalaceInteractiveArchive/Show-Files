@@ -1,0 +1,69 @@
+﻿Show	Location	-32,70,-248
+Show	TextRadius	150
+Show	Name	Fantasmic
+0	AudioStart	tastepre
+0	AudioSync	tastepre	0
+2	AudioSync	tastepre	2
+5	AudioSync	tastepre	5
+10	AudioSync	tastepre	10
+30	AudioSync	tastepre	30
+60	AudioSync	tastepre	60
+120	AudioSync	tastepre	120
+180	AudioSync	tastepre	180
+240	AudioSync	tastepre	240
+300	AudioSync	tastepre	300
+360	AudioSync	tastepre	360
+420	AudioSync	tastepre	420
+480	AudioSync	tastepre	480
+540	AudioSync	tastepre	540
+#/b
+0	Block	152	2,64,-244
+270	Block	152	2,64,-243
+450	Block	152	2,64,-242
+#Weather
+0	Block	152	2,64,-245
+60	Block	152	2,64,-245
+120	Block	152	2,64,-245
+180	Block	152	2,64,-245
+240	Block	152	2,64,-245
+300	Block	152	2,64,-245
+360	Block	152	2,64,-245
+420	Block	152	2,64,-245
+480	Block	152	2,64,-245
+540	Block	152	2,64,-245
+600	Block	152	2,64,-246
+#Chat/show start
+585	Block	152	2,64,-247
+600	Block	152	1,64,-241
+601	Block	20	1,64,-241
+#Time
+0	Block	152	-145,61,-53
+0	Block	152	0,64,-242
+1	Block	20	0,64,-242
+0	Block	152	0,64,-244
+1	Block	20	0,64,-244
+600	Block	152	0,64,-243
+601	Block	20	0,64,-243
+600	Block	152	0,64,-245
+601	Block	20	0,64,-245
+#Text
+30	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+60	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+90	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+120	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+150	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+210	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+240	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+270	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+300	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+330	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+360	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+390	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+420	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+450	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+480	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+510	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+540	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+570	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+585	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.

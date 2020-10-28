@@ -1,0 +1,22 @@
+Show	Location	110,58,-1514
+Show	TextRadius	10
+
+0	Sequence	Build	astro
+0	FakeBlock	0	109,56,-1516
+0	FakeBlock	0	109,57,-1516
+0	FakeBlock	0	110,56,-1516
+0	FakeBlock	0	110,57,-1516
+0	FakeBlock	0	109,56,-1516
+0	FakeBlock	0	111,57,-1516
+0	FakeBlock	0	111,56,-1515
+0	FakeBlock	0	109,57,-1515
+0	FakeBlock	0	110,56,-1515
+0	FakeBlock	0	110,57,-1515
+0	FakeBlock	0	111,56,-1515
+0	FakeBlock	0	111,57,-1515
+0	FakeBlock	0	109,56,-1514
+0	FakeBlock	0	109,57,-1514
+0	FakeBlock	0	110,56,-1514
+0	FakeBlock	0	110,57,-1514
+0	FakeBlock	0	111,56,-1514
+0	FakeBlock	0	111,57,-1514

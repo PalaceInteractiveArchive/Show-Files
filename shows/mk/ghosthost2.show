@@ -1,0 +1,1204 @@
+﻿Show	Location	-90,43,-1589
+Show	TextRadius	75
+Show	Name	Castle
+#HalloWishes 3.0
+#Made by VirusElite524 & owils
+#Updated August 11, 2014
+#Updated by owils February 19, 2015
+#Updates by owils September 4th, 2015
+#----------------------------------------
+#Show location and radius for text
+#Audio
+0	AudioStart	hallow
+10	AudioSync	hallow	10
+15	AudioSync	hallow	15
+30	AudioSync	hallow	30
+60	AudioSync	hallow	60
+120	AudioSync	hallow	120
+180	AudioSync	hallow	180
+240	AudioSync	hallow	240
+300	AudioSync	hallow	300
+360	AudioSync	hallow	360
+420	AudioSync	hallow	420
+480	AudioSync	hallow	480
+540	AudioSync	hallow	540
+600	AudioSync	hallow	600
+660	AudioSync	hallow	660
+
+#Coins
+120	Block	152	-84,28,-1611
+300	Block	152	-84,28,-1611
+540	Block	152	-84,28,-1611
+680	Block	152	-84,28,-1611
+
+#Text
+12	Text	&dSerpents and spiders,
+14.7	Text	&dTail of a rat,
+16.6	Text	&dCall in the spirits wherever they're at.
+23.5	Text	&2When you hear the knell of a requiem bell
+27	Text	&2Weird glows gleam where the spirits dwell
+30.3	Text	&2Restless bones etherialize
+33.7	Text	&2Rise the spooks of every size
+37	Text	&2Grim Grinning Ghost Come out to socialize
+45.8	Text	&2When the crypt-doors creak
+47	Text	&2and the tombstones quake
+48	Text	&2Spooks come out for a swinging wake
+50	Text	&2Happy haunts materialise
+52.3	Text	&2And begin to vocalize
+56.5	Text	&2Grim grinning ghosts,
+57.8	Text	&2come out to socialize!
+65.8	Text	&2As the moon climbs high
+68	Text	&2over the dead oak tree
+69	Text	&2Spooks arrive for the midnight spree
+71	Text	&2Creepy creeps and eerie eyes
+73	Text	&2Start to shriek
+74.5	Text	&2and harmonise
+77	Text	&2Grim grinning ghosts,
+78.8	Text	&2come out and socialize!
+87.5	Text	&f[&6Ghost Host&f] &6Welcome my friends,
+89.7	Text	&6to the most spirited season of them all.
+93	Text	&6I am your host
+95	Text	&6your ghost-host
+98.8	Text	&6The nine-hundred-ninety-nine happy haunts and I are ready to materialize
+105	Text	&6For a spooktacular celebration.
+108.8	Text	&6You never know who will drop in.
+112	Text	&6After all,
+113.5	Text	&6This is Halloween!
+118.8	Text	&aTHIS IS HALLOWEEN
+119.8	Text	&aTHIS IS HALLOWEEN
+120.3	Text	&aHALLOWEEN, HALLOWEEN, HALLOWEEN, HALLOWEEN
+124	Text	&aBoys and girls of every age
+126	Text	&aWouldn't you like to see something strange
+128.5	Text	&aCome with us and you will see
+130.5	Text	&aIt's our world of Halloween
+131.9	Text	&aOh, this is Halloween,
+133.8	Text	&athis is Halloween
+135	Text	&aPumpkins scream in the dead of night
+137	Text	&aThis is Halloween,
+138	Text	&aeverbody make a scene
+139	Text	&aTrick or treat 'till the neighbors
+140.2	Text	&agonna die of fright
+150	Text	&aThis is Halloween,
+151	Text	&athis is Halloween,
+152	Text	&aHalloween, Halloween, Halloween, Halloween
+155.5	Text	&aIn this world we call home
+157.8	Text	&aEveryone hail to the pumpkin song
+160	Text	&aLalala lala lalala lala lalala lala lalalala
+171.8	Text	&f[&6Ghost Host&f] &6And now,
+173	Text	&6our disembodied friends would like to
+175	Text	&6serenade you with some scary-oke
+180	Text	&6Just a few of our favorite "tombs" that
+183	Text	&6we "dug up" for the occassion
+186	Text	&6We hope you'll enjoy 
+189	Text	&6a little nightmusic
+193	Text	&6Feel free to sing along
+196	Text	&aWe're just some poor, unfortunate souls
+200	Text	&aIn pain, 
+201	Text	&ain need
+206.8	Text	&aPoor unfortunate souls
+208.8	Text	&aSo sad and so true
+213	Text	&aPoor unfortunate souls!
+216	Text	&aCruella de Vil
+218	Text	&aCruella de Vil
+220	Text	&aIf she doesn't scare you
+222	Text	&ano evil thing will
+224	Text	&aTo see her is to take a sudden chill
+228.5	Text	&aCruella,
+229	Text	&aCruella de Vil
+232.5	Text	&aShe's like a spider waiting for the kill
+237	Text	&aLook out for Cruella de Vil
+246	Text	&aTrust in me
+249	Text	&aBOOM!
+250	Text	&aJust in me
+252.8	Text	&aBOOM!
+253.2	Text	&aShut your eyes
+256.4	Text	&aBOOM!
+257	Text	&aTrust in me
+259.9	Text	&aBOOM!
+263.8	Text	&aA Heffalump or Woozle
+265	Text	&ais very confusel
+267	Text	&aA Heffalump or woosel's very sly-sly-sly-sly
+271	Text	&aThey come in ones and twoosels
+272.8	Text	&aBut if they so choosels
+274.2	Text	&aBefore your eyes you'll see them multiply-ply-ply-ply
+278	Text	&aBeware!
+278.5	Text	&aLook out!
+278.9	Text	&aBeware!
+279	Text	&aLook out!
+280.6	Text	&aPink elephants on parade
+282.2	Text	&aHere they come,
+282.7	Text	&ahippety hoppety
+284	Text	&aThey're here
+284.8	Text	&aand there
+285	Text	&aPink elephants everywhere
+287.8	Text	&aLook out,
+288	Text	&alook out
+289	Text	&aPink elephants on parade
+307	Text	&f[&6Ghost Host&f] &6And he huffed
+308.8	Text	&6And he puffed
+310.8	Text	&6And he blew the Haunted Mansion in
+315	Text	&aWho's afraid of the big bad wolf
+317	Text	&atralala tralala
+319	Text	&aWho's afraid of the big bad wolf
+320.5	Text	&atralalalala
+324	Text	&aWho's afraid of the big big big bad
+328	Text	&awolf!
+342	Text	&f[&6Ghost Host&f]&6 Now, who could that be?
+345	Text	&f[&dUrsula&f] &dHappy Halloween, darlings
+349.3	Text	&f[&6Ghost Host&f]&6Why, the Sea Witch
+351.8	Text	&6So glad you could plop in
+355	Text	&f[&dUrsula&f] &dThis is what I live for!
+358	Text	&dIt's such a wicked time of year inlet
+361	Text	&dAnd I have just the spell to put us all in the mood
+366	Text	&dBeluga sevruga
+367.5	Text	&dCome winds of the Caspian Sea
+371.8	Text	&dLarengix glaucitis
+373	Text	&dMax laryngitis
+374.8	Text	&dLa voce to me
+380.5	Text	&dNow, sing
+383	Text	&dSing
+385	Text	&dSing!
+387.5	Text	&aPoor unfortunate souls
+388.8	Text	&aIn pain in need
+393	Text	&f[&dUrsula&f] &dYes, yes!
+395.8	Text	&dAh, they weren't kidding when they called me,
+398	Text	&dwell, a witch
+400	Text	&aPoor unfortuante souls
+402.6	Text	&aIn pain in need
+404.3	Text	&f[&dUrsula&f] &dListen up, sweetlips
+406	Text	&dI’ll give you all a little treat
+408.8	Text	&aPoor unfortunate souls
+410	Text	&aSo sad so true
+412	Text	&f[&dUrsula&f] &dNext year you'll be dressing like me
+414.8	Text	&aPoor unfortunate souls
+429	Text	&aYes our teeth and ambitions are bared
+432.8	Text	&aBe prepared
+456.8	Text	&f[&cJafar&f] &cTrick or treat?
+458.8	Text	&cIt is I, Jafar!
+460.5	Text	&cI’m sure you wouldn't dream of starting the fun without me
+464.5	Text	&f[&6Ghost Host&f] &6Why, you're dead right
+467	Text	&f[&cJafar&f] &cWell then, let me treat you all to a little
+471	Text	&csorcery in the sky!
+489.3	Text	&f[&2Oogie Boggie&f] &2Man, you call that magic?
+495	Text	&2Move over, old boy, and let mister Oogie kick it up a notch!
+501	Text	&2Well well well, what have we here?
+505	Text	&2Trick or treat, uh-huh?
+507	Text	&2Oh, I'm really scared!
+509.5	Text	&2So you're the ones they're talking about
+513.8	Text	&2When Mister Oogie Boogie says
+515.8	Text	&2There's trouble close at hand
+518	Text	&2You'd better pay attention now
+519.8	Text	&2’Cause I'm the Boogie Man
+525	Text	&2Hey!
+526	Text	&2I said Oogie Boogie
+527.8	Text	&a(Oogie Boogie)
+528	Text	&2I said Oogie Boogie
+529.8	Text	&a(Oogie Boogie)
+530.5	Text	&2I said oogedyboogedyboogedyboo
+531.8	Text	&a(Boogedyboogedyboogedyboo)
+532.8	Text	&2I said oogedyboogedyboogedyboo
+533.8	Text	&a(whoah)
+534.8	Text	&2Whoah &a(Whoah)
+536	Text	&2Whoah &a(Whoah)
+538.3	Text	&2Whoah &a(Whoah)
+541	Text	&2’Cause I'm the Oogie Boogie Man
+546	Text	&2Oh yeah
+554.8	Text	&2It's so scary
+557.2	Text	&2Yeah yeah
+559	Text	&2Ooh
+562	Text	&2I’m the Boogie Man
+570.5	Text	&2Oh yes
+573	Text	&f[&5Ghost Host&f] &6That was thrilling wasn't it?
+576	Text	&6And now, to end our ghostly gathering
+580	Text	&6We invite you to partake in our favorite Halloween tradition
+585	Text	&6The scream-a-long!
+587	Text	&6Any volunteers?
+589.8	Text	&6Just scream like you're trying to wake the dead!
+595.8	Text	&aThis is Halloween,
+596.8	Text	&athis is Halloween,
+598	Text	&aHalloween, Halloween, Halloween, Halloween
+600	Text	&aEverybody scream!
+604.5	Text	&aEverybody scream!
+609	Text	&aHappy happy Halloween!
+615	Text	&aWhen the cyrptdoors creak and the tombstones quake
+617	Text	&aSpooks come out for a swinging wake
+619.3	Text	&aHappy haunts materialize
+621	Text	&aAnd begin to vocalize
+622.1	Text	&aGrim grinning ghosts, come out to socialize
+627.3	Text	&aDon't close your eyes
+628	Text	&aDon't try to hide
+628.9	Text	&aOr a silly spook may sit by your side
+631.2	Text	&aShrouded in a daft disguise
+633.5	Text	&aThey pretend to terrorize
+635.5	Text	&aGrim grinning ghosts, come out to socialize
+640	Text	&aLalala lala lalala lala lalala lala lalalala
+647.9	Text	&aGrim grinning ghosts,
+649.5	Text	&acome out to socialize
+654	Text	&aEverybody scream!
+656.0	Text	&aEverybody scream!
+658.0	Text	&aEverybody scream!
+660.0	Text	&aHappy happy Halloween!
+315.0	SpiralParticle    flame	-96.5,61,-1616.5    13    90    2.5    3    15    2	-2.5
+315.0	SpiralParticle    flame	-82.5,61,-1616.5    13    90    2.5    3    15    2	-2.5
+315.0	SpiralParticle    flame	-89.5,46,-1608.5    13    90    2.5    3    20    2	2.5
+315.0	SpiralParticle    flame	-68.5,55.5,-1592.5   13    45    2    3    20    2	2.5
+315.0	SpiralParticle    flame	-110.5,55.5,-1592.5   13    135    2    3    20    2	2.5
+#Fireworks
+Effect	First		BURST,Red,Flicker
+Effect	GB		BALL_LARGE,Lime
+Effect	RB		BALL_LARGE,Red
+Effect	SideR		BURST,Red,Yellow,Flicker,Trail
+Effect	SideG		BURST,Lime,Yellow,Flicker,Trail
+Effect	rB		BALL,Red&Red,Trail
+Effect	gB		BALL,Lime&Lime,Trail
+Effect	PB		BALL_LARGE,Purple
+Effect	OB		BALL_LARGE,Orange
+Effect	Sider		BURST,Red,Trail
+Effect	DB		BURST,Yellow&Silver
+Effect	SideW		BURST,White
+Effect	MB		BURST,Blue,Lime,Orange,Red,Yellow,Purple
+Effect	mB		BALL_LARGE,Blue,Lime,Orange,Red,Yellow,Purple
+Effect	WB		BALL_LARGE,White,White
+Effect	SB		BALL_LARGE,Silver
+Effect	SideP		BURST,Purple
+Effect	YB		BALL_LARGE,Yellow
+Effect	wB		BALL,White
+Effect	SideH		BURST,White,Red,Lime
+Effect	FB		BURST,Fuchsia
+Effect	fB		BALL_LARGE,Fuchsia
+Effect	yB		BALL,Yellow
+Effect	CB		CREEPER,White
+Effect	oB		BALL,Orange,Orange,Orange
+Effect	sB		BALL_LARGE,Silver,Orange
+Effect	SideO		BURST,Orange,Orange
+#Start									I AM FINE
+40.0	Firework	-73,59,-1622	First	0	1,1,1	4
+40.0	Firework	-101,59,-1624	First	0	-1,1,1	4
+40.0	Firework	-103,61,-1623	First	0	1,1,1	4
+40.0	Firework	-73,61,-1621	First	0	-1,1,1	4
+46.0	Firework	-94,79,-1622	GB	0	0,1,0	2
+46.5	Firework	-86,75,-1622	GB	0	0,1,0	2
+48.4	Firework	-94,79,-1622	RB	0	0,1,0	2
+48.6	Firework	-92,76,-1622	RB	0	0,1,0	2
+51.0	Firework	-94,74,-1622	GB	0	0,1,0	2
+51.0	Firework	-92,83,-1622	GB	0	0,1,0	2
+51.0	Firework	-86,80,-1622	GB	0	0,1,0	2
+52.0	Firework	-96,85,-1622	RB	0	0,1,0	2
+52.0	Firework	-84,86,-1622	RB	0	0,1,0	2
+56.5	Firework	-86,99,-1622	GB	0	0,1,0	2
+58.5	Firework	-114,50,-1610	SideR	1	1,1,-1	0.2
+60.1	Firework	-66,50,-1610	SideR	1	-1,1,-1	0.2
+61.8	Firework	-109,50,-1616	SideG	1	1,1,-1	0.2
+63.1	Firework	-71,50,-1615	SideG	1	-1,1,-1	0.2
+67.0	Firework	-92,76,-1622	RB	0	0,1,0	2
+70.0	Firework	-79,71,-1622	GB	0	0,1,0	2
+70.0	Firework	-89,80,-1622	GB	0	0,1,0	2
+71.0	Firework	-86,77,-1622	RB	0	0,1,0	2
+71.0	Firework	-100,77,-1622	RB	0	0,1,0	2
+73.5	Firework	-89,80,-1622	GB	0	0,1,0	2
+77.0	Firework	-85,90,-1622	RB	0	0,1,0	2
+77.0	Firework	-96,92,-1622	RB	0	0,1,0	2
+80.0	Firework	-114,50,-1610	SideR	1	1,1,-1	0.2
+80.0	Firework	-66,50,-1610	SideR	1	-1,1,-1	0.2
+80.0	Firework	-109,50,-1616	SideG	1	-1,1,1	0.2
+80.0	Firework	-71,50,-1615	SideG	1	1,1,1	0.2
+118.8	Firework	-89,94,-1622	RB	0	0,1,0	2
+119.8	Firework	-85,90,-1622	RB	0	0,1,0	2
+121.0	Firework	-96,85,-1622	rB	0	0,1,0	2
+121.0	Firework	-90,87,-1622	rB	0	0,1,0	2
+124.0	Firework	-96,85,-1622	rB	0	0,1,0	2
+126.0	Firework	-90,84,-1622	PB	0	0,1,0	2
+128.5	Firework	-83,79,-1622	OB	0	0,1,0	2
+129.0	Firework	-98,82,-1622	OB	0	0,1,0	2
+130.5	Firework	-89,80,-1622	PB	0	0,1,0	2
+131.9	Firework	-71,50,-1615	SideR	1	1,1,1	0.2
+133.7	Firework	-109,50,-1616	SideR	1	-1,1,1	0.2
+135.0	Firework	-85,83,-1622	OB	0	0,1,0	1
+135.0	Firework	-94,86,-1622	OB	0	0,1,0	1
+137.0	Firework	-71,50,-1615	SideR	1	1,1,1	1
+138.0	Firework	-109,50,-1616	SideR	1	-1,1,1	1
+139.0	Firework	-83,79,-1622	OB	0	0,1,0	1
+139.0	Firework	-90,84,-1622	OB	0	0,1,0	1
+146.5	Firework	-71,50,-1615	SideR	1	-1,1,1	0.2
+147.0	Firework	-109,50,-1616	SideR	1	1,1,1	0.2
+150.0	Firework	-86,99,-1622	OB	0	0,1,0	1
+151.0	Firework	-83,96,-1622	OB	0	0,1,0	1
+152.0	Firework	-86,86,-1622	rB	0	0,1,0	1
+152.0	Firework	-92,83,-1622	rB	0	0,1,0	1
+153.0	Firework	-86,80,-1622	rB	0	0,1,0	1
+153.0	Firework	-94,86,-1622	rB	0	0,1,0	1
+155.0	Firework	-101,59,-1624	First	1	-1,1,1	0.2
+156.0	Firework	-73,59,-1622	First	1	1,1,1	0.2
+160.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+160.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+160.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+160.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+160.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+160.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+160.0	Firework	-94,93,-1622	PB	0	0,1,0	1
+160.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+160.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+160.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+160.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+160.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+160.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+161.0	Firework	-93,81,-1622	PB	0	0,1,0	1
+161.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+161.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+161.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+161.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+161.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+161.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+162.0	Firework	-85,90,-1622	PB	0	0,1,0	1
+162.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+162.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+162.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+162.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+162.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+162.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+163.0	Firework	-100,80,-1622	PB	0	0,1,0	1
+163.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+163.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+163.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+163.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+163.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+163.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+164.0	Firework	-90,87,-1622	PB	0	0,1,0	1
+164.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+164.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+164.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+164.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+164.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+164.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+165.0	Firework	-93,84,-1622	PB	0	0,1,0	1
+165.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+165.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+165.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+165.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+165.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+165.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+166.0	Firework	-86,82,-1622	PB	0	0,1,0	1
+166.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+166.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+166.5	Firework	-111,49,-1614	Sider	1	0,1,0	1
+166.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+166.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+166.5	Firework	-69,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-111,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-69,49,-1614	Sider	1	0,1,0	1
+167.0	Firework	-94,93,-1622	PB	0	0,1,0	1
+168.0	Firework	-97,93,-1622	RB	0	0,1,0	1
+168.0	Firework	-84,89,-1622	RB	0	0,1,0	1
+168.0	Firework	-114,50,-1610	SideR	1	1,1,-1	0.2
+168.0	Firework	-66,50,-1610	SideR	1	-1,1,-1	0.2
+200.0	Firework	-89,94,-1622	DB	0	0,-1,0	1
+200.0	Firework	-90,89,-1622	DB	0	0,-1,0	1
+204.0	Firework	-114,49,-1610	SideW	1	-1,1,-1	0.3
+204.0	Firework	-66,49,-1610	SideW	1	1,1,-1	0.3
+204.5	Firework	-111,49,-1614	SideW	1	-1,1,-1	0.3
+204.5	Firework	-69,49,-1614	SideW	1	1,1,-1	0.3
+205.0	Firework	-108,49,-1618	SideW	1	-1,1,-1	0.3
+205.0	Firework	-72,49,-1618	SideW	1	1,1,-1	0.3
+206.0	Firework	-103,61,-1623	MB	1	-1,1,1	0.3
+206.0	Firework	-73,61,-1621	MB	1	1,1,1	0.3
+206.8	Firework	-79,93,-1622	mB	0	0,1,0	1
+208.8	Firework	-96,89,-1622	mB	0	0,1,0	1
+209.6	Firework	-79,93,-1622	mB	0	0,1,0	1
+210.0	Firework	-96,89,-1622	mB	0	0,1,0	1
+213.0	Firework	-114,49,-1610	SideW	1	-1,1,-1	0.3
+213.0	Firework	-66,49,-1610	SideW	1	1,1,-1	0.3
+213.0	Firework	-111,49,-1614	SideW	1	-1,1,-1	0.3
+213.0	Firework	-69,49,-1614	SideW	1	1,1,-1	0.3
+213.0	Firework	-108,49,-1618	SideW	1	-1,1,-1	0.3
+213.0	Firework	-72,49,-1618	SideW	1	1,1,-1	0.3
+216.0	Firework	-86,90,-1622	SB	0	0,1,0	1
+218.0	Firework	-96,85,-1622	SB	0	0,1,0	1
+220.0	Firework	-101,81,-1622	WB	0	0,1,0	1
+222.0	Firework	-87,92,-1622	WB	0	0,1,0	1
+224.0	Firework	-79,83,-1622	SB	0	0,1,0	1
+227.0	Firework	-100,92,-1622	SB	0	0,1,0	1
+228.5	Firework	-108,49,-1618	SideW	1	0,1,0	0.2
+228.5	Firework	-108,49,-1618	SideW	1	-1,1,0	0.2
+228.5	Firework	-108,49,-1618	SideW	1	0,1,1	0.2
+228.5	Firework	-72,49,-1618	SideW	1	-1,1,0	0.2
+228.5	Firework	-72,49,-1618	SideW	1	0,1,1	0.2
+228.5	Firework	-72,49,-1618	SideW	1	0,1,0	0.2
+230.0	Firework	-85,85,-1622	SB	0	0,1,0	1
+230.5	Firework	-92,81,-1622	SB	0	0,1,0	1
+232.5	Firework	-85,84,-1622	SB	0	0,1,0	1
+235.0	Firework	-95,91,-1622	SB	0	0,1,0	1
+237.0	Firework	-114,49,-1610	SideW	1	0,1,0	1
+237.0	Firework	-111,49,-1614	SideW	1	0,1,0	1
+237.0	Firework	-108,49,-1618	SideW	1	0,1,0	1
+237.0	Firework	-72,49,-1618	SideP	1	0,1,0	1
+237.0	Firework	-69,49,-1614	SideP	1	0,1,0	1
+237.0	Firework	-66,49,-1610	SideP	1	0,1,0	1
+240.0	Firework	-114,49,-1610	SideW	1	0,1,0	1
+240.5	Firework	-111,49,-1614	SideW	1	0,1,0	1
+241.0	Firework	-108,49,-1618	SideW	1	0,1,0	1
+241.5	Firework	-72,49,-1618	SideW	1	0,1,0	1
+242.0	Firework	-69,49,-1614	SideW	1	0,1,0	1
+242.5	Firework	-66,49,-1610	SideW	1	0,1,0	1
+246.0	Firework	-93,85,-1622	DB	0	0,-1,1	1
+246.0	Firework	-86,85,-1622	DB	0	0,-1,1	1
+246.0	Firework	-79,82,-1622	DB	0	0,-1,1	1
+249.0	Firework	-82,87,-1622	RB	0	0,1,0	1
+249.0	Firework	-82,87,-1622	rB	0	0,1,0	1
+249.0	Firework	-97,89,-1622	RB	0	0,1,0	1
+249.0	Firework	-97,89,-1622	rB	0	0,1,0	1
+250.0	Firework	-96,88,-1622	DB	0	0,-1,1	1
+250.0	Firework	-92,83,-1622	DB	0	0,-1,1	1
+250.0	Firework	-83,81,-1622	DB	0	0,-1,1	1
+252.8	Firework	-82,87,-1622	RB	0	0,1,0	1
+252.8	Firework	-82,87,-1622	rB	0	0,1,0	1
+252.8	Firework	-97,89,-1622	RB	0	0,1,0	1
+252.8	Firework	-97,89,-1622	rB	0	0,1,0	1
+253.2	Firework	-82,82,-1622	DB	0	0,-1,1	1
+253.2	Firework	-87,86,-1622	DB	0	0,-1,1	1
+253.2	Firework	-93,80,-1622	DB	0	0,-1,1	1
+256.4	Firework	-82,87,-1622	RB	0	0,1,0	1
+256.4	Firework	-82,87,-1622	rB	0	0,1,0	1
+256.4	Firework	-97,89,-1622	RB	0	0,1,0	1
+256.4	Firework	-97,89,-1622	rB	0	0,1,0	1
+257.0	Firework	-101,88,-1622	DB	0	0,-1,1	1
+257.0	Firework	-89,88,-1622	DB	0	0,-1,1	1
+257.0	Firework	-77,88,-1622	DB	0	0,-1,1	1
+259.9	Firework	-82,87,-1622	RB	0	0,1,0	1
+259.9	Firework	-82,87,-1622	rB	0	0,1,0	1
+259.9	Firework	-97,89,-1622	RB	0	0,1,0	1
+259.9	Firework	-97,89,-1622	rB	0	0,1,0	1
+263.8	Firework	-88,88,-1622	SB	0	0,1,0	1
+263.8	Firework	-88,88,-1622	rB	0	0,1,0	1
+267.0	Firework	-94,83,-1622	WB	0	0,1,0	1
+267.0	Firework	-86,92,-1622	WB	0	0,1,0	1
+269.0	Firework	-69,55,-1614	SideH	0	-1,1,-1	1
+269.5	Firework	-72,55,-1618	SideH	0	-1,1,-1	1
+270.0	Firework	-108,55,-1618	SideH	0	-1,1,1	1
+270.5	Firework	-111,55,-1614	SideH	0	-1,1,1	1
+271.0	Firework	-88,88,-1622	SB	0	0,1,0	1
+271.0	Firework	-88,88,-1622	rB	0	0,1,0	1
+272.8	Firework	-87,78,-1622	rB	0	0,1,0	1
+274.2	Firework	-82,87,-1622	RB	0	0,1,0	1
+274.2	Firework	-82,87,-1622	rB	0	0,1,0	1
+274.2	Firework	-97,89,-1622	RB	0	0,1,0	1
+274.2	Firework	-97,89,-1622	rB	0	0,1,0	1
+276.0	Firework	-111,55,-1614	SideH	0	1,1,-1	1
+276.5	Firework	-108,55,-1618	SideH	0	1,1,-1	1
+277.0	Firework	-72,55,-1618	SideH	0	1,1,1	1
+277.5	Firework	-69,55,-1614	SideH	0	1,1,1	1
+278.0	Firework	-95,85,-1622	SB	0	0,1,0	1
+278.0	Firework	-95,85,-1622	rB	0	0,1,0	1
+278.5	Firework	-85,90,-1622	SB	0	0,1,0	1
+278.5	Firework	-85,90,-1622	rB	0	0,1,0	1
+280.6	Firework	-114,55,-1610	FB	1	1,1,-1	0.5
+280.6	Firework	-66,55,-1610	FB	1	-1,1,-1	0.5
+284.0	Firework	-111,55,-1614	FB	1	1,1,-1	0.5
+285.0	Firework	-69,55,-1614	FB	1	-1,1,-1	0.5
+287.8	Firework	-111,55,-1614	FB	1	1,1,-1	0.5
+291.0	Firework	-94,84,-1622	fB	0	0,1,0	1
+292.0	Firework	-86,89,-1622	fB	0	0,1,0	1
+293.0	Firework	-84,84,-1622	fB	0	0,1,0	1
+294.0	Firework	-96,89,-1622	fB	0	0,1,0	1
+295.0	Firework	-94,94,-1622	fB	0	0,1,0	1
+296.0	Firework	-86,79,-1622	fB	0	0,1,0	1
+297.0	Firework	-92,94,-1622	fB	0	0,1,0	1
+298.0	Firework	-86,79,-1622	fB	0	0,1,0	1
+299.0	Firework	-94,84,-1622	fB	0	0,1,0	1
+300.0	Firework	-96,93,-1622	YB	0	0,1,0	1
+300.0	Firework	-96,85,-1622	YB	0	0,1,0	1
+300.0	Firework	-82,86,-1622	YB	0	0,1,0	1
+300.0	Firework	-84,94,-1622	YB	0	0,1,0	1
+301.0	Firework	-90,90,-1622	yB	0	0,1,0	1
+301.5	Firework	-93,87,-1622	yB	0	0,1,0	1
+301.5	Firework	-89,87,-1622	yB	0	0,1,0	1
+301.5	Firework	-83,87,-1622	yB	0	0,1,0	1
+302.0	Firework	-83,86,-1622	yB	0	0,1,0	1
+302.0	Firework	-91,86,-1622	yB	0	0,1,0	1
+302.0	Firework	-97,86,-1622	yB	0	0,1,0	1
+311.0	Firework	-114,49,-1610	SideW	1	1,1,-1	0.8
+311.0	Firework	-66,49,-1610	SideW	1	-1,1,-1	0.8
+311.5	Firework	-111,49,-1614	SideW	1	1,1,-1	0.8
+311.5	Firework	-69,49,-1614	SideW	1	-1,1,-1	0.8
+312.0	Firework	-108,49,-1618	SideW	1	1,1,-1	0.8
+312.0	Firework	-172,49,-1618	SideW	1	-1,1,-1	0.8
+313.0	Firework	-73,61,-1621	SideW	0	0,1,0	1
+313.0	Firework	-79,62,-1618	SideW	0	0,1,0	1
+313.0	Firework	-100,62,-1618	SideW	0	0,1,0	1
+313.0	Firework	-103,61,-1623	SideW	0	0,1,0	1
+317.0	Firework	-96,88,-1622	SB	0	0,1,0	1
+320.5	Firework	-96,88,-1622	SB	0	0,1,0	1
+324.0	Firework	-94,82,-1622	SB	0	0,1,0	1
+324.0	Firework	-86,89,-1622	SB	0	0,1,0	1
+325.0	Firework	-108,49,-1618	SideW	1	1,1,-1	1
+325.0	Firework	-172,49,-1618	SideW	1	-1,1,-1	1
+325.5	Firework	-111,49,-1614	SideW	1	1,1,-1	1
+325.5	Firework	-69,49,-1614	SideW	1	-1,1,-1	1
+326.0	Firework	-114,49,-1610	SideW	1	1,1,-1	1
+326.0	Firework	-66,49,-1610	SideW	1	-1,1,-1	1
+328.0	Firework	-94,94,-1622	SB	0	0,1,0	1
+328.0	Firework	-98,91,-1622	WB	0	0,1,0	1
+329.0	Firework	-92,92,-1622	SB	0	0,1,0	1
+329.0	Firework	-96,87,-1622	WB	0	0,1,0	1
+340.2	Firework	-87,82,-1624	wB	0	0,1,0	1
+345.0	Firework	-93,87,-1622	PB	0	0,1,0	1
+355.0	Firework	-100,84,-1622	PB	0	0,1,0	1
+355.0	Firework	-92,80,-1622	PB	0	0,1,0	1
+358.0	Firework	-90,89,-1622	PB	0	0,1,0	1
+366.0	Firework	-90,87,-1622	PB	0	0,1,0	1
+366.0	Firework	-90,87,-1622	DB	0	0,-1,0	1
+367.5	Firework	-90,87,-1622	PB	0	0,1,0	1
+367.5	Firework	-90,87,-1622	DB	0	0,-1,0	1
+369.5	Firework	-85,93,-1622	SB	0	0,1,0	1
+371.8	Firework	-85,93,-1622	PB	0	0,1,0	1
+387.5	Firework	-93,83,-1622	SideP	0	0,-1,0	1
+387.5	Firework	-85,83,-1622	SideP	0	0,-1,0	1
+391.0	Firework	-108,55,-1618	SideW	1	0,1,0	1
+391.0	Firework	-72,55,-1618	SideW	1	0,1,0	1
+397.5	Firework	-73,61,-1621	SideW	1	1,1,1	0.2
+398.0	Firework	-103,61,-1623	SideW	1	-1,1,1	0.2
+398.5	Firework	-96,69,-1629	SideW	1	1,1,1	0.2
+398.5	Firework	-78,68,-1629	SideW	1	-1,1,1	0.2
+400.5	Firework	-72,49,-1618	SideW	1	0,1,0	1
+401.0	Firework	-69,49,-1614	SideW	1	0,1,0	1
+401.5	Firework	-66,49,-1610	SideW	1	0,1,0	1
+402.0	Firework	-87,84,-1622	RB	0	0,1,0	1
+402.0	Firework	-94,82,-1622	RB	0	0,1,0	1
+404.0	Firework	-108,49,-1618	SideW	1	0,1,0	1
+404.5	Firework	-111,49,-1614	SideW	1	0,1,0	1
+405.0	Firework	-114,49,-1610	SideW	1	0,1,0	1
+406.0	Firework	-94,82,-1622	RB	0	0,1,0	1
+406.0	Firework	-87,84,-1622	RB	0	0,1,0	1
+408.0	Firework	-72,49,-1618	SideW	1	0,1,0	1
+408.5	Firework	-69,49,-1614	SideW	1	0,1,0	1
+409.0	Firework	-66,49,-1610	SideW	1	0,1,0	1
+410.5	Firework	-87,84,-1622	RB	0	0,1,0	1
+410.5	Firework	-94,82,-1622	RB	0	0,1,0	1
+412.0	Firework	-108,49,-1618	SideW	1	0,1,0	1
+412.5	Firework	-111,49,-1614	SideW	1	0,1,0	1
+413.0	Firework	-114,49,-1610	SideW	1	0,1,0	1
+414.8	Firework	-94,82,-1622	RB	0	0,1,0	1
+414.8	Firework	-87,84,-1622	RB	0	0,1,0	1
+414.8	Firework	-89,83,-1622	RB	0	0,1,0	1
+415.0	Firework	-88,88,-1622	RB	0	0,1,0	1
+415.0	Firework	5,88,-1622	RB	0	0,1,0	1
+421.0	Firework	-85,84,-1622	PB	0	0,1,0	1
+421.0	Firework	-95,84,-1622	PB	0	0,1,0	1
+425.5	Firework	-85,79,-1622	PB	0	0,1,0	1
+425.5	Firework	-96,92,-1622	PB	0	0,1,0	1
+427.0	Firework	-92,86,-1622	PB	0	0,1,0	1
+429.0	Firework	-108,49,-1618	SideW	1	1,1,-1	0.2
+429.0	Firework	-111,49,-1614	SideW	1	1,1,-1	0.2
+429.0	Firework	-114,49,-1610	SideW	1	1,1,-1	0.2
+429.0	Firework	-72,49,-1618	SideW	1	-1,1,-1	0.2
+429.0	Firework	-69,49,-1614	SideW	1	-1,1,-1	0.2
+429.0	Firework	-66,49,-1610	SideW	1	-1,1,-1	0.2
+433.5	Firework	-108,49,-1618	WB	1	0,1,0	1
+433.5	Firework	-111,49,-1614	WB	1	0,1,0	1
+433.5	Firework	-114,49,-1610	WB	1	0,1,0	1
+433.5	Firework	-72,49,-1618	WB	1	0,1,0	1
+433.5	Firework	-69,49,-1614	WB	1	0,1,0	1
+433.5	Firework	-66,49,-1610	WB	1	0,1,0	1
+438.0	Firework	-89,87,-1622	YB	0	0,1,0	1
+440.0	Firework	-88,93,-1622	rB	0	0,1,0	1
+440.0	Firework	-93,85,-1622	rB	0	0,1,0	1
+442.0	Firework	-86,91,-1622	YB	0	0,1,0	1
+444.0	Firework	-89,86,-1622	rB	0	0,1,0	1
+444.0	Firework	-85,81,-1622	rB	0	0,1,0	1
+446.0	Firework	-95,93,-1622	YB	0	0,1,0	1
+446.0	Firework	-87,84,-1622	YB	0	0,1,0	1
+449.0	Firework	-95,79,-1622	rB	0	0,1,0	1
+449.0	Firework	-85,79,-1622	rB	0	0,1,0	1
+451.0	Firework	-84,86,-1622	YB	0	0,1,0	1
+451.0	Firework	-91,82,-1622	YB	0	0,1,0	1
+452.0	Firework	-73,61,-1621	SideW	1	1,1,1	1
+452.0	Firework	-103,61,-1623	SideW	1	-1,1,1	1
+453.0	Firework	-87,80,-1622	rB	0	0,1,0	1
+453.0	Firework	-93,78,-1622	rB	0	0,1,0	1
+455.0	Firework	-87,82,-1624	wB	0	0,1,0	1
+471.0	Firework	-90,76,-1622	CB	0	0,1,0	1
+471.0	Firework	-90,76,-1622	oB	0	0,1,0	1
+473.0	Firework	-97,85,-1622	CB	0	0,1,0	1
+473.0	Firework	-97,85,-1622	oB	0	0,1,0	1
+475.5	Firework	-87,87,-1622	CB	0	0,1,0	1
+475.5	Firework	-87,87,-1622	oB	0	0,1,0	1
+478.0	Firework	-96,93,-1622	CB	0	0,1,0	1
+478.0	Firework	-96,93,-1622	oB	0	0,1,0	1
+480.0	Firework	-88,87,-1622	sB	0	0,1,0	1
+483.0	Firework	-99,90,-1622	sB	0	0,1,0	1
+484.0	Firework	-92,93,-1622	sB	0	0,1,0	1
+484.0	Firework	-89,84,-1622	sB	0	0,1,0	1
+502.0	Firework	-80,88,-1622	gB	0	0,1,0	1
+503.0	Firework 	-80,88,-1622	gB	0	0,1,0	1
+504.0	Firework 	-78,88,-1622 	GB	0 	0,1,0 	1
+504.5	Firework 	-92,93,-1622 	GB	0	0,1,0 	1
+504.5	Firework 	-98,85,-1622 	GB 	0	0,1,0 	1
+514.0	Firework	-93,96,-1622	gB	0	0,1,0	1
+515.9	Firework	-93,96,-1622 gB 0 0,1,0 1
+519.5	Firework	-89,97,-1622	gB	1	0,1,0	1
+519.6	Firework 	-80,95,-1622	gB	1	0,1,0	1
+521.0	Firework 	-66,49,-1610	SideP	1	0,1,0 	1
+521.0	Firework 	-69,49,-1614	SideP	1 	0,1,0 	1
+521.2	Firework 	-66,49,-1610	SideP	1	0,1,0 	1
+521.2	Firework 	-69,49,-1614	SideP	1 	0,1,0 	1
+522.0	Firework 	-111,49,-1614	SideP	1 	0,1,0 	1
+522.0	Firework 	-108,49,-1618	SideP	1 	0,1,0 	1
+522.2	Firework 	-111,49,-1614	SideP	1 	0,1,0 	1
+522.2	Firework 	-108,49,-1618	SideP	1 	0,1,0 	1
+523.0	Firework 	-72,49,-1618	SideP	1 	0,1,0 	1
+523.0	Firework 	-114,49,-1610	SideP	1 	0,1,0 	1
+523.2	Firework 	-72,49,-1618	SideP	1 	0,1,0 	1
+523.2	Firework 	-114,49,-1610	SideP	1 	0,1,0 	1
+524.0	Firework 	-111,49,-1614	SideP 	1 	0,1,0 	1
+524.0	Firework 	-108,49,-1618	SideP 	1 	0,1,0 	1
+524.2	Firework 	-111,49,-1614	SideP 	1 	0,1,0 	1
+524.2	Firework 	-108,49,-1618	SideP 	1 	0,1,0 	1
+525.0	Firework 	-111,49,-1614	SideP	1 	0,1,0	1
+525.0	Firework 	-108,49,-1618	SideP	1 	0,1,0	1
+525.2	Firework 	-111,49,-1614	SideP	1 	0,1,0	1
+525.2	Firework 	-108,49,-1618	SideP	1 	0,1,0	1
+526.0	Firework 	-66,49,-1610 	SideP 	1 	0,1,0 	1
+526.0	Firework 	-69,49,-1614 	SideP 	1 	0,1,0 	1
+526.2	Firework 	-72,49,-1618 	SideP 	1 	0,1,0 	1
+526.2	Firework 	-114,49,-1610 	SideP 	1 	0,1,0 	1
+527.0	Firework 	-111,49,-1614 	SideP 	1 	0,1,0 	1
+527.0	Firework 	-108,49,-1618 	SideP 	1 	0,1,0 	1
+527.2	Firework 	-111,49,-1614 	SideP 	1 	0,1,0 	1
+527.2	Firework 	-108,49,-1618 	SideP 	1 	0,1,0 	1
+528.0	Firework 	-66,49,-1610 	SideP	1 	0,1,0 	1
+528.0	Firework 	-69,49,-1614 	SideP 	1 	0,1,0 	1
+528.2	Firework 	-66,49,-1610 	SideP	1 	0,1,0 	1
+528.2	Firework 	-69,49,-1614 	SideP 	1 	0,1,0 	1
+529.0	Firework 	-72,49,-1618 	SideP 	1 	0,1,0 	1
+529.0	Firework 	-114,49,-1610 	SideP 	1 	0,1,0 	1
+529.2	Firework 	-111,49,-1614 	SideP 	1 	0,1,0   1
+529.2	Firework 	-108,49,-1618 	SideP 	1 	0,1,0	1
+530.0	Firework 	-96,91,-1622 	RB 	0 	0,1,0 	1
+530.1	Firework 	-85,86,-1622 	RB 	0 	0,1,0 	1
+530.8	Firework 	-66,49,-1610 	SideG 	1 	0,1,0 	1
+530.8   Firework 	-69,49,-1614 	SideG 	1 	0,1,0 	1
+530.8   Firework 	-72,49,-1618 	SideG 	1 	0,1,0 	1
+533.5   Firework 	-66,49,-1610 	SideG	1	0,1,0 	1
+533.5	Firework 	-66,49,-1610 	FB 	1	0,1,0 	1
+533.5   Firework 	-69,49,-1614 	SideG 	1	0,1,0 	1
+533.5   Firework 	-69,49,-1614 	FB 	1	0,1,0 	1
+533.5	Firework 	-72,49,-1618 	SideG 	1	0,1,0 	1
+533.5   Firework 	-72,49,-1618 	SideG 	1	0,1,0 	1
+535.0	Firework	-96,91,-1622	RB	0	0,1,0 	2
+535.5	Firework	-85,86,-1622	RB	0	0,1,0 	2
+536.2   Firework	-90,92,-1622	RB	0	0,1,0 	2
+536.4   Firework	-80,88,-1622	RB 	0	0,1,0 	2
+538.5	Firework	-96,91,-1622	RB	0	0,1,0	2
+538.5   Firework	-85,86,-1622	RB	0	0,1,0	2
+543.2   Firework 	-93,98,-1622	WB	0 	0,1,0 	2
+543.3	Firework 	-80,97,-1622 	WB	0 	0,1,0 	2
+544.5	Firework 	-66,49,-1610 	FB	1	1,1,-1	1
+544.5	Firework 	-115,49,-1610 	FB	1	-1,1,-1	1
+546.3	Firework	-66,49,-1610 	SideG 	1 	0,1,0	1
+546.3	Firework	-114,49,-1610 	SideG 	1 	0,1,0 	1
+546.4	Firework 	-111,49,-1614 	SideG 	1 	0,1,0 	1
+546.4   Firework 	-69,49,-1614 	SideG 	1 	0,1,0 	1
+546.5   Firework 	-108,49,-1618 	SideG	1 	0,1,0 	1
+546.5   Firework 	-72,49,-1618 	SideG 	1 	0,1,0 	1
+555.0	Firework	-114,49,-1610 	SideO	1	0,1,0	1
+555.0	Firework 	-111,49,-1614 	SideO	1	0,1,0	1
+555.0	Firework	-108,49,-1618	SideO	1	0,1,0	1
+555.0	Firework 	-66,49,-1610 	SideO	1	0,1,0	1
+555.0	Firework 	-69,49,-1614 	SideO	1	0,1,0	1
+555.0	Firework 	-72,49,-1618 	SideO	1	0,1,0	1 
+555.2	Firework	-114,49,-1610 	SideO	1	0,1,0	1
+555.2	Firework 	-111,49,-1614 	SideO	1	0,1,0	1
+555.2	Firework	-108,49,-1618	SideO	1	0,1,0	1
+555.2	Firework 	-66,49,-1610 	SideO	1	0,1,0	1
+555.2	Firework 	-69,49,-1614 	SideO	1	0,1,0	1
+555.2	Firework 	-72,49,-1618 	SideO	1	0,1,0	1
+557.0	Firework	-114,49,-1610 	SideO	1	0,1,0 	1
+557.0	Firework 	-111,49,-1614 	SideO	1	0,1,0 	1
+557.0	Firework	-108,49,-1618	SideO	1	0,1,0 	1
+557.0	Firework 	-66,49,-1610 	SideO	1	0,1,0 	1
+557.0	Firework 	-69,49,-1614 	SideO	1	0,1,0 	1
+557.0	Firework 	-72,49,-1618 	SideO	1	0,1,0	1 
+557.2	Firework	-114,49,-1610 	SideO	1	0,1,0 	1
+557.2	Firework 	-111,49,-1614 	SideO	1	0,1,0 	1
+557.2	Firework	-108,49,-1618	SideO	1	0,1,0 	1
+557.2	Firework 	-66,49,-1610 	SideO	1	0,1,0 	1
+557.2	Firework 	-69,49,-1614 	SideO	1	0,1,0 	1
+557.2	Firework 	-72,49,-1618 	SideO	1	0,1,0	1 
+557.2	Firework	-114,49,-1610	SideO	1	0,1,0 	1
+557.2	Firework 	-111,49,-1614 	SideO 	1	0,1,0 	1
+557.2   Firework 	-108,49,-1618 	SideO	1	0,1,0 	1
+557.2   Firework	-66,49,-1610 	SideO	1	0,1,0 	1
+557.2   Firework 	-69,49,-1614	SideO	1	0,1,0 	1
+557.2   Firework	-72,49,-1618	SideO	1	0,1,0 	1
+562.5	Firework	-93,98,-1622	WB	0	0,1,0	3
+562.5   Firework	-80,97,-1622	WB	0	0,1,0   3
+570.8	Firework	-106,49,-1610   First	1	1,1,1	1
+570.8	Firework	-109,49,-1610   First	1	1,1,1	1
+570.8	Firework	-112,49,-1610   First   1	1,1,1	1
+570.8	Firework	-114,55,-1610   First   1	1,1,1	1
+570.8	Firework	-111,55,-1610   First   1	1,1,1	1
+570.8	Firework	-108,55,-1610   First   1	1,1,1	1
+570.8	Firework	-68,49,-1610   First   1	-1,1,-1	1
+570.8	Firework	-74,49,-1610   First   1	-1,1,-1	1
+570.8	Firework	-71,49,-1610   First   1	-1,1,-1 1
+570.8	Firework	-72,55,-1610   First	1	-1,1,-1 1
+570.8	Firework	-69,55,-1610   First	1	-1,1,-1	1
+570.8	Firework	-66,55,-1610	First	1	-1,1,-1	1
+571.8	Firework	-101,71,-1622   rB	0	0,1,0	1
+571.8	Firework	-90,76,-1622   rB	0	0,1,0   1
+571.8	Firework	-86,72,-1622   rB	0	0,1,0   1
+571.8	Firework	-80,77,-1622	rB	0	0,1,0   1
+571.8	Firework	-76,78,-1622	rB	0	0,1,0   1
+571.8	Firework	-83,72,-1622	rB	0	0,1,0   1
+571.8	Firework	-88,83,-1622  rB	0	0,1,0   1
+571.8	Firework	-93,87,-1622  rB	0	0,1,0   1
+571.8	Firework	-98,85,-1622  rB	0	0,1,0   1
+571.8	Firework	-94,90,-1622  rB	0	0,1,0   1
+571.8	Firework	-87,91,-1622  rB	0	0,1,0	1
+571.8	Firework	-80,94,-1622	rB	0	0,1,0	1
+571.8	Firework	-76,89,-1622	rB	0	0,1,0	1
+595.8	Firework	-93,98,-1622	OB	0	0,1,0	1
+596.8	Firework	-81,95,-1622	OB	0	0,1,0	1
+598.0	Firework	-85,91,-1622	oB	0	0,1,0	1
+598.0	Firework	-91,88,-1622	oB	0	0,1,0	1
+600.0	Firework	-114,49,-1610	SideW	1	0,1,0	2
+600.0	Firework	-111,49,-1614	SideW	1	0,1,0	2
+600.0	Firework	-108,49,-1618	SideW	1	0,1,0	2
+600.0	Firework	-72,49,-1618	SideW	1	0,1,0	2
+600.0	Firework	-69,49,-1614	SideW	1	0,1,0	2
+600.0	Firework	-66,49,-1610	SideW	1	0,1,0	2
+600.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+600.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+600.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+600.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+600.0	Firework	-61,64,-1620	WB	0	0,1,0	1
+600.0	Firework	-88,64,-1522	WB	0	0,1,0	1
+600.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+600.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+600.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+600.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+600.0	Firework	-117,64,-1608	WB	0	0,1,0	1
+600.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+600.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+600.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+600.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+600.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+604.5	Firework	-114,49,-1610	SideW	1	0,1,0	2
+604.5	Firework	-111,49,-1614	SideW	1	0,1,0	2
+604.5	Firework	-108,49,-1618	SideW	1	0,1,0	2
+604.5	Firework	-72,49,-1618	SideW	1	0,1,0	2
+604.5	Firework	-69,49,-1614	SideW	1	0,1,0	2
+604.5	Firework	-66,49,-1610	SideW	1	0,1,0	2
+604.5	Firework	-55,64,-1610	WB	0	0,1,0	1
+604.5	Firework	-31,64,-1588	WB	0	0,1,0	1
+604.5	Firework	-22,64,-1560	WB	0	0,1,0	1
+604.5	Firework	-41,64,-1532	WB	0	0,1,0	1
+604.5	Firework	-61,64,-1620	WB	0	0,1,0	1
+604.5	Firework	-88,64,-1522	WB	0	0,1,0	1
+604.5	Firework	-110,64,-1524	WB	0	0,1,0	1
+604.5	Firework	-127,64,-1542	WB	0	0,1,0	1
+604.5	Firework	-133,64,-1563	WB	0	0,1,0	1
+604.5	Firework	-131,64,-1583	WB	0	0,1,0	1
+604.5	Firework	-117,64,-1608	WB	0	0,1,0	1
+604.5	Firework	-45,64,-1606	WB	0	0,1,0	1
+604.5	Firework	-36,64,-1599	WB	0	0,1,0	1
+604.5	Firework	-26,64,-1574	WB	0	0,1,0	1
+604.5	Firework	-27,64,-1545	WB	0	0,1,0	1
+604.5	Firework	-41,64,-1532	WB	0	0,1,0	1
+609.0	Firework	-95,83,-1622	OB	0	0,1,0	1
+609.0	Firework	-82,83,-1622	OB	0	0,1,0	1
+611.0	Firework	-99,94,-1622	PB	0	0,1,0	1
+611.0	Firework	-93,89,-1622	PB	0	0,1,0	1
+615.0	Firework	-97,83,-1622	gB	0	0,1,0	1
+615.0	Firework	-87,83,-1622	gB	0	0,1,0	1
+615.0	Firework	-78,83,-1622	gB	0	0,1,0	1
+617.0	Firework	-94,85,-1622	RB	0	0,1,0	1
+617.0	Firework	-89,81,-1622	RB	0	0,1,0	1
+617.0	Firework	-83,85,-1622	RB	0	0,1,0	1
+619.3	Firework	-96,84,-1622	gB	0	0,1,0	1
+619.3	Firework	-87,84,-1622	gB	0	0,1,0	1
+620.0	Firework	-92,81,-1622	gB	0	0,1,0	1
+620.0	Firework	-88,81,-1622	gB	0	0,1,0	1
+621.0	Firework	-85,86,-1622	RB	0	0,1,0	1
+621.0	Firework	-89,86,-1622	RB	0	0,1,0	1
+621.0	Firework	-96,86,-1622	RB	0	0,1,0	1
+622.1	Firework	-85,82,-1622	gB	0	0,1,0	1
+622.1	Firework	-90,87,-1622	gB	0	0,1,0	1
+622.1	Firework	-94,82,-1622	gB	0	0,1,0	1
+627.3	Firework	-87,79,-1622	RB	0	0,1,0	1
+627.3	Firework	-92,79,-1622	RB	0	0,1,0	1
+62.08	Firework	-87,81,-1622	RB	0	0,1,0	1
+628.0	Firework	-91,81,-1622	RB	0	0,1,0	1
+630.6	Firework	-78,94,-1622	RB	0	0,1,0	1
+631.0	Firework	-91,92,-1622 	RB	0	0,1,0 	1
+631.6	Firework	-78,94,-1622 	RB	0	0,1,0 	1
+632.0	Firework	-91,92,-1622 	RB	0	0,1,0	1
+634.0	Firework 	-92,92,-1622	GB	0	0,1,0	1
+634.0	Firework	-80,89,-1622 	GB	0	0,1,0 	1
+634.1	Firework	-86,89,-1622	GB 	0	0,1,0 	1
+635.5	Firework	-92,92,-1622	RB 	0	0,1,0	1
+635.5	Firework 	-80,89,-1622 	RB	0	0,1,0 	1
+635.5	Firework 	-86,89,-1622 	RB 	0	0,1,0 	1
+636.5	Firework 	-92,78,-1622 	GB	0	0,1,0 	1
+636.5	Firework 	-80,88,-1622 	GB 	0	0,1,0 	1
+636.5	Firework 	-88,98,-1622 	yB 	0	0,1,0 	1
+636.5	Firework	-83,82,-1622	yB 	0	0,1,0 	1
+637.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+637.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+637.0	Firework	-79,75,-1622	OB	0	0,1,0	1
+637.5	Firework	-71,49,-1610	FB 	1	0,1,0 	1
+637.5	Firework 	-109,49,-1610 	FB 	1	0,1,0 	1
+638.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+638.0	Firework	-76,89,-1622	OB	0	0,1,0	1
+638.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+638.5 	Firework	-71,49,-1610	FB	1	0,1,0	1
+638.5 	Firework	-109,49,-1610	FB	1	0,1,0	1
+639.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+639.0	Firework	-79,77,-1622	OB	0	0,1,0	1
+639.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+639.5	Firework 	-71,49,-1610 	FB 	1 	0,1,0 	1
+639.5	Firework 	-109,49,-1610 	FB 	1 	0,1,0 	1
+640.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+640.0	Firework	-93,92,-1622	OB	0	0,1,0	1
+640.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+640.5	Firework	-71,49,-1610	FB	1	0,1,0	1
+640.5	Firework	-109,49,-1610	FB	1	0,1,0	1
+641.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+641.0	Firework	-81,99,-1622	OB	0	0,1,0	1
+641.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+641.5	Firework 	-71,49,-1610 	FB 	1 	0,1,0 	1
+641.5	Firework 	-109,49,-1610 	FB 	1 	0,1,0 	1
+642.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+642.0	Firework	-93,90,-1622	OB	0	0,1,0	1
+642.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+642.5	Firework	-71,49,-1610	FB	1	0,1,0	1
+642.5	Firework 	-109,49,-1610 	FB 	1 	0,1,0 	1
+643.0	Firework 	-71,49,-1610	FB 	1	0,1,0	1
+643.0	Firework	-89,85,-1622	OB	0	0,1,0	1
+643.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+643.5	Firework	-71,49,-1610	FB	1	0,1,0	1
+643.5	Firework	-109,49,-1610	FB	1	0,1,0	1
+644.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+644.0	Firework	-75,89,-1622	OB	0	0,1,0	1
+644.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+644.5	Firework	-71,49,-1610	FB	1	0,1,0	1
+644.5	Firework	-109,49,-1610	FB	1	0,1,0	1
+645.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+645.0	Firework	-91,99,-1622	OB	0	0,1,0	1
+645.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+645.5	Firework	-71,49,-1610	FB	1	0,1,0	1
+645.5	Firework	-109,49,-1610	FB	1	0,1,0	1
+646.0	Firework	-71,49,-1610	FB	1	0,1,0	1
+646.0	Firework	-80,88,-1622	OB	0	0,1,0	1
+646.0	Firework	-109,49,-1610	FB	1	0,1,0	1
+646.5	Firework	-71,49,-1610	FB	1	0,1,0	1
+646.5	Firework	-109,49,-1610	FB	1	0,1,0	1
+647.0	Firework	-96,94,-1622	RB	0	0,1,0	1
+647.0	Firework	-78,92,-1622	RB	0	0,1,0	1
+647.9	Firework	-90,90,-1622	RB	0	0,1,0	1
+647.9	Firework	-94,86,-1622	RB	0	0,1,0	1
+648.5	Firework	-78,77,-1622	RB	0	0,1,0	1
+648.5	Firework	-88,80,-1622	RB	0	0,1,0	1
+649.0	Firework	-91,84,-1622	RB	0	0,1,0	1
+649.0	Firework	-84,78,-1622	RB	0	0,1,0	1
+649.5	Firework	-79,89,-1622	RB	0	0,1,0 	2
+649.5	Firework	-87,78,-1622	RB	0	0,1,0	2
+651.0	Firework	-91,77,-1622	RB	0	0,1,0	2
+651.0	Firework	-85,74,-1622	RB	0	0,1,0	2
+654.0	Firework	-114,49,-1610	SideW	1	0,1,0	2
+654.0	Firework	-111,49,-1614	SideW	1	0,1,0	2
+654.0	Firework	-108,49,-1618	SideW	1	0,1,0	2
+654.0	Firework	-72,49,-1618	SideW	1	0,1,0	2
+654.0	Firework	-69,49,-1614	SideW	1	0,1,0	2
+654.0	Firework	-66,49,-1610	SideW	1	0,1,0	2
+654.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+654.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+654.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+654.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+654.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+654.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+654.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+654.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+654.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+654.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+654.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+654.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+654.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+654.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+654.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+654.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+654.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+654.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+654.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+654.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+654.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+656.0	Firework	-114,49,-1610	SideW	1	0,1,0	2
+656.0	Firework	-111,49,-1614	SideW	1	0,1,0	2
+656.0	Firework	-108,49,-1618	SideW	1	0,1,0	2
+656.0	Firework	-72,49,-1618	SideW	1	0,1,0	2
+656.0	Firework	-69,49,-1614	SideW	1	0,1,0	2
+656.0	Firework	-66,49,-1610	SideW	1	0,1,0	2
+656.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+656.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+656.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+656.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+656.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+656.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+656.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+656.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+656.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+656.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+656.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+656.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+656.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+656.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+656.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+656.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+656.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+656.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+656.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+656.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+656.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+658.0	Firework	-114,49,-1610	SideW	1	0,1,0	2
+658.0	Firework	-111,49,-1614	SideW	1	0,1,0	2
+658.0	Firework	-108,49,-1618	SideW	1	0,1,0	2
+658.0	Firework	-72,49,-1618	SideW	1	0,1,0	2
+658.0	Firework	-69,49,-1614	SideW	1	0,1,0	2
+658.0	Firework	-66,49,-1610	SideW	1	0,1,0	2
+658.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+658.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+658.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+658.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+658.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+658.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+658.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+658.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+658.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+658.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+658.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+658.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+658.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+658.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+658.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+658.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+658.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+658.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+658.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+658.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+658.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+660.0	Firework	-94,86,-1622	WB	0	0,1,0	1
+660.0	Firework	-90,86,-1622	WB	0	0,1,0	1
+660.0	Firework	-84,86,-1622	WB	0	0,1,0	1
+660.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+660.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+660.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+660.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+660.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+660.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+660.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+660.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+660.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+660.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+660.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+660.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+660.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+660.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+660.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+660.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+660.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+660.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+660.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+660.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+660.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+661.0	Firework	-94,86,-1622	WB	0	0,1,0	1
+661.0	Firework	-90,86,-1622	WB	0	0,1,0	1
+661.0	Firework	-84,86,-1622	WB	0	0,1,0	1
+661.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+661.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+661.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+661.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+661.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+661.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+661.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+661.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+661.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+661.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+661.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+661.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+661.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+661.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+661.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+661.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+661.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+661.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+661.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+661.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+661.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+662.0	Firework	-94,86,-1622	WB	0	0,1,0	1
+662.0	Firework	-90,86,-1622	WB	0	0,1,0	1
+662.0	Firework	-84,86,-1622	WB	0	0,1,0	1
+662.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+662.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+662.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+662.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+662.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+662.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+662.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+662.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+662.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+662.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+662.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+662.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+662.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+662.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+662.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+662.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+662.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+662.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+662.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+662.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+662.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+663.0	Firework	-94,86,-1622	WB	0	0,1,0	1
+663.0	Firework	-90,86,-1622	WB	0	0,1,0	1
+663.0	Firework	-84,86,-1622	WB	0	0,1,0	1
+663.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+663.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+663.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+663.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+663.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+663.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+663.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+663.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+663.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+663.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+663.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+663.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+663.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+663.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+663.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+663.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+663.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+663.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+663.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+663.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+663.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+664.0	Firework	-94,86,-1622	WB	0	0,1,0	1
+664.0	Firework	-90,86,-1622	WB	0	0,1,0	1
+664.0	Firework	-84,86,-1622	WB	0	0,1,0	1
+664.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+664.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+664.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+664.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+664.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+664.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+664.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+664.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+664.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+664.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+664.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+664.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+664.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+664.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+664.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+664.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+664.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+664.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+664.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+664.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+664.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+665.0	Firework	-55,64,-1610	WB	0	0,1,0	1
+665.0	Firework	-45,64,-1606	WB	0	0,1,0	1
+665.0	Firework	-36,64,-1599	WB	0	0,1,0	1
+665.0	Firework	-31,64,-1588	WB	0	0,1,0	1
+665.0	Firework	-26,64,-1574	WB	0	0,1,0	1
+665.0	Firework	-22,64,-1560	WB	0	0,1,0	1
+665.0	Firework	-27,64,-1545	WB	0	0,1,0	1
+665.0	Firework	-41,64,-1532	WB	0	0,1,0	1
+665.0	Firework	-49,64,-1523	WB	0	0,1,0	1
+665.0	Firework	-61,64,-1520	WB	0	0,1,0	1
+665.0	Firework	-74,64,-1519	WB	0	0,1,0	1
+665.0	Firework	-88,64,-1517	WB	0	0,1,0	1
+665.0	Firework	-100,64,-1519	WB	0	0,1,0	1
+665.0	Firework	-110,64,-1524	WB	0	0,1,0	1
+665.0	Firework	-119,64,-1531	WB	0	0,1,0	1
+665.0	Firework	-127,64,-1542	WB	0	0,1,0	1
+665.0	Firework	-129,64,-1554	WB	0	0,1,0	1
+665.0	Firework	-133,64,-1563	WB	0	0,1,0	1
+665.0	Firework	-131,64,-1583	WB	0	0,1,0	1
+665.0	Firework	-123,64,-1594	WB	0	0,1,0	1
+665.0	Firework	-117,64,-1606	WB	0	0,1,0	1
+665.0	Firework	-114,49,-1610	SideW	1	0,1,0	2
+665.0	Firework	-111,49,-1614	SideW	1	0,1,0	2
+665.0	Firework	-108,49,-1618	SideW	1	0,1,0	2
+665.0	Firework	-72,49,-1618	SideW	1	0,1,0	2
+665.0	Firework	-69,49,-1614	SideW	1	0,1,0	2
+665.0	Firework	-66,49,-1610	SideW	1	0,1,0	2
+665.0	Firework	-94,86,-1622	WB	0	0,1,0	1
+665.0	Firework	-90,86,-1622	WB	0	0,1,0	1
+665.0	Firework	-84,86,-1622	WB	0	0,1,0	1
+#------------------------------------------------
+#Post show
+695	Block	152	-93,28,-1611
+695	Block	152	-96,30,-1611
+695	Block	152	-96,28,-1611
+695	Block	152	-99,28,-1611
+700	Block	152	-87,28,-1611
+745	Block	152	-81,28,-1611
+745	Block	152	-89,28,-1611
+745	Block	152	-95,29,-1611
+#---------------------------------------------------------------
+675.5	Text	&6The happy haunts want to thank you for
+678.2	Text	&6hanging around.
+679.5	Text	&6While we scared up a little Halloween fun
+683	Text	&6We do hope you'll drop in again
+687	Text	&6For another spooktacular celebration
+690.5	Text	&6Happy HalloWishes Everyone!
+696	Text	&2Credits:
+#697	Text	&2Brought to you by: &dVirusElite524 and Owils.
+697	Text	&2Plugin- &dPalace Dev Team.
+#699	Text	&dPalace &2servers proudly hosted by &dMCProHosting&6!
+698	Text	&2Happy Halloween!
+#Thank you GrailMore and Gruffian for inspiring me to do this.
+#You guys are my best friends on here, especially you Grail, without you I wouldn't be here on the server.
+#This is also to dedicate you two for all the struggles from managing
+#the server.  Just thank you for everything. <3 Viruselite524
+#Made in one week, September 26-October 3.

@@ -1,0 +1,535 @@
+﻿Show	Location	-90,45,-1596
+Show	TextRadius	200
+Show	Name	Castle
+#gates locked
+0	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+#Audio
+0	Block	152	-90,43,-1581
+#Audio Sync
+0	AudioStart	mrff	0
+10	AudioSync	mrff	10
+15	AudioSync	mrff	15
+30	AudioSync	mrff	30
+60	AudioSync	mrff	60
+120	AudioSync	mrff	120
+180	AudioSync	mrff	180
+240	AudioSync	mrff	240
+300	AudioSync	mrff	300
+360	AudioSync	mrff	360
+420	AudioSync	mrff	420
+480	AudioSync	mrff	480
+540	AudioSync	mrff	540
+600	AudioSync	mrff	600
+660	AudioSync	mrff	660
+720	AudioSync	mrff	720
+800	AudioSync	mrff	800
+860	AudioSync	mrff	860
+940	AudioSync	mrff	940
+1000	AudioSync	mrff	1000
+1060	AudioSync	mrff	1060
+1120	AudioSync	mrff	1120
+1180	AudioSync	mrff	1180
+1240	AudioSync	mrff	1240
+1300	AudioSync	mrff	1300
+#Text
+11.2	Text	&6Lord and ladies, princes and princesses.
+15.7	Text	&6Come one, come all to the Royal Friendship Faire!
+#Open Gates
+15.1	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+16.7	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+17.6	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+21.6	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+22.6	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+24.1	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+20.4	Text	&f[&9Mickey&f] &9Hi, everybody!
+21.7	Text	&f[&cMinnie&f] &cThis is gonna be so much fun!
+24.1	Text	&f[&dDaisy&f] &dYou’re here!
+25.0	Text	&f[&3Donald&f] &3Oh boy! Oh boy!
+26.0	Text	&f[&6Goofy&f] &6What a great day!
+27.2	Text	On this day…
+28.2	Text	&f[&9Mickey&f] &9We’re celebrating!
+29.1	Text	On this day…
+29.8	Text	&f[&cMinnie&f] &cWith all our friends.
+31.0	Text	We will weave every thread,
+34.8	Text	In a tapestry of tales for me and you.
+42.3	Text	On this day… (On this day.)
+43.2	Text	&f[&6Goofy&f] &6It’s a party!
+44.3	Text	This very day…
+45.1	Text	&f[&dDaisy&f] &dSo much fun!
+45.9	Text	&f[&3Donald&f] &3Yeah!
+46.4	Text	There are dreams in your head. (This very day.)
+50.0	Text	But today’s the day those dreams are coming true!
+57.5	Text	&f[&bAll&f] &bWe are links in a chain made of silver and gold.
+61.3	Text	&bWe are part of a pattern about to unfold.
+65.1	Text	&bWe are heroes of stories, as yet to be told.
+69.9	Text	&bWe come together on this day!
+76.9	Text	&bCome one, come all, come everyone!
+80.7	Text	&bJust come on out and play!
+84.5	Text	&bCome one, come all, and join the fun.
+88.4	Text	&bCome join the special celebration!
+92.2	Text	&bOn this day…
+95.7	Text	&bWe are links in a chain made of silver and gold.
+99.4	Text	&bWe are part of a pattern about to unfold.
+103.2	Text	&bWe are heroes of stories, as yet to be told.
+107.9	Text	&bWe come together on this day!
+114.7	Text	&bCome one, come all,
+118.0	Text	&bOn this day!
+#Scene 1
+132.7	Text	&f[&9Mickey&f] &9Looks like everybody’s ready.
+134.6	Text	&f[&cMinnie&f] &cOh Mickey, I just love the Friendship Faire — a day of fun and music and celebrating!
+140.5	Text	&f[&9Mickey&f] &9That’s right! We traveled far and wide, inviting new friends to today’s festival.
+146.3	Text	&f[&dDaisy&f] &dIt was a long journey!
+147.8	Text	&f[&6Goofy&f] &6We crossed rivers!
+149.1	Text	&f[&3Donald&f] &3And braved forests…
+151.3	Text	&f[&9Mickey&f] &9To bring all sorts of friends together in celebration of what makes this kingdom really unique.
+158.1	Text	&f[&bAll&f] &bAll of us!
+160.5	Text	&f[&cMinnie&f] &cCome on, everyone! It’s time to officially kick off the Royal Friendship Faire!
+165.5	Text	&f[&dDaisy&f] &dI can’t wait!
+166.3	Text	&f[&3Donald&f] &3Let’s go!
+#(DONALD, DAISY, and GOOFY exit.)
+168.0	Text	&f[&cMinnie&f] &cToday is going to be such a wonderful, wonderful day!
+175.1	Text	&f[&9Mickey&f] &9Oh boy! I hear our first guest coming now!
+#First Guests
+GOOFY
+179.4	Text	&f[&6Goofy&f] &6Come on everybody!
+#(Upstage doors open to reveal GOOFY leading TIANA, NAVEEN, LOUIS, and a New Orleans ENSEMBLE. Music transitions to “Down in New Orleans.”)
+181.2	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+182.5	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+183.4	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+189.1	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+190.1	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+191.1	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+181.2	Text	&f[&cMinnie&f] &cOh my goodness!
+183.2	Text	&f[&5Tiana, &aNaveen, &bAnd Ensemble&f]
+183.3	Text	&bIn the southland, there’s a city,
+186.6	Text	&bWay down on the river.
+189.8	Text	&bWhere the women are very pretty,
+192.8	Text	&bAnd all the men deliver.
+196.0	Text	&bThey got music, it’s always playin’.
+199.0	Text	&bStart in the day time, go all through the night.
+202.4	Text	&bWhen you hear that music playin’,
+205.3	Text	&bHear what I’m sayin’, makes you feel alright!
+208.8	Text	&f[&6Goofy&f] &6Allow me to introduce my new pals from The Land of the Bewitching Bayou:
+214.8	Text	&6Prince Naveen and Princess Tiana.
+217.9	Text	&f[&9Mickey&f] &9It’s great to meet ya!
+219.3	Text	&f[&cMinnie&f] &cOh, “The Land of the Bewitching Bayou!” What’s that like?
+223.5	Text	&f[&5Tiana&f] &5It’s a land of dreams, good cooking —
+226.4	Text	&f[&aNaveen&f]&aAnd jazz!
+#LOUIS
+#I just love playing jazz with the big boys!
+231.8	Text	&f[&6Goofy&f] &6Sounds like a swingin’ good time to me!
+234.6	Text	&f[&aNaveen&f]&aHit it!
+#(LOUIS begins another trumpet solo to the tune of “When We’re Human.”)
+#TIANA(Scats.)
+#(TAP DANCER begins dance solo while LOUIS plays. At the end of it, ENSEMBLE cheers for both of them.)
+281.2	Text	&f[&5Tiana&f] &5Now, why are you standin’ way over there? Come and join the jubilee!
+284.9	Text	&f[&6Goofy&f] &6Garwsh! Well, I ain’t got much to add to the party. I’m not good at tap dancing or playing the ukulele.
+291.5	Text	&f[&5Tiana&f] &5But everyone’s got something to add.
+293.8	Text	&5A party’s like a big pot of gumbo — it takes all the different flavors coming together to make it good.
+300.7	Text	&f[&6Goofy&f] &6Really?
+301.8	Text	&f[&aNaveen&f]&aShe’s right, my tall friend. You’ve got to let loose and cut a rug!
+305.4	Text	&f[&6Goofy&f] &6Garwsh!
+#LOUIS
+#You never know what you can do ‘til you try!
+309.0	Text	&f[&5Tiana&f] &5You know what Mama Odie would say if she were here? 
+312.0	Text	&5“You gotta dig a little deeper to find out who you are.”
+317.0	Text	&5Don’t matter what you look like.
+318.8	Text	&bOh no!
+319.5	Text	&5Don’t matter what you wear.
+320.6	Text	&bDon’t matter!
+321.3	Text	&5How many rings you got on your finger?
+323.6	Text	&5We don’t care!
+324.4	Text	&bNo, we don’t care!
+326.1	Text	&aDon’t matter where you come from.
+327.8	Text	&bNo-wee!
+328.4	Text	&aDon’t even matter who you are!
+329.7	Text	&bDon’t matter!
+330.6	Text	&bA big, a small, a short, a tall…
+332.7	Text	&aWe got em’ all in here!
+333.6	Text	&bWe got ’em all in here!
+334.6	Text	&5And they all knew what they wanted —
+337.0	Text	&5What they wanted us to do.
+339.6	Text	&5I told ’em what they needed…
+342.0	Text	&bJust like we’ll be telling you!
+344.3	Text	&bYou gotta dig a little deeper.
+346.5	Text	&bFind out who you are.
+348.5	Text	&bYou gotta dig a little deeper.
+351.2	Text	&bIt’s really not that far!
+353.4	Text	&5When you found out who you are,    &b(Ooh…)
+355.5	Text	&bYou find out what you need.
+358.2	Text	&bBlue skies and sun shine,
+359.9	Text	Guaranteed!
+361.4	Text	&f[&5Tiana&f] &5My friend, it’s time to take your place in the sun!
+#(GOOFY takes a tambourine and does a dance solo.)
+#LOUIS
+381.4	Text	&bLet’s take it on home!
+382.9	Text	&bYou gotta dig a little deeper.
+385.4	Text	&bYa don’t have far to go.
+387.3	Text	&bYou gotta dig a little deeper.
+390.1	Text	&bJust remember that I told you so!
+392.5	Text	&bYou’ll be surprised with what you find…
+394.2	Text	&5Maybe love!
+#LOUIS
+394.9	Text	&bOr friends!
+395.6	Text	&bOr piece of mind.
+397.5	Text	&bDig a little deeper and you’ll know!
+401.2	Text	&bJust dig down deep inside yourself,
+403.5	Text	&bAnd when you do, 
+405.6	Text	&bYour dreams can come true!
+410.9	Text	&bDreams come true!
+412.4	Text	&5Your dreams come true!
+413.4	Text	&bDreams come true!
+414.2	Text	&5Ohhh!
+415.3	Text	&bDreams come true!
+417.2	Text	&bYour dreams come true!
+426.8	Text	&f[&5Tiana&f] &5Why, that was just the bee’s knees!
+#LOUIS
+#You were really swingin’!
+430.1	Text	&f[&6Goofy&f] &6Garwsh! There’s more where that came from! 
+432.8	Text	&6Come on, everybody!
+#(GOOFY exits, leading TIANA, NAVEEN, and ENSEMBLE off.)
+#End of first guests
+439.5	Text	&f[&9Mickey&f] &9Hot dog! They sure are a fun group!
+442.7	Text	&f[&cMinnie&f] &cLike Tiana said, they’re “the bee’s knees!”
+447.8	Text	&f[&9Mickey&f] &9Aw… Say, who do you think Donald and Daisy brought?
+451.5	Text	&f[&cMinnie&f] &cOh, I bet they’re just delightful!
+#(DONALD enters, leading the RUFFIANS from The Snuggly Duckling.)
+#Enter next guests
+453.2	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+455.2	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+458.2	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+460.8	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+461.5	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+462.1	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+DONALS
+461.2	Text	&f[&3Donald&f] &3Attention everybody!
+464.4	Text	&3Allow me to introduce my distinguished guests from The Land of the Enchanted Woodlands.
+470.9	Text	&f[&cMinnie&f] &cDistinguished guests?
+472.1	Text	&f[&9Mickey&f] &9From The Land of the Enchanted Woodlands?
+474.4	Text	&f[&3Donald&f] &3Hey fellas, these are my friends!
+476.8	Text	&f[&cMinnie&f] &cIt’s a pleasure to meet you gentlemen.
+478.9	Text	&f[&2Hook Hand&f] &2Hiya, toots.
+479.5	Text	&f[&7Vladimir&f] &7The pleasure is all mine.
+481.3	Text	&f[&cMinnie&f] &cHow nice.
+482.1	Text	&f[&8Tor&f] &8Out of my way! My turn!
+484.4	Text	&f[&3Donald&f] &3Would you stop that?!
+485.7	Text	&f[&2Hook Hand&f] &2Watch it buddy! We do what we want, when we want.
+487.9	Text	&f[&7Vladimir&f] &7Just like at the Snuggly Duckling.
+489.8	Text	&f[&3Donald&f] &3Who you calling a snuggly duckling?
+492.3	Text	&f[&7Vladimir&f] &7Ow! My foot!
+496.2	Text	&f[&3Donald&f] &3Watch it! 
+497.5	Text	&3Hey! 
+501.9	Text	&3Hey! 
+508.9	Text	&3Let me go!
+510.4	Text	&f[&cMinnie&f] &cDonald!
+513.3	Text	&f[&3Donald&f] &3Hey!
+514.9	Text	&f[&9Mickey&f] &9Minnie, hold on!
+516.5	Text	&f[&cMinnie&f] &cLet go of him!
+517.8	Text	&f[&3Donald&f] &3My feathers!
+#(Tug of war continues downstage. Upstage, DAISY enters with RAPUNZEL and FLYNN RIDER.)
+518.8	Text	&f[&dDaisy&f] &dWhat is happening?!
+519.5	Text	&f[&8Tor&f] &8We got you now!
+519.9	Text	&f[&5Rapunzel&f]&5Oh no! Flynn!
+521.2	Text	&f[&aFlynn&f] &aI told ya — you can’t take them anywhere.
+522.9	Text	&f[&dDaisy&f] &dDonald! (She whistles loudly.)
+526.7	Text	&f[&3Donald&f] &3Daisy…?
+528.0	Text	&f[&dDaisy&f] &dDonald Duck, what have you done? 
+531.2	Text	&dAfter we met Rapunzel and Flynn, we agreed to invite them. 
+535.4	Text	&dNot these ruffians!
+537.4	Text	&f[&7Vladimir&f] &7“Ruffians?!”
+538.3	Text	&f[&dDaisy&f] &dOne minute we were together, and the next I turned around and you were gone.
+542.7	Text	&dWhat happened?
+544.6	Text	&f[&3Donald&f] &3Gee, Daisy… I’m sorry.
+547.3	Text	&f[&dDaisy&f] &dYou ruined everything!
+549.0	Text	&f[&5Rapunzel&f]&5I know these boys. 
+550.6	Text	&5They seem a bit rough around the edges, but they’re not so bad.
+554.3	Text	&f[&aFlynn&f] &aBlondie’s right. They grow on you after a while… 
+557.9	Text	&aKinda like a fungus.
+559.2	Text	&f[&5Rapunzel&f]&5They all have dreams! 
+561.3	Text	&5Just like you and me.
+562.5	Text	&f[&dDaisy&f] &dThey do?
+563.4	Text	&f[&5Rapunzel&f]&5Oh yes, they do!
+#(Music transitions to “I’ve Got a Dream.”)
+572.6	Text	&f[&aFlynn&f] &aHe’s malicious, mean, and scary,
+574.9	Text	&aHis sneer could curdle dairy,
+577.3	Text	&aAnd violence-wise, his hands are not the cleanest.
+581.3	Text	&f[&5Rapunzel&f]&5But despite his evil look,
+583.1	Text	&5And his temper, and his hook,
+586.0	Text	&5He’s always yearned to be a concert pianist!
+589.8	Text	&f[&2Hook Hand&f] &2Can’tcha see me on the stage, performin’ Mozart?
+593.8	Text	&2Tickling the ivories ’til they gleam?
+596.9	Text	&2Yep, I’d rather be called deadly
+598.7	Text	&2For my killer show-tune medley.
+601.9	Text	&2Thank you!
+602.4	Text	&2‘Cause way down deep inside,
+603.8	Text	&2I’ve got a dream!
+605.5	Text	&bHe’s got a dream!
+607.2	Text	&bHe’s got a dream!
+609.2	Text	&f[&2Hook Hand&f] &2See, I ain’t as cruel and vicious as I seem!
+612.8	Text	&2Though I do like breaking femurs,
+614.5	Text	&2You can count me with the dreamers.
+616.5	Text	&2Like everybody else,
+617.8	Text	&2I’ve got a dream!
+620.2	Text	&f[&5Rapunzel&f]&5Tor would like to quit and be a florist!
+#(TOR pulls a bouquet of flowers from behind his back.)
+623.7	Text	&f[&aFlynn&f] &aGunther does interior design.
+627.3	Text	&aUlf is into mime.
+628.4	Text	&f[&5Rapunzel&f]&5Attila’s cupcakes are sublime!
+630.7	Text	&f[&5Rapunzel &bAnd &aFlynn&f]
+630.8	Text	&aBruiser knits.
+631.7	Text	&aKiller sews,
+632.6	Text	&aFang does little puppet shows.
+634.2	Text	&f[&2Hook Hand&f] &2And Vladimir collects ceramic unicorns!
+#(VLADIMIR pulls out two ceramic unicorns.)
+640.1	Text	&bOoh!
+641.4	Text	&f[&2Hook Hand&f] &2What’s your dream, my little snuggly friend?
+644.2	Text	&f[&3Donald&f] &3My dream? 
+645.3	Text	&3I’ve always wanted to be one of the fellas!
+648.4	Text	&f[&7Vladimir&f] &7What about you?
+649.6	Text	&f[&dDaisy&f] &dI’ve always wanted to try new things and make new friends!
+652.8	Text	&f[&2Hook Hand&f] &2Those are beautiful dreams.
+654.6	Text	&f[&3Donald&f] &3I’ve got a dream!
+655.5	Text	&f[&dDaisy&f] &dI’ve got a dream!
+656.4	Text	&bThey’ve got a dream!
+657.3	Text	&f[&3Donald &bAnd &dDaisy&f] &3We’ve got a dream!
+658.5	Text	&f[&5Rapunzel&f]&5So our differences aren’t really that extreme.
+661.1	Text	&bWe’re one big team!
+666.6	Text	&f[&bRuffians&f] &bCall us brutal, sick, sadistic,
+668.3	Text	&f[&7Vladimir&f] &7And grotesquely optimistic.
+670.3	Text	&b‘Cause way down deep inside,
+671.7	Text	&bWe’ve got a dream!
+672.7	Text	&f[&2Hook Hand&f] &2I’ve got a dream!
+673.6	Text	&f[&7Bruiser&f] &7I’ve got a dream!
+674.1	Text	&f[&8Tor&f] &8I’ve got a dream!
+675.7	Text	&f[&2Gunther&f] &2I’ve got a dream!
+676.6	Text	&f[&7Vladimir&f] &7I’ve got a dream!
+677.2	Text	&f[&3Donald &bAnd &dDaisy&f] &3We’ve got a dream!
+679.1	Text	&bYes, way down deep inside,
+681.6	Text	&bI’ve got a dream!
+689.2	Text	&bYeah!
+693.6	Text	&f[&dDaisy&f] &dYou’re right! They’re not as bad as they seem.
+696.4	Text	&f[&3Donald&f] &3So, did I do a good job?
+698.9	Text	&f[&dDaisy&f] &dYou did a very good job!
+701.0	Text	&f[&2Hook Hand&f] &2Way to go buddy!
+702.1	Text	&f[&8Tor&f] &8Now you’re one of the fellas!
+703.4	Text	&f[&3Donald&f] &3Hooray!
+705.1	Text	&f[&7Vladimir&f] &7Come on!
+#(DONALD, DAISY, RAPUNZEL, FLYNN, and RUFFIANS exit upstage.)
+706.8	Text	&bYeah!
+704.4	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+705.4	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+706.2	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+712.2	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+712.9	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+713.9	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+#End of Scene.
+708.5	Text	&f[&cMinnie&f] &cWhat a nice group of ruffians!
+710.6	Text	&f[&9Mickey&f] &9And what a great bunch of dreams!
+712.9	Text	&f[&cMinnie&f] &cOh, goodness! 
+714.0	Text	&cMickey, we better get ready. 
+715.7	Text	&cWe don’t want to be late for the celebration.
+717.7	Text	&f[&9Mickey&f] &9Oh, uh, hang on a minute, Minnie. 
+719.9	Text	&9I’ve got a special surprise for ya.
+722.7	Text	&f[&cMinnie&f] &cYou do?
+724.5	Text	&f[&9Mickey&f] &9You see… uh, 
+725.2	Text	&9I know there’s someone you’ve always wanted to meet from The Land of the Mystic Mountains.
+732.6	Text	&f[&cMinnie&f] &cOh, Mickey! Could it be?!
+734.7	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+735.3	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+736.5	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+739.3	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+741.5	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+742.1	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+#(Music begins: “For the First Time in Forever.” Gates open to reveal OLAF. Music changes to “In Summer.”)
+737.1	Text	&f[&7Olaf&f] &7Duh dah, dah doo,
+739.3	Text	&7Uh buh buh buh buh buh boo.
+741.5	Text	&7Wow. They’re not gonna believe this back home.
+744.8	Text	&f[&9Mickey&f] &9But, I —
+749.9	Text	&f[&7Olaf&f] &7Ooh, look at all the people! 
+752.6	Text	&7Hello, people!
+755.2	Text	&7And I can’t wait to see
+757.3	Text	&7What my buddies all think of me.
+760.4	Text	&7Hello!
+761.9	Text	&7In summer!
+767.4	Text	&7I’m Olaf, and I like warm hugs.
+770.3	Text	&f[&9Mickey &bAnd &cMinnie&f] &9Hi Olaf!
+#(ANNA and ELSA enter upstage. Music begins again: “For the First Time in Forever.”)
+772.1	Text	&f[&dAnna&f] &dOlaf?
+773.6	Text	&dOlaf, there you are!
+775.4	Text	&dWe were worried.
+776.3	Text	&f[&7Olaf&f] &7Why? Were you lost?
+778.2	Text	&f[&bElsa&f] &bNo, Olaf. You were.
+780.0	Text	&f[&7Olaf&f] &7But I’m right here with my new friends!
+782.9	Text	&7This is — 
+784.8	Text	&7and you are…?
+786.5	Text	&f[&9Mickey&f] &9Why, I’m Mickey Mouse!
+789.1	Text	&f[&7Olaf&f] &7And this is — 
+791.4	Text	&7and you are…?
+793.5	Text	&f[&cMinnie&f] &cI’m Minnie.
+795.1	Text	&f[&7Olaf&f] &7Good! This is Anna and Elsa. 
+798.1	Text	&7They’re sisters.
+799.5	Text	&f[&cMinnie&f] &cOh my! It’s an honor to meet you.
+802.8	Text	&f[&bElsa&f] &bPlease — the honor is all ours.
+805.6	Text	&f[&dAnna&f] &dWe’re so excited to be here!
+807.8	Text	&f[&cMinnie&f] &cFrom the moment I heard your story, I admired you both so much. 
+812.2	Text	&cOh, I wish I could be more like you.
+814.6	Text	&f[&dAnna&f] &dBut being just who you are is perfect!
+817.8	Text	&f[&bElsa&f] &bEveryone has their own unique talents that make them special. 
+821.4	Text	&bYou just have to believe that you do!
+823.9	Text	&f[&cMinnie&f] &cThat’s true!
+825.4	Text	&f[&bElsa&f] &bAnything is possible when you have someone you love by your side.
+829.2	Text	&f[&dAnna&f] &dThat’s me!
+829.9	Text	&f[&7Olaf&f] &7I wanna be there too!
+832.0	Text	&f[&bElsa&f] &bI’ve learned that you just have to remember to be true to yourself.
+837.5	Text	It’s funny how some distance
+840.2	Text	Makes everything seem small.
+843.6	Text	And the fears that once controlled me
+847.2	Text	Can’t get to me at all!
+851.5	Text	It’s time to see what I can do,
+855.1	Text	To test the limits and break through.
+858.6	Text	No right, no wrong, no rules for me.
+862.8	Text	I’m free!
+866.3	Text	Let it go! Let it go!
+869.7	Text	I am one with the wind and sky
+873.1	Text	Let it go! Let it go!
+876.9	Text	You’ll never see me cry!
+880.9	Text	Here I stand,
+884.0	Text	And here I’ll stay
+887.4	Text	Let the storm rage on!
+898.8	Text	My power flurries through the air into the ground.
+905.9	Text	My soul is spiraling in frozen fractals all around.
+912.9	Text	And one thought crystallizes like an icy blast:
+919.9	Text	I’m never going back —
+922.7	Text	The past is in the past!
+927.6	Text	Let it go! Let it go!
+931.1	Text	And I’ll rise like the break of dawn!
+934.7	Text	Let it go! Let it go!
+938.3	Text	That perfect girl is gone!
+942.2	Text	Here I stand,
+945.0	Text	In the light of day.
+950.5	Text	Let the storm rage on,
+956.4	Text	The cold never bothered me anyway!
+964.0	Text	&f[&cMinnie&f] &cThat was incredible!
+966.0	Text	&f[&bElsa&f] &bThank you, Minnie.
+966.9	Text	I hope none of you ever lose sight of being your own person.
+970.9	Text	&f[&7Olaf&f] &7Even me?
+972.3	Text	&f[&dAnna&f] &dEven you, Olaf!
+973.6	Text	&f[&7Olaf&f] &7Yay! Let’s go find more fun!
+977.5	Text	&f[&cMinnie&f] &cGoodbye!
+#(ANNA, ELSA, and OLAF exit upstage.)
+979.0	Text	&f[&9Mickey&f] &9So, did you like your surprise?
+981.2	Text	&f[&cMinnie&f] &cLike it? Oh Mickey, I loved it! 
+983.8	Text	&cI think today might be the best day ever!
+987.1	Text	&f[&9Mickey&f] &9Oh! Oh, gosh Minnie… 
+988.6	Text	&9Every day with you is the best day ever.
+991.0	Text	&f[&cMinnie&f] &cOh Mickey!
+994.0	Text	&f[&9Mickey&f] &9Aww… 
+996.6	Text	Oh! Oh, we better hurry! Come on!
+1003.8	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1005.1	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1006.3	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1014.3	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1015.1	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1016.0	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+#(Music begins. Upstage gates open and ENSEMBLE enters, leading GOOFY, DONALD, and DAISY — now in seasonal attire.)
+1012.2	Text	&eLords and ladies, princes and princesses — it is time for the Royal Friendship Faire grand dance!
+1027.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1027.6	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1028.2	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1031.1	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1032.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1033.8	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+1028.3	Text	&eNow join us in welcoming back our new friends. 
+1032.0	Text	&eFrom The Land of the Bewitching Bayous: 
+1034.3	Text	&ePrincess Tiana and Prince Naveen.
+#(TIANA, NAVEEN, and LOUIS enter. LOUIS plays a trumpet solo to “Ma Belle Evangeline.” TIANA and NAVEEN dance.)
+1057.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1058.0	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1058.7	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1061.7	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1062.2	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1063.2	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+1057.1	Text	&eFrom The Land of the Enchanted Woodlands: 
+1060.2	Text	&ePrincess Rapunzel, Flynn Rider and Sirs Vladimir and Hook Hand.
+#(Music transitions to “I See the Light.” RAPUNZEL and FLYNN enter and dance together, as do VLADIMIR and HOOK HAND.)
+1085.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1086.3	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1086.9	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1088.7	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1089.6	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1090.8	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+1088.5	Text	&eFrom The Land of the Mystic Mountains:
+1090.1	Text	&eQueen Elsa, Princess Anna, and Sir Olaf.
+#(Music transitions to “For the First Time in Forever. ANNA, ELSA, and OLAF enter and dance. Fanfare.)
+1111.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1112.6	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1113.8	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1116.3	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1117.3	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1118.3	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+1114.2	Text	&eLords and ladies, princes and princesses — 
+1117.7	Text	&eplease welcome Sir Mickey and Lady Minnie!
+#(MICKEY and MINNIE enter.)
+1121.4	Text	&f[&cMinnie&f] &cCome on everyone! Let’s all dance together!
+#(Music transitions to “With a Smile and a Song.” ALL dance.)
+1142.6	Text	When you smile and you sing,
+1146.8	Text	Everything is in tune, and it’s spring,
+1150.4	Text	And love flows along,
+1153.2	Text	With a smile and a song.
+1158.9	Text	We, old friends and new,
+1163.3	Text	And family too…
+1167.6	Text	Life flows along,
+1170.1	Text	with a smile and a song!
+1177.8	Text	&f[&dDaisy&f] &dThat was so much fun.
+1179.7	Text	&f[&3Donald&f] &3Yeah!
+1180.9	Text	&f[&6Goofy&f] &6Thank ya for the dance!
+1183.1	Text	&f[&cMinnie&f] &cOh Mickey, this really has been the best day ever!
+1187.5	Text	&f[&9Mickey&f] &9It always is when your making new friends.
+1190.6	Text	&f[&5Rapunzel&f]&5Discovering new dreams…
+1192.8	Text	&f[&aFlynn&f] &aThat’s an adventure for sure!
+1194.7	Text	&f[&3Donald &bAnd &dDaisy&f] &3Uh-huh!
+1195.8	Text	&f[&5Tiana&f] &5Trying something new…
+1197.2	Text	&f[&aNaveen&f]&aAnd having a swinging good time!
+1199.7	Text	&f[&6Goofy&f] &6You bet!
+1201.0	Text	&f[&bElsa&f] &bFinding the confidence…
+1202.6	Text	&f[&dAnna&f] &dTo be true to yourself.
+1204.4	Text	&f[&cMinnie&f] &cThat’s right!
+1207.4	Text	&f[&7Olaf&f] &7Warm hugs for everyone!
+1213.3	Text	&f[&9Mickey&f] &9Aw!
+1214.3	Text	&f[&cMinnie&f] &cOh, this is what I love about the Friendship Faire!
+1218.0	Text	On this day, it’s this day,
+1221.8	Text	Come from near or from far!
+1225.6	Text	All these separate parts together make us whole!
+1233.2	Text	On this day, (On this day)
+1234.9	Text	This very day,
+1237.0	Text	Doesn’t matter who you are!
+1240.9	Text	There is room enough for ev'ry heart and soul!
+1248.5	Text	We are links in a chain made of silver and gold.
+1252.2	Text	We are part of a pattern about to unfold.
+1256.0	Text	We are heroes of stories, as yet to be told.
+1260.8	Text	We come together on this day!
+1268.3	Text	&f[&9Mickey&f] &9Guess what?
+1269.4	Text	&9I have one last special surprise for everybody.
+1272.8	Text	&f[&cMinnie&f] &cYou do?
+1273.5	Text	&f[&dDaisy&f] &dI love surprises!
+1275.3	Text	&f[&9Mickey&f] &9To celebrate the new friendships created today,
+1278.4	Text	&f[&6Goofy&f] &6Here here!
+1279.2	Text	&f[&9Mickey&f] &9and the old ones that grow stronger everyday.
+1282.2	Text	&f[&3Donald&f] &3You said it.
+1283.6	Text	&f[&9Mickey&f] &9Here's to all of us!
+#(Castle fireworks.)
+1335.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1336.6	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1337.2	Schematic	MRFFgateopen	-90	45	-1609	mk	false
+1349.1	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+1352.0	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+1353.0	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+#(Applause. Characters bow and exit in groups, leaving MICKEY and MINNIE.)
+1340.1	Text	&f[&9Mickey&f] &9Thanks to all of you,
+1342.0	Text	&9old friends and new,
+1343.8	Text	&9for celebrating with us today!
+1346.0	Text	&9See ya real soon!
+#(MICKEY and MINNIE exit.)
+#ANNOUNCER
+1383.0	Text	&eWe invite you to enjoy the rest of your Royal Friendship Faire day, here at the Magic Kingdom!
+

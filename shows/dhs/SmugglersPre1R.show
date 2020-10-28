@@ -1,0 +1,21 @@
+﻿Show	Location	-346,68,608
+Show	TextRadius	15
+#Anima Go to Start
+0	Block	152	-351,62,617
+#Close Door (Right Front)
+0	Block	1:6	-345,68,618
+0	Block	1:6	-345,67,618
+#Tp Out
+0	Block	152	-345,64,609
+#Open Door (Left)
+5	Block	0	-345,68,602
+5	Block	0	-345,67,602
+5	Block	0	-346,68,603
+5	Block	0	-346,67,603
+#Open Door (Right)
+5	Block	0	-351,67,605
+5	Block	0	-351,68,605
+5	Block	0	-352,67,606
+5	Block	0	-352,68,606
+#ResumeTestFor
+1	Block	152	-350,62,616

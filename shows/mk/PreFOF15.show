@@ -1,0 +1,31 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+#Mainstreet block/Pre/Show start
+0	Block	152	-102,49,-1405
+1	Block	20	-102,49,-1405
+640	Block	152	-111,48,-1411
+900	Block	152	-112,48,-1411
+#Time system
+0	Block	35	-122,53,-1375
+900	Block	152	-123,53,-1405
+
+0	Text	&eHear Ye, Hear Ye, Ladies and gentleman boys and girls in just &d15 Minutes &ewe invite you to join us for our &d&lFestival of Fantasy Parade &eat /warp mainstreet
+300	Text	&eHear Ye, Hear Ye, Ladies and gentleman boys and girls in just &d10 Minutes &ewe invite you to join us for our &d&lFestival of Fantasy Parade &eat /warp mainstreet
+600	Text	&eHear Ye, Hear Ye, Ladies and gentleman boys and girls in just &d5 Minutes &ewe invite you to join us for our &d&lFestival of Fantasy Parade &eat /warp mainstreet
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+660	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+720	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+780	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+840	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+880	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-129,49,-1413
+270	Block	152	-129,49,-1414
+570	Block	152	-129,49,-1415
+750	Block	152	-129,49,-1416

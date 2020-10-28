@@ -1,0 +1,227 @@
+Show	Location	-143,60,448
+Show	TextRadius	10
+
+
+#Left hand block off
+0	Block	101	-148,61,441
+0	Block	101	-148,61,442
+0	Block	101	-148,61,443
+0	Block	101	-148,61,444
+
+#Right hand block off
+0	Block	101	-149,61,448
+0	Block	101	-149,61,447
+0	Block	101	-148,61,447
+0	Block	101	-148,61,446
+
+#Skip pre block off
+0	Block	190	-155,61,449
+0	Block	190	-154,61,449
+0	Block	190	-153,61,449
+
+#Fence off Pre Show areas
+0	Block	0	-153,59,435
+0	Block	0	-153,59,434
+
+#Signs
+0	Block	152	-150,58,436
+
+#Block off queue signs
+0	Block	20	-138,60,454
+0	Block	20	-138,61,454
+0	Block	20	-140,61,454
+0	Block	20	-140,60,454
+0	Block	20	-142,60,454
+0	Block	20	-142,61,454
+
+#Signs
+1	Block	152	-142,55,454
+1	Block	152	-146,55,454
+1	Block	152	-150,55,454
+
+
+#warp people outside out
+1	Block	152	-154,57,444
+
+0.2	Text	&f[&6Fozzie&f] &eAh, that's funny!
+2.2	Text	&eHey &8Penguins&e, I got a joke.
+3.6	Text	&eWhy did the &cChicken &ecross the road?
+12.5	Text	&f[&8Scooter&f] &7Uh - Ladies and Gentlemen - could I have your attention please?
+17.1	Text	&7Um, excuse me… Uh, um…
+19.2	Text	&f[&3Rizzo&f] &b&lQUIEEEET!
+23.5	Text	&bWhy? You gotta project from the diaphragm.
+26.0	Text	&7Thank you &3Rizzo&7.
+26.9	Text	&bYou're welcome.
+27.6	Text	&7Uh, ladies and Gentlemen, if you could step as far forward and close together as you can.
+32.2	Text	&bYeah yeah yeah yeah...
+33.3	Text	&bGet real close, you see we're doing research on deodorant strength.
+38.1	Text	&3Rizzo... &7you're disgusting.
+39.7	Text	&bIt's a gift!
+40.8	Text	&bHa!
+42.0	Text	&7Well, we're ready to start &2&lMuppet Vision &6&l3D &7and if you'll...
+46.1	Text	&f[&6Fozzie&f] &7Scooter, Scooter, Scooter. &e'Scuse me but err, where's &aKermit&e?
+48.8	Text	&7Oh, he's inside getting ready.
+50.8	Text	&eOh oh, great great.
+52.4	Text	&eI gotta whole new act in a &63D &eMovie. Just wait here, I'll get them.
+56.3	Text	&eOk, get ready &dgirls!
+58.6	Text	&7Scooter, &eI'd like to present the &6&l&o3Ds&3.
+62.4	Text	&f[&dDorothy&f] &dHi, I'm Dorothy!
+64.1	Text	&f[&5Dina&f] &5I'm Dina!
+65.3	Text	&f[&8Max&f] &7I'm Max.
+66.3	Text	&7Debbie was sick so the union sent me.
+70.5	Text	&7Debbie was sick, so the union -
+74.3	Text	&5One, two, three -
+75.8	Text	&5By the light
+77.1	Text	&7By the light, by the light.
+78.7	Text	&5Of the silvery moon...
+80.7	Text	&7Not the sun, but the moon!
+82.2	Text	&f[&8Scooter&f] &7No no no no no, come on. No no no.
+84.3	Text	&6Fozzie&7 - get them out of here.
+86.0	Text	&f[&6Fozzie&f] &eCome on &dgirls&e, I'm sorry.
+87.6	Text	&eI'ts ok. Maybe another time.
+92.8	Text	&f[&8Max&f] &7Hey hey, watch the dress.
+98.5	Text	&f[&8Scooter&f] &7Now, folks...
+101.9	Text	&f[&9Bean&f] &bHi &8Scooter&b!
+103.1	Text	&9Bean&7, where are you going?
+104.5	Text	&bOh, I'm going to help &fMiss Piggy &bwith her Musical Number!
+108.2	Text	&7But &9Bean&7, you know nobody interrupts &fMiss Piggy &7while she's rehearsing...
+111.3	Text	&7[&fMiss Piggy&7] &dWhat are you doing here?
+114.5	Text	&bAhhhh...
+116.5	Text	&dDon't come back!
+117.3	Text	&7I warned you.
+120.3	Text	&f[&9Gonzo&f] &3Scooter? Ooh, nice outfit!
+124.2	Text	&7Scooter&3? &7Scooter&3?
+125.3	Text	&3There's a telephone call for you, it's urgent.
+127.6	Text	&8Oh, thanks!
+127.9	Text	Yeah yeah.
+129.4	Text	&3I got him, we don't have a telephone!
+131.9	Text	&3Ha ha ha ha ha!
+133.4	Text	&3And now, ladies and gentlemen, while you're a captive audience,
+137.0	Text	&3A display of tremendous tap-dancing talent
+140.3	Text	&3With the added cultural component of...
+145.0	Text	&3A Pot of Flowers, balanced on my head.
+145.0	Block	152	-145,55,443
+146.0	Block	152	-142,55,443
+148.8	Text	&3Hit it Rusty!
+156.9	Text	&3Yeah!
+163.8	Text	&3You dropped your pot
+164.4	Text	&3Yeah!
+165.3	Text	&3Yeah!
+167.3	Text	&3Pick it up!
+172.7	Text	&3Got it?
+173.5	Text	&3Yeah!
+181.8	Text	&3Yeah!
+182.2	Text	&3Thank you!
+182.8	Text	&3You're welcome!
+183.2	Text	&3Thank you!
+184.0	Text	&3You're welcome!
+184.0	Text	&3Thank you!
+185.0	Text	&3Thank you!
+185.6	Text	&3You're welcome!
+186.2	Text	&3Thank you!
+186.5	Text	&3You're welcome!
+187.4	Text	&3Thank you!
+188.6	Text	&3Oh, and thank you!
+188.9	Text	&3What about me?
+191.0	Text	&f[&8Scooter&f] &9Gonzo?
+192.8	Text	&9Gonzo?
+194.0	Text	&f[&9Gonzo&f] &3Yes &8Scooter?
+195.6	Text	&7Eh...
+196.7	Text	&7We have no phone.
+199.2	Text	&3Well, I'll run right out and get one!
+#Lights on
+200.0	Block	152	-152,67,435
+200.0	Block	152	-152,67,434
+
+202.3	Text	&7Eh...
+203.3	Text	&7Now where was I before I was interrupted?
+205.2	Text	&7Erm...
+205.8	Text	&7Ah, yes! I was gonna tell you about the &7&o3D&3...
+211.3	Text	&f[&9Bean&f] &bHello, &8Scooter&b!
+214.8	Text	&9Bean&7! &9Bean&7!
+216.0	Text	&7Where you goin’ with that?
+217.4	Text	&bOh, I thought &fMiss Piggy &bmight need a prop for her number!
+221.3	Text	&9Bean&7, can’t you see that &fPiggy &7doesn’t want any help?
+224.2	Text	&bOh, I’m &b&osure &r&bshe’ll like this!
+230.1	Text	&7Look, I’m sorry about these interruptions.
+231.0	Text	&7[&fMiss Piggy&7] &dGet out of here!! Hi-ya! And stay out!
+240.0	Text	&7Heh heh, okay, well, all right… we’re just about ready to start the movie. So, if you listen carefully, you can hear the orchestra tuning up.
+250.0	Text	&7Hey, now wait a second! Hey, you &8penguins &7can’t go in there! You’ll interrupt the orchestra.
+256.2	Text	&f[&6Fozzie&f] &8Scooter&e! These &8penguins &eare the orchestra!
+259.8	Text	&eC’mon, Eugene! C’mon, Estelle! C’mon, let’s go! Come on, come on!
+265.3	Text	&eAll right… Before we go in, here’s Sam Eagle with some important safety instructions.
+275.4	Text	&f[&eSam Eagle&f] &5Ladies and gentlemen, boys and girls — I am &eSam Eagle&5, and these are some important safety instructions for you —
+283.3	Text	&f[&9Gonzo&f] &3Excuse me — Sam! Sam!
+285.1	Text	&5Not now, &9Gonzo.
+285.9	Text	&3But &eSam&3, this is urgent. Come here!
+291.5	Text	&5What?!
+292.1	Text	&3Yes!
+293.1	Text	&5Really?! Here?!
+293.8	Text	&3Yes, indeed. Right over there!
+295.5	Text	&5Well of course, certainly. Ladies and gentlemen, we have an unexpected surprise. I have the great honor of introducing the one, the only, &5Mr. Mickey Mouse!
+309.4	Text	&f[&3Rizzo&f] &bNa na na na na na na na na na na na na — Hello! Hi there! Welcome to my park. How ya doin’? Hello!
+316.4	Text	&5Whoa, whoa, whoa, whoa!
+317.6	Text	&bWhat?
+317.9	Text	&5You are not &8Mickey Mouse&5 — you are a &5&orat&r&5!
+320.9	Text	&bRat-shmat! Besides, they’re &b&otourists&r&b! What do they know?
+325.4	Text	&5Will you get out of here?!
+326.6	Text	&bOkay, but do I still get my 10 bucks?
+328.2	Text	&5Get out! Get out! Get out!
+329.2	Text	&3I got Donald Duck back here, I —
+330.7	Text	&5Will you get out?!
+331.2	Text	&3Yes!
+333.1	Text	&5I apologize. Now where was I?
+337.8	Text	&5Yes, safety instructions. First, when entering the theatre, please move as far to the end of the row as possible. Stopping in the middle is distinctly un-patriotic.
+348.3	Text	&5Second, do not attempt to walk while wearing your 3D glasses. You may trip — and frankly, you will look —
+355.5	Text	&5What are you doing?
+356.9	Text	&3I’m just showing how you can trip if you walk with your glasses on.
+359.8	Text	&5Will you stop this foolishness?!
+361.3	Text	&3What foolishness would you like to see?
+362.7	Text	&5Will you get out of here?!
+364.0	Text	&3Yes!
+365.1	Text	&3Excuse me, sorry.
+366.4	Text	&5What now?
+367.0	Text	&7We're almost ready, &eSam&7.
+368.3	Text	&5Oh! Fine, fine, fine, fine. Okay, &8Scooter.
+371.2	Text	&5Now, the performers will all go in the theatre first, and then you, the audience, will be admitted. All right, performers! Let us enter in an orderly fashion and provide an example —
+391.4	Text	&5Will… somebody… please take over?
+396.0	Block	152	-145,55,448
+500
+#Lights of
+500.0	Block	0	-152,67,435
+500.0	Block	0	-152,67,434
+
+#Changes signs
+500.0	Block	152	-150,58,440
+
+#Open gate
+500.0	Block	76	-153,59,435
+500.0	Block	76	-153,59,434
+
+#Block off queue signs
+400.0	Block	0	-138,60,454
+400.0	Block	0	-138,61,454
+400.0	Block	0	-140,61,454
+400.0	Block	0	-140,60,454
+400.0	Block	0	-142,60,454
+400.0	Block	0	-142,61,454
+
+#Left hand block off
+500.0	Block	0	-148,61,441
+500.0	Block	0	-148,61,442
+500.0	Block	0	-148,61,443
+500.0	Block	0	-148,61,444
+
+#Right hand block off
+500.0	Block	0	-149,61,448
+500.0	Block	0	-149,61,447
+500.0	Block	0	-148,61,447
+500.0	Block	0	-148,61,446
+
+#Skip pre block off
+500.0	Block	0	-155,61,449
+500.0	Block	0	-154,61,449
+500.0	Block	0	-153,61,449
+
+#Button
+500.0	Block	152	-134,60,442

@@ -1,0 +1,18 @@
+Show	Location	-89,47,-1549
+Show	TextRadius	50
+
+#Effects:
+#Effect	<name>	Type,Color&Color&Color,Color&Color,(optional)Flicker,(optional)Trail
+#Types		Ball, Ball_Large, Burst, Star, Creeper
+#Colors		Aqua (light blue), Black, Blue, Fuchsia (Pink), Gray, Green, Lime, Maroon (Magenta)
+#		Navy, Olive (Brown), Orange, Purple, Red, Silver, Teal (Cyan), White, Yellow (or r;g;b)
+Effect	test1	BURST,ORANGE,YELLOW&RED,TRAIL
+Effect	test2	BURST,FUCHSIA&LIME,AQUA&YELLOW
+
+#Power Firework: This actually moves
+#<seconds>	PowerFirework	<Location(x,y,z)>	<Effect,Effect...>	<Directional force,(x,y,z)>
+#0	PowerFirework	0,15,0	b1	0,1,0
+0	PowerFirework	-89.5,46,-1598.5	test1	0,0.5,0
+3	PowerFirework	-89.5,46,-1598.5	test1	0.8,1,0
+6	PowerFirework	-89.5,46,-1598.5	test2	0.3,1,0.9
+9	PowerFirework	-89.5,46,-1598.5	test2	0,1.5,0

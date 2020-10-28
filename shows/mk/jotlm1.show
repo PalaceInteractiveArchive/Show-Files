@@ -1,0 +1,45 @@
+﻿Show	Location	47,44,-1857
+Show	TextRadius	30
+#Define
+ArmorStand	jotlmscuttle1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRlM2MzNDdlNjBmOGYwMmM3OWI3NmE1ZDgyZDc2ZWFlMmZmNjdkYTY1NTg2ODE2Yjg2ZTc4NjU4MDMyMjYzYSJ9fX0=";299(249,255,254);300(249,255,254);301(249,128,29);0
+#Spawn
+0	ArmorStand	jotlmscuttle1	Spawn	48.6,44.75,-1856.5,110
+#RotateAndPos
+0.1	Block	152	47,41,-1860
+0.1	ArmorStand	jotlmscuttle1	Position	BODY	0,0,0	1
+0.1	ArmorStand	jotlmscuttle1	Position	HEAD	2,-7.65,0	1
+0.1	ArmorStand	jotlmscuttle1	Position	LEG_LEFT	260.78,342,-1	1
+0.1	ArmorStand	jotlmscuttle1	Position	LEG_RIGHT	260.78,24.72,1	1
+0.1	ArmorStand	jotlmscuttle1	Position	ARM_LEFT	275.92,-10,0	1
+0.1	ArmorStand	jotlmscuttle1	Position	ARM_RIGHT	275.92,20,0	1
+#Talk
+4.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,10,0	5.5
+5.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+6.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,0,20	5.5
+7.5	ArmorStand	jotlmscuttle1	Position	HEAD	-20,0,10	5.5
+8.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,20,0	5.5
+9.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+10.5	ArmorStand	jotlmscuttle1	Position	HEAD	-20,0,0	5.5
+11.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,10	5.5
+12.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,0,0	5.5
+13.5	ArmorStand	jotlmscuttle1	Position	HEAD	-20,0,0	5.5
+14.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+15.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,0,0	5.5
+16.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,10,0	5.5
+17.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+18.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,0,20	5.5
+19.5	ArmorStand	jotlmscuttle1	Position	HEAD	-20,0,10	5.5
+20.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,20,0	5.5
+21.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+22.5	ArmorStand	jotlmscuttle1	Position	HEAD	-20,0,0	5.5
+23.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,10	5.5
+24.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,0,0	5.5
+25.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,0,0	5.5
+26.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,10,0	5.5
+27.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+28.5	ArmorStand	jotlmscuttle1	Position	HEAD	20,20,0	5.5
+29.5	ArmorStand	jotlmscuttle1	Position	HEAD	0,20,0	5.5
+30.5	ArmorStand	jotlmscuttle1	Position	HEAD	-20,0,0	5.5
+#Remove/Reset
+34	Block	152	47,41,-1863
+34	ArmorStand	jotlmscuttle1	Despawn

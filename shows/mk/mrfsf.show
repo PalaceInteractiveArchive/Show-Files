@@ -1,0 +1,68 @@
+Show	Location	-89.0,42.0,-1588.0
+Show	TextRadius	150
+Show	Name	Castle
+
+#Audio
+0	AudioStart	mrfsf	0
+0	AudioSync	mrfsf	0
+
+#INTRO | TEXT
+11.1	Text	&7[&eNarrator&7] &eLord and ladies,
+12.9	Text	&eprinces and princesses,
+15	Text	&ecome one, come all to
+17.5	Text	&d&lthe Royal Friendship Faire!
+20.3	Text	&7[&4Mickey&7] &4Hi everybody! 
+21.6	Text	&7[&cMinnie&7] &cThis is gonna be so much fun!
+24.5	Text	&7[&5Daisy&7] &5You’re here!
+25	Text	&7[&3Donald&7] &3Oh boy! Oh boy!
+25.9	Text	&7[&6Goofy&7] &6What a great day!
+27.2	Text	&bOn this day,
+27.9	Text	&7[&4Mickey&7] &4We’re celebrating!
+28.8	Text	&bOn this day,
+29.9	Text	&7[&cMinnie&7] &cWith all our friends.
+30.9	Text	&bWe will weave every thread,
+34.5	Text	&bIn a tapestry of tales for me and you.
+42.1	Text	&bOn this day,
+43	Text	&7[&6Goofy&7] &6It’s a party!
+44.4	Text	&bThis very day,
+45.1	Text	&7[&5Daisy&7] &5So much fun!
+45.9	Text	&7[&3Donald&7] &3Yeah!
+46.1	Text	&bThere are dreams in your head.
+49.7	Text	&bBut today’s the day those dreams are coming true!
+57.3	Text	&bWe are links in a chain made of silver and gold.
+61.1	Text	&bWe are part of a pattern about to unfold.
+65.1	Text	&bWe are heroes of stories, as yet to be told.
+69.8	Text	&bWe come together on this day!
+76.7	Text	&bCome one, come all, come everyone!
+80.4	Text	&bJust come on out and play!
+84.3	Text	&bCome one, come all, and join the fun.
+89.3	Text	&bCome join the special celebration!
+91.5	Text	&bOn this day,
+95.5	Text	&bWe are links in a chain made of silver and gold.
+99.4	Text	&bWe are part of a pattern about to unfold.
+104	Text	&bWe are heroes of stories, as yet to be told.
+107.8	Text	&bWe come together on this day!
+114.6	Text	&bCome one, come all,
+117.9	Text	&bOn this day!
+
+#AFTERINTRO | TEXT
+132.8	Text	&7[&4Mickey&7] &4Looks like everybody’s ready.
+134.9	Text	&7[&cMinnie&7] &cOh Mickey,
+135.4	Text	&cI just love the Friendship Faire
+137.7	Text	&ca day of fun and music and celebrating!
+140.5	Text	&7[&4Mickey&7] &4That’s right!
+141.4	Text	&4We traveled far and wide, inviting new friends to today’s festival.
+146.2	Text	&7[&5Daisy&7] &5It was a long journey!
+147.8	Text	&7[&6Goofy&7] &6We crossed rivers!
+149.2	Text	&7[&3Donald&7] &3And braved forests…
+151.2	Text	&7[&4Mickey&7] &4To bring all sorts of friends together in celebration of what makes this kingdom really unique
+158	Text	&7[&9All Character&7]&9All of us!
+160.5	Text	&7[&cMinnie&7] &cCome on, everyone!
+161.5	Text	&c It’s time to officially kick off the Royal Friendship Faire!
+165.3	Text	&7[&5Daisy&7] &5I can’t wait!
+165.5	Text	&7[&6Goofy&7] &6Let’s go!
+167.9	Text	&7[&cMinnie&7]&cToday is going to be such a wonderful, wonderful day!
+174.1	Text	&cOh?
+175.1	Text	&7[&4Mickey&7] &4Oh boy! I hear our first guest coming now!
+179.5	Text	&7[&6Goofy&7] &6Come on everybody!
+181.4	Text	&7[&cMinie&7] &cOh my goodness!

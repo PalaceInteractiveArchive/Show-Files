@@ -1,0 +1,350 @@
+Show	Location	-142,67,273
+Show	TextRadius	40
+Show	Name	frozenshow
+
+#Text
+14.2	Text	&bLadies and gentlemen, boys and girls,
+18.0	Text	&bAll people of the kingdom of &6Hollywood Land,
+21.2	Text	&bPlease welcome her majesty, the queen of &6Arendelle!
+43.0	Text	&f[&dAnna&f] &dOh... hello!
+45.0	Text	&dYou're already here.
+49.0	Text	&dGreat.
+50.0	Text	&dI mean, it's wonderful!
+52.0	Text	&dI mean...
+57.0	Text	&dHello citizens of the kingdom of &6Hollywood Land.
+60.0	Text	&dI'm Anna.
+61.2	Text	&dOh, I mean princess Anna.
+64.1	Text	&dYou're all here to hear the story of my sister.
+67.8	Text	&dThe queen of &6Arendelle.
+70.2	Text	&dOh, I wonder where she could be.
+71.9	Text	&dHave any of you seen her?
+74.9	Text	&dNo? Well she is about so tall.
+78.0	Text	&dBlonde. Kinda keeps to herself.
+80.1	Text	&dOh, yeah, she has this really weird icy snow powers.
+84.2	Text	&dNo, oh, I know!
+87.2	Text	&dHey Elsa...
+89.1	Text	&d♫ Do you wanna build a snowman? ♫
+94.1	Text	&dYeah that never really works.
+97.0	Text	&dOkay... I am just going to have to do this by myself.
+101.1	Text	&dTo tell our story please help me introduce, the newly appointed,
+105.0	Text	&dRoyal Historians of Arendelle!
+
+#Curtain
+2.0	FakeBlock	160:18 -153,64,282
+2.0	FakeBlock	160:18 -154,67,281
+2.0	FakeBlock	160:18 -151,68,284
+2.0	FakeBlock	160:18 -152,66,283
+2.1	FakeBlock	160:18 -153,65,282
+2.1	FakeBlock	160:18 -153,69,282
+2.1	FakeBlock	160:18 -155,65,280
+2.1	FakeBlock	160:18 -152,67,283
+2.2	FakeBlock	160:18 -151,65,284
+2.2	FakeBlock	160:18 -154,66,281
+2.2	FakeBlock	160:18 -155,68,280
+2.2	FakeBlock	160:18 -153,68,282
+3.0	FakeBlock	160:7 -153,64,282
+3.0	FakeBlock	160:7 -154,67,281
+3.0	FakeBlock	160:7 -151,68,284
+3.0	FakeBlock	160:7 -152,66,283
+3.1	FakeBlock	160:7 -153,65,282
+3.1	FakeBlock	160:7 -153,69,282
+3.1	FakeBlock	160:7 -155,65,280
+3.1	FakeBlock	160:7 -152,67,283
+3.3	FakeBlock	160:7 -151,65,284
+3.3	FakeBlock	160:7 -154,66,281
+3.3	FakeBlock	160:7 -155,68,280
+3.3	FakeBlock	160:7 -153,68,282
+4.0	Block	0	-153,64,282
+4.0	Block	0	-153,65,282
+4.0	Block	0	-153,68,282
+4.0	Block	0	-153,69,282
+4.1	Block	0	-154,66,281
+4.1	Block	0	-154,67,281
+4.1	Block	0	-152,66,283
+4.1	Block	0	-152,67,283
+4.2	Block	0	-151,65,284
+4.2	Block	0	-151,68,284
+4.2	Block	0	-155,65,280
+4.2	Block	0	-155,68,280
+5	Block	0	-154,64,282
+5	Block	0	-154,65,282
+5	Block	0	-154,66,282
+5	Block	0	-154,67,282
+5	Block	0	-154,68,282
+5	Block	0	-154,69,282
+5	Block	0	-154,70,282
+5	Block	0	-153,64,283
+5	Block	0	-153,65,283
+5	Block	0	-153,66,283
+5	Block	0	-153,67,283
+5	Block	0	-153,68,283
+5	Block	0	-153,69,283
+5	Block	0	-153,70,283
+5	Block	252:11	-151,64,285
+5	Block	251:11	-147,64,289
+5	Block	251:11	-147,67,289
+5	Block	252:11	-147,65,289
+5	Block	251:11	-148,65,288
+5	Block	252:11	-148,64,288
+5	Block	251:11	-151,64,285
+5	Block	252:11	-149,68,287
+5	Block	251:11	-151,68,285
+5	Block	252:11	-150,67,286
+5	Block	251:11	-151,67,285
+5	Block	252:11	-151,70,285
+5	Block	251:11	-152,70,284
+5	Block	252:11	-148,68,288
+5	Block	251:11	-150,68,286
+5	Block	252:11	-149,67,287
+5	Block	251:11	-150,67,286
+5	Block	252:11	-150,70,286
+5	Block	251:11	-151,70,285
+5	Block	252:11	-156,70,280
+5	Block	251:11	-155,70,281
+5	Block	252:11	-157,69,279
+5	Block	251:11	-156,69,280
+5	Block	252:11	-159,69,277
+5	Block	251:11	-158,69,278
+5	Block	252:11	-158,65,278
+5	Block	251:11	-157,65,279
+5	Block	252:11	-158,66,278
+5	Block	251:11	-157,66,279
+5	Block	252:11	-160,64,276
+5	Block	251:11	-159,64,277
+6	Block	0	-155,64,281
+6	Block	0	-155,65,281
+6	Block	0	-155,66,281
+6	Block	0	-155,67,281
+6	Block	0	-155,68,281
+6	Block	0	-155,69,281
+6	Block	0	-155,70,281
+6	Block	0	-152,64,285
+6	Block	0	-152,65,285
+6	Block	0	-152,66,285
+6	Block	0	-152,67,285
+6	Block	0	-152,68,285
+6	Block	0	-152,69,285
+6	Block	0	-152,70,285
+6	Block	251:11	-149,64,287
+6	Block	252:11	-149,65,287
+6	Block	252:11	-147,68,289
+6	Block	251:11	-149,68,287
+6	Block	252:11	-148,67,288
+6	Block	251:11	-149,67,287
+6	Block	252:11	-149,70,287
+6	Block	251:11	-150,70,286
+6	Block	251:11	-147,65,289
+6	Block	252:11	-147,64,289
+6	Block	251:11	-150,64,286
+6	Block	252:11	-150,65,286
+6	Block	252:11	-157,70,279
+6	Block	251:11	-156,70,280
+6	Block	252:11	-159,69,277
+6	Block	251:11	-158,69,278
+6	Block	252:11	-159,65,277
+6	Block	251:11	-158,65,278
+6	Block	252:11	-159,66,277
+6	Block	251:11	-158,66,278
+6	Block	251:11	-160,64,276
+7	Block	0	-156,64,280
+7	Block	0	-156,65,280
+7	Block	0	-156,66,280
+7	Block	0	-156,67,280
+7	Block	0	-156,68,280
+7	Block	0	-156,69,280
+7	Block	0	-156,70,280
+7	Block	0	-151,64,286
+7	Block	0	-151,65,286
+7	Block	0	-151,66,286
+7	Block	0	-151,67,286
+7	Block	0	-151,68,286
+7	Block	0	-151,69,286
+7	Block	0	-151,70,286
+7	Block	251:11	-148,64,288
+7	Block	252:11	-148,65,288
+7	Block	251:11	-148,68,288
+7	Block	252:11	-147,67,289
+7	Block	251:11	-148,67,288
+7	Block	251:11	-149,70,287
+7	Block	251:11	-157,70,279
+7	Block	252:11	-160,69,276
+7	Block	251:11	-159,69,277
+7	Block	252:11	-160,65,276
+7	Block	251:11	-159,65,277
+7	Block	252:11	-160,66,276
+7	Block	251:11	-159,66,277
+8	Block	0	-157,64,279
+8	Block	0	-157,65,279
+8	Block	0	-157,66,279
+8	Block	0	-157,67,279
+8	Block	0	-157,68,279
+8	Block	0	-157,69,279
+8	Block	0	-157,70,279
+8	Block	0	-150,64,287
+8	Block	0	-150,65,287
+8	Block	0	-150,66,287
+8	Block	0	-150,67,287
+8	Block	0	-150,68,287
+8	Block	0	-150,69,287
+8	Block	0	-150,70,287
+8	Block	251:11	-147,64,289
+8	Block	252:11	-147,65,289
+8	Block	251:11	-147,67,289
+8	Block	251:11	-147,68,289
+8	Block	251:11	-160,69,276
+8	Block	251:11	-160,65,276
+8	Block	251:11	-160,66,276
+9	Block	78	-158,64,278
+9	Block	0	-158,65,278
+9	Block	0	-158,66,278
+9	Block	0	-158,67,278
+9	Block	0	-158,68,278
+9	Block	0	-158,69,278
+9	Block	0	-158,70,278
+9	Block	0	-149,64,288
+9	Block	0	-149,65,288
+9	Block	0	-149,66,288
+9	Block	0	-149,67,288
+9	Block	0	-149,68,288
+9	Block	0	-149,69,288
+9	Block	0	-149,70,288
+10	Block	78:1	-159,64,277
+10	Block	0	-159,65,277
+10	Block	0	-159,66,277
+10	Block	0	-159,67,277
+10	Block	0	-159,68,277
+10	Block	0	-159,69,277
+10	Block	0	-159,70,277
+10	Block	0	-148,64,288
+10	Block	0	-148,65,288
+10	Block	0	-148,66,288
+10	Block	0	-148,67,288
+10	Block	0	-148,68,288
+10	Block	0	-148,69,288
+10	Block	0	-148,70,288
+11	Block	78:2	-160,64,276
+11	Block	0	-160,65,276
+11	Block	0	-160,66,276
+11	Block	0	-160,67,276
+11	Block	0	-160,68,276
+11	Block	0	-160,69,276
+11	Block	0	-160,70,276
+11	Block	0	-147,64,289
+11	Block	0	-147,65,289
+11	Block	0	-147,66,289
+11	Block	0	-147,67,289
+11	Block	0	-147,68,289
+11	Block	0	-147,69,289
+11	Block	0	-147,70,289
+
+#Lighting
+0	Block	119	-150,71,292
+0	Block	119	-155,71,284
+0	Block	119	-161,71,279
+2.0	Block	95:15	-143,70,263
+2.0	Block	95:15	-139,70,267
+2.0	Block	95:15	-138,70,268
+2.0	Block	95:15	-134,70,272
+4.0	Block	95:15	-146,70,266
+4.0	Block	95:15	-142,70,270
+4.0	Block	95:15	-141,70,271
+4.0	Block	95:15	-137,70,275
+6.0	Block	95:15	-149,70,269
+6.0	Block	95:15	-145,70,273
+6.0	Block	95:15	-144,70,274
+6.0	Block	95:15	-140,70,278
+8.0	Block	95:15	-152,70,272
+8.0	Block	95:15	-148,70,276
+8.0	Block	95:15	-147,70,277
+8.0	Block	95:15	-143,70,281
+10.0	Block	95:15	-155,70,275
+10.0	Block	95:15	-151,70,279
+10.0	Block	95:15	-150,70,280
+10.0	Block	95:15	-146,70,284
+29	Block	119	-153,69,288
+29	Block	119	-156,69,285
+29	Block	119	-159,69,282
+
+#Entrances
+38	FakeBlock	171:5	-151,64,294
+42	FakeBlock	171:14	-151,64,294
+106	FakeBlock	171:5	-163,64,279
+110	FakeBlock	171:14	-163,64,279
+
+#Chat Mutes and Unmutes
+
+#Castle Screen
+0	FakeBlock	98:0	-155,64,292
+0	FakeBlock	98:0	-155,65,292
+0	FakeBlock	98:2	-155,66,292
+0	FakeBlock	109:1	-155,67,292
+0	FakeBlock	44:5	-155,68,292
+0	FakeBlock	98:2	-156,64,291
+0	FakeBlock	98:0	-156,65,291
+0	FakeBlock	98:3	-156,66,291
+0	FakeBlock	168:2	-156,67,291
+0	FakeBlock	101:0	-156,68,291
+0	FakeBlock	98:0	-157,64,290
+0	FakeBlock	98:0	-157,65,290
+0	FakeBlock	98:0	-157,66,290
+0	FakeBlock	98:3	-157,67,290
+0	FakeBlock	98:0	-157,68,290
+0	FakeBlock	168:2	-157,69,290
+0	FakeBlock	101:0	-157,70,290
+0	FakeBlock	109:5	-156,68,290
+0	FakeBlock	171:13	-156,69,290
+0	FakeBlock	109:6	-157,68,289
+0	FakeBlock	171:13	-157,69,289
+0	FakeBlock	1:0	-155,64,289
+0	FakeBlock	98:2	-155,65,289
+0	FakeBlock	98:0	-155,66,289
+0	FakeBlock	98:0	-155,67,289
+0	FakeBlock	5:3	-155,68,289
+0	FakeBlock	44:5	-155,69,289
+0	FakeBlock	198:1	-158,65,288
+0	FakeBlock	198:0	-158,66,288
+0	FakeBlock	136:6	-158,67,288
+0	FakeBlock	126:3	-158,68,288
+0	FakeBlock	167:7	-158,69,288
+0	FakeBlock	5:5	-159,65,288
+0	FakeBlock	5:5	-159,66,288
+0	FakeBlock	5:5	-159,67,288
+0	FakeBlock	5:3	-159,68,288
+0	FakeBlock	168:2	-159,69,288
+0	FakeBlock	44:0	-159,70,288
+0	FakeBlock	168:2	-159,69,289
+0	FakeBlock	171:13	-159,70,289
+0	FakeBlock	168:2	-160,69,288
+0	FakeBlock	171:13	-160,70,288
+0	FakeBlock	198:1	-159,65,287
+0	FakeBlock	198:0	-159,66,287
+0	FakeBlock	136:5	-159,67,287
+0	FakeBlock	126:3	-159,68,287
+0	FakeBlock	167:4	-159,69,287
+0	FakeBlock	1:0	-160,64,287
+0	FakeBlock	98:0	-160,65,287
+0	FakeBlock	98:0	-160,66,287
+0	FakeBlock	98:2	-160,67,287
+0	FakeBlock	5:3	-160,68,287
+0	FakeBlock	44:5	-160,69,287
+0	FakeBlock	98:0	-161,64,286
+0	FakeBlock	98:0	-161,65,286
+0	FakeBlock	98:2	-161,66,286
+0	FakeBlock	98:3	-161,67,286
+0	FakeBlock	98:0	-161,68,286
+0	FakeBlock	168:2	-161,69,286
+0	FakeBlock	101:0	-161,70,286
+0	FakeBlock	109:5	-160,68,286
+0	FakeBlock	171:13	-160,69,286
+0	FakeBlock	109:6	-161,68,285
+0	FakeBlock	171:13	-161,69,286
+0	FakeBlock	98:0	-162,64,285
+0	FakeBlock	98:0	-162,65,285
+0	FakeBlock	98:3	-162,66,285
+0	FakeBlock	168:2	-162,67,285
+0	FakeBlock	101:0	-162,68,285
+0	FakeBlock	98:2	-163,64,284
+0	FakeBlock	98:0	-163,65,284
+0	FakeBlock	98:2	-163,66,284
+0	FakeBlock	109:2	-163,67,284
+0	FakeBlock	44:5	-163,68,284

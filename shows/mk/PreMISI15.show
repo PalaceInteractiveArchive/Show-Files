@@ -1,0 +1,30 @@
+Show	Location	-90,43,-1438
+Show	TextRadius	125
+#Mainstreet Announcements/FenceUp
+1	Block	152	-97,39,-1443
+3	Block	20	-97,39,-1443
+300	Block	152	-97,39,-1442
+302	Block	20	-97,39,-1442
+600	Block	152	-97,39,-1441
+602	Block	20	-97,39,-1441
+720	Block	152	-97,39,-1440
+722	Block	20	-97,39,-1440
+#Audio Announcements
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+660	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+720	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+780	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+840	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+880	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#Text Announcements
+0	Text	&e&o"It's a good time!" &r&e- In just &9&o15 minutes, &r&ewe invite you to join us for the &d&oMove It! &a&oShake It! &b&oMousekedance It! &eStreet Party at &6&o/warp mainstreet&r&e!
+300	Text	&e&o"It's a good time!" &r&e- In just &9&o10 minutes, &r&ewe invite you to join us for the &d&oMove It! &a&oShake It! &b&oMousekedance It! &eStreet Party at &6&o/warp mainstreet&r&e!
+600	Text	&e&o"It's a good time!" &r&e- In just &9&o5 minutes, &r&ewe invite you to join us for the &d&oMove It! &a&oShake It! &b&oMousekedance It! &eStreet Party at &6&o/warp mainstreet&r&e!
+#Show Start
+900

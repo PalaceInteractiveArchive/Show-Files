@@ -1,0 +1,41 @@
+Show    Location    15,43,-1496
+Show    TextRadius    20
+Show    Name    LFQueue
+
+#Audio
+0   AudioStart  LFCDA1
+3   AudioSync   LFCDA1  3
+
+#Text
+0    Block    152    13,36,-1482
+0    Text    &d[Announcer] &eChange has come!
+0    Block    152    13,36,-1483
+2.5    Text    &d[Announcer] &eAnd the Child Detection Agency is NOW the Comedy Detection Agency
+3    Block    152    13,36,-1484
+6    Block    152    13,36,-1485
+7    Text    &d[Announcer] &eNot sure if something is funny?
+9.5    Block    152    13,36,-1486
+9.5    Text    &d[Announcer] &eCall the CDA hotline and we'll be there in a flash.
+13.5    Text    &d[Announcer] &eWe know comedy is hard,
+14    Block    152    13,36,-1487
+15.5    Text    &eso now the CDA is here to help.
+18    Text    &d[Announcer] &eReady to drop in on a moment's notice,
+18    Block    152    13,36,-1488
+21    Text    &eto scientifically find and evaluate humor.
+24.5    Text    &3[Male Voice] &63.8 Gigglewatts
+24.5    Block    152    13,36,-1489
+26.5    Text    &a[Wazowski] Aaaaah!
+27    Text    &3[Male Voice] &64.7 Gigglewatts.
+27    Block    152    13,36,-1490
+30    Text    &67... 8... 9... 10.3 Gigglewatts.
+30    Block    152    13,36,-1491
+33.5    Text    &7(Robotic Laughter)
+35.5    Text    &d[Announcer] &eAgents are available day and night.
+37.8    Text    &7[00002] No, ma'am, ventriloquists are never funny.
+37.8    Block    152    13,36,-1492
+40    Text    &d[Announcer] &eThe future of energy is a joke,
+40    Block    152    13,36,-1493
+42.5    Text    &eand the Comedy Detection Agency is here to help.
+45.8    Block    152    13,36,-1494
+45.8    Text    &eThe CDA. We take comedy seriously.
+50    Block    152    13,36,-1495

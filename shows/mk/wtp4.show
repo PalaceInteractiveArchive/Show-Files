@@ -1,0 +1,96 @@
+﻿Show	Location	-9,46,-1679
+Show	TextRadius	25
+#ArmorStandsDefine
+ArmorStand	wtppooh2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIzYmJjMzQ1NGExNzk2MzdkNWJhNGY3NGViMmU4ZmM4NWZjZWI3NzcxYzFlNWVlMjI1MzIyNzA3OTAxOSJ9fX0=";299(193,152,219);300(254,216,61);301(254,216,61);0
+#Flash
+1.1	Block	35:15	-11,47,-1690
+1.6	Block	89	-11,47,-1690
+1.7	Block	35:15	-11,47,-1690
+1.8	Block	89	-11,47,-1690
+2	Block	35:15	-11,47,-1690
+2.1	Block	35:15	-11,47,-1690
+2.6	Block	89	-11,47,-1690
+2.7	Block	35:15	-11,47,-1690
+2.8	Block	89	-11,47,-1690
+3	Block	35:15	-11,47,-1690
+#Spawn
+0	ArmorStand	wtppooh2	Spawn	-6.531,46.7425,-1677.5,135
+#StartPos
+0.1	ArmorStand	wtppooh2	Position	HEAD	35,0,0	0.5
+0.1	ArmorStand	wtppooh2	Position	LEG_LEFT	-70,-10,0	0.5
+0.1	ArmorStand	wtppooh2	Position	LEG_RIGHT	-70,10,0	0.5
+#Move
+5	ArmorStand	wtppooh2	Move	-6.531,49.4425,-1677.5	7
+5.5	ArmorStand	wtppooh2	Position	LEG_LEFT	40,0,-10	9.5
+5.5	ArmorStand	wtppooh2	Position	LEG_RIGHT	40,0,10	9.5
+5.5	ArmorStand	wtppooh2	Position	BODY	10,0,0	9.5
+5	Block	173	-8,52,-1679
+#ArmorSwitch
+5.3	Block	152	-12,41,-1683
+#Reset
+14	Block	89	-8,52,-1679
+14	ArmorStand	wtppooh2	Despawn
+#DoorOpen1
+3	Block	0	-11,46,-1682
+3	Block	0	-11,47,-1682
+3	Block	0	-11,48,-1682
+3	Block	128:1	-12,46,-1682
+3	Block	5:0	-12,47,-1682
+3	Block	24:2	-12,48,-1682
+#DoorOpen2
+3.5	Block	0	-12,46,-1682
+3.5	Block	0	-12,47,-1682
+3.5	Block	0	-12,48,-1682
+3.5	Block	128:2	-12,46,-1681
+3.5	Block	128:2	-11,46,-1681
+3.5	Block	5:0	-12,47,-1681
+3.5	Block	24:2	-12,48,-1681
+3.5	Block	128:3	-12,46,-1683
+3.5	Block	128:3	-11,46,-1683
+3.5	Block	5:0	-12,47,-1683
+3.5	Block	24:2	-12,48,-1683
+#DoorOpen3
+4	Block	0	-12,46,-1683
+4	Block	0	-12,47,-1683
+4	Block	0	-12,48,-1683
+4	Block	0	-11,46,-1683
+4	Block	0	-11,47,-1683
+4	Block	0	-11,48,-1683
+4	Block	0	-12,46,-1681
+4	Block	0	-12,47,-1681
+4	Block	0	-12,48,-1681
+4	Block	0	-11,46,-1681
+4	Block	0	-11,47,-1681
+4	Block	0	-11,48,-1681
+#DoorClose1
+13	Block	128:2	-12,46,-1681
+13	Block	5:0	-12,47,-1681
+13	Block	24:2	-12,48,-1681
+13	Block	128:3	-12,46,-1683
+13	Block	5:0	-12,47,-1683
+13	Block	24:2	-12,48,-1683
+13	Block	128:2	-11,46,-1681
+13	Block	5:0	-11,47,-1681
+13	Block	24:2	-11,48,-1681
+13	Block	128:3	-11,46,-1683
+13	Block	5:0	-11,47,-1683
+13	Block	24:2	-11,48,-1683
+#DoorClose2
+13.5	Block	0	-12,46,-1681
+13.5	Block	0	-12,47,-1681
+13.5	Block	0	-12,48,-1681
+13.5	Block	0	-12,46,-1683
+13.5	Block	0	-12,47,-1683
+13.5	Block	0	-12,48,-1683
+13.5	Block	128:1	-12,46,-1682
+13.5	Block	5:0	-12,47,-1682
+13.5	Block	24:2	-12,48,-1682
+13.5	Block	128:1	-11,46,-1681
+13.5	Block	128:1	-11,46,-1683
+#DoorClose3
+14	Block	0	-12,46,-1682
+14	Block	0	-12,47,-1682
+14	Block	0	-12,48,-1682
+14	Block	128:1	-11,46,-1682
+14	Block	5:0	-11,47,-1682
+14	Block	24:2	-11,48,-1682

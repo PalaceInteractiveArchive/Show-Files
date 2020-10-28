@@ -1,0 +1,92 @@
+Show	Location	195,64,2711
+Show	TextRadius	5
+4.9	Text	&6Welcome, to the &6&OInternational Space Training Center.
+8.2	Text	&6You're here today to train for the greatest adventure in the history of man-kind.
+12.5	Text	&6&OThe exploration of deep space
+15.5	Text	&6I know you're probably feeling a little bit nervous right now, but don't worry every astronaut has felt that way at one time or another, even the heroes who went to the moon.
+24.4	Text	&6But there is one thing that they had that you don't have: 
+28.6	Text	&6&OTraining.
+30.6	Text	&6Right now at NASA and ISTC facilities around the world, future astronauts are learning how to live and work in space.
+39.6	Text	&6But you're here today for flight training. &6&OThe most thrilling experience that any astronaut candidate will ever have.
+46.2	Text	&6Before you decide if it's right for you let me introduce you to your spacecraft.
+50.7	Text	&6&OThe X-2 deep space shuttle. It's powered by solid hydrogen and can accelerate from 0 to 6000 in 60 seconds.
+58.4	Text	&6So when you hear the words 'Go for launch', you'll definitely want to hang on.
+63.2	Text	&6Now you've already been organized into teams, and soon each of you will be assigned a position. &L&O&ANavigator, &L&O&BPilot, &L&O&9Commander, &6or &L&O&DEngineer.
+72.4	Text	&6And the success of your mission will depend on all of you working together as a team. 
+77.6	Text	&6I'll be your CapCom, and in a few minutes I'll give all of you specific assignments, but first our flight director has some safety instructions for you.
+86.2	Text	&6Lieutenant.
+89.4	Text	&6&ODuring your mission, you will be enclosed inside X-2 flight trainers that produce deep space flying conditions, such as turbulence and g-forces.
+98.9	Text	&6&OThose who are made uncomfortable by enclosed dark spaces, simulators, or loud noises should bypass this experience.
+108.7	Text	&6As you can see astronaut flight training isn't like anything you've experienced before.
+114.1	Text	&6It is intense, and if you would like to opt out, you can sign up for mission control training in the advanced training lab.
+124.8	Text	&6As for the rest of you, report for your pre flight briefing.
+128.9	Text	&6&OIt's go time!
+133.1	Text	&6&OCongratulations team! You've been selected to train for an elite mission: &6&O&LThe First Mission To Mars! &6Please continue into your deep space trainers to continue your training for this historic mission!
+#Signs/TVs/Doors/Stations
+0	Block	76:0	197,62,2707
+0	Block	76:0	198,62,2708
+0	Block	41	197,62,2713
+0	Block	41	193,62,2709
+0	Block	152	189,68,2720
+0.5	Block	20	189,68,2720
+0	Block	152	189,68,2721
+0.5	Block	20	189,68,2721
+#AudioServer
+0	Block	152	197,61,2708
+0.5	Block	20	197,61,2708
+#Sync
+7.1	Block	152	198,61,2709
+7.6	Block	20	198,61,2709
+#Playsound
+0	Block	152	190,69,2721
+0.5	Block	20	190,69,2721
+0	Block	152	189,65,2718
+0	Block	152	189,65,2720
+0.5	Block	20	189,65,2720
+3.8	Block	152	188,65,2720
+4.1	Block	20	188,65,2720
+15.5	Block	152	187,65,2720
+16	Block	20	187,65,2720
+29.6	Block	152	189,65,2720
+30	Block	20	189,65,2720
+30.3	Block	152	189,65,2721
+30.8	Block	20	189,65,2721
+34.6	Block	152	188,65,2721
+35	Block	20	188,65,2721
+38.9	Block	152	189,65,2720
+39.3	Block	20	189,65,2720
+39.5	Block	152	187,65,2720
+40	Block	20	187,65,2720
+50	Block	152	187,65,2721
+50.5	Block	20	187,65,2721
+63.1	Block	152	187,65,2720
+63.5	Block	20	187,65,2720
+87.9	Block	152	189,65,2722
+88.3	Block	20	189,65,2722
+100.5	Block	152	188,68,2720
+101	Block	20	188,68,2720
+108.8	Block	152	187,65,2720
+109.2	Block	20	187,65,2720
+114.1	Block	152	187,68,2722
+114.5	Block	20	187,68,2722
+131	Block	152	188,65,2720
+131.4	Block	20	188,65,2720
+133.1	Block	152	189,65,2720
+133.5	Block	20	189,65,2720
+133.1	Block	152	187,68,2720
+133.5	Block	20	187,68,2720
+133.1	Block	76:0	197,62,2713
+133.1	Block	76:0	193,62,2709
+161.3	Block	152	189,68,2720
+161.6	Block	20	189,68,2720
+161.3	Block	41	197,62,2713
+161.3	Block	41	193,62,2709
+161.3	Block	152	199,66,2713
+161.6	Block	20	199,66,2713
+166.7	Block	152	189,61,2718
+167.1	Block	20	189,61,2718
+166.7	Block	152	188,65,2722
+167.1	Block	20	188,65,2722
+170	Block	57	197,62,2707
+170	Block	57	198,62,2708
+170	Block	35:7	189,65,2718

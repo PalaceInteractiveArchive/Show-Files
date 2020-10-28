@@ -1,0 +1,42 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+Show	Name	Castle
+
+#Fireworks
+Effect	canada1		BALL_LARGE,RED&WHITE,FLICKER
+
+0	PowerFirework	-109,60,-1619	canada1		0,1,0
+0	PowerFirework	-115,73,-1633	canada1		0,1,0
+0	PowerFirework	-100,70,-1622	canada1		0,1,0
+1	PowerFirework	-73,76,-1632	canada1		0,1,0
+0	PowerFirework	-57,79,-1631	canada1		0,1,0
+1	PowerFirework	-61,64,-1636	canada1		0,1,0
+
+1.5	PowerFirework	-109,60,-1619	canada1		0,1,0
+2	PowerFirework	-115,73,-1633	canada1		0,1,0
+2.5	PowerFirework	-100,70,-1622	canada1		0,1,0
+1.5	PowerFirework	-73,76,-1632	canada1		0,1,0
+0.5	PowerFirework	-57,79,-1631	canada1		0,1,0
+1	PowerFirework	-61,64,-1636	canada1		0,1,0
+
+3	PowerFirework	-109,60,-1619	canada1		0,1,0
+2.5	PowerFirework	-115,73,-1633	canada1		0,1,0
+3.1	PowerFirework	-100,70,-1622	canada1		0,1,0
+4.1	PowerFirework	-73,76,-1632	canada1		0,1,0
+3.6	PowerFirework	-57,79,-1631	canada1		0,1,0
+4.2	PowerFirework	-61,64,-1636	canada1		0,1,0
+
+4.8	PowerFirework	-109,60,-1619	canada1		0,1,0
+5.3	PowerFirework	-115,73,-1633	canada1		0,1,0
+5.0	PowerFirework	-100,70,-1622	canada1		0,1,0
+4.3	PowerFirework	-73,76,-1632	canada1		0,1,0
+5.0	PowerFirework	-57,79,-1631	canada1		0,1,0
+
+#HappyCanadaDay
+
+0	Block	152		-107,36,-1592
+5	Block	152		-105,36,-1592
+
+#Text
+
+5	Text	&c&l---()-===> &f&lHappy &c&lCanada &f&lDay &c&l<===-()---

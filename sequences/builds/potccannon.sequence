@@ -1,0 +1,41 @@
+Sequence	Build
+Build	POTCCannon	POTCCannon
+0.5	POTCCannon	Spawn	-487.5,38.5,-1428.5
+0.6	POTCCannon	Move	-487.5,38.5,-1430	40
+3.6	POTCCannon	Move	-487.5,38.5,-1428.5	60
+6.7	POTCCannon	Despawn
+Build	POTCCannon2	POTCCannon2
+7	POTCCannon2	Spawn	-495.5,38.5,-1429.5
+7.7	POTCCannon2	Move	-495.5,38.5,-1431	40
+10.7	POTCCannon2	Move	-495.5,38.5,-1429.5	60
+13.8	POTCCannon2	Despawn
+Build	POTCCannon3	POTCCannon3
+16	POTCCannon3	Spawn	-491.5,38.5,-1429.5
+16.1	POTCCannon3	Move	-491.5,38.5,-1431	40
+19.1	POTCCannon3	Move	-491.5,38.5,-1429.5	60
+22.2	POTCCannon3	Despawn
+Build	POTCCannon4	POTCCannon4
+20	POTCCannon4	Spawn	-493.5,38.5,-1429.5
+20.1	POTCCannon4	Move	-493.5,38.5,-1431	40
+23.1	POTCCannon4	Move	-493.5,38.5,-1429.5	60
+26.2	POTCCannon4	Despawn
+Build	POTCCannon5	POTCCannon5
+22	POTCCannon5	Spawn	-497.5,38.5,-1429.5
+22.1	POTCCannon5	Move	-497.5,38.5,-1431	40
+25.1	POTCCannon5	Move	-497.5,38.5,-1429.5	60
+28.2	POTCCannon5	Despawn
+Build	POTCCannon11	POTCCannon11
+11.1	POTCCannon11	Spawn	-487.5,40.5,-1444.5
+11.2	POTCCannon11	Move	-487.5,40.5,-1442	40
+14.2	POTCCannon11	Move	-487.5,40.5,-1444.5	60
+17.3	POTCCannon11	Despawn
+Build	POTCCannon12	POTCCannon12
+11.8	POTCCannon12	Spawn	-484.5,40.5,-1445.5
+11.9	POTCCannon12	Move	-484.5,40.5,-1443	40
+14.9	POTCCannon12	Move	-484.5,40.5,-1445.5	60
+18.0	POTCCannon12	Despawn
+Build	POTCCannon13	POTCCannon13
+21.5	POTCCannon13	Spawn	-490.5,40.5,-1443.5
+21.6	POTCCannon13	Move	-490.5,40.5,-1441	40
+24.6	POTCCannon13	Move	-490.5,40.5,-1443.5	60
+27.7	POTCCannon13	Despawn

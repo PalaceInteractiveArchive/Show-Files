@@ -1,0 +1,80 @@
+Show	Location	-90,44,-1550
+Show	TextRadius	5000
+Show	Name	Castle
+
+#Start Show
+900 Block   152 -71,31,-1597
+
+#Stop Harold
+0   Block   152 -90,35,-1328
+
+#Fences
+0   Block   152 -82,28,-1611
+0   Block   152 90,28,-1611
+0	Schematic	CastleBackClose	-82	45	-1651	mk	false
+
+#Broadcasts
+0	Block	152	-71,31,-1601
+300	Block	152	-71,31,-1600
+600	Block	152	-71,31,-1599
+780	Block	152	-71,31,-1598
+
+#Audio
+300 Block   152 -174,17,-1398
+300	AudioStart	nss-pre
+302	AudioSync	nss-pre 2
+310	AudioSync	nss-pre	10
+315	AudioSync	nss-pre	15
+330	AudioSync	nss-pre	30
+360	AudioSync	nss-pre	60
+420	AudioSync	nss-pre	120
+480	AudioSync	nss-pre	180
+540	AudioSync	nss-pre	240
+600	AudioSync	nss-pre	300
+660	AudioSync	nss-pre	360
+720	AudioSync	nss-pre	420
+780	AudioSync	nss-pre	480
+840	AudioSync	nss-pre	540
+
+#BackClose
+0	Schematic	CastleBackClose	-82	45	-1651	mk	false
+
+0	Text	&6Ladies and gentlemen, bats and ghouls, In just &e&l15 minutes &6we invite you join us as &dPalace&6 will proudly present the &5&o&lNot So Spooky Spectacular! &6at &e/warp Castle&6!
+300	Text	&6Ladies and gentlemen, bats and ghouls, In just &e&l10 minutes &6we invite you join us as &dPalace&6 will proudly present the &5&o&lNot So Spooky Spectacular! &6at &e/warp Castle&6!
+600	Text	&6Ladies and gentlemen, bats and ghouls, In just &e&l5 minutes &6we invite you join us as &dPalace&6 will proudly present the &5&o&lNot So Spooky Spectacular! &6at &e/warp Castle&6!
+780 Text    &6Ladies and gentlemen, bats and ghouls, In just &e&l2 minutes &6we invite you join us as &dPalace&6 will proudly present the &5&o&lNot So Spooky Spectacular! &6at &e/warp Castle&6!
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+65  Text    &6Please ensure that your render distance is set to &e14 or higher &6and your &eparticles &6are turned on to experience this preformance. 
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+145 Text    &6Please ensure that your render distance is set to &e14 or higher &6and your &eparticles &6are turned on to experience this preformance. 
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+425 Text    &6Please ensure that your render distance is set to &e14 or higher &6and your &eparticles &6are turned on to experience this preformance. 
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+545 Text    &6Please ensure that your render distance is set to &e14 or higher &6and your &eparticles &6are turned on to experience this preformance. 
+660	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+720	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+725 Text    &6Please ensure that your render distance is set to &e14 or higher &6and your &eparticles &6are turned on to experience this preformance. 
+780	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+840	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+885 Text    &6Please ensure that your render distance is set to &e14 or higher &6and your &eparticles &6are turned on to experience this preformance. 
+880	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+
+#Lights
+895 Block   152 -92,28,-1611
+895 Block   152 -95,30,-1611
+895 Block   152 -98,28,-1611
+895 Block   0   -96,43,-1597
+895 Block   0   -84,43,-1597
+
+895 Block   1   -90,54,-1620
+895 Block   0   -83,69,-1621
+895 Block   0   -97 69 -1621
+895 Block   1   -90,44,-1619
+
+893 Block   152 -176,17,-1398
+
+#Chat
+895 Block   152 -86,28-1611

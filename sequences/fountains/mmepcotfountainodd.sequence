@@ -1,0 +1,61 @@
+Sequence	Fountain
+#Reaative, 0.[fountain number] added on
+#Absolute, does not change
+#Relative
+0	Block	95:0
+0.1	Spawn	0,0.5,0
+4.7	Block	95:11
+9.7	Despawn
+#Absolute
+14.4	Block	95:3
+14.5	Spawn	0,0.6,0
+40.8	Block	95:7
+40.8	Move	0,0.7,0	70
+44.3	Move	0,0.5,0	70
+#Below alternate, if even 15 and 11, odd 9 and 8
+48	Block	95:15
+50	Block	95:11
+52	Block	95:15
+54	Block	95:11
+56	Block	95:15
+58	Block	95:11
+58.5	Block	95:0
+58.5	Move	0,0.7,0	1
+58.7	Move	0,0.5,0	10
+59.3	Move	0,0.7,0	1
+59.5	Move	0,0.5,0	10
+#Alternate between 1 (even) and 11 (odd)
+63.0	Block	95:11
+77.5	Block	95:6
+93.8	Block	95:0
+119.1	Block	95:1
+#Even, stay at 1, odd, go to 3
+124.9	Block	95:3
+147.5	Block	95:4
+169.2	Block	95:15
+#Even go to 14, odd go to 11
+170.7	Block	95:11
+180.2	Block	95:0
+183.5	Block	95:3
+186.7	Block	95:4
+189.8	Block	95:5
+193.1	Block	95:6
+#Even go to 13, odd go to 14
+201.1	Block	95:14
+204.5	Block	95:13
+208.5	Block	95:14
+211.5	Block	95:13
+215.5	Block	95:14
+218.5	Block	95:13
+221.5	Block	95:14
+224.5	Block	95:13
+227.9	Block	95:0
+254.5	Block	95:14
+255.5	Block	95:1
+256.5	Block	95:4
+257.5	Block	95:5
+258.5	Block	95:11
+259.5	Block	95:10
+260.5	Block	95:6
+261.2	Block	95:0
+267	Despawn

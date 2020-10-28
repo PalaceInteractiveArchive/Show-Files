@@ -1,0 +1,84 @@
+Show	Location	-90,42.0,-1589.0
+Show	TextRadius	150
+Show	Name	Castle
+
+0.0	AudioStart	dreamup
+
+0.0 Text    &6Within each of us, is a dreamer, just waiting to be awakened.
+5.0 Text    &6We all have the magic, to unlock this inner child.
+10.0    Text    &6But sometimes, that inner child, needs an invitation to come out and play,
+16.2    Text    &6This is your invitation, to dream.
+26.0    Text    &d&oThe world is a carousel of colour.
+31.0    Text    &d&oThe world is a carousel of colour..
+35.0    Text    &d&oThe world is a carousel of colour...
+42.0    Text    &dThe world is a carousel of colour!
+45.0    Text    &d&oWonderful, wonderful colour.
+49.0    Text    &dA rainbow of imagination....
+56.0    Text    &dThe blue rolling sea
+62.5    Text    &dThe red summer rose
+68.0    Text    &dA sunset in the sky...
+76.0    Text    &dThere's beauty untold
+79.0    Text    &dThat's ours to behold
+79.9    Text    &dTo dazzle your mind in your eyes...
+86.5    Text    &dThe wonderful world of colour.
+94.0    Text    &dThe wonderful world of colour..
+99.0    Text    &dSo wonderful, so beautiful.
+102.0   Text    &dTo see....
+110.0   Text    &dAdventure is waiting, let it open your eyes.
+117.0   Text    &dImagine and see, what wonders can be, It's journey can hold up your eyes....
+131.0   Text    &eDream, of a beautiful new world.
+135.0   Text    &eWhere imagination soars to new hights.
+151.0   Text    &eAnd dream, up....
+155.0   Text    &e&oDream up, dream up, dream up..
+158.0   Text    &e&oDream up, and lets get carried away...
+162.0   Text    &eAnd let's get carried away, come get carried away. carried away.....
+169.0   Text    &eLook around! There's a new dream starting now, can you feel it? In the air, let it lift you off the ground...
+183.0   Text    &eCelebration, you and me. Imagination, is all we need. I see all the magic in your eyes...
+195.0   Text    &eSo dream... Come get carried away, Make a wish and it will lead you, let's get carried away. 
+207.0   Text    &eLet's get carried away, hold on tight I'm right beside you.
+224.0   Text    &aImagination.... Imagination....
+237.0   Text    &aDream a fantastic dream... Use your imagination...
+282.0   Text    &bWith the stillness, of the night.
+287.0   Text    &bThere comes a time, to understand.
+293.0   Text    &bTo reach out, and touch tomorrow,
+299.0   Text    &bHave the future in our hands, we can see a new horizon, built on all that we have done, and our dreams begin another having circles round the dawn.
+328.0   Text    &b&lWe go on!
+329.0   Text    &bTo the joy and through the tears...
+333.0   Text    &b&lWe go on!
+335.0   Text    &bTo discover new frontiers
+339.0   Text    &b&lMoving on!
+341.0   Text    &bWith the current of the years.
+345.0   Text    &b&lWe go on!
+346.0   Text    &bMoving forward, now as one
+349.0   Text    &b&lMoving on!
+350.0   Text    &bWith a spirit born to run
+355.0   Text    &b&lEver on!
+357.0   Text    &bWith each rising sun, To a new day. 
+400.0   Text    &b&lWe go on,
+422.0   Text    &b&l&nWe go on!
+432.0   Text    &7The second star to the right, shines in the night for you....
+442.0   Text    &7Will tell you that the dreams you have, really can come true.
+449.0   Text    &7The second star to the right, shines in a light that's bright..
+460.0   Text    &7And if it's neverland you need, it's light will lead you, there...
+486.0   Text    &9Ready to begin, let the wonder, take hold.
+496.0   Text    &5Let it draw you in, watch the moment, unfold.
+503.0   Text    &1Spark a dream that you're meant to follow, setting out for a new tommarow.
+514.0   Text    &9Every step we take, brings a new hope a new day,
+521.0   Text    &5Every choice we make, helps us find our, own way.
+529.0   Text    &1Every wish finally put into motion, Diving in with our hearts wide open.
+948.0   Text    &cChewie, we're home.
+
+# -- BEAMS & ACTUAL SHOW STUFF START AFTER HERE!!!
+
+469.0   Sequence    Light   polarbeams
+431.2	Block	152	-101,23,-1600
+433.2	Block	152	-100,23,-1600
+
+# -- FOUNTAINS FOR WOC AREA BELOW
+
+# add later lol
+# block id for fountains teeeheee 174
+
+
+
+

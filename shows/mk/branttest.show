@@ -1,0 +1,62 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	150
+0	Sequence	Light	healights
+0.2	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+0.5	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+0.8	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+1.1	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+1.4	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+1.7	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+2.0	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+2.3	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+2.6	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+2.9	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+3.2	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+3.5	Sequence	Laser	HEAtest1	-91.5,60,-1618.5	-91.5,60,-1615.1
+
+0.2	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+0.5	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+0.8	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+1.1	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+1.4	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+1.7	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+2.0	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+2.3	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+2.6	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+2.9	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+3.2	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+3.5	Sequence	Laser	HEAtest2	-89.5,60,-1617.5	-89.5,60,-1615.1
+
+#	Block	152	0,0,0
+
+#Effects
+
+#Effects
+Effect	ball1 	BALL_LARGE,255;0;0&255;110;73&255;213;61,255;177;65&255;229;196&221;242;255&221;242;255,FLICKER,TRAIL
+Effect	burst1 	BURST,255;0;0&255;110;73&255;213;61,255;177;65&255;229;196&221;242;255&221;242;255,FLICKER,TRAIL
+
+99.5  Firework	-94,101,-1627	ball1,ball1	0	0,1,0	1
+99.5  Firework  -75,101,-1627 ball1,ball1  0 0,1,0 1
+99.5  Firework  -87,112,-1627 ball1,ball1  0 0,1,0 1
+#Left Burst - Intro 99.5
+99.5  PowerFirework  -105,66,-1628  burst1	-0.8,10,0
+99.5  PowerFirework  -105,66,-1628  burst1	-0.8,10,0
+99.5  PowerFirework  -105,66,-1628  burst1	-0.8,10,0
+#Right Burst - Intro
+99.5  PowerFirework  -69,66,-1628  burst1	0.8,10,0
+99.5  PowerFirework  -69,66,-1628  burst1	0.8,10,0
+99.5  PowerFirework  -69,66,-1628  burst1	0.8,10,0
+
+#Burst round 2 - both sides
+106.1  PowerFirework  -98,67,-1623  burst1	-1,10,0
+106.3  PowerFirework  -98,75,-1633  burst1	-1,10,0
+106.5  PowerFirework  -76,67,-1623  burst1	1,25,0
+106.5  PowerFirework  -76,75,-1633  burst1	1,25,0
+
+106.8  PowerFirework  -108,47,-1614  burst1	-1,2,0
+106.8  PowerFirework  -108,47,-1614  burst1	-1,2,0
+106.8  PowerFirework  -108,47,-1614  burst1	-1,2,0
+106.8  PowerFirework  -72,47,-1614  burst1	1,2,0
+106.8  PowerFirework  -72,47,-1614  burst1	1,2,0
+106.8  PowerFirework  -72,47,-1614  burst1	1,2,0
+106.8  Firework	-85,109,-1629	ball1	0	0,1,0	1

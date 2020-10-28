@@ -1,0 +1,66 @@
+Show	Location	-195,41,85
+Show	TextRadius	50
+Show	Name	Travel
+
+
+Effect	f1	BURST,WHITE&PURPLE,FLICKER
+Effect	f2	BURST,RED&WHITE,FLICKER
+Effect	f3	BURST,ORANGE&WHITE,FLICKER
+Effect	f4	BURST,YELLOW&WHITE,FLICKER
+Effect	f5	BURST,LIME&WHITE,FLICKER
+Effect	f6	BURST,TEAL&WHITE,FLICKER
+Effect	Ball	BALL,RED&YELLOW&ORANGE,WHITE,FLICKER
+Effect	Ball2	BALL,LIME&TEAL&WHITE,BLACK,TRAIL,FLICKER
+Effect	Lball	BALL_LARGE,TEAL&WHITE,BLACK,FLICKER,TRAIL
+Effect	star	STAR,LIME&YELLOW,WHITE,TRAIL
+
+
+1	PowerFirework	-207,42,71	f1	0,0,0
+1.1	PowerFirework	-206,43,70	f1	0,0,0
+1.2	PowerFirework	-207,44,71	f1	0,0,0
+1.3	PowerFirework	-206,45,70	f1	0,0,0
+1.4	PowerFirework	-207,46,71	f1	0,0,0
+1.5	PowerFirework	-206,47,70	f1	0,0,0
+1.6	PowerFirework	-207,48,71	f1	0,0,0
+1.7	PowerFirework	-206,49,70	f1	0,0,0
+1.8	PowerFirework	-207,50,71	f1	0,0,0
+1.9	PowerFirework	-206,51,70	f1	0,0,0
+
+1	PowerFirework	-207,42,79	f1	0,0,0
+1.1	PowerFirework	-206,43,80	f1	0,0,0
+1.2	PowerFirework	-207,44,79	f1	0,0,0
+1.3	PowerFirework	-206,45,80	f1	0,0,0
+1.4	PowerFirework	-207,46,79	f1	0,0,0
+1.5	PowerFirework	-206,47,80	f1	0,0,0
+1.6	PowerFirework	-207,48,79	f1	0,0,0
+1.7	PowerFirework	-206,49,80	f1	0,0,0
+1.8	PowerFirework	-207,50,79	f1	0,0,0
+1.9	PowerFirework	-206,51,80	f1	0,0,0
+
+3	PowerFirework	-213,47,68	star	0,0,0
+3.4	PowerFirework	-215,46,83	star	0,0,0
+3.6	PowerFirework	-223,45,75	star	0,0,0
+
+4.5	PowerFirework	-210,45,75	Ball2	0,0,0
+
+5	PowerFirework	-210,42,70	f2	0,0,0
+5.5	PowerFirework	-210,42,71	f3	0,0,0
+6	PowerFirework	-210,42,72	f4	0,0,0
+6.5	PowerFirework	-210,42,73	f5	0,0,0
+7	PowerFirework	-210,42,74	f6	0,0,0
+7.5	PowerFirework	-210,42,75	f1	0,0,0
+
+5	PowerFirework	-210,42,80	f2	0,0,0
+5.5	PowerFirework	-210,42,79	f3	0,0,0
+6	PowerFirework	-210,42,78	f4	0,0,0
+6.5	PowerFirework	-210,42,77	f5	0,0,0
+7	PowerFirework	-210,42,76	f6	0,0,0
+7.5	PowerFirework	-210,42,75	f1	0,0,0
+
+9	PowerFirework	-200,44,62	Ball	0,5,0
+9	PowerFirework	-200,44,88	Ball	0,5,0
+
+10	PowerFirework	-204,48,66	Ball2	0,0,0
+10	PowerFirework	-204,48,84	Ball2	0,0,0
+
+11	PowerFirework	-197,52,75	Lball	0,0,0

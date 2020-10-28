@@ -1,0 +1,29 @@
+Show	Location	-90,42,-1589
+Show	TextRadius	75
+Show	Name	prideshow
+
+#Rail
+0	Block	166	-113,69,2511
+
+#Beacon Placement Left
+0	Block	138	-106,34,-1610
+0	Block	138	-107,34,-1609
+0	Block	138	-108,34,-1608
+0	Block	138	-109,34,-1607
+0	Block	138	-110,34,-1606
+0	Block	138	-111,34,-1605
+0	Block	138	-112,34,-1604
+0	Block	138	-113,34,-1603
+0	Block	138	-114,34,-1602
+
+#Beacon Placement Right
+0	Block	138	-74,34,-1610
+0	Block	138	-73,34,-1609
+0	Block	138	-72,34,-1608
+0	Block	138	-71,34,-1607
+0	Block	138	-70,34,-1606
+0	Block	138	-69,34,-1605
+0	Block	138	-68,34,-1604
+0	Block	138	-67,34,-1603
+0	Block	138	-66,34,-1602
+

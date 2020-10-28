@@ -1,0 +1,73 @@
+﻿Show	Location	-277,43,-1741
+Show	TextRadius	4
+#StopTestFor
+0	Block	0	-269,40,-1741
+#CloseMainDoor1
+4	Block	5:0	-286,44,-1740
+4	Block	5:0	-286,43,-1740
+#CloseMainDoor2
+5	Block	5:0	-286,44,-1739
+5	Block	5:0	-286,43,-1739
+5	Block	5:0	-287,44,-1741
+5	Block	5:0	-287,43,-1741
+#CloseLeftDoor
+0	Block	17:1	-280,43,-1744
+0	Block	17:1	-279,43,-1745
+1	Block	17:1	-280,44,-1744
+1	Block	17:1	-279,44,-1745
+#CloseRightDoor
+0	Block	17:1	-275,43,-1745
+0	Block	17:1	-274,43,-1744
+1	Block	17:1	-275,44,-1745
+1	Block	17:1	-274,44,-1744
+#StartAudio
+5	Block	152	-268,36,-1743
+#AnimatePixels
+#1
+17	Block	152	-273,36,-1743
+20	Block	152	-272,36,-1743
+23	Block	152	-271,36,-1743
+28	Block	152	-270,36,-1743
+33	Block	152	-269,36,-1743
+#OpenLeftDoor
+55	Block	0	-280,44,-1744
+55	Block	0	-279,44,-1745
+56	Block	0	-280,43,-1744
+56	Block	0	-279,43,-1745
+#OpenRightDoor
+55	Block	0	-275,44,-1745
+55	Block	0	-274,44,-1744
+56	Block	0	-275,43,-1745
+56	Block	0	-274,43,-1744
+#OpenMainDoor1
+171	Block	0	-286,44,-1740
+171	Block	0	-286,43,-1740
+#OpenMainDoor2
+172	Block	0	-286,44,-1739
+172	Block	0	-286,43,-1739
+173	Block	0	-287,44,-1741
+173	Block	0	-287,43,-1741
+#ResumeTestfor
+170	Block	152	-269,40,-1741
+#Reset
+90	Block	152	-274,36,-1743
+#TPIntoNextRoom
+75	Block	152	-267,36,-1743
+#CloseLeftDoor
+74	Block	17:1	-280,43,-1744
+74	Block	17:1	-279,43,-1745
+75	Block	17:1	-280,44,-1744
+75	Block	17:1	-279,44,-1745
+#CloseRightDoor
+74	Block	17:1	-275,43,-1745
+74	Block	17:1	-274,43,-1744
+75	Block	17:1	-275,44,-1745
+75	Block	17:1	-274,44,-1744
+#Text
+15	Text	&e"When hinges creak in doorless chambers..."
+20	Text	&e"and strange and frightening sounds echo through the halls."
+26	Text	&e"Whenever candlelights flicker where the air is deathly still..."
+32	Text	&e"that is the time when ghosts are present, practicing their terror with ghoulish delight!"
+42	Text	&e"Welcome, foolish mortals, to the Haunted Mansion."
+48	Text	&e"I am your host, your... ghost host."
+54	Text	&e"Kindly step all the way in please and make room for everyone. There's no turning back now."

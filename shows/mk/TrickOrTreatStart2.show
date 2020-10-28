@@ -1,0 +1,17 @@
+Show	Location	-90,70,-1620
+Show	TextRadius	100000
+0	Lightning	-90,70,-1620
+10	Lightning	-90,70,-1620
+0.5	Text	&6Ladies and Gentlemen, Bats and Ghouls.
+2	Text	&6Welcome to &eMickey’s Not So Scary Halloween Party.
+4	Text	&6Trick or treat stations around the &eMagic Kingdom &6are now &2open&6.
+6	Text	&6Have a spooktacular night,
+8	Text	&6And beware of hitchhiking ghosts!
+#Plates
+0	Block	70	14,43,-1493
+0	Block	70	31,44,-1801
+0	Block	70	-110,45,-1706
+0	Block	70	-386,42,-1481
+0	Block	70	-416,43,-1657
+#CandyStationsOn
+0	Block	152	14,41,-1496

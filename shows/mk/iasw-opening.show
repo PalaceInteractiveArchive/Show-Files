@@ -1,0 +1,68 @@
+Show	Location    -172,45,-1737
+Show	TextRadius	30
+
+##Audio
+0	AudioStart	iaswopen
+
+#Show Functions
+0   Block   152 -175,57,-1770
+0   Block   152 -173,57,1771
+25  Block   152 -177,57,-1770
+43  Block   152 -170,57,-1771
+
+#Effects
+Effect  b1  BURST,PURPLE,SILVER,FLICKER,TRAIL
+Effect  b2  BURST,YELLOW,SILVER,FLICKER,TRAIL
+Effect  b3  BURST,MAROON,SILVER,FLICKER,TRAIL
+Effect  b4  BURST,TEAL,SILVER,FLICKER,TRAIL
+
+#Text
+0   Text    &bJoin us as we open &e&o&lIt's a Small World &bhere on &5&o&lPalace Network&b!
+4   Text    &e&o&lIt's a Small World &boriginally opened in May of 1966 in Disneyland, and was one of the opening day attractions here, in &e&oMagic Kingdom&b!
+8   Text    &bIt was first shown off at the World's Fair in 1964, and was an immediate smash it!
+12  Text    &bToday, you can find this classic attraction in &e&oMagic Kingdom,
+14  Text    &9&oDisneyland,
+16  Text    &6&oTokyo Disneyland,
+18  Text    &a&oDisneyland Paris,
+20  Text    &d&oand Hong Kong Disneyland!
+22  Text    &bNow, lets begin the countdown to open this classic attraction!
+25  Text    &a&o&l10!
+26  Text    &b&o&l9!
+27  Text    &c&o&l8!
+28  Text    &d&o&l7!
+29  Text    &e&o&l6!
+30  Text    &2&o&l5!
+31  Text    &3&o&l4!
+32  Text    &5&o&l3!
+33  Text    &6&o&l2!
+34  Text    &9&o&l1!
+35  Text    &e&o&lIt's a Small World &bis &e&o&lNOW OPEN!
+
+
+#Fireworks (1 seconds up)
+35  PowerFirework   -170,51,-1742   b1  -1,6,0
+35  PowerFirework   -175,51,-1742   b2  1,6,0
+
+36  PowerFirework   -170,51,-1742   b1  1,6,0
+36  PowerFirework   -175,51,-1742   b2  -1,6,0
+
+37.0    PowerFireworks  -173,63,-1755   b1  2,2,0
+37.2    PowerFireworks  -173,63,-1755   b2  1,2,0
+37.4    PowerFireworks  -173,63,-1755   b3  0,2,0
+37.6    PowerFireworks  -173,63,-1755   b4  -1,2,0
+37.8    PowerFireworks  -173,63,-1755   b1  -2,2,0
+38.0    PowerFireworks  -173,63,-1755   b1  2,2,0
+38.2    PowerFireworks  -173,63,-1755   b2  1,2,0
+38.4    PowerFireworks  -173,63,-1755   b3  0,2,0
+38.6    PowerFireworks  -173,63,-1755   b4  -1,2,0
+38.8    PowerFireworks  -173,63,-1755   b1  -2,2,0
+39.0    PowerFireworks  -173,63,-1755   b1  2,2,0
+39.2    PowerFireworks  -173,63,-1755   b2  1,2,0
+39.4    PowerFireworks  -173,63,-1755   b3  0,2,0
+39.6    PowerFireworks  -173,63,-1755   b4  -1,2,0
+39.8    PowerFireworks  -173,63,-1755   b1  -2,2,0
+40.0    PowerFireworks  -173,63,-1755   b1  2,2,0
+40.2    PowerFireworks  -173,63,-1755   b2  1,2,0
+40.4    PowerFireworks  -173,63,-1755   b3  0,2,0
+40.6    PowerFireworks  -173,63,-1755   b4  -1,2,0
+40.8    PowerFireworks  -173,63,-1755   b1  -2,2,0

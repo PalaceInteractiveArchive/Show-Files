@@ -1,0 +1,6 @@
+Sequence	Laser	Relative
+#green laser move right mid end of present
+0	Spawn
+9.6	Move	target	43,5,-12	8
+10	Move	target	-20,0,-20	18
+10.9	Despawn

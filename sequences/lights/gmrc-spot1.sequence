@@ -1,0 +1,27 @@
+Sequence    Light
+#Define
+EnderCrystal    spot1
+EnderCrystal	spot2
+EnderCrystal	spot3
+EnderCrystal	spot4
+EnderCrystal	spot5
+EnderCrystal	spot6
+EnderCrystal	spot7
+
+#Spawn
+0   spot1 Spawn -256,128,255 -256,78,255
+0   spot2 Spawn -256,128,255 -256,78,255
+0   spot3 Spawn -256,128,255 -256,78,255
+0   spot4 Spawn -256,128,255 -256,78,255
+0   spot5 Spawn -256,128,255 -256,78,255
+0   spot6 Spawn -256,128,255 -256,78,255
+0   spot7 Spawn -256,128,255 -256,78,255
+
+#Move
+0   spot1   Move    0,0,0   4.74
+0   spot2   Move    -5,0,-5 4.74
+0   spot3   Move    -10,0,-10   4.74
+0   spot4   Move    5,0,5   4.74
+0   spot5   Move    10,0,10 4.74
+0   spot6   Move    15,0,15 4.74
+0   spot7   Move    -15,0,-15   4.74

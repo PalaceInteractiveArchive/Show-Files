@@ -1,0 +1,33 @@
+Show	Location	-133,65,3802
+Show	TextRadius	10
+
+
+##Text
+0   Text    &r[&9*&r] &eHello and welcome to the &d&lBack to School Bash &epainting experience! &eI'll be showing you exactly how to paint!
+4   Text    &r[&9*&r] &eIf you look to your left, you will see a line of &ac&bo&cl&do&er&9s&e! &eThat is where you choose which colors to paint with!
+8   Text    &r[&9*&r] &eTo move your painting location, use the &dleft &eand &dright &ebuttons once they appear! &eTo place the color, use the &dplace &ebutton!  
+10   Text   &r[&9*&r] &eYou will have 60 seconds to create your masterpeice!
+12   Text   &r[&9*&r] &eReady?
+14  Text    &r[&9*&r] &a&lGo!
+44  Text    &r[&9*&r] &e30 seconds!
+64  Text    &r[&9*&r] &e10 seconds!
+69  Text    &r[&9*&r] &e5!
+70  Text    &r[&9*&r] &e4!
+71  Text    &r[&9*&r] &e3!
+72  Text    &r[&9*&r] &e2!
+73  Text   &r[&9*&r]  &e1!
+74  Text    &r[&9*&r] &eTime's up!
+75  Text    &r[&9*&r] &eWow! I love your masterpeice! Great job! Enjoy the &d&lBack to School Bash!
+
+##Set buttons
+14  Block   143:4 -133,65,3798
+14  Block   143:4 -134,65,3798
+
+##Remove buttons
+74  Block   0   -132,65,3798
+74  Block   0   -133,65,3798
+74  Block   0   -134,65,3798
+
+
+#RESET 
+0   Block   152 -134,63,3796

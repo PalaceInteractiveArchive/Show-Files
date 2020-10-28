@@ -1,0 +1,38 @@
+Show	Location	-78,63,2985
+Show	TextRadius	50
+
+## Moonlight Magic: Melodies of Epcot - 30 minute Pre Show ##
+
+#Text
+0	Text	&eIn just &330 minutes&e, &dThe Palace Network &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eat &a/warp iroe!
+300	Text	&eIn just &325 minutes&e, &dThe Palace Network &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eat &a/warp iroe!
+600	Text	&eIn just &320 minutes&e, &dThe Palace Network &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eat &a/warp iroe!
+
+#Audio
+30	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+120	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+210	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+300	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+390	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+480	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+570	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+660	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+750	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+840	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+
+#Chat Mute
+90	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+180	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+270	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+360	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+450	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+540	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+630	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+720	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+810	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+900	Text	&6During &9&lMoonlight Magic: &b&oMelodies of Epcot&r&6, Park-Chat will be muted. We will re-enable it after the show.
+
+
+#Start 15 Minute Pre-Show
+#TO DO
+900	Block	152	-84,42,2980

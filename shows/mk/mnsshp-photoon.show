@@ -1,0 +1,10 @@
+Show	Location	-90,44,-1550
+Show	TextRadius	5000
+
+#Photo Ops
+0    Schematic   mnsshp-pirate1  -367    42  -1471   mk  true
+0    Schematic   mnsshp-nbc1 158 43  -1503   mk  true
+0    Schematic   mnsshp-wtp2 18  45  -1704   mk  true
+0    Schematic   mnsshp-hm3  -259    43  -1730   mk  true
+0    Schematic   mnsshp-hocus1   -340    42  -1574   mk  true
+0    Schematic   mnsshp-storybook1   116 45  -1777   mk  true

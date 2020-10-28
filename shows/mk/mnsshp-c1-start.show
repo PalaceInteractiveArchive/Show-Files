@@ -1,0 +1,17 @@
+Show	Location	-90,44,-1407
+Show	TextRadius	40
+
+#Audio
+0   Block   152 -176,17,-1386
+
+#BC
+0   Block   152 -176,17,-1380
+
+##RESET
+
+40  Block   152 -172,17,-1381
+40  Block   152 -172,17,-1380
+40  Block   152 -176,17,-1376
+40  Block   152 -176,17,-1375
+
+

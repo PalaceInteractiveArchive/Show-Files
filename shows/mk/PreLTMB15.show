@@ -1,0 +1,98 @@
+Show	Location	-89,47,-1549
+Show	TextRadius	150
+
+Show	Name	Castle
+
+#Allow time to be set
+0	Block	1	-75,54,-1635
+
+#Open gate
+0	Block	0	-92,45,-1611
+0	Block	0	-92,46,-1611
+0	Block	0	-91,45,-1611
+0	Block	0	-91,46,-1611
+0	Block	0	-91,47,-1611
+0	Block	0	-90,45,-1611
+0	Block	0	-90,46,-1611
+0	Block	0	-90,47,-1611
+0	Block	0	-89,45,-1611
+0	Block	0	-89,46,-1611
+0	Block	0	-89,47,-1611
+0	Block	0	-88,45,-1611
+0	Block	0	-88,46,-1611
+
+0	Block	190	-93,45,-1611
+0	Block	190	-93,45,-1612
+0	Block	190	-93,45,-1613
+
+0	Block	190	-87,45,-1611
+0	Block	190	-87,45,-1612
+0	Block	190	-87,45,-1613
+
+#Fence off castle area
+#Right
+0	Block	190	-75,43,-1592
+0	Block	190	-75,43,-1591
+0	Block	190	-74,43,-1591
+0	Block	190	-74,43,-1590
+0	Block	190	-73,43,-1590
+
+#Left
+0	Block	190	-107,43,-1590
+0	Block	190	-106,43,-1590
+0	Block	190	-106,43,-1591
+0	Block	190	-105,43,-1591
+0	Block	190	-105,43,-1592
+
+#Fence off back castle
+0	Block	190	-88,45,-1641
+0	Block	190	-89,45,-1641
+0	Block	190	-90,45,-1641
+0	Block	190	-91,45,-1641
+0	Block	190	-92,45,-1641
+
+#Show announcements
+0	Text	&eLadies and Gentlemen, Boys and Girls, in just &115 Minutes&e, &dThe Palace Network &einvites you to open our Magical Day here at the &6Castle Forecourt Stage &eand to witness &bLet the Magic Begin! &eThe show will begin in just &1&n15 Minutes&r &eat &a/warp castle&e! Thank you!
+300	Text	&eLadies and Gentlemen, Boys and Girls, in just &110 Minutes&e, &dThe Palace Network &einvites you to open our Magical Day here at the &6Castle Forecourt Stage &eand to witness &bLet the Magic Begin! &eThe show will begin in just &1&n10 Minutes&r &eat &a/warp castle&e! Thank you!
+600	Text	&eLadies and Gentlemen, Boys and Girls, in just &15 Minutes&e, &dThe Palace Network &einvites you to open our Magical Day here at the &6Castle Forecourt Stage &eand to witness &bLet the Magic Begin! &eThe show will begin in just &1&n5 Minutes&r &eat &a/warp castle&e! Thank you!
+780	Text	&eLadies and Gentlemen, Boys and Girls, in just &12 Minutes&e, &dThe Palace Network &einvites you to open our Magical Day here at the &6Castle Forecourt Stage &eand to witness &bLet the Magic Begin! &eThe show will begin in just &1&n2 Minutes&r &eat &a/warp castle&e! Thank you!
+
+#Audio
+750	Block	152	-28,19,-1583
+750	AudioStart	ltmbpre
+#/b
+0	Block	152	-32,19,-1583
+280	Block	152	-33,19,-1583
+580	Block	152	-34,19,-1583
+760	Block	152	-35,19,-1583
+
+#Audio Reminder
+60	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+300	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+660	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+780	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+900	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+
+#Chat mute reminder
+120	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+240	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+360	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+480	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+600	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+720	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+840	Text	&6During &b&lLet the Magic Begin&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+
+#Mute chat
+880	Block	152	-30,19,-1583
+
+#Emergency Day Set
+760	Block	152	-36,19,-1583
+
+#Staff Reminder
+880	Block	152	-39,19,-1583
+
+#ac Done
+900	Block	152	-27,19,-1583

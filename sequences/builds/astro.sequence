@@ -1,0 +1,7 @@
+Sequence	Build
+
+Build	astro	astro
+0	astro	Spawn	109.5,51.5,-1515.5
+3	astro	Move	109.5,54.5,-1515.5	100
+92	astro	Move	109.5,51.5,-1515.5	100
+95	astro	Despawn

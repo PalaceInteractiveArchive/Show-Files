@@ -1,0 +1,8 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+Show	Name	Castle
+
+#Fireworks
+Effect	canada1		BALL_LARGE,RED&WHITE,FLICKER
+
+3	PowerFirework	-90,49,-1584	canada1		0,1,0

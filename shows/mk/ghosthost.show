@@ -1,0 +1,1328 @@
+﻿Show	Location	-90,45,-1596
+Show	TextRadius	150
+Show	Name	Castle
+#HalloWishes 4.0
+#Made by  owils
+#Updated August 11, 2014
+#Updated by owils February 19, 2015
+#Updates by owils September 4th, 2015
+#Updated for NewMK by owils September 8th, 2019
+#----------------------------------------
+#Show location and radius for text
+#Audio
+0	AudioStart	hallowishes
+10	AudioSync	hallowishes	10
+15	AudioSync	hallowishes	15
+30	AudioSync	hallowishes	30
+60	AudioSync	hallowishes	60
+120	AudioSync	hallowishes	120
+180	AudioSync	hallowishes	180
+240	AudioSync	hallowishes	240
+300	AudioSync	hallowishes	300
+360	AudioSync	hallowishes	360
+420	AudioSync	hallowishes	420
+480	AudioSync	hallowishes	480
+540	AudioSync	hallowishes	540
+600	AudioSync	hallowishes	600
+660	AudioSync	hallowishes	660
+#PowerFireworks
+Effect	First		BURST,171;212;202,Flicker,Trail
+Effect	GB		BALL_LARGE,Lime
+Effect	RB		BALL_LARGE,Red
+Effect	SideR		BURST,Red,Yellow,Flicker,Trail
+Effect	SideG		BURST,Lime,Yellow,Flicker,Trail
+Effect	rB		BALL,Red&Red,Trail
+Effect	gB		BALL,Lime&Lime,Trail
+Effect	PB		BALL_LARGE,Purple
+Effect	OB		BALL_LARGE,Orange
+Effect	Sider		BURST,Red,Trail
+Effect	DB		BURST,Yellow&Silver
+Effect	SideW		BURST,White
+Effect	MB		BURST,Blue,Lime,Orange,Red,Yellow,Purple
+Effect	mB		BALL_LARGE,Blue,Lime,Orange,Red,Yellow,Purple
+Effect	WB		BALL_LARGE,White,White
+Effect	SB		BALL_LARGE,Silver
+Effect	SideP		BURST,Purple
+Effect	YB		BALL_LARGE,Yellow
+Effect	wB		BALL,White
+Effect	SideH		BURST,White,Red,Lime
+Effect	FB		BURST,Fuchsia
+Effect	fB		BALL_LARGE,Fuchsia
+Effect	yB		BALL,Yellow
+Effect	CB		CREEPER,White
+Effect	oB		BALL,Orange,Orange,Orange
+Effect	sB		BALL_LARGE,Silver,Orange
+Effect	SideO		BURST,Orange,Orange
+#
+#Start
+12	Text	&dSerpents and spiders,
+14.7	Text	&dTail of a rat,
+16.6	Text	&dCall in the spirits wherever they're at.
+23.5	Text	&2When you hear the knell of a requiem bell
+27	Text	&2Weird glows gleam where the spirits dwell
+30.3	Text	&2Restless bones etherialize
+33.7	Text	&2Rise the spooks of every size
+37	Text	&2Grim Grinning Ghost Come out to socialize
+40	PowerFirework	-100,63,-1624	First,First	-1,3,1
+40	PowerFirework	-77,63,-1624	First,First	1,3,1
+45.8	Text	&2When the crypt-doors creak
+46	PowerFirework	-76,84,-1624	GB	0,0,0
+46.5	PowerFirework	-98,97,-1624	GB	0,0,0
+47	Text	&2and the tombstones quake
+48	Text	&2Spooks come out for a swinging wake
+48.4	PowerFirework	-1618,101,-533	RB	0	0,1,0	2
+48.6	PowerFirework	-1616,98,-533	RB	0	0,1,0	2
+50	Text	&2Happy haunts materialise
+51	PowerFirework	-1618,96,-533	GB	0	0,1,0	2
+51	PowerFirework	-1616,105,-533	GB	0	0,1,0	2
+51	PowerFirework	-1610,102,-533	GB	0	0,1,0	2
+52	PowerFirework	-1620,107,-533	RB	0	0,1,0	2
+52	PowerFirework	-1608,108,-533	RB	0	0,1,0	2
+52.3	Text	&2And begin to vocalize
+56.5	Text	&2Grim grinning ghosts,
+56.5	PowerFirework	-1610,121,-533	GB	0	0,1,0	2
+57.8	Text	&2come out to socialise!
+58.5	PowerFirework	-1638,72,-521	SideR	1	1,1,-1	0.2
+60.1	PowerFirework	-1590,72,-521	SideR	1	-1,1,-1	0.2
+61.8	PowerFirework	-1633,72,-527	SideG	1	1,1,-1	0.2
+63.1	PowerFirework	-1595,72,-526	SideG	1	-1,1,-1	0.2
+65.8	Text	&2As the moon climbs high
+67	PowerFirework	-1616,98,-533	RB	0	0,1,0	2
+68	Text	&2over the dead oak tree
+69	Text	&2Spooks arrive for the midnight spree
+70	PowerFirework	-1603,93,-533	GB	0	0,1,0	2
+70	PowerFirework	-1613,102,-533	GB	0	0,1,0	2
+71	Text	&2Creepy creeps and eerie eyes
+71	PowerFirework	-1610,99,-533	RB	0	0,1,0	2
+71	PowerFirework	-1624,99,-533	RB	0	0,1,0	2
+73	Text	&2Start to shriek
+73.5	PowerFirework	-1613,102,-533	GB	0	0,1,0	2
+74.5	Text	&2and harmonise
+77	Text	&2Grim grinning ghosts,
+77	PowerFirework	-1609,112,-533	RB	0	0,1,0	2
+77	PowerFirework	-1620,114,-533	RB	0	0,1,0	2
+78.8	Text	&2come out and socialize!
+80	PowerFirework	-1638,72,-521	SideR	1	1,1,-1	0.2
+80	PowerFirework	-1590,72,-521	SideR	1	-1,1,-1	0.2
+80	PowerFirework	-1633,72,-527	SideG	1	-1,1,1	0.2
+80	PowerFirework	-1595,72,-526	SideG	1	1,1,1	0.2
+87.5	Text	&f[&6Ghost Host&f] &6Welcome my friends,
+89.7	Text	&6to the most spirited season of them all.
+93	Text	&6I am your host
+95	Text	&6your ghost-host
+98.8	Text	&6The nine-hundred-ninety-nine happy haunts and I are ready to materialize
+105	Text	&6For a spooktacular celebration.
+108.8	Text	&6You never know who will drop in.
+112	Text	&6After all,
+113.5	Text	&6This is Halloween!
+117.6	Lightning	-89,54,-1622
+#This is Halloween
+118.8	Text	&aTHIS IS HALLOWEEN
+118.8	PowerFirework	-1613,116,-533	RB	0	0,1,0	2
+119.8	Text	&aTHIS IS HALLOWEEN
+119.8	PowerFirework	-1609,112,-533	RB	0	0,1,0	2
+120.3	Text	&aHALLOWEEN, HALLOWEEN, HALLOWEEN, HALLOWEEN
+121	PowerFirework	-1620,107,-533	rB	0	0,1,0	2
+121	PowerFirework	-1614,109,-533	rB	0	0,1,0	2
+124	Text	&aBoys and girls of every age
+124	PowerFirework	-1620,107,-533	rB	0	0,1,0	2
+126	Text	&aWouldn't you like to see something strange
+126	PowerFirework	-1614,106,-533	PB	0	0,1,0	2
+128.5	Text	&aCome with us and you will see
+128.5	PowerFirework	-1607,101,-533	OB	0	0,1,0	2
+129	PowerFirework	-1622,104,-533	OB	0	0,1,0	2
+130.5	Text	&aIt's our world of Halloween
+130.5	PowerFirework	-1613,102,-533	PB	0	0,1,0	2
+131.9	Text	&aOh, this is Halloween,
+131.9	PowerFirework	-1595,72,-526	SideR	1	1,1,1	0.2
+133.8	Text	&athis is Halloween
+133.7	PowerFirework	-1633,72,-527	SideR	1	-1,1,1	0.2
+135	Text	&aPumpkins scream in the dead of night
+135	PowerFirework	-1609,105,-533	OB	0	0,1,0	1
+135	PowerFirework	-1618,108,-533	OB	0	0,1,0	1
+137	Text	&aThis is Halloween,
+137	PowerFirework	-1595,72,-526	SideR	1	1,1,1	1
+138	Text	&aeverbody make a scene
+138	PowerFirework	-1633,72,-527	SideR	1	-1,1,1	1
+139	Text	&aTrick or treat 'till the neighbors
+139	PowerFirework	-1607,101,-533	OB	0	0,1,0	1
+139	PowerFirework	-1614,106,-533	OB	0	0,1,0	1
+140.2	Text	&agonna die of fright
+146.5	PowerFirework	-1595,72,-526	SideR	1	-1,1,1	0.2
+147	PowerFirework	-1633,72,-527	SideR	1	1,1,1	0.2
+150	Text	&aThis is Halloween,
+150	PowerFirework	-1610,121,-533	OB	0	0,1,0	1
+151	Text	&athis is Halloween,
+151	PowerFirework	-1607,118,-533	OB	0	0,1,0	1
+152	Text	&aHalloween, Halloween, Halloween, Halloween
+152	PowerFirework	-1610,108,-533	rB	0	0,1,0	1
+152	PowerFirework	-1616,105,-533	rB	0	0,1,0	1
+153	PowerFirework	-1610,102,-533	rB	0	0,1,0	1
+153	PowerFirework	-1618,108,-533	rB	0	0,1,0	1
+155	PowerFirework	-1625,81,-535	First	1	-1,1,1	0.2
+155.5	Text	&aIn this world we call home
+156	PowerFirework	-1597,81,-533	First	1	1,1,1	0.2
+157.8	Text	&aEveryone hail to the pumpkin song
+160	Text	&aLalala lala lalala lala lalala lala lalalala
+160	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+160	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+160	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+160	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+160	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+160	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+160	PowerFirework	-1618,115,-533	PB	0	0,1,0	1
+160.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+160.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+160.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+160.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+160.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+160.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+161	PowerFirework	-1617,103,-533	PB	0	0,1,0	1
+161.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+161.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+161.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+161.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+161.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+161.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+162	PowerFirework	-1609,112,-533	PB	0	0,1,0	1
+162.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+162.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+162.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+162.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+162.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+162.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+163	PowerFirework	-1624,102,-533	PB	0	0,1,0	1
+163.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+163.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+163.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+163.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+163.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+163.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+164	PowerFirework	-1614,109,-533	PB	0	0,1,0	1
+164.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+164.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+164.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+164.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+164.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+164.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+165	PowerFirework	-1617,106,-533	PB	0	0,1,0	1
+165.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+165.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+165.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+165.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+165.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+165.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+166	PowerFirework	-1610,104,-533	PB	0	0,1,0	1
+166.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+166.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+166.5	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+166.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+166.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+166.5	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1635,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1593,71,-525	Sider	1	0,1,0	1
+167	PowerFirework	-1618,115,-533	PB	0	0,1,0	1
+168	PowerFirework	-1621,115,-533	RB	0	0,1,0	1
+168	PowerFirework	-1608,111,-533	RB	0	0,1,0	1
+168	PowerFirework	-1638,72,-521	SideR	1	1,1,-1	0.2
+168	PowerFirework	-1590,72,-521	SideR	1	-1,1,-1	0.2
+171.8	Text	&f[&6Ghost Host&f] &6And now,
+173	Text	&6our disembodied friends would like to
+175	Text	&6serenade you with some scary-oke
+180	Text	&6Just a few of our favorite "tombs" that
+183	Text	&6we "dug up" for the occassion
+186	Text	&6We hope you'll enjoy 
+189	Text	&6a little nightmusic
+193	Text	&6Feel free to sing along
+196	Text	&aWe're just some poor, unfortunate souls
+200	PowerFirework	-1613,116,-533	DB	0	0,-1,0	1
+200	PowerFirework	-1614,111,-533	DB	0	0,-1,0	1
+200	Text	&aIn pain, 
+201	Text	&ain need
+204	PowerFirework	-1638,71,-521	SideW	1	-1,1,-1	0.3
+204	PowerFirework	-1590,71,-521	SideW	1	1,1,-1	0.3
+204.5	PowerFirework	-1635,71,-525	SideW	1	-1,1,-1	0.3
+204.5	PowerFirework	-1593,71,-525	SideW	1	1,1,-1	0.3
+205	PowerFirework	-1632,71,-529	SideW	1	-1,1,-1	0.3
+205	PowerFirework	-1596,71,-529	SideW	1	1,1,-1	0.3
+206	PowerFirework	-1627,83,-534	MB	1	-1,1,1	0.3
+206	PowerFirework	-1597,83,-532	MB	1	1,1,1	0.3
+206.8	Text	&aPoor unfortunate souls
+206.8	PowerFirework	-1603,115,-533	mB	0	0,1,0	1
+208.8	Text	&aSo sad and so true
+208.8	PowerFirework	-1620,111,-533	mB	0	0,1,0	1
+209.6	PowerFirework	-1603,115,-533	mB	0	0,1,0	1
+210	PowerFirework	-1620,111,-533	mB	0	0,1,0	1
+213	Text	&aPoor unfortunate souls!
+213	PowerFirework	-1638,71,-521	SideW	1	-1,1,-1	0.3
+213	PowerFirework	-1590,71,-521	SideW	1	1,1,-1	0.3
+213	PowerFirework	-1635,71,-525	SideW	1	-1,1,-1	0.3
+213	PowerFirework	-1593,71,-525	SideW	1	1,1,-1	0.3
+213	PowerFirework	-1632,71,-529	SideW	1	-1,1,-1	0.3
+213	PowerFirework	-1596,71,-529	SideW	1	1,1,-1	0.3
+216	Text	&aCruella de Vil
+216	PowerFirework	-1610,112,-533	SB	0	0,1,0	1
+218	Text	&aCruella de Vil
+218	PowerFirework	-1620,107,-533	SB	0	0,1,0	1
+220	Text	&aIf she doesn't scare you
+220	PowerFirework	-1625,103,-533	WB	0	0,1,0	1
+222	Text	&ano evil thing will
+222	PowerFirework	-1611,114,-533	WB	0	0,1,0	1
+224	Text	&aTo see her is to take a sudden chill
+224	PowerFirework	-1603,105,-533	SB	0	0,1,0	1
+227	PowerFirework	-1624,114,-533	SB	0	0,1,0	1
+228.5	Text	&aCruella,
+228.5	PowerFirework	-1632,71,-529	SideW	1	0,1,0	0.2
+228.5	PowerFirework	-1632,71,-529	SideW	1	-1,1,0	0.2
+228.5	PowerFirework	-1632,71,-529	SideW	1	0,1,1	0.2
+228.5	PowerFirework	-1596,71,-529	SideW	1	-1,1,0	0.2
+228.5	PowerFirework	-1596,71,-529	SideW	1	0,1,1	0.2
+228.5	PowerFirework	-1596,71,-529	SideW	1	0,1,0	0.2
+229	Text	&aCruella de Vil
+230	PowerFirework	-1609,107,-533	SB	0	0,1,0	1
+230.5	PowerFirework	-1616,103,-533	SB	0	0,1,0	1
+232.5	Text	&aShe's like a spider waiting for the kill
+232.5	PowerFirework	-1609,106,-533	SB	0	0,1,0	1
+235	PowerFirework	-1619,113,-533	SB	0	0,1,0	1
+237	Text	&aLook out for Cruella de Vil
+237	PowerFirework	-1638,71,-521	SideW	1	0,1,0	1
+237	PowerFirework	-1635,71,-525	SideW	1	0,1,0	1
+237	PowerFirework	-1632,71,-529	SideW	1	0,1,0	1
+237	PowerFirework	-1596,71,-529	SideP	1	0,1,0	1
+237	PowerFirework	-1593,71,-525	SideP	1	0,1,0	1
+237	PowerFirework	-1590,71,-521	SideP	1	0,1,0	1
+240	PowerFirework	-1638,71,-521	SideW	1	0,1,0	1
+240.5	PowerFirework	-1635,71,-525	SideW	1	0,1,0	1
+241	PowerFirework	-1632,71,-529	SideW	1	0,1,0	1
+241.5	PowerFirework	-1596,71,-529	SideW	1	0,1,0	1
+242	PowerFirework	-1593,71,-525	SideW	1	0,1,0	1
+242.5	PowerFirework	-1590,71,-521	SideW	1	0,1,0	1
+246	Text	&aTrust in me
+246	PowerFirework	-1617,107,-533	DB	0	0,-1,1	1
+246	PowerFirework	-1610,107,-533	DB	0	0,-1,1	1
+246	PowerFirework	-1603,104,-533	DB	0	0,-1,1	1
+249	Text	&aBOOM!
+249	PowerFirework	-1606,109,-533	RB	0	0,1,0	1
+249	PowerFirework	-1606,109,-533	rB	0	0,1,0	1
+249	PowerFirework	-1621,111,-533	RB	0	0,1,0	1
+249	PowerFirework	-1621,111,-533	rB	0	0,1,0	1
+250	Text	&aJust in me
+250	PowerFirework	-1620,110,-533	DB	0	0,-1,1	1
+250	PowerFirework	-1616,105,-533	DB	0	0,-1,1	1
+250	PowerFirework	-1607,103,-533	DB	0	0,-1,1	1
+252.8	Text	&aBOOM!
+252.8	PowerFirework	-1606,109,-533	RB	0	0,1,0	1
+252.8	PowerFirework	-1606,109,-533	rB	0	0,1,0	1
+252.8	PowerFirework	-1621,111,-533	RB	0	0,1,0	1
+252.8	PowerFirework	-1621,111,-533	rB	0	0,1,0	1
+253.2	Text	&aShut your eyes
+253.2	PowerFirework	-1606,104,-533	DB	0	0,-1,1	1
+253.2	PowerFirework	-1611,108,-533	DB	0	0,-1,1	1
+253.2	PowerFirework	-1617,102,-533	DB	0	0,-1,1	1
+256.4	Text	&aBOOM!
+256.4	PowerFirework	-1606,109,-533	RB	0	0,1,0	1
+256.4	PowerFirework	-1606,109,-533	rB	0	0,1,0	1
+256.4	PowerFirework	-1621,111,-533	RB	0	0,1,0	1
+256.4	PowerFirework	-1621,111,-533	rB	0	0,1,0	1
+257	Text	&aTrust in me
+257	PowerFirework	-1625,110,-533	DB	0	0,-1,1	1
+257	PowerFirework	-1613,110,-533	DB	0	0,-1,1	1
+257	PowerFirework	-1601,110,-533	DB	0	0,-1,1	1
+259.9	Text	&aBOOM!
+259.9	PowerFirework	-1606,109,-533	RB	0	0,1,0	1
+259.9	PowerFirework	-1606,109,-533	rB	0	0,1,0	1
+259.9	PowerFirework	-1621,111,-533	RB	0	0,1,0	1
+259.9	PowerFirework	-1621,111,-533	rB	0	0,1,0	1
+263.8	Text	&aA Heffalump or Woozle
+263.8	PowerFirework	-1612,110,-533	SB	0	0,1,0	1
+263.8	PowerFirework	-1612,110,-533	rB	0	0,1,0	1
+265	Text	&ais very confusel
+267	Text	&aA Heffalump or woosel's very sly-sly-sly-sly
+267	PowerFirework	-1618,105,-533	WB	0	0,1,0	1
+267	PowerFirework	-1610,114,-533	WB	0	0,1,0	1
+269	PowerFirework	-1593,77,-525	SideH	0	-1,1,-1	1
+269.5	PowerFirework	-1596,77,-529	SideH	0	-1,1,-1	1
+270	PowerFirework	-1632,77,-529	SideH	0	-1,1,1	1
+270.5	PowerFirework	-1635,77,-525	SideH	0	-1,1,1	1
+271	Text	&aThey come in ones and twoosels
+271	PowerFirework	-1612,110,-533	SB	0	0,1,0	1
+271	PowerFirework	-1612,110,-533	rB	0	0,1,0	1
+272.8	Text	&aBut if they so choosels
+272.8	PowerFirework	-1611,100,-533	rB	0	0,1,0	1
+274.2	Text	&aBefore your eyes you'll see them multiply-ply-ply-ply
+274.2	PowerFirework	-1606,109,-533	RB	0	0,1,0	1
+274.2	PowerFirework	-1606,109,-533	rB	0	0,1,0	1
+274.2	PowerFirework	-1621,111,-533	RB	0	0,1,0	1
+274.2	PowerFirework	-1621,111,-533	rB	0	0,1,0	1
+276	PowerFirework	-1635,77,-525	SideH	0	1,1,-1	1
+276.5	PowerFirework	-1632,77,-529	SideH	0	1,1,-1	1
+277	PowerFirework	-1596,77,-529	SideH	0	1,1,1	1
+277.5	PowerFirework	-1593,77,-525	SideH	0	1,1,1	1
+278	Text	&aBeware!
+278	PowerFirework	-1619,107,-533	SB	0	0,1,0	1
+278	PowerFirework	-1619,107,-533	rB	0	0,1,0	1
+278.5	Text	&aLook out!
+278.5	PowerFirework	-1609,112,-533	SB	0	0,1,0	1
+278.5	PowerFirework	-1609,112,-533	rB	0	0,1,0	1
+278.9	Text	&aBeware!
+279	Text	&aLook out!
+280.6	Text	&aPink elephants on parade
+280.6	PowerFirework	-1638,77,-521	FB	1	1,1,-1	0.5
+282.2	Text	&aHere they come,
+280.6	PowerFirework	-1590,77,-521	FB	1	-1,1,-1	0.5
+282.7	Text	&ahippety hoppety
+284	Text	&aThey're here
+284	PowerFirework	-1635,77,-525	FB	1	1,1,-1	0.5
+284.8	Text	&aand there
+285	Text	&aPink elephants everywhere
+285	PowerFirework	-1593,77,-525	FB	1	-1,1,-1	0.5
+287.8	Text	&aLook out,
+287.8	PowerFirework	-1635,77,-525	FB	1	1,1,-1	0.5
+288	Text	&alook out
+289	Text	&aPink elephants on parade
+291	PowerFirework	-1618,106,-533	fB	0	0,1,0	1
+292	PowerFirework	-1610,111,-533	fB	0	0,1,0	1
+293	PowerFirework	-1608,106,-533	fB	0	0,1,0	1
+294	PowerFirework	-1620,111,-533	fB	0	0,1,0	1
+295	PowerFirework	-1618,116,-533	fB	0	0,1,0	1
+296	PowerFirework	-1610,101,-533	fB	0	0,1,0	1
+297	PowerFirework	-1616,116,-533	fB	0	0,1,0	1
+298	PowerFirework	-1610,101,-533	fB	0	0,1,0	1
+299	PowerFirework	-1618,106,-533	fB	0	0,1,0	1
+300	PowerFirework	-1620,115,-533	YB	0	0,1,0	1
+300	PowerFirework	-1620,107,-533	YB	0	0,1,0	1
+300	PowerFirework	-1606,108,-533	YB	0	0,1,0	1
+300	PowerFirework	-1608,116,-533	YB	0	0,1,0	1
+301	PowerFirework	-1614,112,-533	yB	0	0,1,0	1
+301.5	PowerFirework	-1617,109,-533	yB	0	0,1,0	1
+301.5	PowerFirework	-1613,109,-533	yB	0	0,1,0	1
+301.5	PowerFirework	-1607,109,-533	yB	0	0,1,0	1
+302	PowerFirework	-1607,-108,-533	yB	0	0,1,0	1
+302	PowerFirework	-1615,-108,-533	yB	0	0,1,0	1
+302	PowerFirework	-1621,-108,-533	yB	0	0,1,0	1
+307	Text	&f[&6Ghost Host&f] &6And he huffed
+308.8	Text	&6And he puffed
+310.8	Text	&6And he blew the Haunted Mansion in
+311	PowerFirework	-1638,71,-521	SideW	1	1,1,-1	0.8
+311	PowerFirework	-1590,71,-521	SideW	1	-1,1,-1	0.8
+311.5	PowerFirework	-1635,71,-525	SideW	1	1,1,-1	0.8
+311.5	PowerFirework	-1593,71,-525	SideW	1	-1,1,-1	0.8
+312	PowerFirework	-1632,71,-529	SideW	1	1,1,-1	0.8
+312	PowerFirework	-1696,71,-529	SideW	1	-1,1,-1	0.8
+313	PowerFirework	-1597,83,-532	SideW	0	0,1,0	1
+313	PowerFirework	-1603,84,-529	SideW	0	0,1,0	1
+313	PowerFirework	-1624,84,-529	SideW	0	0,1,0	1
+313	PowerFirework	-1627,83,-534	SideW	0	0,1,0	1
+315	Text	&aWho's afraid of the big bad wolf
+315	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+315	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+315	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+315	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+315	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+315.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+315.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+315.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+315.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+315.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+316	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+316	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+316	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+316	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+316	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+316.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+316.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+316.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+316.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+316.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+317	Text	&atralala tralala
+317	PowerFirework	-1620,110,-533	SB	0	0,1,0	1
+317	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+317	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+317	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+317	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+317	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+317.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+317.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+317.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+317.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+317.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+318	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+318	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+318	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+318	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+318	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+318.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+318.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+318.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+318.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+318.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+319	Text	&aWho's afraid of the big bad wolf
+319	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+319	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+319	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+319	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+319	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+319.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+319.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+319.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+319.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+319.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+320	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+320	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+320	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+320	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+320	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+320.5	Text	&atralalalala
+320.5	PowerFirework	-1620,110,-533	SB	0	0,1,0	1
+320.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+320.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+320.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+320.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+320.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+321	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+321	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+321	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+321	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+321	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+321.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+321.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+321.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+321.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+321.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+322	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+322	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+322	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+322	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+322	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+322.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+322.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+322.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+322.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+322.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+323	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+323	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+323	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+323	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+323	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+323.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+323.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+323.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+323.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+323.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+324	Text	&aWho's afraid of the big big big bad
+324	PowerFirework	-1618,104,-533	SB	0	0,1,0	1
+324	PowerFirework	-1610,111,-533	SB	0	0,1,0	1
+324	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+324	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+324	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+324	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+324	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+324.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+324.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+324.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+324.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+324.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+325	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+325	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+325	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+325	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+325	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+325	PowerFirework	-1632,71,-529	SideW	1	1,1,-1	1
+325	PowerFirework	-1696,71,-529	SideW	1	-1,1,-1	1
+325.5	PowerFirework	-1635,71,-525	SideW	1	1,1,-1	1
+325.5	PowerFirework	-1593,71,-525	SideW	1	-1,1,-1	1
+325.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+325.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+325.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+325.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+325.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+326	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+326	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+326	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+326	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+326	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+326	PowerFirework	-1638,71,-521	SideW	1	1,1,-1	1
+326	PowerFirework	-1590,71,-521	SideW	1	-1,1,-1	1
+326.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+326.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+326.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+326.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+326.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+327	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+327	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+327	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+327	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+327	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+327.5	PowerFirework	-1624,84,-529	wB	0	0,1,0	1
+327.5	PowerFirework	-1619,99,-538	wB	0	0,1,0	1
+327.5	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+327.5	PowerFirework	-1603,99,-538	wB	0	0,1,0	1
+327.5	PowerFirework	-1597,83,-532	wB	0	0,1,0	1
+328	Text	&awolf!
+328	PowerFirework	-1618,116,-533	SB	0	0,1,0	1
+328	PowerFirework	-1622,113,-533	WB	0	0,1,0	1
+329	PowerFirework	-1616,114,-533	SB	0	0,1,0	1
+329	PowerFirework	-1620,109,-533	WB	0	0,1,0	1
+#Ursula
+340.2	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+342	Text	&f[&6Ghost Host&f]&6 Now, who could that be?
+345	Text	&f[&dUrsula&f] &dHappy Halloween, darlings
+345	PowerFirework	-1617,109,-533	PB	0	0,1,0	1
+349.3	Text	&f[&6Ghost Host&f]&6Why, the Sea Witch
+351.8	Text	&6So glad you could plop in
+355	Text	&f[&dUrsula&f] &dThis is what I live for!
+355	PowerFirework	-1624,106,-533	PB	0	0,1,0	1
+355	PowerFirework	-1616,102,-533	PB	0	0,1,0	1
+358	Text	&dIt's such a wicked time of year, isn't it?
+358	PowerFirework	-1614,111,-533	PB	0	0,1,0	1
+361	Text	&dAnd I have just the spell to put us all in the mood
+366	Text	&dBeluga sevruga
+366	PowerFirework	-1614,109,-533	PB	0	0,1,0	1
+366	PowerFirework	-1614,109,-533	DB	0	0,-1,0	1
+367.5	Text	&dCome winds of the Caspian Sea
+367.5	PowerFirework	-1614,109,-533	PB	0	0,1,0	1
+367.5	PowerFirework	-1614,109,-533	DB	0	0,-1,0	1
+369.5	PowerFirework	-1609,115,-533	SB	0	0,1,0	1
+371.8	Text	&dLarengix glaucitis
+371.8	PowerFirework	-1609,115,-533	PB	0	0,1,0	1
+373	Text	&dMax laryngitis
+374.8	Text	&dLa voce to me
+380.5	Text	&dNow, sing
+383	Text	&dSing
+385	Text	&dSing!
+387.5	Text	&aPoor unfortunate souls
+387.5	PowerFirework	-1617,105,-533	SideP	0	0,-1,0	1
+387.5	PowerFirework	-1609,105,-533	SideP	0	0,-1,0	1
+388.8	Text	&aIn pain in need
+391	PowerFirework	-1632,77,-529	SideW	1	0,1,0	1
+391	PowerFirework	-1596,77,-529	SideW	1	0,1,0	1
+393	Text	&f[&dUrsula&f] &dYes, yes!
+395.8	Text	&dAh, they weren't kidding when they called me,
+397.5	PowerFirework	-1597,83,-532	SideW	1	1,1,1	0.2
+398	PowerFirework	-1627,83,-534	SideW	1	-1,1,1	0.2
+398	Text	&dwell, a witch
+398.5	PowerFirework	-1620,91,-540	SideW	1	1,1,1	0.2
+398.5	PowerFirework	-1602,90,-540	SideW	1	-1,1,1	0.2
+400	Text	&aPoor unfortuante souls
+400.5	PowerFirework	-1596,71,-529	SideW	1	0,1,0	1
+401	PowerFirework	-1593,71,-525	SideW	1	0,1,0	1
+401.5	PowerFirework	-1590,71,-521	SideW	1	0,1,0	1
+402	PowerFirework	-1611,106,-533	RB	0	0,1,0	1
+402	PowerFirework	-1618,104,-533	RB	0	0,1,0	1
+402.6	Text	&aIn pain in need
+404	PowerFirework	-1632,71,-529	SideW	1	0,1,0	1
+404.3	Text	&f[&dUrsula&f] &dListen up, sweetlips
+404.5	PowerFirework	-1635,71,-525	SideW	1	0,1,0	1
+405	PowerFirework	-1638,71,-521	SideW	1	0,1,0	1
+406	Text	&dI’ll give you all a little treat
+406	PowerFirework	-1618,104,-533	RB	0	0,1,0	1
+406	PowerFirework	-1611,106,-533	RB	0	0,1,0	1
+408	PowerFirework	-1596,71,-529	SideW	1	0,1,0	1
+408.5	PowerFirework	-1593,71,-525	SideW	1	0,1,0	1
+408.8	Text	&aPoor unfortunate souls
+409	PowerFirework	-1590,71,-521	SideW	1	0,1,0	1
+410	Text	&aSo sad so true
+410.5	PowerFirework	-1611,106,-533	RB	0	0,1,0	1
+410.5	PowerFirework	-1618,104,-533	RB	0	0,1,0	1
+412	Text	&f[&dUrsula&f] &dNext year you'll be dressing like me
+412	PowerFirework	-1632,71,-529	SideW	1	0,1,0	1
+412.5	PowerFirework	-1635,71,-525	SideW	1	0,1,0	1
+413	PowerFirework	-1638,71,-521	SideW	1	0,1,0	1
+414.8	Text	&aPoor unfortunate souls
+414.8	PowerFirework	-1618,104,-533	RB	0	0,1,0	1
+414.8	PowerFirework	-1611,106,-533	RB	0	0,1,0	1
+414.8	PowerFirework	-1613,105,-533	RB	0	0,1,0	1
+415	PowerFirework	-1612,110,-533	RB	0	0,1,0	1
+415	PowerFirework	-1519,110,-533	RB	0	0,1,0	1
+421	PowerFirework	-1609,106,-533	PB	0	0,1,0	1
+421	PowerFirework	-1619,106,-533	PB	0	0,1,0	1
+425.5	PowerFirework	-1609,101,-533	PB	0	0,1,0	1
+425.5	PowerFirework	-1620,114,-533	PB	0	0,1,0	1
+427	PowerFirework	-1616,108,-533	PB	0	0,1,0	1
+429	Text	&aYes our teeth and ambitions are bared
+429	PowerFirework	-1632,71,-529	SideW	1	1,1,-1	0.2
+429	PowerFirework	-1635,71,-525	SideW	1	1,1,-1	0.2
+429	PowerFirework	-1638,71,-521	SideW	1	1,1,-1	0.2
+429	PowerFirework	-1596,71,-529	SideW	1	-1,1,-1	0.2
+429	PowerFirework	-1593,71,-525	SideW	1	-1,1,-1	0.2
+429	PowerFirework	-1590,71,-521	SideW	1	-1,1,-1	0.2
+432.8	Text	&aBe prepared
+433.5	PowerFirework	-1632,71,-529	WB	1	0,1,0	1
+433.5	PowerFirework	-1635,71,-525	WB	1	0,1,0	1
+433.5	PowerFirework	-1638,71,-521	WB	1	0,1,0	1
+433.5	PowerFirework	-1596,71,-529	WB	1	0,1,0	1
+433.5	PowerFirework	-1593,71,-525	WB	1	0,1,0	1
+433.5	PowerFirework	-1590,71,-521	WB	1	0,1,0	1
+438	PowerFirework	-1613,109,-533	YB	0	0,1,0	1
+440	PowerFirework	-1612,115,-533	rB	0	0,1,0	1
+440	PowerFirework	-1617,107,-533	rB	0	0,1,0	1
+442	PowerFirework	-1610,113,-533	YB	0	0,1,0	1
+444	PowerFirework	-1613,108,-533	rB	0	0,1,0	1
+444	PowerFirework	-1609,103,-533	rB	0	0,1,0	1
+446	PowerFirework	-1619,115,-533	YB	0	0,1,0	1
+446	PowerFirework	-1611,106,-533	YB	0	0,1,0	1
+449	PowerFirework	-1619,101,-533	rB	0	0,1,0	1
+449	PowerFirework	-1609,101,-533	rB	0	0,1,0	1
+451	PowerFirework	-1608,108,-533	YB	0	0,1,0	1
+451	PowerFirework	-1615,104,-533	YB	0	0,1,0	1
+452	PowerFirework	-1597,83,-532	SideW	1	1,1,1	1
+452	PowerFirework	-1627,83,-534	SideW	1	-1,1,1	1
+453	PowerFirework	-1611,102,-533	rB	0	0,1,0	1
+453	PowerFirework	-1617,100,-533	rB	0	0,1,0	1
+#Jafar
+455	PowerFirework	-1611,104,-535	wB	0	0,1,0	1
+456.8	Text	&f[&cJafar&f] &cTrick or treat?
+458.8	Text	&cIt is I, Jafar!
+460.5	Text	&cI’m sure you wouldn't dream of starting the fun without me
+464.5	Text	&f[&6Ghost Host&f] &6Why, you're dead right
+467	Text	&f[&cJafar&f] &cWell then, let me treat you all to a little
+471	Text	&csorcery in the sky!
+471	PowerFirework	-1614,98,-533	CB	0	0,1,0	1
+471	PowerFirework	-1614,98,-533	oB	0	0,1,0	1
+473	PowerFirework	-1621,107,-533	CB	0	0,1,0	1
+473	PowerFirework	-1621,107,-533	oB	0	0,1,0	1
+475.5	PowerFirework	-1611,109,-533	CB	0	0,1,0	1
+475.5	PowerFirework	-1611,109,-533	oB	0	0,1,0	1
+478	PowerFirework	-1620,115,-533	CB	0	0,1,0	1
+478	PowerFirework	-1620,115,-533	oB	0	0,1,0	1
+480	PowerFirework	-1612,109,-533	sB	0	0,1,0	1
+483	PowerFirework	-1623,112,-533	sB	0	0,1,0	1
+484	PowerFirework	-1616,115,-533	sB	0	0,1,0	1
+484	PowerFirework	-1613,106,-533	sB	0	0,1,0	1
+#Oogie
+#Check all coords here
+489.3	Text	&f[&2Oogie Boggie&f] &2Man, you call that magic?
+495	Text	&2Move over, old boy, and let mister Oogie kick it up a notch!
+501	Text	&2Well well well, what have we here?
+502	PowerFirework	-1604,110,-533	gB	0	0,1,0	1
+503	PowerFirework 	-1604,110,-533	gB	0	0,1,0	1
+504	PowerFirework 	-1602,110,-533 	GB	0 	0,1,0 	1
+504.5	PowerFirework 	-1616,115,-533 	GB	0	0,1,0 	1
+504.5	PowerFirework 	-1622,107,-533 	GB 	0	0,1,0 	1
+505	Text	&2Trick or treat, uh-huh?
+507	Text	&2Oh, I'm really scared!
+509.5	Text	&2So you're the ones they're talking about
+513.8	Text	&2When Mister Oogie Boogie says
+514	PowerFirework	-1617,118,-533	gB	0	0,1,0	1
+515.8	Text	&2There's trouble close at hand
+515.9	PowerFirework -1617,118,-533 gB 0 0,1,0 1
+518	Text	&2You'd better pay attention now
+519.5	PowerFirework	-1613,119,-533	gB	1	0,1,0	1
+519.6	PowerFirework 	-1604,117,-533	gB	1	0,1,0	1
+519.8	Text	&2’Cause I'm the Boogie Man
+521	PowerFirework 	-1590,71,-521	SideP	1	0,1,0 	1
+521	PowerFirework 	-1593,71,-525	SideP	1 	0,1,0 	1
+521.2	PowerFirework 	-1590,71,-521	SideP	1	0,1,0 	1
+521.2	PowerFirework 	-1593,71,-525	SideP	1 	0,1,0 	1
+522	PowerFirework 	-1635,71,-525	SideP	1 	0,1,0 	1
+522	PowerFirework 	-1632,71,-529	SideP	1 	0,1,0 	1
+522.2	PowerFirework 	-1635,71,-525	SideP	1 	0,1,0 	1
+522.2	PowerFirework 	-1632,71,-529	SideP	1 	0,1,0 	1
+523	PowerFirework 	-1596,71,-529	SideP	1 	0,1,0 	1
+523	PowerFirework 	-1638,71,-521	SideP	1 	0,1,0 	1
+523.2	PowerFirework 	-1596,71,-529	SideP	1 	0,1,0 	1
+523.2	PowerFirework 	-1638,71,-521	SideP	1 	0,1,0 	1
+524	PowerFirework 	-1635,71,-525	SideP 	1 	0,1,0 	1
+524	PowerFirework 	-1632,71,-529	SideP 	1 	0,1,0 	1
+524.2	PowerFirework 	-1635,71,-525	SideP 	1 	0,1,0 	1
+524.2	PowerFirework 	-1632,71,-529	SideP 	1 	0,1,0 	1
+525	Text	&2Hey!
+525	PowerFirework 	-1635,71,-525	SideP	1 	0,1,0	1
+525	PowerFirework 	-1632,71,-529	SideP	1 	0,1,0	1
+525.2	PowerFirework 	-1635,71,-525	SideP	1 	0,1,0	1
+525.2	PowerFirework 	-1632,71,-529	SideP	1 	0,1,0	1
+526	Text	&2I said Oogie Boogie
+526	PowerFirework 	-1590,71,-521 	SideP 	1 	0,1,0 	1
+526	PowerFirework 	-1593,71,-525 	SideP 	1 	0,1,0 	1
+526.2	PowerFirework 	-1596,71,-529 	SideP 	1 	0,1,0 	1
+526.2	PowerFirework 	-1638,71,-521 	SideP 	1 	0,1,0 	1
+527	PowerFirework 	-1635,71,-525 	SideP 	1 	0,1,0 	1
+527	PowerFirework 	-1632,71,-529 	SideP 	1 	0,1,0 	1
+527.2	PowerFirework 	-1635,71,-525 	SideP 	1 	0,1,0 	1
+527.2	PowerFirework 	-1632,71,-529 	SideP 	1 	0,1,0 	1
+527.8	Text	&a(Oogie Boogie)
+528	Text	&2I said Oogie Boogie
+528	PowerFirework 	-1590,71,-521 	SideP	1 	0,1,0 	1
+528	PowerFirework 	-1593,71,-525 	SideP 	1 	0,1,0 	1
+528.2	PowerFirework 	-1590,71,-521 	SideP	1 	0,1,0 	1
+528.2	PowerFirework 	-1593,71,-525 	SideP 	1 	0,1,0 	1
+529	PowerFirework 	-1596,71,-529 	SideP 	1 	0,1,0 	1
+529	PowerFirework 	-1638,71,-521 	SideP 	1 	0,1,0 	1
+529.2	PowerFirework 	-1635,71,-525 	SideP 	1 	0,1,0   1
+529.2	PowerFirework 	-1632,71,-529 	SideP 	1 	0,1,0	1
+529.8	Text	&a(Oogie Boogie)
+530	PowerFirework 	-1620,113,-533 	RB 	0 	0,1,0 	1
+530.1	PowerFirework 	1609,108,-533 	RB 	0 	0,1,0 	1
+530.5	Text	&2I said oogedyboogedyboogedyboo
+530.8	PowerFirework 	-1590,71,-521 	SideG 	1 	0,1,0 	1
+530.8   PowerFirework 	-1593,71,-525 	SideG 	1 	0,1,0 	1
+530.8   PowerFirework 	-1596,71,-529 	SideG 	1 	0,1,0 	1
+531.8	Text	&a(Boogedyboogedyboogedyboo)
+532.8	Text	&2I said oogedyboogedyboogedyboo
+533.5   PowerFirework 	-1590,71,-521 	SideG	1	0,1,0 	1
+533.5	PowerFirework 	-1590,71,-521 	FB 	1	0,1,0 	1
+533.5   PowerFirework 	-1593,71,-525 	SideG 	1	0,1,0 	1
+533.5   PowerFirework 	-1593,71,-525 	FB 	1	0,1,0 	1
+533.5	PowerFirework 	-1596,71,-529 	SideG 	1	0,1,0 	1
+533.5   PowerFirework 	-1596,71,-529 	SideG 	1	0,1,0 	1
+533.8	Text	&a(whoah)
+534.8	Text	&2Whoah &a(Whoah)
+535	PowerFirework	-1620,113,-533	RB	0	0,1,0 	2
+535.5	PowerFirework	-1609,108,-533	RB	0	0,1,0 	2
+536	Text	&2Whoah &a(Whoah)
+536.2   PowerFirework	-1614,114,-533	RB	0	0,1,0 	2
+536.4   PowerFirework	-1604,110,-533	RB 	0	0,1,0 	2
+538.3	Text	&2Whoah &a(Whoah)
+538.5	PowerFirework	-1620,113,-533	RB	0	0,1,0	2
+538.5   PowerFirework	-1609,108,-533	RB	0	0,1,0	2
+541	Text	&2’Cause I'm the Oogie Boogie Man
+543.2   PowerFirework 	-1617,120,-533	WB	0 	0,1,0 	2
+543.3	PowerFirework 	-1604,119,-533 	WB	0 	0,1,0 	2
+544.5	PowerFirework 	-1590,71,-521 	FB	1	1,1,-1	1
+544.5	PowerFirework 	-1639,71,-521 	FB	1	-1,1,-1	1
+546	Text	&2Oh yeah
+546.3	PowerFirework	-1590,71,-521 	SideG 	1 	0,1,0	1
+546.3	PowerFirework	-1638,71,-521 	SideG 	1 	0,1,0 	1
+546.4	PowerFirework 	-1635,71,-525 	SideG 	1 	0,1,0 	1
+546.4   PowerFirework 	-1593,71,-525 	SideG 	1 	0,1,0 	1
+546.5   PowerFirework 	-1632,71,-529 	SideG	1 	0,1,0 	1
+546.5   PowerFirework 	-1596,71,-529 	SideG 	1 	0,1,0 	1
+554.8	Text	&2It's so scary
+555	PowerFirework	-1638,71,-521 	SideO	1	0,1,0	1
+555	PowerFirework 	-1635,71,-525 	SideO	1	0,1,0	1
+555	PowerFirework	-1632,71,-529	SideO	1	0,1,0	1
+555	PowerFirework 	-1590,71,-521 	SideO	1	0,1,0	1
+555	PowerFirework 	-1593,71,-525 	SideO	1	0,1,0	1
+555	PowerFirework 	-1596,71,-529 	SideO	1	0,1,0	1 
+555.2	PowerFirework	-1638,71,-521 	SideO	1	0,1,0	1
+555.2	PowerFirework 	-1635,71,-525 	SideO	1	0,1,0	1
+555.2	PowerFirework	-1632,71,-529	SideO	1	0,1,0	1
+555.2	PowerFirework 	-1590,71,-521 	SideO	1	0,1,0	1
+555.2	PowerFirework 	-1593,71,-525 	SideO	1	0,1,0	1
+555.2	PowerFirework 	-1596,71,-529 	SideO	1	0,1,0	1
+557	PowerFirework	-1638,71,-521 	SideO	1	0,1,0 	1
+557	PowerFirework 	-1635,71,-525 	SideO	1	0,1,0 	1
+557	PowerFirework	-1632,71,-529	SideO	1	0,1,0 	1
+557	PowerFirework 	-1590,71,-521 	SideO	1	0,1,0 	1
+557	PowerFirework 	-1593,71,-525 	SideO	1	0,1,0 	1
+557	PowerFirework 	-1596,71,-529 	SideO	1	0,1,0	1 
+557.2	PowerFirework	-1638,71,-521 	SideO	1	0,1,0 	1
+557.2	PowerFirework 	-1635,71,-525 	SideO	1	0,1,0 	1
+557.2	PowerFirework	-1632,71,-529	SideO	1	0,1,0 	1
+557.2	PowerFirework 	-1590,71,-521 	SideO	1	0,1,0 	1
+557.2	PowerFirework 	-1593,71,-525 	SideO	1	0,1,0 	1
+557.2	PowerFirework 	-1596,71,-529 	SideO	1	0,1,0	1 
+557.2	Text	&2Yeah yeah
+557.2	PowerFirework	-1638,71,-521	SideO	1	0,1,0 	1
+557.2	PowerFirework 	-1635,71,-525 	SideO 	1	0,1,0 	1
+557.2   PowerFirework 	-1632,71,-529 	SideO	1	0,1,0 	1
+557.2   PowerFirework	-1590,71,-521 	SideO	1	0,1,0 	1
+557.2   PowerFirework 	-1593,71,-525	SideO	1	0,1,0 	1
+557.2   PowerFirework	-1596,71,-529	SideO	1	0,1,0 	1
+559	Text	&2Ooh
+562	Text	&2I’m the Boogie Man
+562.5	PowerFirework	-1617,120,-533	WB	0	0,1,0	3
+562.5   PowerFirework	-1604,119,-533	WB	0	0,1,0   3
+570.5	Text	&2Oh yes
+570.8	PowerFirework	-1630,71,-521   First	1	1,1,1	1
+570.8	PowerFirework	-1633,71,-521   First	1	1,1,1	1
+570.8	PowerFirework	-1636,71,-521   First   1	1,1,1	1
+570.8	PowerFirework	-1638,77,-521   First   1	1,1,1	1
+570.8	PowerFirework	-1635,77,-521   First   1	1,1,1	1
+570.8	PowerFirework	-1632,77,-521   First   1	1,1,1	1
+570.8	PowerFirework	-1592,71,-521   First   1	-1,1,-1	1
+570.8	PowerFirework	-1598,71,-521   First   1	-1,1,-1	1
+570.8	PowerFirework	-1595,71,-521   First   1	-1,1,-1 1
+570.8	PowerFirework	-1596,77,-521   First	1	-1,1,-1 1
+570.8	PowerFirework	-1593,77,-521   First	1	-1,1,-1	1
+570.8	PowerFirework	-1590,77,-521	First	1	-1,1,-1	1
+571.8	PowerFirework	-1625,93,-533   rB	0	0,1,0	1
+571.8	PowerFirework	-1614,98,-533   rB	0	0,1,0   1
+571.8	PowerFirework	-1610,94,-533   rB	0	0,1,0   1
+571.8	PowerFirework	-1604,99,-533	rB	0	0,1,0   1
+571.8	PowerFirework	-1600,100,-533	rB	0	0,1,0   1
+571.8	PowerFirework	-1607,94,-533	rB	0	0,1,0   1
+571.8	PowerFirework	-1612,105,-533  rB	0	0,1,0   1
+571.8	PowerFirework	-1617,109,-533  rB	0	0,1,0   1
+571.8	PowerFirework	-1622,107,-533  rB	0	0,1,0   1
+571.8	PowerFirework	-1618,112,-533  rB	0	0,1,0   1
+571.8	PowerFirework	-1611,113,-533  rB	0	0,1,0	1
+571.8	PowerFirework	-1604,116,-533	rB	0	0,1,0	1
+571.8	PowerFirework	-1600,111,-533	rB	0	0,1,0	1
+#End
+573	Text	&f[&5Ghost Host&f] &6That was thrilling wasn't it?
+576	Text	&6And now, to end our ghostly gathering
+580	Text	&6We invite you to partake in our favorite Halloween tradition
+585	Text	&6The scream-a-long!
+587	Text	&6Any volunteers?
+589.8	Text	&6Just scream like you're trying to wake the dead!
+595.8	Text	&aThis is Halloween,
+595.8	PowerFirework	-1617,120,-533	OB	0	0,1,0	1
+596.8	Text	&athis is Halloween,
+596.8	PowerFirework	-1605,117,-533	OB	0	0,1,0	1
+598	Text	&aHalloween, Halloween, Halloween, Halloween
+598	PowerFirework	-1609,113,-533	oB	0	0,1,0	1
+598	PowerFirework	-1615,110,-533	oB	0	0,1,0	1
+600	Text	&aEverybody scream!
+600	PowerFirework	-1638,71,-521	SideW	1	0,1,0	2
+600	PowerFirework	-1635,71,-525	SideW	1	0,1,0	2
+600	PowerFirework	-1632,71,-529	SideW	1	0,1,0	2
+600	PowerFirework	-1596,71,-529	SideW	1	0,1,0	2
+600	PowerFirework	-1593,71,-525	SideW	1	0,1,0	2
+600	PowerFirework	-1590,71,-521	SideW	1	0,1,0	2
+600	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+600	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+600	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+600	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+600	PowerFirework	-1585,86,-531	WB	0	0,1,0	1
+600	PowerFirework	-1612,86,-433	WB	0	0,1,0	1
+600	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+600	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+600	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+600	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+600	PowerFirework	-1641,86,-519	WB	0	0,1,0	1
+600	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+600	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+600	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+600	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+600	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+604.5	Text	&aEverybody scream!
+604.5	PowerFirework	-1638,71,-521	SideW	1	0,1,0	2
+604.5	PowerFirework	-1635,71,-525	SideW	1	0,1,0	2
+604.5	PowerFirework	-1632,71,-529	SideW	1	0,1,0	2
+604.5	PowerFirework	-1596,71,-529	SideW	1	0,1,0	2
+604.5	PowerFirework	-1593,71,-525	SideW	1	0,1,0	2
+604.5	PowerFirework	-1590,71,-521	SideW	1	0,1,0	2
+604.5	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+604.5	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+604.5	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+604.5	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+604.5	PowerFirework	-1585,86,-531	WB	0	0,1,0	1
+604.5	PowerFirework	-1612,86,-433	WB	0	0,1,0	1
+604.5	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+604.5	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+604.5	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+604.5	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+604.5	PowerFirework	-1641,86,-519	WB	0	0,1,0	1
+604.5	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+604.5	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+604.5	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+604.5	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+604.5	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+609	Text	&aHappy happy Halloween!
+609	PowerFirework	-1619,105,-533	OB	0	0,1,0	1
+609	PowerFirework	-1606,105,-533	OB	0	0,1,0	1
+611	PowerFirework	-1623,116,-533	PB	0	0,1,0	1
+611	PowerFirework	-1617,111,-533	PB	0	0,1,0	1
+615	Text	&aWhen the cyrptdoors creak and the tombstones quake
+615	PowerFirework	-1621,105,-533	gB	0	0,1,0	1
+615	PowerFirework	-1611,105,-533	gB	0	0,1,0	1
+615	PowerFirework	-1602,105,-533	gB	0	0,1,0	1
+617	Text	&aSpooks come out for a swinging wake
+617	PowerFirework	-1618,107,-533	RB	0	0,1,0	1
+617	PowerFirework	-1613,103,-533	RB	0	0,1,0	1
+617	PowerFirework	-1607,107,-533	RB	0	0,1,0	1
+619.3	Text	&aHappy haunts materialize
+619.3	PowerFirework	-1620,106,-533	gB	0	0,1,0	1
+619.3	PowerFirework	-1611,106,-533	gB	0	0,1,0	1
+620	PowerFirework	-1616,103,-533	gB	0	0,1,0	1
+620	PowerFirework	-1612,103,-533	gB	0	0,1,0	1
+621	Text	&aAnd begin to vocalize
+621	PowerFirework	-1609,108,-533	RB	0	0,1,0	1
+621	PowerFirework	-1613,108,-533	RB	0	0,1,0	1
+621	PowerFirework	-1620,108,-533	RB	0	0,1,0	1
+622.1	Text	&aGrim grinning ghosts, come out to socialize
+622.1	PowerFirework	-1609,104,-533	gB	0	0,1,0	1
+622.1	PowerFirework	-1614,109,-533	gB	0	0,1,0	1
+622.1	PowerFirework	-1618,104,-533	gB	0	0,1,0	1
+627.3	Text	&aDon't close your eyes
+627.3	PowerFirework	-1611,101,-533	RB	0	0,1,0	1
+627.3	PowerFirework	-1616,101,-533	RB	0	0,1,0	1
+628	Text	&aDon't try to hide
+628	PowerFirework	-1611,103,-533	RB	0	0,1,0	1
+628	PowerFirework	-1615,103,-533	RB	0	0,1,0	1
+628.9	Text	&aOr a silly spook may sit by your side
+630.6	PowerFirework	-1602,116,-533	RB	0	0,1,0	1
+631	PowerFirework	-1615,114,-533 	RB	0	0,1,0 	1
+631.2	Text	&aShrouded in a daft disguise
+631.6	PowerFirework	-1602,116,-533 	RB	0	0,1,0 	1
+632	PowerFirework	-1615,114,-533 	RB	0	0,1,0	1
+633.5	Text	&aThey pretend to terrorize
+634	PowerFirework 	-1616,114,-533	GB	0	0,1,0	1
+634	PowerFirework	-1604,111,-533 	GB	0	0,1,0 	1
+634.1	PowerFirework	-1610,111,-533	GB 	0	0,1,0 	1
+635.5	Text	&aGrim grinning ghosts, come out to socialize
+635.5	PowerFirework	-1616,114,-533	RB 	0	0,1,0	1
+635.5	PowerFirework 	-1604,111,-533 	RB	0	0,1,0 	1
+635.5	PowerFirework 	-1610,111,-533 	RB 	0	0,1,0 	1
+636.5	PowerFirework 	-1616,100,-533 	GB	0	0,1,0 	1
+636.5	PowerFirework 	-1604,110,-533 	GB 	0	0,1,0 	1
+636.5	PowerFirework 	-1612,120,-533 	yB 	0	0,1,0 	1
+636.5	PowerFirework	-1607,104,-533	yB 	0	0,1,0 	1
+637	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+637	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+637	PowerFirework	-1603,97,-533	OB	0	0,1,0	1
+637.5	PowerFirework	-1595,71,-521	FB 	1	0,1,0 	1
+637.5	PowerFirework 	-1633,71,-521 	FB 	1	0,1,0 	1
+638	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+638	PowerFirework	-1600,111,-533	OB	0	0,1,0	1
+638	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+638.5 	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+638.5 	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+639	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+639	PowerFirework	-1603,99,-533	OB	0	0,1,0	1
+639	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+639.5	PowerFirework 	-1595,71,-521 	FB 	1 	0,1,0 	1
+639.5	PowerFirework 	-1633,71,-521 	FB 	1 	0,1,0 	1
+640	Text	&aLalala lala lalala lala lalala lala lalalala
+640	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+640	PowerFirework	-1617,114,-533	OB	0	0,1,0	1
+640	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+640.5	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+640.5	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+641	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+641	PowerFirework	-1605,121,-533	OB	0	0,1,0	1
+641	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+641.5	PowerFirework 	-1595,71,-521 	FB 	1 	0,1,0 	1
+641.5	PowerFirework 	-1633,71,-521 	FB 	1 	0,1,0 	1
+642	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+642	PowerFirework	-1617,112,-533	OB	0	0,1,0	1
+642	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+642.5	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+642.5	PowerFirework 	-1633,71,-521 	FB 	1 	0,1,0 	1
+643	PowerFirework 	-1595,71,-521	FB 	1	0,1,0	1
+643	PowerFirework	-1613,107,-533	OB	0	0,1,0	1
+643	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+643.5	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+643.5	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+644	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+644	PowerFirework	-1599,111,-533	OB	0	0,1,0	1
+644	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+644.5	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+644.5	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+645	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+645	PowerFirework	-1615,121,-533	OB	0	0,1,0	1
+645	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+645.5	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+645.5	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+646	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+646	PowerFirework	-1604,110,-533	OB	0	0,1,0	1
+646	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+646.5	PowerFirework	-1595,71,-521	FB	1	0,1,0	1
+646.5	PowerFirework	-1633,71,-521	FB	1	0,1,0	1
+647	PowerFirework	-1620,116,-533	RB	0	0,1,0	1
+647	PowerFirework	-1602,114,-533	RB	0	0,1,0	1
+647.9	Text	&aGrim grinning ghosts,
+647.9	PowerFirework	-1614,112,-533	RB	0	0,1,0	1
+647.9	PowerFirework	-1618,108,-533	RB	0	0,1,0	1
+648.5	PowerFirework	-1602,99,-533	RB	0	0,1,0	1
+648.5	PowerFirework	-1612,102,-533	RB	0	0,1,0	1
+649	PowerFirework	-1615,106,-533	RB	0	0,1,0	1
+649	PowerFirework	-1608,100,-533	RB	0	0,1,0	1
+649.5	Text	&acome out to socialize
+649.5	PowerFirework	-1603,111,-533	RB	0	0,1,0 	2
+649.5	PowerFirework	-1611,100,-533	RB	0	0,1,0	2
+651	PowerFirework	-1615,99,-533	RB	0	0,1,0	2
+651	PowerFirework	-1609,96,-533	RB	0	0,1,0	2
+654	Text	&aEverybody scream!
+654	PowerFirework	-1638,71,-521	SideW	1	0,1,0	2
+654	PowerFirework	-1635,71,-525	SideW	1	0,1,0	2
+654	PowerFirework	-1632,71,-529	SideW	1	0,1,0	2
+654	PowerFirework	-1596,71,-529	SideW	1	0,1,0	2
+654	PowerFirework	-1593,71,-525	SideW	1	0,1,0	2
+654	PowerFirework	-1590,71,-521	SideW	1	0,1,0	2
+#
+654	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+654	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+654	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+654	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+654	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+654	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+654	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+654	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+654	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+654	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+654	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+654	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+654	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+654	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+654	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+654	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+654	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+654	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+654	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+654	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+654	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+656	Text	&aEverybody scream!
+656	PowerFirework	-1638,71,-521	SideW	1	0,1,0	2
+656	PowerFirework	-1635,71,-525	SideW	1	0,1,0	2
+656	PowerFirework	-1632,71,-529	SideW	1	0,1,0	2
+656	PowerFirework	-1596,71,-529	SideW	1	0,1,0	2
+656	PowerFirework	-1593,71,-525	SideW	1	0,1,0	2
+656	PowerFirework	-1590,71,-521	SideW	1	0,1,0	2
+#
+656	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+656	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+656	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+656	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+656	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+656	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+656	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+656	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+656	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+656	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+656	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+656	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+656	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+656	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+656	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+656	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+656	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+656	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+656	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+656	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+656	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+658	Text	&aEverybody scream!
+658	PowerFirework	-1638,71,-521	SideW	1	0,1,0	2
+658	PowerFirework	-1635,71,-525	SideW	1	0,1,0	2
+658	PowerFirework	-1632,71,-529	SideW	1	0,1,0	2
+658	PowerFirework	-1596,71,-529	SideW	1	0,1,0	2
+658	PowerFirework	-1593,71,-525	SideW	1	0,1,0	2
+658	PowerFirework	-1590,71,-521	SideW	1	0,1,0	2
+#
+658	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+658	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+658	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+658	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+658	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+658	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+658	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+658	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+658	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+658	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+658	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+658	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+658	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+658	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+658	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+658	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+658	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+658	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+658	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+658	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+658	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+660	Text	&aHappy happy Halloween!
+660	PowerFirework	-1618,108,-533	WB	0	0,1,0	1
+660	PowerFirework	-1614,108,-533	WB	0	0,1,0	1
+660	PowerFirework	-1608,108,-533	WB	0	0,1,0	1
+#
+660	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+660	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+660	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+660	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+660	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+660	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+660	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+660	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+660	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+660	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+660	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+660	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+660	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+660	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+660	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+660	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+660	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+660	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+660	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+660	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+660	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+#
+661	PowerFirework	-1618,108,-533	WB	0	0,1,0	1
+661	PowerFirework	-1614,108,-533	WB	0	0,1,0	1
+661	PowerFirework	-1608,108,-533	WB	0	0,1,0	1
+#
+661	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+661	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+661	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+661	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+661	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+661	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+661	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+661	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+661	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+661	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+661	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+661	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+661	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+661	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+661	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+661	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+661	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+661	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+661	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+661	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+661	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+#
+662	PowerFirework	-1618,108,-533	WB	0	0,1,0	1
+662	PowerFirework	-1614,108,-533	WB	0	0,1,0	1
+662	PowerFirework	-1608,108,-533	WB	0	0,1,0	1
+#
+662	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+662	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+662	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+662	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+662	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+662	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+662	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+662	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+662	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+662	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+662	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+662	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+662	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+662	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+662	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+662	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+662	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+662	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+662	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+662	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+662	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+#
+663	PowerFirework	-1618,108,-533	WB	0	0,1,0	1
+663	PowerFirework	-1614,108,-533	WB	0	0,1,0	1
+663	PowerFirework	-1608,108,-533	WB	0	0,1,0	1
+#
+663	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+663	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+663	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+663	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+663	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+663	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+663	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+663	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+663	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+663	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+663	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+663	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+663	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+663	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+663	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+663	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+663	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+663	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+663	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+663	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+663	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+#
+664	PowerFirework	-1618,108,-533	WB	0	0,1,0	1
+664	PowerFirework	-1614,108,-533	WB	0	0,1,0	1
+664	PowerFirework	-1608,108,-533	WB	0	0,1,0	1
+#
+664	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+664	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+664	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+664	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+664	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+664	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+664	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+664	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+664	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+664	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+664	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+664	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+664	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+664	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+664	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+664	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+664	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+664	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+664	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+664	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+664	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+#
+665	PowerFirework	-1579,86,-521	WB	0	0,1,0	1
+665	PowerFirework	-1569,86,-517	WB	0	0,1,0	1
+665	PowerFirework	-1560,86,-510	WB	0	0,1,0	1
+665	PowerFirework	-1555,86,-499	WB	0	0,1,0	1
+665	PowerFirework	-1550,86,-485	WB	0	0,1,0	1
+665	PowerFirework	-1546,86,-471	WB	0	0,1,0	1
+665	PowerFirework	-1551,86,-456	WB	0	0,1,0	1
+665	PowerFirework	-1565,86,-443	WB	0	0,1,0	1
+665	PowerFirework	-1573,86,-434	WB	0	0,1,0	1
+665	PowerFirework	-1585,86,-431	WB	0	0,1,0	1
+665	PowerFirework	-1598,86,-430	WB	0	0,1,0	1
+665	PowerFirework	-1612,86,-428	WB	0	0,1,0	1
+665	PowerFirework	-1624,86,-430	WB	0	0,1,0	1
+665	PowerFirework	-1634,86,-435	WB	0	0,1,0	1
+665	PowerFirework	-1643,86,-442	WB	0	0,1,0	1
+665	PowerFirework	-1651,86,-453	WB	0	0,1,0	1
+665	PowerFirework	-1653,86,-465	WB	0	0,1,0	1
+665	PowerFirework	-1657,86,-474	WB	0	0,1,0	1
+665	PowerFirework	-1655,86,-494	WB	0	0,1,0	1
+665	PowerFirework	-1647,86,-505	WB	0	0,1,0	1
+665	PowerFirework	-1641,86,-517	WB	0	0,1,0	1
+#
+665	PowerFirework	-1638,71,-521	SideW	1	0,1,0	2
+665	PowerFirework	-1635,71,-525	SideW	1	0,1,0	2
+665	PowerFirework	-1632,71,-529	SideW	1	0,1,0	2
+665	PowerFirework	-1596,71,-529	SideW	1	0,1,0	2
+665	PowerFirework	-1593,71,-525	SideW	1	0,1,0	2
+665	PowerFirework	-1590,71,-521	SideW	1	0,1,0	2
+665	PowerFirework	-1618,108,-533	WB	0	0,1,0	1
+665	PowerFirework	-1614,108,-533	WB	0	0,1,0	1
+665	PowerFirework	-1608,108,-533	WB	0	0,1,0	1
+#------------------------------------------------
+#---------------------------------------------------------------
+675.5	Text	&6The happy haunts want to thank you for
+678.2	Text	&6hanging around.
+679.5	Text	&6While we scared up a little Halloween fun
+683	Text	&6We do hope you'll drop in again
+687	Text	&6For another spooktacular celebration
+690.5	Text	&6Happy HalloWishes Everyone!
+695	Text	&2Credits:
+#697	Text	&2Brought to you by: &dVirusElite524 and Owils.
+697	Text	&2Plugin- &dPalace Dev Team.
+699	Text	&dPalace &2servers proudly hosted by &dMCProHosting&6!
+701	Text	&2Happy Halloween!

@@ -1,0 +1,140 @@
+Show	Location	-20,62,265
+Show	TextRadius	50
+Show	Name	IndyStuntShow
+0	AudioStart	indyshow
+5	AudioSync	indyshow	5
+10	AudioSync	indyshow	10
+30	AudioSync	indyshow	30
+60	AudioSync	indyshow	60
+120	AudioSync	indyshow	120
+180	AudioSync	indyshow	180
+240	AudioSync	indyshow	240
+300	AudioSync	indyshow	300
+360	AudioSync	indyshow	360
+420	AudioSync	indyshow	420
+480	AudioSync	indyshow	480
+540	AudioSync	indyshow	540
+600	AudioSync	indyshow	600
+645	AudioSync	indyshow	645
+#Effects
+Effect	b1	BURST,WHITE,FLICKER
+Effect	fire	BURST,RED,FLICKER
+Effect	b2	BURST,RED,FLICKER
+
+20.7	Schematic	IndyLadder1	-29	62	277	dhs	false
+20.7	Block	4	-29,62,279
+20.7	Block	4	-31,62,275
+20.7	Block	4	-29,62,280
+20.7	Block	152	27,65,317
+20.7	PowerFirework	-28,73,277	b1	0,-11,0
+21	Block	0	27,65,317
+2	Block	089	-17,64,267
+2	Block	089	-17,64,268
+2	Block	089	-17,64,269
+3	Block	089	-17,64,267
+3	Block	089	-17,64,268
+3	Block	089	-17,64,269
+4	Block	0	-17,64,267
+4	Block	0	-17,64,268
+4	Block	0	-17,64,269
+4	Block	0	-17,64,267
+4	Block	0	-17,64,268
+4	Block	0	-17,64,269
+6	Block	089	-17,64,267
+6	Block	089	-17,64,268
+6	Block	089	-17,64,269
+9	Block	0	-17,64,267
+9	Block	0	-17,64,268
+9	Block	0	-17,64,269
+
+#Spikes
+94.64	Block	191	-28,62,271
+94.64	Block	101	-28,63,271
+96.9	Block	191	-24,62,272
+96.9	Block	101	-24,62,272
+96.99	Block	191	-26,62,270
+96.99	Block	101	-26,63,270
+98.25	Block	191	-24,62,269
+98.25	Block	101	-24,63,269
+99	Block	191	-26,62,268
+99	Block	101	-26,63,268
+100	Block	101	-25,62,266
+102.54	Block	191	-23,62,265
+105	Block	101	-23,63,265
+105	Block	191	-24,62,262
+105.5	Block	101	-24,63,262
+105.5	Block	191	-21,62,262
+105.5	Block	101	-21,63,262
+106	Block	191	-21,62,259
+106	Block	101	-21,63,25
+#Lights
+21	Block	089	-27,61,275
+74.3	Block	089	-25,61,268
+97	Block	089	-23,61,264
+106	Block	089	-21,61,260
+108	Block	089	-17,65,249
+#Pit
+130	PowerFirework	-18,62,253	b2	0,2,0
+
+
+
+#Fire
+223.7	PowerFirework	-29,63,264	fire	0,1,0
+224.7	PowerFirework	-25,64,276	fire	0,1,0
+#Right
+225.7	Block	51	-25,62,275
+225.7	Block	51	-24,62,275
+225.7	Block	51	-25,62,276
+225.7	Block	51	-23,62,276
+225.7	Block	51	-24,62,277
+225.7	Block	51	-23,62,277
+225.7	Block	51	-31,62,262
+225.7	Block	51	-30,62,262
+225.7	Block	51	-29,62,262
+225.7	Block	51	-31,62,263
+225.7	Block	51	-30,62,263
+225.7	Block	51	-29,62,263
+225.7	Block	51	-30,62,264
+225.7	Block	51	-29,62,264
+225.7	Block	51	-28,62,264
+225.7	Block	51	-30,62,265
+225.7	Block	51	-29,62,265
+225.7	Block	51	-28,62,265
+225.7	Block	51	-29,62,266
+225.7	Block	51	-28,62,266
+225.7	Block	51	-29,62,267
+225.7	Block	51	-28,62,267
+
+#Left
+226.7	PowerFirework	-27,63,251	fire	0,5,0
+227.7	PowerFirework	-22,64,248	fire	0,5,0
+228.7	Block	51	-28,62,249
+228.7	Block	51	-27,62,249
+228.7	Block	51	-28,62,250
+228.7	Block	51	-27,62,250
+228.7	Block	51	-26,62,250
+228.7	Block	51	-28,62,251
+228.7	Block	51	-27,62,251
+228.7	Block	51	-26,62,251
+228.7	Block	51	-28,62,252
+228.7	Block	51	-27,62,252
+228.7	Block	51	-28,62,253
+228.7	Block	51	-27,62,252
+228.7	Block	51	-22,62,245
+228.7	Block	51	-21,62,245
+228.7	Block	51	-23,62,246
+228.7	Block	51	-22,62,246
+228.7	Block	51	-21,62,246
+228.7	Block	51	-23,62,247
+228.7	Block	51	-22,62,
+228.7	Block	51	-23,62,248
+228.7	Block	51	-22,62,248
+228.7	Block	51	-21,62,248
+228.7	Block	51	-22,62,249
+228.7	Block	51	-21,62,249
+228.7	Block	51	-22,62,250
+228.7	Block	51	-21,62,250
+#Podiumthingy
+214	Block	0	-12,69,250
+223	Schematic	goldthing2	-13	67	248	dhs	false
+225	Schematic	goldenthing3	-13	67	248	dhs	false

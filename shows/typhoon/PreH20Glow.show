@@ -1,0 +1,31 @@
+Show	Location	1288,59,3561
+Show	TextRadius	100
+
+#H20Glow 2 minute Pre Show
+
+#Broadcast
+0	Block	152	1284,52,3521
+
+#Audio
+30	Text	&6Hear the Show Audio using &dThe Palace Network Audio Server&6! Type &d/audio &6to launch.
+90	Text	&6Hear the Show Audio using &dThe Palace Network Audio Server&6! Type &d/audio &6to launch.
+
+#DVC
+45	Text	&bDVC Seating for the show can be found at &1/warp viph20
+105	Text	&bDVC Seating for the show can be found at &1/warp viph20
+
+0	Block	85	1278,62,3581
+0	Block	85	1278,62,3580
+
+#Minute Announcements
+0	Text	&eLadies and Gentlemen, Boys and Girls, in just &62 minutes &dThe Palace Network &einvites you to round off today's Pool Party and witness &bH20 &lGlow&r&a: A Firework and Fountain Spectacular&r&e! Join the Party at &a/warp wavepool&e!
+60	Text	&eLadies and Gentlemen, Boys and Girls, in just &61 minute &dThe Palace Network &einvites you to round off today's Pool Party and witness &bH20 &lGlow&r&a: A Firework and Fountain Spectacular&r&e! Join the Party at &a/warp wavepool&e!
+
+#Stop any audio playing
+115	Block	152	1282,52,3521
+
+#Time set
+115	Block	152	1281,52,3521
+
+#Show start
+120	Block	152	1279,52,3521

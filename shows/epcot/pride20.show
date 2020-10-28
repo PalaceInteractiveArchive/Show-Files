@@ -1,0 +1,13 @@
+Show	Location	-90,45,-1596
+Show	TextRadius	100
+Show	Name	Castle
+#MUSICS
+0	AudioStart	pride20
+2	AudioSync	pride20	2
+10	AudioSync	pride20	10
+60	AudioSync	pride20	60
+120	AudioSync	pride20	120
+240	AudioSync	pride20	240
+480	AudioSync	pride20	480
+#Sequences
+#0	Sequence	Light	pride20

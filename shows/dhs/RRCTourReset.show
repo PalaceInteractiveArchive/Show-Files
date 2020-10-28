@@ -1,0 +1,70 @@
+﻿Show	Location	-350,64,104
+Show	TextRadius	100
+#This is the location where music/text is centered.
+Show	Name	rrctour
+#Follows the anti-double show running rule
+#Comment
+
+### Blocks ###
+#http://minecraft-ids.grahamedgecombe.com/
+#Placing Blocks6#
+
+## Start Pressure Plates ##
+0	Block	0	-365,50,-100
+0	Block	0	-364,50,-100
+0	Block	0	-363,50,-100
+0	Block	0	-365,50,-101
+0	Block	0	-364,50,-101
+0	Block	0	-363,50,-101
+0	Block	0	-365,50,-102
+0	Block	0	-364,50,-102
+0	Block	0	-363,50,-102
+
+## Tour 1 Pressure Plates ##
+1	Block	0	-277,55,-86
+1	Block	0	-277,55,-85
+1	Block	0	-278,55,-86
+1	Block	0	-278,55,-85
+
+## Tour 2 Pressure Plates ##
+2	Block	0	-301,58,-55
+2	Block	0	-301,58,-56
+2	Block	0	-302,58,-55
+2	Block	0	-302,58,-56
+
+## End Pressure Plates ##
+3	Block	0	-420,61,-83
+3	Block	0	-420,61,-84
+
+## Replace Barrier Blocks ##
+3	Block	166	-360,51,-101
+3   Block   166 -279,56,-86
+3   Block   166 -279,56,-85
+3   Block   166 -301,59,-57
+3   Block   166 -302,59,-57
+
+## Replace Red Wool at RRCTour3 ##
+4	Block	35:14	-365,62,-103
+4	Block	35:14	-365,62,-104
+4	Block	35:14	-365,61,-103
+4	Block	35:14	-365,61,-104
+
+## Un-Freeze Queues ##
+5	Block	152	-346,51,-111
+5	Block	152	-345,51,-111
+
+## Turn off lights in Tour 3 ##
+5   Block   152 -303,59,-69
+
+## /ac Reset ##
+10	Block	152	-340,51,-111
+
+## Close Tour 3 Exit Doors ##
+5   Block   20  -414,57,-81
+
+## Replace Red Pane ##
+0   Block   160:14  -358,53,-101
+
+## Replace Lift Door ##
+0	Block	42	-359,51,-101
+0	Block	42	-359,50,-101

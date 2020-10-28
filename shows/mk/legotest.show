@@ -1,0 +1,19 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+Show	Name	Castle
+Effect	sb1	BURST,240;230;140&218;165;32,TRAIL
+Effect	sb	BURST,240;230;140&218;165;32
+Effect	arjelgold	BURST,254;203;181&247;207;162&WHITE,TRAIL
+Effect	arjelblue	BURST,195;195;232&116;98;130
+
+0	PowerFirework	-99.3,101,-1632.5	arjelblue	3.489,3.993,1.985
+1	PowerFirework	-99.3,101,-1632.5	arjelblue	2.95,3.6,2.045
+2	PowerFirework	-99.3,101,-1632.5	arjelblue	2.282,2.937,1.804
+3	PowerFirework	-99.3,101,-1632.5	arjelblue	1.535,2.036,1.304
+4	PowerFirework	-99.3,101,-1632.5	arjelblue	0.718,0.972,0.631
+5	PowerFirework	-99.3,101,-1632.5	arjelblue	-0.127,-0.173,-0.111
+6	PowerFirework	-99.3,101,-1632.5	arjelblue	-0.968,-1.303,-0.801
+7	PowerFirework	-99.3,101,-1632.5	arjelblue	-1.768,-2.323,-1.327
+8	PowerFirework	-99.3,101,-1632.5	arjelblue	-2.499,-3.156,-1.606
+9	PowerFirework	-99.3,101,-1632.5	arjelblue	-3.125,-3.75,-1.588
+10	PowerFirework	-99.3,101,-1632.5	arjelblue	-3.62,-4.052,-1.278

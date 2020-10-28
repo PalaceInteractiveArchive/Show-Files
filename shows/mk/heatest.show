@@ -1,0 +1,5 @@
+﻿Show	Location	-90,43,-1589
+Show	TextRadius	250
+#Stuff
+0	Sequence	Build	heabuild
+0	Sequence	Particle	heaparticle

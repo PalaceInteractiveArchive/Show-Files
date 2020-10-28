@@ -1,0 +1,16 @@
+﻿Show	Location	-89,43,-1343
+Show	TextRadius	35
+#Sequence
+0	Sequence	Build	flagup
+#PutFlagBack
+21.2	Block	44:12	-93,58,-1345
+21.2	Block	44:7	-93,59,-1345
+21.2	Block	44:4	-92,59,-1345
+21.2	Block	44:4	-91,59,-1345
+21.2	Block	44:12	-93,59,-1344
+21.2	Block	44:15	-92,59,-1344
+21.2	Block	44:15	-91,59,-1344
+21.2	Block	44:4	-92,60,-1344
+21.2	Block	35:11	-91,60,-1344
+21.2	Block	77:3	-91,60,-1343
+21.2	Block	77:4	-91,60,-1345

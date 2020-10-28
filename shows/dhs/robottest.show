@@ -1,0 +1,4 @@
+Show	Location	-86,34,1378
+ArmorStand	robot	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmY3YmVjZjE3MThlOWE2MDk2ZWU1ZjljYjdhYmViNmNmZDk0ODhjNDRhMzExNjQwN2M5MmVjMzNhZDdkODUyMSJ9fX0=;299(192,192,192);300(192,192,192);301(192,192,192)
+.1	ArmorStand	robot	spawn	-85.5,35,1378.5
+2	ArmorStand	robot	rotate	180	1

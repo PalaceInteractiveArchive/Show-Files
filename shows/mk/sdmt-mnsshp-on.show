@@ -1,0 +1,8 @@
+Show	Location	-90,44,-1550
+Show	TextRadius	5000
+
+#Load
+0	Schematic	sdmt-mnsshp1	-25	45	-1732	mk  false
+
+#AC
+0   Block   152 -176,17,-1363

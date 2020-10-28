@@ -1,0 +1,107 @@
+﻿Show	Location	-1048,37,-1690
+Show	TextRadius	75
+Show	Name	MalShow
+
+#Audio
+0	AudioStart	ds
+0	AudioSync	ds	0
+
+#Title
+5	Title	title	10	10	40	&eLike a Villain
+9	Title	title	10	10	40	&eLike a Villain
+30	Title	title	10	10	40	&d&lWhat's my name?
+31	Title	title	10	10	40	&d&lWhat's my name?
+93	Title	title	10	10	40	&eNo Matter Where You Go
+
+#Text
+10	Text	We got all the ways to be
+12	Text	W-I-C-K-E-D!	
+14	Text	We got all the ways to be
+16	Text	W-I-C-K-E-D!
+18.5	Text	&f[&3Uma&f] &3This &bis &3all &bhands &3on &bdeck,
+20	Text	&3calling out to lost boys and girls.
+22	Text	&3I'm getting tired of the disrespect.
+24	Text	&3We won't stop till we rule the world!
+25.5	Text	&3What's my name?
+26.5	Text	&3What's my name?
+28.5	Text	&3Say it louder?
+30	Text	&3What's my name?
+31	Text	&3What's my name?
+33	Text	&3Chillin' like a villian!
+34	Text	&dWe got all the ways to be!
+36	Text	&3What's my name?
+37	Text	&3Chillin' like a villian.
+38	Text	&dW-I-C-K-E-D!
+40	Text	&3What's it?
+40.5	Text	&3What's it?
+41	Text	&3Say it!
+41.5	Text	&3Say it!
+42	Text	&dWe got all the ways to be!
+44	Text	&3What's my name?
+44.5	Text	&3Chillin' like a Villian.
+46	Text	&dW-I-C-K-E-D
+48	Text	&3What's it, what's it, say it, say it!
+54	Text	&e[&1Evie&e] &9Attention when you act like that,
+57	Text	&9let us teach you how to disappear.
+60.5	Text	&9You look like you'll lose a fight to an alley cat.
+65	Text	&9You gotta be wrong to get it right round here
+69	Text	&dChillin' like a villian!
+72	Text	&dChillin'!
+73	Text	&dIt's time to get with me!
+75	Text	&dUs evil lives on!
+78	Text	&dThe right side of wrong!
+80	Text	&dThere's so many ways to be wicked!
+89	Text	&e[&1Evie &fand &5Mal&d] &1Space &5Between!
+92	Text	&d[&5Mal&d] &5Yeah!
+95	Text	&e[&1Evie &fand &5Mal&d] &5We &1can &5meet!
+96	Text	&dWe got all the ways to be!
+100	Text	&dIt starts with you and me!
+102	Text	&dWow, oh, oh!
+103	Text	&dWow, oh, oh, oh!
+104	Text	&dW-I-C-K-E-D!
+106	Text	&f[&3Uma&f] &3What's it?
+106.5	Text	&3What's it?
+107	Text	&3Say it!
+107.5	Text	&3Say it!
+108	Text	&dIt  starts with you and me!
+110	Text	&dWow, oh, oh!
+111	Text	&dWow, oh, oh!
+112	Text	&dChillin' like a villian. 
+112.5	Text	&dW-I-C-K-E-D!
+114	Text	&f[&3Uma&f] &3What's it, whats it?
+114.5	Text	&3Say it, say it!
+116	Text	&c&lIn Loving Memory Of &fCameron Boyce.
+125	Text	&eCredits:
+125.1	Text	&eDeveloped by: &cItzAMePepiii, &ecreatorforparks, and &aYourSwiftlySalad.
+125.2	Text	&ePresented by: &eThe &5Palace &eNetwork
+
+
+#Effects
+5	Lightning	-1053,44,-1685
+5	Lightning	-1053,44,-1695
+9	Lightning	-1053,44,-1685
+9	Lightning	-1053,44,-1695
+
+#Particles
+5.2	Particle	flame	-1053,44,-1685	0	5	0	15	20
+5.2	Particle	flame	-1053,44,-1695	0	5	0	15	20
+9.2	Particle	flame	-1053,44,-1685	0	5	0	15	20
+9.2	Particle	flame	-1053,44,-1695	0	5	0	15	20
+
+#Blocks
+180	Block	89	-1054,41,-1682
+180	Block	89	-1054,42,-1689
+180	Block	89	-1054,42,-1691
+180	Block	89	-1054,41,-1698
+
+
+#Fireworks
+Effect    b1    BURST,255;255;255&PURPLE,WHITE,FLICKER
+2    Firework    -1057,58,-1682    b1    1    0,1,0    1
+2    Firework    -1050,44,-1678    b1    1    0,1,0    1
+2    Firework    -1057,58,-1698    b1    1    0,1,0    1
+2    Firework    -1050,44,-1702    b1    1    0,1,0    1
+4    Firework    -1057,58,-1682    b1    1    0,1,0    1
+4    Firework    -1050,44,-1678    b1    1    0,1,0    1
+4    Firework    -1057,58,-1698    b1    1    0,1,0    1
+4    Firework    -1050,44,-1702    b1    1    0,1,0    1

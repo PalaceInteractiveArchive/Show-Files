@@ -1,0 +1,49 @@
+﻿Show	Location	-212,64,211
+Show	TextRadius	60
+0	Sequence	Laser	test1	-247.5,67.5,247.5	-247.5,67.5,247.5
+0.2	Sequence	Laser	test1	-247.5,67.5,247.5	-247.5,67.5,247.5
+0.4	Sequence	Laser	test1	-247.5,67.5,247.5	-247.5,67.5,247.5
+0.6	Sequence	Laser	test1	-247.5,67.5,247.5	-247.5,67.5,247.5
+0.8	Sequence	Laser	test1	-247.5,67.5,247.5	-247.5,67.5,247.5
+1	Sequence	Laser	test1	-247.5,67.5,247.5	-247.5,67.5,247.5
+0	Sequence	Laser	test2	-247.5,67.5,247.5	-247.5,67.4,247.5
+0.2	Sequence	Laser	test2	-247.5,67.5,247.5	-247.5,67.4,247.5
+0.4	Sequence	Laser	test2	-247.5,67.5,247.5	-247.5,67.4,247.5
+0.6	Sequence	Laser	test2	-247.5,67.5,247.5	-247.5,67.4,247.5
+0.8	Sequence	Laser	test2	-247.5,67.5,247.5	-247.5,67.4,247.5
+1.0	Sequence	Laser	test2	-247.5,67.5,247.5	-247.5,67.4,247.5
+
+2	Sequence	Laser	test1	-225.5,73.5,247.5	-225.5,73.5,247.5
+2.2	Sequence	Laser	test1	-225.5,73.5,247.5	-225.5,73.5,247.5
+2.4	Sequence	Laser	test1	-225.5,73.5,247.5	-225.5,73.5,247.5
+2.6	Sequence	Laser	test1	-225.5,73.5,247.5	-225.5,73.5,247.5
+2.8	Sequence	Laser	test1	-225.5,73.5,247.5	-225.5,73.5,247.5
+3	Sequence	Laser	test1	-225.5,73.5,247.5	-225.5,73.5,247.5
+2	Sequence	Laser	test2	-247.5,73.5,225.5	-247.5,73.5,225.5
+2.2	Sequence	Laser	test2	-247.5,73.5,225.5	-247.5,73.5,225.5
+2.4	Sequence	Laser	test2	-247.5,73.5,225.5	-247.5,73.5,225.5
+2.6	Sequence	Laser	test2	-247.5,73.5,225.5	-247.5,73.5,225.5
+2.8	Sequence	Laser	test2	-247.5,73.5,225.5	-247.5,73.5,225.5
+3.0	Sequence	Laser	test2	-247.5,73.5,225.5	-247.5,73.5,225.5
+
+1.0	Sequence	Laser	greenqso	-235.5,22.5,204.5	-247.5,67.4,247.5
+1.0	Sequence	Laser	greenqso2	-235.5,22.5,204.5	-247.5,67.4,247.5
+1.0	Sequence	Laser	greenqso3	-235.5,22.5,204.5	-247.5,67.4,247.5
+1.0	Sequence	Laser	greenqso4	-235.5,22.5,204.5	-247.5,67.4,247.5
+
+1.1	Sequence	Laser	blueqso		-204.5,72.5,235.5	-247.5,67.4,247.5
+1.1	Sequence	Laser	blueqso2	-204.5,72.5,235.5	-247.5,67.4,247.5
+1.1	Sequence	Laser	blueqso3	-204.5,72.5,235.5	-247.5,67.4,247.5
+1.1	Sequence	Laser	blueqso4	-204.5,72.5,235.5	-247.5,67.4,247.5
+3.0	Sequence	Laser	bluemoveright	-225.5,73.5,247.5	-225.5,73.5,247.5
+3.0	Sequence	Laser	bluemoveleft	-247.5,73.5,225.5	-247.5,73.5,225.5
+3.1	Sequence	Laser	greenmoveright	-225.5,73.5,247.5	-225.5,73.5,247.5
+3.1	Sequence	Laser	greenmoveleft	-247.5,73.5,225.5	-247.5,73.5,225.5
+3.2	Sequence	Laser	bluemoveright	-225.5,73.5,247.5	-225.5,73.5,247.5
+3.2	Sequence	Laser	bluemoveleft	-247.5,73.5,225.5	-247.5,73.5,225.5
+3.3	Sequence	Laser	greenmoveright	-225.5,73.5,247.5	-225.5,73.5,247.5
+3.3	Sequence	Laser	greenmoveleft	-247.5,73.5,225.5	-247.5,73.5,225.5
+3.4	Sequence	Laser	bluemoveright	-225.5,73.5,247.5	-225.5,73.5,247.5
+3.4	Sequence	Laser	bluemoveleft	-247.5,73.5,225.5	-247.5,73.5,225.5
+3.5	Sequence	Laser	greenmoveright	-225.5,73.5,247.5	-225.5,73.5,247.5
+3.5	Sequence	Laser	greenmoveleft	-247.5,73.5,225.5	-247.5,73.5,225.5

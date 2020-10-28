@@ -1,0 +1,7 @@
+Sequence	Laser	Relative
+#Blue laser half quick spread and close 3
+10	Spawn
+#10	Move	target	7,5,-22	8
+10	Move	target	1,0,1	4
+10.2	Move	target	-1,0,-1	6
+10.5	Despawn

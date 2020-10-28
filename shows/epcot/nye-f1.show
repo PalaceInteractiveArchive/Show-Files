@@ -1,0 +1,22 @@
+Show	Location	376,68,3911
+Show	TextRadius	300
+
+
+Effect  b1  BURST,YELLOW,SILVER,FLICKER,TRAIL
+0.0 PowerFirework   386,69,3904 b1  0,2,-0.5
+0.0 PowerFirework   386,69,3918 b1  0,2,0.5
+
+0.2 PowerFirework   386,69,3904 b1  0,2,0
+0.2 PowerFirework   386,69,3918 b1  0,2,0
+
+0.4 PowerFirework   386,69,3904 b1  0,2,-0.5
+0.4 PowerFirework   386,69,3918 b1  0,2,0.5
+
+0.6 PowerFirework   386,69,3904 b1  0,2,0
+0.6 PowerFirework   386,69,3918 b1  0,2,0
+
+0.8 PowerFirework   386,69,3904 b1  0,2,-0.5
+0.8 PowerFirework   386,69,3918 b1  0,2,0.5
+
+1.0 PowerFirework   386,69,3904 b1  0,2,0
+1.0 PowerFirework   386,69,3918 b1  0,2,0

@@ -1,0 +1,9 @@
+﻿Show	Location	271,40,2559
+Show	TextRadius	4
+#Sleep
+0	Schematic	mssleep2	271	40	2559	epcot	false
+#Open
+8.3	Schematic	mssleep3	271	40	2559	epcot	false
+8	Sequence	Build	msasteroid
+#Reset
+15	Schematic	mssleep1	271	40	2559	epcot	false

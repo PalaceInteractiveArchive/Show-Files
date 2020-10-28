@@ -1,0 +1,15 @@
+Show	Location	-385,72,3092
+Show	TextRadius	30
+
+
+#FW Effects
+Effect  b1  BURST,RED,WHITE,FLICKER,TRAIL
+Effect  b2  BURST,BLUE,WHITE,FLICKER,TRAIL
+Effect  b3  BURST,WHITE,WHITE,FLICKER,TRAIL
+
+
+0   PowerFirework   -385,72,3092    b1  -2,4,-2
+0   PowerFirework   -385,72,3092    b2  -1,4,-1
+0   PowerFirework   -385,72,3092    b3  0,4,0
+0   PowerFirework   -385,72,3092    b2  1,4,1
+0   PowerFirework   -385,72,3092    b1  2,4,2

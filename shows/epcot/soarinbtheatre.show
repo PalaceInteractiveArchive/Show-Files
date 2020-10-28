@@ -1,0 +1,17 @@
+Show	Location	-385,67,2826
+Show	TextRadius	10
+0.0	Block	152	-384,64,2823
+1.0	Block	152	-391,64,2818
+25.0	Block	152	-389,64,2818
+50.0	Block	152	-387,64,2818
+75.0	Block	152	-385,64,2818
+100.0	Block	152	-383,64,2818
+125.0	Block	152	-381,64,2818
+150.0	Block	152	-379,64,2818
+175.0	Block	152	-377,64,2818
+200.0	Block	152	-375,64,2818
+1.0	Text	&f[&bInformation&f] &aYour flight will begin shortly.
+40.0	Text	&f[&bInformation&f] &aThere are &e7&a more people waiting to board.
+25.0	Text	&f[&bInformation&f] &aSoarin' boards every 25 seconds!
+115.0	Text	&f[&bInformation&f] &aThere are &e5&a more people waiting to board.
+165.0	Text	&f[&bInformation&f] &aThere are &e3&a more people waiting to board.

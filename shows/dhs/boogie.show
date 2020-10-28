@@ -1,0 +1,17 @@
+Show	Location	-285,63,286
+Show	TextRadius	50
+ArmorStand	1	false	skull:eyJ0aW1lc3RhbXAiOjE0NjE3OTQ5NTUzMzUsInByb2ZpbGVJZCI6ImZkYzBkYmE5ZmYwYTQ4YzA5MDAwZDkxNzc4OThkYTM0IiwicHJvZmlsZU5hbWUiOiJCb29naWVyYW1vbiIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZjEyMjkyYzhjNGEwNjdmNGMwNDg1M2QwY2Y3OGYzYzJiNzhmOThmNWIyOWIwMTYyMmFlMjllOTRlMzkyIn19fQ==;299;300;301(123,125,215)
+0	ArmorStand	1	Spawn	-285,63,286
+0	Text	[Boogie] I have spawned!
+1	ArmorStand	1	Move	-280,63,290	1
+1	Text	[Boogie] Look, I moved!
+2	ArmorStand	1	Position	HEAD	83,0,0	1
+2	Text	[Boogie] Bow!
+3	ArmorStand	1	Rotate	95	2
+3	Text	[Boogie] I turn 95 degrees!
+4	ArmorStand	1	Position	ARM_LEFT	0,0,270	4
+4	ArmorStand	1	Position	ARM_RIGHT	0,0,162	3
+11	Text	[Boogie] Ayyyy
+13	ArmorStand	Despawn
+13	Text	[Boogie] Cya!
+

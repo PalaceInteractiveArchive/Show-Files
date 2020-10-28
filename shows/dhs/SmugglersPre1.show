@@ -1,0 +1,40 @@
+﻿Show	Location	-346,68,608
+Show	TextRadius	15
+Show	Name	SmugglersPre
+#Audio
+5	AudioStart	smugglerspre1	5
+65	AudioSync	smugglerspre1	65
+#Anima Start
+6	Block	152	-351,62,618
+#Close Door (Left)
+5	Block	1:6	-345,68,602
+5	Block	1:6	-345,67,602
+5	Block	1:6	-346,68,603
+5	Block	1:6	-346,67,603
+#Close Door (Right)
+5	Block	1:6	-351,67,605
+5	Block	1:6	-351,68,605
+5	Block	1:6	-352,67,606
+5	Block	1:6	-352,68,606
+#Open Door (Right Front)
+115	Block	0	-345,68,618
+115	Block	0	-345,67,618
+#Close Door (Right Front)
+124.9	Block	1:6	-345,68,618
+124.9	Block	1:6	-345,67,618
+#Tp Out
+125	Block	152	-345,64,609
+#Open Door (Left)
+130	Block	0	-345,68,602
+130	Block	0	-345,67,602
+130	Block	0	-346,68,603
+130	Block	0	-346,67,603
+#Open Door (Right)
+130	Block	0	-351,67,605
+130	Block	0	-351,68,605
+130	Block	0	-352,67,606
+130	Block	0	-352,68,606
+#Stop TestFor
+0	Block	0	-350,62,616
+#Resume TestFor
+129	Block	152	-350,62,616

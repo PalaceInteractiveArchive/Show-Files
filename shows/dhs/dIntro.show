@@ -1,0 +1,19 @@
+Show	Location	-96,48,742
+Show	Name	dIntro
+
+#Pixelators#
+4	Block	152	-92,46,750
+17	Block	152	-90,46,748
+
+#Curtain
+14.2	Block	0	-92,50,740
+14.5	Block	0	-93,50,739
+14.5	Block	0	-91,50,741
+14.8	Block	0	-92,49,740
+17	Block	48	-93,50,739
+17	Block	48	-92,50,740
+17	Block	48	-91,50,741
+17	Block	35:8	-92,49,740
+
+
+

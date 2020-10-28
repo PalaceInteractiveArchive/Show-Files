@@ -1,0 +1,46 @@
+Show	Location	-425,41,-1410
+Show	TextRadius	5
+#Fountains: 
+#<seconds>       Fountain        id:data    #       x,y,z     <directional force(x,y,z)>
+# = time fountain is on
+0	Fountain	95:8	25	-426.5,45,-1410.5	0,-0.1,0
+0	Fountain	95:8	25	-425.5,45,-1410.8	0,-0.1,0
+0	Fountain	95:8	25	-424.5,45,-1411.1	0,-0.1,0
+### Armor Stands ###
+#ArmorStand, like Effect, but for Armor Stands
+#ArmorStand	<name>	<small(true/false)>	<head_id;chest_id;legs_id;boots_id;hand>
+#For skulls on head: skull:playerTextureResourceHash
+#For colored armor: armorID:data(r,g,b) <-no spaces
+
+#Spawn:
+#<seconds>	ArmorStand	<name>	Spawn	x,y,z,rotation
+
+#Move:	<time> to move from current position to x,y,z
+#<seconds>	ArmorStand	<name>	Move	x,y,z	<time>
+
+#Position: change limb/body positions
+#PositionTypes: HEAD, BODY, ARM_LEFT, ARM_RIGHT, LEG_LEFT, LEG_RIGHT
+#<time> must be at least 0.1
+#<seconds>	ArmorStand	<name>	Position	<PositionType>	<anglex,angley,anglez>	<time>
+
+#Rotate:
+#<seconds>	ArmorStand	<name>	Rotate	<+/-degree from current yaw>	<speed>
+#0	ArmorStand	Test	Rotate	50	1
+#0	ArmorStand	Test	Rotate	-50	1
+
+#Despawn:
+#<seconds>	ArmorStand	<name>	Despawn
+ArmorStand	DavyJones	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2I0ZTYyMGU0YzU1ODZhYWYzZWI0ZWQwNzFlYzc3NjgxZDAxMWQ3ZTJhNmZhMWUzYWE3OTZmY2ZjN2VlNyJ9fX0=";299:(28,107,177);0;0
+4	ArmorStand	DavyJones	Spawn	-425.5,43.0,-1410.38,-9.0
+4.1	ArmorStand	DavyJones	Position	BODY	0,-3.31,0	0.1
+4.1	ArmorStand	DavyJones	Position	HEAD	2.96,5.56,0	0.1
+4.1	ArmorStand	DavyJones	Position	LEG_RIGHT	75,0,0	0.1
+4.1	ArmorStand	DavyJones	Position	LEG_LEFT	75,0,-10	0.1
+4.1	ArmorStand	DavyJones	Position	ARM_LEFT	60,0,0	0.1
+4.1	ArmorStand	DavyJones	Position	ARM_RIGHT	60,0,0	0.1
+6.5	ArmorStand	DavyJones	Position	HEAD	9,-12,0	8
+9	ArmorStand	DavyJones	Position	HEAD	15,15,-3	13
+9.1	ArmorStand	DavyJones	Position	BODY	0,9,0	11
+13.5	ArmorStand	DavyJones	Position	HEAD	-3,6,-3	9
+14	ArmorStand	DavyJones	Move	-425.5,43.0,-1411.38	1.2
+15.5	ArmorStand	DavyJones	Despawn	

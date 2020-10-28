@@ -1,0 +1,41 @@
+Show	Location	-90,45,-1596
+Show	TextRadius	100
+Show	Name	Castle
+#Audio
+0	Block	152	-95,29,-1611
+0	AudioStart	prepride20
+2	AudioSync	prepride20	2
+11	AudioSync	prepride20	11
+177.4	AudioSync	prepride20	177.4
+404.7	AudioSync	prepride20	404.7
+
+
+30	Text	&O&eWe Are One! &3is a 10 minute show. During the show, server chat will be muted.
+120	Text	&3In order for you to fully experience our presentation of &O&eWe Are One! &a&oOur Pride Spectacular&3, please have your audio server open by typing &a/audio&3.
+303.5	Text	&3In Just &6&L&N5 minutes&3, the Palace will proudly present: &O&eWe Are One! &a&oOur Pride Spectacular&!
+360	Text	&3In order for you to fully experience our presentation of &O&eWe Are One&3, please have your audio server open by typing &a/audio&3.
+480	Text	&O&eWe Are One! &3is a 10 minute show. During the show, server chat will be muted.
+540	Text	&3In order for you to fully experience our presentation of &O&eWe Are One! &a&oOur Pride Spectacular&3, please have your audio server open by typing &a/audio&3.
+585	Text	&O&eWe Are One! &3is a 10 minute show. During the show, server chat will be muted.
+#Time system
+0	Block	152	-102,29,-1611
+0	Block	152	-99,29,-1611
+#/b
+0	Block	152	-71,31,-1600
+0.1	Block	0	-71,31,-1600
+300	Block	152	-71,31,-1599
+300.1	Block	0	-71,31,-1599
+480	Block	152	-71,31,-1598
+480.1	Block	0	-71,31,-1598
+600	Block	152	-71,31,-1597
+600.1	Block	152	-71,31,-1597
+#Fences
+0	Block	152	-90,28,-1611
+0	Block	152	-82,28,-1611
+#BackClose
+0	Schematic	CastleBackClose	-82	45	-1651	mk	false
+#LightsOff
+593	Block	152	-98,28,-1611
+594	Block	152	-95,28,-1611
+594	Block	152	-95,30,-1611
+595	Block	152	-92,28,-1611

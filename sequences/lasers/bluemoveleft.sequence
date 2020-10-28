@@ -1,0 +1,6 @@
+Sequence	Laser	Relative
+#blue laser move left haul out
+9.5	Spawn
+9.6	Move	target	6,5,-22	8
+10	Move	target	16,0,16	40
+12	Despawn

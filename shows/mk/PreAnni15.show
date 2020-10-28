@@ -1,0 +1,35 @@
+Show	Location	-89,43,-1588
+Show	TextRadius	150
+Show	Name	Castle
+#Broadcast
+0	Block	152	-87,31,-1601
+300	Block	152	-87,31,-1600
+600	Block	152	-87,31,-1599
+780	Block	152	-87,31,-1598
+#Audio
+300	Block	152	-95,29,-1611
+345	AudioStart	palannipre
+347	AudioSync	palannipre	2
+375	AudioSync	palannipre	30
+405	AudioSync	palannipre	60
+465	AudioSync	palannipre	120
+525	AudioSync	palannipre	180
+585	AudioSync	palannipre	240
+665	AudioSync	palannipre	300
+725	AudioSync	palannipre	360
+785	AudioSync	palannipre	420
+845	AudioSync	palannipre	480
+#Show Start
+905	Block	152	-87,31,-1597
+903	Block	152	-86,28,-1611
+#Time
+300	Block	152	-102,29,-1611
+300	Block	152	-99,29,-1611
+#Lights
+895	Block	152	-98,28,-1611
+896	Block	152	-95,28,-1611
+895	Block	152	-95,30,-1611
+896	Block	152	-92,28,-1611
+#Fences
+300	Block	152	-90,28,-1611
+300	Block	152	-82,28,-1611

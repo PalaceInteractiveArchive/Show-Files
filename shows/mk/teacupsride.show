@@ -1,0 +1,64 @@
+Show	Location	50,44,-1685
+Show	TextRadius	11
+#This is the location where music/text is centered.
+
+#Spawn Backup
+0	Block	152	51,41,-1687
+1	Block	152	50,41,-1687
+
+#Text warnings
+0	Text	Welcome to the Mad Tea Party, where everything is quite.. mad.
+4	Text	To ensure your safety, please remain seated with your hands, arms, feet, and legs inside while the teacups spin.
+8	Text	Enjoy your ride!
+0	Title	subtitle	4	10	20	&aRide starting in 10 seconds
+1	Title	subtitle	4	10	20	&aRide starting in 9 seconds
+2	Title	subtitle	4	10	20	&aRide starting in 8 seconds
+3	Title	subtitle	4	10	20	&aRide starting in 7 seconds
+4	Title	subtitle	4	10	20	&aRide starting in 6 seconds
+5	Title	subtitle	4	10	20	&aRide starting in 5 seconds
+6	Title	subtitle	4	10	20	&aRide starting in 4 seconds
+7	Title	subtitle	4	10	20	&aRide starting in 3 seconds
+8	Title	subtitle	4	10	20	&aRide starting in 2 seconds
+9	Title	subtitle	4	10	20	&aRide starting in 1 second
+
+#Ride Timings
+0	Block 	20	49,41,-1683
+0	Block 	20	50,41,-1687
+0	Block 	20	48,41,-1681
+0	Block 	20	48,41,-1682
+0	Block 	20	48,41,-1683
+0	Block 	20	48,41,-1684
+0	Block 	20	48,41,-1685
+0	Block 	20	48,41,-1686
+0	Block 	20	48,41,-1687
+0	Block 	20	48,41,-1688
+0	Block 	20	48,41,-1689
+0	Block 	20	49,41,-1687
+0	Block	20	50,41,-1683
+10	Block	152	49,41,-1683
+10	Block	152	50,41,-1687
+11	Block	152	48,41,-1681
+12	Block	152	48,41,-1682
+13	Block	152	48,41,-1683
+14	Block	152	48,41,-1684
+15	Block	152	48,41,-1685
+16	Block	152	48,41,-1686
+17	Block	152	48,41,-1687
+18	Block	152	48,41,-1688
+19	Block	152	48,41,-1689
+20	Block	152	49,41,-1687
+
+81	Text	Thank you for enduring the Mad Tea Party and enjoy the rest of your day here on Palace Network!
+80	Block	152	49,41,-1687
+81	Block	152	48,41,-1689
+82	Block	152	48,41,-1688
+83	Block	152	48,41,-1687
+84	Block	152	48,41,-1686
+85	Block	152	48,41,-1685
+86	Block	152	48,41,-1684
+87	Block	152	48,41,-1683
+88	Block	152	48,41,-1682
+89	Block	152	48,41,-1681
+90	Block	152	50,41,-1687
+
+91	Block	152	50,41,-1683

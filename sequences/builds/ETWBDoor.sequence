@@ -1,0 +1,5 @@
+Sequence	Build
+Build	ETWBTestDoor	ETWBTestDoor
+0	ETWBTestDoor	Spawn	-82.5,43.5,-1807.5
+1	ETWBTestDoor	Move	-82.5,40.5,-1807.5	100
+20	ETWBTestDoor	Despawn

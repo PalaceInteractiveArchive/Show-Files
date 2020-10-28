@@ -1,0 +1,25 @@
+Show	Location	-191,64,66
+Show	TextRadius	20
+Show	Name	Dersney	
+3	Text	&bI tried to catch some fog... but I &3&omist
+9	Text	&eBroken pencils are simply &6&lpointless
+19	Text	&aI used to work at a bank, but I lost &2&ninterest
+19	Lightning	-193,71,66	
+Effect	a1	BURST,WHITE,TRAIL
+12	PowerFirework	-194,73,66	a1	0,2,2
+Effect	a2	BALL_LARGE,RED,FLICKER
+15	PowerFirework	-196,73,69	a2	0,2,0
+15	PowerFirework	-196,73,72	a2	0,2,0
+15	PowerFirework	-196,73,64	a2	0,2,0
+15	PowerFirework	-196,73,61	a2	0,2,0
+20	PowerFirework	-196,73,69	a2	0,2,0
+20	PowerFirework	-196,73,72	a2	0,2,0
+20	PowerFirework	-196,73,64	a2	0,2,0
+20	PowerFirework	-196,73,61	a2	0,2,0
+25	PowerFirework	-196,73,69	a2	0,2,0
+25	PowerFirework	-196,73,72	a2	0,2,0
+25	PowerFirework	-196,73,64	a2	0,2,0
+25	PowerFirework	-196,73,61	a2	0,2,0
+30	Text	&aYay show's over!
+	
+	

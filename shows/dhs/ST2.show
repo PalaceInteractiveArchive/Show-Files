@@ -1,0 +1,30 @@
+﻿Show	Location	-94,53,743
+Show	TextRadius	25
+#StationOff
+0	Block	3:0	-94,17,772
+#CartMove
+3	Block	0	-107,33,782
+3.1	Block	152	-109,33,782
+6	Block	0	-109,33,782
+4	Block	152	-111,33,782
+5.5	Block	0	-111,33,782
+6	Block	152	-113,33,782
+6.76	Block	0	-113,33,782
+6.79	Block	152	-118,34,783
+6.8	Block	0	-105,33,782
+6.85	Block	152	-104,32,780
+7.1	Block	0	-104,32,780
+8	Block	152	-96,17,771
+17.5	Block	3:0	-96,17,771
+8	Block	152	-96,17,773
+17.5	Block	3:0	-96,17,773
+#LightSaber
+9	Block	152	-95,34,799
+#RailsBack
+6.5	Block	66	-95,20,774
+6.5	Block	66	-95,20,773
+6.5	Block	66	-95,20,772
+6.5	Block	66	-95,20,771
+#ResetScene
+17	Block	152	-95,34,786
+17	Block	152	-85,34,782

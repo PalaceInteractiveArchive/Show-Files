@@ -1,0 +1,70 @@
+Show	Location	-79,63,2986
+Show	TextRadius	100
+#Musics
+Show	Name	WSL
+0	AudioStart	preEF2
+2	AudioSync	preEF2	2
+11	AudioSync	preEF2	11
+177.4	AudioSync	preEF2	177.4
+404.7	AudioSync	preEF2	404.7
+#Time
+0	Block	152	-105,39,2994
+1	Block	20	-105,39,2994
+0	Block	152	-105,42,2995
+1	Block	20	-105,42,2995
+599	Block	152	-105,42,2994
+600	Block	20	-105,42,2994
+0	Block	1	-53,61,2982
+599	Block	20	-53,61,2982
+599	Block	152	-105,42,2999
+#Time in dummy files Chatmute
+580	Block	20	-105,43,3000
+589	Block	152	-105,43,3000
+590	Block	20	-105,43,3000
+#Text
+0	Block	152	-105,43,2996
+1	Block	0	-105,43,2996
+0.1	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N10 minutes&3, we invite you to enjoy &O&AEPCOT Forever. &3Thank you.
+30	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+120	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+270	Block	152	-105,43,2995
+271	Block	0	-105,43,2995
+300	Text	&3Greetings EPCOT World Travellers
+303.5	Text	&3In Just &6&L&N5 minutes&3, the EPCOT family will proudly present: &O&AEPCOT Forever&9&O: An amazing celebration of EPCOT's yesterday and tomorrow!
+313.5	Text	&3We ask that for your safety and the safety of others, that you stay on the Promenade side of all railings during the show. Thank you for your cooperation.
+325	Text	&3Tonight's performance of &O&AEPCOT Forever &3will begin in just &6&L&N5 minutes!
+360	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+420	Text	&3Ladies and gentlemen, once again, for your safety and the safety of others, that you stay on the Promenade side of all railings during tonight's presentation of &O&AEPCOT Forever&3. Thank you for your cooperation.
+450	Block	152	-105,43,2994
+451	Block	0	-105,43,2994
+480	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+540	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+585	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+#Torches
+0	Block	51	-55,73,2990
+0	Block	51	24,73,2983
+0	Block	51	85,73,3029
+0	Block	51	112,73,3058
+0	Block	51	137,73,3118
+0	Block	51	169,73,3202
+0	Block	51	180,73,3260
+0	Block	51	150,73,3288
+0	Block	51	66,73,3326
+0	Block	51	-10,73,3345
+0	Block	51	-149,73,3347
+0	Block	51	-233,73,3335
+0	Block	51	-268,73,3319
+0	Block	51	-343,73,3266
+0	Block	51	-325,73,3142
+0	Block	51	-268,73,3061
+0	Block	51	-223,73,2993
+0	Block	51	-179,73,2982
+0	Block	51	-104,73,2990
+0	Block	152	-105,42,3002
+899	Block	20	-105,42,3002
+#Lights
+0	Block	152	-105,40,3002
+1	Block	20	-105,40,3002
+#Start
+600	Block	152	-105,41,2995
+601	Block	0	-105,41,2995

@@ -1,0 +1,129 @@
+#Show Started January 20th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths15
+5	AudioSync	flaths15	5
+10	AudioSync	flaths15	10
+30	AudioSync	flaths15	30
+60	AudioSync	flaths15	60
+120	AudioSync	flaths15	120
+180	AudioSync	flaths15	180
+210	AudioSync	flaths15	210
+#S15 Worth Melting For
+67.3	Text	&f[&aMaid&f] &7Here, put her close to the fire.
+70.6	Text	&f[&6Hans&f] &7She’s so cold. 
+72.2	Text	&7What happened?
+73	Text	&f[&3Kristoff&f] &7Queen Elsa struck her with her powers.
+75.3	Text	 &f[&aButler&f] &7Thank you for bringing her back.
+76.9	Text	&f[&aMaid&f] &7There’s soup and hot glögg-
+78.2	Text	&f[&3Kristoff&f] &7Oh, no, I don’t-
+79.1	Text	&7I didn’t. Just, please,
+81.3	Text	&7make sure she’s safe.
+86.2	Text	&f[&6Hans&f] &7I thought you said she would never hurt you?
+88.4	Text	&f[&dAnna&f] &7I was wrong.
+90	Text	&7Elsa froze my heart,
+91.9	Text	&7and only an act of true love can save me.
+95.7	Text	&f[&6Hans&f] &7A true love’s kiss!
+97.8	Text	&f[&dAnna&f] &7Yes!
+98.5	Text	&f[&6Hans&f] &7Oh Anna,
+101.2	Text	&7If only there was someone out there who loved you.
+105.2	Text	&f[&dAnna&f] &7What? You said you did.
+108.3	Text	&f[&6Hans&f] &7As thirteenth in line in my own kingdom,
+110.6	Text	&7I knew I’d have to marry into the throne somewhere.
+113.6	Text	&7Elsa was preferable,
+116.9	Text	&7but you,
+118.5	Text	&7you were so desperate for love.
+120.5	Text	&7You were willing to marry me just like that.
+122.9	Text	&7Besides, Elsa doomed herself,
+125.4	Text	&7and you went after her.
+127.5	Text	&7Now she’s locked up in the palace dungeon.
+130.6	Text	&7All that’s left to do is kill Elsa,
+133.7	Text	&7and bring back Summer.
+135.2	Text	&f[&dAnna&f] &7You’re no match for Elsa!
+136.9	Text	&f[&6Hans&f] &7You’re no match for Elsa!
+140	Text	&7I, on the other hand,
+142.5	Text	&7am the hero who is going to save Arendelle from destruction.
+147.5	Text	&f[&dAnna&f] &7You won’t get away with this!
+150.5	Text	&f[&6Hans&f] &7Awh,
+153.4	Text	&7I already have.
+168.5	Text	&f[&9Olaf&f] &7Anna?
+170.5	Text	&7Oh, no!
+171	Text	&f[&dAnna&f] &7Olaf?
+172.3	Text	&f[&9Olaf&f] &7What happened to Hans?
+174.3	Text	&7What happened to your kiss?
+175.8	Text	&f[&dAnna&f] &7I was wrong about him.
+177.5	Text	&7It wasn’t true love.
+179.9	Text	&7I don’t even know what love is.
+182.5	Text	&f[&9Olaf&f] &7That’s okay, I do.
+185.6	Text	&7Love is; putting someone else’s needs before yours.
+190.2	Text	&7Like when Kristoff brought you back here to Hans,
+192.4	Text	&7and left you forever!
+193.9	Text	&f[&dAnna&f] &7Kristoff loves me?
+195.9	Text	&f[&9Olaf&f] &7Wow, you really don’t know anything about love, do you?
+200.2	Text	&7Huh say, is it hot in here or what?
+202.9	Text	&f[&dAnna&f] &7Olaf you’re starting to melt!
+205.1	Text	&f[&9Olaf&f] &7Some people are worth melting for…
+209.6	Text	&7Just, maybe not right this second?
+213.4	Text	&7Come on Anna, let’s go find Kristoff!
+#Schematics
+3	Schematic	FLatHS15.1	439	62	68	newhws	false
+4	Schematic	FLatHS15.2	439	62	68	newhws	false
+5	Schematic	FLatHS15.3	439	62	68	newhws	false
+6	Schematic	FLatHS15.4	439	62	68	newhws	false
+7	Schematic	FLatHS15.5	439	62	68	newhws	false
+8	Schematic	FLatHS15.6	439	62	68	newhws	false
+9	Schematic	FLatHS15.7	439	62	68	newhws	false
+10	Schematic	FLatHS15.8	439	62	68	newhws	false
+11	Schematic	FLatHS15.9	439	62	68	newhws	false
+12	Schematic	FLatHS15.10	439	62	68	newhws	false
+13	Schematic	FLatHS15.11	439	62	68	newhws	false
+17.6	Schematic	FLatHS15.12	439	62	68	newhws	false
+20.1	Schematic	FLatHS15.13	439	62	68	newhws	false
+22.6	Schematic	FLatHS15.14	439	62	68	newhws	false
+25.1	Schematic	FLatHS15.15	439	62	68	newhws	false
+27.6	Schematic	FLatHS15.16	439	62	68	newhws	false
+30.1	Schematic	FLatHS15.17	439	62	68	newhws	false
+32.6	Schematic	FLatHS15.18	439	62	68	newhws	false
+35.1	Schematic	FLatHS15.19	439	62	68	newhws	false
+37.6	Schematic	FLatHS15.20	439	62	68	newhws	false
+40.1	Schematic	FLatHS15.21	439	62	68	newhws	false
+42.6	Schematic	FLatHS15.22	439	62	68	newhws	false
+45.1	Schematic	FLatHS15.23	439	62	68	newhws	false
+47.6	Schematic	FLatHS15.24	439	62	68	newhws	false
+50.1	Schematic	FLatHS15.25	439	62	68	newhws	false
+52	Schematic	FLatHS15.26	439	62	68	newhws	false
+52.6	Schematic	FLatHS15.27	439	62	68	newhws	false
+53.1	Schematic	FLatHS15.28	439	62	68	newhws	false
+53.6	Schematic	FLatHS15.29	439	62	68	newhws	false
+64.1	Schematic	FLatHS15.30	439	62	68	newhws	false
+64.6	Schematic	FLatHS15.31	439	62	68	newhws	false
+65.1	Schematic	FLatHS15.32	439	62	68	newhws	false
+65.6	Schematic	FLatHS15.33	439	62	68	newhws	false
+66.1	Schematic	FLatHS15.34	439	62	68	newhws	false
+66.6	Schematic	FLatHS15.35	439	62	68	newhws	false
+67.1	Schematic	FLatHS15.36	439	62	68	newhws	false
+67.6	Schematic	FLatHS15.37	439	62	68	newhws	false
+#Doorsleft
+86.2	Block	152	420,68,82
+86.5	Block	152	420,68,83
+90.0	Block	152	420,68,82
+90.3	Block	152	420,68,81
+161.7	Block	152	420,68,82
+162.0	Block	152	420,68,83
+165.3	Block	152	420,68,82
+165.6	Block	152	420,68,81
+#doorright
+168.2	Block	152	420,68,85
+168.5	Block	152	420,68,86
+170.1	Block	152	420,68,85
+170.4	Block	152	420,68,84
+#OpenCurtain
+206.8	Block	152	452,89,66
+210.1	Block	152	453,89,66
+213.4	Block	152	454,89,66
+#Door
+67.6	Block	76	455,67,67
+206.7	Block	0	455,67,67
+206.7	Block	0	456,67,68

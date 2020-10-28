@@ -1,0 +1,52 @@
+Show	Location	228,65,3079
+Show	TextRadius	15
+Show	Name	olaf1
+ArmorStand	olaf1	true	skull:eyJ0aW1lc3RhbXAiOjE0NzA2MDM4Njg3NTgsInByb2ZpbGVJZCI6IjNmMzc1Y2E0MTRmMTQwNWY4ZGIwYjFjOTc1Mzg1NWZlIiwicHJvZmlsZU5hbWUiOiJPbGFmX18iLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NiYzM3OTM4NTFiNGY3MGU0OTE4MGE4OTI1ZmYxZThjY2FkM2VkNjEyNjgxNjhkY2UwYjU4ZTQ5YjkifX19;299(255,255,255);300(255,255,255);301(255,255,255)
+.1	ArmorStand	olaf1	spawn	229.5,65,3079.6
+.3	ArmorStand	olaf1	position	ARM_LEFT	-38,-30,0	.1
+.3	ArmorStand	olaf1	position	ARM_RIGHT	-33,41,0	.1
+.3	ArmorStand	olaf1	position	LEG_LEFT	0,0,-10	.1
+.3	ArmorStand	olaf1	position	LEG_RIGHT	10,0,10	.1
+.3	ArmorStand	olaf1	rotate	90	.2
+3	ArmorStand	olaf1	position	HEAD	0,-10,0	1
+6.7	ArmorStand	olaf1	move	228.6,65,3079.3	2
+6.7	ArmorStand	olaf1	position	HEAD	5,0,-6	.5
+7	ArmorStand	olaf1	position	LEG_RIGHT	21,0,10	.5
+7	ArmorStand	olaf1	position	LEG_LEFT	-16,0,-10	.5
+8	ArmorStand	olaf1	position	HEAD	0,-20,0	1
+8.5	ArmorStand	olaf1		position	LEG_RIGHT	0,0,10	.5
+8.5	ArmorStand	olaf1		position	LEG_LEFT	0,0,-10	.5
+8.5	ArmorStand	olaf1	position	HEAD	-5,0,0	.5
+10	ArmorStand	olaf1	position	HEAD	10,0,10	1
+13	ArmorStand	olaf1	position	ARM_RIGHT	-20,0,17	1
+13	ArmorStand	olaf1	position	ARM_LEFT	-57,0,-40	1
+15.5	ArmorStand	olaf1	position	HEAD	-20,17,0	1
+15.5	ArmorStand	olaf1	position	ARM_RIGHT	0,0,30	1
+15.5	ArmorStand	olaf1	position	ARM_LEFT	0,0,-40	1
+13	ArmorStand	olaf1	position	HEAD	14,-30,0	1	
+#olaf has to rotate to 176
+20	ArmorStand	olaf1	rotate	20	7
+20	ArmorStand	olaf1	move	229.4,65,3079.4	3
+20	ArmorStand	olaf1	position	HEAD	0,10,0	1
+19	ArmorStand	olaf1	position	ARM_LEFT	0,0,-20	1
+19	ArmorStand	olaf1	position	ARM_RIGHT	0,0,20	1
+23	ArmorStand	olaf1	position	ARM_RIGHT	-20,0,17	1
+23	ArmorStand	olaf1	position	ARM_LEFT	-57,0,-40	1
+24	ArmorStand	olaf1	position	HEAD	0,5,0	1
+26.5	ArmorStand	olaf1	position	ARM_RIGHT	0,0,30	1
+26.5	ArmorStand	olaf1	position	ARM_LEFT	0,0,-40	1
+27.6	ArmorStand	olaf1	position	HEAD	0,8,-10	.1
+27.6	ArmorStand	olaf1	position	ARM_LEFT	0,0,-30	.1
+27.6	ArmorStand	olaf1	position	ARM_RIGHT	0,0,97	.1
+
+#Text
+6.7	Text	&f[&9Olaf&f] &bDo you wanna build a snowman?
+10	Text	&bCome on, I know you do!
+13	Text	&bElsa's made a magic winter show
+15.5	Text	&bIt's summer snow!
+16.6	Text	&bFor Sven and me and you!
+20.4	Text	&bWe're going up to Elsa's ice palace!
+23	Text	&bWith you, and you, and you, all of you!
+27.6	Text	&bSee you there!
+31	ArmorStand	olaf1	despawn
+

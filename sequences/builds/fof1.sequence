@@ -1,0 +1,5 @@
+Sequence	Build
+Build	fofp1	fof1
+0	fofp1	Spawn	-92,41,-1517
+1	fofp1	Move	-92,41,-1370	2000
+25	fofp1	Despawn

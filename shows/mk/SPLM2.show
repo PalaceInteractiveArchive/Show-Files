@@ -1,0 +1,293 @@
+﻿Show	Location	-534,49,-1602
+Show	TextRadius	25
+#Define
+ArmorStand	splmfrog1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU1NGU2N2ZkMmYzOTIzMmYwOTdkMGYyYWRhNzFiZTdkYjhkNjA4MGVhN2ZkYTYzNTA2YWI4MWQ0NzJjNWViIn19fQ==";299(52,196,41);300(52,196,41);301(52,196,41);0
+ArmorStand	splmfrog2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU1NGU2N2ZkMmYzOTIzMmYwOTdkMGYyYWRhNzFiZTdkYjhkNjA4MGVhN2ZkYTYzNTA2YWI4MWQ0NzJjNWViIn19fQ==";299(52,196,41);300(52,196,41);301(52,196,41);0
+ArmorStand	splmfrog3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU1NGU2N2ZkMmYzOTIzMmYwOTdkMGYyYWRhNzFiZTdkYjhkNjA4MGVhN2ZkYTYzNTA2YWI4MWQ0NzJjNWViIn19fQ==";299(52,196,41);300(52,196,41);301(52,196,41);0
+ArmorStand	splmhat2	true	293:42;0;0;0
+ArmorStand	splmhat3	false	293:42;0;0;0
+ArmorStand	splmhat4	true	293:42;0;0;0
+ArmorStand	splmhat5	true	293:42;0;0;0
+ArmorStand	splmbird1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAxNDljMjM4NDg2ZWM0ZWU5MjQyMDI2YWVlNTZjNGQ0YjY5NTlkM2JmNzE0YWM3ZGZkMWY5ZDYyOWJhNWEifX19";299(240,240,240);300(240,240,240);301(240,240,240);0
+ArmorStand	splmbird2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAxNDljMjM4NDg2ZWM0ZWU5MjQyMDI2YWVlNTZjNGQ0YjY5NTlkM2JmNzE0YWM3ZGZkMWY5ZDYyOWJhNWEifX19";299(240,240,240);300(240,240,240);301(240,240,240);0
+ArmorStand	splmbird3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAxNDljMjM4NDg2ZWM0ZWU5MjQyMDI2YWVlNTZjNGQ0YjY5NTlkM2JmNzE0YWM3ZGZkMWY5ZDYyOWJhNWEifX19";299(240,240,240);300(240,240,240);301(240,240,240);0
+ArmorStand	splmbird4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTAxNDljMjM4NDg2ZWM0ZWU5MjQyMDI2YWVlNTZjNGQ0YjY5NTlkM2JmNzE0YWM3ZGZkMWY5ZDYyOWJhNWEifX19";299(240,240,240);300(240,240,240);301(240,240,240);0
+ArmorStand	splmhat6	false	293:42;0;0;0
+ArmorStand	splmhat7	false	293:42;0;0;0
+#Spawn
+0	ArmorStand	splmfrog1	Spawn	-531.5,48.65,-1599.5,-136.3
+0	ArmorStand	splmhat2	Spawn	-531.5,48.72,-1599.5,-136.3
+0	ArmorStand	splmbird1	Spawn	-532.5,48.6,-1602,-76
+0	ArmorStand	splmhat3	Spawn	-532.5,48.72,-1602,-76
+0	ArmorStand	splmfrog2	Spawn	-533.5,48.65,-1605.5,-56.1
+0	ArmorStand	splmhat4	Spawn	-533.5,48.72,-1605.5,-56.1
+0	ArmorStand	splmfrog3	Spawn	-534.5,48.65,-1604.5,-61.9
+0	ArmorStand	splmhat5	Spawn	-534.5,48.72,-1604.5,-61.9
+0	ArmorStand	splmbird2	Spawn	-529.5,48.6,-1609.5,-13.1
+0	ArmorStand	splmbird3	Spawn	-531.396,49.85,-1612.556,-13.1
+0	ArmorStand	splmhat6	Spawn	-531.396,49.94,-1612.556,-13.1
+0	ArmorStand	splmbird4	Spawn	-532.713,49,-1612.668,30.5
+0	ArmorStand	splmhat7	Spawn	-532.713,49.105,-1612.668,30.5
+0.1	ArmorStand	splmbird2	Position	ARM_RIGHT	-45,-40,-20	0.5
+0.1	ArmorStand	splmbird2	Position	ARM_LEFT	-50,20,30	0.5
+0.1	ArmorStand	splmbird3	Position	ARM_RIGHT	-45,-40,-20	0.5
+0.1	ArmorStand	splmbird3	Position	ARM_LEFT	-50,20,30	0.5
+0.1	ArmorStand	splmbird4	Position	ARM_RIGHT	-45,-40,-20	0.5
+0.1	ArmorStand	splmbird4	Position	ARM_LEFT	-50,20,30	0.5
+0.1	ArmorStand	splmbird2	Position	HEAD	0,37,0	0.5
+0.1	ArmorStand	splmbird1	Position	ARM_RIGHT	-45,-40,-20	0.5
+0.1	ArmorStand	splmbird1	Position	ARM_LEFT	-50,-10,30	0.5
+0.1	Block	152	-532,45,-1600
+0.1	Block	152	-532,45,-1601
+0.1	ArmorStand	splmfrog1	Position	LEG_LEFT	80,0,0	0.5
+0.1	ArmorStand	splmfrog1	Position	LEG_RIGHT	80,0,0	0.5
+0.1	ArmorStand	splmfrog1	Position	BODY	15,0,0	0.5
+0.1	ArmorStand	splmfrog2	Position	LEG_LEFT	80,0,0	0.5
+0.1	ArmorStand	splmfrog2	Position	LEG_RIGHT	80,0,0	0.5
+0.1	ArmorStand	splmfrog2	Position	BODY	15,0,0	0.5
+0.1	ArmorStand	splmfrog3	Position	LEG_LEFT	80,0,0	0.5
+0.1	ArmorStand	splmfrog3	Position	LEG_RIGHT	80,0,0	0.5
+0.1	ArmorStand	splmfrog3	Position	BODY	15,0,0	0.5
+#Movements1
+1	ArmorStand	splmfrog1	Position	HEAD	20,0,0	2
+1	ArmorStand	splmhat2	Position	HEAD	20,0,0	0.65
+2	ArmorStand	splmfrog1	Position	HEAD	-20,0,0	2
+2	ArmorStand	splmhat2	Position	HEAD	-20,0,0	0.65
+3	ArmorStand	splmfrog1	Position	HEAD	0,0,0	2
+3	ArmorStand	splmhat2	Position	HEAD	0,0,0	0.65
+8	ArmorStand	splmfrog1	Position	HEAD	-20,0,0	2
+8	ArmorStand	splmhat2	Position	HEAD	-20,0,0	0.65
+9	ArmorStand	splmfrog1	Position	HEAD	20,0,0	2
+9	ArmorStand	splmhat2	Position	HEAD	20,0,0	0.65
+10	ArmorStand	splmfrog1	Position	HEAD	0,0,0	2
+10	ArmorStand	splmhat2	Position	HEAD	0,0,0	0.65
+11	ArmorStand	splmfrog1	Position	HEAD	20,0,0	2
+11	ArmorStand	splmhat2	Position	HEAD	20,0,0	0.65
+12	ArmorStand	splmfrog1	Position	HEAD	-20,0,0	2
+12	ArmorStand	splmhat2	Position	HEAD	-20,0,0	0.65
+16	ArmorStand	splmfrog1	Position	HEAD	0,0,0	2
+16	ArmorStand	splmhat2	Position	HEAD	0,0,0	0.65
+17	ArmorStand	splmfrog1	Position	HEAD	-20,0,0	2
+17	ArmorStand	splmhat2	Position	HEAD	-20,0,0	0.65
+18	ArmorStand	splmfrog1	Position	HEAD	20,0,0	2
+18	ArmorStand	splmhat2	Position	HEAD	20,0,0	0.65
+22	ArmorStand	splmfrog1	Position	HEAD	0,0,0	2
+22	ArmorStand	splmhat2	Position	HEAD	0,0,0	0.65
+26	ArmorStand	splmfrog1	Position	HEAD	20,0,0	2
+26	ArmorStand	splmhat2	Position	HEAD	20,0,0	0.65
+27	ArmorStand	splmfrog1	Position	HEAD	-20,0,0	2
+27	ArmorStand	splmhat2	Position	HEAD	-20,0,0	0.65
+28	ArmorStand	splmfrog1	Position	HEAD	0,0,0	2
+28	ArmorStand	splmhat2	Position	HEAD	0,0,0	0.65
+30	ArmorStand	splmfrog1	Position	HEAD	-20,0,0	2
+30	ArmorStand	splmhat2	Position	HEAD	-20,0,0	0.65
+34	ArmorStand	splmfrog1	Position	HEAD	20,0,0	2
+34	ArmorStand	splmhat2	Position	HEAD	20,0,0	0.65
+35	ArmorStand	splmfrog1	Position	HEAD	0,0,0	2
+35	ArmorStand	splmhat2	Position	HEAD	0,0,0	0.65
+#Movements2
+2	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+2	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+3	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+3	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+7	ArmorStand	splmfrog2	Position	HEAD	0,0,0	2
+7	ArmorStand	splmhat4	Position	HEAD	0,0,0	0.65
+8	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+8	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+11	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+11	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+12	ArmorStand	splmfrog2	Position	HEAD	0,0,0	2
+12	ArmorStand	splmhat4	Position	HEAD	0,0,0	0.65
+16	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+16	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+17	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+17	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+18	ArmorStand	splmfrog2	Position	HEAD	0,0,0	2
+18	ArmorStand	splmhat4	Position	HEAD	0,0,0	0.65
+22	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+22	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+23	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+23	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+24	ArmorStand	splmfrog2	Position	HEAD	0,0,0	2
+24	ArmorStand	splmhat4	Position	HEAD	0,0,0	0.65
+28	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+28	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+29	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+29	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+30	ArmorStand	splmfrog2	Position	HEAD	0,0,0	2
+30	ArmorStand	splmhat4	Position	HEAD	0,0,0	0.65
+31	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+31	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+32	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+32	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+33	ArmorStand	splmfrog2	Position	HEAD	0,0,0	2
+33	ArmorStand	splmhat4	Position	HEAD	0,0,0	0.65
+34	ArmorStand	splmfrog2	Position	HEAD	20,0,0	2
+34	ArmorStand	splmhat4	Position	HEAD	20,0,0	0.65
+35	ArmorStand	splmfrog2	Position	HEAD	-20,0,0	2
+35	ArmorStand	splmhat4	Position	HEAD	-20,0,0	0.65
+#Movements3
+3	ArmorStand	splmfrog3	Position	HEAD	20,0,0	2
+3	ArmorStand	splmhat5	Position	HEAD	20,0,0	0.65
+4	ArmorStand	splmfrog3	Position	HEAD	-20,0,0	2
+4	ArmorStand	splmhat5	Position	HEAD	-20,0,0	0.65
+8	ArmorStand	splmfrog3	Position	HEAD	0,0,0	2
+8	ArmorStand	splmhat5	Position	HEAD	0,0,0	0.65
+9	ArmorStand	splmfrog3	Position	HEAD	-20,0,0	2
+9	ArmorStand	splmhat5	Position	HEAD	-20,0,0	0.65
+12	ArmorStand	splmfrog3	Position	HEAD	20,0,0	2
+12	ArmorStand	splmhat5	Position	HEAD	20,0,0	0.65
+13	ArmorStand	splmfrog3	Position	HEAD	0,0,0	2
+13	ArmorStand	splmhat5	Position	HEAD	0,0,0	0.65
+17	ArmorStand	splmfrog3	Position	HEAD	20,0,0	2
+17	ArmorStand	splmhat5	Position	HEAD	20,0,0	0.65
+18	ArmorStand	splmfrog3	Position	HEAD	-20,0,0	2
+18	ArmorStand	splmhat5	Position	HEAD	-20,0,0	0.65
+19	ArmorStand	splmfrog3	Position	HEAD	0,0,0	2
+19	ArmorStand	splmhat5	Position	HEAD	0,0,0	0.65
+24	ArmorStand	splmfrog3	Position	HEAD	-20,0,0	2
+24	ArmorStand	splmhat5	Position	HEAD	-20,0,0	0.65
+25	ArmorStand	splmfrog3	Position	HEAD	20,0,0	2
+25	ArmorStand	splmhat5	Position	HEAD	20,0,0	0.65
+26	ArmorStand	splmfrog3	Position	HEAD	0,0,0	2
+26	ArmorStand	splmhat5	Position	HEAD	0,0,0	0.65
+30	ArmorStand	splmfrog3	Position	HEAD	20,0,0	2
+30	ArmorStand	splmhat5	Position	HEAD	20,0,0	0.65
+31	ArmorStand	splmfrog3	Position	HEAD	-20,0,0	2
+31	ArmorStand	splmhat5	Position	HEAD	-20,0,0	0.65
+32	ArmorStand	splmfrog3	Position	HEAD	0,0,0	2
+32	ArmorStand	splmhat5	Position	HEAD	0,0,0	0.65
+33	ArmorStand	splmfrog3	Position	HEAD	-20,0,0	2
+33	ArmorStand	splmhat5	Position	HEAD	-20,0,0	0.65
+35	ArmorStand	splmfrog3	Position	HEAD	20,0,0	2
+35	ArmorStand	splmhat5	Position	HEAD	20,0,0	0.65
+36	ArmorStand	splmfrog3	Position	HEAD	0,0,0	2
+36	ArmorStand	splmhat5	Position	HEAD	0,0,0	0.65
+#Movements4
+1	ArmorStand	splmbird1	Position	HEAD	20,0,0	2
+1	ArmorStand	splmhat3	Position	HEAD	20,0,0	0.85
+4	ArmorStand	splmbird1	Position	HEAD	0,0,10	2
+4	ArmorStand	splmhat3	Position	HEAD	0,0,10	0.85
+7	ArmorStand	splmbird1	Position	HEAD	20,10,-10	2
+7	ArmorStand	splmhat3	Position	HEAD	20,10,-10	0.85
+10	ArmorStand	splmbird1	Position	HEAD	20,0,0	2
+10	ArmorStand	splmhat3	Position	HEAD	20,0,0	0.85
+13	ArmorStand	splmbird1	Position	HEAD	0,0,10	2
+13	ArmorStand	splmhat3	Position	HEAD	0,0,10	0.85
+16	ArmorStand	splmbird1	Position	HEAD	20,10,-10	2
+16	ArmorStand	splmhat3	Position	HEAD	20,10,-10	0.85
+19	ArmorStand	splmbird1	Position	HEAD	20,0,0	2
+19	ArmorStand	splmhat3	Position	HEAD	20,0,0	0.85
+23	ArmorStand	splmbird1	Position	HEAD	0,0,10	2
+23	ArmorStand	splmhat3	Position	HEAD	0,0,10	0.85
+27	ArmorStand	splmbird1	Position	HEAD	20,10,-10	2
+27	ArmorStand	splmhat3	Position	HEAD	20,10,-10	0.85
+30	ArmorStand	splmbird1	Position	HEAD	20,0,0	2
+30	ArmorStand	splmhat3	Position	HEAD	20,0,0	0.85
+33	ArmorStand	splmbird1	Position	HEAD	0,0,10	2
+33	ArmorStand	splmhat3	Position	HEAD	0,0,10	0.85
+36	ArmorStand	splmbird1	Position	HEAD	20,10,-10	2
+36	ArmorStand	splmhat3	Position	HEAD	20,10,-10	0.85
+###BoatBirdsMove
+##Bird2
+#Head
+1	ArmorStand	splmbird2	Position	HEAD	-10,40,0	3
+3	ArmorStand	splmbird2	Position	HEAD	10,20,0	3
+5	ArmorStand	splmbird2	Position	HEAD	0,40,20	3
+8	ArmorStand	splmbird2	Position	HEAD	0,40,0	3
+11	ArmorStand	splmbird2	Position	HEAD	20,0,10	3
+13	ArmorStand	splmbird2	Position	HEAD	0,40,0	3
+15	ArmorStand	splmbird2	Position	HEAD	-10,40,0	3
+17	ArmorStand	splmbird2	Position	HEAD	10,20,0	3
+19	ArmorStand	splmbird2	Position	HEAD	0,40,20	3
+21	ArmorStand	splmbird2	Position	HEAD	0,40,0	3
+23	ArmorStand	splmbird2	Position	HEAD	20,0,10	3
+25	ArmorStand	splmbird2	Position	HEAD	0,40,0	3
+27	ArmorStand	splmbird2	Position	HEAD	-10,40,0	3
+29	ArmorStand	splmbird2	Position	HEAD	10,20,0	3
+31	ArmorStand	splmbird2	Position	HEAD	0,40,20	3
+33	ArmorStand	splmbird2	Position	HEAD	0,40,0	3
+35	ArmorStand	splmbird2	Position	HEAD	20,0,10	3
+37	ArmorStand	splmbird2	Position	HEAD	0,40,0	3
+##Bird3
+2	ArmorStand	splmbird3	Position	HEAD	-10,40,0	3
+4	ArmorStand	splmbird3	Position	HEAD	10,20,0	3
+6	ArmorStand	splmbird3	Position	HEAD	0,40,20	3
+9	ArmorStand	splmbird3	Position	HEAD	0,40,0	3
+12	ArmorStand	splmbird3	Position	HEAD	20,0,10	3
+14	ArmorStand	splmbird3	Position	HEAD	0,40,0	3
+16	ArmorStand	splmbird3	Position	HEAD	-10,40,0	3
+18	ArmorStand	splmbird3	Position	HEAD	10,20,0	3
+20	ArmorStand	splmbird3	Position	HEAD	0,40,20	3
+22	ArmorStand	splmbird3	Position	HEAD	0,40,0	3
+24	ArmorStand	splmbird3	Position	HEAD	20,0,10	3
+26	ArmorStand	splmbird3	Position	HEAD	0,40,0	3
+28	ArmorStand	splmbird3	Position	HEAD	-10,40,0	3
+30	ArmorStand	splmbird3	Position	HEAD	10,20,0	3
+32	ArmorStand	splmbird3	Position	HEAD	0,40,20	3
+34	ArmorStand	splmbird3	Position	HEAD	0,40,0	3
+36	ArmorStand	splmbird3	Position	HEAD	20,0,10	3
+38	ArmorStand	splmbird3	Position	HEAD	0,40,0	3
+2	ArmorStand	splmhat6	Position	HEAD	-10,40,0	3
+4	ArmorStand	splmhat6	Position	HEAD	10,20,0	3
+6	ArmorStand	splmhat6	Position	HEAD	0,40,20	3
+9	ArmorStand	splmhat6	Position	HEAD	0,40,0	3
+12	ArmorStand	splmhat6	Position	HEAD	20,0,10	3
+14	ArmorStand	splmhat6	Position	HEAD	0,40,0	3
+16	ArmorStand	splmhat6	Position	HEAD	-10,40,0	3
+18	ArmorStand	splmhat6	Position	HEAD	10,20,0	3
+20	ArmorStand	splmhat6	Position	HEAD	0,40,20	3
+22	ArmorStand	splmhat6	Position	HEAD	0,40,0	3
+24	ArmorStand	splmhat6	Position	HEAD	20,0,10	3
+26	ArmorStand	splmhat6	Position	HEAD	0,40,0	3
+28	ArmorStand	splmhat6	Position	HEAD	-10,40,0	3
+30	ArmorStand	splmhat6	Position	HEAD	10,20,0	3
+32	ArmorStand	splmhat6	Position	HEAD	0,40,20	3
+34	ArmorStand	splmhat6	Position	HEAD	0,40,0	3
+36	ArmorStand	splmhat6	Position	HEAD	20,0,10	3
+38	ArmorStand	splmhat6	Position	HEAD	0,40,0	3
+##Bird4
+1	ArmorStand	splmbird4	Position	HEAD	-10,-40,0	3
+3	ArmorStand	splmbird4	Position	HEAD	10,-20,0	3
+5	ArmorStand	splmbird4	Position	HEAD	0,-40,20	3
+10	ArmorStand	splmbird4	Position	HEAD	0,-40,0	3
+13	ArmorStand	splmbird4	Position	HEAD	20,0,10	3
+16	ArmorStand	splmbird4	Position	HEAD	0,-40,0	3
+20	ArmorStand	splmbird4	Position	HEAD	-10,-40,0	3
+22	ArmorStand	splmbird4	Position	HEAD	10,-20,0	3
+24	ArmorStand	splmbird4	Position	HEAD	0,-40,20	3
+26	ArmorStand	splmbird4	Position	HEAD	0,-40,0	3
+28	ArmorStand	splmbird4	Position	HEAD	20,0,10	3
+34	ArmorStand	splmbird4	Position	HEAD	0,-40,0	3
+36	ArmorStand	splmbird4	Position	HEAD	-10,-40,0	3
+38	ArmorStand	splmbird4	Position	HEAD	10,-20,0	3
+1	ArmorStand	splmhat7	Position	HEAD	-10,-40,0	3
+3	ArmorStand	splmhat7	Position	HEAD	10,-20,0	3
+5	ArmorStand	splmhat7	Position	HEAD	0,-40,20	3
+10	ArmorStand	splmhat7	Position	HEAD	0,-40,0	3
+13	ArmorStand	splmhat7	Position	HEAD	20,0,10	3
+16	ArmorStand	splmhat7	Position	HEAD	0,-40,0	3
+20	ArmorStand	splmhat7	Position	HEAD	-10,-40,0	3
+22	ArmorStand	splmhat7	Position	HEAD	10,-20,0	3
+24	ArmorStand	splmhat7	Position	HEAD	0,-40,20	3
+26	ArmorStand	splmhat7	Position	HEAD	0,-40,0	3
+28	ArmorStand	splmhat7	Position	HEAD	20,0,10	3
+34	ArmorStand	splmhat7	Position	HEAD	0,-40,0	3
+36	ArmorStand	splmhat7	Position	HEAD	-10,-40,0	3
+38	ArmorStand	splmhat7	Position	HEAD	10,-20,0	3
+#Arms
+#
+#Despawn
+40	ArmorStand	splmfrog1	Despawn
+40	ArmorStand	splmhat2	Despawn
+40	ArmorStand	splmbird1	Despawn
+40	ArmorStand	splmhat3	Despawn
+40	ArmorStand	splmfrog2	Despawn
+40	ArmorStand	splmfrog3	Despawn
+40	ArmorStand	splmhat4	Despawn
+40	ArmorStand	splmhat5	Despawn
+40	ArmorStand	splmbird2	Despawn
+40	ArmorStand	splmbird3	Despawn
+40	ArmorStand	splmhat6	Despawn
+40	ArmorStand	splmbird4	Despawn
+40	ArmorStand	splmhat7	Despawn

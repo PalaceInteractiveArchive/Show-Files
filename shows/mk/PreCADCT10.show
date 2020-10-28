@@ -1,0 +1,24 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+#Mainstreet/Show start
+0	Block	152	-102,49,-1405
+1	Block	20	-102,49,-1405
+427	Block	152	-114,48,-1411
+600	Block	152	-115,48,-1410
+#Time system
+0	Block	35	-122,53,-1375
+600	Block	152	-123,53,-1405
+0	Text	&aIn just &610 Minutes &dThe Palace Network &awill present &eCelebrate a Dream Come True Parade! &aat /warp mainstreet
+300	Text	&aIn just &65 Minutes &dThe Palace Network &awill present &eCelebrate a Dream Come True Parade! &aat /warp mainstreet
+30	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+550	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+590	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-129,43,-1414
+270	Block	152	-129,43,-1415
+450	Block	152	-129,43,-1416

@@ -1,0 +1,14 @@
+﻿Show	Location	-244,42,-1813
+Show	TextRadius	25
+#Define
+ArmorStand	hmBride1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVmYWUwODNmNmM3M2ZmNzZiODI2YmI1OGRiYzc4MmUzNWE5MzcwNDU1NGNhNzQ1ODg1NWU4OWQxZDAzMWNjIn19fQ==";299(255,255,255);300(255,255,255);301(255,255,255);258
+#Spawn
+0	ArmorStand	hmBride1	Spawn	-233.5,47,-1790.5,137
+0.1	ArmorStand	hmBride1	Position	ARM_LEFT	-50,0,30	0.5
+0.1	ArmorStand	hmBride1	Position	ARM_RIGHT	-50,0,-30	0.5
+#Move
+40	ArmorStand	hmBride1	Position	ARM_LEFT	-40,0,30	5
+40	ArmorStand	hmBride1	Position	ARM_RIGHT	-40,0,-30	5
+43	Block	152	-233,43,-1791
+#Despawn
+60	ArmorStand	hmBride1	Despawn

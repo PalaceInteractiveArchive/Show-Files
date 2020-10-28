@@ -1,0 +1,191 @@
+﻿Show	Location	-217,65,216
+Show	TextRadius	250
+Show	Name	CT
+#Audio control Later
+#Chatmute/Show start
+885	Block	152	-218,56,218
+886	Block	20	-218,56,218
+900	Block	152	-220,56,218
+901	Block	20	-220,56,218
+#Time system
+0	Block	152	-224,56,222
+1	Block	20	-224,56,222
+0	Block	152	-222,56,222
+1	Block	20	-222,56,222
+300	Block	152	-221,56,222
+301	Block	20	-221,56,222
+900	Block	152	-223,56,222
+901	Block	20	-223,56,222
+900	Block	152	-220,56,222
+901	Block	20	-220,56,222
+#VIP
+1	Block	152	-224,60,229
+#0	Schematic	ctvip	-215	65	214	dhs	false
+0	Block	152	-241,5,202
+1	Block	1	-241,5,202
+#Text
+0	Text	&eLadies and Gentlemen boys and girls, in just &915 Minutes&e, &dThe Palace Network &ewill proudly present &cSymphony in the Stars: &bA Galactic Spectacular &eat &d/warp CT!
+300	Text	&eLadies and Gentlemen boys and girls, in just &910 Minutes&e, &dThe Palace Network &ewill proudly present &cSymphony in the Stars: &bA Galactic Spectacular &eat &d/warp CT!
+600	Text	&eLadies and Gentlemen boys and girls, in just &95 Minutes&e, &dThe Palace Network &ewill proudly present &cSymphony in the Stars: &bA Galactic Spectacular &eat &d/warp CT!
+780	Text	&eLadies and Gentlemen boys and girls, in just &92 Minutes&e, &dThe Palace Network &ewill proudly present &cSymphony in the Stars: &bA Galactic Spectacular &eat &d/warp CT!
+30	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+305	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+360	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+420	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+480	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+540	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+605	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+660	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+700	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+720	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+750	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+780	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+820	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+850	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+885	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+890	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-224,56,218
+270	Block	152	-223,56,218
+570	Block	152	-222,56,218
+750	Block	152	-221,56,218
+#Fences of no one really cares
+#300	Block	152	-222,62,220
+#301	Block	155	-222,62,220
+#300	Block	189	-185,64,235
+#300	Block	189	-186,64,235
+#300	Block	189	-187,64,235
+#300	Block	189	-188,64,235
+#300	Block	189	-194,64,236
+#300	Block	189	-194,64,235
+#300	Block	189	-195,64,235
+#300	Block	189	-195,64,234
+#300	Block	189	-196,64,234
+#300	Block	189	-196,64,233
+#300	Block	189	-197,64,233
+#300	Block	189	-197,64,232
+#300	Block	189	-198,64,232
+#300	Block	189	-198,64,231
+#300	Block	189	-199,64,231
+#300	Block	189	-199,64,230
+#300	Block	189	-200,64,230
+#300	Block	189	-200,64,229
+#300	Block	189	-201,64,229
+#300	Block	189	-201,64,228
+#300	Block	189	-202,64,228
+#300	Block	189	-202,64,227
+#300	Block	189	-203,64,227
+#300	Block	189	-203,64,226
+#300	Block	189	-204,64,226
+#300	Block	189	-204,64,225
+#300	Block	189	-205,64,225
+#300	Block	189	-208,64,220
+#300	Block	189	-208,64,219
+#300	Block	189	-208,64,218
+#300	Block	189	-208,64,217
+#300	Block	189	-218,64,207
+#300	Block	189	-219,64,207
+#300	Block	189	-220,64,207
+#300	Block	189	-221,64,207
+#300	Block	189	-226,64,204
+#300	Block	189	-226,64,203
+#300	Block	189	-227,64,203
+#300	Block	189	-227,64,202
+#300	Block	189	-228,64,202
+#300	Block	189	-228,64,201
+#300	Block	189	-229,64,201
+#300	Block	189	-229,64,200
+#300	Block	189	-230,64,200
+#300	Block	189	-230,64,199
+#300	Block	189	-231,64,199
+#300	Block	189	-231,64,198
+#300	Block	189	-232,64,198
+#300	Block	189	-232,64,197
+#300	Block	189	-233,64,197
+#300	Block	189	-233,64,196
+#300	Block	189	-234,64,196
+#300	Block	189	-234,64,195
+#300	Block	189	-235,64,195
+#300	Block	189	-244,64,185
+#300	Block	189	-245,64,185
+#300	Block	189	-245,64,184
+#300	Block	189	-246,64,184
+#300	Block	189	-246,64,183
+#300	Block	189	-247,64,183
+#300	Block	189	-247,64,182
+#300	Block	189	-248,64,182
+#300	Block	189	-248,64,181
+#300	Block	189	-249,64,181
+#300	Block	189	-249,64,180
+#300	Block	189	-250,64,180
+#300	Block	189	-250,64,179
+#300	Block	189	-251,64,179
+#300	Block	189	-251,64,178
+#300	Block	189	-252,64,178
+#300	Block	189	-252,64,177
+#300	Block	189	-253,64,177
+#300	Block	189	-253,64,176
+#300	Block	189	-254,64,176
+#300	Block	189	-254,64,175
+#300	Block	189	-255,64,175
+#300	Block	189	-255,64,174
+#300	Block	189	-256,64,174
+#300	Block	189	-268,63,193
+#300	Block	189	-268,63,194
+#300	Block	189	-268,63,195
+#300	Block	189	-268,63,196
+#300	Block	189	-268,63,197
+#300	Block	189	-269,63,197
+#300	Block	189	-269,63,198
+#300	Block	189	-269,63,199
+#300	Block	189	-269,63,200
+#300	Block	189	-269,63,201
+#300	Block	189	-270,63,201
+#300	Block	189	-270,63,202
+#300	Block	189	-270,63,203
+#300	Block	189	-270,63,204
+#300	Block	189	-270,63,205
+#300	Block	189	-270,63,206
+#300	Block	189	-270,63,207
+#300	Block	189	-178,62,282
+#300	Block	189	-179,62,282
+#300	Block	189	-179,62,283
+#300	Block	189	-180,62,283
+#300	Block	189	-180,62,284
+#300	Block	189	-181,62,284
+#300	Block	189	-181,62,285
+#300	Block	189	-182,62,285
+#300	Block	189	-182,62,286
+#300	Block	189	-183,62,286
+#300	Block	189	-183,62,287
+#300	Block	189	-184,62,287
+#300	Block	189	-271,63,227
+#300	Block	189	-270,63,227
+#300	Block	189	-270,63,228
+#300	Block	166	-184,65,235
+#300	Block	166	-189,65,235
+#300	Block	166	-193,65,236
+#300	Block	166	-203,66,226
+#300	Block	166	-204,66,225
+#300	Block	166	-205,66,225
+#300	Block	166	-208,66,221
+#300	Block	166	-208,66,220
+#300	Block	166	-208,66,219
+#300	Block	166	-208,66,218
+#300	Block	166	-208,66,217
+#300	Block	166	-219,66,207
+#300	Block	166	-220,66,207
+#300	Block	166	-221,66,207
+#300	Block	166	-222,66,207
+#300	Block	166	-226,66,204
+#300	Block	166	-226,66,203
+#300	Block	166	-227,66,202
+#300	Block	166	-236,65,195
+#300	Block	166	-244,65,186
+#300	Block	166	-244,66,185
+#300	Block	166	-245,66,184
+#300	Block	166	-270,65,206
+#300	Block	166	-270,65,207

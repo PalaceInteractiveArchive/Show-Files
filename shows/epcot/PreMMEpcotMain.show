@@ -1,0 +1,84 @@
+Show	Location	-78,63,2985
+Show	TextRadius	50
+Show	Name	IROE
+
+## Moonlight Magic: Melodies of Epcot: 5 minute pre ##
+
+#Audio
+81	AudioStart	moonlightepcotpre
+
+#Gamerule
+0	Block	1	137,81,2943
+
+#Broadcasts
+0	Block	152	-81,42,2983
+170	Block	152	-82,42,2983
+
+#Audio
+60	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+120	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
+
+#Show Announces
+0	Text	&eIn just &35 minutes&e, &dThe Palace Network &eand &bDisney Vacation Club &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eto those &bDweller+&e at &a/warp iroe!
+180	Text	&eIn just &32 minutes&e, &dThe Palace Network &eand &bDisney Vacation Club &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eto those &bDweller+&e at &a/warp iroe!
+
+300	Block	152	-84,42,2983
+
+#Moon
+0	Schematic	MoonlightMagicMoon	-73	62	3033	epcot	false
+
+#Beacons
+#61 1 59 35:15
+0	Block	20	-67,61,3014
+0	Block	20	-67,59,3014
+0	Block	20	-76,61,3010
+0	Block	20	-76,59,3010
+0	Block	20	-83,61,3010
+0	Block	20	-83,59,3010
+0	Block	20	-92,61,3014
+0	Block	20	-92,59,3014
+
+290	Block	1	-67,61,3014
+290	Block	35:15	-67,59,3014
+290	Block	1	-76,61,3010
+290	Block	35:15	-76,59,3010
+290	Block	1	-83,61,3010
+290	Block	35:15	-83,59,3010
+290	Block	1	-92,61,3014
+290	Block	35:15	-92,59,3014
+
+0	Block	20	-67,51,3014
+0	Block	138	-67,50,3014
+0	Block	95:3	-67,53,3014
+0	Block	95:3	-67,52,3014
+290	Block	35:15	-67,51,3014
+290	Block	35:15	-67,50,3014
+290	Block	95:15	-67,53,3014
+290	Block	95:15	-67,52,3014
+
+0	Block	20	-76,51,3010
+0	Block	138	-76,50,3010
+0	Block	95:11	-76,53,3010
+0	Block	95:11	-76,52,3010
+290	Block	35:15	-76,51,3010
+290	Block	35:15	-76,50,3010
+290	Block	95:15	-76,53,3010
+290	Block	95:15	-76,52,3010
+
+0	Block	20	-83,51,3010
+0	Block	138	-83,50,3010
+0	Block	95:10	-83,53,3010
+0	Block	95:10	-83,52,3010
+290	Block	35:15	-83,51,3010
+290	Block	35:15	-83,50,3010
+290	Block	95:15	-83,53,3010
+290	Block	95:15	-83,52,3010
+
+0	Block	20	-92,51,3014
+0	Block	138	-92,50,3014
+0	Block	95:6	-92,53,3014
+0	Block	95:6	-92,52,3014
+290	Block	35:15	-92,51,3014
+290	Block	35:15	-92,50,3014
+290	Block	95:15	-92,53,3014
+290	Block	95:15	-92,52,3014

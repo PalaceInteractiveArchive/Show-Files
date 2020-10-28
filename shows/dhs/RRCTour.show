@@ -1,0 +1,33 @@
+﻿Show	Location	-350,50,-101
+Show	TextRadius	15
+#This is the location where music/text is centered.
+Show	Name	rrctour
+#Follows the anti-double show running rule
+#Comment
+
+## /ac started ##
+#Placeholder
+
+### Text ###
+#Text:
+10.1	Text	&2Hello everyone and welcome to The Rock n Roller Coaster: Backstage Tour,
+14.1	Text	&2or as we like to call it Behind the Magic!
+16.5	Text	&cToday you will be treated like VIPs at an Aerosmith concert to go backstage behind
+20.8	Text	&ctheir famous ride to see all the mechanics and how it all operates.
+24.2	Text	&cThe elevator has been called and we’re going down!
+
+
+### Blocks ###
+#Placing Blocks:
+24.2	Block	160:13	-358,53,-101
+26.4	Block	0	-359,51,-101
+26.4	Block	0	-359,50,-101
+
+
+## Start Next Tour 1 ##
+35	Block	152	-339,51,-105
+
+
+### Audio ###
+10	AudioStart	RRCTour
+10	AudioSync	RRCTour	0

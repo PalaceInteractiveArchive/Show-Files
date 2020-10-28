@@ -1,0 +1,5 @@
+Sequence	Build
+Build	randomlive	randomlive
+0	randomlive	Spawn	-91.5,35,-1607.5
+0.1	randomlive	Move	-91.5,43.5,-1608.5	200
+15	randomlive	Despawn

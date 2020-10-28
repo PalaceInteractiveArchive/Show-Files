@@ -1,0 +1,249 @@
+#Show Started December 24, 2016
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Other
+0.3	Block	152	436,49,40
+75.9	Block	152	436,49,38
+83.2	Block	152	436,49,36
+#Audio
+0	AudioStart	flaths2
+5	AudioSync	flaths2	5
+10	AudioSync	flaths2	10
+30	AudioSync	flaths2	30
+60	AudioSync	flaths2	60
+120	AudioSync	flaths2	120
+180	AudioSync	flaths2	180
+210	AudioSync	flaths2	210
+#S2 Nursery
+21	Text	&f[&dAnna&f] &7Come on, come on, come on, come on!
+23	Text	&f[&bElsa&f] &7Shhhh! You’ll wake the whole castle!
+25.9	Text	&f[&dAnna&f] &7The sky's awake, so I'm awake, so we have to play!
+31.1	Text	&f[&bElsa&f] &7It’s the middle of the night...
+32.8	Text	&f[&dAnna&f] &7I know that... but... 
+35.5	Text	&7Do you wanna build a snowman?
+38.3	Text	&7Oh come on, no one’s around!
+40.7	Text	&7Do the magic! Do the magic!
+49.8	Text	&7This is amazing!
+55.4	Text	&f[&bElsa&f] &7Watch this!
+58.6	Text	&7Hi, I'm Olaf and I like warm hugs.
+62.2	Text	&f[&dAnna&f] &7I love you, Olaf.
+75.8	Text	&7An ice rink!
+79.8	Text	&f[&bElsa&f] &7Be careful, Anna. 
+81.4	Text	&7Slow down!
+83.1	Text	&f[&dAnna&f] &7Oww!
+84.6	Text	&f[&bElsa&f] &7Anna!
+87	Text	&7Oh no, please.
+89.7	Text	&7Mama! Papa! Come quick!
+97.7	Text	&f[&5King&f] &7Elsa?
+100.4	Text	&7Elsa, what’ve you done? 
+101.5	Text	&7This is getting out of hand.
+102.4	Text	&f[&5Queen&f] &7Anna?
+103.1	Text	&f[&5King&f] &7Anna?
+104.7	Text	&f[&5Queen&f] &7She’s ice cold.
+106	Text	&f[&bElsa&f] &7It was an accident. I’m sorry, Anna.
+107.8	Text	&f[&5King&f] &7I know what we have to do.
+123.9	Text	&7Please help, it’s my daughter.
+137.9	Text	&f[&2Grand Pabbie&f] &7Born with the powers or cursed?
+139.3	Text	&f[&5King&f] &7Born.
+140	Text	&f[&5Queen&f] &7And they’re getting stronger.
+141.6	Text	&f[&2Grand Pabbie&f] &7You are lucky it wasn’t her heart.
+143.6	Text	&7The heart is not so easily changed, but the head can be... persuaded.
+148.4	Text	&f[&5King&f] &7Do what you must.
+150.4	Text	&f[&2Grand Pabbie&f] &7I recommend we remove all magic, even memories of magic to be safe.
+155.1	Text	&7But don’t worry... I’ll leave the fun.
+164.6	Text	&f[&bElsa&f] &7But she won’t remember I have powers?
+166.3	Text	&f[&5King&f] &7It’s for the best.
+168.2	Text	&f[&2Grand Pabbie&f] &7Your power will only grow.
+171.1	Text	&7There is beauty in your magic... 
+173.9	Text	&7but also great danger.
+176.2	Text	&7You must learn to control it.
+178.9	Text	&7Fear will be your enemy.
+180.7	Text	&f[&5King&f] &7We will protect her.
+182.9	Text	&7She can learn to control it.
+191.5	Text	&7Until then we’ll lock the gates.
+193.9	Text	&7We’ll reduce the staff.
+196.2	Text	&7We will limit her contact with people and keep her powers hidden from everyone...
+201	Text	&7including, Anna.
+#Schematics
+1.60	Schematic	FLatHS2.1	439	62	68	newhws	false
+8.10	Schematic	FLatHS2.2	439	62	68	newhws	false
+14.6	Schematic	FLatHS2.3	439	62	68	newhws	false
+67.9	Schematic	FLatHS2.4	439	62	68	newhws	false
+71.4	Schematic	FLatHS2.5	439	62	68	newhws	false
+74.9	Schematic	FLatHS2.6	439	62	68	newhws	false
+89.2	Schematic	FLatHS2.7	439	62	68	newhws	false
+92.4	Schematic	FLatHS2.8	439	62	68	newhws	false
+95.6	Schematic	FLatHS2.9	439	62	68	newhws	false
+#CloseDoors
+6.6	Block	152	465,65,106
+#StageRight
+6.6	Block	173	443,65,66
+6.6	Block	173	442,65,66
+6.6	Block	173	441,65,66
+6.6	Block	173	440,65,66
+6.6	Block	173	440,64,66
+6.6	Block	173	443,64,66
+6.6	Block	173	442,64,66
+6.6	Block	173	440,64,66
+#StageLeft
+6.6	Block	173	443,65,102
+6.6	Block	173	442,65,102
+6.6	Block	173	441,65,102
+6.6	Block	173	440,65,102
+6.6	Block	173	440,64,102
+6.6	Block	173	443,64,102
+6.6	Block	173	442,64,102
+6.6	Block	173	440,64,102
+#BackstageDoorsClose
+11.6	Block	0	445,62,104
+11.6	Block	0	445,62,103
+11.6	Block	0	444,62,63
+11.6	Block	0	444,62,64
+#DoorOpening
+25.9	Block	152	420,64,81
+26.2	Block	152	420,64,82
+#DoorClosing
+28.1	Block	152	420,64,81
+28.4	Block	152	420,64,80
+#DoorOpening
+96.7	Block	152	420,64,81
+97.0	Block	152	420,64,82
+#DoorClosing
+101.2	Block	152	420,64,81
+101.5	Block	152	420,64,80
+#blood
+83.1	Block	152	416,65,101
+#Barrier
+35.5	Block	166	462,65,84
+48.4	Block	0	462,65,84
+#Particles
+46.4	Block	152	450,65,60
+46.4	SpiralParticle    fireworksSpark	461.5,66.5,84.5    3    0    1.5    4    10    1	-2
+49.8	Block	0	450,65,60
+#StageRight
+48.6	Block	152	454,90,85
+#StageLeftParticle
+48.6	Block	152	464,90,83
+#Snow
+49.8	Block	152	458,65,64
+49.3	SpiralParticle    snowshovel	463.5,70.5,81.5    15    45    2.5    4    30    1	-2
+49.3	SpiralParticle    snowshovel	463.5,70.5,87.5    15    -45    2.5    4    30    1	2
+83.1	Block	0	458,65,64
+#IceRink
+#On
+75.8	Block	152	421,64,92
+#Off
+83.1	Block	152	421,64,94
+#Olaf
+55	Block	166	462,65,84
+55	Block	166	462,66,84
+65	Block	0	462,65,84
+65	Block	0	462,66,84
+#ItemFrames
+#56.8	Block	152	-188,66,-265
+#56.8	Block	152	-188,65,-265
+#56.9	Block	0	-188,66,-265
+#56.9	Block	0	-188,65,-265
+##Pixelator
+#56.9	Block	152	-189,66,-265
+#56.9	Block	152	-189,65,-265
+#57	Block	0	-189,66,-265
+#57	Block	0	-189,65,-265
+#ByeOlaf
+64.5	Block	152	419,65,101
+#whereannadies
+83.1	Block	126:2	459,64,82
+201.0	Block	5:2	459,64,82
+#LightsOff
+#top
+112	Block	123	451,80,71
+112	Block	123	451,80,97
+112	Block	123	451,85,72
+112	Block	123	451,85,75
+112	Block	123	451,85,78
+112	Block	123	451,85,81
+112	Block	123	451,85,84
+112	Block	123	451,85,87
+112	Block	123	451,85,90
+112	Block	123	451,85,93
+112	Block	123	451,85,96
+#stage
+112	Block	123	461,63,72
+112	Block	123	461,63,96
+112	Block	123	463,63,91
+112	Block	123	463,63,77
+112	Block	123	466,63,75
+112	Block	123	466,63,93
+112	Block	123	467,63,79
+112	Block	123	467,63,89
+112	Block	123	468,63,80
+112	Block	123	468,63,81
+112	Block	123	468,63,87
+112	Block	123	468,63,88
+112	Block	123	469,63,82
+112	Block	123	469,63,83
+112	Block	123	469,63,85
+112	Block	123	469,63,86
+#stagetop
+112	Block	123	466,79,84
+112	Block	123	460,79,84
+112	Block	123	463,79,82
+112	Block	123	463,79,86
+112	Block	123	461,79,88
+112	Block	123	461,79,80
+#TrollParticle
+112.0	Block	152	458,65,61
+191.5	Block	0	458,65,61
+#trolllight
+123.9	Block	89	463,63,77
+#stage
+191.5	Block	89	461,63,72
+191.5	Block	89	461,63,96
+191.5	Block	89	463,63,91
+191.5	Block	89	463,63,77
+191.5	Block	89	466,63,75
+191.5	Block	89	466,63,93
+191.5	Block	89	467,63,79
+191.5	Block	89	467,63,89
+191.5	Block	89	468,63,80
+191.5	Block	89	468,63,81
+191.5	Block	89	468,63,87
+191.5	Block	89	468,63,88
+191.5	Block	89	469,63,82
+191.5	Block	89	469,63,83
+191.5	Block	89	469,63,85
+191.5	Block	89	469,63,86
+#stagetop
+191.5	Block	89	466,79,84
+191.5	Block	89	460,79,84
+191.5	Block	89	463,79,82
+191.5	Block	89	463,79,86
+191.5	Block	89	461,79,88
+191.5	Block	89	461,79,80
+#OpenDoors
+215.4	Block	152	422,65,97
+215.4	Block	152	422,65,100
+215.7	Block	152	422,65,96
+215.7	Block	152	422,65,99
+220.1	Block	152	422,65,97
+220.1	Block	152	422,65,100
+220.4	Block	152	422,65,98
+220.4	Block	152	422,65,101
+#Elsa'sPowers
+#StageLeft
+67.8	Block	152	460,90,83
+68.8	Block	152	460,90,83
+67.8	Block	89	451,85,96
+67.8	Block	89	451,80,97
+70.8	Block	123	451,85,96
+70.8	Block	123	451,80,97
+#StageRight
+71.8	Block	152	457,90,83
+72.8	Block	152	457,90,83
+71.8	Block	89	451,85,72
+71.8	Block	89	451,80,71
+74.8	Block	123	451,85,72
+74.8	Block	123	451,80,71
+#SceneLight
+0	Block	152	465,58,-1

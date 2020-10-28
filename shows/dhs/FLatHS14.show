@@ -1,0 +1,130 @@
+#Show Started January 18th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths14
+5	AudioSync	flaths14	5
+10	AudioSync	flaths14	10
+30	AudioSync	flaths14	30
+60	AudioSync	flaths14	60
+120	AudioSync	flaths14	120
+180	AudioSync	flaths14	180
+240	AudioSync	flaths14	240
+270	AudioSync	flaths14	270
+#S14 Fixer Upper
+42.2	Text	&f[&3Kristoff&f] &7So, about my friends,
+44.1	Text	&7they’re actually more like family.	
+46.5 	Text	&7They took in Sven and me when we were just kids and had no one.
+49.7	Text	&f[&dAnna&f] &7They sound wonderful.
+51.5	Text	&f[&3Kristoff&f] &7Yeah, they sort of are.
+54.6 	Text	&7Well, anyway, here everybody is.
+58.1	Text	&7Meet the family!
+59.8	Text	&f[&dAnna&f] &7Oh!
+61	Text	&eKristoff’s home!	
+63.8	Text	&eAnd he brought a girl!
+71.5	Text	&f[&5Bulda&f] &7Oh! Let me see.
+74.5	Text	&7Bright eyes,
+76.2	Text	&7working nose, 
+78.2	Text	&7strong teeth!
+80	Text	&7Oh yes, yes, yes, she’ll do nicely for our Kristoff.
+83.5	Text	&f[&3Kristoff&f] &7No, no, no, that’s not why I brought her here.
+85.8	Text	&7You got the wrong idea.
+86.7	Text	&f[&dAnna&f] &7Right. We’re not, no, we’re just, no.
+88.7	Text	&f[&5Bulda&f] &5What’s the issue dear?
+90.8	Text	&5Why are you holding back from such a man?
+94.1	Text	&5Is it the clumpy way he walks?
+96.2	Text	&aOr the grumpy way he talks?
+98.5	Text	&aOr the pear-shaped, square-shaped, weirdness of his feet?
+102.5	Text	&aAnd though we know he washes well he always ends up sorta smelly.
+107.3	Text	&f[&5Bulda&f] &5But you’ll never meet a fella who’s as sensitive and sweet!
+112	Text	&eSo he’s a bit of a fixer upper.
+114.3	Text	&eSo he’s got a few flaws.
+116.5	Text	&aHis peculiar brain dear,
+117.6	Text	&ahis thing for the reindeer,
+118.8	Text	&athat’s a little outside of nature’s laws.
+121.4	Text	&eSo he’s a bit of a fixer upper,
+123.4	Text	&ebut this we’re certain of;
+125.3	Text	&eYou can fix this fixer upper up with a little bit of love.
+131.5	Text	&f[&3Kristoff&f] &7Enough! She’s engaged to somebody else, okay?
+137.6	Text	&f[&5Bulda&f] &5So she’s a bit of a fixer upper.
+140.2	Text	&aThat’s a minor thing!
+142.1	Text	&aA quote “engagement,”
+143.1	Text	&ais a flex arrangement.
+144.4	Text	&aAnd by the way, I don’t see no ring!
+147	Text	&eSo she’s a bit of a fixer upper,
+148.9	Text	&eher brain’s a bit betwixt.
+151.4	Text	&eGet the fiance out of the way,
+153.7	Text	&eand the whole thing will be fixed!
+157.5	Text	&f[&5Bulda&f] &5We aren’t saying you can change him,
+159.7	Text	&5’cause people don’t really change.
+162.3	Text	&5We’re only saying that love’s a force,
+164.5	Text	&5that’s powerful and strange!
+167.2	Text	&5People make bad choices if they’re mad or scared or stressed.
+172.1	Text	&5But throw a little love their way,
+174.4	Text	&e&o(Throw a little love their way)
+176.7	Text	&eand you’ll bring out the best!
+179.1	Text	&eTrue love brings out the best!
+181.9	Text	&eEveryone’s a bit of a fixer upper,
+184.1	Text	&ecause that’s what it’s all about! 
+186.2	Text	&eFather, sister, brother,
+187.9	Text	&ewe need each other to raise us up and round us out.
+191.7	Text	&eEveryone’s a bit of a fixer upper,
+193.9	Text	&ebut when push comes to shove!
+197.1	Text	&f[&9Olaf&f] &9The only fixer upper fixer that can fix a fixer upper is:
+199.8	Text	&eTrue, true, true, true, true
+203.6	Text	&eLOVE!
+208.9	Text	&eTRUE
+209.9	Text	&7Do you, Anna, take Kristoff to be your trollfully wedded-
+213.9	Text	&f[&dAnna&f] &7Wait, what?
+215.4	Text	&7You’re getting married!
+218	Text	&eLOVE!
+224.8	Text	&f[&3Kristoff&f] &7Anna?
+227.2	Text	&7She’s cold as ice.
+228.4	Text	&f[&2Grand Pabbie&f] &7Let me examine her.
+232.9	Text	&7Anna, your life is in danger.
+234.8	Text	&7There is ice in your heart put there by your sister.
+237.7	Text	&7If not removed to solid ice will you freeze, forever.
+241.3	Text	&f[&dAnna&f] &7What? No!
+242	Text	&f[&3Kristoff&f] &7So remove it, Grand Pabbie.
+243.6	Text	&f[&2Grand Pabbie&f] &7I cannot.
+244.8	Text	&7If it was her head, that would be easy. 
+247.4	Text	&7But only an act of true love can thaw a frozen heart.
+251.2	Text	&f[&dAnna&f] &7An act of true love? 
+253.3	Text	&f[&5Bulda&f] &7A true love’s kiss perhaps?
+257.2	Text	&f[&3Kristoff&f] &7Anna, we have to get you back to Hans.
+260.6	Text	&f[&dAnna&f] &7Hans.
+262.1	Text	&f[&3Kristoff&f] &7C’mon Sven, Olaf.
+264.7	Text	&f[&9Olaf&f] &7I’m coming. 
+266.1	Text	&7Let’s go kiss, Hans!
+269.8	Text	&7Who is this, Hans?	
+#Schematics
+1.2	Schematic	FLatHS14.1	439	62	68	newhws	false
+54.4	Schematic	FLatHS14.2	439	62	68	newhws	false
+55	Schematic	FLatHS14.3	439	62	68	newhws	false
+55.6	Schematic	FLatHS14.4	439	62	68	newhws	false
+56.2	Schematic	FLatHS14.5	439	62	68	newhws	false
+56.8	Schematic	FLatHS14.6	439	62	68	newhws	false
+57.4	Schematic	FLatHS14.7	439	62	68	newhws	false
+58	Schematic	FLatHS14.8	439	62	68	newhws	false
+58.6	Schematic	FLatHS14.9	439	62	68	newhws	false
+59.2	Schematic	FLatHS14.10	439	62	68	newhws	false
+59.8	Schematic	FLatHS14.11	439	62	68	newhws	false
+#Lights
+63.8	Block	89	461,63,72
+63.8	Block	89	461,63,96
+63.8	Block	89	464,64,80
+63.8	Block	89	464,64,88
+63.8	Block	89	466,63,93
+63.8	Block	89	466,63,75
+63.8	Block	89	466,79,84
+63.8	Block	89	460,79,84
+63.8	Block	89	463,79,86
+63.8	Block	89	463,79,82
+63.8	Block	89	461,79,80
+63.8	Block	89	461,79,88
+#Costumes
+164.5	Block	152	441,56,49
+174.4	Block	152	445,56,45
+224.8	Block	152	444,56,43
+224.8	Block	152	442,56,51

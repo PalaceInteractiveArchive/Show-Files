@@ -1,0 +1,45 @@
+﻿Show	Location	47,44,-1857
+Show	TextRadius	30
+#Row1
+0	Block	152	54,39,-1855
+0	FakeBlock	251:9	53,49,-1856
+0	FakeBlock	251:3	52,49,-1856
+0	FakeBlock	251:9	51,49,-1856
+0	FakeBlock	251:9	50,48,-1856
+0	FakeBlock	0	51,48,-1856
+#Row2
+2	Block	152	53,39,-1855
+2	FakeBlock	251:3	53,48,-1855
+2	FakeBlock	251:9	52,48,-1855
+2	FakeBlock	251:9	51,48,-1855
+#Row3
+4	Block	152	52,39,-1855
+4	FakeBlock	251:9	53,48,-1854
+4	FakeBlock	251:9	52,48,-1854
+4	FakeBlock	251:9	51,48,-1854
+4	FakeBlock	251:3	50,48,-1854
+4	FakeBlock	251:9	49,47,-1854
+4	FakeBlock	0	51,47,-1854
+4	FakeBlock	0	50,47,-1854
+#Reset
+20	Block	0	54,39,-1855
+20	Block	0	53,39,-1855
+20	Block	0	52,39,-1855
+#Row1Reset
+20	FakeBlock	1:4	53,49,-1856
+20	FakeBlock	227:3	52,49,-1856
+20	FakeBlock	1:4	51,49,-1856
+20	FakeBlock	1:5	50,48,-1856
+20	FakeBlock	44:11	51,48,-1856
+#Row2Reset
+20	FakeBlock	44:11	53,48,-1855
+20	FakeBlock	44:8	52,48,-1855
+20	FakeBlock	1:0	51,48,-1855
+#Row3Reset
+20	FakeBlock	4	53,48,-1854
+20	FakeBlock	67:6	52,48,-1854
+20	FakeBlock	1:0	51,48,-1854
+20	FakeBlock	1:0	50,48,-1854
+20	FakeBlock	1:0	49,47,-1854
+20	FakeBlock	44:8	51,47,-1854
+20	FakeBlock	44:1	50,47,-1854

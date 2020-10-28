@@ -1,0 +1,107 @@
+﻿Show	Location	-306,63,2934
+Show	TextRadius	14
+Show	Name	O'Canada
+0	AudioStart	ocanada
+0	AudioSync	ocanada	0
+2	AudioSync	ocanada	2
+8.9	AudioSync	ocanada	8.9
+39.4	AudioSync	ocanada	39.4
+79.2	AudioSync	ocanada	79.2
+0	Block	152	-307,57,2934
+1	Block	20	-307,57,2934
+#Lights
+0	Block	20	-306,75,2934
+1	Block	20	-306,75,2939
+1	Block	20	-306,75,2929
+1	Block	20	-311,75,2934
+1	Block	20	-301,75,2924
+161	Block	152	-306,75,2934
+162	Block	152	-306,75,2939
+162	Block	152	-306,75,2929
+162	Block	152	-311,75,2934
+162	Block	152	-301,75,2924
+#Effects
+0	Block	152	-310,52,2939
+32	Block	20	-310,52,2939
+36	Block	152	-299,52,2941
+37	Block	20	-299,52,2941
+89	Block	152	-307,52,2939
+136	Block	20	-307,52,2939
+#Man
+32	Block	152	-303,52,2937
+32.2	Block	20	-303,52,2937
+88.5	Block	152	-299,54,2942
+90	Block	20	-299,54,2942
+89	Block	0	-303,52,2936
+#Sets
+0	Block	152	-299,54,2941
+1	Block	20	-299,54,2941
+36	Block	152	-299,52,2940
+37	Block	20	-299,52,2940
+88.5	Block	152	-299,54,2940
+90	Block	20	-299,54,2940
+119	Block	152	-299,54,2939
+120	Block	20	-299,54,2939
+129	Block	152	-299,52,2939
+130	Block	20	-299,52,2939
+136	Block	152	-299,52,2938
+137	Block	20	-299,52,2938
+148	Block	152	-299,54,2938
+149	Block	20	-299,54,2938
+155	Block	152	-299,54,2937
+156	Block	20	-299,54,2937
+161	Block	152	-299,52,2937
+161.5	Block	20	-299,52,2937
+#Reset show
+163	Block	152	-298,53,2932
+163.5	Block	20	-298,53,2932
+#Text
+4.6	Text	&f[&cNarrator&f] &bCanada!
+6.4	Text	&bBig.
+7.8	Text	&bWide.
+9.4	Text	&bAnd very very cold.
+12.5	Text	&f[&9Martin&f] &aWhat?
+13.2	Text	&f[&cNarrator&f] &bHere in the Great White North it snows 24 hours a day...
+17.8	Text	&f[&9Martin&f] &aNo, no, no, no
+18.6	Text	&f[&cNarrator&f] &b...Every day of the year
+20.2	Text	&f[&9Martin&f] &aExcuse me?
+21	Text	&f[&cNarrator&f] &bIt's frozen landscape is dotted with igloos,
+24.2	Text	&f[&9Martin&f] &aUh... hello? Uh... no
+25.2	Text	&f[&cNarrator&f] &bHomes for the vast majority of Canadians
+27.5	Text	&f[&9Martin&f] &aWould someone please just stop the...
+28.4	Text	&f[&cNarrator&f] &bPenguins and polar bears prowl the permafrost poaching and plundering...
+31.9	Text	&f[&9Martin&f] &aStop the movie!
+34.7	Text	&aThank You
+37.7	Text	&f[&cNarrator&f] &bOf all the nerve
+41.7	Text	&f[&9Martin&f] &aSorry to interrupt, but everything he said is &owrong.
+45.2	Text	&aYou're completely wrong!
+47	Text	&f[&cNarrator&f] &bI am?
+48	Text	&f[&9Martin&f] &aI mean, have you ever been to Canada?
+49.9	Text	&f[&cNarrator&f] &bMmm...Technically, no
+51.2	Text	&f[&9Martin&f] &aUh huh. You know, you know.
+52.3	Text	&aI think that these good people deserve to hear from someone who knows the true Canada,
+56.8	Text	&aSomeone who loves Canada, who grew up there.
+59.5	Text	&f[&cNarrator&f] &bIs Celine Dion here?
+61	Text	&f[&9Martin&f] &aNo Celine Dion is not here!
+63.9	Text	&aI'm referring to myself, Martin Short...
+66.6	Text	&aHello... Raised in Hamilton, Ontario
+69.8	Text	&f[&cNarrator&f] &bFine, I'll just go to the France Pavilion film where they appreciate an invisible narrator.
+75.4	Text	&f[&9Martin Short&f] &aAdieu... that's French.
+81	Text	&aNow, I can show you the real Canada, &omy Canada
+85.7	Text	&aAnd there's lots to see, so lets go shall we?
+94.4	Text	&aFirst stop: &6Niagara Falls
+98	Text	&aOh, I know what you're thinking, you're thinking:
+99.8	Text	&a'But Martin, those are in America.'
+102.2	Text	&aAnd you'd be &ohalf &aright
+103.8	Text	&aThis half, however, is in Canada
+106.1	Text	&aThe spectacular &6Horseshoe Falls!
+117.1	Text	&aNow, from one natural wonder to another
+119.7	Text	&aCheck out the &6Bay on Fundy in New Brunswick
+122.3	Text	&aThe largest tide in the world
+124.4	Text	&aNow this is low tide, obviously, when you can actually walk on the sea floor
+128.8	Text	&aBut at high tide, you'd be 50 feet underwater
+132.3	Text	&aSo time your walks &overy &acarefully, okay?
+136.8	Text	&aFrom the East coast, we zoom across six time zones to the West coast
+142	Text	&aSo keep your hands and feet inside the country at all times
+149.2	Text	&6Vancouver Island's spectacular Butchart Gardens
+152.3	Text	&aInspiring visitors from around the world for over 100 years

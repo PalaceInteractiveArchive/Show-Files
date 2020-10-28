@@ -1,0 +1,12 @@
+﻿Show	Location	-181,63,24
+Show	TextRadius	80
+#Tot
+#0	Schematic	ssgtotbackup2	-183	124	-117	dhs	false
+0	Block	20	-223,64,19
+0	Block	20	-223,64,20
+0	Block	20	-223,64,21
+0	Block	20	-223,64,22
+0	Block	20	-223,64,23
+0	Block	152	-223,66,19
+1	Block	20	-223,66,19
+0	Block	20	-223,65,31

@@ -1,0 +1,72 @@
+Show	Location	240,64,3075
+Show	TextRadius	10
+Show	Name	fea2
+#TROLL SCENE
+ArmorStand	oldtroll	false	skull:eyJ0aW1lc3RhbXAiOjE0NzM2NzA5MjU0MTksInByb2ZpbGVJZCI6IjdkZjhkMWJiYWIzMTRlMzk5MTNiMzJiM2Y3N2M5ZWFmIiwicHJvZmlsZU5hbWUiOiJTb3J0aW5nSGF0IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVmY2YyZWM2OTVkNWY4ZWVmOGQ0NGRkMjUzOTJiN2ZjNjc5YTMwNTQyNTMwZGE3OTRiOTFkZWU5YzM2OWU0In19fQ==;299(84,83,81);300(43,74,42);301(97,96,93)
+ArmorStand	troll1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFlYzE2NzFlMjFlNTc3ZWY4NGYyNGZkYjFjNGM3YjY4ZTY4ODVjMTIzYjFkMGFlZTk5MzEwYjBmYzdmIn19fQ==;299(84,83,81);300(43,74,42);301(97,96,93)
+ArmorStand	troll2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFlYzE2NzFlMjFlNTc3ZWY4NGYyNGZkYjFjNGM3YjY4ZTY4ODVjMTIzYjFkMGFlZTk5MzEwYjBmYzdmIn19fQ==;299(84,83,81);300(43,74,42);301(97,96,93)
+ArmorStand	troll3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFlYzE2NzFlMjFlNTc3ZWY4NGYyNGZkYjFjNGM3YjY4ZTY4ODVjMTIzYjFkMGFlZTk5MzEwYjBmYzdmIn19fQ==;299(84,83,81);300(43,74,42);301(97,96,93)
+ArmorStand	troll4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFlYzE2NzFlMjFlNTc3ZWY4NGYyNGZkYjFjNGM3YjY4ZTY4ODVjMTIzYjFkMGFlZTk5MzEwYjBmYzdmIn19fQ==;299(84,83,81);300(43,74,42);301(97,96,93)
+#Text
+1.9	Text	&aTell us the story again! Please!
+4.8	Text	&2On a day, very much like today
+7.4	Text	&2Anna saved her sister with an un-selfish act of &ltrue love
+12.5	Text	&2To thaw a frozen heart
+14.3	Text	&aOh! Oh! And now they're best friends!
+16.3	Text	&2Indeed
+17.3	Text	&bHey! You're going up to the ice palace!
+20.1	Text	&bLucky.. Bye!
+.1	ArmorStand	oldtroll	spawn	238.5,66,3073.5
+.1	ArmorStand	troll1	spawn	238.6,65,3075.5
+.1	ArmorStand	troll2	spawn	239.5,65.1,3075.6
+.1	ArmorStand	troll3	spawn	240.7,64.4,3074.6
+.1	ArmorStand	troll4	spawn	242.5,63,3072.6
+#troll4 pops out
+#oldtroll
+.2	ArmorStand	oldtroll	rotate	-20	.2
+.3	ArmorStand	oldtroll	position	ARM_RIGHT	-18,0,26	.2
+.3	ArmorStand	oldtroll	position	ARM_LEFT	-59,0,-58	.2
+.3	ArmorStand	oldtroll	position	HEAD	0,-10,0	.2
+5	ArmorStand	oldtroll	position	HEAD	8,0,0	.2
+5	ArmorStand	oldtroll	position	ARM_LEFT	-59,0,-99	.2
+7.6	ArmorStand	oldtroll	position	HEAD	8,15,0	.2
+7.6	ArmorStand	oldtroll	position	ARM_LEFT	-59,0,-29	.2
+7.6	ArmorStand	oldtroll	position	ARM_RIGHT	-63,0,26	.2
+9	ArmorStand	oldtroll	position	HEAD	5,-10,0	.2
+9	ArmorStand	oldtroll	position	ARM_RIGHT	-18,0,26	.2
+9	ArmorStand	oldtroll	position	ARM_LEFT	-26,0,-66	.2
+11.6	ArmorStand	oldtroll	position	HEAD	0,10,0	.2
+13.3	ArmorStand	oldtroll	position	HEAD	5,5,0	.2
+13.3	ArmorStand	oldtroll	position	ARM_LEFT	-14,0,-25	.2
+14.5	ArmorStand	oldtroll	position	HEAD	5,-15,0	.2
+16.4	ArmorStand	oldtroll	position	HEAD	5,0,0	.2
+25	ArmorStand	oldtroll	despawn
+#troll1
+.2	ArmorStand	troll1	rotate	-179	.2
+.3	ArmorStand	troll1	position	ARM_RIGHT	-48,0,8	.2
+.3	ArmorStand	troll1	position	ARM_LEFT	-37,0,-14	.2
+.3	ArmorStand	troll1	position	HEAD	-5,0,0	.2
+27	ArmorStand	troll1	despawn
+#troll2
+.2	ArmorStand	troll2	rotate	135	.2
+.3	ArmorStand	troll2	position	ARM_LEFT	-37,0,-14	.2
+.3	ArmorStand	troll2	position	HEAD	-10,0,0	.2
+27	ArmorStand	troll2	despawn
+#troll3
+.2	ArmorStand	troll3	rotate	80	.2
+.3	ArmorStand	troll3	position	ARM_RIGHT	-48,0,8	.2
+.3	ArmorStand	troll3	position	ARM_LEFT	-37,0,-14	.2
+.3	ArmorStand	troll3	position	HEAD	-10,0,0	.2
+14.4	ArmorStand	troll3	position	HEAD	0,-20,0	.2
+27	ArmorStand	troll3	despawn
+#troll4
+.3	ArmorStand	troll4	rotate	-20	.2
+16.5	ArmorStand	troll4	move	242.5,65,3072.6	1
+10	ArmorStand	troll4	position	ARM_RIGHT	-48,0,8	.2
+10	ArmorStand	troll4	position	ARM_LEFT	-37,0,-14	.2
+10	ArmorStand	troll4	position	HEAD	0,0,5	.2
+20	ArmorStand	troll4	position	HEAD	5,0,0	.2
+21.8	ArmorStand	troll4	position	ARM_LEFT	0,0,-69	.2
+27	ArmorStand	troll4	despawn
+
+

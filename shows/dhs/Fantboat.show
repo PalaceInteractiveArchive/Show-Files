@@ -1,0 +1,19 @@
+﻿Show	Location	-32,70,-248
+#BOATY :D not 1463.1 but 1456.4,1491.6,1551.8
+#1443.3, 1471.7
+0	Schematic	Fantboattop	-30	66	-237	dhs	true
+0	Schematic	Fantboatbot	-30	66	-237	dhs	true
+Effect	stmbt	BURST,WHITE,TRAIL
+27.8	PowerFirework	-50.5,73,-242.5	stmbt	0.0,0.4,0.0
+27.8	Block	89	-51,73,-243
+27.8	Block	89	-50,72,-239
+27.8	Block	89	-50,72,-236
+27.8	Block	89	-51,70,-232
+27.8	Block	89	-52,70,-236
+27.8	Block	89	-52,70,-239
+27.8	Block	89	-53,70,-242
+27.8	Block	89	-54,70,-246
+27.8	Block	89	-52,68,-244
+27.8	Block	89	-50,68,-236
+108.5	Schematic	Fantaboattop	-30	66	-237	dhs	false
+108.5	Schematic	Fantaboatbot	-30	66	-237	dhs	false

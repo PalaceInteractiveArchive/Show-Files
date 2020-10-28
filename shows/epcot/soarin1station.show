@@ -1,0 +1,33 @@
+﻿Show	Location	-405,67,2880
+Show	TextRadius	8
+Show	Name	Soarin Pre
+25	AudioStart	soarinpre1
+30	AudioSync	soarinpre1	5
+35	AudioSync	soarinpre1	10
+55	AudioSync	soarinpre1	30
+70	AudioSync	soarinpre1	45
+85	AudioSync	soarinpre1	60
+0	Block	152	-394,81,2852
+25	Block	152	-395,74,2886
+25	Block	152	-395,74,2885
+28.7	Text	&9Hello and Welcome to Soarin'.
+31.3	Block	152	-395,74,2884
+31.3	Text	&9My name is Patrick and I'll be your chief flight attendant today.
+#35	Block	152	-380,74,2819
+34.7	Text	&9We'll begin boarding in a few minutes but first I'd like to acquaint you with some important safety information.
+41.8	Text	&9When the doors to your flight open, please take a seat and store all carry on items in the under-seat compartment.
+41.8	Block	152	-395,74,2880
+47.9	Text	&9This includes; cameras, purses, hats, and of course, &OThese Little Beauties!
+52.4	Block	152	-395,74,2883
+54.7	Block	152	-395,74,2882
+58.3	Text	&9Next, fasten your seatbelts, inserting them into the buckle on your right.
+58.3	Block	152	-395,74,2881
+63.9	Text	&9If smaller Aviators don't measure up to the height indicator on the seat, just put the belt through the loop in the center strap before buckling it.
+77.6	Text	&9Nice work pal!
+80.5	Text	&9Soon you will be airborne, so if you or your little Aviators have a fear of flying or of heights, you might wanna wait for your party at the arrival gate.
+80.5	Block	152	-395,74,2878
+89.8	Block	152	-395,74,2884
+89.8	Text	&9Okay, let's review, that is, seat, seatbelt, carry on items, safety strap, fear of heights, keep your hands and arms inside at all times, &Oanything else...?
+99.7	Text	&9Oh yeah... &OHave a nice flight!
+101.8	Block	152	-395,74,2885
+102	Block	152	-385,80,2854

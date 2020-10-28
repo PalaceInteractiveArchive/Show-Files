@@ -1,0 +1,39 @@
+Sequence	Light
+EnderCrystal	left1
+EnderCrystal	left2
+EnderCrystal	right2
+EnderCrystal	right1
+
+0	left1	Spawn	-60.5,78,3020.5	-80.0,69.0,3034.5
+0	left2	Spawn	-75.5,79,3017.5	-80.0,69.0,3034.5
+0	right2	Spawn	-84.5,79,3017.5	-80.0,69.0,3034.5
+0	right1	Spawn	-99.5,78,3020.5	-80.0,69.0,3034.5
+
+#Left1
+5	left1	Move	-7,-16,-6	2
+8	left1	Move	0,10,0	2
+10	left1	Move	7,6,6	1
+50	left1	Move	0,-25,0	10
+
+#Left2
+15	left2	Move	-1,-17,-7	2
+18	left2	Move	0,10,0	2
+20	left2	Move	1,7,7	1
+50	left2	Move	0,-25,0	10
+
+#Right2
+25	right2	Move	1,-17,7	2
+28	right2	Move	0,10,0	2
+30	right2	Move	-1,7,-7	1
+50	right2	Move	0,-25,0	10
+
+#Right1
+35	right1	Move	7,-16,6	2
+38	right1	Move	0,10,0	2
+40	right1	Move	-7,6,-6	1
+50	right1	Move	0,-25,0	10
+
+60	left1	Despawn
+60	left2	Despawn
+60	right2	Despawn
+60	right1	Despawn

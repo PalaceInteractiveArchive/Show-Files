@@ -1,0 +1,238 @@
+Sequence	Particle
+#Cylinder	firetall11	flame	0.25,1,0.25	10	0.01	20	1	360	full	west
+#Cylinder	firetall12	flame	0.6,1.6,0.6	20	0.01	20	1	360	full	west
+#Cylinder	firetall13	flame	0.9,1.6,0.9	34	0.02	20	1	360	full	west
+#Cylinder	firetall14	flame	1.3,1.6,1.3	50	0.02	20	1	360	full	west
+#Cylinder	firetall15	flame	1.7,1.6,1.7	60	0.025	20	1	360	full	west
+#Cylinder	firetall16	largesmoke	1.7,1.6,1.7	70	0.04	20	1	360	full	west
+#Cylinder	firetall21	flame	0.25,1,0.25	10	0.01	20	1	360	full	west
+#Cylinder	firetall22	flame	0.6,1.6,0.6	20	0.01	20	1	360	full	west
+#Cylinder	firetall23	flame	0.9,1.6,0.9	34	0.02	20	1	360	full	west
+#Cylinder	firetall24	flame	1.3,1.6,1.3	50	0.02	20	1	360	full	west
+#Cylinder	firetall25	flame	1.7,1.6,1.7	60	0.025	20	1	360	full	west
+#Cylinder	firetall26	largesmoke	1.7,1.6,1.7	70	0.04	20	1	360	full	west
+#firetall11	Spawn -225.0,78,247.0
+#0	firetall11	Spawn	-225.0,79.5,247.0
+#0.6	firetall12	Spawn	-224.7,85,246.7
+#0.8	firetall13	Spawn	-224.3,89,246.3
+#1.0	firetall14	Spawn	-223.9,93,245.9
+#1.3	firetall15	Spawn	-223.5,96,245.5
+#1.8	firetall16	Spawn	-223.5,97,245.5
+#firetall11	Spawn -247.0,78,225.0
+#0	firetall21	Spawn	-247.0,79.5,225.0
+#0.6	firetall22	Spawn	-246.7,85,224.7
+#0.8	firetall23	Spawn	-246.3,89,224.3
+#1.0	firetall24	Spawn	-245.9,93,223.9
+#1.3	firetall25	Spawn	-245.5,96,223.5
+#1.8	firetall26	Spawn	-245.5,97,223.5
+#3.6	firetall11	Despawn
+#4	firetall12	Despawn
+#4.5	firetall13	Despawn
+#5	firetall14	Despawn
+#5.5	firetall15	Despawn
+#7.0	firetall16	Despawn
+#3.6	firetall21	Despawn
+#4	firetall22	Despawn
+#4.5	firetall23	Despawn
+#5	firetall24	Despawn
+#5.5	firetall25	Despawn
+#7.0	firetall26	Despawn
+Cylinder	pytr11	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr12	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr13	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr14	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr15	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr16	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr21	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr22	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr23	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr24	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr25	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr26	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr31	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr32	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr33	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr34	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr35	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr36	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr41	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr42	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr43	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr44	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr45	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr46	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr51	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr52	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr53	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr54	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr55	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr56	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr61	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr62	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr63	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr64	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr65	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr66	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr71	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr72	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr73	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr74	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr75	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr76	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr81	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr82	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr83	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr84	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr85	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr86	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr91	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr92	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr93	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr94	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr95	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr96	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr101	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr102	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr103	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr104	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr105	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr106	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr111	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr112	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr113	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr114	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr115	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr116	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr121	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr122	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr123	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr124	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr125	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr126	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr131	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr132	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr133	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr134	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr135	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr136	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr141	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr142	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr143	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr144	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr145	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr146	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr151	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr152	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr153	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr154	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr155	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr156	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr161	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr162	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr163	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr164	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr165	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr166	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr171	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr172	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr173	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr174	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr175	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr176	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr181	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr182	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr183	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr184	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr185	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr186	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr191	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr192	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr193	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr194	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr195	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr196	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr201	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr202	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr203	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr204	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr205	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr206	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr211	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr212	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr213	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr214	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr215	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr216	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr221	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr222	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr223	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr224	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr225	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr226	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr231	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr232	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr233	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr234	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr235	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr236	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr241	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr242	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr243	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr244	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr245	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr246	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr251	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr252	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr253	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr254	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr255	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr256	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr261	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr262	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr263	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr264	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr265	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr266	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr271	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr272	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr273	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr274	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr275	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr276	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr281	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr282	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr283	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr284	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr285	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr286	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr291	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr292	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr293	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr294	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr295	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr296	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr301	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr302	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr303	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr304	fireworksSpark	0.1,0.25,0.1	2	0	20	1	360	full	west
+Cylinder	pytr305	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+Cylinder	pytr306	flame	0.1,0.25,0.1	1	0	20	1	360	full	west
+
+#	255	0	0	red						
+Cylinder	redpyrost11	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost12	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost13	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost14	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost15	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost16	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost17	reddust	0,1,1	0	1	20	1	360	full	west
+Cylinder	redpyrost18	mobSpell	1,1,1	0	1	20	1	360	full	west
+
+
+
+0	redpyrost11	Spawn	-217.5,66,219.5
+7	redpyrost11	Despawn
+0	redpyrost12	Spawn	-217.5,66,220.5
+7	redpyrost12	Despawn
+0	redpyrost18	Spawn	-217.5,66,218.5
+7	redpyrost18	Despawn

@@ -1,0 +1,13 @@
+Sequence	Light
+#Define
+EnderCrystal	test1-c
+EnderCrystal	test2-c
+#Spawn
+0	test1-c	Spawn	-303,69,-127	-308,69,-127
+0	test2-c	Spawn	-303,69,-127    -308,69,-127
+#Move
+0.5	test1-c	Move	-303,69,-123	1
+0.5	test2-c	Move	-303,69,-123	1
+#Despawn
+5	test1-c	Despawn
+5	test2-c	Despawn

@@ -1,0 +1,4 @@
+Show    Location    -729,64,3886
+Show	TextRadius	3000
+#TestLights
+0   Sequence    Light   hlt

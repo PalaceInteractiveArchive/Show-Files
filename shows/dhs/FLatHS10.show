@@ -1,0 +1,120 @@
+#Show Started January 6nd, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths10
+5	AudioSync	flaths10	5
+10	AudioSync	flaths10	10
+30	AudioSync	flaths10	30
+60	AudioSync	flaths10	60
+120	AudioSync	flaths10	120
+180	AudioSync	flaths10	180
+#S10 Wolves
+.2	Text	&f[&dAnna&f] &7Oh! 
+1.7	Text	&7I was wondering, has another young women,
+3.9	Text	&7the Queen perhaps, I don’t know, passed through these parts?
+8.2	Text	&7Hello??
+9.6	Text	&7I could use a little help right about now.
+11.3	Text	&f[&3Kristoff&f] &7You could use a little help?
+12.5	Text	&7I sell ice for living.
+14	Text	&f[&dAnna&f] &7Oh? That’s a rough business to be in right now,
+16.4	Text	&7I mean, that is really-
+19.8	Text	&7unfortunate.
+20.8	Text	&f[&3Kristoff&f] &7Tell me about it.
+22.4	Text	&f[&dAnna&f] &7Maybe we could help each other.
+24.3	Text	&7I need you to take me up the North Mountain.
+26.4	Text	&f[&3Kristoff&f] &7I don’t take people places.
+30.5	Text	&f[&dAnna&f] &7Let me rephrase that...
+33.1	Text	&7I am Princess Anna of Arendelle,
+35.8	Text	&7and I want you to take me up the North Mountain.
+39.1	Text	&7Please.
+43.9	Text	&f[&3Kristoff&f] &7Fine.
+47.1	Text	&7Get in.
+47.7	Text	&f[&dAnna&f] &7Oooooh, that worked!
+49.2	Text	&7Oh, sorry. 
+57.6	Text	&f[&3Kristoff&f] &7So, what exactly are we, uh, looking for?
+61.6	Text	&f[&dAnna&f] &7My sister.
+62.7	Text	&7She started this winter in the middle of summer thing.
+65.4	Text	&7People are calling her a monster, but it was all my fault.
+68.3	Text	&7I got engaged, but then she freaked out because I had only just met him, you know, that day.
+72.9	Text	&7And she said she wouldn’t bless the marriage.
+74.7	Text	&f[&3Kristoff&f] &7Wait, you got engaged to someone you just met that day?
+78.7	Text	&f[&dAnna&f] &7Yup, so anyway, I got mad and so she got mad and then she tried to walk away and I grabbed her glove-
+84.1	Text	&f[&3Kristoff&f] &7Hang on, you mean to tell me you got engaged to someone you just met, that day?  
+89.9	Text	&f[&dAnna&f] &7Yes, can we focus here?
+92	Text	&7So the thing is she wore gloves all the time, so I thought, maybe she has a thing about dirt.
+97	Text	&f[&3Kristoff&f] &7Didn’t your parents ever warn you about strangers?
+99.9	Text	&f[&dAnna&f] &7Yes they did...
+101.7	Text	&7But Hans is not a stranger, this is true love.
+105.5	Text	&f[&3Kristoff&f] &7Doesn’t sound like true love to me.
+107.8	Text	&f[&dAnna&f] &7Are you some sort of love expert?
+109.1	Text	&f[&3Kristoff&f] &7No, but I have friends who are.
+110.6	Text	&f[&dAnna&f] &7You have friends who are love experts?
+112.2	Text	&7I’m not buying it.
+112.5	Text	&f[&3Kristoff&f] &7Stop talking.
+113.3	Text	&f[&dAnna&f] &7No, I mean I’d love to meet these-
+114.1	Text	&f[&3Kristoff&f] &7No, I mean it. Shhh.
+116	Text	&f[&dAnna&f] &7Why?
+120.9	Text	&eGo!! 
+123.8	Text	&f[&dAnna&f] &7What do we do?
+124.3	Text	&f[&3Kristoff&f] &7Let me handle it.
+125.3	Text	&f[&dAnna&f] &7But I wanna help. 
+126.5	Text	 &f[&3Kristoff&f] &7Ha, no.
+127	Text	&f[&dAnna&f] &7Why not?
+127.6	Text	&f[&3Kristoff&f] &7Because I don’t trust your judgement.
+129.4	Text	&f[&dAnna&f] &7Excuse me?
+130.2	Text	&f[&3Kristoff&f] &7Who marries a man she just met?
+132.2	Text	&f[&dAnna&f] &7I told you it was true love!
+138	Text	&f[&3Kristoff&f] &7Woah. Nice shot.
+139.7	Text	&f[&dAnna&f] &7It was nothing.
+151.2	Text	&7Sven!
+153	Text	&f[&3Kristoff&f] &7Get em’!
+153.8	Text	&f[&dAnna&f] &7There’s a huge gorge ahead.
+155.3	Text	&f[&3Kristoff&f] &7That’s how we’ll lose em’.
+156.4	Text	&7Are you ready for this?
+157.2	Text	&f[&dAnna&f] &7I was born ready!
+161	Text	&7Jump, Sven!
+#Schematics
+0	Schematic	FLatHS9.5	439	62	68	newhws	false	
+65.7	Schematic	FLatHS10.1	439	62	68	newhws	false
+70.7	Schematic	FLatHS10.2	439	62	68	newhws	false
+75.7	Schematic	FLatHS10.1	439	62	68	newhws	false
+80.7	Schematic	FLatHS10.3	439	62	68	newhws	false
+85.7	Schematic	FLatHS10.1	439	62	68	newhws	false
+90.7	Schematic	FLatHS10.2	439	62	68	newhws	false
+95.7	Schematic	FLatHS10.1	439	62	68	newhws	false
+100.7	Schematic	FLatHS10.3	439	62	68	newhws	false
+105.7	Schematic	FLatHS10.1	439	62	68	newhws	false
+110.7	Schematic	FLatHS10.2	439	62	68	newhws	false
+112.7	Schematic	FLatHS10.1	439	62	68	newhws	false
+120.9	Schematic	FLatHS10.2	439	62	68	newhws	false
+123.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+125.9	Schematic	FLatHS10.3	439	62	68	newhws	false
+128.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+130.9	Schematic	FLatHS10.2	439	62	68	newhws	false
+133.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+135.9	Schematic	FLatHS10.3	439	62	68	newhws	false
+138.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+140.9	Schematic	FLatHS10.2	439	62	68	newhws	false
+143.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+145.9	Schematic	FLatHS10.3	439	62	68	newhws	false
+148.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+150.9	Schematic	FLatHS10.2	439	62	68	newhws	false
+153.4	Schematic	FLatHS10.1	439	62	68	newhws	false
+155.9	Schematic	FLatHS10.3	439	62	68	newhws	false
+160.9	Schematic	FLatHS10.1	439	62	68	newhws	false
+164	Schematic	FLatHS10.4	439	62	68	newhws	false
+167.6	Schematic	FLatHS10.5	439	62	68	newhws	false
+171.2	Schematic	FLatHS10.6	439	62	68	newhws	false
+174.8	Schematic	FLatHS10.7	439	62	68	newhws	false
+181	Schematic	FLatHS10.8	439	62	68	newhws	false
+183	Schematic	FLatHS10.9	439	62	68	newhws	false
+185.6	Schematic	FLatHS10.10	439	62	68	newhws	false
+#Smoke
+65.7	Block	152	465,64,104
+178.4	Block	0	465,64,104
+#PixelKill
+#65.6	Block	152	-142,90,-263
+#Snow
+181	Block	0	458,65,64

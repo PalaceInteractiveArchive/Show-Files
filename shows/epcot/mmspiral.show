@@ -1,0 +1,4 @@
+Show	Location	-80,75,2755
+Show	TextRadius	50
+0.0	SpiralParticle    fireworksSpark	-74.5,71.5,2759.5    1    90    1.5 5    3    5	-9.5
+0.0	SpiralParticle    fireworksSpark	-84.5,71.5,2759.5    1    90    1.5 5    3    5	-9.5

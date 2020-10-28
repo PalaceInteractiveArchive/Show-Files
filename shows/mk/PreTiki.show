@@ -1,0 +1,58 @@
+Show	Location	-347,43,-1489
+Show	TextRadius	20
+Show	Name	PreTiki
+
+#Audio
+0	AudioStart	PreTiki
+0	AudioSync	PreTiki	0
+
+#Text
+32.0    Text    &7[&6Clyde&7] &6Wowwy! Thats almost as much fun as new years eve in the orange groves.
+38.0    Text    &7[&9Claude&7] &9My word we did get carried away!
+43.0    Text    &9I say look out there across the water.
+45.0    Text    &9It appears we got a bit of company.
+47.0    Text    &7[&6Clyde&7] &6Now we guests.. Welcome you all.
+51.0    Text    &7[&9Claude&7] &9Permission to introduce ourselves. My name is Claude.
+53.5    Text    &9and my cousin over here is...
+56.0    Text    &7[&6Clyde&7] &6I'll introduce myself if you don't mind
+60.0    Text    &6Hi there! Im uh.. uh let me see now.. its right on the tip of my beck..
+66.0    Text    &7[&9Claude&7] &9Clyde.. bird brain
+68.0    Text    &7[&6Clyde&7] &6Oh yea.. im Clyde Bird Brain
+71.0    Text    &7[&9Claude&7] &9Thats it.. perhaps you can keep looking to converse with two can birds before
+76.0    Text    &7[&6Clyde&7] &6Why.. nether did we.. till one day we discovered this magic sunshine parvilion 
+82.0    Text    &7[&9Claude&7] &9I remember just how it happened. Many many Bird baths ago.
+88.0    Text    &9There we where in the explorers lodge of a misterious river in depest adventure land. 
+97.0    Text    &9Off in the distance comes the fierce roar of a African lion.
+105.0    Text    &9As we round a bend in the river a hudge bull elephant barels forth at the entruder.
+112.0    Text    &9Suddenly the teacups are bown in a franzy outrage.
+118.0    Text    &9Oh come come you can do better than that.
+121.0    Text    &7[&6Clyde&7] &6I can jolly will be one of a kind.
+133.0    Text    &7[&9Claude&7] &9Meanwhile a shifty eye'd crocodile was lerking by the water bed.
+142.0    Text    &9and the giant pyphon slithers down from the overhanging limb.  
+147.0    Text    &7[&6Clyde&7] &6AHH! 
+149.0    Text    &7[&9Claude&7] &9Clyde whats wrong!
+151.0    Text    &7[&6Clyde&7] &6I hate snakes! Snakes! AHH
+153.0    Text    &7[&9Claude&7] &9Dont be ridiculous I am only relating a story!
+158.0    Text    &9Alright Clyde enough is enough.
+160.0    Text    &7[&6Clyde&7] &6That wasn't Me! I didn't even open up my beak.
+163.0    Text    &7[&bDacostabro&7] &bExcuse me, we really hate to interupt an exciting story but they are calling us for the show!
+170.0    Text    &7[&6Clyde&7] &6Oh sakes its already show time!
+172.0    Text    &7[&bDacostabro&7] &bThey said yes its already show time and Claude I do believe its your turn to make the announcement.
+179.0    Text    &7[&9Claude&7] &9Ladies and Gentlemen, boys and girls get up all your camera's, purses and other articles and now turn to your left. 
+191.0    Text    &9Towards the tall door.
+193.0    Text    &7[&6Clyde&7] &6When the drumbs begin they will open magically to lead you right into the sunshine pavilion
+199.0    Text    &6Is Everybody Ready!
+201.0    Text    &7[&bDacostabro&7] &bIs everybody Ready? 
+204.0    Text    &7[&9Claude&7] &9I say! Have a Good Show! A real tropical serenade. 
+
+#Schematic
+204   Schematic  trd2    -360    42    -1510    wdw    false
+240   Schematic  trd1    -360    42    -1510    wdw    false
+
+#Block
+32  Block   152 -348,35,-1497
+270  Block   152 -352,39,-1519
+270  Block   152 -357,36,-1515
+240  Block   152 -345,35,-1496
+271  Block   20 -357,36,-1515
+241  Block   20 -341,36,-1494

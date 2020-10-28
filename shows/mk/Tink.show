@@ -1,0 +1,21 @@
+﻿Show	Location	-1608,118,-535
+ArmorStand	Tinkerbell	false	skull:eyJ0aW1lc3RhbXAiOjE0NjgyNzE5MzMxMjQsInByb2ZpbGVJZCI6ImFlMjZlMTQwZTA2YjRkMTVhMTY5MDBmOGQwNzRiOWEyIiwicHJvZmlsZU5hbWUiOiJUaW5rZXJfX0JlbGwiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3YWUxMDhkNTdjYWVlY2FiY2QwYjZhZTJlYWJjOTg2N2E5YzY3MmM0NzdjNzM1YzQ0ZjQxMGViNWIzOTM1NmIifX19;299(44,255,20);300(255,255,0);301(222,247,255);369
+0	ArmorStand	Tinkerbell	Spawn	-84.5,87,-1624.5
+0.4	ArmorStand	Tinkerbell	Move	29.5,60,-1448.5	30
+25.4	ArmorStand	Tinkerbell	Despawn
+0.2	ArmorStand	Tinkerbell	position	HEAD	7,40,0	4
+0.2	ArmorStand	Tinkerbell	position	ARM_LEFT	-130,-80,0	4
+0.2	ArmorStand	Tinkerbell	position	ARM_RIGHT	0,0,29	4
+0.2	ArmorStand	Tinkerbell	position	LEG_LEFT	24,0,0	4
+0.2	ArmorStand	Tinkerbell	position	LEG_RIGHT	58,0,0	4
+3	ArmorStand	Tinkerbell	position	ARM_RIGHT	-110,0,29	20
+3	ArmorStand	Tinkerbell	position	ARM_LEFT	-63,-80,0	20
+6	ArmorStand	Tinkerbell	position	ARM_RIGHT	-40,0,29	20
+6	ArmorStand	Tinkerbell	position	ARM_LEFT	-50,-60,0	20
+9	ArmorStand	Tinkerbell	position	ARM_LEFT	-120,-57,0	20
+9	ArmorStand	Tinkerbell	position	ARM_RIGHT	-12,0,29	20
+13	ArmorStand	Tinkerbell	position	ARM_RIGHT	63,0,29	20
+16	ArmorStand	Tinkerbell	position	ARM_RIGHT	-140,0,29	20
+20	ArmorStand	Tinkerbell	position	ARM_RIGHT	41,0,29		20
+0.5	Block	152	-102,28,-1611
+25	Block	20	-102,28,-1611

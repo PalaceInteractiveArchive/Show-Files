@@ -1,0 +1,103 @@
+Show	Location	-422,42,-1434
+Show	TextRadius	10
+### Armor Stands ###
+#ArmorStand, like Effect, but for Armor Stands
+#ArmorStand	<name>	<small(true/false)>	<head_id;chest_id;legs_id;boots_id;hand>
+#For skulls on head: skull:playerTextureResourceHash
+#For colored armor: armorID:data(r,g,b) <-no spaces
+
+#Spawn:
+#<seconds>	ArmorStand	<name>	Spawn	x,y,z,rotation
+
+#Move:	<time> to move from current position to x,y,z
+#<seconds>	ArmorStand	<name>	Move	x,y,z	<time>
+
+#Position: change limb/body positions
+#PositionTypes: HEAD, BODY, ARM_LEFT, ARM_RIGHT, LEG_LEFT, LEG_RIGHT
+#<time> must be at least 0.1
+#<seconds>	ArmorStand	<name>	Position	<PositionType>	<anglex,angley,anglez>	<time>
+
+#Rotate:
+#<seconds>	ArmorStand	<name>	Rotate	<+/-degree from current yaw>	<speed>
+#0	ArmorStand	Test	Rotate	50	1
+#0	ArmorStand	Test	Rotate	-50	1
+
+#Despawn:
+#<seconds>	ArmorStand	<name>	Despawn
+ArmorStand	Sword1	false	0;0;0;0;268
+ArmorStand	Sword2	false	0;0;0;0;268
+ArmorStand	Skeleton1	false	0;0;300(128,145,161);0
+ArmorStand	Skeleton2	false	293:36;0;300(128,145,161);301(128,145,161)
+ArmorStand	Skeleton3	false	0;299(128,145,161);300(128,145,161),0
+0	ArmorStand	Sword1	Spawn	-426.25,42.53,-1432.47,-234
+0.1	ArmorStand	Sword1	Position	ARM_RIGHT	-15.57,-23.91,89.12	0.1
+0	ArmorStand	Sword2	Spawn	-425.72,43,-1430.5,42
+0.1	ArmorStand	Sword2	Position	ARM_RIGHT	-0.75,-30.75,285.88	0.1
+0	ArmorStand	Skeleton1	Spawn	-426.78,42.38,-1430.38,-138
+0.1	ArmorStand	Skeleton1	Position	BODY	-8.25,5.37,0	0.1
+0.1	ArmorStand	Skeleton1	Position	HEAD	-18,-4.25,-9	0.1
+0.1	ArmorStand	Skeleton1	Position	LEG_LEFT	-48,0,-1	0.1
+0.1	ArmorStand	Skeleton1	Position	LEG_RIGHT	-51,36.75,1	0.1
+0.1	ArmorStand	Skeleton1	Position	ARM_LEFT	-49,18,-64	0.1
+0.1	ArmorStand	Skeleton1	Position	ARM_RIGHT	-27,27,0	0.1
+0	ArmorStand	Skeleton2	Spawn	-426.72,42.44,-1432.5,-90
+0.1	ArmorStand	Skeleton2	Position	BODY	7,4.63,0	0.1
+0.1	ArmorStand	Skeleton2	Position	HEAD	37.52,-2.77,0	0.1
+0.1	ArmorStand	Skeleton2	Position	LEG_LEFT	40.5,22.5,-1	0.1
+0.1	ArmorStand	Skeleton2	Position	LEG_RIGHT	40.5,-13.5,1	0.1
+0.1	ArmorStand	Skeleton2	Position	ARM_LEFT	-40,21,-7	0.1
+0.1	ArmorStand	Skeleton2	Position	ARM_RIGHT	-51,-24,10	0.1
+0	ArmorStand	Skeleton3	Spawn	-426.53,42.38,-1433.72,-33
+0.1	ArmorStand	Skeleton3	Position	BODY	3,-8.56,3	0.1
+0.1	ArmorStand	Skeleton3	Position	HEAD	-9,-7.4,0	0.1
+0.1	ArmorStand	Skeleton3	Position	LEG_LEFT	2,-12,-13	0.1
+0.1	ArmorStand	Skeleton3	Position	LEG_RIGHT	-5,9,6	0.1
+0.1	ArmorStand	Skeleton3	Position	ARM_LEFT	-22,0,24	0.1
+0.1	ArmorStand	Skeleton3	Position	ARM_RIGHT	-30,0,-33	0.1
+30	ArmorStand	Sword1	Despawn
+30	ArmorStand	Sword2	Despawn
+30	ArmorStand	Skeleton1	Despawn
+30	ArmorStand	Skeleton2	Despawn
+30	ArmorStand	Skeleton3	Despawn
+0	Pulse	-427,39,-1432
+
+3.5	FakeBlock	50	-424,43,-1442
+4	FakeBlock	76	-424,43,-1442
+8.75	FakeBlock	50	-424,43,-1442
+9.25	FakeBlock	76	-424,43,-1442
+10.5	FakeBlock	50	-424,43,-1442
+11	FakeBlock	76	-424,43,-1442
+11.5	FakeBlock	50	-424,43,-1442
+14	FakeBlock	76	-424,43,-1442
+17.25	FakeBlock	50	-424,43,-1442
+17.75	FakeBlock	76	-424,43,-1442
+21.5	FakeBlock	50	-424,43,-1442
+22	FakeBlock	76	-424,43,-1442
+26.25	FakeBlock	50	-424,43,-1442
+26.75	FakeBlock	76	-424,43,-1442
+0	Block	152	-425,39,-1441
+30	Block	0	-425,39,-1441
+ArmorStand	Pirate	False	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjRmODVkNmFlNzdlMTJlNTFlZTQzYWRlZjQzYzNjMzI0ZTRlMzc4NDg5OWI5MDM3NjE4MmZlN2Y0N2E1ZSJ9fX0=";299(128,145,161);304;0
+0	ArmorStand	Pirate	Spawn	-423.78,42.5,-1439.5,90
+0.1	ArmorStand	Pirate	Position	BODY	0,4.3,0	0.1
+0.1	ArmorStand	Pirate	Position	HEAD	12,-0.83,0	0.1
+0.1	ArmorStand	Pirate	Position	LEG_LEFT	8,21,-10	0.1
+0.1	ArmorStand	Pirate	Position	LEG_RIGHT	8,0,1	0.1
+0.1	ArmorStand	Pirate	Position	ARM_LEFT	-88,21,0	0.1
+0.1	ArmorStand	Pirate	Position	ARM_RIGHT	-87,-15,9	0.1
+0.5	ArmorStand	Pirate	Position	HEAD	12,-0.83,8	0.1
+0.5	ArmorStand	Pirate	Position	ARM_LEFT	-98,3,-10	0.1
+0.5	ArmorStand	Pirate	Position	ARM_RIGHT	-105,-24,9	0.1
+6	ArmorStand	Pirate	Position	HEAD	12,-0.83,-8	35
+6	ArmorStand	Pirate	Position	ARM_LEFT	-98,0,1	35
+6	ArmorStand	Pirate	Position	ARM_RIGHT	-51,6,9	35
+12	ArmorStand	Pirate	Position	HEAD	12,-0.83,8	35
+12	ArmorStand	Pirate	Position	ARM_LEFT	-58,3,-10	35
+12	ArmorStand	Pirate	Position	ARM_RIGHT	-105,-24,9	35
+18	ArmorStand	Pirate	Position	HEAD	12,-0.83,-8	35
+18	ArmorStand	Pirate	Position	ARM_LEFT	-98,0,1	35
+18	ArmorStand	Pirate	Position	ARM_RIGHT	-51,6,9	35
+24	ArmorStand	Pirate	Position	HEAD	12,-0.83,8	35
+24	ArmorStand	Pirate	Position	ARM_LEFT	-58,3,-10	35
+24	ArmorStand	Pirate	Position	ARM_RIGHT	-105,-24,9	35
+30	ArmorStand	Pirate	Despawn

@@ -1,0 +1,11 @@
+Show	Location	-367,60,2653
+Show	TextRadius	20
+#/magic effect flash -360 59 2644
+#/magic effect flash -380 61 2648
+#/magic effect flash -371 59 2644
+0	FakeBlock	89	-360,59,2644
+0.3	FakeBlock	2	-360,59,2644
+0	FakeBlock	89	-380,61,2648
+0.3	FakeBlock	76	-380,61,2648
+0.4	FakeBlock	89	-371,59,2644
+0.7	FakeBlock	76	-371,59,2644

@@ -1,0 +1,38 @@
+Show	Location    -420,45,-1594
+Show	TextRadius	3000
+Show	Name	splm
+
+
+#Audio control 
+300 AudioStart  splmpre
+295 Block   152 -409,46,-1563
+#Chatmute/Show start
+510 Block   152 -407,42,-1561
+
+
+#Text
+0	Text	&eLadies and Gentlemen boys and girls, in just &910 Minutes&e, &dThe Palace Network &ewill proudly present &9&o&lSplash Mountain's Opening Ceremony &eat &b/warp splmopen&e!
+300	Text	&eLadies and Gentlemen boys and girls, in just &95 Minutes&e, &dThe Palace Network &ewill proudly present &9&o&lSplash Mountain's Opening Ceremony &eat &b/warp splmopen!
+480	Text	&eLadies and Gentlemen boys and girls, in just &92 Minutes&e, &dThe Palace Network &ewill proudly present &9&o&lSplash Mountain's Opening Ceremony &eat &b/warp splmopen&e!
+5	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+60	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+120	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+240	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+305	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+360	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+400	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+420	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+450	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+480	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+520	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+550	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+585	Text	&6During &9&o&lSplash Mountain's Opening Ceremony&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+590	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-406,42,-1566
+300	Block	152 -405,42,-1566	
+480	Block	152	-404,42,-1566
+
+600 Block   152 -402,42,-1566
+

@@ -1,0 +1,111 @@
+#Show Basics
+Show	Location	-40,64,420
+Show	TextRadius	5
+#Audio
+1	Block	152	-41,62,422
+1.2	Block	95	-41,62,422
+#Pixelators
+#1
+1	Block	152	-26,54,428
+1.2	Block	95	-26,54,428
+#2
+30.2	Block	152	-26,54,427
+30.4	Block	95	-26,54,427
+#3
+31.5	Block	152	-26,54,426
+31.7	Block	95	-26,54,426
+#4 - NOT NECESSARY
+#Block	152	-28,54,425
+#Block	95	-28,54,425
+#5
+46	Block	152	-26,54,424
+46.2	Block	95	-26,54,424
+#6
+52.6	Block	152	-26,54,423
+52.8	Block	95	-26,54,423
+#7
+55	Block	152	-26,54,422
+55.2	Block	95	-26,54,422
+#8
+58.7	Block	152	-26,54,421
+58.9	Block	95	-26,54,421
+#8.5
+61	Block	152	-26,54,428
+61.2	Block	95	-26,54,428
+#9
+82.6	Block	152	-26,54,420
+82.8	Block	95	-26,54,420
+#10
+89.1	Block	152	-26,54,419
+89.3	Block	95	-26,54,419
+#11
+94	Block	152	-26,54,418
+94.2	Block	95	-26,54,418
+#12
+101.7	Block	152	-26,54,417
+101.9	Block	95	-26,54,417
+#13
+107.7	Block	152	-26,54,416
+107.9	Block	95	-26,54,416
+#14
+112.5	Block	152	-26,54,415
+112.7	Block	95	-26,54,415
+#15
+115.6	Block	152	-26,54,414
+115.8	Block	95	-26,54,414
+#16 - NOT NECESSARY
+#Block	152	-28,54,413
+#Block	95	-28,54,413
+#17 - NOT NECESSARY
+#120.6	Block	152	-28,54,412
+#120.8	Block	95	-28,54,412
+#18
+123.6	Block	152	-26,54,411
+123.8	Block	95	-26,54,411
+#19
+151.2	Block	152	-26,54,410
+151.4	Block	95	-26,54,410
+#20
+157.3	Block	152	-26,54,409
+157.5	Block	95	-26,54,409
+#21
+169	Block	152	-26,54,408
+169.2	Block	95	-26,54,408
+#Text
+1	Text	&f[&6C3PO&f]	&9R2D2&e, thank goodness I caught you. I just received word that the captain is having some sort of technical problem.
+6	Text	&f[&9R2D2&f]	&b(Beeps)
+7.5	Text	&f[&6C3PO&f]	&eAnd that's why I am the systems analyst and you are the astromech.
+10.5	Text	&f[&9R2D2&f]	&b(Whistles, and beeps)
+12.3	Text	&f[&6C3PO&f]	&eDon't you tell me to hurry, you overgrown glob of grease! I know exactly what time you depart. You just do your job and I'll do mine.
+31.7	Text	&f[&6C3PO&f]	&eAh...Excuse me. captain...
+33.5	Text	&f[&2ACE&f]	&aWho are you?
+34.3	Text	&f[&6C3PO&f]	&eC3PO, systems analyst.
+36.5	Text	&f[&2ACE&f]	&aIt's about time, the binary motivator's acting up.
+38.1	Text	&f[&6C3PO&f]	&eWell, Binary is like a second language to me, but I can't fix the motivator from here.
+45.5	Text	&f[&2ACE&f]	&aJust make it quick. We're scheduled to depart in a few minutes.
+48	Text	&f[&6C3PO&f]	&eThen there's no time to lose. Off with you. Go on! Shoo! Shoo! Tour droids...really.
+55.2	Text	&f[&6C3PO&f]	&eWhat? This is malfunctioning too! This could take longer than I thought...
+88.3	Text	&f[&5Safety Announcer&f]	&dPlease pay attention to the following safety information.
+91.3	Text	&f[&5Safety Announcer&f]	&dWhen the automatic doors have opened, please proceed directly across the ramp into the cabin.
+96.3	Text	&f[&5Safety Announcer&f]	&dContinue to move all the way across your aisle, filling in every available seat.
+101.9	Text	&f[&5Safety Announcer&f]	&dGalactic Regulations require that all carry-on items be safely stowed beneath your seats.
+106.7	Text	&f[&5Safety Announcer&f]	&dTo fasten your restraint, use the yellow strap to pull the belt out from the right side of the seat, and snap the belt into the buckle in your left.
+114.7	Text	&f[&5Safety Announcer&f]	&dFor your safety, remain seated throughout your flight with your restraints securely fastened. And please watch your children.
+122.7	Text	&f[&5Safety Announcer&f]	&dPara su seguridad, permanezca sentados con el cinturón de seguridad ajustado y cuide a los pequeñitos.
+131.3	Text	&f[&5Safety Announcer&f]	&dDo not put on your flight glasses until instructed to do so by a crew member.
+136.3	Text	&f[&5Safety Announcer&f]	&dOne final reminder, smoking and photography are never permitted on any Star Tours flight.
+143.3	Text	&f[&5Safety Announcer&f]	&dIf you have any questions, don't hesitate to ask a Star Tours agent.
+147.6	Text	&f[&5Safety Announcer&f]	&dYou'll be boarding in just a few moments. Thank you.
+#Text	&f[&2Announcer&f]	&aAll passengers, please prepare for immediate boarding.
+#Doors
+156	Block	152	-40,62,422
+156.2	Block	95	-40,62,422
+166	Block	152	-40,62,419
+166.2	Block	95	-40,62,419
+#
+#
+#
+#------------------------------------------------------
+#                      MADE BY
+#                      FRANKYFG
+#------------------------------------------------------

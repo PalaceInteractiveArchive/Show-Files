@@ -1,0 +1,626 @@
+Sequence	Light
+#Define
+EnderCrystal	bl1
+EnderCrystal	bl2
+EnderCrystal	bl3
+EnderCrystal	bl4
+EnderCrystal	bl5
+EnderCrystal	bl6
+EnderCrystal	bl7
+EnderCrystal	bl8
+EnderCrystal	bl9
+EnderCrystal	bl10
+EnderCrystal	bl11
+EnderCrystal	bl12
+EnderCrystal	bl13
+EnderCrystal	bl14
+EnderCrystal	bl15
+EnderCrystal	bl16
+EnderCrystal	ml1
+EnderCrystal	ml2
+EnderCrystal	ml3
+EnderCrystal	ml4
+EnderCrystal	ml5
+EnderCrystal	br1
+EnderCrystal	br2
+EnderCrystal	br3
+EnderCrystal	br4
+EnderCrystal	br5
+EnderCrystal	br6
+EnderCrystal	br7
+EnderCrystal	br8
+EnderCrystal	br9
+EnderCrystal	br10
+EnderCrystal	br11
+EnderCrystal	br12
+EnderCrystal	br13
+EnderCrystal	br14
+EnderCrystal	br15
+EnderCrystal	br16
+EnderCrystal	mr1
+EnderCrystal	mr2
+EnderCrystal	mr3
+EnderCrystal	mr4
+EnderCrystal	mr5
+EnderCrystal	2LL1
+EnderCrystal	2LL2
+EnderCrystal	2LL3
+EnderCrystal	2LL4
+EnderCrystal	2LL5
+EnderCrystal	2LL6
+EnderCrystal	2LL7
+EnderCrystal	2LL8
+EnderCrystal	2L1
+EnderCrystal	2L2
+EnderCrystal	2L3
+EnderCrystal	2L4
+EnderCrystal	2L5
+EnderCrystal	2L6
+EnderCrystal	2L7
+EnderCrystal	2L8
+EnderCrystal	2RR1
+EnderCrystal	2RR2
+EnderCrystal	2RR3
+EnderCrystal	2RR4
+EnderCrystal	2RR5
+EnderCrystal	2RR6
+EnderCrystal	2RR7
+EnderCrystal	2RR8
+EnderCrystal	2R1
+EnderCrystal	2R2
+EnderCrystal	2R3
+EnderCrystal	2R4
+EnderCrystal	2R5
+EnderCrystal	2R6
+EnderCrystal	2R7
+EnderCrystal	2R8
+EnderCrystal	3L1
+EnderCrystal	3L2
+EnderCrystal	3L3
+EnderCrystal	3L4
+EnderCrystal	3L5
+EnderCrystal	3R1
+EnderCrystal	3R2
+EnderCrystal	3R3
+EnderCrystal	3R4
+EnderCrystal	3R5
+EnderCrystal	4STR1
+EnderCrystal	4STR2
+EnderCrystal	4STR3
+EnderCrystal	4STR4
+EnderCrystal	4STR5
+EnderCrystal	4STR6
+EnderCrystal	4STR7
+EnderCrystal	4STR8
+EnderCrystal	4STL1
+EnderCrystal	4STL2
+EnderCrystal	4STL3
+EnderCrystal	4STL4
+EnderCrystal	4STL5
+EnderCrystal	4STL6
+EnderCrystal	4STL7
+EnderCrystal	4STL8
+#ShowStart
+#SectionOne
+1.4	bl16	Spawn	-130.5,59,-1684.0	-55.5,96,-1635.5
+1.4	bl15	Spawn	-131.5,59,-1684.0	-56.5,97,-1635.5
+1.4	bl14	Spawn	-132.5,59,-1684.0	-57.5,98,-1635.5
+1.4	bl13	Spawn	-133.5,59,-1684.0	-58.5,99,-1635.5
+1.4	bl12	Spawn	-134.5,59,-1684.0	-59.5,100,-1635.5
+1.4	bl11	Spawn	-135.5,59,-1684.0	-60.5,101,-1635.5
+1.4	bl10	Spawn	-136.5,59,-1684.0	-61.5,102,-1635.5
+1.4	bl9	Spawn	-137.5,59,-1684.0	-62.5,103,-1635.5
+1.4	bl8	Spawn	-155.5,62,-1685.5	-64.5,105,-1635.5
+1.4	bl7	Spawn	-156.5,62,-1685.5	-65.5,106,-1635.5
+1.4	bl6	Spawn	-157.5,62,-1685.5	-66.5,107,-1635.5
+1.4	bl5	Spawn	-158.5,62,-1685.5	-67.5,108,-1635.5
+1.4	bl4	Spawn	-159.5,62,-1685.5	-68.5,109,-1635.5
+1.4	bl3	Spawn	-160.5,62,-1685.5	-69.5,110,-1635.5
+1.4	bl2	Spawn	-161.5,62,-1685.5	-70.5,111,-1635.5
+1.4	bl1	Spawn	-162.5,62,-1685.5	-71.5,112,-1635.5
+1.4	br1	Spawn	-18.5,60,-1685.5	-109.5,112,-1635.5
+1.4	br2	Spawn	-19.5,60,-1685.5	-110.5,111,-1635.5
+1.4	br3	Spawn	-20.5,60,-1685.5	-111.5,110,-1635.5
+1.4	br4	Spawn	-21.5,60,-1685.5	-112.5,109,-1635.5
+1.4	br5	Spawn	-22.5,60,-1685.5	-113.5,108,-1635.5
+1.4	br6	Spawn	-23.5,60,-1685.5	-114.5,107,-1635.5
+1.4	br7	Spawn	-24.5,60,-1685.5	-115.5,106,-1635.5
+1.4	br8	Spawn	-25.5,60,-1685.5	-116.5,105,-1635.5
+1.4	br9	Spawn	-42.5,60,-1685.5	-118.5,104,-1635.5
+1.4	br10	Spawn	-43.5,60,-1685.5	-119.5,102,-1635.5
+1.4	br11	Spawn	-44.5,60,-1685.5	-120.5,101,-1635.5
+1.4	br12	Spawn	-45.5,60,-1685.5	-121.5,100,-1635.5
+1.4	br13	Spawn	-46.5,60,-1685.5	-122.5,99,-1635.5
+1.4	br14	Spawn	-47.5,60,-1685.5	-123.5,98,-1635.5
+1.4	br15	Spawn	-48.5,60,-1685.5	-124.5,97,-1635.5
+1.4	br16	Spawn	-49.5,60,-1685.5	-125.5,96,-1635.5
+1.4	ml1	Spawn	-65.5,103,-1634.5	-161.5,58,-1687.5
+1.4	ml2	Spawn	-64.5,102,-1634.5	-154.5,58,-1687.5
+1.4	ml3	Spawn	-63.5,101,-1634.5	-145.5,57,-1687.5
+1.4	ml4	Spawn	-62.5,100,-1634.5	-137.5,57,-1687.5
+1.4	ml5	Spawn	-61.5,99,-1634.5	-130.5,57,-1687.5
+1.4	mr5	Spawn	-119.5,99,-1634.5	-48.5,57,-1687.5
+1.4	mr4	Spawn	-118.5,100,-1634.5	-41.5,57,-1687.5
+1.4	mr3	Spawn	-117.5,101,-1634.5	-33.5,57,-1687.5
+1.4	mr2	Spawn	-116.5,102,-1634.5	-26.5,57,-1687.5
+1.4	mr1	Spawn	-115.5,103,-1634.5	-18.5,57,-1687.5
+2.5	mr5	Move	10,4,6	3.3
+2.5	ml5	Move	-10,4,6	3.3
+2.5	mr4	Move	30,3,15	3.3
+2.5	ml4	Move	-30,3,15	3.3
+2.5	mr3	Move	50,2,35	3.3
+2.5	ml3	Move	-50,2,35	3.3
+2.5	mr2	Move	70,1,45	3.3
+2.5	ml2	Move	-70,1,45	3.3
+2.5	mr1	Move	90,0,50	3.3
+2.5	ml1	Move	-90,0,50	3.3
+4	ml5	Despawn
+4.3	ml4	Despawn
+4.7	ml3	Despawn
+5	ml2	Despawn
+5.4	ml1	Despawn
+4	mr5	Despawn
+4.3	mr4	Despawn
+4.7	mr3	Despawn
+5	mr2	Despawn
+5.4	mr1	Despawn
+1.5	bl1	Despawn
+1.5	bl2	Despawn
+1.5	bl3	Despawn
+1.5	bl4	Despawn
+1.6	bl5	Despawn
+1.6	bl6	Despawn
+1.7	bl7	Despawn
+1.7	bl8	Despawn
+1.8	bl9	Despawn
+1.8	bl10	Despawn
+1.9	bl11	Despawn
+1.9	bl12	Despawn
+2	bl13	Despawn
+2.0	bl14	Despawn
+2.1	bl15	Despawn
+2.1	bl16	Despawn
+1.5	br1	Despawn
+1.5	br2	Despawn
+1.5	br3	Despawn
+1.5	br4	Despawn
+1.6	br5	Despawn
+1.6	br6	Despawn
+1.7	br7	Despawn
+1.7	br8	Despawn
+1.8	br9	Despawn
+1.8	br10	Despawn
+1.9	br11	Despawn
+1.9	br12	Despawn
+2	br13	Despawn
+2.0	br14	Despawn
+2.1	br15	Despawn
+2.1	br16	Despawn
+#SectionTwo
+5.4	2LL1	Spawn	-194.0,144,-1658.5	-161.5,60,-1685.5
+5.4	2LL2	Spawn	-184.0,144,-1658.5	-160.5,60,-1685.5
+5.4	2LL3	Spawn	-174.0,144,-1658.5	-159.5,60,-1685.5
+5.4	2LL4	Spawn	-164.0,144,-1658.5	-158.5,60,-1685.5	
+5.4	2LL5	Spawn	-154.0,144,-1658.5	-157.5,60,-1685.5
+5.4	2LL6	Spawn	-144.0,144,-1658.5	-156.5,60,-1685.5	
+5.4	2LL7	Spawn	-134.0,144,-1658.5	-155.5,60,-1685.5
+5.4	2LL8	Spawn	-124.0,144,-1658.5	-154.5,60,-1685.5
+5.4	2L1	Spawn	-154.0,144,-1657.5	-138.5,57,-1683.5
+5.4	2L2	Spawn	-144.0,144,-1657.5	-137.5,57,-1683.5
+5.4	2L3	Spawn	-134.0,144,-1657.5	-136.5,57,-1683.5
+5.4	2L4	Spawn	-124.0,144,-1657.5	-135.5,57,-1683.5
+5.4	2L5	Spawn	-114.0,144,-1657.5	-134.5,57,-1683.5
+5.4	2L6	Spawn	-104.0,144,-1657.5	-133.5,57,-1683.5
+5.4	2L7	Spawn	-94.0,144,-1657.5	-132.5,57,-1683.5
+5.4	2L8	Spawn	-84.0,144,-1657.5	-131.5,57,-1683.5
+5.4	2RR1	Spawn	20.0,144,-1657.5	-17.5,59,-1682.5
+5.4	2RR2	Spawn	10.0,144,-1657.5	-18.5,59,-1682.5
+5.4	2RR3	Spawn	0.0,144,-1657.5	-19.5,59,-1682.5
+5.4	2RR4	Spawn	-10.0,144,-1657.5	-20.5,59,-1682.5
+5.4	2RR5	Spawn	-20.0,144,-1657.5	-21.5,59,-1682.5
+5.4	2RR6	Spawn	-30.0,144,-1657.5	-22.5,59,-1682.5
+5.4	2RR7	Spawn	-40.0,144,-1657.5	-23.5,59,-1682.5
+5.4	2RR8	Spawn	-50.0,144,-1657.5	-24.5,59,-1682.5
+5.4	2R1	Spawn	-20,144,-1657	-40.5,58,-1682.5
+5.4	2R2	Spawn	-30,144,-1657	-41.5,58,-1682.5
+5.4	2R3	Spawn	-40,144,-1657	-42.5,58,-1682.5
+5.4	2R4	Spawn	-50,144,-1657	-43.5,58,-1682.5
+5.4	2R5	Spawn	-60,144,-1657	-44.5,58,-1682.5
+5.4	2R6	Spawn	-70,144,-1657	-45.5,58,-1682.5
+5.4	2R7	Spawn	-80,144,-1657	-40.5,58,-1682.5
+5.4	2R8	Spawn	-90,144,-1657	-40.5,58,-1682.5
+#MoveSectionTwo
+#Left
+5.5	2L1	Move	24,-10,0	1.3
+5.5	2L2	Move	22,-10,0	1.1
+5.5	2L3	Move	20,-10,0	0.9
+5.5	2L4	Move	18,-10,0	0.7
+5.5	2L5	Move	16,-10,0	0.6
+5.5	2L6	Move	14,-10,0	0.5
+5.5	2L7	Move	12,-10,0	0.4
+5.5	2L8	Move	10,-10,0	0.3
+6.8	2L1	Move	-80,0,0	1.0
+6.8	2L2	Move	-80,0,0	1.0
+6.8	2L3	Move	-80,0,0	1.0
+6.8	2L4	Move	-80,0,0	1.0
+6.8	2L5	Move	-80,0,0	1.0
+6.8	2L6	Move	-80,0,0	1.0
+6.8	2L7	Move	-80,0,0	1.0
+6.8	2L8	Move	-80,0,0	1.0
+8.1	2L1	Move	94,10,0	1.1
+8.1	2L2	Move	92,10,0	1.0
+8.1	2L3	Move	90,10,0	0.9
+8.1	2L4	Move	88,10,0	0.8
+8.1	2L5	Move	86,10,0	0.7
+8.1	2L6	Move	84,10,0	0.6
+8.1	2L7	Move	82,10,0	0.5
+8.1	2L8	Move	80,10,0	0.4
+##LeftLeft
+5.5	2LL1	Move	-10,-10,0	0.3
+5.5	2LL2	Move	-12,-10,0	0.4
+5.5	2LL3	Move	-14,-10,0	0.5
+5.5	2LL4	Move	-16,-10,0	0.6
+5.5	2LL5	Move	-18,-10,0	0.7
+5.5	2LL6	Move	-20,-10,0	0.9
+5.5	2LL7	Move	-22,-10,0	1.1
+5.5	2LL8	Move	-24,-10,0	1.3
+6.8	2LL1	Move	80,0,0	1.0
+6.8	2LL2	Move	80,0,0	1.0
+6.8	2LL3	Move	80,0,0	1.0
+6.8	2LL4	Move	80,0,0	1.0
+6.8	2LL5	Move	80,0,0	1.0
+6.8	2LL6	Move	80,0,0	1.0
+6.8	2LL7	Move	80,0,0	1.0
+6.8	2LL8	Move	80,0,0	1.0
+8.1	2LL1	Move	-80,10,0	0.4
+8.1	2LL2	Move	-82,10,0	0.5
+8.1	2LL3	Move	-84,10,0	0.6
+8.1	2LL4	Move	-86,10,0	0.7
+8.1	2LL5	Move	-88,10,0	0.8
+8.1	2LL6	Move	-90,10,0	0.9
+8.1	2LL7	Move	-92,10,0	1.0
+8.1	2LL8	Move	-94,10,0	1.1
+#Right
+5.5	2R1	Move	-24,-10,0	1.3
+5.5	2R2	Move	-22,-10,0	1.1
+5.5	2R3	Move	-20,-10,0	0.9
+5.5	2R4	Move	-18,-10,0	0.7
+5.5	2R5	Move	-16,-10,0	0.6
+5.5	2R6	Move	-14,-10,0	0.5
+5.5	2R7	Move	-12,-10,0	0.4
+5.5	2R8	Move	-10,-10,0	0.3
+6.8	2R1	Move	80,0,0	1.0
+6.8	2R2	Move	80,0,0	1.0
+6.8	2R3	Move	80,0,0	1.0
+6.8	2R4	Move	80,0,0	1.0
+6.8	2R5	Move	80,0,0	1.0
+6.8	2R6	Move	80,0,0	1.0
+6.8	2R7	Move	80,0,0	1.0
+6.8	2R8	Move	80,0,0	1.0
+8.1	2R1	Move	-94,10,0	1.1
+8.1	2R2	Move	-92,10,0	1.0
+8.1	2R3	Move	-90,10,0	0.9
+8.1	2R4	Move	-88,10,0	0.8
+8.1	2R5	Move	-86,10,0	0.7
+8.1	2R6	Move	-84,10,0	0.6
+8.1	2R7	Move	-82,10,0	0.5
+8.1	2R8	Move	-80,10,0	0.4
+##RightRight
+5.5	2RR1	Move	10,-10,0	0.3
+5.5	2RR2	Move	12,-10,0	0.4
+5.5	2RR3	Move	14,-10,0	0.5
+5.5	2RR4	Move	16,-10,0	0.6
+5.5	2RR5	Move	18,-10,0	0.7
+5.5	2RR6	Move	20,-10,0	0.9
+5.5	2RR7	Move	22,-10,0	1.1
+5.5	2RR8	Move	24,-10,0	1.3
+6.8	2RR1	Move	-80,0,0	1.0
+6.8	2RR2	Move	-80,0,0	1.0
+6.8	2RR3	Move	-80,0,0	1.0
+6.8	2RR4	Move	-80,0,0	1.0
+6.8	2RR5	Move	-80,0,0	1.0
+6.8	2RR6	Move	-80,0,0	1.0
+6.8	2RR7	Move	-80,0,0	1.0
+6.8	2RR8	Move	-80,0,0	1.0
+8.1	2RR1	Move	80,10,0	0.4
+8.1	2RR2	Move	82,10,0	0.5
+8.1	2RR3	Move	84,10,0	0.6
+8.1	2RR4	Move	86,10,0	0.7
+8.1	2RR5	Move	88,10,0	0.8
+8.1	2RR6	Move	90,10,0	0.9
+8.1	2RR7	Move	92,10,0	1.0
+8.1	2RR8	Move	94,10,0	1.1
+#DespawnSectionTwo
+9.25	2LL1	Despawn
+9.2	2LL2	Despawn
+9.15	2LL3	Despawn
+9.1	2LL4	Despawn
+9.05	2LL5	Despawn
+9.0	2LL6	Despawn
+8.95	2LL7	Despawn
+8.9	2LL8	Despawn
+8.85	2L1	Despawn
+8.8	2L2	Despawn
+8.75	2L3	Despawn
+8.7	2L4	Despawn
+8.65	2L5	Despawn
+8.6	2L6	Despawn
+8.55	2L7	Despawn
+8.5	2L8	Despawn
+9.25	2RR1	Despawn
+9.2	2RR2	Despawn
+9.15	2RR3	Despawn
+9.1	2RR4	Despawn
+9.05	2RR5	Despawn
+9.0	2RR6	Despawn
+8.95	2RR7	Despawn
+8.9	2RR8	Despawn
+8.85	2R1	Despawn
+8.8	2R2	Despawn
+8.75	2R3	Despawn
+8.7	2R4	Despawn
+8.65	2R5	Despawn
+8.6	2R6	Despawn
+8.55	2R7	Despawn
+8.5	2R8	Despawn
+##SectionThree
+#Left
+9.6	3L1	Spawn	-108.5,144,-1650	-131,58,-1683.5
+9.6	3L2	Spawn	-128,144,-1650	-133,58,-1683.5
+9.6	3L3	Spawn	-148,144,-1650	-135,58,-1683.5
+9.6	3L4	Spawn	-168,144,-1650	-137,58,-1683.5
+9.6	3L5	Spawn	-188,144,-1650	-139,58,-1683.5
+10	3L1	Move	50,-20,0	3
+10.2	3L2	Move	50,-20,0	3
+10.4	3L3	Move	50,-20,0	3
+10.6	3L4	Move	50,-20,0	3
+10.8	3L5	Move	50,-20,0	3
+12	3L1	Despawn
+12.2	3L2	Despawn
+12.4	3L3	Despawn
+12.6	3L4	Despawn
+12.8	3L5	Despawn
+#Right
+9.6	3R1	Spawn	-75.5,144,-1650	-49,59,-1682.5
+9.6	3R2	Spawn	-55.5,144,-1650	-47,59,-1682.5
+9.6	3R3	Spawn	-35.5,144,-1650	-45,59,-1682.5
+9.6	3R4	Spawn	-15.5,144,-1650	-43,59,-1682.5
+9.6	3R5	Spawn	5.5,144,-1650	-41,59,-1682.5
+10	3R1	Move	-50,-20,0	3
+10.2	3R2	Move	-50,-20,0	3
+10.4	3R3	Move	-50,-20,0	3
+10.6	3R4	Move	-50,-20,0	3
+10.8	3R5	Move	-50,-20,0	3
+12	3R1	Despawn
+12.2	3R2	Despawn
+12.4	3R3	Despawn
+12.6	3R4	Despawn
+12.8	3R5	Despawn
+##SectionFour
+#Left
+13	4STL1	Spawn	-112.5,90,-1605.5	-112.5,43.5,-1595.5
+13	4STL2	Spawn	-114.5,90,-1605.5	-113,43.5,-1595.5
+13	4STL3	Spawn	-116.5,90,-1605.5	-113.5,43.5,-1595.5
+13	4STL4	Spawn	-118.5,90,-1605.5	-114,43.5,-1595.5
+13	4STL5	Spawn	-120.5,90,-1605.5	-114.5,43.5,-1595.5
+13	4STL6	Spawn	-122.5,90,-1606.5	-115.5,43.5,-1596.5
+13	4STL7	Spawn	-124.5,90,-1606.5	-116,43.5,-1596.5
+13	4STL8	Spawn	-126.5,90,-1606.5	-116.5,43.5,-1596.5
+13.5	4STL1	Move	20,-10,0	1
+13.5	4STL2	Move	15,-10,0	1
+13.5	4STL3	Move	10,-10,0	1
+13.5	4STL4	Move	5,-10,0	1
+13.5	4STL5	Move	-5,-10,0	1
+13.5	4STL6	Move	-10,-10,0	1
+13.5	4STL7	Move	-15,-10,0	1
+13.5	4STL8	Move	-20,-10,0	1
+14.6	4STL1	Despawn
+14.7	4STL2	Despawn
+14.8	4STL3	Despawn
+14.9	4STL4	Despawn
+15.0	4STL5	Despawn
+15.1	4STL6	Despawn
+15.2	4STL7	Despawn
+15.3	4STL8	Despawn
+#Right
+13	4STR1	Spawn	-65.5,90,-1607.5	-65.5,43,-1597.5
+13	4STR2	Spawn	-63.5,90,-1607.75	-64.5,43,-1597.75
+13	4STR3	Spawn	-61.5,90,-1608.5	-63.5,43,-1598.5
+13	4STR4	Spawn	-59.5,90,-1608.5	-62.5,43,-1598.5
+13	4STR5	Spawn	-57.5,90,-1608.75	-62.5,43,-1598.75
+13	4STR6	Spawn	-55.5,90,-1609.5	-61,43,-1599.5
+13	4STR7	Spawn	-53.5,90,-1609.5	-60.5,43,-1599.5
+13	4STR8	Spawn	-51.5,90,-1609.5	-59,43,-1599.5
+13.5	4STR1	Move	-20,-10,0	1
+13.5	4STR2	Move	-15,-10,0	1
+13.5	4STR3	Move	-10,-10,0	1
+13.5	4STR4	Move	-5,-10,0	1
+13.5	4STR5	Move	5,-10,0	1
+13.5	4STR6	Move	10,-10,0	1
+13.5	4STR7	Move	15,-10,0	1
+13.5	4STR8	Move	20,-10,0	1
+14.6	4STR1	Despawn
+14.7	4STR2	Despawn
+14.8	4STR3	Despawn
+14.9	4STR4	Despawn
+15.0	4STR5	Despawn
+15.1	4STR6	Despawn
+15.2	4STR7	Despawn
+15.3	4STR8	Despawn
+#SectionFive
+#Left
+15.5	2L1	Spawn	-136.0,144,-1657.5	-138.5,57,-1683.5
+15.5	2L2	Spawn	-130.0,144,-1657.5	-137.5,57,-1683.5
+15.5	2L3	Spawn	-124.0,144,-1657.5	-136.5,57,-1683.5
+15.5	2L4	Spawn	-118.0,144,-1657.5	-135.5,57,-1683.5
+15.5	2L5	Spawn	-112.0,144,-1657.5	-134.5,57,-1683.5
+15.5	2L6	Spawn	-106.0,144,-1657.5	-133.5,57,-1683.5
+15.5	2L7	Spawn	-100.0,144,-1657.5	-132.5,57,-1683.5
+15.5	2L8	Spawn	-94.0,144,-1657.5	-131.5,57,-1683.5
+15.6	2L8	Move	4,0,0	1
+15.6	2L7	Move	18,0,-1	1
+15.6	2L6	Move	26,0,-1	1
+15.6	2L5	Move	34,0,-1	1
+15.6	2L4	Move	42,0,-1	1
+15.6	2L3	Move	50,0,-1	1
+15.6	2L2	Move	58,0,-1	1
+15.6	2L1	Move	66,0,-1	1
+16.6	2L1	Move	-80,-60,0	0.6
+16.8	2L2	Move	-80,-60,0	0.6
+17.0	2L3	Move	-80,-60,0	0.6
+17.2	2L4	Move	-80,-60,0	0.6
+17.4	2L5	Move	-80,-60,0	0.6
+17.6	2L6	Move	-80,-60,0	0.6
+17.8	2L7	Move	-80,-60,0	0.6
+18.0	2L8	Move	-80,-60,0	0.6
+17.3	2L1	Despawn
+17.5	2L2	Despawn
+17.7	2L3	Despawn
+17.9	2L4	Despawn
+18.1	2L5	Despawn
+18.3	2L6	Despawn
+18.5	2L7	Despawn
+18.7	2L8	Despawn
+#LeftLeft
+15.5	2LL1	Spawn	-159.0,144,-1657.5	-161.5,57,-1683.5
+15.5	2LL2	Spawn	-153.0,144,-1657.5	-160.5,57,-1683.5
+15.5	2LL3	Spawn	-147.0,144,-1657.5	-159.5,57,-1683.5
+15.5	2LL4	Spawn	-141.0,144,-1657.5	-158.5,57,-1683.5
+15.5	2LL5	Spawn	-135.0,144,-1657.5	-157.5,57,-1683.5
+15.5	2LL6	Spawn	-129.0,144,-1657.5	-156.5,57,-1683.5
+15.5	2LL7	Spawn	-123.0,144,-1657.5	-155.5,57,-1683.5
+15.5	2LL8	Spawn	-117.0,144,-1657.5	-154.5,57,-1683.5
+15.6	2LL8	Move	4,0,0	1
+15.6	2LL7	Move	18,0,-1	1
+15.6	2LL6	Move	26,0,-1	1
+15.6	2LL5	Move	34,0,-1	1
+15.6	2LL4	Move	42,0,-1	1
+15.6	2LL3	Move	50,0,-1	1
+15.6	2LL2	Move	58,0,-1	1
+15.6	2LL1	Move	66,0,-1	1
+16.6	2LL1	Move	-80,-60,0	0.6
+16.8	2LL2	Move	-80,-60,0	0.6
+17.0	2LL3	Move	-80,-60,0	0.6
+17.2	2LL4	Move	-80,-60,0	0.6
+17.4	2LL5	Move	-80,-60,0	0.6
+17.6	2LL6	Move	-80,-60,0	0.6
+17.8	2LL7	Move	-80,-60,0	0.6
+18.0	2LL8	Move	-80,-60,0	0.6
+17.3	2LL1	Despawn
+17.5	2LL2	Despawn
+17.7	2LL3	Despawn
+17.9	2LL4	Despawn
+18.1	2LL5	Despawn
+18.3	2LL6	Despawn
+18.5	2LL7	Despawn
+18.7	2LL8	Despawn
+#Right
+15.5	2R1	Spawn	-59.0,144,-1657.5	-49.5,57,-1683.5
+15.5	2R2	Spawn	-65.0,144,-1657.5	-48.5,57,-1683.5
+15.5	2R3	Spawn	-71.0,144,-1657.5	-47.5,57,-1683.5
+15.5	2R4	Spawn	-77.0,144,-1657.5	-46.5,57,-1683.5
+15.5	2R5	Spawn	-83.0,144,-1657.5	-45.5,57,-1683.5
+15.5	2R6	Spawn	-89.0,144,-1657.5	-44.5,57,-1683.5
+15.5	2R7	Spawn	-95.0,144,-1657.5	-43.5,57,-1683.5
+15.5	2R8	Spawn	-101.0,144,-1657.5	-42.5,57,-1683.5
+15.6	2R8	Move	-4,0,0	1
+15.6	2R7	Move	-18,0,-1	1
+15.6	2R6	Move	-26,0,-1	1
+15.6	2R5	Move	-34,0,-1	1
+15.6	2R4	Move	-42,0,-1	1
+15.6	2R3	Move	-50,0,-1	1
+15.6	2R2	Move	-58,0,-1	1
+15.6	2R1	Move	-66,0,-1	1
+16.6	2R1	Move	80,-60,0	0.6
+16.8	2R2	Move	80,-60,0	0.6
+17.0	2R3	Move	80,-60,0	0.6
+17.2	2R4	Move	80,-60,0	0.6
+17.4	2R5	Move	80,-60,0	0.6
+17.6	2R6	Move	80,-60,0	0.6
+17.8	2R7	Move	80,-60,0	0.6
+18.0	2R8	Move	80,-60,0	0.6
+17.3	2R1	Despawn
+17.5	2R2	Despawn
+17.7	2R3	Despawn
+17.9	2R4	Despawn
+18.1	2R5	Despawn
+18.3	2R6	Despawn
+18.5	2R7	Despawn
+18.7	2R8	Despawn
+#RightRight
+15.5	2RR1	Spawn	-34.0,144,-1657.5	-24.5,57,-1683.5
+15.5	2RR2	Spawn	-40.0,144,-1657.5	-23.5,57,-1683.5
+15.5	2RR3	Spawn	-46.0,144,-1657.5	-22.5,57,-1683.5
+15.5	2RR4	Spawn	-52.0,144,-1657.5	-21.5,57,-1683.5
+15.5	2RR5	Spawn	-58.0,144,-1657.5	-20.5,57,-1683.5
+15.5	2RR6	Spawn	-64.0,144,-1657.5	-19.5,57,-1683.5
+15.5	2RR7	Spawn	-70.0,144,-1657.5	-18.5,57,-1683.5
+15.5	2RR8	Spawn	-76.0,144,-1657.5	-17.5,57,-1683.5
+15.6	2RR8	Move	-4,0,0	1
+15.6	2RR7	Move	-18,0,-1	1
+15.6	2RR6	Move	-26,0,-1	1
+15.6	2RR5	Move	-34,0,-1	1
+15.6	2RR4	Move	-42,0,-1	1
+15.6	2RR3	Move	-50,0,-1	1
+15.6	2RR2	Move	-58,0,-1	1
+15.6	2RR1	Move	-66,0,-1	1
+16.6	2RR1	Move	80,-60,0	0.6
+16.8	2RR2	Move	80,-60,0	0.6
+17.0	2RR3	Move	80,-60,0	0.6
+17.2	2RR4	Move	80,-60,0	0.6
+17.4	2RR5	Move	80,-60,0	0.6
+17.6	2RR6	Move	80,-60,0	0.6
+17.8	2RR7	Move	80,-60,0	0.6
+18.0	2RR8	Move	80,-60,0	0.6
+17.3	2RR1	Despawn
+17.5	2RR2	Despawn
+17.7	2RR3	Despawn
+17.9	2RR4	Despawn
+18.1	2RR5	Despawn
+18.3	2RR6	Despawn
+18.5	2RR7	Despawn
+18.7	2RR8	Despawn
+##SectionSix
+#Left
+18.8	3L1	Spawn	-87.5,63,-1651.5	-154,58,-1683.5
+18.8	3L2	Spawn	-87.5,73,-1651.5	-156,58,-1683.5
+18.8	3L3	Spawn	-87.5,83,-1651.5	-158,58,-1683.5
+18.8	3L4	Spawn	-87.5,93,-1651.5	-160,58,-1683.5
+18.8	3L5	Spawn	-87.5,103,-1651.5	-162,58,-1683.5
+18.9	3L1	Move	0,20,0	1
+18.9	3L2	Move	0,20,0	1
+18.9	3L3	Move	0,20,0	1
+18.9	3L4	Move	0,20,0	1
+18.9	3L5	Move	0,20,0	1
+
+46.5	3L1	Move	0,-50,0	1
+46.7	3L2	Move	0,-50,0	1
+46.9	3L3	Move	0,-50,0	1
+47.1	3L4	Move	0,-50,0	1
+47.3	3L5	Move	0,-50,0	1
+47.6	3L1	Despawn
+47.8	3L2	Despawn
+48.0	3L3	Despawn
+48.2	3L4	Despawn
+48.4	3L5	Despawn
+#Right
+18.8	3R1	Spawn	-87.5,63,-1651.5	-17,58,-1682.5
+18.8	3R2	Spawn	-87.5,73,-1651.5	-19,58,-1682.5
+18.8	3R3	Spawn	-87.5,83,-1651.5	-21,58,-1682.5
+18.8	3R4	Spawn	-87.5,93,-1651.5	-23,58,-1682.5
+18.8	3R5	Spawn	-87.5,103,-1651.5	-25,58,-1682.5
+18.9	3R1	Move	0,20,0	1
+18.9	3R2	Move	0,20,0	1
+18.9	3R3	Move	0,20,0	1
+18.9	3R4	Move	0,20,0	1
+18.9	3R5	Move	0,20,0	1
+46.5	3R1	Move	0,-50,0	1
+46.7	3R2	Move	0,-50,0	1
+46.9	3R3	Move	0,-50,0	1
+47.1	3R4	Move	0,-50,0	1
+47.3	3R5	Move	0,-50,0	1
+47.6	3R1	Despawn
+47.8	3R2	Despawn
+48.0	3R3	Despawn
+48.2	3R4	Despawn
+48.4	3R5	Despawn

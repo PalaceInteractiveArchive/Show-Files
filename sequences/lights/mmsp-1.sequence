@@ -1,0 +1,19 @@
+Sequence    Light
+#Define
+EnderCrystal    spot1
+EnderCrystal	spot2
+
+#Spawn
+0   spot1 Spawn -74 67 2752 -74 67 2769
+0   spot2 Spawn -86 67 2752 -86 67 2769
+
+#Move
+1   spot1 Move    10,0,0    1
+1   spot2 Move    -10,0,0    1
+2   spot1 Move    20,0,0    1
+2   spot2 Move    -20,0,0    1
+
+#Despawn
+3   spot1   Despawn
+3   spot2   Despawn
+

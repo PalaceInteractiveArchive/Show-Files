@@ -1,0 +1,46 @@
+﻿Show	Location	-392,61,-88
+Show	TextRadius	60
+#This is the location where music/text is centered.
+Show	Name	rrctour
+#Follows the anti-double show running rule
+#Comment
+
+
+### Text ###
+#Text:
+10	Text	&2We’re about to head into the most dangerous part of the tour!
+12.9	Text	&cSo keep your little ones close by and don’t stray off the paths!
+17.3	Text	&2The coaster accelerates from 0 to 57 miles per hour in 2.8 seconds,
+22.3	Text	&2making this the second-fastest attraction at the Walt Disney World Resort, behind Test Track.
+27.9	Text	&2The riders experience 4.5 G as they enter the first inversion,
+31.9	Text	&2more than an astronaut does on a space shuttle launch.
+35.8	Text	&cWalt Disney Imagineering worked with Aerosmith to produce
+38.9	Text	&ca special soundtrack for the roller coaster.
+40.5	Text	&cEach coaster train features different Aerosmith songs.
+43.6	Text	&cThe songs heard on each ride contain some new lyrics written specifically for the attraction.
+48	Text	&cFor Example, &oLove in an Elevator &r&cis sung as "Love in a roller coaster"!
+90  Text    &2Ladies and Gentlemen we are now coming to the end of our Behind the Magic tour.
+94.2    Text    &2Please follow the exit signs found along the path.
+97.1    Text    &2We thank you for joining us today and we hope
+99  Text    &2you have a Magical stay here on Palace Network!
+
+
+## Lights on ##
+10	Block	0	-303,59,-69
+
+## Open Entrance Door ##
+12.9	Block	152	-363,57,-101
+12.9	Block	152	-339,51,-107
+
+## Open Exit Door ##
+90  Block   152 -414,57,-81
+
+## Close Entrance Door ##
+90  Block   0   -363,57,-101
+
+
+### Audio ###
+10	AudioStart	RRCTour3
+10	AudioSync	RRCTour3	0
+90  AudioStart  RRCTour4
+90  AudioSync   RRCTour4    0

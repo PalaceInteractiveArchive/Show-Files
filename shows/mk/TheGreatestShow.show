@@ -1,0 +1,925 @@
+Show	Location	-89,48,-1567
+Show	TextRadius	150
+Show	Name	TheGreatestShow
+
+0	AudioStart	Daco	0
+0	AudioSync	Castle	0
+
+#Epic Beacons
+5.5	Block	166	-117.0,38.0,-1623.0 
+9	Block	166	-112.0,38.0,-1623.0 
+11	Block	166	-107.0,38.0,-1623.0 
+5.5	Block	166	-55.0,38.0,-1623.0 
+9	Block	166	-60.0,38.0,-1623.0 
+11	Block	166	-65.0,38.0,-1623.0 
+
+#Effects
+#
+Effect	ExampleA 	BALL_LARGE,FUCHSIA&WHITE,WHITE,FLICKER,TRAIL
+Effect  ExampleC  BALL,PURPLE,YELLOW,FLICKER,TRAIL
+Effect	ExampleB	BURST,SILVER&WHITE,WHITE,TRAIL
+#
+#Opening
+Effect	1a	BURST,240;230;140&218;165;32,TRAIL
+Effect	1a4	BURST,240;230;140&218;165;32
+Effect	1b	BALL_LARGE,255;99;71&220;20;60,FLICKER
+Effect	1c	BURST,255;99;71&220;20;60&255;0;0,FLICKER
+Effect	1c2	BURST,255;99;71&220;20;60&255;0;0
+Effect	1d	BURST,0;0;0,255;99;71&220;20;60
+Effect	1a2	BURST,252;145;63,218;165;32&238;232;170,TRAIL
+Effect	1a3	BURST,253;181;132,218;165;32&238;232;170,TRAIL
+Effect	2a	BURST,255;215;0&218;165;32&238;232;170,TRAIL
+Effect	2a4	BURST,255;215;0&218;165;32&238;232;170
+Effect	5a	BURST,238;232;170&240;230;140,FLICKER
+Effect	3a	BURST,255;160;122
+Effect	4a	BURST,255;69;0&255;0;0
+Effect	4b	BALL,238;232;170&240;230;140,TRAIL
+Effect	6a	BURST,238;232;170&240;230;140&218;165;32,TRAIL
+Effect	6a2	STAR,238;232;170&240;230;140&218;165;32
+Effect	6b	BALL_LARGE,WHITE
+Effect	6b2	BALL,WHITE
+Effect	7a	BURST,195;195;232
+Effect	7a2	BURST,255;254;195&255;210;84,TRAIL
+Effect	7b	BURST,239;202;187,255;254;195&247;207;162,TRAIL
+Effect	7pink	BURST,255;139;240
+Effect	7goldish	BURST,254;203;181&247;207;162,117;54;74,TRAIL
+Effect	7c	BURST,255;206;203
+Effect	7d	BURST,253;80;100&248;247;247
+Effect	7d2	BURST,200;188;140&247;207;162&255;151;71,TRAIL
+Effect	ar1out	BURST,205;174;155,FLICKER
+Effect	ar1in	BURST,116;98;130
+Effect	arjelgold	BURST,254;203;181&247;207;162&WHITE,TRAIL
+Effect	arjelblue	BURST,195;195;232&116;98;130
+#Reuse^ again	
+Effect	ar2a	BURST,205;174;155&239;202;187,FLICKER
+Effect	ar2b	BURST,117;54;74,172;180;153
+Effect	ar3	BALL_LARGE,WHITE
+Effect	ar3b	BALL,WHITE
+Effect	ar4	BURST,172;180;153
+Effect	ar4b	BURST,237;162;124
+Effect	ar5	BURST,255;254;195,218;116;93
+#Hunchback
+Effect	hb1	BURST,233;33;52
+Effect	hb2	BURST,255;151;71
+Effect	hb2a	BURST,WHITE
+#hb1+ar4+V
+Effect	hb3	BALL_LARGE,254;203;181
+#hb1...multistage>in=hb1...hb4a...ar1in>hb4b WITH 7goldish post hb4a
+Effect	hb4a	BURST,197;235;214
+Effect	hb4b	BURST,218;116;93
+Effect	hbbell1	BURST,217;71;64
+Effect	hbbell2	BURST,251;255;140&197;235;214
+Effect	hbwhite1	BURST,WHITE,WHITE&254;203;181&239;202;187,TRAIL
+Effect	hbwhite1a	BURST,WHITE,WHITE&254;203;181&239;202;187
+#Thereeeee... 7 goldish=splits, ar1jelblue=ring with hb1 at 90s,
+#End of hunch: ring=7pink,first sphere= ar4, trailed sphere=1a2,1a, with an extra first sphere post
+Effect	1a2	BURST,240;230;140&218;165;32
+#Merida
+#use hb2 for alt layers
+Effect	bullseye	BURST,186;33;53
+#Rando launch mer1a second time
+Effect	mer1	BURST,226;103;173
+Effect	mer1a	BURST,143;169;125
+Effect	mer2	BURST,246;240;243,200;188;140&186;33;53
+Effect	merb1g	BURST,197;235;214
+Effect	merb2r	BURST,233;33;52
+Effect	merb3b	BURST,195;195;232
+#hb1,hb4a+V
+Effect	mer3	BALL,211;151;120,117;54;74
+#chase the wind: following random post launch###############################################
+Effect	mer4	BURST,195;195;232&154;229;251&WHITE,FLICKER
+#SKYyyyyyyy-mer2 double 5:04...5:07 V
+Effect	mer5	BURST,253;80;100
+Effect	mer5a	BURST,170;161;161&197;235;214
+
+Effect	b1	BURST,255;160;117
+#b1a= "gold trail->smoke
+Effect	b1a	BURST,252;229;232,153;111;119,TRAIL
+Effect	b2	BURST,223;158;181,TRAIL
+Effect	sb1	BALL,246;131;161,FLICKER
+Effect	lb1	BALL_LARGE,165;86;67,222;193;196,TRAIL
+Effect	lb1b	BALL_LARGE,165;86;67,246;131;161,FLICKER
+Effect	bla	BURST,245;148;81
+Effect	b3	BURST,245;148;81
+Effect	b4	BURST,255;105;158,WHITE,TRAIL
+Effect	b5	BURST,123;89;105,250;250;250,FLICKER,TRAIL
+Effect	lb2c	BALL_LARGE,191;172;166,195;159;136,TRAIL
+Effect	b6c	BURST,246;131;161,FLICKER
+Effect	whtft	BURST,WHITE,FLICKER,TRAIL
+Effect	whtf	BURST,WHITE,FLICKER
+Effect  lb3da BALL_LARGE,SILVER&WHITE,WHITE,FLICKER,TRAIL
+Effect	star1	STAR,WHITE&AQUA,TRAIL
+Effect	golds	BURST,168;188;54,168;188;54,FLICKER,TRAIL
+#New shooting star into Tiana
+Effect	tianb	BURST,244;193;81,TRAIL
+Effect	tianb2	BURST,190;170;250,TRAIL
+Effect	tianb3	BURST,WHITE
+Effect	tianb4a	BURST,243;207;168,TRAIL
+Effect	tiansbb	BALL,204;180;218
+Effect	tianlbb	BALL_LARGE,248;233;228&169;138;144,221;173;143,FLICKER
+Effect	jelly1	BALL_LARGE,136;130;160
+Effect	jelly2	BURST,234;213;182,TRAIL
+Effect	jelly3	BURST,234;213;182
+Effect	ariel1	BALL_LARGE,144;115;108,244;187;139,FLICKER,TRAIL
+Effect	ariel2	BALL_LARGE,153;111;119,154;172;138,FLICKER
+#ariel1 follows...with tianb3 which follows V
+Effect	ariel3	BALL_LARGE,144;115;108,244;187;139&154;172;138,FLICKER,TRAIL
+Effect	ariel4	BALL_LARGE,244;187;139&154;172;138
+#Our friend b5 makes a surprise appearance
+Effect	ariel5	BALL_LARGE,RED,WHITE
+Effect	ariel5b	BALL,250;250;250,FLICKER,TRAIL
+Effect	ariel6	BALL_LARGE,249;193;173&123;89;105&249;193;173&195;179;241,154;172;138&244;193;81
+Effect	ariel7	BURST,240;195;178,WHITE&218;187;150,TRAIL
+#Out There, yes, 2 pairs of tests
+Effect	hunc1	BALL_LARGE,225;34;45
+Effect	hunc2	BALL,225;34;45
+Effect	hunc3	BALL_LARGE,255;94;46
+Effect	hunc4	BALL,255;94;46
+Effect	hunc5	BALL_LARGE,249;66;63&227;215;138
+Effect	hunc6	BALL,249;66;63&227;215;138,TRAIL
+Effect	hunc6b	BALL_LARGE,0;0;0,212;117;133
+#hunc6,hunc7b likes being bells, yes, I will look to do bells later..
+Effect	hunc7b	BALL_LARGE,0;0;0,217;178;103,TRAIL
+Effect	hunc8	BURST,243;207;168,TRAIL
+Effect	hunc9	BURST,252;91;166
+#+b1a
+Effect	hunc10u	BURST,249;193;173,TRAIL
+Effect	hunc11u	BALL,192;172;214
+#b5+hunc6b+
+Effect	hunc12	BALL_LARGE,218;187;150,TRAIL
+Effect	hunc13	BALL,LIME,TRAIL,FLICKER
+#
+#
+#BRAVE
+Effect	brav1	BURST,233;157;149
+Effect	brav2a	BURST,237;54;59
+Effect	brav2b	BALL,237;54;59
+Effect	brav2c	BALL_LARGE,237;54;59
+Effect	brav3	BALL,231;221;202
+Effect	brav3a	BALL_LARGE,239;94;135,151;187;158
+Effect	brav4	BALL_LARGE,120;107;111,168;56;81
+#Butterflies
+Effect	brav5	BALL,102;90;109
+Effect	brav5a	CREEPER,237;54;59&154;172;138
+#4:54 in https://www.youtube.com/watch?v=d7FFFENv6i4&
+Effect	brav6	BURST,255;126;135&147;217;209&255;181;150
+Effect	brav6a	BURST,250;146;96,TRAIL
+Effect	brav7	BALL_LARGE,227;215;138&255;94;46
+Effect	brav7a	BALL,227;215;138&255;94;46
+Effect	braari	BURST,253;129;79
+Effect	brav8	BALL_LARGE,199;188;185,255;184;210
+Effect	brav9	BALL_LARGE,199;188;185&245;97;126,199;188;185&245;97;126
+Effect	brav10	BURST,194;166;228&225;246;161&255;156;121&255;108;118&244;181;164
+#Moana
+Effect	moa1	BALL_LARGE,90;56;193
+Effect	moa1b	BALL,206;39;30
+Effect	moa2a	BURST,121;152;206,TRAIL,FLICKER
+Effect	moa2b	BURST,107;152;229,FLICKER
+Effect	moa3	BALL_LARGE,229;126;57,TRAIL
+Effect	moa4a	BALL_LARGE,204;106;40,TRAIL
+Effect	moa4b	BALL_LARGE,99;147;249
+Effect	moa5a	BALL,WHITE,TRAIL
+Effect	moa5b	BALL_LARGE,179;194;229,TRAIL
+Effect	moa5c	BALL_LARGE,99;144;242
+Effect	moa6	BURST,143;178;234,TRAIL
+Effect	moa7	BURST,221;60;19
+Effect	moa8a	BALL_LARGE,77;140;249
+Effect	moa8b	BALL_LARGE,229;166;20
+Effect	moa9a	BALL_LARGE,229;166;20,TRAIL
+Effect	moa9b	BALL_LARGE,142;152;255
+Effect	moa9c	BALL_LARGE,244;212;110
+Effect	moa10	BALL_LARGE,228;252;90,TRAIL
+Effect	moa11a	BALL,252;90;233,
+Effect	moa11b	BALL_LARGE,240;249;199,TRAIL
+#Aladdin Pt1
+Effect	alad1	BURST,161;216;255,WHITE,TRAIL,FLICKER
+#^Add white burst (lb1)
+Effect	alad2a	BALL_LARGE,WHITE,TRAIL
+Effect	alad2b	BALL,WHITE,WHITE,TRAIL,FLICKER
+Effect	alad2c	BALL_LARGE,RED,BLUE,GREEN,FLICKER
+Effect	alad3	BURST,WHITE,TRAIL
+Effect	alad4a	BURST,91;148;239
+Effect	alad4b	BALL_LARGE,91;148;239
+Effect	alad4c	BALL_LARGE,WHITE,FLICKER
+Effect	alad5	BURST,54;150;247,TRAIL
+Effect	alad6	BURST,226;173;38,TRAIL
+Effect	alad7	BURST,233;76;247,TRAIL
+Effect	alad8	BURST,43;224;15,TRAIL
+#Tarzan
+Effect	tz1	BURST,237;7;60,212;255;183,TRAIL
+Effect	tz2a	BALL_LARGE,239;26;115
+Effect	tz2b	BALL_LARGE,255;173;207
+Effect	tz3a	BALL,242;9;48
+Effect	tz3b	BALL_LARGE,242;9;48,TRAIL
+Effect	tz3c	BALL_LARGE,255;224;229,TRAIL
+Effect	tz3d	BALL,255;224;229
+Effect	tz4	BURST,WHITE
+Effect	tz4b	BURST,WHITE,FLICKER
+Effect	tz5	BURST,242;242;24
+Effect	tz5b	BALL,242;242;24,FLICKER
+#alad3 - FLASHES (SIDES)
+#Lion King
+Effect	lk1	BALL_LARGE,234;82;6,4;219;29
+Effect	lk2a	BALL_LARGE,255;0;0
+Effect	lk2b	BURST,224;191;2
+#Toy Story
+Effect	ts1a	BALL,160;196;62,TRAIL
+Effect	ts1b	BALL_LARGE,102;178;255
+Effect	ts2b	BALL_LARGE,189;252;30
+#^add ts1a and repeat for next box 2b & 1a
+Effect	ts3a	BALL,214;248;249
+Effect	ts3b	BALL_LARGE,WHITE,TRAIL
+Effect	ts4a	BALL_LARGE,135;165;34,TRAIL
+Effect	ts4b	BALL_LARGE,35;120;239
+#Jungle Book
+Effect	jb1	BURST,WHITE,TRAIL
+Effect	jb2	BALL_LARGE,24;119;22
+Effect	jb3a	BALL,WHITE,TRAIL
+Effect	jb3b	BALL_LARGE,233;255;0
+Effect	jb3c	BALL_LARGE,WHITE
+#alad2a & alad3
+Effect	jb4	BALL_LARGE,255;165;56,WHITE,TRAIL
+Effect	jb5a	BALL_LARGE,255;55;33
+Effect	jb5b	BALL_LARGE,39;99;24
+#jb3a & lk2a
+#Then add below to above
+Effect	jb6c	BALL_LARGE,0;131;255
+#MonsterInc
+Effect	mi1	BURST,140;199;255,TRAIL
+Effect	mi2a	BURST,255;0;0,TRAIL
+Effect	mi2ba	BURST,255;0;0,224;163;58,TRAIL,FLICKER
+Effect	mi3	BALL_LARGE,147;140;242,255;0;0,TRAIL,FLICKER
+Effect	mi4a	BURST,162;155;247,FLICKER
+Effect	mi4b	BURST,219;138;46,FLICKER
+Effect	mi4c	BURST,107;206;49,FLICKER
+#Aladin Fin
+Effect	alad9a	BALL,WHITE,TRAIL
+Effect	alad9b	BALL_LARGE,252;73;37
+Effect	alad10	BURST,WHITE,234;252;209,TRAIL,FLICKER
+Effect	alad11	BURST,242;169;43,TRAIL,FLICKER
+Effect	alad12	BURST,255;204;117,TRAIL,FLICKER
+Effect	alad13	BURST,183;143;75,TRAIL
+Effect	alad14	BURST,247;174;49,TRAIL
+Effect	alad15	BURST,229;86;57,124;249;119,TRAIL
+#MEEEE
+Effect	alad16a	BURST,255;0;0,TRAIL
+Effect	alad16b	BALL_LARGE,255;0;0
+#Repeat until sides
+Effect	alad17	BURST,255;0;0
+Effect	alad18	BURST,112;171;239
+Effect	alad19	BURST,34;216;137
+Effect	alad20	BURST,234;153;39
+Effect	alad21	BURST,226;86;151
+#alad18
+Effect	alad22	BURST,196;255;114
+#GOLDS
+Effect	alad23	BALL_LARGE,WHITE,239;144;67,TRAIL
+#Add alad16b
+#Frozen
+Effect	fro1a	BALL_LARGE,247;164;22,TRAIL
+Effect	fro1b	BALL,247;164;22,TRAIL
+Effect	fro1c	BALL_LARGE,WHITE,FLICKER
+Effect	fro1d	BALL,22;172;247
+Effect	fro2a	BALL_LARGE,WHITE,WHITE,TRAIL,FLICKER
+Effect	fro3a	BURST,224;139;11,TRAIL
+Effect	fro3b	BURST,177;21;14
+Effect	fro4	BALL_LARGE,WHITE,WHITE,TRAIL
+#use fro2a
+Effect	fro5	BALL,WHITE,TRAIL
+#My Heart
+Effect	hrt1	BURST,225;0;0
+Effect	hrt2a	BURST,173;124;32,TRAIL
+Effect	hrt3a	BALL_LARGE,239;59;65,TRAIL
+Effect	hrt3b	BALL,123;158;41,TRAIL,FLICKER
+Effect	hrt4	BURST,249;185;182,TRAIL,FLICKER
+#Tangled
+Effect	tngl1	BURST,WHITE,TRAIL,FLICKER
+Effect	tngl2a	BALL,WHITE,TRAIL,FLICKER
+Effect	tngl2b	BALL_LARGE,255;0;0
+#Mulan
+Effect	mul1a	BALL_LARGE,229;37;16,39;129;232,TRAIL
+Effect	mul1b	BURST,WHITE,TRAIL,FLICKER
+Effect	mul2	BURST,255;0;0
+#Use mul2 in directions
+Effect	mul3	BURST,211;204;78,TRAIL
+Effect	inc1	BALL_LARGE,204;196;69&WHITE,TRAIL,FLICKER
+#mul2 in directions
+Effect	inc2	BURST,49;183;249
+Effect	inc3a	BALL,WHITE
+Effect	inc3b	BALL_LARGE,255;0;0
+Effect	inc4	BALL_LARGE,224;61;49&255;119;109,TRAIL
+Effect	inc5a	BALL,225;0;0,WHITE,TRAIL,FLICKER
+Effect	inc5b	BALL_LARGE,225;0;0
+Effect	inc6a	BURST,WHITE,TRAIL,FLICKER
+Effect	inc7a	BALL_LARGE,38;193;255
+Effect	inc7b	BALL_LARGE,WHITE,FLICKER
+Effect	inc8a	BALL,WHITE
+Effect	inc8b	BALL_LARGE,68;255;239,TRAIL
+Effect	hits	BURST,255;185;45,TRAIL,FLICKER
+#Villians
+Effect	vil1	BURST,226;237;28,TRAIL,FLICKER
+Effect	vil2	BURST,226;237;28
+Effect	vil3a	BALL_LARGE,255;185;45,TRAIL
+Effect	vil3b	BALL_LARGE,195;21;234
+Effect	vil3cb	BURST,195;21;234
+#vil3cb - follow for movements
+Effect	vil4	BALL_LARGE,WHITE,TRAIL,FLICKER
+#vil3cb after alone
+Effect	vil5a	BALL,WHITE
+Effect	vil5b	BALL_LARGE,222;213;224,TRAIL
+Effect	vil6	BURST,196;108;13,TRAIL,FLICKER
+Effect	vil6b	BURST,196;108;13
+Effect	vil7a	BALL_LARGE,196;108;13,WHITE,FLICKER
+Effect	vil7b	BALL,WHITE,FLICKER
+Effect	vil8	BALL,211;42;73,TRAIL
+Effect	vil9	BURST,WHITE,TRAIL,FLICKER
+Effect	vil10	BALL,211;42;73,WHITE,FLICKER
+Effect	vil11	BALL_LARGE,RED
+Effect	vil12	BALL_LARGE,151;198;93,TRAIL
+Effect	vil13	BURST,WHITE
+Effect	vil14a	BALL_LARGE,WHITE
+Effect	vil14b	BALL,WHITE,TRAIL
+Effect	vil15	BURST,129;219;105,TRAIL,FLICKER
+#POTC
+Effect	potc1a	BURST,RED,TRAIL
+Effect	potc1ab	BURST,WHITE,TRAIL
+Effect	potc2a	BALL,RED,RED,RED,WHITE,FLICKER
+Effect	potc2b	BALL_LARGE,WHITE,TRAIL
+Effect	potcbng	BURST,RED,BLACK,BLACK,FLICKER
+Effect	potc3	BURST,252;57;50
+Effect	potc4	BURST,66;160;237,TRAIL
+Effect	potc5a	BALL_LARGE,RED,BLACK,BLACK,BLACK,WHITE
+Effect	potc5b	BALL,BLACK,BLACK,WHITE&WHITE&WHITE&WHITE&WHITE&WHITE,FLICKER
+Effect	potc6	BURST,WHITE&WHITE&WHITE&WHITE,TRAIL
+Effect	potc7	BURST,252;57;50,FLICKER
+#Go The Distance
+Effect	gtd1	BALL_LARGE,WHITE&WHITE&WHITE&WHITE,TRAIL
+Effect	gtd1b	BURST,145;173;55,145;173;55,FLICKER
+Effect	gtd2	BURST,178;161;32,BLACK,TRAIL
+Effect	gtd3	BALL_LARGE,178;161;32,TRAIL
+Effect	gtd4a	BALL,178;161;32,WHITE,TRAIL,FLICKER
+Effect	gtd4b	BALL_LARGE,WHITE,TRAIL
+Effect	gtd5a	BURST,RED
+Effect	gtd5b	BURST,234;79;12
+Effect	gtd5c	BURST,98;219;209
+Effect	gtd5d	BURST,112;160;224
+Effect	gtd5e	BURST,188;116;22
+Effect	gtd5f	BURST,158;204;44
+Effect	gtd5g	BURST,121;183;64
+Effect	gtd6a	BURST,191;128;40,TRAIL
+Effect	gtd6b	BURST,191;128;40,191;128;40&191;128;40
+Effect	gtd7a	BALL_LARGE,191;128;40
+Effect	gtd7ba	BALL_LARGE,47;160;188,FLICKER
+Effect	gtd8bb	BALL_LARGE,255;143;15,FLICKER
+Effect	gtdend	BALL_LARGE,196;129;66,196;129;66,196;129;66,196;129;66,196;129;66,196;129;66,196;129;66,TRAIL
+#Finale
+Effect	fin1	BURST,148;150;7,148;150;7,148;150;7,148;150;7,148;150;7
+Effect	fin2	BURST,176;178;14,176;178;14,176;178;14,176;178;14,176;178;14,TRAIL,FLICKER
+Effect	fin3	BALL_LARGE,202;204;69,WHITE,TRAIL
+Effect	fin4	BALL_LARGE,112;142;224,112;142;224
+Effect	fin5a	BURST,WHITE&WHITE&WHITE&WHITE,TRAIL
+Effect	fin5b	BALL_LARGE,237;162;33
+Effect	fin6	BALL_LARGE,237;229;18,237;229;18
+Effect	fin7	BALL_LARGE,22;59;247,22;59;247
+# HEA FWS ^
+
+
+3.1	PowerFirework	-77,62,-1624	1a3	1.33,4,1.33
+3.1	PowerFirework	-100,62,-1622	1a3	-1.33,4,1.33
+
+5.5	PowerFirework    -78,51,-1615.1    2a    -1.17,8.83,0.5
+5.5 PowerFirework    -102,51,-1615.1    2a    1.17,8.83,0.5
+
+9	PowerFirework	-82,65,-1624	1c2	0.8,4,0.8
+9	PowerFirework	-98,65,-1624	1c2	-0.8,4,0.8
+9	PowerFirework	-82,65,-1624	2a	0.48,2.4,0.48
+9	PowerFirework	-98,65,-1624	2a	-0.48,2.4,0.48
+
+12	PowerFirework	-64,49.5,-1612	6a	0,10,0
+12	PowerFirework	-68,49.5,-1613	6a	0,10,0
+12	PowerFirework	-72,49.5,-1614	6a	0,10,0
+12	PowerFirework	-76,49.5,-1615	6a	0,10,0
+12	PowerFirework	-104,49.5,-1615	6a	0,10,0
+12	PowerFirework	-108,49.5,-1614	6a	0,10,0
+12	PowerFirework	-112,49.5,-1613	6a	0,10,0
+12	PowerFirework	-116,49.5,-1612	6a	0,10,0
+
+15.8	Firework	-64,59.5,-1612	6a2	1	0,10,0.5	1
+15.8	Firework	-68,59.5,-1613	6a2	1	0,10,0.5	1
+15.8	Firework	-72,59.5,-1614	6a2	1	0,10,0.5	1
+15.8	Firework	-76,59.5,-1615	6a2	1	0,10,0.5	1
+15.8	Firework	-104,59.5,-1615	6a2	1	0,10,0.5	1
+15.8	Firework	-108,59.5,-1614	6a2	1	0,10,0.5	1
+15.8	Firework	-112,59.5,-1613	6a2	1	0,10,0.5	1
+15.8	Firework	-116,59.5,-1612	6a2	1	0,10,0.5	1
+
+22	PowerFirework	-77,62,-1624	1a3	1.33,4,1.33
+22	PowerFirework	-100,62,-1622	1a3	-1.33,4,1.33
+
+24	PowerFirework	-89.5,86,-1628	1a2	0,10,4
+
+28	PowerFirework	-116,49.5,-1612	6a	0,10,0
+28	PowerFirework	-76,49.5,-1615	6a	0,10,0
+28.90	Firework	-116,59.5,-1612	6a2	1	0,10,0.5	1
+28.90	Firework	-76,59.5,-1615	6a2	1	0,10,0.5	1
+
+30	PowerFirework	-89.5,86,-1628	1a2	0,10,4
+
+34	PowerFirework	-82,65,-1624	1c2	0.8,4,0.8
+34	PowerFirework	-98,65,-1624	1c2	-0.8,4,0.8
+34	PowerFirework	-82,65,-1624	2a	0.48,2.4,0.48
+34	PowerFirework	-98,65,-1624	2a	-0.48,2.4,0.48
+
+37	PowerFirework	-89.5,86,-1628	1a2	0,10,4
+
+40.70	PowerFirework    -78,51,-1615.1    2a    -1.17,8.83,0.5
+40.70	PowerFirework    -102,51,-1615.1    2a    1.17,8.83,0.5
+
+43	PowerFirework	-82,65,-1624	1c2	0.8,4,0.80
+
+47	PowerFirework	-116,49.5,-1612	6a	0,10,0
+47	PowerFirework	-76,49.5,-1615	6a	0,10,0
+
+49	PowerFirework	-1577,111,-542 gba 0,0,0
+
+53	Firework	-64,59.5,-1612	6a2	1	0,10,0.5	1
+53	Firework	-68,59.5,-1613	6a2	1	0,10,0.5	1
+53	Firework	-72,59.5,-1614	6a2	1	0,10,0.5	1
+53	Firework	-76,59.5,-1615	6a2	1	0,10,0.5	1
+53	Firework	-104,59.5,-1615	6a2	1	0,10,0.5	1
+53	Firework	-108,59.5,-1614	6a2	1	0,10,0.5	1
+53	Firework	-112,59.5,-1613	6a2	1	0,10,0.5	1
+53	Firework	-116,59.5,-1612	6a2	1	0,10,0.5	1
+
+72	PowerFirework	-100,62,-1622	1c2	-1.33,4,1.33
+
+74	PowerFirework	-77,62,-1624	1c2	1.33,4,1.33
+
+76	PowerFirework	-94,75,-1628	1c2	-1.33,4,1.33
+
+78	PowerFirework	-92,90,-1627	brav8,brav8,brav8	0,0,0
+78	PowerFirework	-74,94,-1626	brav8,brav8,brav8	0,0,0
+
+82.50	PowerFirework	-89.5,86,-1628	1a2	0,10,4
+#here POLAR HERE!!!!!!!!
+
+92	PowerFirework	-92,93,-1626	brav7,brav7a	0,0,0
+92.5	PowerFirework	-78,95,-1626	brav7,brav7a	0,0,0
+92.6	PowerFirework	-92,93,-1626	brav7,brav7a	0,0,0
+92.7	PowerFirework	-78,95,-1626	brav7,brav7a	0,0,0
+
+95	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+98	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+102	PowerFirework	-1615,135,-547 wbf 0,0,0
+102	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+105	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+107	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+110	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+114	PowerFirework	-1615,135,-547 wbf 0,0,0
+114	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+118	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+121	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+124	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+131	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+137	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+140	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+143	PowerFirework	-1615,135,-547 wbf 0,0,0
+143	PowerFirework	-1615,135,-547 wbf 0,0,0
+143	PowerFirework	-1615,135,-547 wbf 0,0,0
+143	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+147	PowerFirework	-1615,135,-547 wbf 0,0,0
+147	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+151	PowerFirework	-1615,135,-547 wbf 0,0,0
+151	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+155	PowerFirework	-1615,135,-547 wbf 0,0,0
+155	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+159	PowerFirework	-1615,135,-547 wbf 0,0,0
+159	PowerFirework	-1615,135,-547 wbf 0,0,0
+159	PowerFirework	-1615,135,-547 wbf 0,0,0
+159	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+163	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+167	PowerFirework	-1615,135,-547 wbf 0,0,0
+167	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+171	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+175	PowerFirework	-1615,135,-547 wbf 0,0,0
+175	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+180	PowerFirework	-1615,135,-547 wbf 0,0,0
+180	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+185	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+186.7	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+189	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+190	PowerFirework	-1615,135,-547 wbf 0,0,0
+190	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+195.3	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+195.7	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+200	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+201.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+205.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+205.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+210	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+213	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+220	PowerFirework	-1615,135,-547 wbf 0,0,0
+220	PowerFirework	-1615,135,-547 wbf 0,0,0
+220	PowerFirework	-1615,135,-547 wbf 0,0,0
+220	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+239	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+243	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+246	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+250.4	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+254	PowerFirework	-1615,135,-547 wbf 0,0,0
+254	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+257	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+261	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+265	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+270.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+270.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+285.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+295.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+299	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+318	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+321	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+327.8	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+334	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+340.2	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+347.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+347.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+353.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+353.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+360	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+363	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+366.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+373.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+373.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+376	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+381	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+384	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+387	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+392	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+397.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+397.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+400	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+403	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+411.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+411.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+416.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+421.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+422.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+426.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+426.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+431	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+436	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+438.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+441.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+441.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+446	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+451	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+456.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+456.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+460	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+462	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+464	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+466	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+468	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+472.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+472.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+476	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+480	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+482	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+484	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+486	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+489	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+491	PowerFirework	-1615,135,-547 wbf 0,0,0
+491	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+494	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+497	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+500	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+502	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+507	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+514	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+523	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+527	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+531	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+535	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+539	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+502	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+512.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+516.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+524.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+524.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+524.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+524.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+532	PowerFirework	-1615,135,-547 wbf 0,0,0
+532	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+535	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+537	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+539	PowerFirework	-1615,135,-547 wbf 0,0,0
+539	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+541	PowerFirework	-1615,135,-547 wbf 0,0,0
+541	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+543	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+547	PowerFirework	-1615,135,-547 wbf 0,0,0
+547	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+551	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+555	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+561	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+568	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+570	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+573	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+578	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+582.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+593	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+596	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+606	PowerFirework	-1615,135,-547 wbf 0,0,0
+606	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+618	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+623	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+629	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+634	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+638.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+643	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+647	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+652	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+656	PowerFirework	-1615,135,-547 wbf 0,0,0
+656	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+661	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+665	PowerFirework	-1615,135,-547 wbf 0,0,0
+665	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+670	PowerFirework	-1615,135,-547 wbf 0,0,0
+670	PowerFirework	-1615,135,-547 wbf 0,0,0
+670	PowerFirework	-1615,135,-547 wbf 0,0,0
+670	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+672	PowerFirework	-1615,135,-547 wbf 0,0,0
+672	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+674	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+676	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+680.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+683	PowerFirework	-1615,135,-547 wbf 0,0,0
+683	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+685	PowerFirework	-1615,135,-547 wbf 0,0,0
+685	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+692	PowerFirework	-1615,135,-547 wbf 0,0,0
+692	PowerFirework	-1615,135,-547 wbf 0,0,0
+692	PowerFirework	-1615,135,-547 wbf 0,0,0
+692	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+694	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+696	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+700	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+703	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+707	PowerFirework	-1615,135,-547 wbf 0,0,0
+707	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+710	PowerFirework	-1615,135,-547 wbf 0,0,0
+710	PowerFirework	-1615,135,-547 wbf 0,0,0
+710	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+713	PowerFirework	-1615,135,-547 wbf 0,0,0
+713	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+715.3	PowerFirework	-1615,135,-547 wbf 0,0,0
+715.7	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+719	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+722.3	PowerFirework	-1615,135,-547 wbf 0,0,0
+722.7	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+725	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+729	PowerFirework	-1615,135,-547 wbf 0,0,0
+729	PowerFirework	-1615,135,-547 wbf 0,0,0
+729	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+731	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+736	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+739	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+741	PowerFirework	-1615,135,-547 wbf 0,0,0
+741	PowerFirework	-1615,135,-547 wbf 0,0,0
+741	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+744	PowerFirework	-1615,135,-547 wbf 0,0,0
+744	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+748	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+751	PowerFirework	-1615,135,-547 wbf 0,0,0
+751	PowerFirework	-1615,135,-547 wbf 0,0,0
+751	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+754	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+760	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+762	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+763.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+766.5	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+769	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+771	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+774	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+774	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+779	PowerFirework	-1615,135,-547 wbf 0,0,0
+779	PowerFirework	-1615,135,-547 wbf 0,0,0
+779	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+782	PowerFirework	-1615,135,-547 wbf 0,0,0
+782	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+785	PowerFirework	-1615,135,-547 wbf 0,0,0
+785	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+788	PowerFirework	-1615,135,-547 wbf 0,0,0
+788	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+791	PowerFirework	-1615,135,-547 wbf 0,0,0
+791	PowerFirework	-1615,135,-547 wbf 0,0,0
+791	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+794	PowerFirework	-1615,135,-547 wbf 0,0,0
+791	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+797	PowerFirework	-1615,135,-547 wbf 0,0,0
+797	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+799	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+800	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+802	PowerFirework	-1615,135,-547 wbf 0,0,0
+802	PowerFirework	-1615,135,-547 wbf 0,0,0
+802	PowerFirework	-1615,135,-547 wbf 0,0,0
+802	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+803	PowerFirework	-1615,135,-547 wbf 0,0,0
+805	PowerFirework	-1615,135,-547 wbf 0,0,0
+806	PowerFirework	-1615,135,-547 wbf 0,0,0
+
+# -- Text
+1	Text &b[&3Dacostabro&b] &3Hope you all enjoy the Greatest Show Ever!
+57.0    Text    &6Ladies and gents this is the moment you've waited for...
+62.5    Text    &6Been searching in the dark, your sweat soaking through the floor;
+69.9    Text    &6And buried in your bones there's an ache that you can't ignore
+72.5    Text    &6Taking your breath, stealing your mind
+76.0    Text    &6And all that was real is left behind
+78.0    Text    &6Don't fight it, it's coming for you, running at ya
+82.5    Text    &6It's only this moment, don't care what comes after
+85.9‬    Text    &6Your fever dream, can't you see it getting closer
+88.5    Text    &6Just surrender 'cause you feel the feeling taking over
+91.0    Text    &6So tell me do you wanna go?
+93.5    Text    &6Where it's covered in all the colored lights;
+97.0    Text    &6Where the runaways are runnin' the night

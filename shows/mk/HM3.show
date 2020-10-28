@@ -1,0 +1,27 @@
+﻿Show	Location	-265,42,-1817
+Show	TextRadius	25
+#Footsteps1
+4.5	Particle	footstep	-260.8,45.47,-1812.7	0	0	0	0	100
+4	Particle	footstep	-261.4,45.95,-1812.3	0	0	0	0	100
+3.5	Particle	footstep	-262.0,45.95,-1812.7	0	0	0	0	100
+3	Particle	footstep	-262.7,46.35,-1812.3	0	0	0	0	100
+2.5	Particle	footstep	-263.2,46.95,-1812.7	0	0	0	0	100
+2	Particle	footstep	-264.0,46.95,-1812.3	0	0	0	0	100
+1.5	Particle	footstep	-264.7,47.45,-1812.7	0	0	0	0	100
+1	Particle	footstep	-265.4,47.95,-1812.3	0	0	0	0	100
+0.5	Particle	footstep	-266.1,47.95,-1812.7	0	0	0	0	100
+#Foosteps2
+8	Particle	footstep	-262.7,48.45,-1817.7	0	0	0	0	100
+7.5	Particle	footstep	-262.3,48.45,-1817.3	0	0	0	0	100
+7	Particle	footstep	-262.7,48.85,-1816.7	0	0	0	0	100
+6.5	Particle	footstep	-262.3,49.35,-1816.2	0	0	0	0	100
+6	Particle	footstep	-262.7,49.85,-1815.8	0	0	0	0	100
+5.5	Particle	footstep	-262.2,49.85,-1815.2	0	0	0	0	100
+5	Particle	footstep	-262.7,50.25,-1814.7	0	0	0	0	100
+4	Particle	footstep	-262.2,50.25,-1814.3	0	0	0	0	100
+#RandomLightsOff
+2	Block	0	-259,45,-1819
+5	Block	50	-259,45,-1819
+#
+4	Block	0	-268,42,-1819
+10	Block	50:2	-268,42,-1819

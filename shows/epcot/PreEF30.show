@@ -1,0 +1,111 @@
+Show	Location	-79,63,2986
+Show	TextRadius	100
+#Musics
+Show	Name	WSL
+900	AudioStart	preEF
+902	AudioSync	preEF	902
+911	AudioSync	preEF	911
+1077.4	AudioSync	preEF	1077.4
+1304.7	AudioSync	preEF	1304.7
+1552.7	AudioSync	preEF	1552.7
+1690.7	AudioSync	preEF	1690.7
+#Time
+#0	Block	152	-105,39,2994
+#1	Block	20	-105,39,2994
+0	Block	152	-105,42,2995
+1	Block	20	-105,42,2995
+1799	Block	152	-105,42,2994
+1800	Block	20	-105,42,2994
+0	Block	1	-53,61,2982
+1799	Block	20	-53,61,2982
+1799	Block	152	-105,42,2999
+#Time in dummy files Chatmute
+1780	Block	20	-105,43,3000
+1789	Block	152	-105,43,3000
+1790	Block	20	-105,43,3000
+#Text
+0	Text	&3Ladies and Gentlemen
+3.5	Text	&3In Just &6&L&N30 minutes&3, the EPCOT family will proudly present: &O&AEPCOT Forever&9&O: An amazing celebration of EPCOT's yesterday and tomorrow!
+13.5	Text	&3We ask that for your safety and the safety of others, that you stay on the Promenade side of all railings during the show. Thank you for your cooperation.
+25	Text	&3Get ready, because tonight's performance of &O&AEPCOT Forever &3will begin in just &6&L&N30 minutes!
+60	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+240	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+300	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N25 minutes&3, we invite you to enjoy &O&AEPCOT Forever&3. Thank you.
+420	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+510	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+600	Text	&3World Travellers, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N20 minutes&3, we invite you to enjoy &O&AEPCOT Forever. &3Thank you.
+690	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+870	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+870	Block	152	-105,43,2997
+871	Block	0	-105,43,2997
+900	Text	&3Greetings EPCOT World Travellers
+903.5	Text	&3In Just &6&L&N15 minutes&3, the EPCOT family will proudly present: &O&AEPCOT Forever&9&O: An amazing celebration of EPCOT's yesterday and tomorrow!
+913.5	Text	&3We ask that for your safety and the safety of others, that you stay on the Promenade side of all railings during the show. Thank you for your cooperation.
+925	Text	&3Get ready, because tonight's performance of &O&AEPCOT Forever &3will begin in just &6&L&N15 minutes!
+960	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+1050	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+1170	Block	152	-105,43,2996
+1171	Block	0	-105,43,2996
+1200.1	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N10 minutes&3, we invite you to enjoy &O&AEPCOT Forever. &3Thank you.
+1230	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+1320	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+1470	Block	152	-105,43,2995
+1471	Block	0	-105,43,2995
+1500	Text	&3Greetings EPCOT World Travellers
+1503.5	Text	&3In Just &6&L&N10 minutes&3, the EPCOT family will proudly present: &O&AEPCOT Forever&9&O: An amazing celebration of EPCOT's yesterday and tomorrow!
+1513.5	Text	&3We ask that for your safety and the safety of others, that you stay on the Promenade side of all railings during the show. Thank you for your cooperation.
+1525	Text	&3Tonight's performance of &O&AEPCOT Forever &3will begin in just &6&L&N5 minutes!
+1560	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+1620	Text	&3Ladies and gentlemen, once again, for your safety and the safety of others, that you stay on the Promenade side of all railings during tonight's presentation of &O&AEPCOT Forever&3. Thank you for your cooperation.
+1650	Block	152	-105,43,2994
+1651	Block	0	-105,43,2994
+1680	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+1740	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
+1785	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
+#Torches
+0	Block	0	-55,73,2990
+0	Block	0	24,73,2983
+0	Block	0	85,73,3029
+0	Block	0	112,73,3058
+0	Block	0	137,73,3118
+0	Block	0	169,73,3202
+0	Block	0	180,73,3260
+0	Block	0	150,73,3288
+0	Block	0	66,73,3326
+0	Block	0	-10,73,3345
+0	Block	0	-149,73,3347
+0	Block	0	-233,73,3335
+0	Block	0	-268,73,3319
+0	Block	0	-343,73,3266
+0	Block	0	-325,73,3142
+0	Block	0	-268,73,3061
+0	Block	0	-223,73,2993
+0	Block	0	-179,73,2982
+0	Block	0	-104,73,2990
+900	Block	51	-55,73,2990
+900	Block	51	24,73,2983
+900	Block	51	85,73,3029
+900	Block	51	112,73,3058
+900	Block	51	137,73,3118
+900	Block	51	169,73,3202
+900	Block	51	180,73,3260
+900	Block	51	150,73,3288
+900	Block	51	66,73,3326
+900	Block	51	-10,73,3345
+900	Block	51	-149,73,3347
+900	Block	51	-233,73,3335
+900	Block	51	-268,73,3319
+900	Block	51	-343,73,3266
+900	Block	51	-325,73,3142
+900	Block	51	-268,73,3061
+900	Block	51	-223,73,2993
+900	Block	51	-179,73,2982
+900	Block	51	-104,73,2990
+900	Block	152	-105,42,3002
+1799	Block	20	-105,42,3002
+#Lights
+0	Block	152	-105,40,3002
+1	Block	20	-105,40,3002
+#Start
+1800	Block	152	-105,41,2995
+1801	Block	0	-105,41,2995

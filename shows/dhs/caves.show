@@ -1,0 +1,94 @@
+Show	Location	-5,39,1358
+Show	Name	caves
+
+#Gungan Submarine#
+0	Schematic	subleft	-32	26	1361	dhs	false
+0.3	Schematic	end	-32	26	1361	dhs	false
+0.3	Schematic	subback	-31	26	1363	dhs	false
+0.6	Schematic	end	-31	26	1363	dhs	false
+0.6	Schematic	subupback	-28	28	1363	dhs	false
+1	Schematic	end	-28	28	1363	dhs	false
+1	Schematic	subback	-24	30	1363	dhs	false
+1.5	Schematic	end	-24	30	1363	dhs	false
+1.5	Schematic	subupright	-20	32	1362	dhs	false
+1.8	Schematic	end	-20	32	1362	dhs	false
+1.8	Schematic	subright	-19	35	1357	dhs	false
+2.1	Schematic	end	-19	35	1357	dhs	false
+2.1	Schematic	subdownright	-19	34	1353	dhs	false
+2.4	Schematic	end	-19	34	1353	dhs	false
+2.4	Schematic	subdownright	-19	32	1351	dhs	false
+2.7	Schematic	end	-19	32	1351	dhs	false
+2.7	Schematic	subback	-17	30	1349	dhs	false
+3	Schematic	end	-17	30	1349	dhs	false
+3	Schematic	subback	-14	27	1351	dhs	false
+3.5	Schematic	end	-14	27	1351	dhs	false
+3.5	Schematic	subback	-11	27	1351	dhs	false
+4	Schematic	end	-11	27	1351	dhs	false
+4	Schematic	subright	-6	25	1349	dhs	false
+4.5	Schematic	end	-6	25	1349	dhs	false
+4.5	Schematic	subright	-6	24	1343	dhs	false
+4.8	Schematic	end	-6	24	1343	dhs	false
+4.8	Schematic	subuprightangled	-8	26	1340	dhs	false
+5	Schematic	end	-8	26	1340	dhs	false
+5	Schematic	subfrontangled	-11	28	1337	dhs	false
+5.2	Schematic	end	-11	28	1337	dhs	false
+5.2	Schematic	subfrontangled	-14	28	1334	dhs	false
+5.6	Schematic	end	-14	28	1334	dhs	false
+5.6	Schematic	subfrontdown	-17	28	1332	dhs	false
+6	Schematic	end	-17	28	1332	dhs	false
+6	Schematic	subfrontdown	-19	26	1332	dhs	false
+6.3	Schematic	end	-19	26	1332	dhs	false
+6.3	Schematic	subleftangled	-22	23	1333	dhs	false
+6.6	Schematic	end	-22	23	1333	dhs	false
+6.6	Schematic	subleftangled	-25	22	1336	dhs	false
+6.9	Schematic	end	-25	22	1336	dhs	false
+6.9	Schematic	subleftangled	-28	22	1340	dhs	false
+7.2	Schematic	end	-28	22	1340	dhs	false
+7.2	Schematic	subleftangled	-30	22	1343	dhs	false
+7.6	Schematic	end	-30	22	1343	dhs	false
+7.6	Schematic	subleftangled	-31	20	1347	dhs	false
+8.1	Schematic	end	-31	20	1347	dhs	false
+8.1	Schematic	subupfront	-35	22	1349	dhs	false
+8.8	Schematic	end	-35	22	1349	dhs	false
+8.8	Schematic	subfront	-40	23	1349	dhs	false
+9.5	Schematic	end	-40	23	1349	dhs	false
+9.5	Schematic	subfront	-46	24	1349	dhs	false
+10	Schematic	end	-46	24	1349	dhs	false
+10	Schematic	subfront	-51	24	1347	dhs	false
+11	Schematic	end	-51	24	1347	dhs	false
+11	Schematic	subfront	-55	25	1345	dhs	false
+11.3	Schematic	end	-55	25	1345	dhs	false
+
+#Small + Big Fish#
+13	Schematic	caves1	-89	19	1342	dhs	false
+13.5	Schematic	caves2	-89	19	1342	dhs	false
+14	Schematic	caves3	-89	19	1342	dhs	false
+14.3	Schematic	caves4	-89	19	1342	dhs	false
+14.6	Schematic	caves5	-89	19	1342	dhs	false
+15	Schematic	caves6	-89	19	1342	dhs	false
+15.	Schematic	caves7	-89	19	1342	dhs	false
+15.4	Schematic	caves8	-89	19	1342	dhs	false
+15.8	Schematic	caves9	-89	19	1342	dhs	false
+16	Schematic	caves10	-89	19	1342	dhs	false
+16.3	Schematic	caves11	-89	19	1342	dhs	false
+16.6	Schematic	caves12	-89	19	1342	dhs	false
+16.9	Schematic	caves13	-89	19	1342	dhs	false
+17.2	Schematic	caves14	-89	19	1342	dhs	false
+17.5	Schematic	caves15	-89	19	1342	dhs	false
+17.8	Schematic	caves16	-89	19	1342	dhs	false
+18.1	Schematic	caves17	-89	19	1342	dhs	false
+18.4	Schematic	caves18	-89	19	1342	dhs	false
+18.7	Schematic	caves19	-89	19	1342	dhs	false
+19	Schematic	caves20	-89	19	1342	dhs	false
+19.3	Schematic	caves21	-89	19	1342	dhs	false
+19.6	Schematic	caves22	-89	19	1342	dhs	false
+19.9	Schematic	caves23	-89	19	1342	dhs	false
+20	Schematic	caveslast	-89	19	1342	dhs	false
+21	Block	0	-85,23,1352
+
+#Alligator Fish#
+27	Schematic	allireg	-113	20	1347	dhs	false
+29.5	Schematic	allishock	-113	20	1347	dhs	false
+29.7	Block	0	-102,24,1354
+34	Schematic	alligone	-113	20	1347	dhs	false
+34.5	Block	0	-85,23,1352

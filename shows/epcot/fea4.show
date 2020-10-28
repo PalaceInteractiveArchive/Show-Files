@@ -1,0 +1,32 @@
+Show	Location	243,71,3059
+Show	TextRadius	10
+Show	Name	fea4
+ArmorStand	elsa	false	skull:eyJ0aW1lc3RhbXAiOjE0NzYwMzg4Nzg0MzAsInByb2ZpbGVJZCI6IjdiODc1YTRlMWUxNjQwZWNhMmIwOWI2N2Y5MGZmM2NjIiwicHJvZmlsZU5hbWUiOiJFbHNhX18iLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZjYjgzYWE5ZmY4Nzc4ZjU5NWQ2YzhlYzc2NGRkY2VmZDc5NzY4N2M4NzM2NWY0ZDQ3ZWY1MmRmZmIifX19;299(116,211,240);300(14,148,189);301(60,195,236)
+.2	ArmorStand	elsa	spawn	236.9,72,3067.2
+.5	ArmorStand	elsa	rotate	-135	.5
+1	ArmorStand	elsa	position	HEAD	0,-10,0	.5
+1	ArmorStand	elsa	position	ARM_RIGHT	-80,31,0	.5
+1	ArmorStand	elsa	position	ARM_LEFT	-50,-18,0	.5
+2.8	ArmorStand	elsa	position	HEAD	0,0,0	.5
+2.8	ArmorStand	elsa	position	ARM_RIGHT	-68,21,0	.5
+2.8	ArmorStand	elsa	position	ARM_LEFT	-61,-36,0	.5
+5.7	ArmorStand	elsa	position	HEAD	0,20,0	.5
+5.7	ArmorStand	elsa	position	ARM_RIGHT	0,21,0	.5
+5.7	ArmorStand	elsa	position	ARM_LEFT	-110,-7,0	.5
+6.9	ArmorStand	elsa	position	ARM_LEFT	-50,0,0	.5
+6.9	ArmorStand	elsa	position	ARM_RIGHT	-39,0,0	.5
+6.9	ArmorStand	elsa	position	HEAD	4,0,0	.5
+9.5	ArmorStand	elsa	position	HEAD	0,5,0	.5
+10.8	ArmorStand	elsa	position	ARM_LEFT	-120,-36,0	.5
+10.8	ArmorStand	elsa	position	ARM_RIGHT	-120,31,0	.5
+10.8	ArmorStand	elsa	position	HEAD	-4,0,0	.5
+13.8	ArmorStand	elsa	position	HEAD	0,20,0	.5
+13.8	ArmorStand	elsa	position	ARM_RIGHT	0,21,0	.5
+13.8	ArmorStand	elsa	position	ARM_LEFT	-110,-7,0	.5
+15.9	ArmorStand	elsa	position	HEAD	0,0,0	.5
+15.9	ArmorStand	elsa	position	ARM_RIGHT	-68,21,0	.5
+15.9	ArmorStand	elsa	position	ARM_LEFT	-61,-36,0	.5
+18.3	ArmorStand	elsa	position	HEAD	0,0,0	.5
+18.3	ArmorStand	elsa	position	ARM_RIGHT	-68,21,0	.5
+18.3	ArmorStand	elsa	position	ARM_LEFT	-61,-36,0	.5
+30	ArmorStand	elsa	despawn

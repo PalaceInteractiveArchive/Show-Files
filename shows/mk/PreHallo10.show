@@ -1,0 +1,45 @@
+Show	Location	-1614,64,-488
+Show	TextRadius	150
+#Chatmute/Show start
+595	Block	152	-95,30,-1611
+595	Block	152	-95,29,-1611
+595	Block	152	-95,28,-1611
+595	Block	152	-92,28,-1611
+595	Block	152	-98,28,-1611
+595	Block	152	-102,29,-1611
+595	Block	152	-99,29,-1611
+597	Block	152	-86,28,-1611
+600	Block	152	-81,31,-1597
+#Audio
+300	Block	152	-95,29,-1611
+300	AudioStart	prehallow
+310	AudioSync	prehallow	10
+315	AudioSync	prehallow	15
+330	AudioSync	prehallow	30
+365	Block	152	-96,29,-1611
+#Text
+0	Text	&eLadies and Gentlemen boys and girls, in just &910 Minutes&e, &dPalace &ewill proudly present &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky &eat &d/warp castle!
+#?300	Block	152	-1621,54,-509
+480	Text	&eLadies and Gentlemen boys and girls, in just &92 Minutes&e, &dPalace &ewill proudly present &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky &eat &d/warp castle!
+45	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+60	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+120	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+240	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+345	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+360	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+400	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+420	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+450	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+480	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+520	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+550	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+585	Text	&6During &c&lHappy Hallowishes:&d a Grim Grinning Ghost Spooktacular in the sky&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+590	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-81,31,-1600
+300	Block	152	-81,31,-1599
+420	Block	152	-81,31,-1598
+#Fences
+00	Block	152	-90,28,-1611
+00	Block	152	-82,28,-1611

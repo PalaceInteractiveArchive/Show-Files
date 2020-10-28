@@ -1,0 +1,1079 @@
+﻿Show	Location	-244,42,-1813
+Show	TextRadius	25
+ArmorStand	hmOwl1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRiZDhiNmNiM2IxZWNkOWNhMzU5YjgzM2MxYmVmMjJlOTczMmZiN2FhMGQwZmY0ZmI1NTg4ODZmNWE2YSJ9fX0=";299(90,43,43);300(90,43,43);301(90,43,43);0
+ArmorStand	hmOwl2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRiZDhiNmNiM2IxZWNkOWNhMzU5YjgzM2MxYmVmMjJlOTczMmZiN2FhMGQwZmY0ZmI1NTg4ODZmNWE2YSJ9fX0=";299(90,43,43);300(90,43,43);301(90,43,43);0
+ArmorStand	hmGhost1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjg4YTk3MWQzN2I0ODQ3YzY3ZWM1ZGJhYzhjYzU5NTI0MTRlYzg0MjRmYWNlN2RkNmFjNjdkMDQ5NDQ5N2Y1YiJ9fX0=";299(0,0,0);300(0,0,0);301(0,0,0);0
+ArmorStand	hmGhost2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmUzNjlmYzg3Yzg0ODRkNTMwMDgwMDM2NzlkYTdhMmIxMjgxZDgyMDkwMTNmYTc4NjYwNzMyZjQyNGM1NDlhOCJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);294
+ArmorStand	hmGhost3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M4N2RkNmUyYjAzNmJmY2I3MDYxMGZkNjVhMDMwOTk4MjU2MzhhZGMxYTJhZDkyMDBmNDQwNjdiNWE2MTExNyJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);280
+ArmorStand	hmGhost4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg1NjEwM2U0MGM0MjNhZTViODlhYzIxYmExYjUyY2U4NjIxODEyOTU4NDM4NjYzYmZhODZmYjQ3MjBiNWEwIn19fQ==";299(205,228,223);300(205,228,223);301(205,228,223);131
+ArmorStand	hmGhost5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE3YjA4MjMzNWM1ZDJhN2RlZDA0M2VhZjlmZGRhMDc2OTczYzQyOTA0NjdlMjlhMzY1NDMxMzQ1MWU5ZTNjOSJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);291
+ArmorStand	hmGhost6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjViNjUxMjUyYTlhODdiMDNlMWIyNjU4NGM1NTUxNzVhNDU4ZGJiMjNlNTdkODExYTBkMTBmZTJmY2M2MTc2YSJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);294
+ArmorStand	hmGhostDog1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQ4OWY3OWM3YWRmYTFjNTM3NDM1MmMyNDMyOTUyODU1ZDE1ODFhNTQ5NjhiNTVlMmFmYzNhZjAwMjY0ZWUwNyJ9fX0=";299(205,228,223);0;0;0
+ArmorStand	hmGhostDog2	false	0;0;0;0;0
+ArmorStand	hmCat1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTRiNDVjYmFhMTlmZTNkNjhjODU2Y2QzODQ2YzAzYjVmNTlkZTgxYTQ4MGVlYzkyMWFiNGZhM2NkODEzMTcifX19";299(225,225,225);300(0,0,0);301(0,0,0);0
+ArmorStand	hmCat2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI0MzJiN2M4NDY4Y2Y2ODkyODY4ZDg2M2QzOGRkOWU2YjRjYzA1NTU3NjhiOGUwNzEzN2Y4NzhmMzNlNWIifX19";299(188,141,87);300(188,141,87);301(181,141,87);0
+ArmorStand	hmCat3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDBkYmE5NDJjMDZiNzdhMjgyOGUzZjY2YTFmYWVjNWU4NjQzZTllYTYxYTgxYTQ1MjMyNzk3MzllZDgyZCJ9fX0=";299(0,0,0);300(0,0,0);301(0,0,0);0
+ArmorStand	hmGhost7	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg1NjEwM2U0MGM0MjNhZTViODlhYzIxYmExYjUyY2U4NjIxODEyOTU4NDM4NjYzYmZhODZmYjQ3MjBiNWEwIn19fQ==";299(205,228,223);300(205,228,223);301(205,228,223);0
+ArmorStand	hmGhost8	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmU0ODM2ZDI4OTkyZjI5ZDhmZGU1MGFlYTE3MTMxZDRiNTQ1ZDZkZmI4MWU2YjIzZTA2Mjk0ZWZmMzVmNGJjOSJ9fX0=";299(0,0,0);300(0,0,0);301(0,0,0);256
+ArmorStand	hmGhostSwing1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjk1MDJhYjMzYmIyYzhkNmE5MGZmZjg1MDFiY2I5NTg1ZDFjMmVmZTQ0NWExMWUzODA3YjE4NjE4YjBjZGQyYiJ9fX0=";299(0,0,0);300(0,0,0);301(0,0,0);0
+ArmorStand	hmGStatue1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzEzNGQ0ZWUwMDVhOGE1MTlkOTZhNjczYTc1MTkzNTA3NTFiODE0YTE0ZWM2MTE4MmUxMmM0YmFjMDNhZjE1MSJ9fX0=";299(228,228,228);0;0;0
+ArmorStand	hmGStatue2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjYwZjdlYWRkMWJmYjAwZDY3NGJhMGQzMjMzNzlkMDczMzg0Nzk1OTQ0ZjMwNTc3YmJlODY4ZjdiYWIwYjYxYSJ9fX0=";299(228,228,228);0;0;0
+ArmorStand	hmGStatue3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdlYjZiYmM0YzkzZGYzMWVmMzQ3MjdkYzdhODZjMmI5MjFlZDM5OTM4N2IxYWUzNGViMjNhMzA2YzVjNmQxYiJ9fX0=";299(228,228,228);0;0;0
+ArmorStand	hmGStatue4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ0NzgyYjEwZDdkYWExMTM5NmFhM2MzZmE5MzM4NjJlNzcxYTdlMWUxNzA0MDdjMWIxZmNhMDhlZTJiMjE3ZSJ9fX0=";0;0;0;0
+ArmorStand	hmGStatue4a	false	0;299(228,228,228);0;0;0
+ArmorStand	hmGStatue5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGYyYzlkYzMxNGJlZmM4ZDEyZjJlODc4NmM5NDM1YmZkMjRkOTExNmZjOTRjNWVjNDVmZDgzYmQyZGM4NGE0ZiJ9fX0=";299(228,228,228);0;0;0
+ArmorStand	hmGhost9	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGQ1MDI2MzkyMzNkOGFlZWRjM2Y0NzNmYTlmODhlM2ZkMjZiNmVkYWFjMjlhODM4ZWI4ZDllMDI2NDc1YWIifX19";299(205,228,223);300(205,228,223);301(205,228,223);325
+ArmorStand	hmGhost10	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDE0MTlkOGM5ZGVjNDM5Zjc5MzYzN2U2MTA2Y2Q4YmRlMWVkYTk4YWJmMzdjMWRlM2M3MjJiNTYyZWYxYyJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);325
+ArmorStand	hmGhostHand1	false	0;0;0;0;281
+ArmorStand	hmGhost11	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWQ0MmY3ZmYyNjU4NWVmMWJlNTYxMzUzZTcwNjY4Yzk5NDg2MzBmZWM5YzAzNjQ4YjYzOTlmMTRlZmFjYjBiZCJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);281
+ArmorStand	hmGhost12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBmNzU4NWZlZjBkZWUwNDFmMzNhNjc5MTFkNzlmOTVhZDkwYzdkYjFmMmVjNTAxNTZmMzUzY2Y5NDFkYWY3MiJ9fX0=";299(205,228,223);300(205,228,223);301(205,228,223);0
+ArmorStand	hmGhost13	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2NlOGRiNTJmMWZiM2JlZGI4YjhhMjQ0YTJiMjc3Y2I0Y2ZkZGVjYTZhMzY5ZmY0MmRiNmNiZGRjMzM5MTFjIn19fQ==";299(205,228,223);300(205,228,223);301(205,228,223);281
+ArmorStand	hmGhost14	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTc5OTM1MDk4NWZiMTYzYzFjYjc2NGM4YjExOWRiZDJmMzdiZmMwZDZmYjAzMDFiYmFlMzc0NmYxYWVjZjgxYyJ9fX0=";299(225,225,225);300(225,225,225);301(225,225,225);0
+ArmorStand	hmKnight1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjdjMTc4NjVjMjc5MzRmOGM4ZWM2YzYyN2UxZmUyZDk5Zjc4M2VjOGFlNDE0Y2EyZDRmZDM2NDBhN2YzYyJ9fX0=";299(199,199,199);300(199,199,199);301(199,199,199);268
+ArmorStand	hmOldPerson1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZmMzVjYzQ1MzU1NWU1NzM4NTc2M2RjOTk2NTgyMTQzN2YyMGZhY2ExNTFiYTg4ZjVmZGY4NGUwODc4NCJ9fX0=";299(0,0,0);300(0,0,0);301(0,0,0);50
+ArmorStand	hmOldPerson2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWIzYmQ1MWYzZmJjMzc2NzZmYjkxMDQxMmRlZWVkMjFlNjdiN2I4YzU2NWI3NzI4NTE2MTlmN2I4ZjVmZmIifX19";299(205,228,223);300(205,228,223);301(205,228,223);0
+ArmorStand	hmOldPerson2a	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDRkMDZjYzkyOTYxYTU4ZGM5MjQ2MWIxNDZlZDU2ZDJlOGI2YWQ0YmYyNTE4MzQyNGIzYjEyYzgyOWQ2MzkxIn19fQ==";299(205,228,223);300(205,228,223);301(205,228,223);0
+ArmorStand	hmraven3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQwODM4MGYwMjYzOWU4MzdlYzk1ZWE4YmQzOTFiZTU5NmQ4M2FhYmU2NTgwZGRjNDJhNTY1OTgyMDMzMDE0ZiJ9fX0=";299(59,56,56);300(59,56,56);301(59,56,56);0
+##Particles
+0	Block	152	-252,35,-1789
+65	Block	0	-252,35,-1789
+##GhostBikes
+0	Block	152	-263,39,-1775
+0	Block	152	-260,39,-1769
+2	Block	0	-263,39,-1775
+2	Block	0	-260,39,-1769
+##RemoveGhostBikes
+65	Block	152	-257,38,-1771
+65	Block	152	-266,38,-1773
+67	Block	0	-257,38,-1771
+67	Block	0	-266,38,-1773
+##GhostProjections1
+0	Block	152	-235,35,-1764
+1	Block	152	-235,35,-1763
+2	Block	152	-235,35,-1762
+#
+4	Block	152	-235,35,-1764
+7	Block	152	-235,35,-1763
+9	Block	152	-235,35,-1762
+#
+8	Block	152	-235,35,-1764
+13	Block	152	-235,35,-1763
+15	Block	152	-235,35,-1762
+#
+12	Block	152	-235,35,-1764
+19	Block	152	-235,35,-1763
+22	Block	152	-235,35,-1762
+#
+16	Block	152	-235,35,-1764
+25	Block	152	-235,35,-1763
+29	Block	152	-235,35,-1762
+#
+20	Block	152	-235,35,-1764
+31	Block	152	-235,35,-1763
+36	Block	152	-235,35,-1762
+#
+24	Block	152	-235,35,-1764
+37	Block	152	-235,35,-1763
+43	Block	152	-235,35,-1762
+#
+28	Block	152	-235,35,-1764
+43	Block	152	-235,35,-1763
+50	Block	152	-235,35,-1762
+#
+32	Block	152	-235,35,-1764
+49	Block	152	-235,35,-1764
+57	Block	152	-235,35,-1764
+#
+36	Block	152	-235,35,-1764
+55	Block	152	-235,35,-1763
+63	Block	152	-235,35,-1762
+#
+40	Block	152	-235,35,-1764
+44	Block	152	-235,35,-1764
+48	Block	152	-235,35,-1764
+52	Block	152	-235,35,-1764
+56	Block	152	-235,35,-1764
+60	Block	152	-235,35,-1764
+##GhostProjections2
+0	Block	152	-266,35,-1770
+1	Block	152	-266,35,-1771
+2	Block	152	-266,35,-1772
+#
+4	Block	152	-266,35,-1770
+7	Block	152	-266,35,-1771
+9	Block	152	-266,35,-1772
+#
+8	Block	152	-266,35,-1770
+13	Block	152	-266,35,-1771
+15	Block	152	-266,35,-1772
+#
+12	Block	152	-266,35,-1770
+19	Block	152	-266,35,-1771
+22	Block	152	-266,35,-1772
+#
+16	Block	152	-266,35,-1770
+25	Block	152	-266,35,-1771
+29	Block	152	-266,35,-1772
+#
+20	Block	152	-266,35,-1770
+31	Block	152	-266,35,-1771
+36	Block	152	-266,35,-1772
+#
+24	Block	152	-266,35,-1770
+37	Block	152	-266,35,-1771
+43	Block	152	-266,35,-1772
+#
+28	Block	152	-266,35,-1770
+43	Block	152	-266,35,-1771
+50	Block	152	-266,35,-1772
+#
+32	Block	152	-266,35,-1770
+49	Block	152	-266,35,-1770
+57	Block	152	-266,35,-1770
+#
+36	Block	152	-266,35,-1770
+55	Block	152	-266,35,-1771
+63	Block	152	-266,35,-1772
+#
+40	Block	152	-266,35,-1770
+44	Block	152	-266,35,-1770
+48	Block	152	-266,35,-1770
+52	Block	152	-266,35,-1770
+56	Block	152	-266,35,-1770
+60	Block	152	-266,35,-1770
+#Owls
+0	ArmorStand	hmOwl1	Spawn	-240.5,46.65,-1763.5,-180
+0	ArmorStand	hmOwl2	Spawn	-239.7,46.65,-1763.5,-180
+0.1	ArmorStand	hmOwl1	Position	LEG_LEFT	160,0,0	0.5
+0.1	ArmorStand	hmOwl1	Position	LEG_RIGHT	160,0,0	0.5
+0.1	ArmorStand	hmOwl2	Position	LEG_LEFT	160,0,0	0.5
+0.1	ArmorStand	hmOwl2	Position	LEG_RIGHT	160,0,0	0.5
+0.2	Block	152	-241,41,-1764
+0.5	Block	0	-241,41,-1764
+#Ghosts
+0	ArmorStand	hmGhost1	Spawn	-236.5,38,-1767.5,-180
+0.1	ArmorStand	hmGhost1	Position	ARM_LEFT	0,0,90	0.5
+0.1	ArmorStand	hmGhost1	Position	ARM_RIGHT	0,0,-90	0.5
+10	ArmorStand	hmGhost1	Move	-236.5,42.7,-1767.5	2
+15	ArmorStand	hmGhost1	Move	-236.5,38,-1767.5	3
+#
+0	ArmorStand	hmGhost2	Spawn	-237.5,42.3,-1764.8,-180
+0.1	ArmorStand	hmGhost2	Position	ARM_LEFT	-120,0,0	0.5
+0.1	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	0.5
+3	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,40	2
+5.1	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	2
+7.2	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,40	2
+9.3	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	2
+11.4	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,40	2
+13.5	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	2
+15.6	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,40	2
+17.7	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	2
+19.8	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,40	2
+21.9	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	2
+24	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,40	2
+26.1	ArmorStand	hmGhost2	Position	ARM_RIGHT	-80,0,60	2
+#
+0	ArmorStand	hmGhost3	Spawn	-236.5,43,-1763.18,180
+0.1	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-6.9,106.8	0.5
+0.1	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,8.1,-103.5	0.5
+2	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-36.9,106.8	2
+2.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,38.1,-103.5	2
+4	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-6.9,106.8	2
+4.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,8.1,-103.5	2
+6	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-36.9,106.8	2
+6.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,38.1,-103.5	2
+8	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-6.9,106.8	2
+8.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,8.1,-103.5	2
+10	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-36.9,106.8	2
+10.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,38.1,-103.5	2
+12	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-6.9,106.8	2
+12.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,8.1,-103.5	2
+14	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-36.9,106.8	2
+14.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,38.1,-103.5	2
+16	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-6.9,106.8	2
+16.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,8.1,-103.5	2
+18	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-36.9,106.8	2
+18.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,38.1,-103.5	2
+20	ArmorStand	hmGhost3	Position	ARM_RIGHT	-51.35,-6.9,106.8	2
+20.5	ArmorStand	hmGhost3	Position	ARM_LEFT	-49.4,8.1,-103.5	2
+#
+0	ArmorStand	hmGhost4	Spawn	-238,43,-1763.5,180
+0.1	ArmorStand	hmGhost4	Position	ARM_RIGHT	-70,0,0	0.5
+0.1	ArmorStand	hmGhost4	Position	ARM_LEFT	-60,40,0	0.5
+2	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+2.6	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+3.2	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+3.8	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+4.4	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+5	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+5.6	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+6.2	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+6.8	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+7.4	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+8	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+8.6	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+9	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+9.6	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+10.2	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+10.8	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+11.4	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+12	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+12.6	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+13.2	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+13.8	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+14.4	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+15	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+15.6	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+16.2	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+16.8	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+17.2	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+17.8	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+18.4	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+19	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+19.6	ArmorStand	hmGhost4	Position	HEAD	-20,0,10	0.5
+20.2	ArmorStand	hmGhost4	Position	HEAD	20,0,10	0.5
+#
+0	ArmorStand	hmGhost5	Spawn	-239,43,-1763.5,180
+0.1	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,190,60	0.5
+0.1	ArmorStand	hmGhost5	Position	ARM_LEFT	-120,27,-6	0.5
+0.1	ArmorStand	hmGhost5	Position	HEAD	-30,0,0	0.5
+5	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,170,60	2
+7.1	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,210,60	2
+9.2	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,170,60	2
+11.3	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,210,60	2
+13.4	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,170,60	2
+15.5	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,210,60	2
+17.6	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,170,60	2
+19.7	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,210,60	2
+21.8	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,170,60	2
+23.9	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,210,60	2
+26	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,170,60	2
+28.1	ArmorStand	hmGhost5	Position	ARM_RIGHT	120,210,60	2
+#
+0	ArmorStand	hmGhost6	Spawn	-240.5,43,-1763.5,180
+0.1	ArmorStand	hmGhost6	Position	ARM_LEFT	-49,24,20	0.5
+0.1	ArmorStand	hmGhost6	Position	ARM_RIGHT	-81,33,187	0.5
+#Dog
+0	ArmorStand	hmGhostDog1	Spawn	-248.645,45,-1763.624,132.4
+0	ArmorStand	hmGhostDog2	Spawn	-248.245,45,-1763.224,-42.4
+#StartPosDog1
+0.1	ArmorStand	hmGhostDog1	Position	LEG_LEFT	-1,0,-1	1
+0.1	ArmorStand	hmGhostDog1	Position	LEG_RIGHT	1,0,1	1
+0.1	ArmorStand	hmGhostDog1	Position	ARM_LEFT	-10,0,-10	1
+0.1	ArmorStand	hmGhostDog1	Position	ARM_RIGHT	-15,0,10	1
+0.1	ArmorStand	hmGhostDog1	Position	BODY	90,0,0	1
+0.1	ArmorStand	hmGhostDog1	Position	HEAD	-21,39,0	1
+#StartPosDog2
+0.1	ArmorStand	hmGhostDog2	Position	ARM_LEFT	-10,0,-10	1
+0.1	ArmorStand	hmGhostDog2	Position	ARM_RIGHT	-15,0,10	1
+0.1	ArmorStand	hmGhostDog2	Position	BODY	90.65,-6,180	1
+0.1	ArmorStand	hmGhostDog2	Position	HEAD	30,0,0	1
+##Cats
+0	ArmorStand	hmCat1	Spawn	-245.13,44.05,-1767.424,-140
+0.1	ArmorStand	hmCat1	Position	BODY	30,0,0	0.5
+0.1	ArmorStand	hmCat1	Position	LEG_LEFT	90,0,0	0.5
+0.1	ArmorStand	hmCat1	Position	LEG_RIGHT	90,0,0	0.5
+#
+0	ArmorStand	hmCat2	Spawn	-245.73,44.05,-1767.824,-140
+0.1	ArmorStand	hmCat2	Position	BODY	30,0,0	0.5
+0.1	ArmorStand	hmCat2	Position	LEG_LEFT	90,0,0	0.5
+0.1	ArmorStand	hmCat2	Position	LEG_RIGHT	90,0,0	0.5
+#
+0	ArmorStand	hmCat3	Spawn	-246.23,44.05,-1768.324,-140
+0.1	ArmorStand	hmCat3	Position	BODY	30,0,0	0.5
+0.1	ArmorStand	hmCat3	Position	LEG_LEFT	90,0,0	0.5
+0.1	ArmorStand	hmCat3	Position	LEG_RIGHT	90,0,0	0.5
+##SeesawGhosts
+0	ArmorStand	hmGhost8	Spawn	-250.5,43,-1770.5,90
+0.1	ArmorStand	hmGhost8	Position	LEG_LEFT	-70,-30,0	0.5
+0.1	ArmorStand	hmGhost8	Position	LEG_RIGHT	-70,30,0	0.5
+0.1	ArmorStand	hmGhost8	Position	ARM_RIGHT	-90,0,10	0.5
+5	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+6.95	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+8.9	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+10.85	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+12.8	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+14.75	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+16.7	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+18.65	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+20.6	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+22.55	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+24.5	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+26.45	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+28.4	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+30.35	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+32.3	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+34.25	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+36.2	ArmorStand	hmGhost8	Move	-250.5,44,-1770.5	1.85
+38.15	ArmorStand	hmGhost8	Move	-250.5,43,-1770.5	1.85
+##
+0	ArmorStand	hmGhost7	Spawn	-254.5,44,-1770.5,-90
+0.1	ArmorStand	hmGhost7	Position	LEG_LEFT	-60,-30,0	0.5
+0.1	ArmorStand	hmGhost7	Position	LEG_RIGHT	-60,30,0	0.5
+0.1	ArmorStand	hmGhost7	Position	ARM_RIGHT	-40,-10,0	0.5
+0.1	ArmorStand	hmGhost7	Position	ARM_LEFT	-40,10,0	0.5
+5	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+6.95	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+8.9	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+10.85	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+12.8	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+14.75	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+16.7	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+18.65	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+20.6	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+22.55	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+24.5	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+26.45	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+28.4	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+30.35	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+32.3	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+34.25	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+36.2	ArmorStand	hmGhost7	Move	-254.5,43,-1770.5	1.85
+38.15	ArmorStand	hmGhost7	Move	-254.5,44,-1770.5	1.85
+#SeesawMovements
+##Move1
+5	Block	126:11	-251,43,-1771
+6	Block	0	-251,43,-1771
+6	Block	126:3	-251,44,-1771
+#
+5	Block	0	-255,44,-1771
+5	Block	126:11	-255,43,-1771
+6	Block	126:3	-255,43,-1771
+##Move2
+7	Block	0	-251,44,-1771
+7	Block	126:11	-251,43,-1771
+8	Block	126:3	-251,43,-1771
+#
+7	Block	126:11	-255,43,-1771
+8	Block	0	-255,43,-1771
+8	Block	126:3	-255,44,-1771
+##Move3
+9	Block	126:11	-251,43,-1771
+10	Block	0	-251,43,-1771
+10	Block	126:3	-251,44,-1771
+#
+9	Block	0	-255,44,-1771
+9	Block	126:11	-255,43,-1771
+10	Block	126:3	-255,43,-1771
+##Move4
+11	Block	0	-251,44,-1771
+11	Block	126:11	-251,43,-1771
+12	Block	126:3	-251,43,-1771
+#
+11	Block	126:11	-255,43,-1771
+12	Block	0	-255,43,-1771
+12	Block	126:3	-255,44,-1771
+##Move5
+13	Block	126:11	-251,43,-1771
+14	Block	0	-251,43,-1771
+14	Block	126:3	-251,44,-1771
+#
+13	Block	0	-255,44,-1771
+13	Block	126:11	-255,43,-1771
+14	Block	126:3	-255,43,-1771
+##Move6
+15	Block	0	-251,44,-1771
+15	Block	126:11	-251,43,-1771
+16	Block	126:3	-251,43,-1771
+#
+15	Block	126:11	-255,43,-1771
+16	Block	0	-255,43,-1771
+16	Block	126:3	-255,44,-1771
+##Move7
+17	Block	126:11	-251,43,-1771
+18	Block	0	-251,43,-1771
+18	Block	126:3	-251,44,-1771
+#
+17	Block	0	-255,44,-1771
+17	Block	126:11	-255,43,-1771
+18	Block	126:3	-255,43,-1771
+##Move8
+19	Block	0	-251,44,-1771
+19	Block	126:11	-251,43,-1771
+20	Block	126:3	-251,43,-1771
+#
+19	Block	126:11	-255,43,-1771
+20	Block	0	-255,43,-1771
+20	Block	126:3	-255,44,-1771
+##Move9
+21	Block	126:11	-251,43,-1771
+22	Block	0	-251,43,-1771
+22	Block	126:3	-251,44,-1771
+#
+21	Block	0	-255,44,-1771
+21	Block	126:11	-255,43,-1771
+22	Block	126:3	-255,43,-1771
+##Move10
+23	Block	0	-251,44,-1771
+23	Block	126:11	-251,43,-1771
+24	Block	126:3	-251,43,-1771
+#
+23	Block	126:11	-255,43,-1771
+24	Block	0	-255,43,-1771
+24	Block	126:3	-255,44,-1771
+##Move11
+25	Block	126:11	-251,43,-1771
+26	Block	0	-251,43,-1771
+26	Block	126:3	-251,44,-1771
+#
+25	Block	0	-255,44,-1771
+25	Block	126:11	-255,43,-1771
+26	Block	126:3	-255,43,-1771
+##Move12
+27	Block	0	-251,44,-1771
+27	Block	126:11	-251,43,-1771
+28	Block	126:3	-251,43,-1771
+#
+27	Block	126:11	-255,43,-1771
+28	Block	0	-255,43,-1771
+28	Block	126:3	-255,44,-1771
+##Move13
+29	Block	126:11	-251,43,-1771
+30	Block	0	-251,43,-1771
+30	Block	126:3	-251,44,-1771
+#
+29	Block	0	-255,44,-1771
+29	Block	126:11	-255,43,-1771
+30	Block	126:3	-255,43,-1771
+##Move14
+31	Block	0	-251,44,-1771
+31	Block	126:11	-251,43,-1771
+32	Block	126:3	-251,43,-1771
+#
+31	Block	126:11	-255,43,-1771
+32	Block	0	-255,43,-1771
+32	Block	126:3	-255,44,-1771
+##Move15
+33	Block	126:11	-251,43,-1771
+34	Block	0	-251,43,-1771
+34	Block	126:3	-251,44,-1771
+#
+33	Block	0	-255,44,-1771
+33	Block	126:11	-255,43,-1771
+34	Block	126:3	-255,43,-1771
+##Move16
+35	Block	0	-251,44,-1771
+35	Block	126:11	-251,43,-1771
+36	Block	126:3	-251,43,-1771
+#
+35	Block	126:11	-255,43,-1771
+36	Block	0	-255,43,-1771
+36	Block	126:3	-255,44,-1771
+##Move17
+37	Block	126:11	-251,43,-1771
+38	Block	0	-251,43,-1771
+38	Block	126:3	-251,44,-1771
+#
+37	Block	0	-255,44,-1771
+37	Block	126:11	-255,43,-1771
+38	Block	126:3	-255,43,-1771
+##Move18
+39	Block	0	-251,44,-1771
+39	Block	126:11	-251,43,-1771
+40	Block	126:3	-251,43,-1771
+#
+39	Block	126:11	-255,43,-1771
+40	Block	0	-255,43,-1771
+40	Block	126:3	-255,44,-1771
+#
+##Swing
+0	ArmorStand	hmGhostSwing1	Spawn	-253.5,44.5,-1767.5,-90
+0.1	ArmorStand	hmGhostSwing1	Position	ARM_LEFT	0,0,-110	0.5
+0.1	ArmorStand	hmGhostSwing1	Position	ARM_RIGHT	0,0,110	0.5
+0.1	ArmorStand	hmGhostSwing1	Position	LEG_LEFT	-60,-10,0	0.5
+0.1	ArmorStand	hmGhostSwing1	Position	LEG_RIGHT	-60,10,0	0.5
+#-256,44,-1769(SwingMovements)
+4.3	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	1
+6	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+8	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	2
+10	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+12	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	2
+14	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+16	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	2
+18	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+20	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	2
+22	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+24	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	2
+26	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+28	ArmorStand	hmGhostSwing1	Move	-254.5,44.5,-1767.5	2
+30	ArmorStand	hmGhostSwing1	Move	-252.5,44.5,-1767.5	2
+##
+##Back
+5.0	Block	68:4	-256,44,-1768
+5.0	Block	126:8	-255,44,-1769
+5.0	Block	126:8	-255,44,-1768
+5.0	Block	126:8	-255,44,-1767
+5.0	Block	0:0	-254,44,-1769
+5.0	Block	68:5	-254,44,-1768
+5.0	Block	0:0	-254,44,-1767
+5.0	Block	0:0	-253,44,-1768
+5.0	Block	101:0	-255,45,-1769
+5.0	Block	72:0	-255,45,-1768
+5.0	Block	101:0	-255,45,-1767
+5.0	Block	0:0	-254,45,-1768
+##Normal
+6.0	Block	0:0	-256,44,-1768
+6.0	Block	0:0	-255,44,-1769
+6.0	Block	68:4	-255,44,-1768
+6.0	Block	0:0	-255,44,-1767
+6.0	Block	126:8	-254,44,-1769
+6.0	Block	126:8	-254,44,-1768
+6.0	Block	126:8	-254,44,-1767
+6.0	Block	68:5	-253,44,-1768
+6.0	Block	0:0	-255,45,-1769
+6.0	Block	0:0	-255,45,-1768
+6.0	Block	0:0	-255,45,-1767
+6.0	Block	72:0	-254,45,-1768
+##Forward
+7.0	Block	0:0	-255,44,-1768
+7.0	Block	0:0	-254,44,-1769
+7.0	Block	68:4	-254,44,-1768
+7.0	Block	0:0	-254,44,-1767
+7.0	Block	126:8	-253,44,-1769
+7.0	Block	126:8	-253,44,-1768
+7.0	Block	126:8	-253,44,-1767
+7.0	Block	68:5	-252,44,-1768
+7.0	Block	0:0	-254,45,-1768
+7.0	Block	101:0	-253,45,-1769
+7.0	Block	72:0	-253,45,-1768
+7.0	Block	101:0	-253,45,-1767
+##Normal
+8.0	Block	68:4	-255,44,-1768
+8.0	Block	126:8	-254,44,-1769
+8.0	Block	126:8	-254,44,-1768
+8.0	Block	126:8	-254,44,-1767
+8.0	Block	0:0	-253,44,-1769
+8.0	Block	68:5	-253,44,-1768
+8.0	Block	0:0	-253,44,-1767
+8.0	Block	0:0	-252,44,-1768
+8.0	Block	72:0	-254,45,-1768
+8.0	Block	0:0	-253,45,-1769
+8.0	Block	0:0	-253,45,-1768
+8.0	Block	0:0	-253,45,-1767
+##Back
+9.0	Block	68:4	-256,44,-1768
+9.0	Block	126:8	-255,44,-1769
+9.0	Block	126:8	-255,44,-1768
+9.0	Block	126:8	-255,44,-1767
+9.0	Block	0:0	-254,44,-1769
+9.0	Block	68:5	-254,44,-1768
+9.0	Block	0:0	-254,44,-1767
+9.0	Block	0:0	-253,44,-1768
+9.0	Block	101:0	-255,45,-1769
+9.0	Block	72:0	-255,45,-1768
+9.0	Block	101:0	-255,45,-1767
+9.0	Block	0:0	-254,45,-1768
+##Normal
+10.0	Block	0:0	-256,44,-1768
+10.0	Block	0:0	-255,44,-1769
+10.0	Block	68:4	-255,44,-1768
+10.0	Block	0:0	-255,44,-1767
+10.0	Block	126:8	-254,44,-1769
+10.0	Block	126:8	-254,44,-1768
+10.0	Block	126:8	-254,44,-1767
+10.0	Block	68:5	-253,44,-1768
+10.0	Block	0:0	-255,45,-1769
+10.0	Block	0:0	-255,45,-1768
+10.0	Block	0:0	-255,45,-1767
+10.0	Block	72:0	-254,45,-1768
+##Forward
+11.0	Block	0:0	-255,44,-1768
+11.0	Block	0:0	-254,44,-1769
+11.0	Block	68:4	-254,44,-1768
+11.0	Block	0:0	-254,44,-1767
+11.0	Block	126:8	-253,44,-1769
+11.0	Block	126:8	-253,44,-1768
+11.0	Block	126:8	-253,44,-1767
+11.0	Block	68:5	-252,44,-1768
+11.0	Block	0:0	-254,45,-1768
+11.0	Block	101:0	-253,45,-1769
+11.0	Block	72:0	-253,45,-1768
+11.0	Block	101:0	-253,45,-1767
+##Normal
+12.0	Block	68:4	-255,44,-1768
+12.0	Block	126:8	-254,44,-1769
+12.0	Block	126:8	-254,44,-1768
+12.0	Block	126:8	-254,44,-1767
+12.0	Block	0:0	-253,44,-1769
+12.0	Block	68:5	-253,44,-1768
+12.0	Block	0:0	-253,44,-1767
+12.0	Block	0:0	-252,44,-1768
+12.0	Block	72:0	-254,45,-1768
+12.0	Block	0:0	-253,45,-1769
+12.0	Block	0:0	-253,45,-1768
+12.0	Block	0:0	-253,45,-1767
+##Back
+13.0	Block	68:4	-256,44,-1768
+13.0	Block	126:8	-255,44,-1769
+13.0	Block	126:8	-255,44,-1768
+13.0	Block	126:8	-255,44,-1767
+13.0	Block	0:0	-254,44,-1769
+13.0	Block	68:5	-254,44,-1768
+13.0	Block	0:0	-254,44,-1767
+13.0	Block	0:0	-253,44,-1768
+13.0	Block	101:0	-255,45,-1769
+13.0	Block	72:0	-255,45,-1768
+13.0	Block	101:0	-255,45,-1767
+13.0	Block	0:0	-254,45,-1768
+##Normal
+14.0	Block	0:0	-256,44,-1768
+14.0	Block	0:0	-255,44,-1769
+14.0	Block	68:4	-255,44,-1768
+14.0	Block	0:0	-255,44,-1767
+14.0	Block	126:8	-254,44,-1769
+14.0	Block	126:8	-254,44,-1768
+14.0	Block	126:8	-254,44,-1767
+14.0	Block	68:5	-253,44,-1768
+14.0	Block	0:0	-255,45,-1769
+14.0	Block	0:0	-255,45,-1768
+14.0	Block	0:0	-255,45,-1767
+14.0	Block	72:0	-254,45,-1768
+##Forward
+15.0	Block	0:0	-255,44,-1768
+15.0	Block	0:0	-254,44,-1769
+15.0	Block	68:4	-254,44,-1768
+15.0	Block	0:0	-254,44,-1767
+15.0	Block	126:8	-253,44,-1769
+15.0	Block	126:8	-253,44,-1768
+15.0	Block	126:8	-253,44,-1767
+15.0	Block	68:5	-252,44,-1768
+15.0	Block	0:0	-254,45,-1768
+15.0	Block	101:0	-253,45,-1769
+15.0	Block	72:0	-253,45,-1768
+15.0	Block	101:0	-253,45,-1767
+##Normal
+16.0	Block	68:4	-255,44,-1768
+16.0	Block	126:8	-254,44,-1769
+16.0	Block	126:8	-254,44,-1768
+16.0	Block	126:8	-254,44,-1767
+16.0	Block	0:0	-253,44,-1769
+16.0	Block	68:5	-253,44,-1768
+16.0	Block	0:0	-253,44,-1767
+16.0	Block	0:0	-252,44,-1768
+16.0	Block	72:0	-254,45,-1768
+16.0	Block	0:0	-253,45,-1769
+16.0	Block	0:0	-253,45,-1768
+16.0	Block	0:0	-253,45,-1767
+##Back
+17.0	Block	68:4	-256,44,-1768
+17.0	Block	126:8	-255,44,-1769
+17.0	Block	126:8	-255,44,-1768
+17.0	Block	126:8	-255,44,-1767
+17.0	Block	0:0	-254,44,-1769
+17.0	Block	68:5	-254,44,-1768
+17.0	Block	0:0	-254,44,-1767
+17.0	Block	0:0	-253,44,-1768
+17.0	Block	101:0	-255,45,-1769
+17.0	Block	72:0	-255,45,-1768
+17.0	Block	101:0	-255,45,-1767
+17.0	Block	0:0	-254,45,-1768
+##Normal
+18.0	Block	0:0	-256,44,-1768
+18.0	Block	0:0	-255,44,-1769
+18.0	Block	68:4	-255,44,-1768
+18.0	Block	0:0	-255,44,-1767
+18.0	Block	126:8	-254,44,-1769
+18.0	Block	126:8	-254,44,-1768
+18.0	Block	126:8	-254,44,-1767
+18.0	Block	68:5	-253,44,-1768
+18.0	Block	0:0	-255,45,-1769
+18.0	Block	0:0	-255,45,-1768
+18.0	Block	0:0	-255,45,-1767
+18.0	Block	72:0	-254,45,-1768
+##Forward
+19.0	Block	0:0	-255,44,-1768
+19.0	Block	0:0	-254,44,-1769
+19.0	Block	68:4	-254,44,-1768
+19.0	Block	0:0	-254,44,-1767
+19.0	Block	126:8	-253,44,-1769
+19.0	Block	126:8	-253,44,-1768
+19.0	Block	126:8	-253,44,-1767
+19.0	Block	68:5	-252,44,-1768
+19.0	Block	0:0	-254,45,-1768
+19.0	Block	101:0	-253,45,-1769
+19.0	Block	72:0	-253,45,-1768
+19.0	Block	101:0	-253,45,-1767
+##Normal
+20.0	Block	68:4	-255,44,-1768
+20.0	Block	126:8	-254,44,-1769
+20.0	Block	126:8	-254,44,-1768
+20.0	Block	126:8	-254,44,-1767
+20.0	Block	0:0	-253,44,-1769
+20.0	Block	68:5	-253,44,-1768
+20.0	Block	0:0	-253,44,-1767
+20.0	Block	0:0	-252,44,-1768
+20.0	Block	72:0	-254,45,-1768
+20.0	Block	0:0	-253,45,-1769
+20.0	Block	0:0	-253,45,-1768
+20.0	Block	0:0	-253,45,-1767
+##Back
+21.0	Block	68:4	-256,44,-1768
+21.0	Block	126:8	-255,44,-1769
+21.0	Block	126:8	-255,44,-1768
+21.0	Block	126:8	-255,44,-1767
+21.0	Block	0:0	-254,44,-1769
+21.0	Block	68:5	-254,44,-1768
+21.0	Block	0:0	-254,44,-1767
+21.0	Block	0:0	-253,44,-1768
+21.0	Block	101:0	-255,45,-1769
+21.0	Block	72:0	-255,45,-1768
+21.0	Block	101:0	-255,45,-1767
+21.0	Block	0:0	-254,45,-1768
+##Normal
+22.0	Block	0:0	-256,44,-1768
+22.0	Block	0:0	-255,44,-1769
+22.0	Block	68:4	-255,44,-1768
+22.0	Block	0:0	-255,44,-1767
+22.0	Block	126:8	-254,44,-1769
+22.0	Block	126:8	-254,44,-1768
+22.0	Block	126:8	-254,44,-1767
+22.0	Block	68:5	-253,44,-1768
+22.0	Block	0:0	-255,45,-1769
+22.0	Block	0:0	-255,45,-1768
+22.0	Block	0:0	-255,45,-1767
+22.0	Block	72:0	-254,45,-1768
+##Forward
+23.0	Block	0:0	-255,44,-1768
+23.0	Block	0:0	-254,44,-1769
+23.0	Block	68:4	-254,44,-1768
+23.0	Block	0:0	-254,44,-1767
+23.0	Block	126:8	-253,44,-1769
+23.0	Block	126:8	-253,44,-1768
+23.0	Block	126:8	-253,44,-1767
+23.0	Block	68:5	-252,44,-1768
+23.0	Block	0:0	-254,45,-1768
+23.0	Block	101:0	-253,45,-1769
+23.0	Block	72:0	-253,45,-1768
+23.0	Block	101:0	-253,45,-1767
+##Normal
+24.0	Block	68:4	-255,44,-1768
+24.0	Block	126:8	-254,44,-1769
+24.0	Block	126:8	-254,44,-1768
+24.0	Block	126:8	-254,44,-1767
+24.0	Block	0:0	-253,44,-1769
+24.0	Block	68:5	-253,44,-1768
+24.0	Block	0:0	-253,44,-1767
+24.0	Block	0:0	-252,44,-1768
+24.0	Block	72:0	-254,45,-1768
+24.0	Block	0:0	-253,45,-1769
+24.0	Block	0:0	-253,45,-1768
+24.0	Block	0:0	-253,45,-1767
+##Back
+25.0	Block	68:4	-256,44,-1768
+25.0	Block	126:8	-255,44,-1769
+25.0	Block	126:8	-255,44,-1768
+25.0	Block	126:8	-255,44,-1767
+25.0	Block	0:0	-254,44,-1769
+25.0	Block	68:5	-254,44,-1768
+25.0	Block	0:0	-254,44,-1767
+25.0	Block	0:0	-253,44,-1768
+25.0	Block	101:0	-255,45,-1769
+25.0	Block	72:0	-255,45,-1768
+25.0	Block	101:0	-255,45,-1767
+25.0	Block	0:0	-254,45,-1768
+##Normal
+26.0	Block	0:0	-256,44,-1768
+26.0	Block	0:0	-255,44,-1769
+26.0	Block	68:4	-255,44,-1768
+26.0	Block	0:0	-255,44,-1767
+26.0	Block	126:8	-254,44,-1769
+26.0	Block	126:8	-254,44,-1768
+26.0	Block	126:8	-254,44,-1767
+26.0	Block	68:5	-253,44,-1768
+26.0	Block	0:0	-255,45,-1769
+26.0	Block	0:0	-255,45,-1768
+26.0	Block	0:0	-255,45,-1767
+26.0	Block	72:0	-254,45,-1768
+##Forward
+27.0	Block	0:0	-255,44,-1768
+27.0	Block	0:0	-254,44,-1769
+27.0	Block	68:4	-254,44,-1768
+27.0	Block	0:0	-254,44,-1767
+27.0	Block	126:8	-253,44,-1769
+27.0	Block	126:8	-253,44,-1768
+27.0	Block	126:8	-253,44,-1767
+27.0	Block	68:5	-252,44,-1768
+27.0	Block	0:0	-254,45,-1768
+27.0	Block	101:0	-253,45,-1769
+27.0	Block	72:0	-253,45,-1768
+27.0	Block	101:0	-253,45,-1767
+##Normal
+28.0	Block	68:4	-255,44,-1768
+28.0	Block	126:8	-254,44,-1769
+28.0	Block	126:8	-254,44,-1768
+28.0	Block	126:8	-254,44,-1767
+28.0	Block	0:0	-253,44,-1769
+28.0	Block	68:5	-253,44,-1768
+28.0	Block	0:0	-253,44,-1767
+28.0	Block	0:0	-252,44,-1768
+28.0	Block	72:0	-254,45,-1768
+28.0	Block	0:0	-253,45,-1769
+28.0	Block	0:0	-253,45,-1768
+28.0	Block	0:0	-253,45,-1767
+##Back
+29.0	Block	68:4	-256,44,-1768
+29.0	Block	126:8	-255,44,-1769
+29.0	Block	126:8	-255,44,-1768
+29.0	Block	126:8	-255,44,-1767
+29.0	Block	0:0	-254,44,-1769
+29.0	Block	68:5	-254,44,-1768
+29.0	Block	0:0	-254,44,-1767
+29.0	Block	0:0	-253,44,-1768
+29.0	Block	101:0	-255,45,-1769
+29.0	Block	72:0	-255,45,-1768
+29.0	Block	101:0	-255,45,-1767
+29.0	Block	0:0	-254,45,-1768
+##Normal
+30.0	Block	0:0	-256,44,-1768
+30.0	Block	0:0	-255,44,-1769
+30.0	Block	68:4	-255,44,-1768
+30.0	Block	0:0	-255,44,-1767
+30.0	Block	126:8	-254,44,-1769
+30.0	Block	126:8	-254,44,-1768
+30.0	Block	126:8	-254,44,-1767
+30.0	Block	68:5	-253,44,-1768
+30.0	Block	0:0	-255,45,-1769
+30.0	Block	0:0	-255,45,-1768
+30.0	Block	0:0	-255,45,-1767
+30.0	Block	72:0	-254,45,-1768
+##Forward
+31.0	Block	0:0	-255,44,-1768
+31.0	Block	0:0	-254,44,-1769
+31.0	Block	68:4	-254,44,-1768
+31.0	Block	0:0	-254,44,-1767
+31.0	Block	126:8	-253,44,-1769
+31.0	Block	126:8	-253,44,-1768
+31.0	Block	126:8	-253,44,-1767
+31.0	Block	68:5	-252,44,-1768
+31.0	Block	0:0	-254,45,-1768
+31.0	Block	101:0	-253,45,-1769
+31.0	Block	72:0	-253,45,-1768
+31.0	Block	101:0	-253,45,-1767
+##Normal
+32.0	Block	68:4	-255,44,-1768
+32.0	Block	126:8	-254,44,-1769
+32.0	Block	126:8	-254,44,-1768
+32.0	Block	126:8	-254,44,-1767
+32.0	Block	0:0	-253,44,-1769
+32.0	Block	68:5	-253,44,-1768
+32.0	Block	0:0	-253,44,-1767
+32.0	Block	0:0	-252,44,-1768
+32.0	Block	72:0	-254,45,-1768
+32.0	Block	0:0	-253,45,-1769
+32.0	Block	0:0	-253,45,-1768
+32.0	Block	0:0	-253,45,-1767
+##Statues
+0	ArmorStand	hmGStatue1	Spawn	-244.5,43,-1776.5,0
+0	ArmorStand	hmGStatue2	Spawn	-245.5,43,-1776.5,0
+0	ArmorStand	hmGStatue3	Spawn	-246.5,43,-1776.5,0
+0	ArmorStand	hmGStatue4	Spawn	-247.6,42.6,-1777.5,0
+0	ArmorStand	hmGStatue4a	Spawn	-247,43,-1777.5,0
+0	ArmorStand	hmGStatue5	Spawn	-248.5,43,-1777.5,0
+0.1	ArmorStand	hmGStatue4	Position	HEAD	10,0,-20	0.5
+0.1	Block	152	-248,41,-1776
+1	Block	0	-248,41,-1776
+##OtherGraveyardSection
+0	ArmorStand	hmGhost9	Spawn	-255.5,43,-1777.5,-10
+0.1	ArmorStand	hmGhost9	Position	ARM_RIGHT	-65,10,0	0.5
+11.1	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+13.2	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+15.3	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+17.4	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+19.5	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+21.6	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+23.7	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+25.8	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+27.9	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+30	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+32.1	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+34.2	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+36.3	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+38.4	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+40.5	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+42.6	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+44.7	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+46.8	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+48.9	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+51	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+53.1	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+55.2	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+57.3	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+59.4	ArmorStand	hmGhost9	Position	ARM_RIGHT	-75,10,0	2
+61.5	ArmorStand	hmGhost9	Position	ARM_RIGHT	-55,10,0	2
+#
+0	ArmorStand	hmGhost10	Spawn	-255.5,43,-1775.5,-160
+0.1	ArmorStand	hmGhost10	Position	ARM_RIGHT	-65,-10,0	0.5
+10	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+12.1	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+14.2	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+16.3	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+18.4	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+20.5	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+22.6	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+24.7	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+26.8	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+28.9	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+31	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+33.1	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+35.2	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+37.3	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+39.4	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+41.5	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+43.6	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+45.7	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+47.8	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+49.9	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+52	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+54.1	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+56.2	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+58.3	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+60.4	ArmorStand	hmGhost10	Position	ARM_RIGHT	-75,-10,0	2
+62.5	ArmorStand	hmGhost10	Position	ARM_RIGHT	-55,-10,0	2
+#Hand
+0	ArmorStand	hmGhostHand1	Spawn	-252.5,41.9,-1778.4,0
+0.1	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	180,0,0	0.5
+0.1	ArmorStand	hmGhostHand1	Position	HEAD	180,0,0	0.5
+10	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+13.1	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+16.2	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+19.3	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+22.4	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+25.5	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+28.6	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+25.7	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+28.8	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+31.9	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+35	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+38.1	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+41.2	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+44.3	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+47.4	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+50.5	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+53.6	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+56.7	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+59.8	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	160,0,0	3
+62.9	ArmorStand	hmGhostHand1	Position	ARM_RIGHT	200,0,0	3
+#
+0	ArmorStand	hmGhost11	Spawn	-256.0,45.7,-1783.7,-65
+0.1	ArmorStand	hmGhost11	Position	LEG_LEFT	-50,0,0	0.5
+0.1	ArmorStand	hmGhost11	Position	LEG_RIGHT	-50,0,0	0.5
+0.1	ArmorStand	hmGhost11	Position	ARM_RIGHT	-50,0,0	0.5
+0.1	ArmorStand	hmGhost11	Position	HEAD	20,10,0	0.5
+#
+0	ArmorStand	hmGhost12	Spawn	-256.6,43,-1782.5,-90
+0.1	ArmorStand	hmGhost12	Position	LEG_LEFT	-20,0,0	0.5
+0.1	ArmorStand	hmGhost12	Position	LEG_RIGHT	-20,0,0	0.5
+0.1	ArmorStand	hmGhost12	Position	ARM_LEFT	0,0,-90	0.5
+0.1	ArmorStand	hmGhost12	Position	ARM_RIGHT	-40,0,0	0.5
+##
+0	ArmorStand	hmGhost13	Spawn	-253.2,42.8,-1786.5,-90
+0.1	ArmorStand	hmGhost13	Position	LEG_LEFT	-50,0,0	0.5
+0.1	ArmorStand	hmGhost13	Position	LEG_RIGHT	-50,0,0	0.5
+0.1	ArmorStand	hmGhost13	Position	ARM_RIGHT	-90,0,0	0.5
+0.1	ArmorStand	hmGhost13	Position	ARM_LEFT	-20,0,0	0.5
+##
+0	ArmorStand	hmGhost14	Spawn	-247.2,43.5,-1788,90
+0.1	ArmorStand	hmGhost14	Position	ARM_LEFT	0,0,-130	0.5
+##
+0	ArmorStand	hmKnight1	Spawn	-246.126,44,-1794.211,23
+0.1	ArmorStand	hmKnight1	Position	HEAD	-10,0,20	0.5
+0.1	ArmorStand	hmKnight1	Position	ARM_LEFT	-10,0,0	0.5
+##
+0	ArmorStand	hmOldPerson1	Spawn	-247.8,43.5,-1794.5
+0.1	ArmorStand	hmOldPerson1	Position	ARM_RIGHT	-40,0,0	0.5
+0.1	ArmorStand	hmOldPerson1	Position	HEAD	0,20,0	0.5
+##
+0	ArmorStand	hmOldPerson2	Spawn	-245.398,44,-1792.6,52.4
+0.1	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-140,0,30	0.5
+0.1	ArmorStand	hmOldPerson2	Position	ARM_RIGHT	-140,0,-30	0.5
+10	ArmorStand	hmOldPerson2	Position	HEAD	-20,0,0	4
+12	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	3
+12	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	3
+16	ArmorStand	hmOldPerson2	Position	HEAD	-20,-20,0	3
+16	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-100,0,30	3
+20	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	5
+20	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	5
+24	ArmorStand	hmOldPerson2	Position	HEAD	-20,-20,0	5
+24	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-100,0,30	5
+28	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	5
+28	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	5
+32	ArmorStand	hmOldPerson2	Position	HEAD	-20,-20,0	6
+32	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-100,0,30	6
+36	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	6
+36	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	6
+40	ArmorStand	hmOldPerson2	Position	HEAD	-20,-20,0	6
+40	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-100,0,30	6
+44	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	6
+44	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	6
+48	ArmorStand	hmOldPerson2	Position	HEAD	-20,-20,0	7
+48	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-100,0,30	7
+52	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	7
+52	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	7
+56	ArmorStand	hmOldPerson2	Position	HEAD	-20,-20,0	7
+56	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-100,0,30	7
+60	ArmorStand	hmOldPerson2	Position	HEAD	-20,20,0	7
+60	ArmorStand	hmOldPerson2	Position	ARM_LEFT	-180,0,30	7
+#
+0	ArmorStand	hmOldPerson2a	Spawn	-244.428,44,-1793.285,48
+0.1	ArmorStand	hmOldPerson2a	Position	BODY	-10,0,0	0.5
+0.1	ArmorStand	hmOldPerson2a	Position	ARM_LEFT	-110,0,0	0.5
+0.1	ArmorStand	hmOldPerson2a	Position	ARM_RIGHT	-20,0,40	0.5
+##Raven
+0	ArmorStand	hmraven3	Spawn	-254.976,47.75,-1790.5,-78.6
+0.1	ArmorStand	hmraven3	Position	LEG_LEFT	60,0,0	0.5
+0.1	ArmorStand	hmraven3	Position	LEG_RIGHT	60,0,0	0.5
+0.1	ArmorStand	hmraven3	Position	ARM_LEFT	90,0,0	0.5
+0.1	ArmorStand	hmraven3	Position	ARM_RIGHT	90,0,0	0.5
+10	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+14	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+17	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+20	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+23	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+26	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+29	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+32	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+35	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+38	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+41	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+44	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+47	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+50	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+53	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+56	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+59	ArmorStand	hmraven3	Position	HEAD	0,-40,0	10
+62	ArmorStand	hmraven3	Position	HEAD	0,40,0	10
+###Despawn
+65	ArmorStand	hmOldPerson1	Despawn
+65	ArmorStand	hmOwl1	Despawn
+65	ArmorStand	hmOwl2	Despawn
+65	ArmorStand	hmGhost1	Despawn
+65	ArmorStand	hmGhost2	Despawn
+65	ArmorStand	hmGhost3	Despawn
+65	ArmorStand	hmGhost4	Despawn
+65	ArmorStand	hmGhost5	Despawn
+65	ArmorStand	hmGhost6	Despawn
+65	ArmorStand	hmGhost7	Despawn
+65	ArmorStand	hmGhost8	Despawn
+65	ArmorStand	hmGhost9	Despawn
+65	ArmorStand	hmGhost10	Despawn
+65	ArmorStand	hmGhost11	Despawn
+65	ArmorStand	hmGhost12	Despawn
+65	ArmorStand	hmGhost13	Despawn
+65	ArmorStand	hmGhost14	Despawn
+65	ArmorStand	hmGhostDog1	Despawn
+65	ArmorStand	hmGhostDog2	Despawn
+65	ArmorStand	hmCat1	Despawn
+65	ArmorStand	hmCat2	Despawn
+65	ArmorStand	hmCat3	Despawn
+65	ArmorStand	hmOldPerson2	Despawn
+65	ArmorStand	hmOldPerson2a	Despawn
+65	ArmorStand	hmKnight1	Despawn
+65	ArmorStand	hmGStatue1	Despawn
+65	ArmorStand	hmGStatue2	Despawn
+65	ArmorStand	hmGStatue3	Despawn
+65	ArmorStand	hmGStatue4	Despawn
+65	ArmorStand	hmGStatue4a	Despawn
+65	ArmorStand	hmGStatue5	Despawn
+65	ArmorStand	hmGhostSwing1	Despawn
+65	ArmorStand	hmGhostHand1	Despawn
+65	ArmorStand	hmraven3	Despawn

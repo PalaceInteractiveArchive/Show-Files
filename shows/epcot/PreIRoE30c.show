@@ -1,0 +1,133 @@
+﻿Show	Location	-79,63,2986
+Show	TextRadius	100
+#Musics
+Show	Name	WSL
+0	AudioStart	preiroe1
+2	AudioSync	preiroe1	2
+11	AudioSync	preiroe1	11
+177.4	AudioSync	preiroe1	177.4
+404.7	AudioSync	preiroe1	404.7
+652.7	AudioSync	preiroe1	652.7
+790.7	AudioSync	preiroe1	790.7
+897.3	AudioSync	preiroe1	897.3
+1133.4	AudioSync	preiroe1	1133.4
+1346.3	AudioSync	preiroe1	1346.3
+1478.1	AudioSync	preiroe1	1478.1
+1651.7	AudioSync	preiroe1	1651.7
+#Tag stuff
+300	Block	152	-105,35,2995
+301	Block	0	-105,35,2995
+600	Block	152	-105,35,2995
+601	Block	0	-105,35,2995
+900	Block	152	-105,35,2995
+901	Block	0	-105,35,2995
+1200	Block	152	-105,35,2995
+1201	Block	0	-105,35,2995
+1500	Block	152	-105,35,2995
+1501	Block	0	-105,35,2995
+929.9	Block	152	-106,36,2995
+931	Block	0	-106,36,2995
+1207.5	Block	152	-106,36,2995
+1208	Block	0	-106,36,2995
+1530.3	Block	152	-106,36,2995
+1531	Block	0	-106,36,2995
+1672.7	Block	152	-106,36,2995
+1674	Block	0	-106,36,2995
+#Time in dummy files Chatmute <
+1780	Block	20	-106,37,2995
+1785	Block	152	-106,37,2995
+1786	Block	20	-106,37,2995
+#Setup next show, glass a's stone b's
+0.5	Block	1	-105,34,3010
+0.5	Block	1	-104,34,3010
+0.5	Block	1	-103,34,3010
+0.5	Block	20	-105,34,3006
+0.5	Block	20	-104,34,3006
+0.5	Block	20	-103,34,3006
+#Text
+21.6	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N30 minutes&3, we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth. &3Thank you.
+60	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+150	Text	&3Ladies and gentlemen, for your safety and the consideration of our Guests and Cast Members, please refrain from climbing over the safety rails or entering the lake to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
+240	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+300	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N25 minutes&3, we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth. &3Thank you.
+330	Text	&3Ladies and gentlemen, for your safety and the consideration of our Guests and Cast Members, please refrain from climbing over the safety rails or entering the lake to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
+420	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+510	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
+600	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N20 minutes&3, we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth. &3Thank you.
+690	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open, type &a/audio&3.
+780	Text	&3Ladies and gentlemen, for your safety and the consideration of our Guests and Cast Members, please refrain from climbing over the safety rails or entering the lake to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
+870	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+870	Block	152	-105,36,2995
+871	Block	0	-105,36,2995
+900.1	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to world showcase lagoon and in just &6&L&N15 minutes&3, we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth&3, presented by Sylvania, a Siemens Company.
+915.9	Text	&2Because of lower light levels during the show, please watch your step and take small children by the hand.
+922.1	Text	&3Get ready because tonight's &9&OIlluminations: &O&AReflections of Earth &3will begin in just &6&L&N15 minutes&3. Thank you!
+960	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
+1050	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+1140	Text	&3Ladies and gentlemen, for your safety and the consideration of our Guests and Cast Members, please refrain from climbing over the safety rails or entering the lake to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
+1170	Block	152	-104,36,2995
+1171	Block	0	-104,36,2995
+1200.1	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N10 minutes&3, we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth. &3Thank you.
+1230	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
+1320	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+1410	Text	&3Ladies and gentlemen, for your safety and the consideration of our Guests and Cast Members, please refrain from climbing over the safety rails or entering the lake to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
+1470	Block	152	-103,36,2995
+1471	Block	0	-103,36,2995
+1500	Text	&3Ladies and gentlemen, EPCOT welcomes you and we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth&3, presented by Sylvania, a Siemens Company.
+1510.7	Text	&3This spectacular celebration can experienced all around World showcase lagoon.
+1516.2	Text	&2Because of lower light levels during the show, we ask that you please watch your step and take small children by the hand.
+1523	Text	&3Tonight's &9&OIlluminations: &O&AReflections of Earth &3will begin in just &6&L&N5 minutes&3. Thank you!
+1560	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+1620	Text	&3Ladies and gentlemen, once again, for your safety and the consideration of our Guests and Cast Members, please refrain from sitting on or climbing over the safety rails to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
+1650	Block	152	-102,36,2995
+1651	Block	0	-102,36,2995
+1680	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
+1740	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
+1785	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
+#Torches
+0	Block	20	-105,42,3002
+0	Block	152	-105,43,3002
+1170.9	Block	152	-105,41,3002
+1170.9	Block	152	-105,42,3002
+#Lights
+0	Block	95:12	-38,63,2965
+0	Block	95:12	-45,63,2963
+0	Block	95:12	-45,63,2956
+0	Block	95:12	-125,63,2965
+0	Block	95:12	-118,63,2963
+0	Block	95:12	-118,63,2956
+0	Block	138	-38,66,2981
+0	Block	138	-48,67,2977
+0	Block	138	-121,66,2981
+0	Block	138	-111,67,2977
+0	Block	138	-91,66,2989
+0	Block	138	-68,66,2989
+0	Block	138	-98,66,2987
+0	Block	138	-61,66,2987
+0	Block	138	-94,66,2983
+0	Block	138	-65,66,2983
+0	Block	138	-85,66,2974
+0	Block	138	-74,66,2974
+0	Block	138	-81,67,2952
+0	Block	138	-78,67,2952
+0	Block	138	-111,67,2945
+0	Block	138	-52,67,2945
+0	Block	138	-97,67,2942
+0	Block	138	-62,67,2942
+0	Block	138	-86,67,2930
+0	Block	138	-73,67,2930
+0	Block	89	-50,63,2951
+0	Block	89	-114,63,2951
+0	Block	89	-53,63,2962
+0	Block	89	-110,63,2962
+0	Block	89	-113,63,2969
+0	Block	89	-50,63,2969
+0	Block	89	-40,63,2972
+0	Block	89	-123,63,2972
+0	Block	89	-35,63,2972
+0	Block	89	-132,63,2972
+#Start
+1807.1	Block	152	-97,34,3016
+1808	Block	0	-97,34,3016
+1804.9	Block	152	-106,33,2995
+1806	Block	0	-106,33,2995

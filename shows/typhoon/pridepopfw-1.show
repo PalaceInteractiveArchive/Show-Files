@@ -1,0 +1,9 @@
+Show	Location	1083,65,3956
+
+#Effects    
+Effect  b1  BURST,PURPLE&LIME&RED&BLUE&YELLOW,WHITE,FLICKER,TRAIL
+
+
+##FW
+0   PowerFirework   1090,66,3955   b1  -2,1,0
+0   PowerFirework   1076,66,3955   b1  2,1,0

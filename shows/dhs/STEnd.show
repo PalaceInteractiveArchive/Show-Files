@@ -1,0 +1,132 @@
+﻿Show	Location	87,67,1043
+Show	TextRadius	25
+#ArmorStandsDefine
+ArmorStand	c3po2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWZlYzk5MTg5MWY0MTQzZDQwZjAxM2I5OGRjMzhkYzUzZWQxNGNhNzVlYmQzMjg2NmVmYjEyNmEzMjg0MmExIn19fQ==";299(221,224,60);300(221,224,60);301(221,224,60)
+ArmorStand	robotE	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM0ZTIxYTAyNTM3ZDk5MzBkMDk0MGExNmFiYTUwZjNkYjk4MWRmYWNhY2IzZTUwZmExZGZlNDIzMzFkOWVjMCJ9fX0=";299(89,93,99);300(71,68,68);301(43,40,40)
+ArmorStand	pickthrow	true	0;0;0;0
+#ArmorStandSpawn
+0	ArmorStand	pickthrow	Spawn	-28.5,68,746.5
+0.2	Block	152	-39,65,742
+0	ArmorStand	robotE	Spawn	-27.5,68.5,746.311
+0.1	Block	152	-39,65,745
+0	ArmorStand	c3po2	Spawn	-32.5,67.2,748.425
+0.1	Block	152	-39,65,747
+0.1	ArmorStand	robotE	Position	HEAD	10,0,0	0.1
+0.1	ArmorStand	robotE	Position	ARM_LEFT	-40,0,0	0.1
+0.1	ArmorStand	robotE	Position	ARM_RIGHT	-40,0,0	0.1
+#RobotMove
+0.5	ArmorStand	robotE	Position	ARM_RIGHT	-80,0,0	0.5
+1	ArmorStand	robotE	Position	ARM_RIGHT	-40,0,0	0.5
+1.5	ArmorStand	robotE	Position	ARM_RIGHT	-80,0,0	0.5
+2	ArmorStand	robotE	Position	ARM_RIGHT	-40,0,0	0.5
+2.5	ArmorStand	robotE	Position	ARM_RIGHT	-20,0,0	0.5
+2.5	ArmorStand	robotE	Position	ARM_LEFT	-20,0,0	0.5
+2.5	ArmorStand	robotE	Position	HEAD	0,0,0	0.5
+2.5	ArmorStand	robotE	Rotate	-100	0.5
+3.2	ArmorStand	robotE	Position	ARM_RIGHT	-120,30,0	0.6
+3.2	ArmorStand	robotE	Position	ARM_LEFT	-120,-30,0	0.6
+3.2	ArmorStand	robotE	Position	HEAD	-30,0,0	0.6
+3.8	ArmorStand	robotE	Position	HEAD	0,0,0	0.2
+3.8	ArmorStand	robotE	Position	ARM_LEFT	-20,0,0	0.2
+4	ArmorStand	robotE	Position	ARM_RIGHT	-20,0,0	1
+5.5	ArmorStand	robotE	Position	HEAD	10,0,0	0.6
+6	ArmorStand	robotE	Position	HEAD	-10,0,0	0.6
+5.5	ArmorStand	robotE	Position	ARM_RIGHT	-60,30,0	0.6
+6.5	ArmorStand	robotE	Position	HEAD	10,0,0	0.6
+7	ArmorStand	robotE	Position	HEAD	0,0,0	0.6
+6.5	ArmorStand	robotE	Position	ARM_RIGHT	-20,0,0	0.6
+8	ArmorStand	robotE	Position	ARM_RIGHT	-60,-30,0	0.5
+8	ArmorStand	robotE	Position	ARM_LEFT	-60,30,0	0.5
+8.2	Block	152	-37,65,739
+8.8	ArmorStand	robotE	Position	ARM_RIGHT	-100,-30,0	0.5
+8.8	ArmorStand	robotE	Position	ARM_LEFT	-100,30,0	0.5
+9	Block	152	-39,65,739
+9.4	ArmorStand	robotE	Position	ARM_RIGHT	-20,0,0	0.5
+9.4	ArmorStand	robotE	Position	ARM_LEFT	-20,0,0	0.5
+#Throw
+4.6	Block	152	-39,65,739
+4.5	ArmorStand	pickthrow	Position	HEAD	0,0,180	0.5
+5	ArmorStand	pickthrow	Position	HEAD	0,0,0	0.5
+5.5	ArmorStand	pickthrow	Position	HEAD	0,0,180	0.5
+4.5	ArmorStand	pickthrow	Move	-30.5,66,749.5	1
+6.5	ArmorStand	pickthrow	Despawn
+#PaintOn
+9	Block	152	-37,65,740
+9.2	Block	95:4	-32,69,749
+9.2	Block	95:4	-31,68,750
+9.2	Block	95:4	-32,67,749
+9.2	Block	160:4	-33,68,749
+9.2	Block	160:4	-32,68,749
+9.2	Block	160:4	-31,68,749
+9.2	Block	160:4	-32,68,750
+#WalkAway
+11.5	ArmorStand	robotE	Position	LEG_LEFT	-20,0,0	0.5
+11.5	ArmorStand	robotE	Position	LEG_RIGHT	20,0,0	0.5
+12	ArmorStand	robotE	Position	LEG_LEFT	20,0,0	0.5
+12	ArmorStand	robotE	Position	LEG_RIGHT	-20,0,0	0.5
+12.5	ArmorStand	robotE	Position	LEG_LEFT	-20,0,0	0.5
+12.5	ArmorStand	robotE	Position	LEG_RIGHT	20,0,0	0.5
+13	ArmorStand	robotE	Position	LEG_LEFT	20,0,0	0.5
+13	ArmorStand	robotE	Position	LEG_RIGHT	-20,0,0	0.5
+10.5	ArmorStand	robotE	Rotate	-75	1
+11.5	ArmorStand	robotE	Move	-27.5,68.5,747.0110	0.5
+12	ArmorStand	robotE	Move	-27.5,67.0,748.5110000000002	1.5
+13.2	ArmorStand	robotE	Despawn
+#PartFall
+3.5	Block	0	-29,68,746
+3.5	Block	163:0	-29,67,746
+#C3POMove
+0.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+1	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+1.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+2	ArmorStand	c3po2	Position	HEAD	0,0,0	0.6
+2.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+3	ArmorStand	c3po2	Position	HEAD	0,0,0	0.6
+5	ArmorStand	c3po2	Rotate	-10	1
+6.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+7	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+7.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+8	ArmorStand	c3po2	Position	HEAD	0,0,0	0.6
+10.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+11	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+11.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+11.5	ArmorStand	c3po2	Position	ARM_RIGHT	-60,0,0	0.6
+12	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+12.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+13	ArmorStand	c3po2	Position	HEAD	0,0,0	0.6
+13	ArmorStand	c3po2	Position	ARM_RIGHT	-20,0,0	0.6
+14	ArmorStand	c3po2	Rotate	130	1
+14.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+15	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+15.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+16	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+16.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
+17	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
+17.5	ArmorStand	c3po2	Position	HEAD	0,0,0	0.6
+#CloseDoors
+17	Block	35:8	-31,68,750
+17	Block	48	-32,68,749
+17	Block	35:8	-33,68,748
+18	Block	48	-31,69,750
+18	Block	35:8	-32,69,749
+18	Block	48	-33,69,748
+17	Block	0	-33,68,749
+17	Block	0	-32,68,750
+#Bal,RC,Honor
+16	Block	152	-33,65,738
+17	Block	152	-33,65,739
+18	Block	152	-33,65,740
+#Reset
+18.5	Block	152	-39,65,737
+18.5	Block	145:8	-29,67,746
+18.5	Block	126:4	-29,68,746
+18.5	Block	0	-31,68,749
+18.5	Block	0	-32,67,749
+20	Block	0	-31,68,750
+20	Block	0	-32,68,749
+20	Block	0	-33,68,748
+20	Block	0	-31,69,750
+20	Block	0	-32,69,749
+20	Block	0	-33,69,748
+20	Block	0	-32,68,750
+20	Block	0	-33,68,749

@@ -1,0 +1,42 @@
+﻿Show	Location	-261,44,-1793
+Show	TextRadius	30
+#Define
+ArmorStand	hmVehicle1	false	359:47;0;0;0;0
+ArmorStand	hmVehicle2	false	359:47;0;0;0;0
+ArmorStand	hmGus2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2FkYmU1MmMzOTZjZWI4YzBiODZiNzM2NzU4YjdkMTQ5ZjU3ZmZkM2U0NDhmMmU3NGNmZDAzMzk2NmU1ZTUzZiJ9fX0=";299(55,55,183);300(197,198,233);301(197,198,233);0
+ArmorStand	hmEzra2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg5MThkMGIzNmU3YTdiYWViYjYzMjQ2MDkwYjZlOWRkODU0YzA3ZTljN2Q3ZmNhMzNmMTU1ZmVjNzY2NTM3ZSJ9fX0=";299(55,55,183);300(55,55,183);301(197,198,233);0
+#Spawn
+0	ArmorStand	hmVehicle1	Spawn	-258.8,43,-1782.5,180
+0	ArmorStand	hmVehicle2	Spawn	-258.8,43,-1782.5,180
+0	ArmorStand	hmGus2	Spawn	-258.8,43,-1782.5,180
+0.1	ArmorStand	hmGus2	Position	LEG_RIGHT	-55,20,0	0.5
+0.1	ArmorStand	hmGus2	Position	LEG_LEFT	-55,-20,0	0.5
+0	ArmorStand	hmEzra2	Spawn	-258.8,43,-1782.5,180
+0.1	ArmorStand	hmEzra2	Position	LEG_RIGHT	-65,20,0	0.5
+0.1	ArmorStand	hmEzra2	Position	LEG_LEFT	-65,-20,0	0.5
+0.1	Block	152	-263,42,-1779
+0.9	Block	152	-263,42,-1779
+10	ArmorStand	hmEzra2	Position	ARM_RIGHT	-150,0,0	3
+14	ArmorStand	hmEzra2	Position	ARM_RIGHT	0,0,0	2
+16	ArmorStand	hmEzra2	Position	HEAD	20,0,0	2
+1	ArmorStand	hmGus2	Position	HEAD	0,0,20	2
+3.1	ArmorStand	hmGus2	Position	HEAD	0,0,-20	2
+5.2	ArmorStand	hmGus2	Position	HEAD	0,0,0	2
+7	ArmorStand	hmGus2	Position	HEAD	40,0,0	2
+7	ArmorStand	hmGus2	Position	ARM_LEFT	-30,0,0	2
+7	ArmorStand	hmGus2	Position	ARM_RIGHT	-30,0,0	2
+7.1	Block	152	-261,44,-1778
+12	Block	0	-261,44,-1778
+0	Block	152	-261,42,-1778
+24	Block	0	-261,42,-1778
+8.4	ArmorStand	hmGus2	Position	HEAD	0,0,0	2
+8.4	ArmorStand	hmGus2	Position	ARM_RIGHT	0,0,0	2
+8.4	ArmorStand	hmGus2	Position	ARM_LEFT	0,0,0	2
+#Move
+1	ArmorStand	hmVehicle1	Move	-269,43,-1781.5	15
+7	ArmorStand	hmVehicle2	Move	-269,43,-1781.5	17
+#Despawn
+17	ArmorStand	hmVehicle1	Despawn
+24	ArmorStand	hmVehicle2	Despawn
+17	ArmorStand	hmGus2	Despawn
+24	ArmorStand	hmEzra2	Despawn

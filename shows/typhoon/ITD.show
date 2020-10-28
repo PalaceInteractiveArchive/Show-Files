@@ -1,0 +1,71 @@
+#Show Started May 19th, 2017
+Show	Location	1539,63,3658
+Show	TextRadius	50
+Show	Name	ITD
+#Audio
+0	AudioStart	itd
+5	AudioSync	itd	5
+10	AudioSync	itd	10
+30	AudioSync	itd	30
+60	AudioSync	itd	60
+120	AudioSync	itd	120
+180	AudioSync	itd	180
+240	AudioSync	itd	240
+300	AudioSync	itd	300
+360	AudioSync	itd	360
+420	AudioSync	itd	420
+480	AudioSync	itd	480
+#Text	
+#Intro
+2.1	Text	&9Within each of us
+3.6	Text	&9is a dreamer, 
+4.8	Text	&9just waiting to be awaken.
+7.4	Text	&9We all have the &e&l&omagic &9to unlock this inner child,
+12	Text	&9but sometimes that inner child needs an invitation to come out and play.
+18.4	Text	&9This is your invitation...
+21.2	Text	&9To &6&lDream.
+48.3	Text	&bA dream is a wish your heart makes
+53.7	Text	&bWhen you're fast asleep
+58.9	Text	&bIn dreams you will lose your heartaches
+64.3	Text	&bWhatever you wish for, you keep
+69.6	Text	&bYou wake with the morning sunlight
+74.6	Text	&bTo find fortune that is smiling on you
+79.6	Text	&bDon't let your heart be filled with sorrow
+83	Text	&bFor all you know, tomorrow
+85.6	Text	&bThe dream that you wish will come true!
+104.4	Text	&b&oA dream is a &ewish...
+#Circle of Life
+115.6	Text	&6Nants ingonyama
+120.9	Text	&6&lNants ingonyama
+126.5	Text	&6&l&oNants ingonyama
+136.1	Text	&eFrom the day we arrived on the planet
+141.5	Text	&eAnd blinking, step into the &6sun
+146.6	Text	&eThere's more to see than can ever be seen
+151.5	Text	&eMore to do than can ever be done
+155.2	Text	&eIt's the &6Circle of Life!
+160.4	Text	&eAnd it moves us all
+165.4	Text	&eThrough despair and hope
+170.9	Text	&eThrough faith and love
+175.6	Text	&eTill we find our place
+180.8	Text	&eOn the path unwinding
+186.7	Text	&eIn the circle
+191.3	Text	&eThe &6Circle of - &lLife!
+#Can you feel the love tonight
+214.5	Text	&5There's a calm surrender
+217.6	Text	&5To the rush of day
+220.7	Text	&5When the heat of a rolling wind
+223.9	Text	&5Can be turned away
+227.2	Text	&5An &9enchanted &5moment
+230.3	Text	&5And it sees me through
+233.4	Text	&5It's enough for this restless warrior
+237	Text	&5Just to be with you
+239.7	Text	&dCan you feel the love tonight?
+246.5	Text	&5The peace the evening brings
+252	Text	&5The world for once
+255.1	Text	&5In perfect harmony
+258.6	Text	&5With all it's living things
+265	Text	&dCan you feel the love tonight?
+271.7	Text	&5You needn't look too far
+277.7	Text	&5Stealing through
+280.4	Text	&5The night's uncertainties
+283.9	Text	&5&oLove is where they are...

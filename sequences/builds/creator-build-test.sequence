@@ -1,0 +1,5 @@
+Sequence	Build
+Build	mickey-1-test-cd
+0	mickey-1-test-cd	Spawn	-312,71 ,123
+1	mickey-1-test-cd	Move	-312,75,-123	2000
+25	mickey-1-test-cd	Despawn

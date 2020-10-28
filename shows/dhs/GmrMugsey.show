@@ -1,0 +1,361 @@
+﻿Show	Location	-247,63,323
+Show	Name	GMR1
+ArmorStand	gmrguide2	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2MDc5NzM4NzQsInByb2ZpbGVJZCI6ImViOTU0OGFkZWRiZTRhMWI4NWRmZDM4ZTA1NjFiYWMzIiwicHJvZmlsZU5hbWUiOiJIZWxvcG9oIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsibWV0YWRhdGEiOnsibW9kZWwiOiJzbGltIn0sInVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIyOThkNDkyMzhlNGE2MWI1YzQzMGU3ZjhiNGQ0MWUzYzk3ODRlNDdkZTNkY2I2YWQ2NTg0ODk4N2Y4NDhlMCJ9fX0=;299(153,153,153);300(25,25,25);301(25,25,25)
+ArmorStand	gmrmugsey1	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbGVJZCI6ImU4MjI3ZmJhMzRiMDRhNDdiZWVmZTlmZGViYjY1NTkyIiwicHJvZmlsZU5hbWUiOiJHcmFpbE1vcmUiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MjI4YjMzMWJlMmYyMTkzNzRjYTJlZjgwOGI2ZDQ1YzA4ZThmMGE0MzQ2OWE3YTc3MmUzOTRmMWVmOTg3In0sIkNBUEUiOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMmRiOTM4YWJhYzQ0NGZmMzE1Yjk1ZTk1OTAxODRlMGUyZmU4OTQxZmRmZjU1OWE0YWI5NmNkNTRiY2RkIn19fQ==;299(25,25,25);300(25,25,25);301(25,25,25)
+0	AudioStart	gmrmugsey
+0	AudioSync	gmrmugsey	0
+2	AudioSync	gmrmugsey	2
+5	AudioSync	gmrmugsey	5
+10	AudioSync	gmrmugsey	10
+30	AudioSync	gmrmugsey	30
+60	AudioSync	gmrmugsey	60
+6.4	Block	152	-248,62,331
+7	Block	20	-248,62,331
+57.8	Block	152	-248,64,331
+58.3	Block	20	-248,64,331
+0	Block	95:15	-256,64,320
+0	Block	95:15	-256,64,321
+0	Block	95:15	-255,64,320
+0	Block	95:15	-255,64,321
+47	Block	20	-256,64,320
+47	Block	20	-256,64,321
+47	Block	20	-255,64,320
+47	Block	20	-255,64,321
+69.5	Block	95:15	-256,64,320
+69.5	Block	95:15	-256,64,321
+69.5	Block	95:15	-255,64,320
+69.5	Block	95:15	-255,64,321
+52.3	Block	152	-246,60,325
+69.5	Block	20	-246,60,325
+12	ArmorStand	gmrguide2	Spawn	-252.5,62.0,324.5
+#entitydata @e[type=ArmorStand,c=1,r=5] {Pose:{Body:[0.0f,0.0f,0.0f],RightLeg:[-5.0f,0.0f,0.0f],LeftLeg:[0.0f,0.0f,0.0f],RightArm:[-85.0f,-35.0f,-10.0f],LeftArm:[-15.0f,0.0f,-20.0f],Head:[-3.0f,0.0f,0.0f]}}
+12.05	Block	152	-252,60,324
+13	Block	20	-252,60,324
+13.7	ArmorStand	gmrguide2	Position	ARM_LEFT	-105,-90,0	1.4
+14.3	ArmorStand	gmrguide2	Position	HEAD	-3,0,10	0.5
+14.8	ArmorStand	gmrguide2	Position	HEAD	-3,0,0	0.5
+15.1	ArmorStand	gmrguide2	Position	ARM_LEFT	-15,0,-20	0.9
+17.4	ArmorStand	gmrguide2	Position	HEAD	-3,-10,0	0.6
+18.4	ArmorStand	gmrguide2	Position	HEAD	-3,0,0	0.6
+24.3	ArmorStand	gmrguide2	Position	ARM_Right	-45,0,20	0.7
+24.3	ArmorStand	gmrguide2	Position	HEAD	15,0,0	0.7
+24.3	ArmorStand	gmrguide2	Position	BODY	3,0,0	0.7
+27.7	ArmorStand	gmrguide2	Position	ARM_Right	-15,0,20	0.7
+27.7	ArmorStand	gmrguide2	Position	HEAD	-23,0,0	0.7
+27.7	ArmorStand	gmrguide2	Position	BODY	0,0,0	0.7
+29	ArmorStand	gmrguide2	Position	HEAD	3,0,0	0.8
+30.1	ArmorStand	gmrguide2	Position	HEAD	6,0,0	0.6
+30.1	ArmorStand	gmrguide2	Position	Body	4,0,1	0.3
+30.1	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.3
+30.1	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.3
+30.1	ArmorStand	gmrguide2	Position	LEG_LEFT	10,0,0	0.3
+30.1	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.3
+30.4	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+30.4	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+30.4	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+30.4	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+30.4	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+31	ArmorStand	gmrguide2	Position	Body	4,0,1	0.6
+31	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.6
+31	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.6
+31	ArmorStand	gmrguide2	Position	LEG_LEFT	35,0,0	0.6
+31	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.6
+31.6	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+31.6	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+31.6	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+31.6	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+31.6	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+32.2	ArmorStand	gmrguide2	Position	Body	4,0,1	0.6
+32.2	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.6
+32.2	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.6
+32.2	ArmorStand	gmrguide2	Position	LEG_LEFT	35,0,0	0.6
+32.2	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.6
+32.8	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+32.8	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+32.8	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+32.8	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+32.8	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+33.4	ArmorStand	gmrguide2	Position	Body	4,0,1	0.6
+33.4	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.6
+33.4	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.6
+33.4	ArmorStand	gmrguide2	Position	LEG_LEFT	35,0,0	0.6
+33.4	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.6
+34	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+34	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+34	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+34	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+34	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+34.6	ArmorStand	gmrguide2	Position	Body	4,0,1	0.6
+34.6	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.6
+34.6	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.6
+34.6	ArmorStand	gmrguide2	Position	LEG_LEFT	35,0,0	0.6
+34.6	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.6
+35.2	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+35.2	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+35.2	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+35.2	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+35.2	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+35.8	ArmorStand	gmrguide2	Position	HEAD	-2,-35,0	0.3
+35.8	ArmorStand	gmrguide2	Position	Body	0,0,0	0.3
+35.8	ArmorStand	gmrguide2	Position	ARM_LEFT	-15,0,-20	0.3
+35.8	ArmorStand	gmrguide2	Position	ARM_RIGHT	-15,0,20	0.3
+35.8	ArmorStand	gmrguide2	Position	LEG_LEFT	0,0,0	0.3
+35.8	ArmorStand	gmrguide2	Position	LEG_RIGHT	-5,0,0	0.3
+43.7	ArmorStand	gmrguide2	Position	HEAD	-3,-35,0	0.7
+43.7	ArmorStand	gmrguide2	Position	ARM_LEFT	-55,10,30	0.7
+43.7	ArmorStand	gmrguide2	Position	ARM_RIGHT	-55,-10,-30	0.7
+46.4	ArmorStand	gmrguide2	Position	HEAD	0,0,0	0.5
+46.4	ArmorStand	gmrguide2	Position	ARM_LEFT	-85,0,20	0.5
+46.4	ArmorStand	gmrguide2	Position	ARM_RIGHT	-85,-0,-20	0.5
+46.9	ArmorStand	gmrguide2	Position	HEAD	-3,-30,0	0.5
+46.9	ArmorStand	gmrguide2	Position	ARM_LEFT	-15,0,-20	0.5
+46.9	ArmorStand	gmrguide2	Position	ARM_RIGHT	-15,0,20	0.5
+50.9	ArmorStand	gmrguide2	Position	HEAD	6,0,0	0.6
+50.9	ArmorStand	gmrguide2	Position	Body	4,0,1	0.3
+50.9	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.3
+50.9	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.3
+50.9	ArmorStand	gmrguide2	Position	LEG_LEFT	10,0,0	0.3
+50.9	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.3
+51.2	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+51.2	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+51.2	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+51.2	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+51.2	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+51.8	ArmorStand	gmrguide2	Position	Body	4,0,1	0.3
+51.8	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.3
+51.8	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.3
+51.8	ArmorStand	gmrguide2	Position	LEG_LEFT	35,0,0	0.3
+51.8	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.3
+52.4	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+52.4	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+52.4	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+52.4	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+52.4	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+53	ArmorStand	gmrguide2	Position	Body	4,0,1	0.3
+53	ArmorStand	gmrguide2	Position	ARM_LEFT	-25,0,-20	0.3
+53	ArmorStand	gmrguide2	Position	ARM_RIGHT	-5,0,20	0.3
+53	ArmorStand	gmrguide2	Position	LEG_LEFT	35,0,0	0.3
+53	ArmorStand	gmrguide2	Position	LEG_RIGHT	-35,0,0	0.3
+53.6	ArmorStand	gmrguide2	Position	Body	4,0,-1	0.6
+53.6	ArmorStand	gmrguide2	Position	ARM_LEFT	-5,0,-20	0.6
+53.6	ArmorStand	gmrguide2	Position	ARM_RIGHT	-25,0,20	0.6
+53.6	ArmorStand	gmrguide2	Position	LEG_LEFT	-35,0,0	0.6
+53.6	ArmorStand	gmrguide2	Position	LEG_RIGHT	35,0,0	0.6
+54.2	ArmorStand	gmrguide2	Despawn
+#12.3	ArmorStand	gmrguide2	Rotate	-102	0.7
+#15.2	ArmorStand	gmrguide2	Rotate	-134	1.2
+15.2	Block	152	-252,59,322
+15.6	Block	20	-252,59,322
+#18	ArmorStand	gmrguide2	Rotate	-172	0.8
+18	Block	152	-251,59,322
+19	Block	20	-251,59,322
+#24	ArmorStand	gmrguide2	Rotate	172	0.8
+24	Block	152	-252,59,322
+25	Block	20	-252,59,322
+#27	ArmorStand	gmrguide2	Rotate	146	1
+27	Block	152	-250,59,322
+28	Block	20	-250,59,322
+30.1	ArmorStand	gmrguide2	Move	-245,62,324	3.8
+#33.7	ArmorStand	gmrguide2	Rotate	45	0.5
+33.7	Block	152	-251,59,322
+34	Block	20	-251,59,322
+33.9	ArmorStand	gmrguide2	Move	-243,63,325	2
+#35.6	ArmorStand	gmrguide2	Rotate	-185	1
+35.6	Block	152	-249,59,322
+36	Block	20	-249,59,322
+#51.5	ArmorStand	gmrguide2	Rotate	-188	0.6
+50.5	Block	152	-248,59,322
+51	Block	20	-248,59,322
+50.9	ArmorStand	gmrguide2	Move	-244,63,329	2
+#Mugsey
+0.5	ArmorStand	gmrmugsey1	Position	HEAD	0,0,1	0.6
+0.5	ArmorStand	gmrmugsey1	Position	ARM_LEFT	-15,0,-16	0.6
+0.5	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	30,0,10	0.6
+0.5	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	0.6
+0.5	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	0,0,0	0.6
+16.5	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	0.4
+16.5	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-25,0,0	0.4
+16.9	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-25,0,0	1
+16.9	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	25,0,0	1
+17.9	ArmorStand	gmrmugsey1	Position	LEG_LEFT	25,0,0	1
+17.9	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-25,0,0	1
+18.9	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-25,0,0	1
+18.9	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	25,0,0	1
+19.9	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	1
+19.9	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	0,0,0	1
+17	ArmorStand	gmrmugsey1	Position	HEAD	7,30,1	0.6
+22.5	ArmorStand	gmrmugsey1	Position	HEAD	7,-10,1	0.8
+23.3	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	180,0,-20	0.6
+24.1	ArmorStand	gmrmugsey1	Position	HEAD	1,0,1	1
+24.2	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	0.5
+24.2	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-25,0,0	0.5
+24.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-25,0,0	1
+24.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	25,0,0	1
+25.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	25,0,0	1
+25.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-25,0,0	1
+26.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-25,0,0	1
+26.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	25,0,0	1
+27.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	25,0,0	1
+27.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-25,0,0	1
+28.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-25,0,0	1
+28.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	25,0,0	1
+29.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	1
+29.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-25,0,0	1
+29.8	ArmorStand	gmrmugsey1	Position	ARM_LEFT	-15,0,-25	0.3
+30.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-25,0,0	1
+30.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	10,0,0	1
+31.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	0.7
+31.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	0,0,0	0.7
+31.8	ArmorStand	gmrmugsey1	Position	HEAD	0,30,1	0.7
+39.5	ArmorStand	gmrmugsey1	Position	ARM_LEFT	-75,-50,0	1
+39.5	ArmorStand	gmrmugsey1	Position	HEAD	0,-5,1	1
+40.6	ArmorStand	gmrmugsey1	Position	ARM_LEFT	-15,0,-20	1
+40.6	ArmorStand	gmrmugsey1	Position	HEAD	0,30,1	1
+49	ArmorStand	gmrmugsey1	Position	HEAD	0,-10,1	0.3
+49.4	ArmorStand	gmrmugsey1	Position	HEAD	0,0,1	0.4
+49.4	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	270,0,0	0.4
+49.4	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	0.3
+49.4	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-35,0,0	0.3
+49.7	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-35,0,0	0.6
+49.7	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	35,0,0	0.6
+50.3	ArmorStand	gmrmugsey1	Position	LEG_LEFT	35,0,0	0.6
+50.3	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-35,0,0	0.6
+50.9	ArmorStand	gmrmugsey1	Position	LEG_LEFT	-35,0,0	0.6
+50.9	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	35,0,0	0.6
+51.5	ArmorStand	gmrmugsey1	Position	LEG_LEFT	35,0,0	0.6
+51.5	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	-35,0,0	0.6
+52.1	ArmorStand	gmrmugsey1	Position	LEG_LEFT	10,0,0	0.3
+52.1	ArmorStand	gmrmugsey1	Position	LEG_RIGHT	0,0,0	0.3
+52.5	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	180,0,-20	0.4
+56.8	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	120,0,0	0.8
+58.5	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	180,0,-20	1
+#Mugsey
+1	Block	152	-253,58,322
+2	Block	20	-253,58,322
+1	Block	152	-248,61,327
+2	Block	35:7	-248,61,327
+0	ArmorStand	gmrmugsey1	Spawn	-244.5,65,329.5
+16.1	ArmorStand	gmrmugsey1	Move	-246.5,65,329.5	3.9
+24.2	Block	152	-252,58,322
+25	Block	20	-252,58,322
+24.2	ArmorStand	gmrmugsey1	Move	-248.2,65,329.5	3.6
+27.8	Block	152	-251,58,322
+29	Block	20	-251,58,322
+27.8	ArmorStand	gmrmugsey1	Move	-248.2,65,327.5	2
+29.8	Block	152	-251,58,322
+31	Block	20	-251,58,322
+29.8	ArmorStand	gmrmugsey1	Move	-248.5,63,325.5	2.6
+49.4	Block	152	-252,58,322
+50	Block	20	-252,58,322
+49.4	ArmorStand	gmrmugsey1	Move	-249.5,63,325.5	0.6
+50	ArmorStand	gmrmugsey1	Move	-250.5,62,325.5	0.6
+50.6	ArmorStand	gmrmugsey1	Move	-252.5,62,324.5	1.4
+52.6	Block	152	-250,58,322
+53	Block	20	-250,58,322
+60.1	Block	152	-252,58,322
+61	Block	20	-252,58,322
+61.1	ArmorStand	gmrmugsey1	Despawn
+#Gangsters
+0	Block	152	-247,58,322
+2.9	Block	152	-248,58,322
+6.3	Block	152	-247,58,322
+10.4	Block	152	-248,58,322
+38.1	Block	152	-247,58,322
+49	Block	152	-248,58,322
+52.4	Block	152	-247,58,322
+55.7	Block	152	-248,58,322
+1	Block	20	-247,58,322
+3.9	Block	20	-248,58,322
+7.3	Block	20	-247,58,322
+11.4	Block	20	-248,58,322
+39.1	Block	20	-247,58,322
+50	Block	20	-248,58,322
+53.4	Block	20	-247,58,322
+56.7	Block	20	-248,58,322
+#LIGHTS
+0	Block	20	-256,63,318
+52.7	Block	152	-256,63,318
+53.1	Block	152	-256,63,318
+53.5	Block	152	-256,63,318
+53.9	Block	152	-256,63,318
+54.3	Block	152	-256,63,318
+54.7	Block	152	-256,63,318
+55.1	Block	152	-256,63,318
+55.5	Block	152	-256,63,318
+55.9	Block	152	-256,63,318
+56.3	Block	152	-256,63,318
+56.7	Block	152	-256,63,318
+57.1	Block	152	-256,63,318
+57.5	Block	152	-256,63,318
+57.9	Block	152	-256,63,318
+58.3	Block	152	-256,63,318
+58.7	Block	152	-256,63,318
+59.1	Block	152	-256,63,318
+59.5	Block	152	-256,63,318
+59.9	Block	152	-256,63,318
+60.3	Block	152	-256,63,318
+60.7	Block	152	-256,63,318
+61.1	Block	152	-256,63,318
+61.5	Block	152	-256,63,318
+61.9	Block	152	-256,63,318
+62.3	Block	152	-256,63,318
+62.7	Block	152	-256,63,318
+63.1	Block	152	-256,63,318
+63.5	Block	152	-256,63,318
+63.9	Block	152	-256,63,318
+0	Block	20	-240,62,326
+52.8	Block	152	-240,62,326
+53.3	Block	152	-240,62,326
+53.8	Block	152	-240,62,326
+54.3	Block	152	-240,62,326
+54.8	Block	152	-240,62,326
+55.3	Block	152	-240,62,326
+55.8	Block	152	-240,62,326
+56.3	Block	152	-240,62,326
+56.8	Block	152	-240,62,326
+57.3	Block	152	-240,62,326
+57.8	Block	152	-240,62,326
+58.3	Block	152	-240,62,326
+58.8	Block	152	-240,62,326
+59.3	Block	152	-240,62,326
+59.8	Block	152	-240,62,326
+60.3	Block	152	-240,62,326
+60.8	Block	152	-240,62,326
+61.3	Block	152	-240,62,326
+61.8	Block	152	-240,62,326
+62.3	Block	152	-240,62,326
+62.8	Block	152	-240,62,326
+63.3	Block	152	-240,62,326
+63.8	Block	152	-240,62,326
+0	Block	20	-246,61,328
+52.9	Block	152	-246,61,328
+53.5	Block	152	-246,61,328
+54.1	Block	152	-246,61,328
+54.7	Block	152	-246,61,328
+55.3	Block	152	-246,61,328
+55.9	Block	152	-246,61,328
+56.5	Block	152	-246,61,328
+57.1	Block	152	-246,61,328
+57.7	Block	152	-246,61,328
+58.3	Block	152	-246,61,328
+58.9	Block	152	-246,61,328
+59.5	Block	152	-246,61,328
+60.1	Block	152	-246,61,328
+60.7	Block	152	-246,61,328
+61.3	Block	152	-246,61,328
+61.9	Block	152	-246,61,328
+62.5	Block	152	-246,61,328
+63.1	Block	152	-246,61,328
+63.7	Block	152	-246,61,328
+64.3	Block	152	-246,61,328
+
+
+#AudioRG
+0   Block   152 -244,59,325
+65  Block   152 -244,59,327
+
+#Reset
+65  Block   152 -248,62,331
+
+0   Block   0   -241,62,323
+65  Block   152 -238,59,320

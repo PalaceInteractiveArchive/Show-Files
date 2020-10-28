@@ -1,0 +1,52 @@
+Show	Location	-200,36,-3125
+Show	TextRadius	50
+Show	Name	Panel
+
+0	Sequence	Light	Panel
+#Broadcasts
+0	Block	152	-188,33,-3117
+300	Block	152	-188,33,-3118
+600	Block	152	-188,33,-3119
+780	Block	152	-188,33,-3120
+
+#Doors
+0	Block	152	-183,32,-3116
+
+#Audio
+0	AudioStart	PrePanel2
+2	AudioSync	PrePanel2	2
+10	AudioSync	PrePanel2	10
+15	AudioSync	PrePanel2	15
+30	AudioSync	PrePanel2	30
+60	AudioSync	PrePanel2	60
+120	AudioSync	PrePanel2	120
+180	AudioSync	PrePanel2	180
+240	AudioSync	PrePanel2	240
+300	AudioSync	PrePanel2	300
+360	AudioSync	PrePanel2	360
+420	AudioSync	PrePanel2	420
+480	AudioSync	PrePanel2	480
+540	AudioSync	PrePanel2	540
+600	AudioSync	PrePanel2	600
+660	AudioSync	PrePanel2	660
+720	AudioSync	PrePanel2	720
+780	AudioSync	PrePanel2	780
+840	AudioSync	PrePanel2	840
+
+##Announcements
+30	Text	&f[&bWeek Wrap Up&f] &aThis Week Wrap Up will be hosted in the &e&lMeeting Room Channel&a on our &e&lDiscord&a. Please do &6/discord&a for more information.
+60	Text	&f[&bWeek Wrap Up&f] &aTo hear music during this panel, visit &6Palace Network's &dAudio Server&a with &e&l/audio&a!
+120	Text	&f[&bWeek Wrap Up&f] &aDuring this panel, we request that you &eremain seated&a for the enjoyment of you and those around you.
+180	Text	&f[&bWeek Wrap Up&f] &aThis Week Wrap Up will be hosted in the &e&lMeeting Room Channel&a on our &e&lDiscord&a. Please do &6/discord&a for more information.
+240	Text	&f[&bWeek Wrap Up&f] &aTo hear music during this panel, visit &6Palace Network's &dAudio Server&a with &e&l/audio&a!
+315	Text	&f[&bWeek Wrap Up&f] &aDuring this panel, we request that you &eremain seated&a for the enjoyment of you and those around you.
+360	Text	&f[&bWeek Wrap Up&f] &aThis Week Wrap Up will be hosted in the &e&lMeeting Room Channel&a on our &e&lDiscord&a. Please do &6/discord&a for more information.
+420	Text	&f[&bWeek Wrap Up&f] &aTo hear music during this panel, visit &6Palace Network's &dAudio Server&a with &e&l/audio&a!
+480	Text	&f[&bWeek Wrap Up&f] &aDuring this panel, we request that you &eremain seated&a for the enjoyment of you and those around you.
+530	Text	&f[&bWeek Wrap Up&f] &aThis Week Wrap Up will be hosted in the &e&lMeeting Room Channel&a on our &e&lDiscord&a. Please do &6/discord&a for more information.
+560	Text	&f[&bWeek Wrap Up&f] &aTo hear music during this panel, visit &6Palace Network's &dAudio Server&a with &e&l/audio&a!
+620	Text	&f[&bWeek Wrap Up&f] &aDuring this panel, we request that you &eremain seated&a for the enjoyment of you and those around you.
+680	Text	&f[&bWeek Wrap Up&f] &aThis Week Wrap Up will be hosted in the &e&lMeeting Room Channel&a on our &e&lDiscord&a. Please do &6/discord&a for more information.
+740	Text	&f[&bWeek Wrap Up&f] &aTo hear music during this panel, visit &6Palace Network's &dAudio Server&a with &e&l/audio&a!
+800	Text	&f[&bWeek Wrap Up&f] &aDuring this panel, we request that you &eremain seated&a for the enjoyment of you and those around you.
+860	Text	&f[&bWeek Wrap Up&f] &aThis Week Wrap Up will be hosted in the &e&lMeeting Room Channel&a on our &e&lDiscord&a. Please do &6/discord&a for more information.

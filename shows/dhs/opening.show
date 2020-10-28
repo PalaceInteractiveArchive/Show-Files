@@ -1,0 +1,219 @@
+Show	Location	-45,64,44
+Show	TextRadius	200
+Show    Name    Opening
+#Mute Chat
+0	Block	152	-47,58,59
+0	Text	&8--CHAT MUTE--
+#Unmute Chat
+54.3	Block	152	-47,58,58
+54.3	Text	&8--CHAT UNMUTE--
+#Entrance Audio
+0	Block	152	-47,58,57
+216	Block	152	-47,58,56
+#Audio
+2.9	AudioStart	opening
+5	AudioSync	opening	2.1
+15	AudioSync	opening	12.1
+30	AudioSync	opening	27.1
+60	AudioSync	opening	57.1
+#Text
+5	Text	&f[&aDHS&f] [&6Manager&f] &7Helopoh: &eHello there, everyone!
+6.3	Text	&f[&aDHS&f] [&6Manager&f] &7Legobuilder0813: &eHey everyone!
+7.6	Text	&f[&aDHS&f] [&6Manager&f] &7GrailMore: &eHi there!
+8.4	Text	&f[&aDHS&f] [&6Manager&f] &7owils: &eWelcome!
+9.9	Text	&f[&aDHS&f] [&6Manager&f] &7Steven_Davison: &eHello there!
+12.4	Text	&f[&aDHS&f] [&6Manager&f] &7Legobuilder0813: &eWe're less than a minute away from opening New Hollywood Studios!
+15.6	Text	&f[&aDHS&f] [&6Manager&f] &7Helopoh: &eI bet they're all super excited.
+17.3	Text	&f[&aDHS&f] [&6Manager&f] &7GrailMore: &eDefinitely, I know we are.
+19.6	Text	&f[&aDHS&f] [&6Manager&f] &7owils: &eWe've been waiting so long to show you the new park.
+22.8	Text	&f[&aDHS&f] [&6Manager&f] &7Steven_Davison: &eIt's been in the works since September!
+25.4	Text	&f[&aDHS&f] [&6Manager&f] &7Helopoh: &eSo many of our Cast Members have helped recreate Disney's Hollywood Studios.
+30.1	Text	&f[&aDHS&f] [&6Manager&f] &7GrailMore: &eThat's right. Our Cast Members dedicated countless hours of work into this park.
+34.2	Text	&f[&aDHS&f] [&6Manager&f] &7Legobuilder0813: &eDon't forget our Guests, too! They're the reason we do what we do.
+38.5	Text	&f[&aDHS&f] [&6Owner&f] &7therealduckie: &eRight you are, Lego. None of this would have been possible without their continuing support.
+42.0	Text	&f[&aDHS&f] [&6Manager&f] &7Helopoh: &eI think we're just about ready to start the countdown.
+44.9	Text	&f[&aDHS&f] [&6Manager&f] &7GrailMore: &eLet's get started!
+46.3	Text	&f[&aDHS&f] [&6Owner&f] &7therealduckie: &eEnjoy Hollywood Studios everyone!
+48.7	Text	&f[&aDHS&f] [&6Manager&f] &7owils: &eDon't break Tower of Terror!
+51.3	Text	&f[&aDHS&f] [&6Manager&f] &7Steven_Davison: &e&nCount down with us in chat!
+52.4	Text	&f[&aDHS&f] [&6Manager&f] &7Legobuilder0813: &eHere we go!
+54.8	Title	title	2	2	16	&e10
+55.8	Title	title	2	2	16	&e9
+56.8	Title	title	2	2	16	&e8
+57.8	Title	title	2	2	16	&e7
+58.8	Title	title	2	2	16	&e6
+59.8	Title	title	2	2	16	&e5
+60.8	Title	title	2	2	16	&e4
+61.8	Title	title	2	2	16	&e3
+62.8	Title	title	2	2	16	&e2
+63.8	Title	title	2	2	16	&e1
+#Fireworks
+64.5	Block	152	-45,58,50
+#Blocks
+64.5	Block	0	-50,64,98
+64.5	Block	0	-50,64,97
+64.5	Block	0	-49,64,97
+64.5	Block	0	-49,64,96
+64.5	Block	0	-48,64,96
+64.5	Block	0	-48,64,95
+64.5	Block	0	-47,64,95
+64.5	Block	0	-47,64,94
+64.5	Block	0	-46,64,94
+64.5	Block	0	-46,64,93
+64.5	Block	0	-45,64,93
+64.5	Block	0	-45,64,92
+64.5	Block	0	-44,64,92
+64.5	Block	0	-44,64,91
+64.5	Block	0	-43,64,91
+64.5	Block	0	-43,64,90
+64.5	Block	0	-42,64,90
+64.5	Block	0	-42,64,89
+64.5	Block	0	-41,64,89
+64.5	Block	0	-41,64,88
+64.5	Block	0	-40,64,88
+64.5	Block	0	-40,64,87
+64.5	Block	0	-39,64,87
+64.5	Block	0	-38,64,87
+64.5	Block	0	-38,64,86
+64.5	Block	0	-37,64,86
+64.5	Block	0	-36,64,86
+64.5	Block	0	-36,64,85
+64.5	Block	0	-36,64,84
+64.5	Block	0	-35,64,84
+64.5	Block	0	-35,64,83
+64.5	Block	0	-35,64,82
+64.5	Block	0	-34,64,82
+64.5	Block	0	-34,64,81
+64.5	Block	0	-34,64,80
+64.5	Block	0	-34,64,79
+64.5	Block	0	-34,64,78
+64.5	Block	0	-34,64,77
+64.5	Block	0	-35,64,77
+64.5	Block	0	-35,64,76
+64.5	Block	0	-36,64,76
+64.5	Block	0	-36,64,75
+64.5	Block	0	-37,64,75
+64.5	Block	0	-37,64,74
+64.5	Block	0	-38,64,74
+64.5	Block	0	-38,64,73
+64.5	Block	0	-39,64,73
+64.5	Block	0	-39,64,72
+64.5	Block	0	-40,64,72
+64.5	Block	0	-40,64,71
+64.5	Block	0	-41,64,71
+64.5	Block	0	-41,64,70
+64.5	Block	0	-42,64,70
+64.5	Block	0	-42,64,69
+64.5	Block	0	-43,64,69
+64.5	Block	0	-43,64,68
+64.5	Block	0	-44,64,68
+64.5	Block	0	-44,64,67
+64.5	Block	0	-45,64,67
+64.5	Block	0	-45,64,66
+64.5	Block	0	-46,64,66
+64.5	Block	0	-46,64,65
+64.5	Block	0	-47,64,65
+64.5	Block	0	-47,64,64
+64.5	Block	0	-48,64,64
+64.5	Block	0	-48,64,63
+64.5	Block	0	-49,64,63
+64.5	Block	0	-49,64,62
+64.5	Block	0	-50,64,62
+64.5	Block	0	-50,64,61
+64.5	Block	0	-51,64,61
+64.5	Block	0	-51,64,60
+64.5	Block	0	-52,64,60
+64.5	Block	0	-52,64,59
+64.5	Block	0	-53,64,59
+64.5	Block	0	-53,64,58
+64.5	Block	0	-54,64,58
+64.5	Block	0	-54,64,57
+64.5	Block	0	-55,64,57
+64.5	Block	0	-55,64,56
+64.5	Block	0	-56,64,56
+64.5	Block	0	-56,64,55
+64.5	Block	0	-57,64,55
+64.5	Block	0	-57,64,54
+64.5	Block	0	-58,64,54
+64.5	Block	0	-58,64,53
+64.5	Block	0	-59,64,53
+64.5	Block	0	-59,64,52
+64.5	Block	0	-60,64,52
+64.5	Block	0	-60,64,51
+64.5	Block	0	-61,64,51
+64.5	Block	0	-61,64,50
+64.5	Block	0	-62,64,50
+64.5	Block	0	-62,64,49
+64.5	Block	0	-63,64,49
+64.5	Block	0	-63,64,48
+64.5	Block	0	-64,64,48
+64.5	Block	0	-64,64,47
+64.5	Block	0	-65,64,47
+64.5	Block	0	-65,64,46
+64.5	Block	0	-66,64,46
+64.5	Block	0	-66,64,45
+64.5	Block	0	-67,64,45
+64.5	Block	0	-67,64,44
+64.5	Block	0	-68,64,44
+64.5	Block	0	-68,64,43
+64.5	Block	0	-69,64,43
+64.5	Block	0	-69,64,42
+64.5	Block	0	-70,64,42
+64.5	Block	0	-70,64,41
+64.5	Block	0	-71,64,41
+64.5	Block	0	-71,64,40
+64.5	Block	0	-72,64,40
+64.5	Block	0	-72,64,39
+64.5	Block	0	-73,64,39
+64.5	Block	0	-73,64,38
+64.5	Block	0	-74,64,38
+64.5	Block	0	-74,64,37
+64.5	Block	0	-75,64,37
+64.5	Block	0	-75,64,36
+64.5	Block	0	-76,64,36
+64.5	Block	0	-76,64,35
+64.5	Block	0	-77,64,35
+64.5	Block	0	-77,64,34
+64.5	Block	0	-78,64,34
+64.5	Block	0	-78,64,33
+64.5	Block	0	-79,64,33
+64.5	Block	0	-80,64,33
+64.5	Block	0	-81,64,33
+64.5	Block	0	-82,64,33
+64.5	Block	0	-83,64,33
+64.5	Block	0	-83,64,34
+64.5	Block	0	-84,64,34
+64.5	Block	0	-85,64,34
+64.5	Block	0	-85,64,35
+64.5	Block	0	-86,64,35
+64.5	Block	0	-86,64,36
+64.5	Block	0	-86,64,37
+64.5	Block	0	-86,64,38
+64.5	Block	0	-87,64,38
+64.5	Block	0	-87,64,39
+64.5	Block	0	-88,64,39
+64.5	Block	0	-88,64,40
+64.5	Block	0	-89,64,40
+64.5	Block	0	-89,64,41
+64.5	Block	0	-90,64,41
+64.5	Block	0	-90,64,42
+64.5	Block	0	-91,64,42
+64.5	Block	0	-92,64,42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

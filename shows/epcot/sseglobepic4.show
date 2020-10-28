@@ -1,0 +1,6 @@
+Show	Location	-88,65,2617
+Show	TextRadius	8
+0	FakeBlock	95:11	-82,66,2621
+5	FakeBlock	35:11	-82,66,2621
+
+#/setblock -82 66 2621 stained_glass 11

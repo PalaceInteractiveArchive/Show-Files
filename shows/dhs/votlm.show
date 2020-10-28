@@ -1,0 +1,696 @@
+Show	Location	-286,64,162
+Show	TextRadius	15
+Show	Name	votlm
+#Audio
+0	AudioStart	votlm	0
+
+#Text
+#Opening
+0.2	Text	&9Welcome to Voyage of The Little Mermaid
+2.6	Text	&9Because of the special effect and involved of the show
+5.1	Text	&9we ask to please remain sitting during the entirely performed.
+8.7	Text	&9For the safety for our permorfers on stage
+9.5	Text	&
+20.6	Text	&9And now,
+21.8	Text	&9Disney's Hollywood Studios present
+24.6	Text	&DVoyage of The Little Mermaid!
+#
+#Under the sea
+134.4	Text	&C[Sebastian] The human world is a mess
+137.1	Text	&CLife under the sea is better than anything they got up there
+142.6	Text	&CThe seaweed is always greener
+145	Text	&CIn somebody else's lake
+147.3	Text	&CYou dream about going up there
+149.8	Text	&CBut that is a big mistake
+152.2	Text	&CJust look at the world around you
+154.6	Text	&CRight here on the ocean floor
+157	Text	&CSuch wonderful things surround you
+159.5	Text	&CWhat more is you looking for
+162.2	Text	&CUnder the sea, under the sea
+166.9	Text	&CDarlin' it's better
+168.1	Text	&CDown where it's wetter
+169.3	Text	&CTake it from me
+171.5	Text	&CUp on the shore they work all day
+174.1	Text	&COut in the sun they slave away
+176.5	Text	&CWhile we devotin'
+177.8	Text	&CFull time to floatin'
+179.2	Text	&CUnder the sea
+184.6	Text	&CDown here all the fish are happy
+187	Text	&CAs off through the waves they roll
+189.4	Text	&CThe fish on the land ain't happy
+191.9	Text	&CThey're sad 'cause they're in a bowl
+194.2	Text	&CBut fish in the bowl is lucky
+196.6	Text	&CThey're in for a worser fate
+199	Text	&COne day when the boss gets hungry
+201.4	Text	&CGuess whos goin' be on the plate (uh-oh)
+204.1	Text	&CUnder the sea, under the sea
+208.8	Text	&CNobody beats us
+210	Text	&CFry us and eat us in fricasee
+213.5	Text	&CWe what the land folks love to cook
+216	Text	&CUnder the sea we off the hook
+218.4	Text	&CWe got no troubles life is the bubbles
+221	Text	&CUnder the sea, under the sea
+223	Text	&CUnder the sea, under the sea
+225.5	Text	&CSince life is sweet here
+226.9	Text	&CWe got the beat here naturally
+230.4	Text	&CEven the strugeon an' the ray
+232.9	Text	&CThey get the urge an' start to play
+235.2	Text	&CWe got the spirit
+236.4	Text	&CYou got to hear it under the sea
+240.4	Text	&CThe newt play the flute
+241.6	Text	&CThe carp play the harp
+242.8	Text	&CThe plaice play the bass
+244.1	Text	&CAnd they're soundin sharp
+245.3	Text	&CThe bass play the brass
+246.5	Text	&CThe chub play the tub
+247.8	Text	&CThe fluke is the duke of soul
+250	Text	&CThey ray he can play
+251.2	Text	&CHe lings on the strings
+252.4	Text	&CThe trout rockin' out
+253.6	Text	&CThe blackfish she sings
+254.8	Text	&CThe smelt and the sprat
+256	Text	&CThey know where it's at
+257.4	Text	&CAn' Oh. That blowfish blow
+285.6	Text	&CUnder the sea (under the sea)
+287.9	Text	&CUnder the sea (under the sea)
+290.2	Text	&CWhen the sardine
+291.3	Text	&CBegin the beguine it's music to me
+295.2	Text	&CWhat do they got, a lot of sand
+297.2	Text	&CWe got a hot crustacean band
+300	Text	&CEach little clam here
+301.1	Text	&CKnow how to jam here under the sea
+304.7	Text	&CEach little slug here
+305.9	Text	&CCutin' a rug here under the sea
+309.5	Text	&CEach little snail here
+310.7	Text	&CKnow how to wail here
+311.9	Text	&CThat's why it's hotter under the water
+314.1	Text	&CYa' we in luck here
+315.5	Text	&CDown in the muck here under the sea!!
+#
+#Ariel
+355.9	Text	&e[King Triton] Ariel! 
+356.9	Text	&eYou went up to the surface again didn't you? Didn't you!?!
+359.9	Text	&d[Ariel] Dad,I'm 16 years old I'm not a child. 
+361.4	Text	&dI'm not a child. 
+362.5	Text	&e[King Triton] Don't you take that tone of voice with me young lady! 
+364.9	Text	&eAs long as you live under my ocean, you obey my rules.
+373.1	Text	&eIS THAT CLEAR?!
+395.5	Text	&d[Ariel] Look at this stuff.
+397.1	Text	&dIsn't it neat?
+398.6	Text	&dWouldn't you think my collection's complete?
+402.1	Text	&dWouldn't you think I'm the girl.
+404.6	Text	&dThe girl who has everything?
+408.2	Text	&dLook at this trove.
+409.9	Text	&dTreasures untold.
+411.6	Text	&dHow many wonders can one cavern hold?
+414.9	Text	&dLooking around here you think.
+417.2	Text	&dSure, she's got everything.
+420.4	Text	&dI've got gadgets and gizmos a-plenty.
+423.6	Text	&dI've got whozits and whatzits galore.
+426.9	Text	&dYou want thingamabobs?
+428.6	Text	&dI've got twenty!
+430	Text	&dBut who cares?
+431.5	Text	&dNo big deal.
+433.8	Text	&dI want more!!
+443.7	Text	&dI wanna be where the people are.
+447.2	Text	&dI wanna see, wanna see them dancin'.
+450.5	Text	&dWalking around on those. what do you call them?
+454.1	Text	&dOh, feet!
+457.6	Text	&dFlippin' your fins, you don't get too far.
+460.9	Text	&dLegs are required for jumping, dancing.
+464.5	Text	&dStrolling along down a, what's that word again?
+468.5	Text	&dStreet!
+471.9	Text	&dUp where they walk, up where they run.
+474.3	Text	&dUp where they stay all day in the sun.
+477.9	Text	&dWanderin' free,  wish I could be.
+482	Text	&dPart of that world!
+485.2	Text	&dWhat would I give if I could live out of these waters?
+491.7	Text	&dWhat would I pay to spend a day warm on the sand?
+498.1	Text	&dBet'cha on land they understand.
+501.5	Text	&dthey don't reprimand their daughters.
+505.6	Text	&dBright young women sick of swimmin'.
+509.4	Text	&dReady to stand!!
+514.9	Text	&dAnd ready to know what the people know.
+518.4	Text	&dAsk 'em my questions and get some answers.
+522.6	Text	&dWhat's a fire and why does it, what's the word?
+526.4	Text	&dBurn!
+528.7	Text	&dWhen's it my turn?
+530.7	Text	&dWouldn't I love, love to explore that shore up above?
+540.2	Text	&dOut of the sea.
+544.4	Text	&dWish I could be.
+549.8	Text	&dPart of your world...
+#Ursula
+579.6	Text	&6[Flotsam] Poor child
+581.1	Text	&6[Jetsam] Poor, sweet child
+583.5	Text	&6[Flotsam] She has a very serious problem.
+587	Text	&6[Jetsam] If only there were something we could do.
+590.5	Text	&6[Flotsam] But there is something.
+604.5	Text	&5[Ursula] Now, now
+606.2	Text	&5Angel fish
+608.2	Text	&5The solution to your problem is quite simple.
+612	Text	&5The only way to get what you want is to become a human yourself.
+619.1	Text	&d[Ariel] Can you do that?
+620	Text	&5[Ursula] Oh, my dear, sweet child. That's what I do. It's what I live for.
+627	Text	&5To help unfortunate merfolk like yourself.
+631.4	Text	&5Poor souls with no one else to turn to.
+635.6	Text	&5I will make you a potion that will turn you into a human for three days.
+640.9	Text	&5If he does kiss you before the sun sets on the third day,
+644	Text	&5you'll remain human permanently!
+647.2	Text	&5But, if he doesn't, you turn back into a mermaid and... you belong to me!
+654	Text	&5Have we got a deal?
+656.5	Text	&d[Ariel] If I become human, I'll never be with my father or sisters again.
+660.3	Text	&5[Ursula] It's right
+661.7	Text	&5But you'll have your man, heh heh. 
+663.7	Text	&5Life's full of tough choices, isn't it? Heh heh.
+668.7	Text	&5Oh, and there is one more thing.
+670.8	Text	&5Sweet cakes.
+672.1	Text	&5No more talking, singing, zip
+674.7	Text	&5&lPOK !
+676.3	Text	&d[Ariel] But without my voice, how can I..
+678.1	Text	&5[Ursula] You'll have your looks, your pretty face.
+680.8	Text	&5And don't underestimate the importance of body language, come on you!
+687.5	Text	&5Poor unfortunate soul!
+689.8	Text	&5Go ahead!
+691.2	Text	&5Make your choice!
+692.7	Text	&5I'm a very busy woman and I haven't got all day
+695.5	Text	&5It won't cost much
+697	Text	&5Just your voice!
+698.3	Text	&5You poor unfortunate soul
+701.1	Text	&5It's sad but true
+704	Text	&5If you want to cross the bridge, my sweet
+705.6	Text	&5You've got the pay the toll
+706.8	Text	&5Take a gulp and take a breath
+708.2	Text	&5And go ahead and sign the scroll
+709.7	Text	&5Flotsam, Jetsam, now I've got her, boys
+711.9	Text	&5The boss is on a roll
+715.6	Text	&5This poor unfortunate soul!!
+726	Text	&5Beluga sevruga
+727.4	Text	&5Come winds of the Caspian Sea!
+731.7	Text	&5Larengix glaucitis
+733.3	Text	&5Et max laryngitis
+734.8	Text	&5La voce to me!
+737.8	Text	&5And now, sing!
+743	Text	&5Keep singing!
+753.1	Text	&5SING!
+761.1	Text	&5Sing!
+765.6	Text	&5Sing!
+#Final
+852.7	Text	&d[Ariel] What would I give to leave where you are?
+857.4	Text	&dWhat would I pay to stay here beside him?
+862.3	Text	&dWhat would I do to have you here?
+865.8	Text	&dSmilling at me...
+873.6	Text	&e[King Triton] She really does love him.
+875.8	Text	&eDoesn't she, Sebastian
+878.7	Text	&C[Sebastian] It's like I always say, your majesty
+881.8	Text	&CChildren got to be free to lead their own lives.
+885.9	Text	&eWell I guess there is just one problem left.
+889	Text	&C[Sebastian] And, what's that your majesty?
+891.7	Text	&e[King Triton] How much I'm going to miss her...
+921.7	Text	&B[Eric] Ariel?
+922.8	Text	&d[Ariel] Eric! 
+924.7	Text	&B[Eric] You can talk! 
+926.7	Text	&BYou the one!
+928	Text	&BIt was you all the time!
+957	Text	&9We hope you have enjoy Voyage of The Little Mermaid!
+961.5	Text	&9Please gather all of your personal belongingsand and exit to the doors on your left.
+966.6	Text	&9Have a wonderful day, here, at Disney's Hollywood Studios!
+#Blocks
+#-> Opening
+#Lights
+29	Block	0	-278,74,163
+29	Block	0	-280,74,165
+29	Block	0	-282,74,166
+29	Block	0	-283,74,168
+29	Block	0	-285,74,170
+29	Block	0	-284,74,164
+29	Block	0	-286,74,162
+29	Block	0	-288,74,160
+29	Block	0	-290,74,158
+29	Block	0	-292,74,156
+29	Block	0	-293,74,158
+29	Block	0	-295,74,160
+29	Block	0	-290,74,155
+29	Block	0	-288,74,153
+29	Block	0	-283,74,158
+29	Block	0	-285,74,160
+29	Block	0	-288,74,163
+29	Block	0	-290,74,165
+#Water curtain
+69	Block	152	-287,57,186
+69.2	Block	152	-287,57,184
+69.4	Block	152	-287,57,182
+69.6	Block	152	-287,57,180
+69.8	Block	152	-287,57,178
+69	Block	152	-277,57,176
+69.2	Block	152	-279,57,176
+69.4	Block	152	-281,57,176
+69.6	Block	152	-283,57,176
+69.8	Block	152	-285,57,176
+81	Block	0	-287,57,186
+81	Block	0	-287,57,184
+81	Block	0	-287,57,182
+81	Block	0	-287,57,180
+81	Block	0	-287,57,178
+81	Block	0	-277,57,176
+81	Block	0	-279,57,176
+81	Block	0	-281,57,176
+81	Block	0	-283,57,176
+81	Block	0	-285,57,176
+#Green laser
+81	Block	152	-287,57,176
+93	Block	0	-287,57,176
+#Title
+100	Pulse	-282,60,159
+#-> UnderTheSea
+#Curtains
+126	Pulse	-274,53,176
+313	Pulse	-274,56,176
+#Lights
+133	Block	89	-279,63,169
+221.5	Block	89	-277,63,167
+285	Block	89	-281,63,171
+321	Block	159:8	-277,63,167
+321	Block	159:8	-281,63,171
+324	Block	159:8	-279,63,169
+#Sebastian
+133	Block	203	-278,64,170
+133	Block	205	-278,65,170
+133	Block	0	-278,66,170
+133	Block	35:15	-277,66,170
+133	Block	35:15	-277,65,170
+133	Block	35:15	-278,66,171
+133	Block	35:15	-278,65,171
+133	Block	35:15	-278,64,171
+133	Pulse	-281,60,173
+140	Pulse	-281,60,173
+153	Pulse	-283,60,173
+175	Pulse	-283,60,173
+184	Pulse	-281,60,173
+190	Pulse	-281,60,173
+204	Pulse	-283,60,173
+235	Pulse	-283,60,173
+244	Pulse	-281,60,173
+270	Pulse	-281,60,173
+285	Pulse	-283,60,173
+310	Pulse	-283,60,173
+324	Pulse	-281,61,174
+324	Block	35:15	-278,64,170
+324	Block	35:15	-278,65,170
+324	Block	35:15	-278,66,170
+324	Block	0	-277,66,170
+324	Block	0	-277,65,170
+324	Block	0	-278,66,171
+324	Block	0	-278,65,171
+324	Block	0	-278,64,171
+#Flounder
+133	Pulse	-287,61,172
+270	Pulse	-287,61,172
+276	Pulse	-286,60,170
+296	Pulse	-286,60,168
+#Fishs
+156	Pulse	-283,61,170
+203	Pulse	-283,61,170
+#Blue shrimp
+178	Pulse	-279,61,170
+250	Pulse	-279,61,170
+296	Pulse	-279,61,168
+#BubbleFish
+186	Pulse	-275,60,170
+200.5	Pulse	-277,60,170
+#Escargots
+221.5	Block	35:15	-276,64,169
+221.5	Block	35:15	-275,64,168
+221.5	Block	35:15	-274,64,167
+221.5	Block	0	-276,64,168
+221.5	Block	0	-275,64,167
+221.5	Pulse	-275,61,164
+221.5	Pulse	-273,61,164
+224	Pulse	-275,61,164
+229	Pulse	-275,61,164
+286.5	Pulse	-271,61,164
+321	Pulse	-277,61,164
+321	Block	35:15	-276,64,168
+321	Block	35:15	-275,64,167
+321	Block	0	-276,64,169
+321	Block	0	-275,64,168
+321	Block	0	-274,64,167
+#Small->Big Fish
+248	Pulse	-273,61,169
+258.8	Pulse	-271,60,170
+#Fishs on curtain
+282	Pulse	-276,61,173
+321	Pulse	-279,61,176
+#Turtle
+284	Pulse	-281,61,170
+286	Pulse	-281,60,167
+#Octopus
+285	Pulse	-283,61,166
+286	Pulse	-283,61,168
+#Frog
+300	Pulse	-279,61,165
+#Kill final
+321	Pulse	-286,61,166
+#Final Fishes
+322	Pulse	-284,60,163
+#-> Ariel
+#Curtains
+338	Pulse	-271,42,186
+343	Pulse	-274,53,176
+#-> Ursula
+#Moray
+577	Pulse	-287,61,175
+579	Block	76	-275,62,163
+594.5	Block	1	-275,62,163
+#Curtains
+759	Pulse	-274,56,176
+766	Pulse	-271,42,184
+#Flashs
+769	Block	119	-279,74,158
+769.5	Block	0	-279,74,158
+772	Block	119	-285,74,173
+772.5	Block	0	-285,74,173
+775	Block	119	-287,70,150
+775.5	Block	0	-287,70,150
+777	Block	119	-280,74,168
+777.5	Block	0	-280,74,168
+779	Block	119	-290,66,169
+779.5	Block	0	-290,66,169
+784	Block	119	-280,74,168
+784.5	Block	0	-280,74,168
+786	Block	119	-292,67,167
+786.5	Block	0	-292,67,167
+788	Block	119	-298,74,159
+788.5	Block	0	-298,74,159
+790	Block	119	-276,67,161
+790.5	Block	0	-276,67,161
+792	Block	119	-285,74,173
+792.5	Block	0	-285,74,173
+794	Block	119	-280,74,168
+794.5	Block	0	-280,74,168
+796	Block	119	-279,74,158
+796.5	Block	0	-279,74,158
+798	Block	119	-292,67,167
+798.5	Block	0	-292,67,167
+800	Block	119	-280,74,168
+800.5	Block	0	-280,74,168
+802	Block	119	-279,74,158
+802.5	Block	0	-279,74,158
+804	Block	119	-285,74,173
+804.5	Block	0	-285,74,173
+806	Block	119	-287,70,150
+806.5	Block	0	-287,70,150
+808	Block	119	-280,74,168
+808.5	Block	0	-280,74,168
+810	Block	119	-290,66,169
+810.5	Block	0	-290,66,169
+812	Block	119	-280,74,168
+812.5	Block	0	-280,74,168
+814	Block	119	-292,67,167
+814.5	Block	0	-292,67,167
+816	Block	119	-298,74,159
+816.5	Block	0	-298,74,159
+818	Block	119	-276,67,161
+818.5	Block	0	-276,67,161
+820	Block	119	-285,74,173
+820.5	Block	0	-285,74,173
+822	Block	119	-280,74,168
+822.5	Block	0	-280,74,168
+824	Block	119	-279,74,158
+824.5	Block	0	-279,74,158
+826	Block	119	-292,67,167
+826.5	Block	0	-292,67,167
+827	Block	119	-280,74,168
+827.5	Block	0	-280,74,168
+828	Block	119	-279,74,158
+828.5	Block	0	-279,74,158
+829	Block	119	-285,74,173
+829.5	Block	0	-285,74,173
+830	Block	119	-287,70,150
+830.5	Block	0	-287,70,150
+831	Block	119	-280,74,168
+831.5	Block	0	-280,74,168
+832	Block	119	-290,66,169
+832.5	Block	0	-290,66,169
+833	Block	119	-280,74,168
+833.5	Block	0	-280,74,168
+834	Block	119	-292,67,167
+834.5	Block	0	-292,67,167
+835	Block	119	-298,74,159
+835.5	Block	0	-298,74,159
+836	Block	119	-276,67,161
+836.5	Block	0	-276,67,161
+838	Block	119	-287,70,150
+838.5	Block	0	-287,70,150
+840	Block	119	-285,74,173
+840.5	Block	0	-285,74,173
+#Water curtain
+798	Block	152	-277,57,176
+800	Block	0	-277,57,176
+800	Block	152	-285,57,176
+802	Block	0	-285,57,176
+802	Block	152	-287,57,182
+804	Block	0	-287,57,182
+804	Block	152	-287,57,180
+806	Block	0	-287,57,180
+806	Block	152	-287,57,178
+808	Block	0	-287,57,178
+808	Block	152	-287,57,186
+810	Block	0	-287,57,186
+810	Block	152	-279,57,176
+812	Block	0	-279,57,176
+812	Block	152	-287,57,180
+814	Block	0	-287,57,180
+814	Block	152	-283,57,176
+816	Block	0	-283,57,176
+816	Block	152	-287,57,184
+818	Block	0	-287,57,184
+818	Block	152	-285,57,176
+820	Block	0	-285,57,176
+820	Block	152	-287,57,178
+822	Block	0	-287,57,178
+822	Block	152	-281,57,176
+824	Block	0	-281,57,176
+824	Block	152	-287,57,182
+826	Block	0	-287,57,182
+826	Block	152	-277,57,176
+828	Block	0	-277,57,176
+828	Block	152	-287,57,186
+830	Block	0	-287,57,186
+830	Block	152	-287,57,182
+832	Block	0	-287,57,182
+#Green laser
+798	Block	152	-287,57,176
+830	Block	0	-287,57,176
+#-> Final
+#Curtains
+835	Pulse	-271,42,186
+840	Pulse	-274,53,176
+949	Pulse	-271,42,184
+1000	Pulse	-274,56,176
+#Water curtain
+952	Block	152	-287,57,186
+953	Block	152	-287,57,184
+954	Block	152	-287,57,182
+955	Block	152	-287,57,180
+956	Block	152	-287,57,178
+952	Block	152	-277,57,176
+953	Block	152	-279,57,176
+954	Block	152	-281,57,176
+955	Block	152	-283,57,176
+956	Block	152	-285,57,176
+1000	Block	0	-287,57,186
+1000	Block	0	-287,57,184
+1000	Block	0	-287,57,182
+1000	Block	0	-287,57,180
+1000	Block	0	-287,57,178
+1000	Block	0	-277,57,176
+1000	Block	0	-279,57,176
+1000	Block	0	-281,57,176
+1000	Block	0	-283,57,176
+1000	Block	0	-285,57,176
+#Lights
+965	Block	119	-278,74,163
+965	Block	119	-280,74,165
+965	Block	119	-282,74,166
+965	Block	119	-283,74,168
+965	Block	119	-285,74,170
+965	Block	119	-284,74,164
+965	Block	119	-286,74,162
+965	Block	119	-288,74,160
+965	Block	119	-290,74,158
+965	Block	119	-292,74,156
+965	Block	119	-293,74,158
+965	Block	119	-295,74,160
+965	Block	119	-290,74,155
+965	Block	119	-288,74,153
+965	Block	119	-283,74,158
+965	Block	119	-285,74,160
+965	Block	119	-288,74,163
+965	Block	119	-290,74,165
+#Doors
+967	Block	0	-280,62,151
+967	Block	76	-281,62,150
+967	Block	76	-283,62,148
+967	Block	76	-284,62,147
+1004	Block	76	-280,62,151
+1004	Block	0	-281,62,150
+1004	Block	0	-283,62,148
+1004	Block	0	-284,62,147
+#Queue
+1000	Pulse	-281,60,161
+#Tp players
+1005	Pulse	-278,60,159
+
+#ArmorStands
+#Under the sea
+ArmorStand	votlmFish1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzViYTM5M2I5MjZlZTY5YTE0ZDRkODUzYjI1ZDI4NWE4NjhiMTZjNTZjOTE5ZDJiODI0NDEzZTY1NjZkNGU1NSJ9fX0=;0;0;0;0
+ArmorStand	votlmFish2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTgwODRjNjkxNDljZDE0M2M5NTQ0NTJiNTJmZWQwOTU3Y2YyNjRmN2U0OGIwOTEwYWJiZWI1Y2U4OTg5NTIxIn19fQ==;0;0;0;0
+ArmorStand	votlmFish3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA2MGE0NjQ5N2NlZTc2MTEzNDZjOWRkOGViOGY1ZGU0NDgzZGUyNTkxNDcyMTEzNTM4NDgzNTZkZTE1ZDE5In19fQ==;0;0;0;0
+ArmorStand	votlmFish4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDlkMGU4MzNkOWJkYTMyZjJkNzM2ZDhjM2MzYmU4YjliOTY0YWRkZDU5MzU3YzEyMjYzZmZjY2I4YjhkYWUifX19;0;0;0;0
+ArmorStand	votlmFish5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjZDcxZmJiYmJiNjZjN2JhZjc4ODFmNDE1YzY0ZmE4NGY2NTA0OTU4YTU3Y2NkYjg1ODkyNTI2NDdlYSJ9fX0=;0;0;0;0
+ArmorStand	votlmFish6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZkZDVlNmFkZGI1NmFjYmM2OTRlYTRiYTU5MjNiMWIyNTY4ODE3OGZlZmZhNzIyOTAyOTllMjUwNWM5NzI4MSJ9fX0=;0;0;0;0
+ArmorStand	votlmFish7	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M5YWY5YjI4ZjJhNjg3ZDFkODIyZDNiZTMyNGZiYjgzOGE3NGQ5ZDk0NjQwNGE4MjY4YzMxY2UzODhiMTUyNiJ9fX0=;0;0;0;0
+ArmorStand	votlmFish8	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmMzNDlkYTYxYjdmZGNhNzkwYTE4ZWIzMDY2YTkzMDFjMWQ1MTcwZWE2Y2YyZTQwYzhiMTg2MjliMmNlNDljNiJ9fX0=;0;0;0;0
+ArmorStand	votlmFish9	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzViYTM5M2I5MjZlZTY5YTE0ZDRkODUzYjI1ZDI4NWE4NjhiMTZjNTZjOTE5ZDJiODI0NDEzZTY1NjZkNGU1NSJ9fX0=;0;0;0;0
+ArmorStand	votlmFish10	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTgwODRjNjkxNDljZDE0M2M5NTQ0NTJiNTJmZWQwOTU3Y2YyNjRmN2U0OGIwOTEwYWJiZWI1Y2U4OTg5NTIxIn19fQ==;0;0;0;0
+ArmorStand	votlmFish11	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjA2MGE0NjQ5N2NlZTc2MTEzNDZjOWRkOGViOGY1ZGU0NDgzZGUyNTkxNDcyMTEzNTM4NDgzNTZkZTE1ZDE5In19fQ==;0;0;0;0
+ArmorStand	votlmFish12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDlkMGU4MzNkOWJkYTMyZjJkNzM2ZDhjM2MzYmU4YjliOTY0YWRkZDU5MzU3YzEyMjYzZmZjY2I4YjhkYWUifX19;0;0;0;0
+ArmorStand	votlmFish13	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBjZDcxZmJiYmJiNjZjN2JhZjc4ODFmNDE1YzY0ZmE4NGY2NTA0OTU4YTU3Y2NkYjg1ODkyNTI2NDdlYSJ9fX0=;0;0;0;0
+ArmorStand	votlmFish14	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZkZDVlNmFkZGI1NmFjYmM2OTRlYTRiYTU5MjNiMWIyNTY4ODE3OGZlZmZhNzIyOTAyOTllMjUwNWM5NzI4MSJ9fX0=;0;0;0;0
+ArmorStand	votlmFish15	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2M5YWY5YjI4ZjJhNjg3ZDFkODIyZDNiZTMyNGZiYjgzOGE3NGQ5ZDk0NjQwNGE4MjY4YzMxY2UzODhiMTUyNiJ9fX0=;0;0;0;0
+#
+322	ArmorStand	votlmFish1	Spawn	-276.79,65.11,167.56,45.75
+322	ArmorStand	votlmFish2	Spawn	-280.47,65.48,171.2,221.64
+322	ArmorStand	votlmFish3	Spawn	-277.34,66.45,168.01,48.08
+322	ArmorStand	votlmFish4	Spawn	-277.23,63.7,168.27,49.14
+322	ArmorStand	votlmFish5	Spawn	-278.15,67.55,168.97,114.6
+322	ArmorStand	votlmFish6	Spawn	-279.97,66.67,170.63,226.89
+322	ArmorStand	votlmFish7	Spawn	-279.83,64.04,170.79,226.29
+322	ArmorStand	votlmFish8	Spawn	-279.11,67.64,169.93,134.49
+322	ArmorStand	votlmFish9	Spawn	-277.04,67.8,167.81,72.63
+322 ArmorStand	votlmFish10	Spawn	-276.41,66.16,166.96,49.27
+322 ArmorStand	votlmFish11	Spawn	-280.2,67.68,170.8,170.32
+322 ArmorStand	votlmFish12	Spawn	-280.98,66.53,171.6,215.2
+322 ArmorStand	votlmFish13	Spawn	-280.89,64.5,171.45,222.7
+322 ArmorStand	votlmFish14	Spawn	-276.36,64.1,166.92,43.6
+322 ArmorStand	votlmFish15	Spawn	-278.52,68.47,169.58,129.4
+#
+326	ArmorStand	votlmFish1	Despawn
+326	ArmorStand	votlmFish2	Despawn
+326	ArmorStand	votlmFish3	Despawn
+326	ArmorStand	votlmFish4	Despawn
+326	ArmorStand	votlmFish5	Despawn
+326	ArmorStand	votlmFish6	Despawn
+326	ArmorStand	votlmFish7	Despawn
+326	ArmorStand	votlmFish8	Despawn
+326	ArmorStand	votlmFish9	Despawn
+326	ArmorStand	votlmFish10	Despawn
+326	ArmorStand	votlmFish11	Despawn
+326	ArmorStand	votlmFish12	Despawn
+326	ArmorStand	votlmFish13	Despawn
+326	ArmorStand	votlmFish14	Despawn
+326	ArmorStand	votlmFish15	Despawn
+#
+#Particles
+#-> Ursula
+#Flashs
+769	Particle	FireworksSpark	-279,74,158	0	1	0	0.05	50
+772	Particle	FireworksSpark	-285,74,173	0	1	0	0.05	50
+775	Particle	FireworksSpark	-287,70,150	0	1	0	0.05	50
+777	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+779	Particle	FireworksSpark	-290,66,169	0	1	0	0.05	50
+784	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+786	Particle	FireworksSpark	-292,67,167	0	1	0	0.05	50
+788	Particle	FireworksSpark	-298,74,159	0	1	0	0.05	50
+790	Particle	FireworksSpark	-276,67,161	0	1	0	0.05	50
+792	Particle	FireworksSpark	-285,74,173	0	1	0	0.05	50
+794	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+796	Particle	FireworksSpark	-279,74,158	0	1	0	0.05	50
+798	Particle	FireworksSpark	-292,67,167	0	1	0	0.05	50
+800	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+802	Particle	FireworksSpark	-279,74,158	0	1	0	0.05	50
+804	Particle	FireworksSpark	-285,74,173	0	1	0	0.05	50
+806	Particle	FireworksSpark	-287,70,150	0	1	0	0.05	50
+808	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+810	Particle	FireworksSpark	-290,66,169	0	1	0	0.05	50
+812	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+814	Particle	FireworksSpark	-292,67,167	0	1	0	0.05	50
+816	Particle	FireworksSpark	-298,74,159	0	1	0	0.05	50
+818	Particle	FireworksSpark	-276,67,161	0	1	0	0.05	50
+820	Particle	FireworksSpark	-285,74,173	0	1	0	0.05	50
+822	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+824	Particle	FireworksSpark	-279,74,158	0	1	0	0.05	50
+826	Particle	FireworksSpark	-292,67,167	0	1	0	0.05	50
+827	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+828	Particle	FireworksSpark	-279,74,158	0	1	0	0.05	50
+829	Particle	FireworksSpark	-285,74,173	0	1	0	0.05	50
+830	Particle	FireworksSpark	-287,70,150	0	1	0	0.05	50
+831	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+832	Particle	FireworksSpark	-290,66,169	0	1	0	0.05	50
+833	Particle	FireworksSpark	-280,74,168	1	0	1	0.05	50
+834	Particle	FireworksSpark	-292,67,167	0	1	0	0.05	50
+835	Particle	FireworksSpark	-298,74,159	0	1	0	0.05	50
+836	Particle	FireworksSpark	-276,67,161	0	1	0	0.05	50
+838	Particle	FireworksSpark	-287,70,150	0	1	0	0.05	50
+840	Particle	FireworksSpark	-285,74,173	0	1	0	0.05	50
+
+#Effects
+#Ariel
+Effect b1 BURST,208;61;225,BLUE
+Effect b2 BURST,208;61;225,BLUE,GREEN,TRAIL
+#Final
+Effect	ball1	BALL,255;239;0,YELLOW,FLICKER,TRAIL
+Effect	ball2	BALL,YELLOW&GREEN,TRAIL
+Effect	ball3	BALL,RED,FLICKER
+Effect	b3	BURST,BLUE&AQUA&TEAL,FLICKER,TRAIL
+#
+#Fireworks
+#Ariel
+330    PowerFirework    -280,74,168    b1    0,0,0
+330.5    PowerFirework    -280,74,168    b1    0,0,0
+331    PowerFirework    -280,74,168    b1    0,0,0
+331.5    PowerFirework    -280,74,168    b1    0,0,0
+332    PowerFirework    -280,74,168    b1    0,0,0
+332.5    PowerFirework    -280,74,168    b1    0,0,0
+333    PowerFirework    -280,74,168    b1    0,0,0
+333.5    PowerFirework    -280,74,168    b1    0,0,0
+334    PowerFirework    -280,74,168    b1    0,0,0
+334.5    PowerFirework    -280,74,168    b1    0,0,0
+#
+335    PowerFirework    -281,74,169    b1    0,0,0
+335.5    PowerFirework    -279,74,167    b1    0,0,0
+336    PowerFirework    -281,74,169    b1    0,0,0
+336.5    PowerFirework    -279,74,167    b1    0,0,0
+#
+337    PowerFirework    -278,74,166    b1    0,0,0
+337.5    PowerFirework    -282,74,170    b1    0,0,0
+338    PowerFirework    -278,74,166    b1    0,0,0
+338.5    PowerFirework    -282,74,170    b1    0,0,0
+#
+339    PowerFirework    -277,74,165    b1    0,0,0
+339.5    PowerFirework    -283,74,171    b1    0,0,0
+340    PowerFirework    -277,74,165    b1    0,0,0
+340.5    PowerFirework    -283,74,171    b1    0,0,0
+#
+341    PowerFirework    -276,74,164    b1    0,0,0
+341.5    PowerFirework    -284,74,172    b1    0,0,0
+#
+342    PowerFirework    -283,74,171    b1    0,0,0
+342.1    PowerFirework    -277,74,165    b1    0,0,0
+342.2    PowerFirework    -282,74,170    b1    0,0,0
+342.3    PowerFirework    -278,74,166    b1    0,0,0
+342.4    PowerFirework    -279,74,167    b1    0,0,0
+342.5    PowerFirework    -281,74,169    b1    0,0,0
+342.6    PowerFirework    -280,74,168    b1    0,0,0
+#Final
+946	PowerFirework	-280,74,168	b3	0,0,0
+948	PowerFirework	-283,74,172	ball1	0,0,0
+949	PowerFirework	-275,73,163	ball2	0,0,0
+950	PowerFirework	-286,70,173	ball3	0,0,0
+951	PowerFirework	-275,74,164	b3	0,0,0
+951	PowerFirework	-280,74,168	ball2	0,0,0
+951	PowerFirework	-286,72,173	ball3	0,0,0
+952	PowerFirework	-277,74,166	ball1	0,0,0
+952	PowerFirework	-283,74,171	ball2	0,0,0
+954	PowerFirework	-280,74,168	ball3	0,0,0
+955	PowerFirework	-276,74,165	b3	0,0,0

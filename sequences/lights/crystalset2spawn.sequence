@@ -1,0 +1,30 @@
+Sequence	Light
+EnderCrystal	bl1
+EnderCrystal	bl2
+EnderCrystal	bl3
+EnderCrystal	bl4
+EnderCrystal	bl5
+EnderCrystal	bl6
+EnderCrystal	bl7
+EnderCrystal	bl8
+EnderCrystal	bl9
+EnderCrystal	bl10
+EnderCrystal	bl11
+EnderCrystal	bl12
+EnderCrystal	bl13
+EnderCrystal	bl14
+EnderCrystal	bl15
+EnderCrystal	bl16
+EnderCrystal	ml1
+EnderCrystal	ml2
+EnderCrystal	ml3
+EnderCrystal	ml4
+EnderCrystal	ml5
+0	bl16	Spawn	-130.5,119,-1612.5	-130.5,56,-1685.5
+0	bl15	Spawn	-131.5,119,-1612.5	-131.5,56,-1685.5
+0	bl14	Spawn	-132.5,119,-1612.5	-132.5,56,-1685.5
+0	bl13	Spawn	-133.5,119,-1612.5	-133.5,56,-1685.5
+0	bl12	Spawn	-134.5,119,-1612.5	-134.5,56,-1685.5
+0	bl11	Spawn	-135.5,119,-1612.5	-135.5,56,-1685.5
+0	bl10	Spawn	-136.5,119,-1612.5	-136.5,56,-1685.5
+0	bl9	Spawn	-137.5,119,-1612.5	-137.5,56,-1685.5

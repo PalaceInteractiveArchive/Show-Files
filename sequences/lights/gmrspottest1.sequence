@@ -1,0 +1,254 @@
+Sequence	Light	Relative
+#Define
+EnderCrystal	gmrspot1
+EnderCrystal	gmrspot2
+EnderCrystal	gmrspot3
+EnderCrystal	gmrspot4
+EnderCrystal	gmrspot5
+EnderCrystal	gmrspot6
+EnderCrystal	gmrspot7
+EnderCrystal	gmrspot8
+EnderCrystal	gmrspot9
+EnderCrystal	gmrspot10
+EnderCrystal	gmrspot11
+EnderCrystal	gmrspot12
+EnderCrystal	gmrspot13
+EnderCrystal	gmrspot14
+EnderCrystal	gmrspot15
+EnderCrystal	gmrspot16
+EnderCrystal	gmrspot17
+EnderCrystal	gmrspot18
+0	gmrspot1	Spawn	-187,131,262	-187,67,262
+0	gmrspot2	Spawn	-189,131,264	-189,67,264
+0	gmrspot3	Spawn	-191,131,266	-191,67,266
+0	gmrspot4	Spawn	-210,140,277	-210,76,277
+0	gmrspot5	Spawn	-213,140,277	-213,76,277
+0	gmrspot6	Spawn	-216,140,277	-216,76,277
+0	gmrspot7	Spawn	-225,140,250	-225,77,250
+0	gmrspot8	Spawn	-227,140,248	-227,77,248
+0	gmrspot9	Spawn	-229,140,246	-229,77,246
+0	gmrspot10	Spawn	-247,140,228	-247,77,228
+0	gmrspot11	Spawn	-249,140,226	-249,77,226
+0	gmrspot12	Spawn	-251,140,224	-251,77,224
+0	gmrspot13	Spawn	-279,140,215	-279,76,215
+0	gmrspot14	Spawn	-279,140,212	-279,76,212
+0	gmrspot15	Spawn	-279,140,209	-279,76,209
+0	gmrspot16	Spawn	-283,131,185	-283,67,185
+0	gmrspot17	Spawn	-281,131,183	-281,67,183
+0	gmrspot18	Spawn	-279,131,181	-279,67,181
+5	gmrspot1	Move	-11.3,-11.8,-34.7	5
+5	gmrspot2	Move	-11.3,-11.8,-34.7	5
+5	gmrspot3	Move	-11.3,-11.8,-34.7	5
+5	gmrspot4	Move	2.3,-11.8,-36.4	5
+5	gmrspot5	Move	2.3,-11.8,-36.4	5
+5	gmrspot6	Move	2.3,-11.8,-36.4	5
+5	gmrspot7	Move	13.4,-11.8,-33.9	5
+5	gmrspot8	Move	13.4,-11.8,-33.9	5
+5	gmrspot9	Move	13.4,-11.8,-33.9	5
+5	gmrspot10	Move	33,-11.8,-15.5	5
+5	gmrspot11	Move	33,-11.8,-15.5	5
+5	gmrspot12	Move	33,-11.8,-15.5	5
+5	gmrspot13	Move	36.4,-11.8,-2.3	5
+5	gmrspot14	Move	36.4,-11.8,-2.3	5
+5	gmrspot15	Move	36.4,-11.8,-2.3	5
+5	gmrspot16	Move	34.7,-11.8,11.3	5
+5	gmrspot17	Move	34.7,-11.8,11.3	5
+5	gmrspot18	Move	34.7,-11.8,11.3	5
+15	gmrspot1	Move	-4.2,-13.8,-13	5
+15	gmrspot2	Move	-4.2,-13.8,-13	5
+15	gmrspot3	Move	-4.2,-13.8,-13	5
+15	gmrspot4	Move	0.8,-13.8,-13.7	5
+15	gmrspot5	Move	0.8,-13.8,-13.7	5
+15	gmrspot6	Move	0.8,-13.8,-13.7	5
+15	gmrspot7	Move	5.1,-13.8,-12.7	5
+15	gmrspot8	Move	5.1,-13.8,-12.7	5
+15	gmrspot9	Move	5.1,-13.8,-12.7	5
+15	gmrspot10	Move	12.4,-13.8,-5.9	5
+15	gmrspot11	Move	12.4,-13.8,-5.9	5
+15	gmrspot12	Move	12.4,-13.8,-5.9	5
+15	gmrspot13	Move	13.7,-13.8,-0.8	5
+15	gmrspot14	Move	13.7,-13.8,-0.8	5
+15	gmrspot15	Move	13.7,-13.8,-0.8	5
+15	gmrspot16	Move	13,-13.8,4.2	5
+15	gmrspot17	Move	13,-13.8,4.2	5
+15	gmrspot18	Move	13,-13.8,4.2	5
+25	gmrspot1	Move	15.5,7.4,3.9	5
+25	gmrspot2	Move	15.5,7.4,3.9	5
+25	gmrspot3	Move	15.5,7.4,3.9	5
+25	gmrspot4	Move	13,7.4,9.3	5
+25	gmrspot5	Move	13,7.4,9.3	5
+25	gmrspot6	Move	13,7.4,9.3	5
+25	gmrspot7	Move	18.5,7.4,23.1	5
+25	gmrspot8	Move	18.5,7.4,23.1	5
+25	gmrspot9	Move	18.5,7.4,23.1	5
+25	gmrspot10	Move	-24.3,7.4,-17	5
+25	gmrspot11	Move	-24.3,7.4,-17	5
+25	gmrspot12	Move	-24.3,7.4,-17	5
+25	gmrspot13	Move	-9.3,7.4,-13	5
+25	gmrspot14	Move	-9.3,7.4,-13	5
+25	gmrspot15	Move	-9.3,7.4,-13	5
+25	gmrspot16	Move	-3.9,7.4,-15.5	5
+25	gmrspot17	Move	-3.9,7.4,-15.5	5
+25	gmrspot18	Move	-3.9,7.4,-15.5	5
+35	gmrspot1	Move	0,0,0	5
+35	gmrspot2	Move	0,0,0	5
+35	gmrspot3	Move	0,0,0	5
+35	gmrspot4	Move	0,0,0	5
+35	gmrspot5	Move	0,0,0	5
+35	gmrspot6	Move	0,0,0	5
+35	gmrspot7	Move	0,0,0	5
+35	gmrspot8	Move	0,0,0	5
+35	gmrspot9	Move	0,0,0	5
+35	gmrspot10	Move	22,0,46.6	5
+35	gmrspot11	Move	22,0,46.6	5
+35	gmrspot12	Move	22,0,46.6	5
+35	gmrspot13	Move	1.7,0,27	5
+35	gmrspot14	Move	1.7,0,27	5
+35	gmrspot15	Move	1.7,0,27	5
+35	gmrspot16	Move	-8.3,0,25.8	5
+35	gmrspot17	Move	-8.3,0,25.8	5
+35	gmrspot18	Move	-8.3,0,25.8	5
+45	gmrspot1	Move	-25.8,0,8.3	5
+45	gmrspot2	Move	-25.8,0,8.3	5
+45	gmrspot3	Move	-25.8,0,8.3	5
+45	gmrspot4	Move	-27,0,-1.7	5
+45	gmrspot5	Move	-27,0,-1.7	5
+45	gmrspot6	Move	-27,0,-1.7	5
+45	gmrspot7	Move	-47.9,0,-19	5
+45	gmrspot8	Move	-47.9,0,-19	5
+45	gmrspot9	Move	-47.9,0,-19	5
+45	gmrspot10	Move	-22,0,-46.6	5
+45	gmrspot11	Move	-22,0,-46.6	5
+45	gmrspot12	Move	-22,0,-46.6	5
+45	gmrspot13	Move	-1.7,0,-27	5
+45	gmrspot14	Move	-1.7,0,-27	5
+45	gmrspot15	Move	-1.7,0,-27	5
+45	gmrspot16	Move	8.3,0,-25.8	5
+45	gmrspot17	Move	8.3,0,-25.8	5
+45	gmrspot18	Move	8.3,0,-25.8	5
+55	gmrspot1	Move	17.6,0,-7.6	5
+55	gmrspot2	Move	12.3,0,-6.2	5
+55	gmrspot3	Move	7.1,0,-4.2	5
+55	gmrspot4	Move	19.1,0,-0.6	5
+55	gmrspot5	Move	13.7,0,-1.3	5
+55	gmrspot6	Move	8.1,0,-1.3	5
+55	gmrspot7	Move	32,0,4.1	5
+55	gmrspot8	Move	27,0,1.7	5
+55	gmrspot9	Move	21.8,0,0	5
+55	gmrspot10	Move	20.6,0,24.9	5
+55	gmrspot11	Move	18.6,0,19.7	5
+55	gmrspot12	Move	15.9,0,14.9	5
+55	gmrspot13	Move	3,0,18.9	5
+55	gmrspot14	Move	3,0,13.3	5
+55	gmrspot15	Move	2.3,0,7.9	5
+55	gmrspot16	Move	-4.1,0,18.7	5
+55	gmrspot17	Move	-2.1,0,13.5	5
+55	gmrspot18	Move	-0.7,0,8.2	5
+65	gmrspot1	Move	13.7,0,-0.4	5
+65	gmrspot2	Move	13.5,0,-2.1	5
+65	gmrspot3	Move	13.2,0,-3.8	5
+65	gmrspot4	Move	12.9,0,4.7	5
+65	gmrspot5	Move	13.3,0,3	5
+65	gmrspot6	Move	13.7,0,1.3	5
+65	gmrspot7	Move	18.6,0,19.7	5
+65	gmrspot8	Move	20.9,0,17.3	5
+65	gmrspot9	Move	22.9,0,14.6	5
+65	gmrspot10	Move	-15.9,0,-22	5
+65	gmrspot11	Move	-18.6,0,-19.7	5
+65	gmrspot12	Move	-20.9,0,-17.3	5
+65	gmrspot13	Move	-1.3,0,-13.7	5
+65	gmrspot14	Move	-3,0,-13.3	5
+65	gmrspot15	Move	-4.7,0,-12.9	5
+65	gmrspot16	Move	3.8,0,-13.2	5
+65	gmrspot17	Move	2.1,0,-13.5	5
+65	gmrspot18	Move	0.4,0,-13.7	5
+75	gmrspot1	Move	-60.4,-25.3,27.9	5
+75	gmrspot2	Move	-53.1,-25.6,25.8	5
+75	gmrspot3	Move	-45.8,-25.9,23.2	5
+75	gmrspot4	Move	-54.4,-32,7.1	5
+75	gmrspot5	Move	-46.7,-32.3,8.2	5
+75	gmrspot6	Move	-37.6,-33.2,10.3	5
+75	gmrspot7	Move	-58.1,-34.6,14	5
+75	gmrspot8	Move	-53.6,-35.2,19.2	5
+75	gmrspot9	Move	-47.6,-36.2,24.4	5
+75	gmrspot10	Move	-24,-36.2,49.7	5
+75	gmrspot11	Move	-17.4,-35.2,55.1	5
+75	gmrspot12	Move	-11.1,-34.3,60.1	5
+75	gmrspot13	Move	-10.3,-33.2,37.6	5
+75	gmrspot14	Move	-8.2,-32.3,46.7	5
+75	gmrspot15	Move	-7.1,-32,54.4	5
+75	gmrspot16	Move	-7.8,-25.2,50.7	5
+75	gmrspot17	Move	-9.4,-24.9,58.1	5
+75	gmrspot18	Move	-10.5,-24.6,65.5	5
+85	gmrspot1	Move	37.9,30,-15.3	5
+85	gmrspot2	Move	42.2,30.3,-15.5	5
+85	gmrspot3	Move	46.9,30.6,-14.7	5
+85	gmrspot4	Move	28.1,41.8,-9.5	5
+85	gmrspot5	Move	33.2,42.1,-8.5	5
+85	gmrspot6	Move	36.9,43,-7.7	5
+85	gmrspot7	Move	23.9,34.3,-24.2	5
+85	gmrspot8	Move	27.4,34.9,-23	5
+85	gmrspot9	Move	29.5,35.9,-21.3	5
+85	gmrspot10	Move	19.6,31.8,-29.7	5
+85	gmrspot11	Move	20.2,30.8,-28	5
+85	gmrspot12	Move	20.6,29.9,-25.9	5
+85	gmrspot13	Move	8.8,44.6,-37.2	5
+85	gmrspot14	Move	9.6,43.7,-33.3	5
+85	gmrspot15	Move	10.7,43.4,-28	5
+85	gmrspot16	Move	8,39.1,-50.7	5
+85	gmrspot17	Move	7.5,38.8,-44.5	5
+85	gmrspot18	Move	5.6,38.5,-38.8	5
+95	gmrspot1	Move	12.6,0,-4.1	5
+95	gmrspot2	Move	0,0,0	5
+95	gmrspot3	Move	-12.6,0,4.1	5
+95	gmrspot4	Move	15.4,0,0.9	5
+95	gmrspot5	Move	0,0,0	5
+95	gmrspot6	Move	-15.4,0,-0.9	5
+95	gmrspot7	Move	10.2,0,4.1	5
+95	gmrspot8	Move	0,0,0	5
+95	gmrspot9	Move	-10.2,0,-4.1	5
+95	gmrspot10	Move	4.2,0,8.9	5
+95	gmrspot11	Move	0,0,0	5
+95	gmrspot12	Move	-4.2,0,-8.9	5
+95	gmrspot13	Move	1,0,15.8	5
+95	gmrspot14	Move	0,0,0	5
+95	gmrspot15	Move	-1,0,-15.8	5
+95	gmrspot16	Move	-5.1,0,15.7	5
+95	gmrspot17	Move	0,0,0	5
+95	gmrspot18	Move	5.1,0,-15.7	5
+105	gmrspot1	Move	4.4,13.5,35	5
+105	gmrspot2	Move	10.9,13.5,33.5	5
+105	gmrspot3	Move	17,13.5,30.9	5
+105	gmrspot4	Move	-10.2,5.4,39.9	5
+105	gmrspot5	Move	-2.6,5.4,41.1	5
+105	gmrspot6	Move	5.2,5.4,40.8	5
+105	gmrspot7	Move	-15.7,21.5,24.8	5
+105	gmrspot8	Move	-10.8,21.5,27.3	5
+105	gmrspot9	Move	-5.5,21.5,28.9	5
+105	gmrspot10	Move	-25.6,25.6,6.6	5
+105	gmrspot11	Move	-23.9,25.6,11.3	5
+105	gmrspot12	Move	-21.4,25.6,15.5	5
+105	gmrspot13	Move	-42,3.8,-5.3	5
+105	gmrspot14	Move	-42.2,3.8,2.7	5
+105	gmrspot15	Move	-41,3.8,10.5	5
+105	gmrspot16	Move	-38.6,1.3,-21.2	5
+105	gmrspot17	Move	-41.9,1.3,-13.6	5
+105	gmrspot18	Move	-43.7,1.3,-5.5	5
+120	gmrspot1	Despawn
+120	gmrspot2	Despawn
+120	gmrspot3	Despawn
+120	gmrspot4	Despawn
+120	gmrspot5	Despawn
+120	gmrspot6	Despawn
+120	gmrspot7	Despawn
+120	gmrspot8	Despawn
+120	gmrspot9	Despawn
+120	gmrspot10	Despawn
+120	gmrspot11	Despawn
+120	gmrspot12	Despawn
+120	gmrspot13	Despawn
+120	gmrspot14	Despawn
+120	gmrspot15	Despawn
+120	gmrspot16	Despawn
+120	gmrspot17	Despawn
+120	gmrspot18	Despawn

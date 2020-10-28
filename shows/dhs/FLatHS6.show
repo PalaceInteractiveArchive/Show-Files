@@ -1,0 +1,296 @@
+#Show Started January 2nd, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths6
+5	AudioSync	flaths6	5
+10	AudioSync	flaths6	10
+30	AudioSync	flaths6	30
+60	AudioSync	flaths6	60
+120	AudioSync	flaths6	120
+180	AudioSync	flaths6	180
+240	AudioSync	flaths6	240
+300	AudioSync	flaths6	300
+360	AudioSync	flaths6	360
+420	AudioSync	flaths6	420
+480	AudioSync	flaths6	480
+#S6 Coronation 
+9.9	Text	&eWorthy queen of greatness,
+15.2	Text	&ethe heart of gold shines.
+21.7	Text	&eWe crown you with hope, love, and faith.
+29.8	Text	&eBeautiful, stoney land, of &oArendelle.
+45.2	Text	&f[&cBishop&f] &7Your Majesty, the gloves.
+56.2	Text	&7Sehm hon hell-drr in-um hell-gum ayg-num
+60.1	Text	&7ok krund ee thes-um hell-gah stahth,
+63.4	Text	&7ehk teh frahm fur-ear u-thear
+66.1	Text	&7Queen Elsa of Arendelle
+69.7	Text	&eQueen Elsa of Arendelle
+78.7	Text	&f[&aButler&f] &7This way, my lady.
+80.5	Text	&f[&dAnna&f] &7Oh, okay, I didn't-
+88.1	Text	&7Here? Are you sure?
+100.3	Text	&f[&bElsa&f] &7Hi.
+101.4	Text	&f[&dAnna&f] &7Hi, me? Oh, uhm, hi!
+105	Text	&f[&bElsa&f] &7You look beautiful.
+106.5	Text	&f[&dAnna&f] &7Thank you.
+107.8	Text	&7You look &obeautifuller!
+109.6	Text	&7I mean, not fuller.
+110.8	Text	&7You don't look fuller.
+111.4	Text	&f[&bElsa&f] &7Thank you.
+112.8	Text	&f[&aButler&f] &7Your Majesty.
+114.2	Text	&7The Duke of &oWeaseltown.
+116.9	Text	&f[&cDuke of Weselton&f] &7Weselton.
+118.2	Text	&7The Duke of Weselton.
+121	Text	&7Your Majesty,
+123.1	Text	&7as your closest partner in trade, 
+125.6	Text	&7might I have the pleasure of the first dance?
+133.1	Text	&7I'm as agile as a peacock.
+135.4	Text	&f[&bElsa&f] &7I'm sorry, but I don't dance.
+137.7	Text	&f[&cDuke of Weselton&f] &7Well, then,
+138.8	Text	&7at least might I say how wonderful it is to have the gates opened again.
+143.4	Text	&7Why were they closed, either of you feel like sharing?
+147.2	Text	&7Hmmmmmmmm? 
+148.9	Text	&f[&aButler&f] &7This way, duke.
+151.4	Text	&f[&cDuke of Weselton&f] &7A honor to meet you both.
+164.9   Text     &f[&bElsa&f] &7So this is what a party looks like?
+167      Text     &f[&dAnna&f] &7It’s warmer than I thought.
+168.8   Text     &f[&bElsa&f] &7And what’s that wonderful smell?
+171.5	Text	&eChocolate!
+174.4   Text     &f[&dAnna&f] &7This is so nice.
+177      Text     &7I wish it could be like this all the time.
+179.9 	Text 	&f[&bElsa&f] &7Me too.
+181.5   Text 	&7I really do Anna, but it can’t.
+184.5 	Text 	&f[&dAnna&f] &7Why not?
+185.6 	Text	&7If we-
+185.7 	Text	&f[&bElsa&f] &7It just can’t
+189.4 	Text	&f[&dAnna&f] &7Excuse me for a minute.
+193.6	Text	&7Woah!
+195.1  	Text 	&f[&6Hans&f] &7Glad I caught you.
+196.6 	Text 	&f[&dAnna&f] &7Hans!
+197.2 	Text 	&f[&6Hans&f] &7Are you alright?
+204.8 	Text     &7Shall we?
+221	Text     &7Woah!
+222.4 	Text     &7I’ve got you.
+238.6 	Text     &7Hey, what’s this?
+239.8	Text  	&f[&dAnna&f] &7Oh! I was born with it.
+242 	Text     &7Although I dreamt I was kissed by a troll!
+245.6 	Text 	&7What, why?
+247.9 	Text     &f[&6Hans&f] &7I like it.
+251.9 	Text	&f[&dAnna&f] &7Yesssss!
+286.1	Text 	&f[&6Hans&f] &7I can’t wait to tell my brothers about you.
+288.5 	Text     &7They’ll be so jealous.
+290.8 	Text     &f[&dAnna&f] &7How many brothers do you have?
+293.3 	Text	&f[&6Hans&f] &7Twelve, count ‘em!
+295.5 	Text 	&7All older.
+296.7 	Text	&7Three of them pretended I was invisible, &oliterally, &7for two years.
+301.8 	Text	&7But that’s what brothers do.
+304 	Text	&f[&dAnna&f] &7And sisters...
+306 	Text	&7Elsa and I were really close when we were little.
+309.9 	Text	&7But then one day she just...
+312.1 	Text	&7shut me out, and I never knew why.
+316.3 	Text 	&f[&6Hans&f] &7I would never shut you out.
+322.8 	Text	&f[&dAnna&f] &7Okay... Can I just say something crazy?
+328.6 	Text	&f[&6Hans&f] &7I love crazy.
+330.3 	Text	&f[&dAnna&f] &dAll my life has been a series of doors in my face,
+334.8 	Text	&dand then suddenly I bumped into you.
+337.6 	Text	&f[&6Hans&f] &7I was just thinking the same thing, because like,
+339.9 	Text	&6I’ve been searching my whole life to find my own place.
+344.1 	Text	&6And maybe it’s the party talking,
+346.6 	Text 	&6or the chocolate fondue.
+348.3	Text	&f[&dAnna&f] &dBut with you...
+349.6 	Text	&f[&6Hans&f] &6But with you, I found my place.
+351.9 	Text 	&f[&dAnna&f] &dI see your face.
+353.6 	Text	&eAnd it's nothing like I've ever known before.
+357.4 	Text 	&eLove is an open door!
+362 	Text 	&eLove is an open...
+363.2 	Text	&f[&dAnna&f] &ddoor!
+363.8 	Text 	&f[&6Hans&f] &6door!
+366.6	Text	&eLove is an open door!
+368.4 	Text	&f[&dAnna&f] &dWith you!
+369.3 	Text	&f[&6Hans&f] &6With you!
+369.9 	Text	&f[&dAnna&f] &dWith you!
+370.6	Text	&f[&6Hans&f] &6With you!
+371.4 	Text	&eLove is an open door.
+381.4 	Text	&f[&6Hans&f] &6I mean it’s crazy.
+382.4	Text	&f[&dAnna&f] &7What?
+382.8 	Text	&f[&6Hans&f] &6We finish each others’-
+384 	Text	&f[&dAnna&f] &dSandwiches.
+385 	Text	&f[&6Hans&f] &6That’s what I was gonna say!
+386.2 	Text 	&f[&dAnna&f] &dI never met someone...
+387.4 	Text	&ewho thinks so much like me!
+389.4 	Text	&7Jinx.
+390.1 	Text	&7Jinx again!
+391 	Text	&eOur mental synchronization,
+393.1 	Text	&ecan have but one explanation
+395.8	Text	&f[&6Hans&f] &6You
+396.2	Text 	&f[&dAnna&f] &dand I
+396.7	Text	&f[&6Hans&f] &6were
+397 	Text 	&f[&dAnna&f] &djust
+397.3 	Text	&emeant to be!
+399.6	Text	&eSay goodbye!
+400.7	Text	&e&lSay goodbye to the pain of the past,
+405.2	Text	&ewe don’t have to feel it anymore!
+408.7	Text	&eLove is an open door!
+413.3	Text	&eLove is an open door!
+415	Text	&e&lDoor!
+417.8	Text	&eLife can be so much more!
+419.8	Text	&f[&dAnna&f] &dWith you!
+420.6	Text	&f[&6Hans&f] &6With you!
+421.2	Text	&f[&dAnna&f] &dWith you!
+421.9	Text	&f[&6Hans&f] &6With you!
+422.5	Text	&eLove is an open door!
+450.8	Text	&e&lSay goodbye!
+452	Text	&e&lSay goodbye to the pain of the past,
+456.3	Text	&ewe don’t have to feel it anymore.
+459.9	Text	&eLove is an open door!
+464.5	Text	&f[&dAnna&f] &dLove is an open door!
+466.2	Text	&f[&6Hans&f] &6Door!
+469.1	Text	&eLife can be so much more!
+470.9	Text	&f[&dAnna&f] &dWith you!
+471.7	Text	&f[&6Hans&f] &6With you!
+472.4	Text	&f[&dAnna&f] &dWith you!
+473	Text	&f[&6Hans&f] &6With you! 
+473.8	Text	&eLove is an open... 
+474.9	Text	&f[&6Hans&f] &6door.
+475.5	Text	&f[&dAnna&f] &ddoor.
+479.2	Text	&f[&6Hans&f] &7Can I just say something crazy?
+480.9	Text	&7Will you marry me?
+483	Text	&f[&dAnna&f] &7Can I say something even crazier?
+485.4	Text	&7Yes!
+#Schematic
+0	Schematic	FLatHS6.1	439	62	68	dlr	false
+2.3	Schematic	FLatHS6.2	439	62	68	dlr	false
+4.6	Schematic	FLatHS6.3	439	62	68	dlr	false
+6.9	Schematic	FLatHS6.4	439	62	68	dlr	false
+#MovePlatform
+9.20	Block	152	474,66,61
+11.5	Block	152	474,66,61
+13.8	Block	152	474,66,61
+16.1	Block	152	474,66,61
+18.4	Block	152	474,66,61
+20.7	Block	152	474,66,61
+23.0	Block	152	474,66,61
+25.3	Block	152	474,66,61
+27.6	Block	152	474,66,61
+29.9	Block	152	474,66,61
+32.2	Block	152	474,66,61
+34.5	Block	152	474,66,61
+#Backwards
+201	Block	152	476,66,64
+202	Block	152	476,66,64
+203	Block	152	476,66,64
+204	Block	152	476,66,64
+205	Block	152	476,66,64
+206	Block	152	476,66,64
+207	Block	152	476,66,64
+208	Block	152	476,66,64
+209	Block	152	476,66,64
+210	Block	152	476,66,64
+211	Block	152	476,66,64
+212	Block	152	476,66,64
+#MoveBackwardsPlayer
+201	Block	152	471,66,62
+202	Block	152	471,66,62
+203	Block	152	471,66,62
+204	Block	152	471,66,62
+205	Block	152	471,66,62
+206	Block	152	471,66,62
+207	Block	152	471,66,62
+208	Block	152	471,66,62
+#Schematic
+36.8	Schematic	FLatHS6.5	439	62	68	dlr	false
+39.1	Schematic	FLatHS6.6	439	62	68	dlr	false
+41.4	Schematic	FLatHS6.7	439	62	68	dlr	false
+78.7	Schematic	FLatHS6.8	439	62	68	dlr	false
+81	Schematic	FLatHS6.9	439	62	68	dlr	false
+83.3	Schematic	FLatHS6.10	439	62	68	dlr	false
+197	Schematic	FLatHS6.11	439	62	68	dlr	false
+318.9	Schematic	FLatHS6.12	439	62	68	dlr	false
+198	Block	152	477,66,57
+199	Block	152	477,66,58
+200	Block	152	477,66,59
+#SpawnPlatformArmorStand
+0	Block	152	472,66,62
+#KillPlatformArmorStand
+78.7	Block	152	473,66,62
+#CloneProjectorsToClose
+213	Block	152	471,66,61
+214	Block	152	472,66,61
+215	Block	152	473,66,61
+#KillPlatform
+216	Block	152	473,66,64
+#SpawnPlatform
+0	Block	152	474,66,62
+#ItemFrame
+#39.1	Block	152	-139,90,-292
+#39.1	Block	152	-138,90,-292
+#39.1	Block	152	-137,90,-292
+#39.1	Block	152	-136,90,-292
+#39.1	Block	152	-139,90,-290
+#39.1	Block	152	-138,90,-290
+#39.1	Block	152	-137,90,-290
+#39.1	Block	152	-136,90,-290
+#78.7	Block	152	-139,90,-292
+#78.7	Block	152	-138,90,-292
+#78.7	Block	152	-137,90,-292
+#78.7	Block	152	-136,90,-292
+#78.7	Block	152	-139,90,-290
+#78.7	Block	152	-138,90,-290
+#78.7	Block	152	-137,90,-290
+#78.7	Block	152	-136,90,-290
+#41.4	Block	152	-139,90,-298
+#41.4	Block	152	-138,90,-298
+#41.4	Block	152	-137,90,-298
+#41.4	Block	152	-136,90,-298
+#41.4	Block	152	-139,90,-296
+#41.4	Block	152	-138,90,-296
+#41.4	Block	152	-137,90,-296
+#41.4	Block	152	-136,90,-296
+#41.4	Block	152	-144,90,-294
+#41.4	Block	152	-143,90,-294
+#41.4	Block	152	-142,90,-294
+#41.4	Block	152	-141,90,-294
+#41.4	Block	152	-140,90,-294
+#41.4	Block	152	-139,90,-294
+#41.4	Block	152	-138,90,-294
+#41.4	Block	152	-137,90,-294
+#41.4	Block	152	-136,90,-294
+##Pixelator
+#39.2	Block	152	-139,90,-291
+#39.2	Block	152	-138,90,-291
+#39.2	Block	152	-137,90,-291
+#39.2	Block	152	-136,90,-291
+#39.2	Block	152	-139,90,-289
+#39.2	Block	152	-138,90,-289
+#39.2	Block	152	-137,90,-289
+#39.2	Block	152	-136,90,-289
+#78.8	Block	152	-139,90,-291
+#78.8	Block	152	-138,90,-291
+#78.8	Block	152	-137,90,-291
+#78.8	Block	152	-136,90,-291
+#78.8	Block	152	-139,90,-289
+#78.8	Block	152	-138,90,-289
+#78.8	Block	152	-137,90,-289
+#78.8	Block	152	-136,90,-289
+#41.5	Block	152	-139,90,-297
+#41.5	Block	152	-138,90,-297
+#41.5	Block	152	-137,90,-297
+#41.5	Block	152	-136,90,-297
+#41.5	Block	152	-139,90,-295
+#41.5	Block	152	-138,90,-295
+#41.5	Block	152	-137,90,-295
+#41.5	Block	152	-136,90,-295
+#41.5	Block	152	-144,90,-293
+#41.5	Block	152	-143,90,-293
+#41.5	Block	152	-142,90,-293
+#41.5	Block	152	-141,90,-293
+#41.5	Block	152	-140,90,-293
+#41.5	Block	152	-139,90,-293
+#41.5	Block	152	-138,90,-293
+#41.5	Block	152	-137,90,-293
+#41.5	Block	152	-136,90,-293
+##RemovePixelator
+#41.3	Block	152	-141,90,-298
+#78.6	Block	152	-141,90,-298
+#80.9	Block	152	-141,90,-298
+

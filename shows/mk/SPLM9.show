@@ -1,0 +1,344 @@
+﻿Show	Location	-544,44,-1635
+Show	TextRadius	25
+#Define
+ArmorStand	splmefrog1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ0MDQ1MjJiYjM1MjJhYjRhM2RlNmZjNTY0OGE4MWFhZTg0Y2VkYjk3NDMxNjc4OGE0YWZhZjJlODhlZGMifX19";299(45,161,51);300(45,161,51);301(45,161,51);0
+ArmorStand	splmefrog2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM1OTg1ZjRkNTY0MzkxOGU2YWZkZDQ1NzZhOTRhZjY4ZGY4ZDI0MmQ2ODBjMDViNGU3ZjAyMDY4NmQ2ZCJ9fX0=";299(45,161,51);300(45,161,51);301(45,161,51);0
+ArmorStand	splmefrog3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDM1OTg1ZjRkNTY0MzkxOGU2YWZkZDQ1NzZhOTRhZjY4ZGY4ZDI0MmQ2ODBjMDViNGU3ZjAyMDY4NmQ2ZCJ9fX0=";299(94,59,44);0;0;0
+ArmorStand	splmefrog3a	true	0;0;300(45,161,51);301(45,161,51);0
+ArmorStand	splmefrog4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQ0MDQ1MjJiYjM1MjJhYjRhM2RlNmZjNTY0OGE4MWFhZTg0Y2VkYjk3NDMxNjc4OGE0YWZhZjJlODhlZGMifX19";299(45,161,51);0;0;0
+ArmorStand	splmefrog4a	true	0;0;300(45,161,51);301(45,161,51);0
+ArmorStand	splmpopup1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTE1NTQxMmZkMTFkY2QwYWJhNzdhMTgzNzg1ODM1MzdlNzYyNWM2ZjcxZmU0NTJmN2E3MTdkYWUzMzI2ZjIyYSJ9fX0=";299(219,101,213);300(219,101,213);301(74,173,61);0
+ArmorStand	splmpopup2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZkYjdkNTA3Mzg5YTE0YmJlYzM5ZGU2OTIyMTY1YjMyZDQzNjU3YmNiNmFhZjRiNTE4MjgyNWIyMmI0In19fQ==";299(45,106,156);300(45,106,156);301(156,111,45);0
+ArmorStand	splmpopup3	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDk5OTM0Y2RmYTkwZTZiNGE0MDAzMzk2YmJiZmU5MTk5N2VkYTFhYzA0NWRmM2IyMjEzZjM2NzA2ZjMxMjZjMiJ9fX0=";299(45,106,156);300(45,106,156);301(156,111,45);0
+ArmorStand	splmfox5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM3ZDhiNDQ5NGY1YTNhZjdlZWM4N2RiYjM0NjZjZDNkZGE3ODM1Y2Y1ZDNhMzVkMWQ2YTFmYTQzMzdlMGIzIn19fQ==";299(80,152,181);300(33,46,33);301(186,126,73);0
+ArmorStand	splmrabbit7	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThhNGZiMjVhZmJjNmI3YWVjMTVhYmU4NzJmY2VhZDFlNWIzM2MxYWIxMjUyNTE0MWQ3N2JmZDI5OGZjMzJkOSJ9fX0=";299(214,160,222);300(35,87,99);301(110,88,66);0
+ArmorStand	splmbeehive2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjAzNDJkYzljMmFkODg2YWNmZTNjYTJlOTg3YjdlMjhhODdjNzc0Y2E1ZjNkOGNiMmJmYWJlMTMxY2FmZTgifX19";0;0;0;0
+ArmorStand	splmfbird1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FlYWI2MjRhZWRiOTllZTYzNWJlY2EzYzk2MTZiMmFhYzRhYmNjY2QzOTJkMmQ3ZWNkNzllMzZhZTM5ODRjNCJ9fX0=";299(230,237,232);300(0,0,0);301(201,172,52);0
+ArmorStand	splmfbird2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2FlYWI2MjRhZWRiOTllZTYzNWJlY2EzYzk2MTZiMmFhYzRhYmNjY2QzOTJkMmQ3ZWNkNzllMzZhZTM5ODRjNCJ9fX0=";299(230,237,232);300(0,0,0);301(201,172,52);0
+#Spawn
+0	ArmorStand	splmefrog1	Spawn	-540.5,42.65,-1579.5,180
+0.1	ArmorStand	splmefrog1	Position	LEG_LEFT	120,0,50	0.5
+0.1	ArmorStand	splmefrog1	Position	LEG_RIGHT	120,0,-50	0.5
+0	ArmorStand	splmefrog2	Spawn	-534.5,42.65,-1576.5,150
+0.1	ArmorStand	splmefrog2	Position	LEG_LEFT	120,0,50	0.5
+0.1	ArmorStand	splmefrog2	Position	LEG_RIGHT	120,0,-50	0.5
+0	ArmorStand	splmefrog3	Spawn	-539.5,42.1,-1577.5,-140
+0	ArmorStand	splmefrog3a	Spawn	-539.31,42.46,-1577.72,-140
+0.1	ArmorStand	splmefrog3	Position	BODY	-90,0,0	0.5
+0.1	ArmorStand	splmefrog3	Position	ARM_RIGHT	-120,0,-20	0.5
+0.1	ArmorStand	splmefrog3	Position	ARM_LEFT	-120,0,20	0.5
+0.1	ArmorStand	splmefrog3	Position	HEAD	-40,0,20	0.5
+0.1	ArmorStand	splmefrog3a	Position	LEG_LEFT	-110,0,0	0.5
+0.1	ArmorStand	splmefrog3a	Position	LEG_RIGHT	-110,0,0	0.5
+0	ArmorStand	splmfox5	Spawn	-515.5,43,-1595.5,31
+0.1	ArmorStand	splmfox5	Position	ARM_RIGHT	-90,30,0	0.5
+0.1	ArmorStand	splmfox5	Position	LEG_LEFT	0,0,-10	0.5
+0.1	ArmorStand	splmfox5	Position	LEG_RIGHT	0,0,10	0.5
+0	ArmorStand	splmrabbit7	Spawn	-516.5,43.3,-1595.5,40
+0.1	ArmorStand	splmrabbit7	Position	ARM_RIGHT	0,-90,0	0.5
+0.1	ArmorStand	splmrabbit7	Position	ARM_LEFT	0,90,0	0.5
+0.1	ArmorStand	splmrabbit7	Position	LEG_LEFT	-80,-10,0	0.5
+0.1	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-80,10,0	0.5
+0	ArmorStand	splmbeehive2	Spawn	-516.5,42.85,-1595.5,40
+0.1	Block	152	-539,38,-1580
+0	ArmorStand	splmpopup1	Spawn	-524.5,40.8,-1583.5,90
+0.1	ArmorStand	splmpopup1	Position	ARM_RIGHT	-110,0,-20	0.5
+0.1	ArmorStand	splmpopup1	Position	ARM_LEFT	-110,0,20	0.5
+0	ArmorStand	splmpopup2	Spawn	-524.5,40.8,-1584.5,90
+0.1	ArmorStand	splmpopup2	Position	ARM_RIGHT	-90,0,-20	0.5
+0.1	ArmorStand	splmpopup2	Position	ARM_LEFT	-90,0,20	0.5
+0	ArmorStand	splmpopup3	Spawn	-523.5,40.8,-1585.5,90
+0.1	ArmorStand	splmpopup3	Position	ARM_RIGHT	-100,0,-20	0.5
+0.1	ArmorStand	splmpopup3	Position	ARM_LEFT	-100,0,20	0.5
+0	ArmorStand	splmfbird1	Spawn	-503.5,44.7,-1592,120
+0.1	ArmorStand	splmfbird1	Position	LEG_LEFT	30,0,0	0.5
+0.1	ArmorStand	splmfbird1	Position	LEG_RIGHT	30,0,0	0.5
+0.1	ArmorStand	splmfbird1	Position	ARM_LEFT	-60,-30,0	0.5
+0.1	ArmorStand	splmfbird1	Position	ARM_RIGHT	-60,30,0	0.5
+0	ArmorStand	splmfbird2	Spawn	-503.5,45.3,-1593,60
+0.1	ArmorStand	splmfbird2	Position	LEG_LEFT	30,0,0	0.5
+0.1	ArmorStand	splmfbird2	Position	LEG_RIGHT	30,0,0	0.5
+0.1	ArmorStand	splmfbird2	Position	ARM_LEFT	-60,-30,0	0.5
+0.1	ArmorStand	splmfbird2	Position	ARM_RIGHT	-60,30,0	0.5
+#
+0	ArmorStand	splmefrog4	Spawn	-535.5,42.1,-1575.5,130
+0	ArmorStand	splmefrog4a	Spawn	-535.69,42.46,-1575.7,130
+0.1	ArmorStand	splmefrog4	Position	BODY	-90,0,0	0.5
+0.1	ArmorStand	splmefrog4	Position	ARM_RIGHT	-120,0,-20	0.5
+0.1	ArmorStand	splmefrog4	Position	ARM_LEFT	-120,0,20	0.5
+0.1	ArmorStand	splmefrog4	Position	HEAD	-40,0,20	0.5
+0.1	ArmorStand	splmefrog4a	Position	LEG_LEFT	-110,0,0	0.5
+0.1	ArmorStand	splmefrog4a	Position	LEG_RIGHT	-110,0,0	0.5
+#Movements
+#PopUp1
+5	ArmorStand	splmpopup1	Move	-524.5,42.5,-1583.5	0.7
+7	ArmorStand	splmpopup1	Move	-524.5,40.8,-1583.5	0.7
+10	ArmorStand	splmpopup1	Move	-524.5,42.5,-1583.5	0.7
+12	ArmorStand	splmpopup1	Move	-524.5,40.8,-1583.5	0.7
+15	ArmorStand	splmpopup1	Move	-524.5,42.5,-1583.5	0.7
+17	ArmorStand	splmpopup1	Move	-524.5,40.8,-1583.5	0.7
+20	ArmorStand	splmpopup1	Move	-524.5,42.5,-1583.5	0.7
+22	ArmorStand	splmpopup1	Move	-524.5,40.8,-1583.5	0.7
+25	ArmorStand	splmpopup1	Move	-524.5,42.5,-1583.5	0.7
+27	ArmorStand	splmpopup1	Move	-524.5,40.8,-1583.5	0.7
+#PopUp2
+6	ArmorStand	splmpopup2	Move	-524.5,42.5,-1584.5	0.7
+8	ArmorStand	splmpopup2	Move	-524.5,40.8,-1584.5	0.7
+11	ArmorStand	splmpopup2	Move	-524.5,42.5,-1584.5	0.7
+13	ArmorStand	splmpopup2	Move	-524.5,40.8,-1584.5	0.7
+16	ArmorStand	splmpopup2	Move	-524.5,42.5,-1584.5	0.7
+18	ArmorStand	splmpopup2	Move	-524.5,40.8,-1584.5	0.7
+21	ArmorStand	splmpopup2	Move	-524.5,42.5,-1584.5	0.7
+23	ArmorStand	splmpopup2	Move	-524.5,40.8,-1584.5	0.7
+26	ArmorStand	splmpopup2	Move	-524.5,42.5,-1584.5	0.7
+28	ArmorStand	splmpopup2	Move	-524.5,40.8,-1584.5	0.7
+#PopUp3
+7	ArmorStand	splmpopup3	Move	-523.5,42.5,-1585.5	0.7
+9	ArmorStand	splmpopup3	Move	-523.5,40.8,-1585.5	0.7
+12	ArmorStand	splmpopup3	Move	-523.5,42.5,-1585.5	0.7
+14	ArmorStand	splmpopup3	Move	-523.5,40.8,-1585.5	0.7
+17	ArmorStand	splmpopup3	Move	-523.5,42.5,-1585.5	0.7
+19	ArmorStand	splmpopup3	Move	-523.5,40.8,-1585.5	0.7
+22	ArmorStand	splmpopup3	Move	-523.5,42.5,-1585.5	0.7
+24	ArmorStand	splmpopup3	Move	-523.5,40.8,-1585.5	0.7
+27	ArmorStand	splmpopup3	Move	-523.5,42.5,-1585.5	0.7
+29	ArmorStand	splmpopup3	Move	-523.5,40.8,-1585.5	0.7
+#eFrog2
+3	ArmorStand	splmefrog2	Position	HEAD	-10,0,-10	0.5
+3.6	ArmorStand	splmefrog2	Position	HEAD	10,0,0	0.5
+4.2	ArmorStand	splmefrog2	Position	HEAD	-10,0,10	0.5
+4.8	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+5.4	ArmorStand	splmefrog2	Position	HEAD	0,0,0	0.5
+6	ArmorStand	splmefrog2	Position	HEAD	-10,20,0	0.5
+6.6	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+7.2	ArmorStand	splmefrog2	Position	HEAD	-10,0,-10	0.5
+7.8	ArmorStand	splmefrog2	Position	HEAD	10,0,0	0.5
+8.4	ArmorStand	splmefrog2	Position	HEAD	-10,0,10	0.5
+9	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+9.6	ArmorStand	splmefrog2	Position	HEAD	0,0,0	0.5
+10.2	ArmorStand	splmefrog2	Position	HEAD	-10,20,0	0.5
+10.8	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+11.4	ArmorStand	splmefrog2	Position	HEAD	-10,0,-10	0.5
+12	ArmorStand	splmefrog2	Position	HEAD	10,0,0	0.5
+12.6	ArmorStand	splmefrog2	Position	HEAD	-10,0,10	0.5
+13.2	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+13.8	ArmorStand	splmefrog2	Position	HEAD	0,0,0	0.5
+14.4	ArmorStand	splmefrog2	Position	HEAD	-10,20,0	0.5
+15	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+15.6	ArmorStand	splmefrog2	Position	HEAD	10,0,0	0.5
+16.2	ArmorStand	splmefrog2	Position	HEAD	-10,0,10	0.5
+16.8	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+17.4	ArmorStand	splmefrog2	Position	HEAD	0,0,0	0.5
+18	ArmorStand	splmefrog2	Position	HEAD	-10,20,0	0.5
+18.6	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+19.2	ArmorStand	splmefrog2	Position	HEAD	-10,0,-10	0.5
+19.8	ArmorStand	splmefrog2	Position	HEAD	10,0,0	0.5
+20.4	ArmorStand	splmefrog2	Position	HEAD	-10,0,10	0.5
+21	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+21.6	ArmorStand	splmefrog2	Position	HEAD	0,0,0	0.5
+22.2	ArmorStand	splmefrog2	Position	HEAD	-10,20,0	0.5
+22.8	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+23.4	ArmorStand	splmefrog2	Position	HEAD	-10,0,-10	0.5
+24	ArmorStand	splmefrog2	Position	HEAD	10,0,0	0.5
+24.6	ArmorStand	splmefrog2	Position	HEAD	-10,0,10	0.5
+25.2	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+25.8	ArmorStand	splmefrog2	Position	HEAD	0,0,0	0.5
+26.4	ArmorStand	splmefrog2	Position	HEAD	-10,20,0	0.5
+27	ArmorStand	splmefrog2	Position	HEAD	10,-20,0	0.5
+#Movements
+2	ArmorStand	splmefrog1	Position	HEAD	-10,0,-10	0.5
+2.6	ArmorStand	splmefrog1	Position	HEAD	10,0,0	0.5
+3.2	ArmorStand	splmefrog1	Position	HEAD	-10,0,10	0.5
+3.8	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+4.4	ArmorStand	splmefrog1	Position	HEAD	0,0,0	0.5
+5	ArmorStand	splmefrog1	Position	HEAD	-10,20,0	0.5
+5.6	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+6.2	ArmorStand	splmefrog1	Position	HEAD	-10,0,-10	0.5
+6.8	ArmorStand	splmefrog1	Position	HEAD	10,0,0	0.5
+7.4	ArmorStand	splmefrog1	Position	HEAD	-10,0,10	0.5
+8	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+8.6	ArmorStand	splmefrog1	Position	HEAD	0,0,0	0.5
+9.2	ArmorStand	splmefrog1	Position	HEAD	-10,20,0	0.5
+9.8	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+10.4	ArmorStand	splmefrog1	Position	HEAD	-10,0,-10	0.5
+11	ArmorStand	splmefrog1	Position	HEAD	10,0,0	0.5
+11.6	ArmorStand	splmefrog1	Position	HEAD	-10,0,10	0.5
+12.2	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+12.8	ArmorStand	splmefrog1	Position	HEAD	0,0,0	0.5
+13.4	ArmorStand	splmefrog1	Position	HEAD	-10,20,0	0.5
+14	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+14.6	ArmorStand	splmefrog1	Position	HEAD	10,0,0	0.5
+15.2	ArmorStand	splmefrog1	Position	HEAD	-10,0,10	0.5
+15.8	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+16.4	ArmorStand	splmefrog1	Position	HEAD	0,0,0	0.5
+17	ArmorStand	splmefrog1	Position	HEAD	-10,20,0	0.5
+17.6	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+18.2	ArmorStand	splmefrog1	Position	HEAD	-10,0,-10	0.5
+18.8	ArmorStand	splmefrog1	Position	HEAD	10,0,0	0.5
+19.4	ArmorStand	splmefrog1	Position	HEAD	-10,0,10	0.5
+20	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+20.6	ArmorStand	splmefrog1	Position	HEAD	0,0,0	0.5
+21.2	ArmorStand	splmefrog1	Position	HEAD	-10,20,0	0.5
+21.8	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+22.4	ArmorStand	splmefrog1	Position	HEAD	-10,0,-10	0.5
+23	ArmorStand	splmefrog1	Position	HEAD	10,0,0	0.5
+23.6	ArmorStand	splmefrog1	Position	HEAD	-10,0,10	0.5
+24.2	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+24.8	ArmorStand	splmefrog1	Position	HEAD	0,0,0	0.5
+25.4	ArmorStand	splmefrog1	Position	HEAD	-10,20,0	0.5
+26	ArmorStand	splmefrog1	Position	HEAD	10,-20,0	0.5
+#
+2	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+2	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+3.1	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+3.1	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+4.2	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+4.2	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+5.3	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+5.3	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+6.4	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+6.4	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+7.5	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+7.5	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+8.6	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+8.6	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+9.7	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+9.7	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+10.8	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+10.8	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+11.9	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+11.9	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+13	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+13	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+14.1	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+14.1	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+15.2	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+15.2	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+16.3	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+16.3	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+17.4	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+17.4	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+18.5	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+18.5	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+19.6	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+19.6	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+20.7	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+20.7	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+21.8	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+21.8	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+22.9	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+22.9	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+24	ArmorStand	splmefrog3	Move	-539.5,42,-1577.5	1
+24	ArmorStand	splmefrog3a	Move	-539.31,42.36,-1577.72	1
+25.1	ArmorStand	splmefrog3	Move	-539.5,42.1,-1577.5	1
+25.1	ArmorStand	splmefrog3a	Move	-539.31,42.46,-1577.72	1
+#
+2	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+2	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+3.1	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+3.1	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+4.2	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+4.2	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+5.3	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+5.3	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+6.4	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+6.4	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+7.5	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+7.5	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+8.6	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+8.6	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+9.7	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+9.7	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+10.8	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+10.8	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+11.9	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+11.9	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+13	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+13	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+14.1	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+14.1	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+15.2	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+15.2	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+16.3	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+16.3	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+17.4	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+17.4	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+18.5	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+18.5	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+19.6	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+19.6	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+20.7	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+20.7	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+21.8	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+21.8	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+22.9	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+22.9	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+24	ArmorStand	splmefrog4	Move	-535.5,42,-1575.5	1
+24	ArmorStand	splmefrog4a	Move	-535.69,42.36,-1575.7	1
+25.1	ArmorStand	splmefrog4	Move	-535.5,42.1,-1575.5	1
+25.1	ArmorStand	splmefrog4a	Move	-535.69,42.46,-1575.7	1
+#Fox
+10	ArmorStand	splmfox5	Position	ARM_LEFT	-30,-10,0	3
+11	ArmorStand	splmfox5	Position	ARM_LEFT	-20,0,10	3
+12	ArmorStand	splmfox5	Position	ARM_LEFT	-50,-20,-10	3
+13	ArmorStand	splmfox5	Position	ARM_LEFT	-40,-20,-20	3
+14	ArmorStand	splmfox5	Position	ARM_LEFT	-30,-40,0	3
+15	ArmorStand	splmfox5	Position	ARM_LEFT	-20,-20,10	3
+16	ArmorStand	splmfox5	Position	ARM_LEFT	-50,-30,-10	3
+17	ArmorStand	splmfox5	Position	ARM_LEFT	-70,-20,-20	3
+20	ArmorStand	splmfox5	Position	ARM_LEFT	-30,-10,0	3
+21	ArmorStand	splmfox5	Position	ARM_LEFT	-20,-50,10	3
+22	ArmorStand	splmfox5	Position	ARM_LEFT	-80,-20,-10	3
+23	ArmorStand	splmfox5	Position	ARM_LEFT	-10,-20,0	3
+24	ArmorStand	splmfox5	Position	ARM_LEFT	-30,-10,0	3
+25	ArmorStand	splmfox5	Position	ARM_LEFT	-30,0,-10	3
+26	ArmorStand	splmfox5	Position	ARM_LEFT	-70,-20,-10	3
+27	ArmorStand	splmfox5	Position	ARM_LEFT	-10,-20,-20	3
+#Rabbit
+10	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+10	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+11	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+11	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+12	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+12	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+13	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+13	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+14	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+14	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+15	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+15	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+16	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+16	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+17	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+17	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+18	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+18	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+19	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+19	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+20	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+20	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+21	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+21	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+22	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,0,0	2
+22	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,0,0	2
+23	ArmorStand	splmrabbit7	Position	LEG_LEFT	-90,-10,0	2
+23	ArmorStand	splmrabbit7	Position	LEG_RIGHT	-90,10,0	2
+#Fountain
+0	Fountain	160:3	30	-539.5,41.8,-1577.5	0,0.1,0
+0	Fountain	160:3	30	-535.5,41.8,-1575.5	0,0.1,0
+#Despawn
+35	ArmorStand	splmefrog1	Despawn
+35	ArmorStand	splmefrog2	Despawn
+35	ArmorStand	splmefrog3	Despawn
+35	ArmorStand	splmefrog3a	Despawn
+35	ArmorStand	splmefrog4	Despawn
+35	ArmorStand	splmefrog4a	Despawn
+35	ArmorStand	splmpopup1	Despawn
+35	ArmorStand	splmpopup2	Despawn
+35	ArmorStand	splmpopup3	Despawn
+35	ArmorStand	splmfox5	Despawn
+35	ArmorStand	splmrabbit7	Despawn
+35	ArmorStand	splmfox5	Despawn
+35	ArmorStand	splmbeehive2	Despawn
+35	ArmorStand	splmfbird1	Despawn
+35	ArmorStand	splmfbird2	Despawn

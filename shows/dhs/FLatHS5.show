@@ -1,0 +1,194 @@
+#Show Started December 24, 2016
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Other
+0	Block	152	436,49,19
+#Audio
+0	AudioStart	flaths5
+5	AudioSync	flaths5	5
+10	AudioSync	flaths5	10
+30	AudioSync	flaths5	30
+60	AudioSync	flaths5	60
+120	AudioSync	flaths5	120
+140	AudioSync	flaths5	140
+#S5 Open up the gates 
+9.3	Text	&f[&bElsa&f] &bDon't let them in.
+11.6	Text	&bDon't let them see.
+14.3	Text	&bBe the good girl you always have to be.
+19.1	Text	&bConceal.
+20.9	Text	&bDon't feel.
+22.6	Text	&bPut on a show.
+25	Text	&bMake one wrong move and everyone will know.
+30.4	Text	&bBut it's only for today.
+31.7	Text	&f[&dAnna&f] &dIt's only for today!
+33	Text	&f[&bElsa&f] &bIt's agony to wait.
+34.3	Text	&f[&dAnna&f] &dIt's agony to wait!
+36.1	Text	&f[&bElsa&f] &bTell the guards to open up...
+38.7	Text	&bthe gates!
+41.1	Text	&eThe gates!
+43.4	Text	&e&lThe gates!
+47	Text	&eFor the first time in forever,
+50.3	Text	&f[&bElsa&f] &bDon't let them in, don't let them see!
+51.9	Text	&f[&dAnna&f] &dI'm getting what I'm dreaming of.
+55.3	Text	&f[&bElsa&f] &bBe the good girl you always have to be!
+57.2	Text	&f[&dAnna&f] &dA chance to change my lonely world.
+60.8	Text	&f[&bElsa&f] &bConceal.
+62	Text	&eA chance to find true love!
+65	Text	&f[&bElsa&f] &bConceal, don't feel, don't let them know.
+66.7	Text	&f[&dAnna&f] &dI know it all ends tomorrow,
+69.1	Text	&dso it has to be today!
+72	Text	&dCause for the first time in forever,
+76.8	Text	&efor the first time in forever,
+82.9	Text	&dNothing's in my way!
+85.8	Text	&e&lFor the first time in forever!
+96.3	Text	&7So, that happened.
+97.9	Text	&f[&6Hans&f] &7I am so sorry, are you hurt?
+100.9	Text	&f[&dAnna&f] &7Hey... 
+103.4	Text	&7I uh- no, no, no, I'm okay, I just wasn't watching where I was going.
+112.6	Text	&f[&6Hans&f] &7Uhm...
+113.2	Text	&f[&dAnna&f] &7This is awkward.
+114.4	Text	&7Not because you're awkward,
+115.7	Text	&7just because I'm awkward,
+116.8	Text	&7you're gorgeous.
+117.9	Text	&7Wait, what?
+120.5	Text	&f[&6Hans&f] &7Prince Hans of the Southern Isles. 
+122.9	Text	&f[&dAnna&f] &7Princess Anna of Arendelle.
+125.1	Text	&f[&6Hans&f] &7Princess?
+126.1	Text	&7My lady.
+126.9	Text	&f[&dAnna&f] &7Oh! No, no, no, I'm not that princess.
+129.4	Text	&7I mean, if you'd hit my sister, Elsa that would be yeash.
+133	Text	&7But lucky you, it's just me.
+135.6	Text	&f[&6Hans&f] &7Just you?
+137.6	Text	&f[&dAnna&f] &7Oh! I guess we should, 
+139.6	Text	&7I mean I should, I sort've got a thing but,
+142.9	Text	&7good talk!
+#ElsaArmorStand
+0.0	Block	152	444,66,54
+76.8	Block	152	445,66,54
+#DoorsStartMoving
+3.7	Block	152	420,68,85
+3.7	Block	152	420,68,82
+4	Block	152	420,68,81
+4	Block	152	420,68,84
+#CurtainMove
+1.8	Block	152	469,66,60
+3.6	Block	152	469,66,59
+5.4	Block	152	469,66,58
+#CloneGate
+5.5	Block	152	472,66,64
+#MoveGateForward
+20.7	Block	152	474,66,64
+21.7	Block	152	474,66,64
+22.7	Block	152	474,66,64
+23.7	Block	152	474,66,64
+24.7	Block	152	474,66,64
+25.7	Block	152	474,66,64
+26.7	Block	152	474,66,64
+27.7	Block	152	474,66,64
+28.7	Block	152	474,66,64
+29.7	Block	152	474,66,64
+30.7	Block	152	474,66,64
+#Schematics
+5.5	Schematic	FLatHS5.1	439	62	68	newhws	false
+9.3	Schematic	FLatHS5.2	439	62	68	newhws	false
+13.1	Schematic	FLatHS5.3	439	62	68	newhws	false
+16.9	Schematic	FLatHS5.4	439	62	68	newhws	false
+31.7	Schematic	FLatHS5.5	439	62	68	newhws	false
+72.8	Schematic	FLatHS5.6	439	62	68	newhws	false
+74.8	Schematic	FLatHS5.7	439	62	68	newhws	false
+76.8	Schematic	FLatHS5.8	439	62	68	newhws	false
+143.8	Schematic	FLatHS5.9	439	62	68	newhws	false
+#ElsaDoor
+71.6	Block	76	455,67,101
+71.6	Block	76	456,67,100
+76.8	Block	0	455,67,101
+#KillDoor
+76.8	Block	152	473,66,64
+#OpenGates
+36.2	Block	152	471,66,64
+39.6	Block	152	470,66,64
+43.0	Block	152	469,66,64
+46.4	Block	152	469,66,63
+#CloseGates
+55.3	Block	152	469,66,62
+58.7	Block	152	469,66,61
+#AisleLightsOn
+46.4	Block	89	457,62,75
+46.4	Block	89	452,62,84
+46.4	Block	171:8	452,63,84
+46.4	Block	89	457,62,93
+#AisleLightsOff
+90.3	Block	123	457,62,75
+90.3	Block	35:8	452,62,84
+90.3	Block	0	452,63,84
+90.3	Block	123	457,62,93
+#ElsaLights
+71.6	Block	123	455,78,100
+71.6	Block	123	455,76,100
+#MoveGateBack
+59.7	Block	152	476,66,64
+60.7	Block	152	476,66,64
+61.7	Block	152	476,66,64
+62.7	Block	152	476,66,64
+63.7	Block	152	476,66,64
+64.7	Block	152	476,66,64
+65.7	Block	152	476,66,64
+66.7	Block	152	476,66,64
+67.7	Block	152	476,66,64
+68.7	Block	152	476,66,64
+69.7	Block	152	476,66,64
+70.7	Block	152	476,66,64
+#BackStageDoorsOpen
+29.3	Block	76	445,62,104
+29.3	Block	76	445,62,103
+29.3	Block	76	444,62,64
+29.3	Block	76	444,62,63
+#SideDoorsOpen
+34.3	Block	152	470,65,106
+#StageRight
+34.3	Block	0	443,65,66
+34.3	Block	0	442,65,66
+34.3	Block	0	441,65,66
+34.3	Block	0	440,65,66
+34.3	Block	0	443,64,66
+34.3	Block	0	442,64,66
+34.3	Block	0	441,64,66
+34.3	Block	0	440,64,66
+#StageLeft
+34.3	Block	0	443,65,102
+34.3	Block	0	442,65,102
+34.3	Block	0	441,65,102
+34.3	Block	0	440,65,102
+34.3	Block	0	443,64,102
+34.3	Block	0	442,64,102
+34.3	Block	0	441,64,102
+34.3	Block	0	440,64,102
+#StageDoorsClose
+46.4	Block	152	465,65,106
+#StageRight
+46.4	Block	173	443,65,66
+46.4	Block	173	442,65,66
+46.4	Block	173	441,65,66
+46.4	Block	173	440,65,66
+46.4	Block	173	443,64,66
+46.4	Block	173	442,64,66
+46.4	Block	173	441,64,66
+46.4	Block	173	440,64,66
+#StageLeft
+46.4	Block	173	443,65,102
+46.4	Block	173	442,65,102
+46.4	Block	173	441,65,102
+46.4	Block	173	440,65,102
+46.4	Block	173	443,64,102
+46.4	Block	173	442,64,102
+46.4	Block	173	441,64,102
+46.4	Block	173	440,64,102
+#BackstageDoorsClose
+51.4	Block	0	445,62,104
+51.4	Block	0	445,62,103
+51.4	Block	0	444,62,63
+51.4	Block	0	444,62,64
+#SpawnPlatform
+120.5	Block	152	474,66,62
+

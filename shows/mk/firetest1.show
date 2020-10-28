@@ -1,0 +1,60 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+
+#Opening
+Effect	b1	BURST,255;160;117
+#b1a= "gold trail->smoke
+Effect	b1a	BURST,252;229;232,153;111;119,TRAIL
+Effect	b2	BURST,223;158;181,TRAIL
+Effect	sb1	BALL,246;131;161,FLICKER
+Effect	lb1	BALL_LARGE,165;86;67,222;193;196,TRAIL
+Effect	lb1b	BALL_LARGE,165;86;67,246;131;161,FLICKER
+Effect	b3	BURST,245;148;81
+Effect	b4	BURST,255;105;158,WHITE,TRAIL
+Effect	b5	BURST,123;89;105,250;250;250,FLICKER,TRAIL
+Effect	lb2c	BALL_LARGE,191;172;166,195;159;136,TRAIL
+Effect	b6c	BURST,246;131;161,FLICKER
+Effect	heart	CREEPER,229;85;101
+Effect	heartx	BALL,246;239;244&WHITE,FLICKER
+Effect	lb3d	BALL_LARGE,130;108;105,WHITE,FLICKER,TRAIL
+Effect  lb3da BALL_LARGE,SILVER&WHITE,WHITE,FLICKER,TRAIL
+Effect	star1	STAR,WHITE&AQUA,TRAIL
+#New shooting star into Tiana
+Effect	tianb	BURST,244;193;81,TRAIL
+Effect	tianb2	BURST,190;170;250,TRAIL
+Effect	tianb3	BURST,WHITE
+Effect	tianb4a	BURST,243;207;168,TRAIL
+Effect	tiansbb	BALL,204;180;218
+Effect	tianlbb	BALL_LARGE,248;233;228&169;138;144,221;173;143,FLICKER
+Effect	jelly1	BALL_LARGE,136;130;160,FLICKER
+Effect	jelly1s	BALL,136;130;160
+Effect	jelly2	BURST,234;213;182,TRAIL
+Effect	jelly3	BURST,234;213;182,TRAIL
+Effect	ariel1	BALL_LARGE,144;115;108,244;187;139,FLICKER,TRAIL
+Effect	ariel2	BALL_LARGE,153;111;119,154;172;138,FLICKER
+#ariel1 follows...with tianb3 which follows V
+Effect	ariel3	BALL_LARGE,144;115;108,244;187;139&154;172;138,FLICKER,TRAIL
+Effect	ariel4	BALL_LARGE,244;187;139&154;172;138
+#Our friend b5 makes a surprise appearance
+Effect	ariel5	BALL_LARGE,RED,WHITE
+Effect	ariel5b	BALL,250;250;250,FLICKER,TRAIL
+Effect	ariel6	BALL_LARGE,249;193;173&123;89;105&249;193;173&195;179;241,154;172;138&244;193;81
+Effect	ariel7	BURST,240;195;178,WHITE&218;187;150,TRAIL
+
+0  PowerFirework  -109,45,-1613  b5,jelly2,jelly3	-1.8,5,0
+0.5  PowerFirework  -108,45,-1614  b5,jelly2,jelly3	-1.5,5,0
+1  PowerFirework  -107,45,-1615  b5,jelly2,jelly3	-1,5,0
+1.5  PowerFirework  -106,45,-1615  b5,jelly2,jelly3	-0.5,5,0
+2  PowerFirework  -105,45,-1615  b5,jelly2,jelly3	0,5,0
+2.5  PowerFirework  -104,45,-1615  b5,jelly2,jelly3	0.5,5,0
+3  PowerFirework  -103,45,-1615  b5,jelly2,jelly3	1,5,0
+3.5  PowerFirework  -102,45,-1615  b5,jelly2,jelly3	1.5,5,0
+
+4  PowerFirework  -75,45,-1616  b5,jelly2,jelly3	-1.8,5,0
+4.5  PowerFirework  -74,45,-1616  b5,jelly2,jelly3	-1.5,5,0
+5  PowerFirework  -73,45,-1616  b5,jelly2,jelly3	-1,5,0
+5.5  PowerFirework  -72,45,-1616  b5,jelly2,jelly3	-0.5,5,0
+6  PowerFirework  -71,45,-1615  b5,jelly2,jelly3	0,5,0
+6.5  PowerFirework  -69,45,-1614  b5,jelly2,jelly3	0.5,5,0
+7  PowerFirework  -68,45,-1613  b5,jelly2,jelly3	1,5,0
+7.5  PowerFirework  -67,45,-1612  b5,jelly2,jelly3	1.5,5,0

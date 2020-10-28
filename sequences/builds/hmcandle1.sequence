@@ -1,0 +1,14 @@
+Sequence	Build
+Build	hmcandle1	hmcandle1
+0		hmcandle1	Spawn	-252.7,45,-1810.5
+1	hmcandle1	Move	-253.3,45.2,-1810.5	100
+6	hmcandle1	Move	-252.7,45,-1810.5	100
+11	hmcandle1	Move	-253.3,45.2,-1810.5	100
+16	hmcandle1	Move	-252.7,45,-1810.5	100
+21	hmcandle1	Move	-253.3,45.2,-1810.5	100
+26	hmcandle1	Move	-252.7,45,-1810.5	100
+31	hmcandle1	Move	-253.3,45.2,-1810.5	100
+36	hmcandle1	Move	-252.7,45,-1810.5	100
+41	hmcandle1	Move	-253.3,45.2,-1810.5	100
+46	hmcandle1	Move	-252.7,45,-1810.5	100
+51	hmcandle1	Despawn

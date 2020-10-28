@@ -1,0 +1,25 @@
+Show    Location    15,43,-1496
+Show    TextRadius    20
+Show    Name    LFQueue
+
+#Audio
+0   AudioStart  lfSpookQueue
+
+0   Block   152 28,36,-1505
+0.8 Block   152 28,36,-1506
+0.8 Text    &f[&c&lRoz&r&f]&c Boo.
+2.5 Text    &cWelcome to the Spook Floor.
+2.5 Block   152 28,36,-1507
+5.1 Text    &cMay I remind you that you are reccomended to be on 1.12.2
+5.1 Block   152 28,36,-1508
+11.4    Text    &cPlease make sure you also have audio on.
+11.4    Block   152 28,36,-1509
+15.3    Text    &cThe Theatre will be ready soon.
+15.3    Block   152 28,36,-1510
+17.9    Text    &cTake a seat once you enter.
+17.9    Block   152 28,36,-1511
+20.8    Text    &cI'm watching you all,
+20.8    Block   152 28,36,-1512
+23.0    Text    &cAlways Watching.
+23.0    Block   152 28,36,-1513
+25.3    Block   152 28,36,-1514

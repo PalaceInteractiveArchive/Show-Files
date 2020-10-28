@@ -1,0 +1,223 @@
+Sequence	Light
+
+#Define
+EnderCrystal	bl1
+EnderCrystal	bl2
+EnderCrystal	bl3
+EnderCrystal	bl4
+EnderCrystal	bl5
+EnderCrystal	bl6
+EnderCrystal	bl7
+EnderCrystal	bl8
+EnderCrystal	bl9
+EnderCrystal	bl10
+EnderCrystal	bl11
+EnderCrystal	bl12
+EnderCrystal	bl13
+EnderCrystal	bl14
+EnderCrystal	bl15
+EnderCrystal	bl16
+EnderCrystal	ml1
+EnderCrystal	ml2
+EnderCrystal	ml3
+EnderCrystal	ml4
+EnderCrystal	ml5
+EnderCrystal	br1
+EnderCrystal	br2
+EnderCrystal	br3
+EnderCrystal	br4
+EnderCrystal	br5
+EnderCrystal	br6
+EnderCrystal	br7
+EnderCrystal	br8
+EnderCrystal	br9
+EnderCrystal	br10
+EnderCrystal	br11
+EnderCrystal	br12
+EnderCrystal	br13
+EnderCrystal	br14
+EnderCrystal	br15
+EnderCrystal	br16
+EnderCrystal	mr1
+EnderCrystal	mr2
+EnderCrystal	mr3
+EnderCrystal	mr4
+EnderCrystal	mr5
+EnderCrystal	2LL1
+EnderCrystal	2LL2
+EnderCrystal	2LL3
+EnderCrystal	2LL4
+EnderCrystal	2LL5
+EnderCrystal	2LL6
+EnderCrystal	2LL7
+EnderCrystal	2LL8
+EnderCrystal	2L1
+EnderCrystal	2L2
+EnderCrystal	2L3
+EnderCrystal	2L4
+EnderCrystal	2L5
+EnderCrystal	2L6
+EnderCrystal	2L7
+EnderCrystal	2L8
+EnderCrystal	2RR1
+EnderCrystal	2RR2
+EnderCrystal	2RR3
+EnderCrystal	2RR4
+EnderCrystal	2RR5
+EnderCrystal	2RR6
+EnderCrystal	2RR7
+EnderCrystal	2RR8
+EnderCrystal	2R1
+EnderCrystal	2R2
+EnderCrystal	2R3
+EnderCrystal	2R4
+EnderCrystal	2R5
+EnderCrystal	2R6
+EnderCrystal	2R7
+EnderCrystal	2R8
+EnderCrystal	3L1
+EnderCrystal	3L2
+EnderCrystal	3L3
+EnderCrystal	3L4
+EnderCrystal	3L5
+EnderCrystal	3R1
+EnderCrystal	3R2
+EnderCrystal	3R3
+EnderCrystal	3R4
+EnderCrystal	3R5
+EnderCrystal	4STR1
+EnderCrystal	4STR2
+EnderCrystal	4STR3
+EnderCrystal	4STR4
+EnderCrystal	4STR5
+EnderCrystal	4STR6
+EnderCrystal	4STR7
+EnderCrystal	4STR8
+EnderCrystal	4STL1
+EnderCrystal	4STL2
+EnderCrystal	4STL3
+EnderCrystal	4STL4
+EnderCrystal	4STL5
+EnderCrystal	4STL6
+EnderCrystal	4STL7
+EnderCrystal	4STL8
+
+
+#SectionTwo
+0.0	2L1	Spawn	-154.0,144,-1657.5	-138.5,57,-1683.5
+0.0	2L2	Spawn	-144.0,144,-1657.5	-137.5,57,-1683.5
+0.0	2L3	Spawn	-134.0,144,-1657.5	-136.5,57,-1683.5
+0.0	2L4	Spawn	-124.0,144,-1657.5	-135.5,57,-1683.5
+0.0	2L5	Spawn	-114.0,144,-1657.5	-134.5,57,-1683.5
+0.0	2L6	Spawn	-104.0,144,-1657.5	-133.5,57,-1683.5
+0.0	2L7	Spawn	-94.0,144,-1657.5	-132.5,57,-1683.5
+0.0	2L8	Spawn	-84.0,144,-1657.5	-131.5,57,-1683.5
+0.0	2R1	Spawn	-20,144,-1657	-40.5,58,-1682.5
+0.0	2R2	Spawn	-30,144,-1657	-41.5,58,-1682.5
+0.0	2R3	Spawn	-40,144,-1657	-42.5,58,-1682.5
+0.0	2R4	Spawn	-50,144,-1657	-43.5,58,-1682.5
+0.0	2R5	Spawn	-60,144,-1657	-44.5,58,-1682.5
+0.0	2R6	Spawn	-70,144,-1657	-45.5,58,-1682.5
+0.0	2R7	Spawn	-80,144,-1657	-40.5,58,-1682.5
+0.0	2R8	Spawn	-90,144,-1657	-40.5,58,-1682.5
+#MoveSectionTwo
+#Left
+0.1	2L1	Move	24,-10,0	1.3
+0.1	2L2	Move	22,-10,0	1.1
+0.1	2L3	Move	20,-10,0	0.9
+0.1	2L4	Move	18,-10,0	0.7
+0.1	2L5	Move	16,-10,0	0.6
+0.1	2L6	Move	14,-10,0	0.5
+0.1	2L7	Move	12,-10,0	0.4
+0.1	2L8	Move	10,-10,0	0.3
+0.5	2L1	Move	-80,0,0	1.0
+0.5	2L2	Move	-80,0,0	1.0
+0.5	2L3	Move	-80,0,0	1.0
+0.5	2L4	Move	-80,0,0	1.0
+0.5	2L5	Move	-80,0,0	1.0
+0.5	2L6	Move	-80,0,0	1.0
+0.5	2L7	Move	-80,0,0	1.0
+0.5	2L8	Move	-80,0,0	1.0
+0.8	2L1	Move	94,10,0	1.1
+0.8	2L2	Move	92,10,0	1.0
+0.8	2L3	Move	90,10,0	0.9
+0.8	2L4	Move	88,10,0	0.8
+0.8	2L5	Move	86,10,0	0.7
+0.8	2L6	Move	84,10,0	0.6
+0.8	2L7	Move	82,10,0	0.5
+0.8	2L8	Move	80,10,0	0.4
+##LeftLeft
+0.1	2LL1	Move	-10,-10,0	0.3
+0.1	2LL2	Move	-12,-10,0	0.4
+0.1	2LL3	Move	-14,-10,0	0.5
+0.1	2LL4	Move	-16,-10,0	0.6
+0.1	2LL5	Move	-18,-10,0	0.7
+0.1	2LL6	Move	-20,-10,0	0.9
+0.1	2LL7	Move	-22,-10,0	1.1
+0.1	2LL8	Move	-24,-10,0	1.3
+0.5	2LL1	Move	80,0,0	1.0
+0.5	2LL2	Move	80,0,0	1.0
+0.5	2LL3	Move	80,0,0	1.0
+0.5	2LL4	Move	80,0,0	1.0
+0.5	2LL5	Move	80,0,0	1.0
+0.5	2LL6	Move	80,0,0	1.0
+0.5	2LL7	Move	80,0,0	1.0
+0.5	2LL8	Move	80,0,0	1.0
+0.8	2LL1	Move	-80,10,0	0.4
+0.8	2LL2	Move	-82,10,0	0.5
+0.8	2LL3	Move	-84,10,0	0.6
+0.8	2LL4	Move	-86,10,0	0.7
+0.8	2LL5	Move	-88,10,0	0.8
+0.8	2LL6	Move	-90,10,0	0.9
+0.8	2LL7	Move	-92,10,0	1.0
+0.8	2LL8	Move	-94,10,0	1.1
+#Right
+0.1	2R1	Move	-24,-10,0	1.3
+0.1	2R2	Move	-22,-10,0	1.1
+0.1	2R3	Move	-20,-10,0	0.9
+0.1	2R4	Move	-18,-10,0	0.7
+0.1	2R5	Move	-16,-10,0	0.6
+0.1	2R6	Move	-14,-10,0	0.5
+0.1	2R7	Move	-12,-10,0	0.4
+0.1	2R8	Move	-10,-10,0	0.3
+0.5	2R1	Move	80,0,0	1.0
+0.5	2R2	Move	80,0,0	1.0
+0.5	2R3	Move	80,0,0	1.0
+0.5	2R4	Move	80,0,0	1.0
+0.5	2R5	Move	80,0,0	1.0
+0.5	2R6	Move	80,0,0	1.0
+0.5	2R7	Move	80,0,0	1.0
+0.5	2R8	Move	80,0,0	1.0
+0.8	2R1	Move	-94,10,0	1.1
+0.8	2R2	Move	-92,10,0	1.0
+0.8	2R3	Move	-90,10,0	0.9
+0.8	2R4	Move	-88,10,0	0.8
+0.8	2R5	Move	-86,10,0	0.7
+0.8	2R6	Move	-84,10,0	0.6
+0.8	2R7	Move	-82,10,0	0.5
+0.8	2R8	Move	-80,10,0	0.4
+##RightRight
+0.1	2RR1	Move	10,-10,0	0.3
+0.1	2RR2	Move	12,-10,0	0.4
+0.1	2RR3	Move	14,-10,0	0.5
+0.1	2RR4	Move	16,-10,0	0.6
+0.1	2RR5	Move	18,-10,0	0.7
+0.1	2RR6	Move	20,-10,0	0.9
+0.1	2RR7	Move	22,-10,0	1.1
+0.1	2RR8	Move	24,-10,0	1.3
+0.5	2RR1	Move	-80,0,0	1.0
+0.5	2RR2	Move	-80,0,0	1.0
+0.5	2RR3	Move	-80,0,0	1.0
+0.5	2RR4	Move	-80,0,0	1.0
+0.5	2RR5	Move	-80,0,0	1.0
+0.5	2RR6	Move	-80,0,0	1.0
+0.5	2RR7	Move	-80,0,0	1.0
+0.5	2RR8	Move	-80,0,0	1.0
+0.8	2RR1	Move	80,10,0	0.4
+0.8	2RR2	Move	82,10,0	0.5
+0.8	2RR3	Move	84,10,0	0.6
+0.8	2RR4	Move	86,10,0	0.7
+0.8	2RR5	Move	88,10,0	0.8
+0.8	2RR6	Move	90,10,0	0.9
+0.8	2RR7	Move	92,10,0	1.0
+0.8	2RR8	Move	94,10,0	1.1

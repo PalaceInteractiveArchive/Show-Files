@@ -1,0 +1,6 @@
+﻿Show	Location	-90,55,-1621
+Show	TextRadius	50
+0	Schematic	MRFFgateclosed	-90	45	-1609	mk	false
+1	Schematic	MRFFgatemid	-90	45	-1609	mk	false
+2	Schematic	MRFFgatemid2	-90	45	-1609	mk	false
+3	Schematic	MRFFgateopen	-90	45	-1609	mk	false

@@ -1,0 +1,10 @@
+Sequence	Build
+#Left
+Build	Indy1	Indy1
+0	Indy1	Spawn	-19.5,60.5,236.5
+0.01	Indy1	Move	-16.5,62,223.5	1200
+60	Indy1	Despawn
+Build	Indy2	Indy2
+0	Indy2	Spawn	-23.5,60.5,259.5
+0.01	Indy2	Move	-25.5,62,287.5	1200
+60	Indy2	Despawn

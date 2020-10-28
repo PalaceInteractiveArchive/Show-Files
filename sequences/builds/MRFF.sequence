@@ -1,0 +1,21 @@
+Sequence	Build
+Build	MRFFGate1	MRFFGate1
+0	MRFFGate1	Spawn	-90.65,43.51,-1610.5
+0.1	MRFFGate1	Move	-91.5,43.51,-1611.5	40
+7	MRFFGate1	Move	-90.5,43.51,-1610.45	40
+10	MRFFGate1	Despawn
+Build	MRFFGate2	MRFFGate2
+0	MRFFGate2	Spawn	-90,43.51,-1610.5
+0.1	MRFFGate2	Move	-91.5,43.51,-1612.25	40
+7	MRFFGate2	Move	-90,43.51,-1610.5	40
+10	MRFFGate2	Despawn
+Build	MRFFGate3	MRFFGate3
+0	MRFFGate3	Spawn	-89,43.51,-1610.5
+0.1	MRFFGate3	Move	-87.5,43.51,-1612.25	40
+7	MRFFGate3	Move	-89,43.51,-1610.5	40
+10	MRFFGate3	Despawn
+Build	MRFFGate4	MRFFGate4
+0	MRFFGate4	Spawn	-88.5,43.51,-1610.5
+0.1	MRFFGate4	Move	-87.5,43.51,-1611.5	40
+7	MRFFGate4	Move	-88.5,43.51,-1610.5	40
+10	MRFFGate4	Despawn

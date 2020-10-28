@@ -1,0 +1,1743 @@
+Show	Location	-90,43,-1589
+Show	TextRadius	75
+Show	Name	Castle
+0	AudioStart	holidaywish
+#Audio Syncs
+0	AudioSync	holidaywish	0
+2	AudioSync	holidaywish	2
+10	AudioSync	holidaywish	10
+15	AudioSync	holidaywish	15
+30	AudioSync	holidaywish	30
+60	AudioSync	holidaywish	60
+120	AudioSync	holidaywish	120
+180	AudioSync	holidaywish	180
+240	AudioSync	holidaywish	240
+300	AudioSync	holidaywish	300
+360	AudioSync	holidaywish	360
+420	AudioSync	holidaywish	420
+480	AudioSync	holidaywish	480
+540	AudioSync	holidaywish	540
+600	AudioSync	holidaywish	600
+660	AudioSync	holidaywish	660
+720	AudioSync	holidaywish	720
+780	AudioSync	holidaywish	780
+840	AudioSync	holidaywish	840
+#Effects... dont forget the mums
+Effect	1	BURST,WHITE&YELLOW,WHITE
+Effect	2	BURST,WHITE&YELLOW,WHITE,FLICKER,TRAIL
+Effect	3	BURST,WHITE,FLICKER
+Effect	4	BURST,WHITE,YELLOW&WHITE,TRAIL
+Effect	5	BURST,WHITE,WHITE&ORANGE&YELLOW,FLICKER,TRAIL
+Effect	6	BURST,AQUA&WHITE,WHITE&ORANGE&YELLOW,TRAIL
+Effect	7	BURST,AQUA&WHITE&aQUA
+Effect	8	BURST,ORANGE&FUCHSIA&YELLOW,FLICKER
+Effect	9	BURST,AQUA&LIME&aQUA
+Effect	10	BURST,BLUE&aQUA&LIME,GRAY
+Effect	11	BURST,ORANGE&YELLOW,SILVER&ORANGE&YELLOW,TRAIL
+Effect	12	BURST,SILVER&ORANGE&YELLOW,ORANGE&YELLOW,TRAIL
+Effect	13	BURST,GRAY,ORANGE&YELLOW&SILVER,FLICKER,TRAIL
+Effect	14	BURST,RED&FUCHSIA,FLICKER
+Effect	15	BURST,ORANGE&SILVER&YELLOW&ORANGE,TRAIL
+Effect	16	BURST,WHITE,TRAIL
+Effect	17	BURST,RED
+Effect	18	BURST,GREEN
+Effect	19	BURST,RED&FUCHSIA,ORANGE&YELLOW,TRAIL
+Effect	20	BURST,RED&FUCHSIA,YELLOW&SILVER,TRAIL
+Effect	21	BURST,FUCHSIA&aQUA
+Effect	22	BURST,WHITE,GRAY
+Effect	23	BURST,ORANGE&SILVER&YELLOW&ORANGE&FUCHSIA,TRAIL
+Effect	24	BURST,AQUA&bLUE,YELLOW&WHITE
+Effect	25	BURST,LIME&GREEN
+Effect	26	BURST,FUCHSIA&aQUA&SILVER,SILVER&YELLOW,TRAIL
+#
+Effect	27	BALL_LARGE,FUCHSIA&WHITE&SILVER,TRAIL
+Effect	28	BALL_LARGE,WHITE&bLUE&aQUA&SILVER,FLICKER
+Effect	29	BALL,WHITE,FLICKER
+Effect	30	BALL_LARGE,GRAY,ORANGE&FUCHSIA
+Effect	31	BALL,ORANGE&FUCHSIA
+Effect	32	STAR,FUCHSIA&RED
+Effect	33	STAR,GREEN&LIME
+Effect	34	BALL_LARGE,GREEN&LIME
+Effect	35	BALL_LARGE,RED&FUCHSIA&RED
+Effect	36	BALL_LARGE,SILVER&WHITE,TRAIL
+Effect	37	STAR,WHITE,FLICKER
+#2007
+Effect	38	BALL_LARGE,LIME&aQUA&RED&ORANGE,ORANGE&YELLOW,TRAIL
+Effect	39	BALL_LARGE,LIME&aQUA&RED&ORANGE&YELLOW
+Effect	40	BALL_LARGE,ORANGE&YELLOW,TRAIL
+Effect	41	BALL_LARGE,GRAY,WHITE
+Effect	42	STAR,BLUE&aQUA,WHITE&aQUA
+Effect	43	BALL,GRAY,ORANGE&YELLOW,TRAIL
+#Current
+Effect	44	BALL,ORANGE&YELLOW&FUCHSIA,TRAIL
+Effect	45	BALL,BLUE&NAVY,TRAIL
+Effect	46	BALL_LARGE,GRAY,WHITE
+Effect	47	BALL,BLUE&aQUA
+Effect	48	BALL_LARGE,SILVER&WHITE&GRAY,FLICKER
+Effect	49	BALL,WHITE&bLUE&aQUA,FLICKER
+Effect	50	BALL_LARGE,BLUE&NAVY&aQUA
+Effect	51	STAR,WHITE,TRAIL
+#37+49
+Effect	52	BALL_LARGE,PURPLE&NAVY
+Effect	53	BALL_LARGE,ORANGE&GRAY
+Effect	54	BALL,ORANGE&YELLOW&WHITE
+Effect	55	BALL,ORANGE&YELLOW,TRAIL
+Effect	56	BALL_LARGE,RED&FUCHSIA&RED,ORANGE&YELLOW&SILVER
+Effect	57	CREEPER,FUCHSIA
+#2007
+Effect	58	BURST,LIME&aQUA&RED&ORANGE,ORANGE&YELLOW,TRAIL
+#Current
+Effect	59	BALL_LARGE,RED&WHITE
+Effect	60	BALL,RED&FUCHSIA
+#36,60
+Effect	61	BALL_LARGE,PURPLE&FUCHSIA&aQUA
+Effect	62	BALL,FUCHSIA,SILVER,FLICKER
+Effect	63	STAR,YELLOW&ORANGE&YELLOW,TRAIL
+Effect	64	BALL_LARGE,LIME&aQUA,BLUE&aQUA&WHITE,FLICKER
+Effect	65	BALL,LIME&aQUA,BLUE&aQUA,FLICKER
+Effect	66	CREEPER,LIME&FUCHSIA
+Effect	67	BALL_LARGE,YELLOW&WHITE
+Effect	68	CREEPER,RED&FUCHSIA
+Effect	69	CREEPER,LIME&GREEN
+Effect	70	BALL_LARGE,FUCHSIA&aQUA&LIME&YELLOW&SILVER
+Effect	71	BALL,FUCHSIA&LIME
+Effect	72	BURST,YELLOW&SILVER
+Effect	73	BALL_LARGE,NAVY&bLUE&aQUA&WHITE
+#Finale
+Effect	74	BALL_LARGE,YELLOW&ORANGE&WHITE,WHITE,FLICKER
+Effect	75	BALL,YELLOW&FUCHSIA&aQUA&SILVER,FLICKER
+Effect	76	BURST,WHITE,WHITE&ORANGE&YELLOW,TRAIL
+Effect	77	STAR,YELLOW&SILVER
+#Text
+22.3	Text	&bIt's the Spirit of the Season
+24.6	Text	&bYou can feel it in the air
+26.9	Text	&bYou can hear it if you listen
+29.2	Text	&bEverywhere
+30.3	Text	&bSo much care
+31.5	Text	&bLike a &6prayer
+34.3	Text	&bWhatever it is you need to share it
+36.7	Text	&bIt's the Spirit of the Season
+41.2	Text	&bYou can hear it in the air
+45.8	Text	&bPeople smile as they pass you by
+48	Text	&bThe day will be here soon
+50.3	Text	&bDreams are dancing in the children's eyes
+52.7	Text	&dHearts &bare singing
+53.7	Text	&6Bells &bare ringing
+59.4	Text	&bIt's the Spirit of the Season
+61.8	Text	&bFilling hearts with love and care
+64.1	Text	&bLike a shining star it glistens
+66.3	Text	&bEverywhere
+67.5	Text	&bFeeling care
+68.7	Text	&bLike a &6prayer
+71.4	Text	&bWhatever it is you need to share it
+73.8	Text	&bIt's the Spirit of the Season
+78.3	Text	&bIt's the Spirit of the Season
+96.6	Text	&a[Jiminy] Did you hear it?
+98.1	Text	&aCan you feel it?
+99.9	Text	&aI'd say there's something magical in the air
+102.8	Text	&aWouldn't you?
+104.4	Text	&aWhy, it's the Spirit of the Season!
+107.1	Text	&aAnd it seems to be everywhere
+109.7	Text	&aCause you know
+111	Text	&aChristmas is all around us!
+114.2	Text	&bSounds like Christmas
+118.9	Text	&bLooks like Christmas
+123	Text	&9Warms like Christmas
+127.1	Text	&9Feels like Christmas
+135.1	Text	&6Sounds like
+136.3	Text	&6Looks like
+137.4	Text	&6Warms like
+138.6	Text	&6Feels like
+139.6	Text	&6Shines like
+140.5	Text	&6Gleams like
+141.6	Text	&6Glows like
+142.8	Text	&6Seems like &9Christmas
+147.9	Text	&9All around us
+150.9	Text	&9It's so wonderful to share it all with you
+156.1	Text	&9Now that Christmas has finally found us
+160.6	Text	&9May our hopes and dreams and
+163.7	Text	&bWishes
+166.5	Text	&9Come true
+173.8	Text	&a[Jiminy] Yes, sir!
+175.5	Text	&aIt's that time of year
+177	Text	&aWhen everyone has a special wish in their heart!
+180.9	Text	&aWhy, it's Christmas!
+182.5	Text	&aA season that sparkles with it's own magic and memories
+187.1	Block	152	-1617,61,-520
+187.5	Block	20	-1617,61,-520
+308.3	Text	&9Feels like Christmas all around us
+313.1	Text	&9Mistletoe
+314.6	Text	&9Fires glow
+317.3	Text	&9No place like home
+326.4	Text	&a[Jiminy] Now, you can travel near or far
+329.7	Text	&aLook high or low
+331.8	Text	&aAnd you'll always find
+333.6	Text	&aThere's no place like home for the holidays
+339.2	Text	&aCause afterall
+341.5	Text	&aHome is where the heart is
+346.4	Text	&9I'll be home for Christmas
+353	Text	&9You can count on me
+378	Text	&6My Dreams
+435.8	Text	&bFrosted windowpanes
+440.4	Text	&bCandles gleaming inside
+442.2	Text	&bPainted candy canes on the tree
+445.9	Text	&bFor there's no place like home for the holidays
+480.7	Text	&dFeels like Christmas
+482.6	Text	&dAll around us
+484.6	Text	&dTime to deck the halls
+485.9	Text	&dCause Santa's on his way
+488.4	Text	&dI hope his reindeer
+490.2	Text	&dWill bring him to us with our
+492.9	Text	&dChristmas Wishes packed on his sleigh
+497.4	Text	&a[Jiminy] Say, what's that jingle?
+500.5	Text	&aCould it be, Kris Kringle?
+503.8	Text	&aWhy Jiminy Christmas!
+507	Text	&aSanta Claus is coming to town!
+524.3	Text	&dJolly Old Saint Nicholas
+526	Text	&dLean your ear this way
+527.7	Text	&dDon't you tell a single soul what I'm going to say
+531	Text	&dChristmas time is coming soon
+532.7	Text	&dNow my dear old man
+534.4	Text	&dWhisper what you'll bring to me
+536.1	Text	&dTell me if you can
+541.1	Text	&cRudolph with your nose so bright
+545.3	Text	&cWon't you guide our sleigh tonight?
+588.6	Text	&2O' Christmas tree, O' Christmas tree
+592.7	Text	&2With faithful leaves unchanging
+596.9	Text	&2Not only green in summer's heat
+600.6	Text	&2But also winter's snow and sleet
+604.1	Text	&2O' Christmas tree, O' Christmas tree
+608.5	Text	&2With faithful leaves unchanging
+729.1	Text	&a[Jiminy] Gosh, Christmas really is all around us!
+732.8	Text	&aAnd the best part is:
+734.5	Text	&aThe Spirit of the Season never has to end
+738.6	Text	&aAs long as you keep your loved ones near
+742	Text	&aAnd a Holiday Wish in your heart...
+746	Text	&bIt's the Spirit of the Season
+748.4	Text	&bYou can feel it in the air
+750.9	Text	&bYou can hear it if you listen
+753.3	Text	&bEverywhere
+754.5	Text	&bSo much care
+755.7	Text	&bLike a &6prayer
+761	Text	&bWhatever it is you need to share it
+765.6	Text	&bYou need to share it
+770.4	Text	&bIt's the Spirit of the Season
+773.2	Text	&bYou can feel it if you listen
+775.3	Text	&bIt's so wonderful to share it all with you
+780.2	Text	&bNow that Christmas has finally found us
+784.4	Text	&bMay our happily ever after
+787.8	Text	&bA gift from me to you
+791.5	Text	&9May all
+792.8	Text	&9Our
+794	Text	&9Christmas
+796.4	Text	&bWishes
+800.1	Text	&bCome true!
+805.2	Text	&9Looks like Christmas
+807.5	Text	&dSounds like Christmas
+809.8	Text	&9Feels like Christmas
+814.4	Text	&FAll around us!
+823.7	Text	&a[Jiminy] Happy Holidays Everyone!
+#################################################################################Postshow####################################
+828	Text	&6Credits:
+#829	Text	&6Show by: &dSteven_Davison and Owils
+829	Text	&6Happy Holidays! Have a Royal Day!
+830.9	Text	&a[Jiminy] From all of us, to all of you
+833.8	Text	&aA very merry Christmas
+836.2	Text	&aGood night!
+#Fireworks
+9.70	PowerFirework	-111,48,-1614	1	7.07,7.07,-0.5
+9.90	PowerFirework	-111,48,-1614	1	5.88,8.09,-0.4
+10.1	PowerFirework	-111,48,-1614	1	4.54,8.91,-0.3
+10.3	PowerFirework	-111,48,-1614	1	3.09,9.51,-0.2
+10.5	PowerFirework	-111,48,-1614	1	1.56,9.88,-0.1
+10.7	PowerFirework	-111,48,-1614	1	0,10,0
+10.9	PowerFirework	-111,48,-1614	1	-1.56,9.88,0.1
+11.1	PowerFirework	-111,48,-1614	1	-3.09,9.51,0.2
+11.3	PowerFirework	-111,48,-1614	1	-4.54,8.91,0.3
+11.5	PowerFirework	-111,48,-1614	1	-5.88,8.09,0.4
+9.70	PowerFirework	-69,48,-1614	1	-7.07,7.07,-0.5
+9.90	PowerFirework	-69,48,-1614	1	-5.88,8.09,-0.4
+10.1	PowerFirework	-69,48,-1614	1	-4.54,8.91,-0.3
+10.3	PowerFirework	-69,48,-1614	1	-3.09,9.51,-0.2
+10.5	PowerFirework	-69,48,-1614	1	-1.56,9.88,-0.1
+10.7	PowerFirework	-69,48,-1614	1	0,10,0
+10.9	PowerFirework	-69,48,-1614	1	1.56,9.88,0.1
+11.1	PowerFirework	-69,48,-1614	1	3.09,9.51,0.2
+11.3	PowerFirework	-69,48,-1614	1	4.54,8.91,0.3
+11.5	PowerFirework	-69,48,-1614	1	5.88,8.09,0.4
+15.5	PowerFirework	-100,87,-1621	27	0,0,0
+16.2	PowerFirework	-85,84,-1621	27	0,0,0
+16.25	PowerFirework	-94,93,-1620	27	0,0,0
+19.0	PowerFirework	-110,48,-1614	2	3,9.66,0
+19.0	PowerFirework	-110,48,-1614	2	-3,9.66,0
+19.0	PowerFirework	-70,48,-1614	2	3,9.66,0
+19.0	PowerFirework	-70,48,-1614	2	-3,9.66,0
+19.2	PowerFirework	-110,48,-1614	3	2.5,4.33,0.0
+19.2	PowerFirework	-110,48,-1614	3	-2.5,4.33,0.0
+19.2	PowerFirework	-70,48,-1614	3	2.5,4.33,0.0
+19.2	PowerFirework	-70,48,-1614	3	-2.5,4.33,0.0
+22.4	PowerFirework	-90,85,-1621	28	0,0,0
+22.6	PowerFirework	-88,94,-1621	28	0,0,0
+22.7	PowerFirework	-97,82,-1621	28	0,0,0
+24.8	PowerFirework	-85,82,-1621	28	0,0,0
+25.0	PowerFirework	-86,88,-1620	28	0,0,0
+26.4	PowerFirework	-98,82,-1621	28	0,0,0
+27.0	PowerFirework	-88,84,-1620	28	0,0,0
+27.1	PowerFirework	-94,94,-1621	28	0,0,0
+32.1	PowerFirework	-99,88,-1621	30,29	0,0,0
+32.2	PowerFirework	-87,89,-1620	31	0,0,0
+32.2	PowerFirework	-99,86,-1620	31	0,0,0
+34.2	PowerFirework	-85,88,-1620	8	0,-0.3,0
+34.3	PowerFirework	-100,86,-1620	8	0,-0.4,0
+34.4	PowerFirework	-85,87,-1620	8	0,-0.5,0
+34.5	PowerFirework	-97,87,-1620	8	0,-0.4,0
+34.6	PowerFirework	-89,90,-1620	8	0,-0.5,0
+34.7	PowerFirework	-98,89,-1620	8	0,-0.3,0
+34.8	PowerFirework	-99,88,-1620	8	0,-0.3,0
+34.9	PowerFirework	-86,91,-1620	8	0,-0.5,0
+35.0	PowerFirework	-87,89,-1620	8	0,-0.4,0
+35.1	PowerFirework	-100,87,-1620	8	0,-0.5,0
+35.2	PowerFirework	-89,88,-1620	8	0,-0.4,0
+35.3	PowerFirework	-101,84,-1620	8	0,-0.3,0
+35.4	PowerFirework	-88,89,-1620	8	0,-0.5,0
+35.5	PowerFirework	-98,86,-1620	8	0,-0.4,0
+35.6	PowerFirework	-87,90,-1620	8	0,-0.4,0
+35.7	PowerFirework	-97,85,-1620	8	0,-0.5,0
+36.7	PowerFirework	-90,89,-1620	32,28	0,0,0
+37.2	PowerFirework	-93,92,-1621	33,28	0,0,0
+39.0	PowerFirework	-92,83,-1620	3	1,-0.65,0.4
+40.1	PowerFirework	-95,84,-1621	3	-1,-0.5,0.6
+41.2	PowerFirework	-98,93,-1620	32,28	0,0,0
+42.4	PowerFirework	-81,90,-1621	33,28	0,0,0
+43.5	PowerFirework	-96,88,-1621	3	1.2,-0.6,0.2
+44.7	PowerFirework	-84,87,-1620	3	-0.9,-0.63,0.3
+45.8	PowerFirework	-88,93,-1621	34,3	0,0,0
+45.8	PowerFirework	-81,94,-1620	34,3	0,0,0
+47.0	PowerFirework	-96,92,-1621	35,3	0,0,0
+50.3	PowerFirework	-83,85,-1620	34,3	0,0,0
+50.3	PowerFirework	-95,84,-1621	34,3	0,0,0
+51.5	PowerFirework	-82,88,-1621	35,3	0,0,0
+54.9	PowerFirework	-98,62,-1626	1	-1,10,1.5
+55.8	PowerFirework	-78,62,-1625	1	1,10,1
+56.7	PowerFirework	-98,62,-1626	1	-1,10,1.5
+57.5	PowerFirework	-78,62,-1625	1	1,10,1
+59.6	PowerFirework	-96,87,-1621	28	0,0,0
+59.6	PowerFirework	-87,85,-1620	28	0,0,0
+60.7	PowerFirework	-90,87,-1621	28	0,0,0
+61.8	PowerFirework	-95,92,-1620	28	0,0,0
+62.9	PowerFirework	-97,92,-1620	32,28	0,0,0
+63.5	PowerFirework	-81,90,-1620	33,28	0,0,0
+64.1	PowerFirework	-82,87,-1620	28	0,0,0
+64.4	PowerFirework	-91,94,-1621	28	0,0,0
+69.3	PowerFirework	-93,93,-1621	30,29	0,0,0
+69.4	PowerFirework	-99,84,-1621	31	0,0,0
+69.4	PowerFirework	-81,88,-1620	31	0,0,0
+71.4	PowerFirework	-98,86,-1621	8	0,-0.3,0
+71.5	PowerFirework	-80,89,-1620	8	0,-0.4,0
+71.6	PowerFirework	-101,83,-1621	8	0,-0.5,0
+71.7	PowerFirework	-83,86,-1620	8	0,-0.4,0
+71.8	PowerFirework	-98,85,-1621	8	0,-0.5,0
+71.9	PowerFirework	-97,82,-1621	8	0,-0.3,0
+72.0	PowerFirework	-100,83,-1621	8	0,-0.3,0
+72.1	PowerFirework	-82,88,-1620	8	0,-0.5,0
+72.2	PowerFirework	-81,85,-1620	8	0,-0.4,0
+72.3	PowerFirework	-99,85,-1621	8	0,-0.5,0
+72.4	PowerFirework	-79,86,-1620	8	0,-0.4,0
+72.5	PowerFirework	-82,90,-1620	8	0,-0.3,0
+72.6	PowerFirework	-97,84,-1621	8	0,-0.5,0
+72.7	PowerFirework	-80,89,-1620	8	0,-0.4,0
+72.8	PowerFirework	-101,86,-1621	8	0,-0.4,0
+72.9	PowerFirework	-83,87,-1620	8	0,-0.5,0
+73.8	PowerFirework	-83,88,-1621	32,28	0,0,0
+73.8	PowerFirework	-98,85,-1620	33,28	0,0,0
+76.7	PowerFirework	-117,49,-1612	4	1.42,9.39,0.5
+76.7	PowerFirework	-111,49,-1614	4	1.42,9.39,0.5
+76.7	PowerFirework	-105,49,-1616	4	1.42,9.39,0.5
+76.7	PowerFirework	-63,49,-1612	4	-1.42,9.39,0.5
+76.7	PowerFirework	-69,49,-1614	4	-1.42,9.39,0.5
+76.7	PowerFirework	-75,49,-1616	4	-1.42,9.39,0.5
+78.4	PowerFirework	-89,88,-1621	32,28	0,0,0
+78.4	PowerFirework	-90,83,-1621	33,28	0,0,0
+80.7	PowerFirework	-114,48,-1612	4	0,10,0
+80.7	PowerFirework	-112,48,-1613	4	0,10,0
+80.7	PowerFirework	-110,48,-1614	4	0,10,0
+80.7	PowerFirework	-108,48,-1615	4	0,10,0
+80.7	PowerFirework	-72,48,-1615	4	0,10,0
+80.7	PowerFirework	-70,48,-1614	4	0,10,0
+80.7	PowerFirework	-68,48,-1613	4	0,10,0
+80.7	PowerFirework	-66,48,-1612	4	0,10,0
+83.5	PowerFirework	-91,94,-1621	36	0,0,0
+83.6	PowerFirework	-94,88,-1620	36	0,0,0
+85.8	PowerFirework	-88,94,-1620	36	0,0,0
+87.0	PowerFirework	-86,87,-1620	36	0,0,0
+88.1	PowerFirework	-92,87,-1620	36	0,0,0
+89.0	PowerFirework	-82,92,-1620	36	0,0,0
+90.1	PowerFirework	-97,86,-1621	36	0,0,0
+91.6	PowerFirework	-92,85,-1620	37,28	0,0,0
+91.6	PowerFirework	-110,71,-1601	37,28	0,0,0
+91.6	PowerFirework	-70,71,-1601	37,28	0,0,0
+91.6	PowerFirework	-122,71,-1526	37,28	0,0,0
+91.6	PowerFirework	-61,71,-1526	37,28	0,0,0
+115.5	PowerFirework	-83,88,-1620	38	0,0,0
+120.1	PowerFirework	-99,84,-1621	38	0,0,0
+120.1	PowerFirework	-85,89,-1621	38	0,0,0
+124.1	PowerFirework	-92,83,-1620	38	0,0,0
+129.7	PowerFirework	-99,88,-1620	39	0,0,0
+131.0	PowerFirework	-81,89,-1620	39	0,0,0
+129.7	PowerFirework	-111,49,-1614	5	3.88,9.09,0
+129.7	PowerFirework	-111,49,-1614	5	-3.88,9.09,0
+129.7	PowerFirework	-69,49,-1614	5	-3.88,9.09,0
+129.7	PowerFirework	-69,49,-1614	5	3.88,9.09,0
+135.1	PowerFirework	-93,83,-1620	25,25,25,25,25,25,25	0.0,0,0.6
+136.3	PowerFirework	-91,91,-1620	17,17,17,17,17,17,17	0.2,0,0.6
+137.5	PowerFirework	-98,91,-1621	17,17,17,17,17,17,17	-0.1,0,0.6
+138.6	PowerFirework	-82,88,-1620	25,25,25,25,25,25,25	-0.1,0,0.6
+139.6	PowerFirework	-100,83,-1620	25,25,25,25,25,25,25	0.0,0,0.6
+140.6	PowerFirework	-94,86,-1620	17,17,17,17,17,17,17	0.0,0,0.6
+141.5	PowerFirework	-91,85,-1620	17,17,17,17,17,17,17	0.1,0,0.6
+141.5	PowerFirework	-83,93,-1620	25,25,25,25,25,25,25	-0.2,0,0.6
+145.4	PowerFirework	-90,88,-1620	40	0,0,0
+145.4	PowerFirework	-92,83,-1621	40	0,0,0
+148.6	PowerFirework	-92,94,-1620	41	0,0,0
+148.6	PowerFirework	-88,86,-1621	41	0,0,0
+151.5	PowerFirework	-92,94,-1620	40	0,0,0
+151.5	PowerFirework	-88,86,-1621	40	0,0,0
+154.7	PowerFirework	-98,93,-1621	41	0,0,0
+152.7	PowerFirework	-98,93,-1621	40	0,0,0
+155.9	PowerFirework	-88,83,-1620	41	0,0,0
+155.9	PowerFirework	-96,94,-1621	41	0,0,0
+156.9	PowerFirework	-88,83,-1620	40	0,0,0
+157.0	PowerFirework	-96,94,-1621	40	0,0,0
+160.1	PowerFirework	-82,82,-1620	41	0,0,0
+160.2	PowerFirework	-82,82,-1620	41	0,0,0
+167.3	PowerFirework	-90,93,-1621	42,43	0,0,0
+201.8	PowerFirework	-69,49,-1614	6	1.74,9.85,0
+202.3	PowerFirework	-72,49,-1615	6	1.74,9.85,0
+202.7	PowerFirework	-75,49,-1616	6	1.74,9.85,0
+203.0	PowerFirework	-105,49,-1616	6	0.74,9.85,0
+203.5	PowerFirework	-108,49,-1615	6	0.74,9.85,0
+204.0	PowerFirework	-111,49,-1614	6	0.74,9.85,0
+204.5	PowerFirework	-114,49,-1613	6	0.74,9.85,0
+204.9	PowerFirework	-82,92,-1621	49	0,0,0
+206.3	PowerFirework	-84,90,-1621	49	0,0,0
+207.8	PowerFirework	-111,49,-1614	6	-2.59,9.66,0
+208.2	PowerFirework	-108,49,-1615	6	-2.59,9.66,0
+208.6	PowerFirework	-105,49,-1616	6	-2.59,9.66,0
+208.9	PowerFirework	-75,49,-1616	6	-1.59,9.66,0
+209.3	PowerFirework	-72,49,-1615	6	-1.59,9.66,0
+209.8	PowerFirework	-69,49,-1614	6	-1.59,9.66,0
+210.3	PowerFirework	-66,49,-1613	6	-1.59,9.66,0
+210.8	PowerFirework	-72,49,-1615	7	0.74,9.85,0.6
+210.8	PowerFirework	-72,49,-1615	8	0.87,4.93,0.3
+211.6	PowerFirework	-108,49,-1615	7	-0.74,9.85,0.6
+211.6	PowerFirework	-108,49,-1615	8	-0.87,4.93,0.3
+213.7	PowerFirework	-93,86,-1621	49	0,0,0
+213.7	PowerFirework	-99,84,-1621	49	0,0,0
+215.9	PowerFirework	-111,48,-1614	7	7.07,7.07,-0.5
+215.9	PowerFirework	-111,48,-1614	7	5.88,8.09,-0.4
+215.9	PowerFirework	-111,48,-1614	7	4.54,8.91,-0.3
+215.9	PowerFirework	-111,48,-1614	7	3.09,9.51,-0.2
+215.9	PowerFirework	-111,48,-1614	7	1.56,9.88,-0.1
+215.9	PowerFirework	-111,48,-1614	7	0,10,0
+215.9	PowerFirework	-111,48,-1614	7	-1.56,9.88,0.1
+215.9	PowerFirework	-111,48,-1614	7	-3.09,9.51,0.2
+215.9	PowerFirework	-111,48,-1614	7	-4.54,8.91,0.3
+215.9	PowerFirework	-111,48,-1614	7	-5.88,8.09,0.4
+215.9	PowerFirework	-69,48,-1614	7	-7.07,7.07,-0.5
+215.9	PowerFirework	-69,48,-1614	7	-5.88,8.09,-0.4
+215.9	PowerFirework	-69,48,-1614	7	-4.54,8.91,-0.3
+215.9	PowerFirework	-69,48,-1614	7	-3.09,9.51,-0.2
+215.9	PowerFirework	-69,48,-1614	7	-1.56,9.88,-0.1
+215.9	PowerFirework	-69,48,-1614	7	0,10,0
+215.9	PowerFirework	-69,48,-1614	7	1.56,9.88,0.1
+215.9	PowerFirework	-69,48,-1614	7	3.09,9.51,0.2
+215.9	PowerFirework	-69,48,-1614	7	4.54,8.91,0.3
+215.9	PowerFirework	-69,48,-1614	7	5.88,8.09,0.4
+220.3	PowerFirework	-98,90,-1620	46,47	0,0,0
+223.5	PowerFirework	-88,87,-1620	46,47	0,0,0
+225.2	PowerFirework	-95,90,-1621	46,47	0,0,0
+227.0	PowerFirework	-99,86,-1620	46,47	0,0,0
+230.3	PowerFirework	-114,49,-1613	9	1.75,9.27,-0.7
+230.3	PowerFirework	-66,49,-1613	9	-1.75,9.27,-0.7
+231.5	PowerFirework	-94,91,-1620	48,45	0,0,0
+232.7	PowerFirework	-114,49,-1613	9	1.75,9.27,-0.7
+232.7	PowerFirework	-66,49,-1613	9	-1.75,9.27,-0.7
+234.0	PowerFirework	-81,91,-1620	48,45	0,0,0
+235.2	PowerFirework	-114,49,-1613	9	1.75,9.27,-0.7
+235.2	PowerFirework	-66,49,-1613	9	-1.75,9.27,-0.7
+236.4	PowerFirework	-99,91,-1621	48,45	0,0,0
+237.7	PowerFirework	-114,49,-1613	9	1.75,9.27,-0.7
+237.7	PowerFirework	-66,49,-1613	9	-1.75,9.27,-0.7
+239.0	PowerFirework	-90,91,-1620	48,45	0,0,0
+240.8	PowerFirework	-84,93,-1620	36,49	0,0,0
+243.3	PowerFirework	-117,49,-1612	6	1.32,9.39,-0.5
+243.3	PowerFirework	-111,49,-1614	6	1.12,9.39,-0.5
+243.3	PowerFirework	-105,49,-1616	6	1.02,9.39,-0.5
+243.3	PowerFirework	-63,49,-1612	6	-1.32,9.39,-0.5
+243.3	PowerFirework	-69,49,-1614	6	-1.12,9.39,-0.5
+243.3	PowerFirework	-75,49,-1616	6	-1.02,9.39,-0.5
+245.9	PowerFirework	-88,91,-1621	28	0,0,0
+245.95	PowerFirework	-86,94,-1620	28	0,0,0
+246.0	PowerFirework	-90,94,-1620	28	0,0,0
+246.05	PowerFirework	-95,87,-1620	28	0,0,0
+246.1	PowerFirework	-99,86,-1621	28	0,0,0
+252.4	PowerFirework	-91,85,-1620	17,11	0.7,-0.6,0.3
+254.6	PowerFirework	-83,86,-1620	17,11	-0.4,-0.4,0.3
+256.7	PowerFirework	-90,90,-1621	17,11	0.2,-0.5,0.5
+258.6	PowerFirework	-97,86,-1621	17,11	0.0,-0.3,0.6
+259.1	PowerFirework	-96,83,-1621	17,11	0.7,-0.5,0.4
+260.0	PowerFirework	-88,90,-1620	17,11	-0.3,-0.4,0.3
+260.1	PowerFirework	-89,86,-1620	17,11	0.5,-0.3,0.3
+261.1	PowerFirework	-97,94,-1621	17,11	-0.5,-0.6,0.7
+261.2	PowerFirework	-83,88,-1620	17,11	-0.2,-0.3,0.4
+261.3	PowerFirework	-91,87,-1621	17,11	0.1,-0.5,0.3
+263.4	PowerFirework	-85,94,-1621	17,11	-0.6,-0.4,0.6
+264.4	PowerFirework	-83,94,-1621	17,11	0.7,-0.6,0.3
+264.4	PowerFirework	-84,93,-1620	17,11	-0.4,-0.6,0.6
+270.9	PowerFirework	-88,82,-1620	28,29	0,0,0
+270.9	PowerFirework	-81,87,-1621	28,29	0,0,0
+276.3	PowerFirework	-100,83,-1620	28,29	0,0,0
+276.3	PowerFirework	-94,85,-1621	28,29	0,0,0
+283.5	PowerFirework	-81,82,-1621	28,29	0,0,0
+283.5	PowerFirework	-97,84,-1620	28,29	0,0,0
+294.3	PowerFirework	-88,83,-1620	50,51	0,0,0
+295.3	PowerFirework	-98,88,-1620	50,51	0,0,0
+296.2	PowerFirework	-90,91,-1620	50,51	0,0,0
+297.1	PowerFirework	-100,84,-1621	50,51	0,0,0
+298.1	PowerFirework	-97,87,-1620	28,29	0,0,0
+298.1	PowerFirework	-89,93,-1620	28,29	0,0,0
+270.9	PowerFirework	-106,48,-1616	9	0,7,0
+271.35	PowerFirework	-74,48,-1616	9	0,7,0
+271.8	PowerFirework	-108,48,-1615	9	0,7,0
+272.25	PowerFirework	-72,48,-1615	9	0,7,0
+272.7	PowerFirework	-110,48,-1614	9	0,7,0
+273.15	PowerFirework	-70,48,-1614	9	0,7,0
+273.6	PowerFirework	-112,48,-1613	9	0,7,0
+274.05	PowerFirework	-68,48,-1613	9	0,7,0
+274.5	PowerFirework	-114,48,-1612	9	0,7,0
+274.95	PowerFirework	-66,48,-1612	9	0,7,0
+275.4	PowerFirework	-116,48,-1611	9	0,7,0
+275.85	PowerFirework	-64,48,-1611	9	0,7,0
+276.3	PowerFirework	-114,48,-1612	9	0,7,0
+276.75	PowerFirework	-66,48,-1612	9	0,7,0
+277.2	PowerFirework	-112,48,-1613	9	0,7,0
+277.65	PowerFirework	-68,48,-1613	9	0,7,0
+278.1	PowerFirework	-110,48,-1614	9	0,7,0
+278.55	PowerFirework	-70,48,-1614	9	0,7,0
+279.0	PowerFirework	-108,48,-1615	9	0,7,0
+279.45	PowerFirework	-72,48,-1615	9	0,7,0
+280.9	PowerFirework	-106,48,-1616	9	0,7,0
+280.35	PowerFirework	-74,48,-1616	9	0,7,0
+281.8	PowerFirework	-110,48,-1614	9	0,7,0
+281.25	PowerFirework	-70,48,-1614	9	0,7,0
+282.7	PowerFirework	-114,48,-1612	9	0,7,0
+282.15	PowerFirework	-66,48,-1612	9	0,7,0
+283.6	PowerFirework	-108,48,-1615	9	0,7,0
+284.05	PowerFirework	-72,48,-1615	9	0,7,0
+287.1	PowerFirework	-72,49,-1615	7	4.23,9.06,0.8
+287.1	PowerFirework	-108,49,-1615	7	-4.23,9.06,0.8
+287.1	PowerFirework	-72,49,-1615	11	2.11,4.53,0.4
+287.1	PowerFirework	-108,49,-1615	11	-2.11,4.53,0.4
+289.0	PowerFirework	-117,49,-1612	7	4.23,9.06,0.8
+289.0	PowerFirework	-63,49,-1612	7	-2.23,9.06,0.8
+289.0	PowerFirework	-117,49,-1612	11	0.11,4.53,0.4
+289.0	PowerFirework	-63,49,-1612	11	-1.11,4.53,0.4
+290.8	PowerFirework	-111,48,-1614	76	-7.07,7.07,-0.5
+291.0	PowerFirework	-111,48,-1614	76	-5.88,8.09,-0.4
+291.2	PowerFirework	-111,48,-1614	76	-4.54,8.91,-0.3
+291.4	PowerFirework	-111,48,-1614	76	-3.09,9.51,-0.2
+291.6	PowerFirework	-111,48,-1614	76	-1.56,9.88,-0.1
+291.8	PowerFirework	-111,48,-1614	76	0,10,0
+292.0	PowerFirework	-111,48,-1614	76	1.56,9.88,0.1
+292.2	PowerFirework	-111,48,-1614	76	3.09,9.51,0.2
+292.4	PowerFirework	-111,48,-1614	76	4.54,8.91,0.3
+292.6	PowerFirework	-111,48,-1614	76	5.88,8.09,0.4
+292.6	PowerFirework	-69,48,-1614	76	-7.07,7.07,-0.5
+292.6	PowerFirework	-69,48,-1614	76	-5.88,8.09,-0.4
+292.8	PowerFirework	-69,48,-1614	76	-4.54,8.91,-0.3
+293.0	PowerFirework	-69,48,-1614	76	-3.09,9.51,-0.2
+293.2	PowerFirework	-69,48,-1614	76	-1.56,9.88,-0.1
+293.4	PowerFirework	-69,48,-1614	76	0,10,0
+293.6	PowerFirework	-69,48,-1614	76	1.56,9.88,0.1
+293.8	PowerFirework	-69,48,-1614	76	3.09,9.51,0.2
+294.0	PowerFirework	-69,48,-1614	76	4.54,8.91,0.3
+294.2	PowerFirework	-69,48,-1614	76	5.88,8.09,0.4
+294.4	PowerFirework	-69,48,-1614	76	7.07,7.07,0.5
+300.7	PowerFirework	-114,48,-1612	7	0,10,0.6
+300.7	PowerFirework	-108,48,-1615	7	0,10,0.6
+300.7	PowerFirework	-72,48,-1615	7	0,10,0.6
+300.7	PowerFirework	-66,48,-1612	7	0,10,0.6
+301.6	PowerFirework	-117,49,-1612	12,24	3,8.66,-0.3
+301.6	PowerFirework	-105,49,-1616	12,24	1,8.66,-0.3
+301.6	PowerFirework	-111,49,-1614	12,24	3,8.66,-0.3
+301.6	PowerFirework	-69,49,-1614	12,24	-3,8.66,-0.3
+301.6	PowerFirework	-75,49,-1616	12,24	-1,8.66,-0.3
+301.6	PowerFirework	-63,49,-1612	12,24	-3,8.66,-0.3
+340.4	PowerFirework	-111,49,-1614	2	-2.07,7.73,0.3
+340.55	PowerFirework	-111,49,-1614	2	-1.39,7.88,0.2
+340.7	PowerFirework	-111,49,-1614	2	-0.7,7.97,0.1
+340.85	PowerFirework	-111,49,-1614	2	0,8,0
+341.0	PowerFirework	-111,49,-1614	2	0.7,7.97,-0.1
+341.15	PowerFirework	-111,49,-1614	2	1.39,7.88,-0.2
+341.3	PowerFirework	-111,49,-1614	2	2.07,7.73,-0.3
+340.4	PowerFirework	-69,49,-1614	2	2.07,7.73,-0.3
+340.55	PowerFirework	-69,49,-1614	2	1.39,7.88,-0.2
+340.7	PowerFirework	-69,49,-1614	2	0.7,7.97,-0.1
+340.85	PowerFirework	-69,49,-1614	2	0,8,0
+341.0	PowerFirework	-69,49,-1614	2	-0.7,7.97,0.1
+341.15	PowerFirework	-69,49,-1614	2	-1.39,7.88,0.2
+341.3	PowerFirework	-69,49,-1614	2	-2.07,7.73,0.3
+342.6	PowerFirework	-111,49,-1614	2	-2.07,7.73,0.3
+342.6	PowerFirework	-111,49,-1614	2	-1.39,7.88,0.2
+342.6	PowerFirework	-111,49,-1614	2	-0.7,7.97,0.1
+342.6	PowerFirework	-111,49,-1614	2	0,8,0
+342.6	PowerFirework	-111,49,-1614	2	0.7,7.97,-0.1
+342.6	PowerFirework	-111,49,-1614	2	1.39,7.88,-0.2
+342.6	PowerFirework	-111,49,-1614	2	2.07,7.73,-0.3
+342.6	PowerFirework	-69,49,-1614	2	2.07,7.73,-0.3
+342.6	PowerFirework	-69,49,-1614	2	1.39,7.88,-0.2
+342.6	PowerFirework	-69,49,-1614	2	0.7,7.97,-0.1
+342.6	PowerFirework	-69,49,-1614	2	0,8,0
+342.6	PowerFirework	-69,49,-1614	2	-0.7,7.97,0.1
+342.6	PowerFirework	-69,49,-1614	2	-1.39,7.88,0.2
+342.6	PowerFirework	-69,49,-1614	2	-2.07,7.73,0.3
+346.5	PowerFirework	-95,93,-1621	17,11	0.7,-0.6,0.3
+346.6	PowerFirework	-98,82,-1621	17,11	-0.4,-0.4,0.3
+349.4	PowerFirework	-94,87,-1620	17,11	0.2,-0.5,0.5
+352.2	PowerFirework	-89,94,-1620	17,11	0.0,-0.3,0.6
+353.1	PowerFirework	-83,83,-1621	17,11	0.7,-0.5,0.4
+356.1	PowerFirework	-99,88,-1621	17,11	-0.3,-0.4,0.3
+357.0	PowerFirework	-92,93,-1621	17,11	0.5,-0.3,0.3
+358.3	PowerFirework	-82,84,-1620	17,11	-0.5,-0.6,0.7
+359.7	PowerFirework	-81,88,-1620	17,11	-0.2,-0.3,0.4
+359.7	PowerFirework	-96,85,-1620	17,11	0.1,-0.5,0.3
+359.7	PowerFirework	-91,92,-1620	17,11	-0.6,-0.4,0.6
+378.3	PowerFirework	-90,93,-1621	17,11	0.7,-0.6,0.3
+378.3	PowerFirework	-98,90,-1621	17,11	-0.4,-0.6,0.6
+378.3	PowerFirework	-89,90,-1621	17,11	0.1,-0.5,0.3
+366.4	PowerFirework	-117,49,-1612	2	0,9,0
+366.4	PowerFirework	-114,49,-1613	2	0,9,0
+366.4	PowerFirework	-111,49,-1614	2	0,9,0
+366.4	PowerFirework	-108,49,-1615	2	0,9,0
+366.4	PowerFirework	-105,49,-1616	2	0,9,0
+366.4	PowerFirework	-75,49,-1616	2	0,9,0
+366.4	PowerFirework	-72,49,-1615	2	0,9,0
+366.4	PowerFirework	-69,49,-1614	2	0,9,0
+366.4	PowerFirework	-66,49,-1613	2	0,9,0
+366.4	PowerFirework	-63,49,-1612	2	0,9,0
+369.7	PowerFirework	-89,93,-1621	41,29	0,0,0
+369.7	PowerFirework	-82,87,-1620	41,29	0,0,0
+369.7	PowerFirework	-94,85,-1620	41,29	0,0,0
+376.8	PowerFirework	-111,49,-1614	2	-2.07,7.73,0.3
+376.6	PowerFirework	-111,49,-1614	2	-1.39,7.88,0.2
+376.4	PowerFirework	-111,49,-1614	2	-0.7,7.97,0.1
+376.2	PowerFirework	-111,49,-1614	2	0,8,0
+376.4	PowerFirework	-111,49,-1614	2	0.7,7.97,-0.1
+376.6	PowerFirework	-111,49,-1614	2	1.39,7.88,-0.2
+376.8	PowerFirework	-111,49,-1614	2	2.07,7.73,-0.3
+376.8	PowerFirework	-69,49,-1614	2	2.07,7.73,-0.3
+376.6	PowerFirework	-69,49,-1614	2	1.39,7.88,-0.2
+376.4	PowerFirework	-69,49,-1614	2	0.7,7.97,-0.1
+376.2	PowerFirework	-69,49,-1614	2	0,8,0
+376.4	PowerFirework	-69,49,-1614	2	-0.7,7.97,0.1
+376.6	PowerFirework	-69,49,-1614	2	-1.39,7.88,0.2
+376.8	PowerFirework	-69,49,-1614	2	-2.07,7.73,0.3
+390.6	PowerFirework	-84,87,-1620	52	0,0,0
+390.6	PowerFirework	-97,93,-1621	52	0,0,0
+392.0	PowerFirework	-117,49,-1612	76	1.08,9.78,0.3
+392.0	PowerFirework	-63,49,-1612	76	-1.08,9.78,0.3
+392.9	PowerFirework	-111,49,-1614	76	1.08,9.78,0.3
+392.9	PowerFirework	-69,49,-1614	76	-1.08,9.78,0.3
+393.7	PowerFirework	-105,49,-1616	76	1.08,9.78,0.3
+393.7	PowerFirework	-75,49,-1616	76	-1.08,9.78,0.3
+394.7	PowerFirework	-90,83,-1621	52	0,0,0
+394.7	PowerFirework	-88,85,-1621	52	0,0,0
+397.3	PowerFirework	-117,49,-1612	76	1.08,9.78,0.3
+397.3	PowerFirework	-63,49,-1612	76	-1.08,9.78,0.3
+396.5	PowerFirework	-111,49,-1614	76	1.08,9.78,0.3
+396.5	PowerFirework	-69,49,-1614	76	-1.08,9.78,0.3
+395.6	PowerFirework	-105,49,-1616	76	1.08,9.78,0.3
+395.6	PowerFirework	-75,49,-1616	76	-1.08,9.78,0.3
+398.3	PowerFirework	-84,83,-1620	52	0,0,0
+398.3	PowerFirework	-89,87,-1620	52	0,0,0
+399.2	PowerFirework	-63,49,-1612	76	1.74,9.85,0.2
+399.2	PowerFirework	-63,49,-1612	76	-0.74,9.85,0.2
+400.1	PowerFirework	-69,49,-1614	76	1.74,9.85,0.2
+400.1	PowerFirework	-69,49,-1614	76	-0.74,9.85,0.2
+400.9	PowerFirework	-75,49,-1616	76	1.74,9.85,0.2
+400.9	PowerFirework	-75,49,-1616	76	-0.74,9.85,0.2
+401.9	PowerFirework	-93,88,-1620	52	0,0,0
+401.9	PowerFirework	-81,92,-1620	52	0,0,0
+402.8	PowerFirework	-117,49,-1612	76	0.74,9.85,0.2
+402.8	PowerFirework	-117,49,-1612	76	-1.74,9.85,0.2
+403.6	PowerFirework	-111,49,-1614	76	0.74,9.85,0.2
+403.6	PowerFirework	-111,49,-1614	76	-1.74,9.85,0.2
+404.6	PowerFirework	-105,49,-1616	76	0.74,9.85,0.2
+404.6	PowerFirework	-105,49,-1616	76	-1.74,9.85,0.2
+405.4	PowerFirework	-86,91,-1620	52	0,0,0
+405.4	PowerFirework	-81,88,-1620	52	0,0,0
+406.4	PowerFirework	-95,90,-1620	30,43	0,0,0
+406.6	PowerFirework	-98,93,-1621	30,43	0,0,0
+409.9	PowerFirework	-85,88,-1620	30,43	0,0,0
+410.0	PowerFirework	-98,87,-1620	30,43	0,0,0
+410.2	PowerFirework	-86,82,-1620	30,43	0,0,0
+413.5	PowerFirework	-100,93,-1620	52,53	0,0,0
+415.3	PowerFirework	-81,82,-1620	52,53	0,0,0
+417.2	PowerFirework	-89,94,-1620	52,53	0,0,0
+417.2	PowerFirework	-95,89,-1620	52,53	0,0,0
+421.0	PowerFirework	-99,91,-1621	30,43	0,0,0
+421.4	PowerFirework	-86,88,-1621	30,43	0,0,0
+423.4	PowerFirework	-117,49,-1612	5	1.2,8.37,-0.2
+423.4	PowerFirework	-114,49,-1613	5	1.2,8.37,-0.2
+423.4	PowerFirework	-111,49,-1614	5	1.2,8.37,-0.2
+423.4	PowerFirework	-108,49,-1615	5	1.2,8.37,-0.2
+423.4	PowerFirework	-105,49,-1616	5	1.2,8.37,-0.2
+423.4	PowerFirework	-75,49,-1616	5	-1.2,8.37,-0.2
+423.4	PowerFirework	-72,49,-1615	5	-1.2,8.37,-0.2
+423.4	PowerFirework	-69,49,-1614	5	-1.2,8.37,-0.2
+423.4	PowerFirework	-66,49,-1613	5	-1.2,8.37,-0.2
+423.4	PowerFirework	-63,49,-1612	5	-1.2,8.37,-0.2
+425.8	PowerFirework	-83,93,-1621	52,53	0,0,0
+427.9	PowerFirework	-98,84,-1621	52,53	0,0,0
+428.0	PowerFirework	-81,84,-1620	52,53	0,0,0
+429.8	PowerFirework	-85,85,-1621	52,53	0,0,0
+431.5	PowerFirework	-116,48,-1611	16	0,10,0
+431.5	PowerFirework	-114,48,-1612	16	0,10,0
+431.5	PowerFirework	-112,48,-1613	16	0,10,0
+431.5	PowerFirework	-110,48,-1614	16	0,10,0
+431.5	PowerFirework	-108,48,-1615	16	0,10,0
+431.5	PowerFirework	-106,48,-1616	16	0,10,0
+431.5	PowerFirework	-74,48,-1616	16	0,10,0
+431.5	PowerFirework	-72,48,-1615	16	0,10,0
+431.5	PowerFirework	-70,48,-1614	16	0,10,0
+431.5	PowerFirework	-68,48,-1613	16	0,10,0
+431.5	PowerFirework	-66,48,-1612	16	0,10,0
+431.5	PowerFirework	-64,48,-1611	16	0,10,0
+433.4	PowerFirework	-99,92,-1621	41	0,0,0
+433.55	PowerFirework	-84,92,-1620	41	0,0,0
+433.7	PowerFirework	-93,92,-1621	41	0,0,0
+434.1	PowerFirework	-85,94,-1620	41	0,0,0
+434.4	PowerFirework	-90,87,-1620	41	0,0,0
+435.9	PowerFirework	-108,49,-1615	17	0,4,0
+435.9	PowerFirework	-72,49,-1615	17	0,4,0
+437.3	PowerFirework	-114,49,-1613	17	0,4,0
+437.3	PowerFirework	-66,49,-1613	17	0,4,0
+439.2	PowerFirework	-106,48,-1616	17	0,3,0
+439.2	PowerFirework	-74,48,-1616	17	0,3,0
+439.8	PowerFirework	-108,48,-1615	17	0,3,0
+439.8	PowerFirework	-72,48,-1615	17	0,3,0
+440.9	PowerFirework	-110,48,-1614	17	0,3,0
+440.9	PowerFirework	-70,48,-1614	17	0,3,0
+442.0	PowerFirework	-112,48,-1613	17	0,3,0
+442.0	PowerFirework	-68,48,-1613	17	0,3,0
+442.8	PowerFirework	-114,48,-1612	17	0,3,0
+442.8	PowerFirework	-66,48,-1612	17	0,3,0
+443.8	PowerFirework	-116,48,-1611	17	0,3,0
+443.8	PowerFirework	-64,48,-1611	17	0,3,0
+444.7	PowerFirework	-112,48,-1613	17	0,3,0
+444.7	PowerFirework	-68,48,-1613	17	0,3,0
+445.6	PowerFirework	-108,48,-1615	17	0,3,0
+445.6	PowerFirework	-72,48,-1615	17	0,3,0
+446.5	PowerFirework	-114,49,-1613	17	0,3,0
+446.5	PowerFirework	-108,49,-1615	17	0,4,0
+446.5	PowerFirework	-72,49,-1615	17	0,4,0
+446.5	PowerFirework	-66,49,-1613	17	0,3,0
+439.2	PowerFirework	-98,85,-1621	35,53	0,0,0
+439.2	PowerFirework	-82,94,-1620	35,53	0,0,0
+442.4	PowerFirework	-92,85,-1620	35,53	0,0,0
+442.4	PowerFirework	-96,89,-1620	35,53	0,0,0
+446.6	PowerFirework	-81,93,-1621	35,53	0,0,0
+446.6	PowerFirework	-99,86,-1620	35,53	0,0,0
+449.3	PowerFirework	-117,49,-1612	23	1.09,9.51,-0.3
+449.3	PowerFirework	-63,49,-1612	23	-1.09,9.51,-0.3
+450.0	PowerFirework	-111,49,-1614	23	1.09,9.51,-0.3
+450.0	PowerFirework	-69,49,-1614	23	-1.09,9.51,-0.3
+450.6	PowerFirework	-105,49,-1616	23	1.09,9.51,-0.3
+450.6	PowerFirework	-75,49,-1616	23	-1.09,9.51,-0.3
+452.2	PowerFirework	-93,92,-1620	32,35	0,0,0
+455.1	PowerFirework	-97,90,-1621	11	0,-0.7,0.6
+457.2	PowerFirework	-84,88,-1620	11	0,-0.6,0.7
+457.3	PowerFirework	-95,85,-1621	11	0,-0.71,0.5
+460.8	PowerFirework	-100,82,-1621	11	0.3,-0.7,0.6
+460.8	PowerFirework	-94,92,-1620	11	0,-0.6,0.4
+460.8	PowerFirework	-89,84,-1621	11	-0.2,-0.71,0.5
+465.9	PowerFirework	-99,93,-1621	57	0,0,0
+467.3	PowerFirework	-85,86,-1621	57	0,0,0
+468.4	PowerFirework	-90,83,-1621	57	0,0,0
+468.5	PowerFirework	-94,90,-1621	57	0,0,0
+481.2	PowerFirework	-92,91,-1621	58	-0.7,1.7,1.1
+481.2	PowerFirework	-92,91,-1621	58	0.7,-1.7,-1.1
+483.2	PowerFirework	-91,94,-1621	58	1.2,1.8,0.3
+483.2	PowerFirework	-91,94,-1621	58	-1.2,-1.8,-0.3
+485.1	PowerFirework	-98,90,-1620	58	-0.1,0.2,1.6
+485.1	PowerFirework	-98,90,-1620	58	0.1,-0.2,-1.6
+489.0	PowerFirework	-84,92,-1621	58	1.1,1.7,0.1
+489.0	PowerFirework	-84,92,-1621	58	-1.1,-1.7,-0.1
+491.0	PowerFirework	-90,93,-1620	58	-0.5,1.4,-1.3
+491.0	PowerFirework	-90,93,-1620	58	0.5,-1.4,1.3
+492.0	PowerFirework	-86,93,-1620	58	1.3,1.6,-1.6
+492.0	PowerFirework	-86,93,-1620	58	-1.3,-1.6,1.6
+493.0	PowerFirework	-85,83,-1621	38	0,0,0
+493.3	PowerFirework	-81,85,-1620	38	0,0,0
+494.0	PowerFirework	-100,88,-1620	38	0,0,0
+495.0	PowerFirework	-97,89,-1621	38	0,0,0
+495.0	PowerFirework	-92,90,-1620	38	0,0,0
+510.6	PowerFirework	-98,89,-1621	59	0,0,0
+512.3	PowerFirework	-94,83,-1620	59	0,0,0
+514.0	PowerFirework	-88,94,-1621	60	0,0,0
+515.8	PowerFirework	-88,94,-1621	32	0,0,0
+514.0	PowerFirework	-92,84,-1621	60	0,0,0
+515.8	PowerFirework	-92,84,-1621	32	0,0,0
+517.4	PowerFirework	-89,90,-1620	59	0,0,0
+519.2	PowerFirework	-90,94,-1621	59	0,0,0
+521.0	PowerFirework	-93,93,-1621	60	0,0,0
+522.7	PowerFirework	-93,93,-1621	32	0,0,0
+521.0	PowerFirework	-100,88,-1620	60	0,0,0
+522.7	PowerFirework	-100,88,-1620	32	0,0,0
+524.4	PowerFirework	-88,90,-1621	19,19	0,0,0.8
+525.0	PowerFirework	-82,87,-1621	19,19	0,0,0.9
+526.1	PowerFirework	-87,83,-1620	19,19	0,0,0.8
+527.7	PowerFirework	-84,85,-1621	19,19	0,0,0.9
+528.6	PowerFirework	-86,92,-1621	19,19	0,0,0.8
+529.4	PowerFirework	-92,88,-1620	19,19	0,0,0.9
+531.1	PowerFirework	-114,49,-1613	20	1.42,9.4,-0.1
+531.8	PowerFirework	-66,49,-1613	20	-1.42,9.4,-0.1
+532.7	PowerFirework	-75,49,-1616	20	1.74,9.85,0.2
+532.7	PowerFirework	-105,49,-1616	20	-1.74,9.85,0.2
+534.5	PowerFirework	-100,90,-1620	59	0,0,0
+536.1	PowerFirework	-92,87,-1621	59	0,0,0
+538.0	PowerFirework	-117,49,-1612	20	1.59,9.66,-0.2
+538.0	PowerFirework	-111,49,-1614	20	1.59,9.66,-0.2
+538.0	PowerFirework	-105,49,-1616	20	0.59,9.66,-0.2
+539.4	PowerFirework	-75,49,-1616	20	-0.59,9.66,-0.2
+539.4	PowerFirework	-69,49,-1614	20	-1.59,9.66,-0.2
+539.4	PowerFirework	-63,49,-1612	20	-1.59,9.66,-0.2
+544.0	PowerFirework	-83,90,-1621	36,60	0,0,0
+548.6	PowerFirework	-114,49,-1613	19	0,7,0
+548.6	PowerFirework	-108,49,-1615	19	0,7,0
+548.6	PowerFirework	-72,49,-1615	19	0,7,0
+548.6	PowerFirework	-66,49,-1613	19	0,7,0
+551.9	PowerFirework	-91,84,-1621	16,16	0,0,0.8
+551.9	PowerFirework	-82,87,-1621	16,16	0,0,0.9
+555.2	PowerFirework	-111,49,-1614	20	1.6,9.7,-0.3
+556.8	PowerFirework	-69,49,-1614	20	-1.6,9.7,-0.3
+561.3	PowerFirework	-85,89,-1620	59	0,0,0
+562.8	PowerFirework	-111,49,-1614	20	1.6,9.7,0.5
+562.8	PowerFirework	-69,49,-1614	20	-1.6,9.7,0.5
+564.5	PowerFirework	-100,92,-1621	47,59	0,0,0
+557.7	PowerFirework	-91,84,-1621	16,16	0,0,0.8
+559.0	PowerFirework	-99,83,-1620	16,16	0,0,0.9
+559.8	PowerFirework	-82,84,-1621	16,16	0,0,0.8
+560.5	PowerFirework	-86,83,-1621	16,16	0,0,0.9
+561.5	PowerFirework	-92,85,-1620	16,16	0,0,0.8
+562.0	PowerFirework	-87,86,-1620	16,16	0,0,0.9
+562.0	PowerFirework	-95,90,-1620	16,16	0,0,0.8
+573.8	PowerFirework	-98,62,-1626	21	0,10,0
+573.8	PowerFirework	-78,62,-1625	21	0,10,0
+573.8	PowerFirework	-98,62,-1626	21	-1,10,1.5
+573.8	PowerFirework	-78,62,-1625	21	1,10,1
+573.8	PowerFirework	-97,94,-1621	21	0,0,0
+573.85	PowerFirework	-94,92,-1621	21	0,0,0
+573.9	PowerFirework	-96,91,-1620	21	0,0,0
+573.95	PowerFirework	-82,92,-1621	21	0,0,0
+577.6	PowerFirework	-94,80,-1626	22	0,0,0
+578.9	PowerFirework	-98,62,-1626	22	-1,10,1.5
+580.1	PowerFirework	-78,62,-1625	22	1,10,1
+581.2	PowerFirework	-89,84,-1628	22	0,0,0
+582.2	PowerFirework	-98,62,-1626	22	-1,10,1.5
+583.5	PowerFirework	-84,78,-1625	22	0,0,0
+584.4	PowerFirework	-89,84,-1628	22	0,0,0
+587.1	PowerFirework	-90,91,-1626	77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77,77	0,0,0
+589.1	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+589.1	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+590.5	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+590.5	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+591.9	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+591.9	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+593.3	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+593.3	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+594.7	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+594.7	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+596.1	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+596.1	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+597.8	PowerFirework	-89,92,-1621	64,65	0,0,0
+597.8	PowerFirework	-83,86,-1620	64,65	0,0,0
+597.8	PowerFirework	-100,87,-1621	64,65	0,0,0
+601.6	PowerFirework	-93,86,-1620	64,65	0,0,0
+601.6	PowerFirework	-87,95,-1621	64,65	0,0,0
+601.6	PowerFirework	-85,92,-1621	64,65	0,0,0
+604.8	PowerFirework	-108,49,-1615	23	0.25,8.74,0.3
+604.8	PowerFirework	-72,49,-1615	23	-0.25,8.74,0.3
+607.5	PowerFirework	-95,88,-1620	42,43	0,0,0
+619.3	PowerFirework	-99,89,-1621	66	0,0,0
+624.5	PowerFirework	-88,84,-1621	66	0,0,0
+631.2	PowerFirework	-98,93,-1620	67,47	0,0,0
+631.2	PowerFirework	-89,92,-1621	67,47	0,0,0
+634.1	PowerFirework	-100,86,-1621	35	0,0,0
+634.5	PowerFirework	-85,92,-1621	67,47	0,0,0
+634.5	PowerFirework	-83,86,-1620	67,47	0,0,0
+637.4	PowerFirework	-96,88,-1621	35	0,0,0
+637.8	PowerFirework	-95,90,-1621	76,76	0,0,0.8
+638.3	PowerFirework	-88,94,-1621	76,76	0,0,0.9
+638.8	PowerFirework	-99,91,-1620	76,76	0,0,0.8
+639.3	PowerFirework	-84,84,-1621	76,76	0,0,0.9
+639.5	PowerFirework	-83,85,-1620	17,17,17,17,17	0,0,0.8
+640.1	PowerFirework	-93,84,-1620	17,17,17,17,17	0,0,0.9
+641.1	PowerFirework	-86,90,-1620	76,76	0,0,0.8
+642.1	PowerFirework	-100,85,-1621	76,76	0,0,0.9
+642.9	PowerFirework	-84,94,-1621	76,76	0,0,0.8
+642.9	PowerFirework	-99,91,-1621	17,17,17	0,0,0.9
+643.7	PowerFirework	-98,62,-1626	76	-1,10,1.5
+643.7	PowerFirework	-78,62,-1625	76	1,10,1
+644.5	PowerFirework	-85,82,-1621	68	0,0,0
+646.3	PowerFirework	-87,88,-1620	69	0,0,0
+647.9	PowerFirework	-84,91,-1620	66	0,0,0
+649.4	PowerFirework	-97,88,-1620	66	0,0,0
+651.2	PowerFirework	-93,88,-1621	69	0,0,0
+652.9	PowerFirework	-81,85,-1620	68	0,0,0
+654.6	PowerFirework	-92,89,-1621	66	0,0,0
+656.2	PowerFirework	-99,82,-1620	66	0,0,0
+657.1	PowerFirework	-116,48,-1611	24	0,8,0
+657.1	PowerFirework	-112,48,-1613	20	0,9,0
+657.1	PowerFirework	-108,48,-1615	24	0,8,0
+657.1	PowerFirework	-72,48,-1615	24	0,8,0
+657.1	PowerFirework	-68,48,-1613	20	0,9,0
+657.1	PowerFirework	-64,48,-1611	24	0,8,0
+658.7	PowerFirework	-114,48,-1612	20	0,8,0
+658.7	PowerFirework	-110,48,-1614	24	0,9,0
+658.7	PowerFirework	-106,48,-1616	20	0,8,0
+658.7	PowerFirework	-74,48,-1616	20	0,8,0
+658.7	PowerFirework	-70,48,-1614	24	0,9,0
+658.7	PowerFirework	-66,48,-1612	20	0,8,0
+660.5	PowerFirework	-116,48,-1611	20	0,9,0
+660.5	PowerFirework	-112,48,-1613	20	0,8,0
+660.5	PowerFirework	-108,48,-1615	20	0,9,0
+660.5	PowerFirework	-72,48,-1615	24	0,9,0
+660.5	PowerFirework	-68,48,-1613	24	0,8,0
+660.5	PowerFirework	-64,48,-1611	24	0,9,0
+660.5	PowerFirework	-88,83,-1621	50,32	0,0,0
+662.1	PowerFirework	-114,48,-1612	24	0,9,0
+662.1	PowerFirework	-110,48,-1614	24	0,8,0
+662.1	PowerFirework	-106,48,-1616	24	0,9,0
+662.1	PowerFirework	-74,48,-1616	20	0,9,0
+662.1	PowerFirework	-70,48,-1614	20	0,8,0
+662.1	PowerFirework	-66,48,-1612	20	0,9,0
+662.5	PowerFirework	-96,87,-1621	50,32	0,0,0
+663.8	PowerFirework	-116,48,-1611	20	0,9,0
+663.8	PowerFirework	-112,48,-1613	20	0,8,0
+663.8	PowerFirework	-108,48,-1615	20	0,9,0
+663.8	PowerFirework	-72,48,-1615	20	0,9,0
+663.8	PowerFirework	-68,48,-1613	20	0,8,0
+663.8	PowerFirework	-64,48,-1611	20	0,9,0
+665.4	PowerFirework	-114,48,-1612	24	0,9,0
+665.4	PowerFirework	-110,48,-1614	24	0,8,0
+665.4	PowerFirework	-106,48,-1616	24	0,9,0
+665.4	PowerFirework	-74,48,-1616	24	0,9,0
+665.4	PowerFirework	-70,48,-1614	24	0,8,0
+665.4	PowerFirework	-66,48,-1612	24	0,9,0
+665.4	PowerFirework	-82,87,-1621	50,32	0,0,0
+666.3	PowerFirework	-95,91,-1620	50,32	0,0,0
+666.7	PowerFirework	-98,62,-1626	22	-1,10,1.5
+668.3	PowerFirework	-78,62,-1625	22	1,10,1
+669.9	PowerFirework	-98,62,-1626	22	-1,10,1.5
+669.9	PowerFirework	-78,62,-1625	22	1,10,1
+675.5	PowerFirework	-91,89,-1620	70,55	0,0,0
+677.0	PowerFirework	-94,88,-1621	70,55	0,0,0
+678.5	PowerFirework	-106,48,-1616	4	0,9,0
+678.75	PowerFirework	-74,48,-1616	4	0,9,0
+679.0	PowerFirework	-108,48,-1615	4	0,9,0
+679.25	PowerFirework	-72,48,-1615	4	0,9,0
+679.5	PowerFirework	-110,48,-1614	4	0,9,0
+679.75	PowerFirework	-70,48,-1614	4	0,9,0
+680.0	PowerFirework	-112,48,-1613	4	0,9,0
+680.25	PowerFirework	-68,48,-1613	4	0,9,0
+680.5	PowerFirework	-114,48,-1612	4	0,9,0
+680.75	PowerFirework	-66,48,-1612	4	0,9,0
+681.8	PowerFirework	-82,84,-1621	70,55	0,0,0
+683.4	PowerFirework	-90,94,-1620	70,55	0,0,0
+684.8	PowerFirework	-64,48,-1611	4	0,9,0
+685.0	PowerFirework	-116,48,-1611	4	0,9,0
+685.3	PowerFirework	-66,48,-1612	4	0,9,0
+685.5	PowerFirework	-114,48,-1612	4	0,9,0
+685.8	PowerFirework	-68,48,-1613	4	0,9,0
+686.1	PowerFirework	-112,48,-1613	4	0,9,0
+686.3	PowerFirework	-70,48,-1614	4	0,9,0
+686.6	PowerFirework	-110,48,-1614	4	0,9,0
+686.8	PowerFirework	-72,48,-1615	4	0,9,0
+687.1	PowerFirework	-108,48,-1615	4	0,9,0
+687.4	PowerFirework	-74,48,-1616	4	0,9,0
+687.7	PowerFirework	-106,48,-1616	4	0,9,0
+687.8	PowerFirework	-108,49,-1615	17,18,22	1.59,9.66,0.3
+687.8	PowerFirework	-72,49,-1615	17,18,22	-1.59,9.66,0.3
+688.2	PowerFirework	-81,84,-1620	60	0,0,0
+689.8	PowerFirework	-81,84,-1620	59	0,0,0
+688.2	PowerFirework	-82,92,-1621	60	0,0,0
+689.8	PowerFirework	-82,92,-1621	59	0,0,0
+691.7	PowerFirework	-117,49,-1612	17,18,22	1.59,9.96,0.3
+691.7	PowerFirework	-75,49,-1616	17,18,22	1.59,9.96,0.3
+691.7	PowerFirework	-111,49,-1614	17,18,22	1.59,9.96,0.3
+691.7	PowerFirework	-69,49,-1614	17,18,22	1.59,9.96,0.3
+693.4	PowerFirework	-63,49,-1612	17,18,22	-1.59,9.96,0.3
+693.4	PowerFirework	-105,49,-1616	17,18,22	-1.59,9.96,0.3
+693.4	PowerFirework	-111,49,-1614	17,18,22	-1.59,9.96,0.3
+693.4	PowerFirework	-69,49,-1614	17,18,22	-1.59,9.96,0.3
+694.6	PowerFirework	-99,87,-1620	60	0,0,0
+696.1	PowerFirework	-99,87,-1620	59	0,0,0
+694.6	PowerFirework	-88,90,-1621	60	0,0,0
+696.1	PowerFirework	-88,90,-1621	59	0,0,0
+697.3	PowerFirework	-117,49,-1612	17,18,22	1.59,9.66,0.3
+697.3	PowerFirework	-75,49,-1616	17,18,22	1.59,9.66,0.3
+697.3	PowerFirework	-111,49,-1614	17,18,22	1.59,9.66,0.3
+697.3	PowerFirework	-69,49,-1614	17,18,22	1.59,9.66,0.3
+698.1	PowerFirework	-63,49,-1612	17,18,22	-1.59,9.66,0.3
+698.1	PowerFirework	-105,49,-1616	17,18,22	-1.59,9.66,0.3
+698.1	PowerFirework	-111,49,-1614	17,18,22	-1.59,9.66,0.3
+698.1	PowerFirework	-69,49,-1614	17,18,22	-1.59,9.66,0.3
+699.4	PowerFirework	-100,62,-1618	72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72	0,0,0.2
+699.4	PowerFirework	-76,61,-1620	72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72	0,0,0.2
+699.4	PowerFirework	-95,78,-1626	72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72	0,0,0.2
+699.4	PowerFirework	-84,79,-1621	72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72	0,0,0.2
+699.4	PowerFirework	-89,88,-1628	72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72,72	0,0,0.2
+700.9	PowerFirework	-99,92,-1620	60	0,0,0
+702.5	PowerFirework	-99,92,-1620	59	0,0,0
+700.9	PowerFirework	-93,91,-1620	60	0,0,0
+702.5	PowerFirework	-93,91,-1620	59	0,0,0
+702.4	PowerFirework	-117,49,-1612	17,18,22	1.59,9.66,0.3
+703.2	PowerFirework	-63,49,-1612	17,18,22	-1.59,9.66,0.3
+703.9	PowerFirework	-106,48,-1616	17,18,22	0,10,0
+704.3	PowerFirework	-108,48,-1615	17,18,22	0,10,0.1
+704.6	PowerFirework	-110,48,-1614	17,18,22	0,10,0.2
+705.0	PowerFirework	-112,48,-1613	17,18,22	0,10,0.3
+705.3	PowerFirework	-114,48,-1612	17,18,22	0,10,0.4
+703.9	PowerFirework	-74,48,-1616	17,18,22	0,10,0
+704.3	PowerFirework	-72,48,-1615	17,18,22	0,10,0.1
+704.6	PowerFirework	-70,48,-1614	17,18,22	0,10,0.2
+705.0	PowerFirework	-68,48,-1613	17,18,22	0,10,0.3
+705.3	PowerFirework	-66,48,-1612	17,18,22	0,10,0.4
+705.6	PowerFirework	-97,94,-1621	70,47	0,0,0
+707.3	PowerFirework	-92,93,-1621	70,47	0,0,0
+708.9	PowerFirework	-100,84,-1620	60	0,0,0
+710.5	PowerFirework	-100,84,-1620	59	0,0,0
+710.5	PowerFirework	-95,89,-1621	60	0,0,0
+712.1	PowerFirework	-95,89,-1621	59	0,0,0
+708.9	PowerFirework	-89,89,-1620	60	0,0,0
+710.5	PowerFirework	-89,89,-1620	59	0,0,0
+710.5	PowerFirework	-82,88,-1621	60	0,0,0
+712.1	PowerFirework	-82,88,-1621	59	0,0,0
+712.1	PowerFirework	-100,91,-1620	60	0,0,0
+713.7	PowerFirework	-100,91,-1620	59	0,0,0
+712.1	PowerFirework	-81,87,-1621	60	0,0,0
+713.7	PowerFirework	-81,87,-1621	59	0,0,0
+714.9	PowerFirework	-94,85,-1620	35	0,0,0
+715.2	PowerFirework	-81,87,-1620	34	0,0,0
+715.5	PowerFirework	-89,85,-1620	29	0,0,0
+715.7	PowerFirework	-93,92,-1620	35	0,0,0
+715.9	PowerFirework	-96,87,-1620	34	0,0,0
+716.1	PowerFirework	-86,93,-1621	29	0,0,0
+716.2	PowerFirework	-90,92,-1621	35	0,0,0
+716.3	PowerFirework	-84,86,-1620	34	0,0,0
+716.4	PowerFirework	-97,92,-1621	29	0,0,0
+716.5	PowerFirework	-93,94,-1621	35	0,0,0
+716.6	PowerFirework	-99,85,-1621	34	0,0,0
+716.7	PowerFirework	-91,84,-1620	29	0,0,0
+716.8	PowerFirework	-86,92,-1621	35	0,0,0
+716.9	PowerFirework	-87,88,-1620	34	0,0,0
+717.0	PowerFirework	-94,86,-1620	29	0,0,0
+717.1	PowerFirework	-99,88,-1621	35	0,0,0
+717.2	PowerFirework	-91,85,-1621	34	0,0,0
+717.3	PowerFirework	-82,90,-1621	29	0,0,0
+717.4	PowerFirework	-88,92,-1620	35	0,0,0
+717.5	PowerFirework	-93,84,-1620	34	0,0,0
+717.6	PowerFirework	-94,90,-1620	29	0,0,0
+717.7	PowerFirework	-88,83,-1620	35	0,0,0
+717.8	PowerFirework	-97,88,-1621	34	0,0,0
+717.9	PowerFirework	-91,86,-1621	29	0,0,0
+718.0	PowerFirework	-83,90,-1621	29	0,0,0
+718.1	PowerFirework	-88,88,-1621	35	0,0,0
+718.2	PowerFirework	-94,94,-1621	34	0,0,0
+718.3	PowerFirework	-99,89,-1621	29	0,0,0
+718.4	PowerFirework	-81,84,-1620	35	0,0,0
+718.5	PowerFirework	-95,85,-1620	34	0,0,0
+718.6	PowerFirework	-98,86,-1621	29	0,0,0
+718.7	PowerFirework	-87,87,-1620	35	0,0,0
+718.8	PowerFirework	-100,88,-1620	34	0,0,0
+718.9	PowerFirework	-94,82,-1620	29	0,0,0
+719.0	PowerFirework	-88,84,-1620	29	0,0,0
+719.1	PowerFirework	-92,88,-1620	35	0,0,0
+719.2	PowerFirework	-91,84,-1621	34	0,0,0
+719.3	PowerFirework	-83,82,-1621	29	0,0,0
+719.4	PowerFirework	-98,85,-1620	35	0,0,0
+719.5	PowerFirework	-87,89,-1620	34	0,0,0
+719.6	PowerFirework	-94,92,-1621	29	0,0,0
+719.7	PowerFirework	-84,90,-1620	35	0,0,0
+719.8	PowerFirework	-93,82,-1620	34	0,0,0
+719.9	PowerFirework	-100,88,-1621	29	0,0,0
+720.0	PowerFirework	-90,88,-1620	29	0,0,0
+720.1	PowerFirework	-81,84,-1621	35	0,0,0
+720.2	PowerFirework	-91,94,-1620	34	0,0,0
+720.3	PowerFirework	-99,87,-1620	29	0,0,0
+720.5	PowerFirework	-111,49,-1614	25	2.23,9.36,0
+720.5	PowerFirework	-111,49,-1614	25	-2.23,9.36,0
+720.5	PowerFirework	-69,49,-1614	25	2.23,9.36,0
+720.5	PowerFirework	-69,49,-1614	25	-2.23,9.36,0
+746.2	PowerFirework	-92,89,-1620	28	0,0,0
+746.3	PowerFirework	-87,88,-1621	28	0,0,0
+747.3	PowerFirework	-85,93,-1621	28	0,0,0
+748.4	PowerFirework	-93,89,-1621	28	0,0,0
+748.4	PowerFirework	-87,93,-1620	28	0,0,0
+747.7	PowerFirework	-92,88,-1620	28	0,0,0
+751.0	PowerFirework	-97,86,-1620	28	0,0,0
+751.0	PowerFirework	-89,93,-1620	28	0,0,0
+753.3	PowerFirework	-99,91,-1620	30,29	0,0,0
+756.3	PowerFirework	-94,89,-1620	31	0,0,0
+756.3	PowerFirework	-88,82,-1621	31	0,0,0
+758.3	PowerFirework	-93,81,-1620	8	0,-0.3,0
+758.5	PowerFirework	-96,78,-1620	8	0,-0.5,0
+758.7	PowerFirework	-93,80,-1620	8	0,-0.5,0
+758.8	PowerFirework	-92,77,-1620	8	0,-0.3,0
+759.9	PowerFirework	-95,78,-1620	8	0,-0.3,0
+759.2	PowerFirework	-94,80,-1620	8	0,-0.5,0
+759.5	PowerFirework	-92,79,-1620	8	0,-0.5,0
+759.7	PowerFirework	-96,81,-1620	8	0,-0.4,0
+758.4	PowerFirework	-87,83,-1621	8	0,-0.4,0
+758.6	PowerFirework	-90,80,-1621	8	0,-0.4,0
+759.0	PowerFirework	-89,82,-1621	8	0,-0.5,0
+759.1	PowerFirework	-88,79,-1621	8	0,-0.4,0
+759.3	PowerFirework	-86,80,-1621	8	0,-0.4,0
+759.4	PowerFirework	-89,84,-1621	8	0,-0.3,0
+759.6	PowerFirework	-87,83,-1621	8	0,-0.4,0
+759.8	PowerFirework	-90,81,-1621	8	0,-0.5,0
+763.5	PowerFirework	-111,48,-1614	1	7.07,7.07,-0.5
+763.7	PowerFirework	-111,48,-1614	1	5.88,8.09,-0.4
+763.9	PowerFirework	-111,48,-1614	1	4.54,8.91,-0.3
+764.1	PowerFirework	-111,48,-1614	1	3.09,9.51,-0.2
+764.3	PowerFirework	-111,48,-1614	1	1.56,9.88,-0.1
+764.5	PowerFirework	-111,48,-1614	1	0,10,0
+764.7	PowerFirework	-111,48,-1614	1	-1.56,9.88,0.1
+764.9	PowerFirework	-111,48,-1614	1	-3.09,9.51,0.2
+765.1	PowerFirework	-111,48,-1614	1	-4.54,8.91,0.3
+765.3	PowerFirework	-111,48,-1614	1	-5.88,8.09,0.4
+763.5	PowerFirework	-69,48,-1614	1	-7.07,7.07,-0.5
+763.7	PowerFirework	-69,48,-1614	1	-5.88,8.09,-0.4
+763.9	PowerFirework	-69,48,-1614	1	-4.54,8.91,-0.3
+764.1	PowerFirework	-69,48,-1614	1	-3.09,9.51,-0.2
+764.3	PowerFirework	-69,48,-1614	1	-1.56,9.88,-0.1
+764.5	PowerFirework	-69,48,-1614	1	0,10,0
+764.7	PowerFirework	-69,48,-1614	1	1.56,9.88,0.1
+764.9	PowerFirework	-69,48,-1614	1	3.09,9.51,0.2
+765.1	PowerFirework	-69,48,-1614	1	4.54,8.91,0.3
+765.3	PowerFirework	-69,48,-1614	1	5.88,8.09,0.4
+770.4	PowerFirework	-90,88,-1621	74,29	0,0,0
+773.1	PowerFirework	-82,83,-1621	74,29	0,0,0
+773.2	PowerFirework	-92,86,-1620	74,29	0,0,0
+776.0	PowerFirework	-99,92,-1620	74,29	0,0,0
+778.5	PowerFirework	-82,82,-1620	74,29	0,0,0
+778.5	PowerFirework	-90,82,-1621	74,75	0,0,0
+780.9	PowerFirework	-97,91,-1620	74,75	0,0,0
+783.3	PowerFirework	-91,87,-1620	74,75	0,0,0
+784.5	PowerFirework	-81,85,-1621	74,75	0,0,0
+785.8	PowerFirework	-100,91,-1621	74,75,28	0,0,0
+785.8	PowerFirework	-85,85,-1621	74,75,28	0,0,0
+789.5	PowerFirework	-97,87,-1621	28	0,0,0
+789.5	PowerFirework	-90,84,-1621	28	0,0,0
+789.5	PowerFirework	-95,82,-1620	28	0,0,0
+792.3	PowerFirework	-117,49,-1612	26	0,10,0.4
+792.3	PowerFirework	-114,49,-1613	26	0,10,0.4
+792.3	PowerFirework	-111,49,-1614	26	0,10,0.4
+792.3	PowerFirework	-108,49,-1615	26	0,10,0.4
+792.3	PowerFirework	-105,49,-1616	26	0,10,0.4
+792.3	PowerFirework	-75,49,-1616	26	0,10,0.4
+792.3	PowerFirework	-72,49,-1615	26	0,10,0.4
+792.3	PowerFirework	-69,49,-1614	26	0,10,0.4
+792.3	PowerFirework	-66,49,-1613	26	0,10,0.4
+792.3	PowerFirework	-63,49,-1612	26	0,10,0.4
+794.6	PowerFirework	-88,94,-1620	75	0,0,0
+794.6	PowerFirework	-92,86,-1620	75	0,0,0
+794.6	PowerFirework	-98,88,-1620	75	0,0,0
+794.6	PowerFirework	-83,83,-1620	75	0,0,0
+794.6	PowerFirework	-89,90,-1620	75	0,0,0
+794.6	PowerFirework	-100,92,-1620	75	0,0,0
+794.6	PowerFirework	-86,92,-1620	75	0,0,0
+798.9	PowerFirework	-86,88,-1620	42	0,0,0
+801.8	PowerFirework	-89,89,-1620	68	0,0,0
+801.8	PowerFirework	-84,86,-1621	68,28	0,0,0
+802.4	PowerFirework	-96,90,-1620	69	0,0,0
+802.4	PowerFirework	-100,85,-1620	69,28	0,0,0
+803.0	PowerFirework	-92,86,-1621	66	0,0,0
+803.0	PowerFirework	-81,85,-1621	66,28	0,0,0
+803.0	PowerFirework	-89,88,-1620	66	0,0,0
+807.0	PowerFirework	-94,93,-1621	28	0,0,0
+807.0	PowerFirework	-98,93,-1620	28	0,0,0
+807.0	PowerFirework	-110,70,-1601	67	0,0,0
+807.0	PowerFirework	-70,70,-1601	67	0,0,0
+807.0	PowerFirework	-141,71,-1543	67	0,0,0
+807.0	PowerFirework	-122,72,-1526	67	0,0,0
+807.0	PowerFirework	-43,72,-1543	67	0,0,0
+807.0	PowerFirework	-61,71,-1526	67	0,0,0
+809.3	PowerFirework	-81,83,-1620	28	0,0,0
+809.3	PowerFirework	-110,71,-1601	67	0,0,0
+809.3	PowerFirework	-70,72,-1601	67	0,0,0
+809.3	PowerFirework	-141,71,-1543	67	0,0,0
+809.3	PowerFirework	-122,70,-1526	67	0,0,0
+809.3	PowerFirework	-43,71,-1543	67	0,0,0
+809.3	PowerFirework	-61,72,-1526	67	0,0,0
+810.6	PowerFirework	-96,92,-1620	28	0,0,0
+810.6	PowerFirework	-84,85,-1621	28	0,0,0
+810.6	PowerFirework	-90,90,-1621	28	0,0,0
+810.6	PowerFirework	-110,72,-1601	67	0,0,0
+810.6	PowerFirework	-70,71,-1601	67	0,0,0
+810.6	PowerFirework	-141,70,-1543	67	0,0,0
+810.6	PowerFirework	-122,71,-1526	67	0,0,0
+810.6	PowerFirework	-43,70,-1543	67	0,0,0
+810.6	PowerFirework	-61,72,-1526	67	0,0,0
+813.5	PowerFirework	-89,87,-1620	28	0,0,0
+813.7	PowerFirework	-81,94,-1620	28	0,0,0
+813.9	PowerFirework	-92,92,-1620	28	0,0,0
+814.1	PowerFirework	-84,94,-1620	28	0,0,0
+815.6	PowerFirework	-110,72,-1601	67	0,0,0
+816.1	PowerFirework	-110,72,-1601	28	0,0,0
+816.6	PowerFirework	-110,72,-1601	67	0,0,0
+817.1	PowerFirework	-110,72,-1601	28	0,0,0
+817.6	PowerFirework	-110,72,-1601	67	0,0,0
+818.1	PowerFirework	-110,72,-1601	28	0,0,0
+818.6	PowerFirework	-110,72,-1601	67	0,0,0
+819.1	PowerFirework	-110,72,-1601	28	0,0,0
+819.6	PowerFirework	-110,72,-1601	59	0,0,0
+820.1	PowerFirework	-110,72,-1601	28	0,0,0
+820.6	PowerFirework	-110,72,-1601	67	0,0,0
+821.1	PowerFirework	-110,72,-1601	59	0,0,0
+821.6	PowerFirework	-110,72,-1601	67	0,0,0
+822.1	PowerFirework	-110,72,-1601	59	0,0,0
+815.6	PowerFirework	-70,72,-1601	67	0,0,0
+816.1	PowerFirework	-70,72,-1601	28	0,0,0
+816.6	PowerFirework	-70,72,-1601	67	0,0,0
+817.1	PowerFirework	-70,72,-1601	28	0,0,0
+817.6	PowerFirework	-70,72,-1601	67	0,0,0
+818.1	PowerFirework	-70,72,-1601	28	0,0,0
+818.6	PowerFirework	-70,72,-1601	67	0,0,0
+819.1	PowerFirework	-70,72,-1601	28	0,0,0
+819.6	PowerFirework	-70,72,-1601	59	0,0,0
+820.1	PowerFirework	-70,72,-1601	28	0,0,0
+820.6	PowerFirework	-70,72,-1601	67	0,0,0
+821.1	PowerFirework	-70,72,-1601	59	0,0,0
+821.6	PowerFirework	-70,72,-1601	67	0,0,0
+822.1	PowerFirework	-70,72,-1601	59	0,0,0
+815.6	PowerFirework	-141,71,-1543	67	0,0,0
+816.1	PowerFirework	-141,71,-1543	28	0,0,0
+816.6	PowerFirework	-141,71,-1543	67	0,0,0
+817.1	PowerFirework	-141,71,-1543	28	0,0,0
+817.6	PowerFirework	-141,71,-1543	67	0,0,0
+818.1	PowerFirework	-141,71,-1543	28	0,0,0
+818.6	PowerFirework	-141,71,-1543	67	0,0,0
+819.1	PowerFirework	-141,71,-1543	28	0,0,0
+819.6	PowerFirework	-141,71,-1543	59	0,0,0
+820.1	PowerFirework	-141,71,-1543	28	0,0,0
+820.6	PowerFirework	-141,71,-1543	67	0,0,0
+821.1	PowerFirework	-141,71,-1543	59	0,0,0
+821.6	PowerFirework	-141,71,-1543	67	0,0,0
+822.1	PowerFirework	-141,71,-1543	59	0,0,0
+815.6	PowerFirework	-122,71,-1526	67	0,0,0
+816.1	PowerFirework	-122,71,-1526	28	0,0,0
+816.6	PowerFirework	-122,71,-1526	67	0,0,0
+817.1	PowerFirework	-122,71,-1526	28	0,0,0
+817.6	PowerFirework	-122,71,-1526	67	0,0,0
+818.1	PowerFirework	-122,71,-1526	28	0,0,0
+818.6	PowerFirework	-122,71,-1526	67	0,0,0
+819.1	PowerFirework	-122,71,-1526	28	0,0,0
+819.6	PowerFirework	-122,71,-1526	59	0,0,0
+820.1	PowerFirework	-122,71,-1526	28	0,0,0
+820.6	PowerFirework	-122,71,-1526	67	0,0,0
+821.1	PowerFirework	-122,71,-1526	59	0,0,0
+821.6	PowerFirework	-122,71,-1526	67	0,0,0
+822.1	PowerFirework	-122,71,-1526	59	0,0,0
+815.6	PowerFirework	-43,71,-1543	67	0,0,0
+816.1	PowerFirework	-43,71,-1543	28	0,0,0
+816.6	PowerFirework	-43,71,-1543	67	0,0,0
+817.1	PowerFirework	-43,71,-1543	28	0,0,0
+817.6	PowerFirework	-43,71,-1543	67	0,0,0
+818.1	PowerFirework	-43,71,-1543	28	0,0,0
+818.6	PowerFirework	-43,71,-1543	67	0,0,0
+819.1	PowerFirework	-43,71,-1543	28	0,0,0
+819.6	PowerFirework	-43,71,-1543	59	0,0,0
+820.1	PowerFirework	-43,71,-1543	28	0,0,0
+820.6	PowerFirework	-43,71,-1543	67	0,0,0
+821.1	PowerFirework	-43,71,-1543	59	0,0,0
+821.6	PowerFirework	-43,71,-1543	67	0,0,0
+822.1	PowerFirework	-43,71,-1543	59	0,0,0
+815.6	PowerFirework	-61,71,-1526	67	0,0,0
+816.1	PowerFirework	-61,71,-1526	28	0,0,0
+816.6	PowerFirework	-61,71,-1526	67	0,0,0
+817.1	PowerFirework	-61,71,-1526	28	0,0,0
+817.6	PowerFirework	-61,71,-1526	67	0,0,0
+818.1	PowerFirework	-61,71,-1526	28	0,0,0
+818.6	PowerFirework	-61,71,-1526	67	0,0,0
+819.1	PowerFirework	-61,71,-1526	28	0,0,0
+819.6	PowerFirework	-61,71,-1526	59	0,0,0
+820.1	PowerFirework	-61,71,-1526	28	0,0,0
+820.6	PowerFirework	-61,71,-1526	67	0,0,0
+821.1	PowerFirework	-61,71,-1526	59	0,0,0
+821.6	PowerFirework	-61,71,-1526	67	0,0,0
+822.1	PowerFirework	-61,71,-1526	59	0,0,0
+815.6	PowerFirework	-96,85,-1621	28	0,0,0
+815.8	PowerFirework	-84,85,-1620	34	0,0,0
+816.0	PowerFirework	-86,89,-1620	35	0,0,0
+816.2	PowerFirework	-97,84,-1621	39	0,0,0
+816.4	PowerFirework	-87,93,-1620	61	0,0,0
+816.6	PowerFirework	-89,91,-1620	64	0,0,0
+816.8	PowerFirework	-85,88,-1621	70	0,0,0
+817.0	PowerFirework	-81,86,-1621	74	0,0,0
+817.2	PowerFirework	-96,94,-1620	70	0,0,0
+817.4	PowerFirework	-88,89,-1621	64	0,0,0
+817.6	PowerFirework	-88,94,-1621	61	0,0,0
+817.8	PowerFirework	-94,90,-1620	39	0,0,0
+818.0	PowerFirework	-89,94,-1620	35	0,0,0
+818.2	PowerFirework	-91,93,-1621	34	0,0,0
+818.4	PowerFirework	-97,89,-1620	28	0,0,0
+818.6	PowerFirework	-98,86,-1621	34	0,0,0
+818.8	PowerFirework	-100,93,-1620	35	0,0,0
+819.0	PowerFirework	-88,88,-1621	39	0,0,0
+819.2	PowerFirework	-87,94,-1620	61	0,0,0
+819.4	PowerFirework	-93,93,-1621	64	0,0,0
+819.5	PowerFirework	-84,87,-1621	70	0,0,0
+819.6	PowerFirework	-86,83,-1621	74	0,0,0
+819.7	PowerFirework	-99,85,-1621	70	0,0,0
+819.8	PowerFirework	-98,83,-1620	64	0,0,0
+819.9	PowerFirework	-90,90,-1621	61	0,0,0
+820.0	PowerFirework	-89,86,-1621	39	0,0,0
+820.1	PowerFirework	-90,88,-1621	35	0,0,0
+820.2	PowerFirework	-84,94,-1620	34	0,0,0
+820.3	PowerFirework	-96,85,-1620	28	0,0,0
+820.4	PowerFirework	-87,93,-1620	28	0,0,0
+820.5	PowerFirework	-93,88,-1621	34	0,0,0
+820.6	PowerFirework	-81,93,-1621	35	0,0,0
+820.7	PowerFirework	-81,91,-1620	39	0,0,0
+820.8	PowerFirework	-97,84,-1621	61	0,0,0
+820.9	PowerFirework	-99,82,-1620	64	0,0,0
+821.0	PowerFirework	-94,90,-1620	70	0,0,0
+821.1	PowerFirework	-96,91,-1621	74	0,0,0
+821.2	PowerFirework	-85,83,-1621	70	0,0,0
+821.3	PowerFirework	-89,84,-1620	64	0,0,0
+821.4	PowerFirework	-98,82,-1621	61	0,0,0
+821.5	PowerFirework	-86,92,-1620	39	0,0,0
+821.6	PowerFirework	-98,91,-1621	35	0,0,0
+821.7	PowerFirework	-98,87,-1621	34	0,0,0
+821.8	PowerFirework	-85,89,-1621	28	0,0,0
+821.9	PowerFirework	-98,84,-1621	34	0,0,0
+822.0	PowerFirework	-84,88,-1621	35	0,0,0
+822.1	PowerFirework	-86,88,-1621	28	0,0,0
+822.1	PowerFirework	-111,49,-1614	15	2.38,9.99,-0.6
+822.1	PowerFirework	-111,49,-1614	15	-2.38,9.99,0.6
+822.1	PowerFirework	-69,49,-1614	15	2.38,9.99,0.6
+822.1	PowerFirework	-69,49,-1614	15	-2.38,9.99,-0.6
+826.0	PowerFirework	-105,49,-1616	17	0,10,0.5
+826.0	PowerFirework	-75,49,-1616	17	0,10,0.5
+826.2	PowerFirework	-108,49,-1615	18	0,10,0.5
+826.2	PowerFirework	-72,49,-1615	18	0,10,0.5
+826.3	PowerFirework	-111,49,-1614	17	0,10,0.5
+826.3	PowerFirework	-69,49,-1614	17	0,10,0.5
+826.5	PowerFirework	-114,49,-1613	18	0,10,0.5
+826.5	PowerFirework	-66,49,-1613	18	0,10,0.5
+826.6	PowerFirework	-117,49,-1612	17	0,10,0.5
+826.6	PowerFirework	-63,49,-1612	17	0,10,0.5
+826.7	PowerFirework	-116,48,-1611	5	0,10,0.7
+826.7	PowerFirework	-114,48,-1612	5	0,10,0.7
+826.7	PowerFirework	-112,48,-1613	5	0,10,0.7
+826.7	PowerFirework	-110,48,-1614	5	0,10,0.7
+826.7	PowerFirework	-108,48,-1615	5	0,10,0.7
+826.7	PowerFirework	-106,48,-1616	5	0,10,0.7
+826.7	PowerFirework	-74,48,-1616	5	0,10,0.7
+826.7	PowerFirework	-72,48,-1615	5	0,10,0.7
+826.7	PowerFirework	-70,48,-1614	5	0,10,0.7
+826.7	PowerFirework	-68,48,-1613	5	0,10,0.7
+826.7	PowerFirework	-66,48,-1612	5	0,10,0.7
+826.7	PowerFirework	-64,48,-1611	5	0,10,0.7
+826.8	PowerFirework	-94,91,-1620	28	0,0,0
+826.85	PowerFirework	-99,85,-1621	28	0,0,0
+826.9	PowerFirework	-87,88,-1620	28	0,0,0
+826.85	PowerFirework	-89,89,-1620	28	0,0,0
+826.8	PowerFirework	-97,93,-1620	28	0,0,0
+#GWTS
+14.5	Glow	Blue	-1614,64,-496	13
+14.9	Glow	Blue	-102,42,-1577	15
+15.5	Glow	Blue	-78,42,-1577	15
+22.4	Glow	White	-1614,64,-496	13
+22.4	Glow	White	-102,42,-1577	15
+22.4	Glow	White	-78,42,-1577	15
+27	Glow	Yellow	-1614,64,-496	13
+27	Glow	Orange	-78,42,-1577	15
+27	Glow	Yellow	-102,42,-1577	15
+29.8	Glow	Blue	-78,42,-1577	15
+31.1	Glow	Aqua	-1614,64,-496	13
+32.1	Glow	Yellow	-102,42,-1577	15
+34.2	Glow	Black	-1614,64,-496	13
+34.2	Glow	Black	-102,42,-1577	15
+34.2	Glow	Black	-78,42,-1577	15
+36.7	Glow	Red	-102,42,-1577	15
+37.2	Glow	Red	-1614,64,-496	13
+37.9	Glow	Red	-78,42,-1577	15
+41.3	Glow	Pink	-78,42,-1577	15
+41.9	Glow	Pink	-102,42,-1577	15
+42.3	Glow	Pink	-1614,64,-496	13
+45.8	Glow	Aqua	-1614,64,-496	13
+45.8	Glow	Aqua	-78,42,-1577	15
+45.8	Glow	Aqua	-102,42,-1577	15
+54.9	Glow	Black	-1614,64,-496	13
+54.9	Glow	Black	-78,42,-1577	15
+54.9	Glow	Black	-102,42,-1577	15
+59.5	Glow	Blue	-1614,64,-496	13
+59.5	Glow	Blue	-78,42,-1577	15
+59.5	Glow	Blue	-102,42,-1577	15
+64.1	Glow	Aqua	-1614,64,-496	13
+64.1	Glow	Aqua	-78,42,-1577	15
+64.1	Glow	Aqua	-102,42,-1577	15
+69.3	Glow	White	-1614,64,-496	13
+69.3	Glow	White	-78,42,-1577	15
+69.3	Glow	White	-102,42,-1577	15
+73.8	Glow	Blue	-1614,64,-496	13
+74.4	Glow	Blue	-102,42,-1577	15
+75	Glow	Blue	-78,42,-1577	15
+76.8	Glow	Orange	-1614,64,-496	13
+76.8	Glow	Orange	-78,42,-1577	15
+76.8	Glow	Orange	-102,42,-1577	15
+80.7	Glow	Black	-1614,64,-496	13
+80.7	Glow	Black	-78,42,-1577	15
+80.7	Glow	Black	-102,42,-1577	15
+83.6	Glow	Orange	-1614,64,-496	13
+85.8	Glow	Yellow	-78,42,-1577	15
+85.8	Glow	Yellow	-102,42,-1577	15
+91.5	Glow	Aqua	-1614,64,-496	13
+91.5	Glow	Aqua	-78,42,-1577	15
+91.5	Glow	Aqua	-102,42,-1577	15
+95.1	Glow	Black	-1614,64,-496	13
+95.1	Glow	Black	-78,42,-1577	15
+95.1	Glow	Black	-102,42,-1577	15
+129.8	Glow	White	-1614,64,-496	13
+129.8	Glow	White	-78,42,-1577	15
+129.8	Glow	White	-102,42,-1577	15
+135.3	Glow	Green	-1614,64,-496	13
+135.3	Glow	Green	-78,42,-1577	15
+135.3	Glow	Green	-102,42,-1577	15
+137.5	Glow	Red	-1614,64,-496	13
+137.5	Glow	Red	-78,42,-1577	15
+137.5	Glow	Red	-102,42,-1577	15
+139.6	Glow	Green	-1614,64,-496	13
+139.6	Glow	Green	-78,42,-1577	15
+139.6	Glow	Green	-102,42,-1577	15
+141.6	Glow	Black	-1614,64,-496	13
+141.6	Glow	Black	-78,42,-1577	15
+141.6	Glow	Black	-102,42,-1577	15
+145	Glow	Purple	-1614,64,-496	13
+145	Glow	Purple	-78,42,-1577	15
+145	Glow	Purple	-102,42,-1577	15
+149	Glow	Blue	-1614,64,-496	13
+149	Glow	Blue	-78,42,-1577	15
+149	Glow	Blue	-102,42,-1577	15
+157.1	Glow	Purple	-1614,64,-496	13
+157.1	Glow	Purple	-78,42,-1577	15
+157.1	Glow	Purple	-102,42,-1577	15
+164	Glow	White	-1614,64,-496	13
+164	Glow	White	-78,42,-1577	15
+164	Glow	White	-102,42,-1577	15
+166.5	Glow	Black	-1614,64,-496	13
+166.5	Glow	Black	-78,42,-1577	15
+166.5	Glow	Black	-102,42,-1577	15
+201.9	Glow	Blue	-1614,64,-496	13
+201.9	Glow	Blue	-78,42,-1577	15
+201.9	Glow	Blue	-102,42,-1577	15
+215.8	Glow	Aqua	-1614,64,-496	13
+215.8	Glow	Aqua	-78,42,-1577	15
+215.8	Glow	Aqua	-102,42,-1577	15
+218.8	Glow	Black	-1614,64,-496	13
+218.8	Glow	Black	-78,42,-1577	15
+218.8	Glow	Black	-102,42,-1577	15
+230.1	Glow	Blue	-78,42,-1577	15
+231.4	Glow	Blue	-102,42,-1577	15
+232.6	Glow	Blue	-1614,64,-496	13
+232.6	Glow	Black	-78,42,-1577	15
+233.9	Glow	Black	-102,42,-1577	15
+235.1	Glow	Black	-1614,64,-496	13
+235.1	Glow	Blue	-78,42,-1577	15
+236.4	Glow	Blue	-102,42,-1577	15
+237.7	Glow	Blue	-1614,64,-496	13
+240.8	Glow	White	-1614,64,-496	13
+240.8	Glow	White	-78,42,-1577	15
+240.8	Glow	White	-102,42,-1577	15
+247.7	Glow	Black	-1614,64,-496	13
+247.7	Glow	Black	-78,42,-1577	15
+247.7	Glow	Black	-102,42,-1577	15
+276.4	Glow	Aqua	-1614,64,-496	13
+276.4	Glow	Aqua	-78,42,-1577	15
+276.4	Glow	Aqua	-102,42,-1577	15
+283.6	Glow	White	-1614,64,-496	13
+283.6	Glow	White	-78,42,-1577	15
+283.6	Glow	White	-102,42,-1577	15
+294.4	Glow	Blue	-102,42,-1577	15
+295.3	Glow	Blue	-78,42,-1577	15
+296.3	Glow	Blue	-1614,64,-496	13
+301.7	Glow	White	-1614,64,-496	13
+301.7	Glow	Yellow	-78,42,-1577	15
+301.7	Glow	Yellow	-102,42,-1577	15
+303.1	Glow	Black	-1614,64,-496	13
+303.1	Glow	Black	-78,42,-1577	15
+303.1	Glow	Black	-102,42,-1577	15
+346.6	Glow	Pink	-1614,64,-496	13
+346.6	Glow	Pink	-78,42,-1577	15
+346.6	Glow	Pink	-102,42,-1577	15
+366.5	Glow	Black	-1614,64,-496	13
+366.5	Glow	Black	-78,42,-1577	15
+366.5	Glow	Black	-102,42,-1577	15
+376.3	Glow	Pink	-1614,64,-496	13
+376.8	Glow	Pink	-78,42,-1577	15
+377.3	Glow	Pink	-102,42,-1577	15
+379.9	Glow	Black	-1614,64,-496	13
+379.9	Glow	Black	-78,42,-1577	15
+379.9	Glow	Black	-102,42,-1577	15
+390.4	Glow	Purple	-1614,64,-496	13
+390.4	Glow	Purple	-78,42,-1577	15
+390.4	Glow	Purple	-102,42,-1577	15
+392	Glow	White	-1614,64,-496	13
+392.9	Glow	White	-102,42,-1577	15
+393.6	Glow	White	-78,42,-1577	15
+394.6	Glow	Purple	-1614,64,-496	13
+394.6	Glow	Purple	-78,42,-1577	15
+394.6	Glow	Purple	-102,42,-1577	15
+395.5	Glow	White	-102,42,-1577	15
+396.4	Glow	White	-1614,64,-496	13
+397.4	Glow	White	-78,42,-1577	15
+398.2	Glow	Purple	-1614,64,-496	13
+398.2	Glow	Purple	-78,42,-1577	15
+398.2	Glow	Purple	-102,42,-1577	15
+399.2	Glow	White	-78,42,-1577	15
+400.1	Glow	White	-102,42,-1577	15
+401	Glow	White	-1614,64,-496	13
+402	Glow	Purple	-1614,64,-496	13
+402	Glow	Purple	-78,42,-1577	15
+402	Glow	Purple	-102,42,-1577	15
+402.7	Glow	White	-1614,64,-496	13
+403.6	Glow	White	-78,42,-1577	15
+404.5	Glow	White	-102,42,-1577	15
+405.4	Glow	Purple	-1614,64,-496	13
+405.4	Glow	Purple	-78,42,-1577	15
+405.4	Glow	Purple	-102,42,-1577	15
+407.2	Glow	Yellow	-1614,64,-496	13
+407.2	Glow	Orange	-78,42,-1577	15
+407.2	Glow	Orange	-102,42,-1577	15
+410.8	Glow	Orange	-1614,64,-496	13
+410.8	Glow	Yellow	-78,42,-1577	15
+410.8	Glow	Yellow	-102,42,-1577	15
+414.5	Glow	Purple	-78,42,-1577	15
+414.5	Glow	Pink	-1614,64,-496	13
+414.5	Glow	Pink	-102,42,-1577	15
+416.2	Glow	Black	-1614,64,-496	13
+416.2	Glow	Black	-78,42,-1577	15
+416.2	Glow	Black	-102,42,-1577	15
+421.7	Glow	Yellow	-102,42,-1577	15
+421.7	Glow	Yellow	-78,42,-1577	15
+421.7	Glow	Orange	-1614,64,-496	13
+428.1	Glow	Orange	-78,42,-1577	15
+428.1	Glow	Orange	-102,42,-1577	15
+433.4	Glow	White	-1614,64,-496	13
+433.4	Glow	White	-78,42,-1577	15
+433.4	Glow	White	-102,42,-1577	15
+434.5	Glow	Black	-1614,64,-496	13
+434.5	Glow	Black	-78,42,-1577	15
+434.5	Glow	Black	-102,42,-1577	15
+439.3	Glow	Aqua	-1614,64,-496	13
+439.3	Glow	Pink	-78,42,-1577	15
+439.3	Glow	Pink	-102,42,-1577	15
+443.6	Glow	Aqua	-78,42,-1577	15
+443.6	Glow	Aqua	-78,42,-1577	15
+447.6	Glow	White	-1614,64,-496	13
+447.6	Glow	White	-78,42,-1577	15
+447.6	Glow	White	-102,42,-1577	15
+452.3	Glow	Black	-1614,64,-496	13
+452.3	Glow	Black	-78,42,-1577	15
+452.3	Glow	Black	-102,42,-1577	15
+510.6	Glow	White	-1614,64,-496	13
+510.6	Glow	Red	-78,42,-1577	15
+510.6	Glow	Red	-102,42,-1577	15
+517.5	Glow	Red	-1614,64,-496	13
+517.5	Glow	White	-78,42,-1577	15
+517.5	Glow	White	-102,42,-1577	15
+524.4	Glow	Red	-1614,64,-496	13
+524.4	Glow	Red	-78,42,-1577	15
+524.4	Glow	Red	-102,42,-1577	15
+538.1	Glow	Black	-1614,64,-496	13
+538.1	Glow	Black	-78,42,-1577	15
+538.1	Glow	Black	-102,42,-1577	15
+541.2	Glow	Red	-1614,64,-496	13
+541.2	Glow	Aqua	-78,42,-1577	15
+541.2	Glow	Aqua	-102,42,-1577	15
+548.8	Glow	Blue	-102,42,-1577	15
+548.8	Glow	Blue	-1614,64,-496	13
+548.8	Glow	Red	-78,42,-1577	15
+555.7	Glow	Blue	-102,42,-1577	15
+555.7	Glow	Blue	-78,42,-1577	15
+555.7	Glow	Orange	-1614,64,-496	13
+557.2	Glow	Blue	-1614,64,-496	13
+557.2	Glow	Orange	-78,42,-1577	15
+557.2	Glow	Orange	-102,42,-1577	15
+558.4	Glow	Aqua	-1614,64,-496	13
+558.4	Glow	Aqua	-78,42,-1577	15
+558.4	Glow	Aqua	-102,42,-1577	15
+561.2	Glow	Pink	-1614,64,-496	13
+561.2	Glow	Pink	-78,42,-1577	15
+561.2	Glow	Pink	-102,42,-1577	15
+563	Glow	Red	-1614,64,-496	13
+563	Glow	Red	-78,42,-1577	15
+563	Glow	Red	-102,42,-1577	15
+564.5	Glow	Pink	-1614,64,-496	13
+564.5	Glow	Pink	-78,42,-1577	15
+564.5	Glow	Pink	-102,42,-1577	15
+573.9	Glow	Black	-1614,64,-496	13
+573.9	Glow	Black	-78,42,-1577	15
+573.9	Glow	Black	-102,42,-1577	15
+587	Glow	Green	-1614,64,-496	13
+587	Glow	Green	-78,42,-1577	15
+587	Glow	Green	-102,42,-1577	15
+611.2	Glow	Black	-1614,64,-496	13
+611.2	Glow	Black	-78,42,-1577	15
+611.2	Glow	Black	-102,42,-1577	15
+614.7	Glow	White	-102,42,-1577	15
+619.3	Glow	Pink	-1614,64,-496	13
+619.3	Glow	Pink	-78,42,-1577	15
+619.3	Glow	Pink	-102,42,-1577	15
+620	Glow	White	-78,42,-1577	15
+620	Glow	Black	-102,42,-1577	15
+620	Glow	Black	-1614,64,-496	13
+624	Glow	Blue	-1614,64,-496	13
+624	Glow	Blue	-78,42,-1577	15
+624	Glow	Blue	-102,42,-1577	15
+626	Glow	White	-1614,64,-496	13
+626	Glow	Black	-78,42,-1577	15
+626	Glow	Black	-102,42,-1577	15
+627.8	Glow	Aqua	-102,42,-1577	15
+627.8	Glow	Purple	-102,42,-1577	15
+627.8	Glow	Aqua	-102,42,-1577	15
+631.2	Glow	Pink	-1614,64,-496	13
+634.1	Glow	Red	-78,42,-1577	15
+634.1	Glow	Red	-102,42,-1577	15
+634.5	Glow	Aqua	-1614,64,-496	13
+637.5	Glow	Pink	-78,42,-1577	15
+637.5	Glow	Pink	-102,42,-1577	15
+643.8	Glow	White	-1614,64,-496	13
+643.8	Glow	White	-78,42,-1577	15
+643.8	Glow	White	-102,42,-1577	15
+651.2	Glow	Blue	-1614,64,-496	13
+651.2	Glow	Blue	-78,42,-1577	15
+651.2	Glow	Blue	-102,42,-1577	15
+657.1	Glow	Red	-102,42,-1577	15
+657.1	Glow	Blue	-1614,64,-496	13
+657.1	Glow	Red	-78,42,-1577	15
+667.1	Glow	White	-78,42,-1577	15
+669.8	Glow	White	-102,42,-1577	15
+670.4	Glow	Yellow	-1614,64,-496	13
+670.4	Glow	Yellow	-78,42,-1577	15
+670.4	Glow	Yellow	-102,42,-1577	15
+675.6	Glow	Pink	-1614,64,-496	13
+675.6	Glow	Pink	-78,42,-1577	15
+675.6	Glow	Pink	-102,42,-1577	15
+681.7	Glow	Aqua	-1614,64,-496	13
+681.7	Glow	Aqua	-78,42,-1577	15
+681.7	Glow	Aqua	-102,42,-1577	15
+688.1	Glow	Yellow	-1614,64,-496	13
+688.1	Glow	Yellow	-78,42,-1577	15
+688.1	Glow	Purple	-102,42,-1577	15
+694.7	Glow	Pink	-1614,64,-496	13
+694.7	Glow	Pink	-102,42,-1577	15
+694.7	Glow	Purple	-78,42,-1577	15
+702.5	Glow	Aqua	-1614,64,-496	13
+702.5	Glow	Aqua	-78,42,-1577	15
+702.5	Glow	Aqua	-102,42,-1577	15
+703.2	Glow	Yellow	-1614,64,-496	13
+703.2	Glow	Yellow	-78,42,-1577	15
+703.2	Glow	Yellow	-102,42,-1577	15
+707.4	Glow	Orange	-1614,64,-496	13
+707.4	Glow	Orange	-78,42,-1577	15
+707.4	Glow	Orange	-102,42,-1577	15
+708.9	Glow	Yellow	-1614,64,-496	13
+708.9	Glow	Purple	-78,42,-1577	15
+708.9	Glow	Aqua	-102,42,-1577	15
+720.5	Glow	Orange	-1614,64,-496	13
+720.5	Glow	Orange	-78,42,-1577	15
+720.5	Glow	Orange	-102,42,-1577	15
+721	Glow	Black	-1614,64,-496	13
+721	Glow	Black	-78,42,-1577	15
+721	Glow	Black	-102,42,-1577	15
+724.8	Glow	Red	-1614,64,-496	13
+725.3	Glow	Red	-102,42,-1577	15
+725.9	Glow	Red	-78,42,-1577	15
+727.3	Glow	Blue	-1614,64,-496	13
+727.3	Glow	Blue	-78,42,-1577	15
+727.3	Glow	Blue	-102,42,-1577	15
+729.8	Glow	Pink	-1614,64,-496	13
+730.3	Glow	Pink	-78,42,-1577	15
+730.8	Glow	Pink	-102,42,-1577	15
+732.1	Glow	Aqua	-1614,64,-496	13
+732.1	Glow	Aqua	-78,42,-1577	15
+732.1	Glow	Aqua	-102,42,-1577	15
+734.6	Glow	Orange	-102,42,-1577	15
+735.2	Glow	Orange	-1614,64,-496	13
+735.8	Glow	Orange	-78,42,-1577	15
+736.9	Glow	Pink	-1614,64,-496	13
+736.9	Glow	Pink	-78,42,-1577	15
+736.9	Glow	Pink	-102,42,-1577	15
+739.4	Glow	Green	-78,42,-1577	15
+740.1	Glow	Green	-1614,64,-496	13
+740.8	Glow	Green	-102,42,-1577	15
+742.5	Glow	Blue	-1614,64,-496	13
+742.5	Glow	Blue	-78,42,-1577	15
+742.5	Glow	Blue	-102,42,-1577	15
+746.1	Glow	Red	-102,42,-1577	15
+746.1	Glow	Red	-78,42,-1577	15
+746.1	Glow	White	-1614,64,-496	13
+756.3	Glow	Orange	-1614,64,-496	13
+756.3	Glow	Yellow	-78,42,-1577	15
+756.3	Glow	Yellow	-102,42,-1577	15
+760.5	Glow	Black	-1614,64,-496	13
+760.5	Glow	Black	-78,42,-1577	15
+760.5	Glow	Black	-102,42,-1577	15
+765.6	Glow	Pink	-1614,64,-496	13
+766.5	Glow	Pink	-78,42,-1577	15
+766.5	Glow	Pink	-102,42,-1577	15
+767.1	Glow	White	-1614,64,-496	13
+767.8	Glow	White	-78,42,-1577	15
+767.8	Glow	White	-102,42,-1577	15
+770.4	Glow	Yellow	-1614,64,-496	13
+770.4	Glow	Orange	-78,42,-1577	15
+770.4	Glow	Orange	-102,42,-1577	15
+772.5	Glow	White	-78,42,-1577	15
+772.5	Glow	White	-102,42,-1577	15
+776	Glow	White	-1614,64,-496	13
+780.8	Glow	Orange	-1614,64,-496	13
+780.8	Glow	Orange	-78,42,-1577	15
+780.8	Glow	Yellow	-102,42,-1577	15
+790.6	Glow	Aqua	-1614,64,-496	13
+792.2	Glow	Red	-102,42,-1577	15
+792.2	Glow	Red	-1614,64,-496	13
+792.2	Glow	Blue	-78,42,-1577	15
+796.4	Glow	White	-1614,64,-496	13
+796.4	Glow	White	-78,42,-1577	15
+796.4	Glow	White	-102,42,-1577	15
+798.9	Glow	Blue	-1614,64,-496	13
+798.9	Glow	Blue	-78,42,-1577	15
+798.9	Glow	Blue	-102,42,-1577	15
+801.3	Glow	Green	-1614,64,-496	13
+801.3	Glow	Green	-78,42,-1577	15
+801.3	Glow	Green	-102,42,-1577	15
+805.3	Glow	Aqua	-1614,64,-496	13
+805.3	Glow	Aqua	-78,42,-1577	15
+805.3	Glow	Aqua	-102,42,-1577	15
+807.6	Glow	Purple	-1614,64,-496	13
+807.6	Glow	Purple	-78,42,-1577	15
+807.6	Glow	Purple	-102,42,-1577	15
+809.9	Glow	Pink	-1614,64,-496	13
+809.9	Glow	Pink	-78,42,-1577	15
+809.9	Glow	Pink	-102,42,-1577	15
+815.6	Glow	Black	-1614,64,-496	13
+815.6	Glow	Black	-78,42,-1577	15
+815.6	Glow	Black	-102,42,-1577	15
+826.6	Glow	White	-1614,64,-496	13
+826.6	Glow	White	-78,42,-1577	15
+826.6	Glow	White	-102,42,-1577	15
+828	GlowDone

@@ -1,0 +1,16 @@
+Show	Location	-90,44,-1550
+Show	TextRadius	5000
+
+#Schematics
+0	Schematic	mnsshp-candycorn3	45	43	-1526	mk  true
+0	Schematic	mnsshp-candycorn3	-107	45	-1703	mk  true
+0	Schematic	mnsshp-candycorn3	52	44	-1787	mk  true
+0	Schematic	mnsshp-candycorn3	-411	43	-1656	mk  true
+0	Schematic	mnsshp-candycorn3	-384	42	-1488	mk  true
+
+#AC
+2   Block   152 -176,17,-1361
+
+#Function
+0   Block   152 -174,17,-1361
+

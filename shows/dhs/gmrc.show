@@ -1,0 +1,132 @@
+Show	Location	-252,89,251
+Show    TextRadius  500
+Show	Name	sits
+
+#General
+0   Block   152 -217,60,193
+0   Block   152 -224,60,193 
+#audio
+0   Block   152 -220,60,193
+1   AudioStart  gmropen
+1   Block   152 -213,59,203
+
+#Effect
+Effect  b1  BURST,RED&YELLOW,WHITE,FLICKER,TRAIL
+Effect  b2  BURST,YELLOW&ORANGE,WHITE,FLICKER,TRAIL
+Effect  b3  BURST,WHITE,WHITE,FLICKER,TRAIL
+
+#FW
+9.73    PowerFirework   -253,82,241 b2  -2,4,-2
+9.73    PowerFirework   -242,82,252 b2  2,4,2
+
+21.55   PowerFirework   -252,89,251 b1  2,4,2
+21.55   PowerFirework   -252,89,251 b1  1,4,1
+21.55   PowerFirework   -252,89,251 b1  0,4,0
+21.55   PowerFirework   -252,89,251 b1  -1,4,-1
+21.55   PowerFirework   -252,89,251 b1  -2,4,-2
+
+
+43.00   PowerFirework   -253,82,241 b2  -2,4,-2
+43.00   PowerFirework   -242,82,252 b2  2,4,2
+43.00   PowerFirework   -252,89,251 b1  2,4,2
+43.00   PowerFirework   -252,89,251 b1  1,4,1
+43.00   PowerFirework   -252,89,251 b1  0,4,0
+43.00   PowerFirework   -252,89,251 b1  -1,4,-1
+43.00   PowerFirework   -252,89,251 b1  -2,4,-2
+
+#LX
+16.8    Sequence    Light   gmrc-spot1
+
+21.55   Block   50  -247,127,264
+21.55   Block   50  -252,127,259
+21.55   Block   50  -257,127,255
+21.55   Block   50  -261,127,250
+21.55   Block   50  -266,127,245
+21.55   Block   50  -271,127,240
+21.55   Block   50  -242,127,269
+
+
+
+#MAIN
+
+#LX
+7.52    Block   123 -224,77,251
+7.52    Block   123 -252,77,223
+7.52    Block   123 -229,77,245
+7.52    Block   123 -230,77,244
+7.52    Block   123 -245,77,229
+7.52    Block   123 -246,77,228
+
+
+#Strobe
+22.00   Block   169 -224,77,251
+22.00   Block   169 -252,77,223
+22.00   Block   123 -246,77,228
+22.00   Block   123 -245,77,229
+22.00   Block   123 -230,77,244
+22.00   Block   123 -229,77,245
+
+24.00   Block   169 -246,77,228
+24.00   Block   169 -245,77,229
+24.00   Block   169 -230,77,244
+24.00   Block   169 -229,77,245
+24.00   Block   123 -224,77,251
+24.00   Block   123 -252,77,223
+
+26.00   Block   169 -224,77,251
+26.00   Block   169 -252,77,223
+26.00   Block   123 -246,77,228
+26.00   Block   123 -245,77,229
+26.00   Block   123 -230,77,244
+26.00   Block   123 -229,77,245
+
+28.00   Block   169 -246,77,228
+28.00   Block   169 -245,77,229
+28.00   Block   169 -230,77,244
+28.00   Block   169 -229,77,245
+28.00   Block   123 -224,77,251
+28.00   Block   123 -252,77,223
+
+30.00   Block   169 -224,77,251
+30.00   Block   169 -252,77,223
+30.00   Block   123 -246,77,228
+30.00   Block   123 -245,77,229
+30.00   Block   123 -230,77,244
+30.00   Block   123 -229,77,245
+
+32.00   Block   169 -246,77,228
+32.00   Block   169 -245,77,229
+32.00   Block   169 -230,77,244
+32.00   Block   169 -229,77,245
+32.00   Block   123 -224,77,251
+32.00   Block   123 -252,77,223
+
+34.00   Block   123 -246,77,228
+34.00   Block   123 -245,77,229
+34.00   Block   123 -230,77,244
+34.00   Block   123 -229,77,245
+
+
+#RESET
+44.0    Block   169 -224,77,251
+44.0    Block   169 -252,77,223
+44.0    Block   169 -229,77,245
+44.0    Block   169 -230,77,244
+44.0    Block   169 -245,77,229
+44.0    Block   169 -246,77,228
+
+45.0    Block   152 -224,60,194
+45.0    Block   152 -222,60,194
+
+##TEXT 
+7   Text    &b&o&lLights!
+9   Text    &e&o&lCamera!
+14  Text    &6&o&land...
+15.5    Text    &c&o&lAction!
+16  Text    &6&o&lHooray for...
+21.55   Text    &e&o&lHollywood! 
+23  Text    &eThat screwy ballyhooey Hollywood!
+26  Text    &eWhere any &6office boy &eor &6young mechanic &ecan be a panic,
+30  Text    &eWith just a good looking pan!
+33.5    Text    &b&o&lHooray for 
+34.5    Text    &c&o&lHollywood!

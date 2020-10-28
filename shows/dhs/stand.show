@@ -1,0 +1,8 @@
+Show	Location	0,67,0
+Show	TextRadius	50
+ArmorStand	5	false
+0	Text	&cHai
+1	ArmorStand	5	Spawn	0,67,0
+3	Text	Moving...
+4	ArmorStand	5	Move	-7,64,1	5
+9.1	ArmorStand	5	Despawn

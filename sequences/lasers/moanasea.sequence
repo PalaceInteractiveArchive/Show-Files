@@ -1,0 +1,11 @@
+Sequence	Laser	Relative
+0	Spawn
+1	Despawn
+1.1	Spawn
+2.1	Despawn
+2.2	Spawn
+3.2	Despawn
+3.3	Spawn
+4.3	Despawn
+4.4	Spawn
+5	Despawn

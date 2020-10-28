@@ -1,0 +1,7 @@
+Sequence	Build
+#Rat
+Build	msrock1	msrock1
+#Bottom
+0	msrock1	Spawn	248.5,40,2560.5
+3	msrock1	Move	251.5,40,2560.5	100
+10	msrock1	Despawn

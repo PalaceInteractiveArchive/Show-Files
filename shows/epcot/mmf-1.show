@@ -1,0 +1,10 @@
+Show	Location	-80,75,2755
+Show	TextRadius	50
+
+Effect  a1  BURST,MAROON&FUCHSIA,TEAL,FLICKER,TRAIL
+
+0   PowerFirework   -79.5,75,2755 a1  2,2,0
+0   PowerFirework   -79.5,75,2755 a1  1,2,0
+0   PowerFirework   -79.5,75,2755 a1  0,2,0
+0   PowerFirework   -79.5,75,2755 a1  -1,2,0
+0   PowerFirework   -79.5,75,2755 a1  -2,2,0

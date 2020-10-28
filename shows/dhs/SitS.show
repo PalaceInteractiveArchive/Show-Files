@@ -1,0 +1,2798 @@
+﻿Show	Location	-201,64,199
+Show	TextRadius	35
+Show	Name	CT
+0	AudioStart	sits
+0	AudioSync	sits	0
+2	AudioSync	sits	2
+5	AudioSync	sits	5
+10	AudioSync	sits	10
+20	AudioSync	sits	20
+30	AudioSync	sits	30
+60	AudioSync	sits	60
+120	AudioSync	sits	120
+180	AudioSync	sits	180
+240	AudioSync	sits	240
+300	AudioSync	sits	300
+360	AudioSync	sits	360
+420	AudioSync	sits	420
+480	AudioSync	sits	480
+Effect	b1	BURST,255;199;135&255;242;128,WHITE,FLICKER,TRAIL
+Effect	b2	BURST,255;169;112,255;246;199,TRAIL
+Effect	b3	BURST,255;245;99,255;246;199,TRAIL
+Effect	lb1a	BALL_LARGE,255;242;176,255;240;207
+Effect	sb1a	BALL,186;209;255,255;240;207,TRAIL
+Effect	lb2	BALL_LARGE,186;209;255&145;244;255,255;238;184&255;250;97,TRAIL
+Effect	sb2	BALL,235;235;235,204;208;222,FLICKER,TRAIL
+Effect	lb3b	BALL_LARGE,186;209;255,163;185;255
+Effect	sb3b	BALL,255;242;176,255;240;207,TRAIL
+Effect	sb4	BALL,164;164;235,176;179;191,FLICKER
+Effect	lb4c	BALL_LARGE,255;255;102&166;190;255,255;242;156,TRAIL
+Effect	lb5c	BALL_LARGE,0;0;0,161;255;150,FLICKER
+Effect	b4	BURST,255;218;133,255;250;204,TRAIL
+Effect	b4a	BURST,255;218;133,156;185;255
+Effect	b5	BURST,255;255;179,255;225;143,TRAIL
+Effect	lb6	BALL_LARGE,173;198;255&255;194;153,255;240;189,TRAIL
+Effect	lb7d	BALL_LARGE,135;159;255,89;122;255
+Effect	sb5d	BALL,255;219;156,255;204;128,TRAIL
+Effect	b6	BURST,255;226;158,255;240;207,TRAIL
+Effect	lb8	BALL_LARGE,41;41;39,161;150;122,FLICKER
+Effect	lb9e	BALL_LARGE,255;205;148,255;228;166,FLICKER
+Effect	sb6e	BALL,255;205;148,255;228;166,FLICKER
+Effect	lb10f	BALL_LARGE,179;186;255,163;172;255,FLICKER
+Effect	sb7f	BALL,179;186;255,163;172;255,FLICKER
+Effect	b7	BURST,255;190;140,255;190;140
+Effect	b7a	BURST,255;255;173,89;87;59,TRAIL
+Effect	b8	BURST,161;167;255,163;179;255
+Effect	b8a	BURST,255;237;163,255;244;207,TRAIL
+#2:04
+Effect	b9	BURST,255;252;212,181;163;105,FLICKER,TRAIL
+Effect	b10	BURST,51;51;51,122;119;103,FLICKER
+Effect	b11	BURST,173;195;255,194;231;255
+Effect	sb8	BALL,173;195;255&255;237;179,255;239;176,FLICKER,TRAIL
+Effect	lb11	BALL_LARGE,255;241;115,255;227;150
+Effect	lb12	BALL_LARGE,255;238;128,255;250;232,FLICKER,TRAIL
+#Vader 2:45
+Effect	b12	BURST,255;140;117,255;100;69,FLICKER,TRAIL
+Effect	b13	BURST,255;140;117,255;100;69
+Effect	lb13	BALL_LARGE,153;153;153&163;172;255,174;171;255&20;20;20
+Effect	lb14g	BALL_LARGE,125;129;255,51;53;97
+Effect	sb9g	BALL,255;120;99,255;94;94
+Effect	s1g	STAR,125;129;255,51;53;97
+Effect	lb15	BALL_LARGE,117;136;255&255;99;99,255;94;94&133;133;255
+Effect	lb16h	BALL_LARGE,255;99;99,255;94;94
+Effect	sb10h	BALL_LARGE,117;136;255,133;133;255
+Effect	s2h	STAR,255;99;99,255;94;94
+Effect	s3	STAR,255;136;77,255;222;130,TRAIL
+Effect	b14	BURST,255;92;74,89;145;255,TRAIL
+Effect	lb17i	BALL_LARGE,255;105;94,255;77;77,FLICKER
+Effect	sb11i	BALL,255;105;94,255;77;77,FLICKER
+Effect	b15	BURST,255;122;122,255;107;107,FLICKER
+Effect	lb18	BALL_LARGE,31;15;15,255;66;66,FLICKER
+Effect	b16	BURST,255;241;204,255;209;140,FLICKER,TRAIL
+#3:50
+Effect	b17	BURST,255;209;140,255;209;140,TRAIL
+Effect	lb19j	BALL_LARGE,255;209;140,255;209;140
+Effect	sb12j	BALL_LARGE,153;150;141,234;235;206,TRAIL
+Effect	b18	BURST,151;255;125,160;230;149,TRAIL
+Effect	b19	BURST,151;255;125,160;230;149,FLICKER
+Effect	lb20	BALL_LARGE,46;46;46,168;168;168,FLICKER
+Effect	lb21	BALL_LARGE,46;46;46,147;209;138,FLICKER
+#5:05
+Effect	sb13k	BALL,255;48;124,79;74;58
+Effect	lb22k	BALL_LARGE,48;45;33,255;36;87
+Effect	b20	BURST,255;159;148,0;0;0,FLICKER
+Effect	b21	BURST,255;71;78,255;215;163,TRAIL
+Effect	sb14	BALL,255;71;78,255;237;217,FLICKER,TRAIL
+Effect	b22	BURST,255;145;145,97;63;63,FLICKER
+Effect	b22a	BURST,255;145;145,255;229;199,TRAIL
+Effect	s4	STAR,255;233;196,66;62;48,FLICKER
+Effect	lb23	BALL_LARGE,38;35;29,181;169;130,FLICKER
+Effect	b23	BURST,255;234;163,240;232;201,TRAIL
+Effect	sb15	BALL,RED&BLACK,BLACK
+Effect	b24	BURST,150;147;135,69;65;59,FLICKER,TRAIL
+#5:50
+Effect	b25	BURST,WHITE&YELLOW&WHITE
+Effect	b26	BURST,LIME
+Effect	b27	BURST,LIME,BLACK
+Effect	b28	BURST,255;160;112,64;22;22
+Effect	lb24l	BALL_LARGE,255;214;153,255;191;128&255;237;214
+Effect	sb16l	BALL,SILVER&GRAY,TRAIL
+Effect	lb25	BALL_LARGE,WHITE&GRAY&SILVER
+Effect	b29	BURST,255;111;82,94;84;63
+Effect	lb26	BALL_LARGE,33;27;22,255;128;128&255;202;161
+#Part way = ^m
+Effect	sb17m	BALL,FUCHSIA&WHITE
+Effect	b30	BURST,255;0;204,255;0;221
+Effect	lb27	BALL_LARGE,255;0;204,87;77;86,FLICKER
+Effect	b31	BURST,146;74;255,221;87;255,FLICKER,TRAIL
+Effect	b32	BURST,WHITE&YELLOW
+Effect	b33	BURST,255;150;210&255;227;171,255;219;148&0;0;0,FLICKER,TRAIL
+Effect	lb28	BALL_LARGE,WHITE&GRAY&SILVER,WHITE&GRAY&SILVER,FLICKER
+Effect	lb29	BALL_LARGE,10;10;10,WHITE&GRAY&SILVER,FLICKER,TRAIL
+#7:04
+Effect	b34	BURST,115;255;208,105;255;210
+Effect	sb18	BALL,66;66;255,163;149;109&128;128;128,TRAIL
+Effect	lb30n	BALL_LARGE,66;66;255&WHITE,66;66;255&WHITE,TRAIL
+Effect	s5n	STAR,255;218;143,255;227;135,FLICKER
+Effect	lb31	BALL_LARGE,105;125;255,153;255;177&255;133;89
+Effect	b35	BURST,115;255;208,105;255;210&YELLOW
+Effect	lb32	BALL_LARGE,105;125;255,255;237;186&247;255;138,FLICKER
+Effect	lb33	BALL_LARGE,182;255;140,255;250;235&248;255;186,FLICKER
+#8:00
+Effect	b36	BURST,255;241;184&255;246;166,97;95;89&87;89;65,TRAIL
+Effect	lb34o	BALL_LARGE,255;78;59&126;255;87,61;60;60
+Effect	s6o	STAR,133;116;72,133;116;72,TRAIL
+Effect	lb35o	BALL_LARGE,232;20;255&69;143;255,61;60;60
+Effect	b37	BURST,255;0;255,255;0;255
+Effect	b38	BURST,255;240;140,255;240;140
+Effect	lb36p	BALL_LARGE,0;0;0,255;223;120,TRAIL
+Effect	lb37p	BALL_LARGE,0;0;0,255;223;120&WHITE
+Effect	sb19	BALL,YELLOW&ORANGE,TRAIL,FLICKER
+Effect	s7q	STAR,255;240;140,255;223;120,TRAIL
+Effect	sbq	BALL,BLUE&AQUA&WHITE&SILVER,FLICKER
+#b25
+Effect	b39	BURST,255;64;108,161;141;76,FLICKER,TRAIL
+Effect	lb38	BALL_LARGE,BLUE&AQUA
+Effect	b40	BURST,142;255;56,161;141;76,FLICKER,TRAIL
+Effect	b41	BURST,255;234;46,161;141;76,FLICKER,TRAIL
+Effect	b42	BURST,255;0;187,161;141;76,FLICKER,TRAIL
+Effect	b42	BURST,WHITE,255;240;140,TRAIL
+Effect	sb20	BALL,WHITE&YELLOW&SILVER,BLACK,FLICKER
+#Audio
+0	Block	152	-224,56,220
+1	Block	20	-224,56,220
+500	Block	152	-223,56,220
+501	Block	20	-223,56,220
+510	Block	152	-219,56,218
+511	Block	20	-219,56,218
+0	Block	152	-218,56,218
+1	Block	20	-218,56,218
+500	Block	152	-224,56,222
+501	Block	20	-224,56,222
+500	Block	35	-242,75,269
+#Text
+186.1	Text	&f[&2Obi Wan Kenobi&f] &2The force is what gives a Jedi his powers,
+189.9	Text	&2It's an energy field created by all living things,
+192.9	Text	&2It surrounds us, penetrates us,
+195.1	Text	&2It binds the galaxy together
+202.7	Text	&f[&bLuke Skywalker&f] &bI want to learn the ways of the force and become a jedi like my father.
+209.1	Text	&f[&6Maz&f] &6Who are you?
+211.3	Text	&f[&dRey&f] &dI'm no one.
+222.8	Text	&dThere are stories about what happened
+227.4	Text	&f[&7Han Solo&f] &7It's true
+231.4	Text	&7All of it
+235.6	Text	&f[&aMaster Yoda&f] &aFor my ally is the force,
+238.3	Text	&aAnd a powerful ally it is.
+252.6	Text	&aDo or do not,
+255.7	Text	&aThere is no try.
+262	Text	&f[&4Darth Maul&f] &4At last we will reveal ourselves to the Jedi.
+266.1	Text	&4At last we will have revenge.
+304	Text	&f[&eC3PO&f] &eThe possibility of successfully navigating an asteroid field is approximately 3720 to 1
+308.9	Text	&f[&7Han Solo&f] &bNever tell me the odds
+346.1	Text	&f[&cPoe&f] &cAll teams give me everything you got.
+488.6	Text	&f[&6Maz&f] &6The Force,
+490.5	Text	&6It's calling to you.
+500	Text	&6Credits:
+#502	Text	&6Brought to you by: &dSteven_Davison and Owils
+504	Text	&6Plugin- &DPalace Dev Team
+#506	Text	&dPalace servers proudly hosted by MCProHosting!
+506	Text	&6&oLet the Force be with you!
+#Lights out
+#Centre stage area/GMR
+0	Block	123	-230,77,245
+0	Block	123	-224,77,251
+0	Block	123	-232,77,260
+0	Block	123	-244,77,267
+0	Block	123	-270,77,240
+0	Block	123	-261,77,231
+0	Block	123	-252,77,223
+0	Block	123	-246,77,229
+0	Block	123	-258,73,243
+0	Block	123	-244,73,257
+0	Block	123	-234,63,258
+0	Block	123	-245,63,251
+0	Block	123	-252,63,244
+0	Block	123	-261,63,235
+0	Block	123	-225,63,247
+0	Block	123	-226,63,246
+0	Block	123	-247,63,225
+0	Block	123	-248,63,224
+0	Block	123	-242,62,223
+0	Block	123	-224,62,241
+0	Block	123	-174,63,202
+0	Block	123	-183,62,195
+0	Block	123	-175,63,185
+0	Block	123	-184,63,169
+0	Block	123	-191,63,176
+0	Block	123	-191,63,237
+0	Block	123	-193,63,243
+0	Block	123	-221,63,172
+0	Block	123	-225,63,176
+0	Block	123	-220,63,182
+0	Block	123	-210,63,176
+0	Block	123	-225,63,161
+0	Block	123	-248,62,213
+0	Block	123	-214,62,247
+0	Block	123	-239,63,210
+0	Block	123	-233,63,220
+0	Block	123	-221,63,232
+0	Block	123	-211,63,238
+0	Block	123	-238,62,167
+0	Block	123	-247,62,176
+#76
+0	Block	76	-253,82,245
+0	Block	76	-252,89,248
+0	Block	76	-249,89,251
+0	Block	76	-247,82,253.
+#95:15
+0	Block	95:15	-249,77,248
+0	Block	95:15	-188,62,179
+0	Block	95:15	-181,62,175
+0	Block	95:15	-176,62,180
+0	Block	95:15	-180,62,185
+#Hyperion Theatre
+0	Block	123	-178,70,266
+0	Block	123	-180,70,264
+0	Block	123	-179,70,263
+0	Block	123	-178,70,262
+0	Block	123	-177,70,261
+0	Block	123	-176,70,260
+0	Block	123	-175,70,259
+0	Block	123	-174,70,258
+0	Block	123	-173,70,257
+0	Block	123	-172,70,256
+0	Block	123	-171,70,255
+0	Block	123	-170,70,254
+0	Block	123	-169,70,253
+0	Block	123	-168,70,252
+0	Block	123	-167,70,251
+0	Block	123	-166,70,250
+0	Block	123	-165,70,249
+0	Block	123	-164,70,248
+0	Block	123	-163,70,247
+0	Block	123	-162,70,246
+0	Block	123	-161,70,245
+0	Block	123	-160,70,244
+0	Block	123	-159,70,243
+0	Block	123	-158,70,243
+0	Block	123	-157,70,244
+0	Block	123	-156,70,245
+0	Block	123	-155,70,246
+0	Block	123	-154,70,247
+0	Block	123	-153,70,248
+0	Block	123	-152,70,249
+0	Block	123	-151,70,250
+0	Block	123	-150,70,251
+0	Block	123	-149,70,252
+0	Block	123	-148,70,253
+0	Block	123	-147,70,254
+#New Lights
+0	Block	123	-181,62,235
+0	Block	123	-207,62,230
+0	Block	123	-231,62,206
+0	Block	123	-246,77,228
+0	Block	123	-245,77,229
+0	Block	123	-230,77,244
+0	Block	123	-229,77,245
+0	Block	95:15	-222,66,270
+0	Block	95:15	-222,66,273
+0	Block	95:15	-222,65,276
+#ABC area
+0	Block	123	-190,65,283
+0	Block	123	-196,65,283
+0	Block	123	-199,65,286
+#Animation courtyard
+0	Block	123	-243,63,158
+0	Block	123	-249,63,164
+0	Block	123	-250,63,165
+0	Block	123	-256,63,171
+0	Block	123	-244,63,164
+0	Block	123	-250,63,170
+#76
+0	Block	76	-248,66,160
+0	Block	76	-254,66,166
+#Lights on
+#Centre stage area/GMR
+500	Block	169	-230,77,245
+500	Block	169	-224,77,251
+500	Block	169	-232,77,260
+500	Block	169	-244,77,267
+500	Block	169	-270,77,240
+500	Block	169	-261,77,231
+500	Block	169	-252,77,223
+500	Block	169	-246,77,229
+500	Block	169	-258,73,243
+500	Block	169	-244,73,257
+500	Block	169	-234,63,258
+500	Block	169	-245,63,251
+500	Block	169	-252,63,244
+500	Block	169	-261,63,235
+500	Block	169	-225,63,247
+500	Block	169	-226,63,246
+500	Block	169	-247,63,225
+500	Block	169	-248,63,224
+500	Block	169	-242,62,223
+500	Block	169	-224,62,241
+500	Block	169	-174,63,202
+500	Block	169	-183,62,195
+500	Block	169	-175,63,185
+500	Block	169	-184,63,169
+500	Block	169	-191,63,176
+500	Block	169	-191,63,237
+500	Block	169	-193,63,243
+500	Block	169	-221,63,172
+500	Block	169	-225,63,176
+500	Block	169	-220,63,182
+500	Block	169	-210,63,176
+500	Block	169	-225,63,161
+500	Block	169	-248,62,213
+500	Block	169	-214,62,247
+500	Block	169	-239,63,210
+500	Block	169	-233,63,220
+500	Block	169	-221,63,232
+500	Block	169	-211,63,238
+500	Block	169	-238,62,167
+500	Block	169	-247,62,176
+#76
+500	Block	50	-253,82,245
+500	Block	50	-252,89,248
+500	Block	50	-249,89,251
+500	Block	50	-247,82,253.
+#95:15
+500	Block	138	-249,77,248
+500	Block	138	-188,62,179
+500	Block	138	-181,62,175
+500	Block	138	-176,62,180
+500	Block	138	-180,62,185
+#Hyperon Theatre
+500	Block	89	-178,70,266
+500	Block	89	-180,70,264
+500	Block	89	-179,70,263
+500	Block	89	-178,70,262
+500	Block	89	-177,70,261
+500	Block	89	-176,70,260
+500	Block	89	-175,70,259
+500	Block	89	-174,70,258
+500	Block	89	-173,70,257
+500	Block	89	-172,70,256
+500	Block	89	-171,70,255
+500	Block	89	-170,70,254
+500	Block	89	-169,70,253
+500	Block	89	-168,70,252
+500	Block	89	-167,70,251
+500	Block	89	-166,70,250
+500	Block	89	-165,70,249
+500	Block	89	-164,70,248
+500	Block	89	-163,70,247
+500	Block	89	-162,70,246
+500	Block	89	-161,70,245
+500	Block	89	-160,70,244
+500	Block	89	-159,70,243
+500	Block	89	-158,70,243
+500	Block	89	-157,70,244
+500	Block	89	-156,70,245
+500	Block	89	-155,70,246
+500	Block	89	-154,70,247
+500	Block	89	-153,70,248
+500	Block	89	-152,70,249
+500	Block	89	-151,70,250
+500	Block	89	-150,70,251
+500	Block	89	-149,70,252
+500	Block	89	-148,70,253
+500	Block	89	-147,70,254
+#ABC area
+500	Block	89	-190,65,283
+500	Block	89	-196,65,283
+500	Block	89	-199,65,286
+#Animation courtyard
+500	Block	169	-243,63,158
+500	Block	169	-249,63,164
+500	Block	169	-250,63,165
+500	Block	169	-256,63,171
+500	Block	169	-244,63,164
+500	Block	169	-250,63,170
+#76
+500	Block	50	-248,66,160
+500	Block	50	-254,66,166
+#New Lights
+500	Block	169	-181,62,235
+500	Block	169	-207,62,230
+500	Block	169	-231,62,206
+500	Block	169	-246,77,228
+500	Block	169	-245,77,229
+500	Block	169	-230,77,244
+500	Block	169	-229,77,245
+500	Block	138	-222,66,270
+500	Block	138	-222,66,273
+500	Block	138	-222,65,276
+#Asteroid field lighting #304-316
+304	Block	89	-226,74,267
+304.5	Block	48	-226,74,267
+304.5	Block	89	-234,73,259
+305	Block	48	-234,73,259
+304	Block	89	-260,73,242
+304.5	Block	48	-260,73,242
+304.5	Block	89	-227,77,248
+305	Block	48	-227,77,248
+304	Block	89	-249,77,226
+304.5	Block	48	-249,77,226
+304.5	Block	89	-284,77,235
+305	Block	48	-284,77,235
+304	Block	89	-297,72,229
+304.5	Block	48	-297,72,229
+304.5	Block	89	-249,77,262
+305	Block	48	-249,77,262
+304	Block	89	-263,77,248
+304.5	Block	48	-263,77,248
+304.5	Block	89	-297,72,221
+305	Block	48	-297,72,221
+304	Block	89	-212,77,283
+304.5	Block	48	-212,77,283
+304.5	Block	89	-223,78,283
+305	Block	48	-223,78,283
+305	Block	89	-226,74,267
+305.5	Block	48	-226,74,267
+305.5	Block	89	-234,73,259
+306	Block	48	-234,73,259
+305	Block	89	-260,73,242
+305.5	Block	48	-260,73,242
+305.5	Block	89	-227,77,248
+306	Block	48	-227,77,248
+305	Block	89	-249,77,226
+305.5	Block	48	-249,77,226
+305.5	Block	89	-284,77,235
+306	Block	48	-284,77,235
+305	Block	89	-297,72,229
+305.5	Block	48	-297,72,229
+305.5	Block	89	-249,77,262
+306	Block	48	-249,77,262
+305	Block	89	-263,77,248
+305.5	Block	48	-263,77,248
+305.5	Block	89	-297,72,221
+306	Block	48	-297,72,221
+305	Block	89	-212,77,283
+305.5	Block	48	-212,77,283
+305.5	Block	89	-223,78,283
+306	Block	48	-223,78,283
+306	Block	89	-226,74,267
+306.5	Block	48	-226,74,267
+306.5	Block	89	-234,73,259
+307	Block	48	-234,73,259
+306	Block	89	-260,73,242
+306.5	Block	48	-260,73,242
+306.5	Block	89	-227,77,248
+307	Block	48	-227,77,248
+306	Block	89	-249,77,226
+306.5	Block	48	-249,77,226
+306.5	Block	89	-284,77,235
+307	Block	48	-284,77,235
+306	Block	89	-297,72,229
+306.5	Block	48	-297,72,229
+306.5	Block	89	-249,77,262
+307	Block	48	-249,77,262
+306	Block	89	-263,77,248
+306.5	Block	48	-263,77,248
+306.5	Block	89	-297,72,221
+307	Block	48	-297,72,221
+306	Block	89	-212,77,283
+306.5	Block	48	-212,77,283
+306.5	Block	89	-223,78,283
+307	Block	48	-223,78,283
+307	Block	89	-226,74,267
+307.5	Block	48	-226,74,267
+307.5	Block	89	-234,73,259
+308	Block	48	-234,73,259
+307	Block	89	-260,73,242
+307.5	Block	48	-260,73,242
+307.5	Block	89	-227,77,248
+308	Block	48	-227,77,248
+307	Block	89	-249,77,226
+307.5	Block	48	-249,77,226
+307.5	Block	89	-284,77,235
+308	Block	48	-284,77,235
+307	Block	89	-297,72,229
+307.5	Block	48	-297,72,229
+307.5	Block	89	-249,77,262
+308	Block	48	-249,77,262
+307	Block	89	-263,77,248
+307.5	Block	48	-263,77,248
+307.5	Block	89	-297,72,221
+308	Block	48	-297,72,221
+307	Block	89	-212,77,283
+307.5	Block	48	-212,77,283
+307.5	Block	89	-223,78,283
+308	Block	48	-223,78,283
+308	Block	89	-226,74,267
+308.5	Block	48	-226,74,267
+308.5	Block	89	-234,73,259
+309	Block	48	-234,73,259
+308	Block	89	-260,73,242
+308.5	Block	48	-260,73,242
+308.5	Block	89	-227,77,248
+309	Block	48	-227,77,248
+308	Block	89	-249,77,226
+308.5	Block	48	-249,77,226
+308.5	Block	89	-284,77,235
+309	Block	48	-284,77,235
+308	Block	89	-297,72,229
+308.5	Block	48	-297,72,229
+308.5	Block	89	-249,77,262
+309	Block	48	-249,77,262
+308	Block	89	-263,77,248
+308.5	Block	48	-263,77,248
+308.5	Block	89	-297,72,221
+309	Block	48	-297,72,221
+308	Block	89	-212,77,283
+308.5	Block	48	-212,77,283
+308.5	Block	89	-223,78,283
+309	Block	48	-223,78,283
+309	Block	89	-226,74,267
+309.5	Block	48	-226,74,267
+309.5	Block	89	-234,73,259
+310	Block	48	-234,73,259
+309	Block	89	-260,73,242
+309.5	Block	48	-260,73,242
+309.5	Block	89	-227,77,248
+310	Block	48	-227,77,248
+309	Block	89	-249,77,226
+309.5	Block	48	-249,77,226
+309.5	Block	89	-284,77,235
+310	Block	48	-284,77,235
+309	Block	89	-297,72,229
+309.5	Block	48	-297,72,229
+309.5	Block	89	-249,77,262
+310	Block	48	-249,77,262
+309	Block	89	-263,77,248
+309.5	Block	48	-263,77,248
+309.5	Block	89	-297,72,221
+310	Block	48	-297,72,221
+309	Block	89	-212,77,283
+309.5	Block	48	-212,77,283
+309.5	Block	89	-223,78,283
+310	Block	48	-223,78,283
+310	Block	89	-226,74,267
+310.5	Block	48	-226,74,267
+310.5	Block	89	-234,73,259
+311	Block	48	-234,73,259
+310	Block	89	-260,73,242
+310.5	Block	48	-260,73,242
+310.5	Block	89	-227,77,248
+311	Block	48	-227,77,248
+310	Block	89	-249,77,226
+310.5	Block	48	-249,77,226
+310.5	Block	89	-284,77,235
+311	Block	48	-284,77,235
+310	Block	89	-297,72,229
+310.5	Block	48	-297,72,229
+310.5	Block	89	-249,77,262
+311	Block	48	-249,77,262
+310	Block	89	-263,77,248
+310.5	Block	48	-263,77,248
+310.5	Block	89	-297,72,221
+311	Block	48	-297,72,221
+310	Block	89	-212,77,283
+310.5	Block	48	-212,77,283
+310.5	Block	89	-223,78,283
+311	Block	48	-223,78,283
+311	Block	89	-226,74,267
+311.5	Block	48	-226,74,267
+311.5	Block	89	-234,73,259
+312	Block	48	-234,73,259
+311	Block	89	-260,73,242
+311.5	Block	48	-260,73,242
+311.5	Block	89	-227,77,248
+312	Block	48	-227,77,248
+311	Block	89	-249,77,226
+311.5	Block	48	-249,77,226
+311.5	Block	89	-284,77,235
+312	Block	48	-284,77,235
+311	Block	89	-297,72,229
+311.5	Block	48	-297,72,229
+311.5	Block	89	-249,77,262
+312	Block	48	-249,77,262
+#Timings
+0.05	PowerFirework	-208,76,249	b1	-5.0,8.7,-5.0
+0	PowerFirework	-208,76,249	b1	5.0,8.7,5.0
+0.1	PowerFirework	-217,76,241	b1	-5.0,8.7,-5.0
+0.1	PowerFirework	-217,76,241	b1	5.0,8.7,5.0
+#0.05	PowerFirework	-222,77,235	b1	-5.0,8.7,-5.0
+#0.05	PowerFirework	-222,77,235	b1	5.0,8.7,5.0
+0.0	PowerFirework	-229,76,228	b1	-5.0,8.7,-5.0
+0.0	PowerFirework	-229,76,228	b1	5.0,8.7,5.0
+#0.05	PowerFirework	-236,77,221	b1	-5.0,8.7,-5.0
+#0.05	PowerFirework	-236,77,221	b1	5.0,8.7,5.0
+0.1	PowerFirework	-242,76,216	b1	-5.0,8.7,-5.0
+0.1	PowerFirework	-242,76,216	b1	5.0,8.7,5.0
+0	PowerFirework	-250,76,207	b1	-5.0,8.7,-5.0
+0.05	PowerFirework	-250,76,207	b1	5.0,8.7,5.0
+8.4	PowerFirework	-204,75,253	b2	0,10,0
+8.4	PowerFirework	-212,75,244	b3	0,10,0
+8.4	PowerFirework	-219,75,238	b2	0,10,0
+8.4	PowerFirework	-225,75,231	b3	0,10,0
+8.4	PowerFirework	-232,75,224	b3	0,10,0
+8.4	PowerFirework	-239,75,218	b2	0,10,0
+8.4	PowerFirework	-245,75,211	b3	0,10,0
+8.4	PowerFirework	-254,75,203	b2	0,10,0
+8.9	PowerFirework	-227,89,221	lb1a,sb1a	0,0,0
+11.3	PowerFirework	-226,95,222	lb1a,sb1a	0,0,0
+11.3	PowerFirework	-235,90,213	lb1a,sb1a	0,0,0
+12.6	PowerFirework	-233,93,215	lb1a,sb1a	0,0,0
+13.7	PowerFirework	-223,97,225	lb1a,sb1a	0,0,0
+13.7	PowerFirework	-233,93,215	lb1a,sb1a	0,0,0
+15.4	PowerFirework	-217,88,231	lb2	0,0,0
+15.55	PowerFirework	-220,89,228	lb2	0,0,0
+15.7	PowerFirework	-227,88,221	lb2	0,0,0
+15.85	PowerFirework	-216,96,232	lb2	0,0,0
+16.1	PowerFirework	-228,91,220	sb2	0,0,0
+16.1	PowerFirework	-224,92,224	sb2	0,0,0
+16.1	PowerFirework	-233,97,215	sb2	0,0,0
+17.6	PowerFirework	-204,75,253	b3	0,10,0
+17.6	PowerFirework	-212,75,244	b2	0,10,0
+17.6	PowerFirework	-219,75,238	b3	0,10,0
+17.6	PowerFirework	-225,75,231	b2	0,10,0
+17.6	PowerFirework	-232,75,224	b2	0,10,0
+17.6	PowerFirework	-239,75,218	b3	0,10,0
+17.6	PowerFirework	-245,75,211	b2	0,10,0
+17.6	PowerFirework	-254,75,203	b3	0,10,0
+18.2	PowerFirework	-219,94,229	sb2	0,0,0
+18.2	PowerFirework	-226,91,222	sb2	0,0,0
+18.8	PowerFirework	-222,95,226	lb3b,sb3b	0,0,0
+20.5	PowerFirework	-235,97,213	sb2	0,0,0
+21.7	PowerFirework	-218,87,230	lb3b,sb3b	0,0,0
+21.7	PowerFirework	-229,93,219	lb3b,sb3b	0,0,0
+22.8	PowerFirework	-220,91,228	sb2	0,0,0
+22.8	PowerFirework	-223,91,225	sb2	0,0,0
+24.3	PowerFirework	-235,87,213	lb2	0,0,0
+24.55	PowerFirework	-218,94,230	lb2	0,0,0
+24.8	PowerFirework	-216,92,232	lb2	0,0,0
+25.05	PowerFirework	-233,91,215	lb2	0,0,0
+25.7	PowerFirework	-219,91,229	sb2	0,0,0
+25.7	PowerFirework	-223,87,225	sb2	0,0,0
+25.7	PowerFirework	-227,91,221	sb2	0,0,0
+24.5	Firework	-204,79,253	sb4	1	0,2,0	1
+24.5	Firework	-212,79,244	sb4	1	0,2,0	1
+24.5	Firework	-219,79,238	sb4	1	0,2,0	1
+24.5	Firework	-225,79,231	sb4	1	0,2,0	1
+24.5	Firework	-232,79,224	sb4	1	0,2,0	1
+24.5	Firework	-239,79,218	sb4	1	0,2,0	1
+24.5	Firework	-245,79,211	sb4	1	0,2,0	1
+24.5	Firework	-254,79,203	sb4	1	0,2,0	1
+26.9	PowerFirework	-217,87,231	lb4c,lb5c	0,0,0
+27.6	PowerFirework	-226,96,222	lb4c,lb5c	0,0,0
+27.6	PowerFirework	-234,89,214	lb4c,lb5c	0,0,0
+28.7	PowerFirework	-221,95,227	lb4c,lb5c	0,0,0
+30.4	PowerFirework	-225,89,223	lb4c,lb5c	0,0,0
+30.4	PowerFirework	-216,89,232	lb4c,lb5c	0,0,0
+30.1	Firework	-204,79,253	sb4	1	0,2,0	1
+30.1	Firework	-212,79,244	sb4	1	0,2,0	1
+30.1	Firework	-219,79,238	sb4	1	0,2,0	1
+30.1	Firework	-225,79,231	sb4	1	0,2,0	1
+30.1	Firework	-232,79,224	sb4	1	0,2,0	1
+30.1	Firework	-239,79,218	sb4	1	0,2,0	1
+30.1	Firework	-245,79,211	sb4	1	0,2,0	1
+30.1	Firework	-254,79,203	sb4	1	0,2,0	1
+32.8	PowerFirework	-230,94,218	lb4c,lb5c	0,0,0
+34.1	PowerFirework	-219,90,229	lb4c,lb5c	0,0,0
+34.1	PowerFirework	-221,88,227	lb4c,lb5c	0,0,0
+35	Firework	-204,79,253	sb4	1	0,2,0	1
+35	Firework	-212,79,244	sb4	1	0,2,0	1
+35	Firework	-219,79,238	sb4	1	0,2,0	1
+35	Firework	-225,79,231	sb4	1	0,2,0	1
+35	Firework	-232,79,224	sb4	1	0,2,0	1
+35	Firework	-239,79,218	sb4	1	0,2,0	1
+35	Firework	-245,79,211	sb4	1	0,2,0	1
+35	Firework	-254,79,203	sb4	1	0,2,0	1
+37.7	PowerFirework	-232,89,216	lb4c,lb5c	0,0,0
+39.1	PowerFirework	-219,90,229	lb4c,lb5c	0,0,0
+39.1	PowerFirework	-222,93,226	lb4c,lb5c	0,0,0
+41.4	PowerFirework	-232,75,224	b4	1.29,4.83,1.29
+41.4	PowerFirework	-225,75,231	b4	-1.29,4.83,-1.29
+41.4	PowerFirework	-232,75,224	b4a	1.57,6.82,1.57
+41.4	PowerFirework	-225,75,231	b4a	-1.57,6.82,-1.57
+42	PowerFirework	-219,75,238	b4	1.29,4.83,1.29
+42	PowerFirework	-239,75,218	b4	-1.29,4.83,-1.29
+42	PowerFirework	-219,75,238	b4a	1.57,6.82,1.57
+42	PowerFirework	-239,75,218	b4a	-1.57,6.82,-1.57
+42.8	PowerFirework	-245,75,211	b4	1.29,4.83,1.29
+42.8	PowerFirework	-212,75,244	b4	-1.29,4.83,-1.29
+42.8	PowerFirework	-245,75,211	b4a	1.57,6.82,1.57
+42.8	PowerFirework	-212,75,244	b4a	-1.57,6.82,-1.57
+43.3	PowerFirework	-204,75,253	b4	1.29,4.83,1.29
+43.3	PowerFirework	-254,75,203	b4	-1.29,4.83,-1.29
+43.3	PowerFirework	-204,75,253	b4a	1.57,6.82,1.57
+43.3	PowerFirework	-254,75,203	b4a	-1.57,6.82,-1.57
+43.9	PowerFirework	-227,94,221	lb6	0,0,0
+43.9	PowerFirework	-234,91,214	lb6	0,0,0
+43.9	PowerFirework	-227,88,221	lb6	0,0,0
+49.5	PowerFirework	-204,75,253	b5	0,10,0
+49.5	PowerFirework	-212,75,244	b5	0,10,0
+49.5	PowerFirework	-219,75,238	b5	0,10,0
+49.5	PowerFirework	-225,75,231	b5	0,10,0
+49.5	PowerFirework	-232,75,224	b5	0,10,0
+49.5	PowerFirework	-239,75,218	b5	0,10,0
+49.5	PowerFirework	-245,75,211	b5	0,10,0
+49.5	PowerFirework	-254,75,203	b5	0,10,0
+50.8	PowerFirework	-227,91,221	lb7d,sb5d	0,0,0
+52.6	PowerFirework	-226,91,222	lb7d,sb5d	0,0,0
+52.6	PowerFirework	-224,88,224	lb7d,sb5d	0,0,0
+54.9	PowerFirework	-215,91,233	lb7d,sb5d	0,0,0
+56.7	PowerFirework	-233,95,215	lb7d,sb5d	0,0,0
+57.7	PowerFirework	-218,88,230	lb7d,sb5d	0,0,0
+59	PowerFirework	-204,75,253	b2	0,10,0
+59	PowerFirework	-212,75,244	b2	0,10,0
+59	PowerFirework	-219,75,238	b2	0,10,0
+59	PowerFirework	-225,75,231	b2	0,10,0
+59	PowerFirework	-232,75,224	b2	0,10,0
+59	PowerFirework	-239,75,218	b2	0,10,0
+59	PowerFirework	-245,75,211	b2	0,10,0
+59	PowerFirework	-254,75,203	b2	0,10,0
+60.2	PowerFirework	-224,96,224	lb7d,sb5d	0,0,0
+61.9	PowerFirework	-226,89,222	lb7d,sb5d	0,0,0
+61.8	PowerFirework	-223,89,225	lb8	0,0,0
+62.5	PowerFirework	-216,92,232	lb8	0,0,0
+63.2	PowerFirework	-221,87,227	lb8	0,0,0
+63.9	PowerFirework	-219,93,229	lb8	0,0,0
+64.6	PowerFirework	-231,87,217	lb8	0,0,0
+65.3	PowerFirework	-227,95,221	lb8	0,0,0
+66.5	PowerFirework	-229,97,219	lb9e	0,0,0
+66.5	PowerFirework	-231,90,217	lb9e	0,0,0
+66.5	PowerFirework	-224,91,224	lb9e	0,0,0
+67.3	PowerFirework	-229,92,219	lb10f	0,0,0
+67.3	PowerFirework	-223,88,225	lb10f	0,0,0
+67.3	PowerFirework	-226,88,222	lb10f	0,0,0
+68	PowerFirework	-224,95,224	sb6e	0,0,0
+68	PowerFirework	-219,89,229	sb6e	0,0,0
+68.1	PowerFirework	-217,96,231	sb7f	0,0,0
+68.1	PowerFirework	-223,94,225	sb7f	0,0,0
+68.2	PowerFirework	-228,94,220	sb6e	0,0,0
+68.2	PowerFirework	-217,92,231	sb6e	0,0,0
+68.3	PowerFirework	-231,94,217	sb7f	0,0,0
+68.3	PowerFirework	-230,96,218	sb7f	0,0,0
+68.4	PowerFirework	-227,96,221	sb6e	0,0,0
+68.4	PowerFirework	-232,88,216	sb6e	0,0,0
+68.5	PowerFirework	-217,94,231	sb7f	0,0,0
+68.5	PowerFirework	-218,95,230	sb7f	0,0,0
+68.6	PowerFirework	-232,88,216	sb6e	0,0,0
+68.6	PowerFirework	-222,93,226	sb6e	0,0,0
+68.7	PowerFirework	-233,94,215	sb7f	0,0,0
+68.7	PowerFirework	-218,90,230	sb7f	0,0,0
+68.8	PowerFirework	-228,97,220	sb6e	0,0,0
+68.8	PowerFirework	-231,96,217	sb6e	0,0,0
+68.9	PowerFirework	-217,94,231	sb7f	0,0,0
+68.9	PowerFirework	-232,95,216	sb7f	0,0,0
+69	PowerFirework	-229,96,219	sb6e	0,0,0
+69	PowerFirework	-234,87,214	sb6e	0,0,0
+69.1	PowerFirework	-232,89,216	sb7f	0,0,0
+69.1	PowerFirework	-231,94,217	sb7f	0,0,0
+69.2	PowerFirework	-216,97,232	sb6e	0,0,0
+69.2	PowerFirework	-219,92,229	sb6e	0,0,0
+69.3	PowerFirework	-215,90,233	sb7f	0,0,0
+69.3	PowerFirework	-234,96,214	sb7f	0,0,0
+69.4	PowerFirework	-220,87,228	sb6e	0,0,0
+69.4	PowerFirework	-224,92,224	sb6e	0,0,0
+69.5	PowerFirework	-220,87,228	sb7f	0,0,0
+69.5	PowerFirework	-222,92,226	sb7f	0,0,0
+69.6	PowerFirework	-224,91,224	sb6e	0,0,0
+69.6	PowerFirework	-218,92,230	sb6e	0,0,0
+69.7	PowerFirework	-221,91,227	sb7f	0,0,0
+69.7	PowerFirework	-233,88,215	sb7f	0,0,0
+69.8	PowerFirework	-221,88,227	sb6e	0,0,0
+69.8	PowerFirework	-218,94,230	sb6e	0,0,0
+69.9	PowerFirework	-219,97,229	sb7f	0,0,0
+69.9	PowerFirework	-227,95,221	sb7f	0,0,0
+70	PowerFirework	-231,90,217	sb6e	0,0,0
+70	PowerFirework	-226,93,222	sb6e	0,0,0
+70.1	PowerFirework	-233,97,215	sb7f	0,0,0
+70.1	PowerFirework	-219,88,229	sb7f	0,0,0
+70.9	PowerFirework	-204,75,253	b7	5.14,6.13,5.14
+70.95	PowerFirework	-204,75,253	b7	4,6.93,4
+71	PowerFirework	-204,75,253	b7	2.74,7.52,2.74
+71.05	PowerFirework	-204,75,253	b7	1.39,7.88,1.39
+71.1	PowerFirework	-204,75,253	b7	0,8,0
+71.15	PowerFirework	-204,75,253	b7	-1.39,7.88,-1.39
+71.2	PowerFirework	-204,75,253	b7	-2.74,7.52,-2.74
+71.25	PowerFirework	-204,75,253	b7	-4,6.93,-4
+71.3	PowerFirework	-204,75,253	b7	-5.14,6.13,-5.14
+71.95	PowerFirework	-254,75,203	b7	5.14,6.13,5.14
+71.9	PowerFirework	-254,75,203	b7	4,6.93,4
+71.85	PowerFirework	-254,75,203	b7	2.74,7.52,2.74
+71.8	PowerFirework	-254,75,203	b7	1.39,7.88,1.39
+71.75	PowerFirework	-254,75,203	b7	0,8,0
+71.7	PowerFirework	-254,75,203	b7	-1.39,7.88,-1.39
+71.65	PowerFirework	-254,75,203	b7	-2.74,7.52,-2.74
+71.6	PowerFirework	-254,75,203	b7	-4,6.93,-4
+71.55	PowerFirework	-254,75,203	b7	-5.14,6.13,-5.14
+72	PowerFirework	-212,75,244	b7	5.14,6.13,5.14
+72.05	PowerFirework	-212,75,244	b7	4,6.93,4
+72.1	PowerFirework	-212,75,244	b7	2.74,7.52,2.74
+72.15	PowerFirework	-212,75,244	b7	1.39,7.88,1.39
+72.2	PowerFirework	-212,75,244	b7	0,8,0
+72.25	PowerFirework	-212,75,244	b7	-1.39,7.88,-1.39
+72.3	PowerFirework	-212,75,244	b7	-2.74,7.52,-2.74
+72.35	PowerFirework	-212,75,244	b7	-4,6.93,-4
+72.4	PowerFirework	-212,75,244	b7	-5.14,6.13,-5.14
+73.1	PowerFirework	-245,75,211	b7	5.14,6.13,5.14
+73.05	PowerFirework	-245,75,211	b7	4,6.93,4
+73.0	PowerFirework	-245,75,211	b7	2.74,7.52,2.74
+72.95	PowerFirework	-245,75,211	b7	1.39,7.88,1.39
+72.9	PowerFirework	-245,75,211	b7	0,8,0
+72.85	PowerFirework	-245,75,211	b7	-1.39,7.88,-1.39
+72.8	PowerFirework	-245,75,211	b7	-2.74,7.52,-2.74
+72.75	PowerFirework	-245,75,211	b7	-4,6.93,-4
+72.7	PowerFirework	-245,75,211	b7	-5.14,6.13,-5.14
+73.25	PowerFirework	-219,75,238	b7	5.14,6.13,5.14
+73.3	PowerFirework	-219,75,238	b7	4,6.93,4
+73.35	PowerFirework	-219,75,238	b7	2.74,7.52,2.74
+73.4	PowerFirework	-219,75,238	b7	1.39,7.88,1.39
+73.45	PowerFirework	-219,75,238	b7	0,8,0
+73.5	PowerFirework	-219,75,238	b7	-1.39,7.88,-1.39
+73.55	PowerFirework	-219,75,238	b7	-2.74,7.52,-2.74
+73.6	PowerFirework	-219,75,238	b7	-4,6.93,-4
+73.65	PowerFirework	-219,75,238	b7	-5.14,6.13,-5.14
+74.25	PowerFirework	-239,75,218	b7	5.14,6.13,5.14
+74.2	PowerFirework	-239,75,218	b7	4,6.93,4
+74.15	PowerFirework	-239,75,218	b7	2.74,7.52,2.74
+74.1	PowerFirework	-239,75,218	b7	1.39,7.88,1.39
+74.05	PowerFirework	-239,75,218	b7	0,8,0
+74.0	PowerFirework	-239,75,218	b7	-1.39,7.88,-1.39
+73.95	PowerFirework	-239,75,218	b7	-2.74,7.52,-2.74
+73.9	PowerFirework	-239,75,218	b7	-4,6.93,-4
+73.85	PowerFirework	-239,75,218	b7	-5.14,6.13,-5.14
+74.5	PowerFirework	-239,75,218	b8	5.14,6.13,5.14
+74.6	PowerFirework	-239,75,218	b8	4.59,6.55,4.59
+74.7	PowerFirework	-239,75,218	b8	4,6.93,4
+74.8	PowerFirework	-239,75,218	b8	3.38,7.25,3.38
+74.9	PowerFirework	-239,75,218	b8	2.74,7.52,2.74
+75	PowerFirework	-239,75,218	b8	2.07,7.73,2.07
+75.1	PowerFirework	-239,75,218	b8	1.39,7.88,1.39
+75.2	PowerFirework	-239,75,218	b8	0.7,7.97,0.7
+75.3	PowerFirework	-239,75,218	b8	0,8,0
+75.4	PowerFirework	-239,75,218	b8	-0.7,7.97,-0.7
+75.5	PowerFirework	-239,75,218	b8	-1.39,7.88,-1.39
+75.6	PowerFirework	-239,75,218	b8	-2.07,7.73,-2.07
+75.7	PowerFirework	-239,75,218	b8	-2.74,7.52,-2.74
+75.8	PowerFirework	-239,75,218	b8	-3.38,7.25,-3.38
+75.9	PowerFirework	-239,75,218	b8	-4,6.93,-4
+76	PowerFirework	-239,75,218	b8	-4.59,6.55,-4.59
+76.1	PowerFirework	-239,75,218	b8	-5.14,6.13,-5.14
+76.1	PowerFirework	-219,75,238	b8	5.14,6.13,5.14
+76	PowerFirework	-219,75,238	b8	4.59,6.55,4.59
+75.9	PowerFirework	-219,75,238	b8	4,6.93,4
+75.8	PowerFirework	-219,75,238	b8	3.38,7.25,3.38
+75.7	PowerFirework	-219,75,238	b8	2.74,7.52,2.74
+75.6	PowerFirework	-219,75,238	b8	2.07,7.73,2.07
+75.5	PowerFirework	-219,75,238	b8	1.39,7.88,1.39
+75.4	PowerFirework	-219,75,238	b8	0.7,7.97,0.7
+75.3	PowerFirework	-219,75,238	b8	0,8,0
+75.2	PowerFirework	-219,75,238	b8	-0.7,7.97,-0.7
+75.1	PowerFirework	-219,75,238	b8	-1.39,7.88,-1.39
+75	PowerFirework	-219,75,238	b8	-2.07,7.73,-2.07
+74.9	PowerFirework	-219,75,238	b8	-2.74,7.52,-2.74
+74.8	PowerFirework	-219,75,238	b8	-3.38,7.25,-3.38
+74.7	PowerFirework	-219,75,238	b8	-4,6.93,-4
+74.6	PowerFirework	-219,75,238	b8	-4.59,6.55,-4.59
+74.5	PowerFirework	-219,75,238	b8	-5.14,6.13,-5.14
+78	PowerFirework	-224,89,224	b9,b8	0,0.6,0
+78	PowerFirework	-234,92,214	b9,b8	0.6,0.2,0
+78	PowerFirework	-220,97,228	b9,b8	0.1,-0.4,-0.5
+80.5	PowerFirework	-222,88,226	b9,b8	0.5,0.4,-0.2
+80.5	PowerFirework	-219,87,229	b9,b8	0.1,0,-0.5
+83.4	PowerFirework	-218,92,230	b9,b8	0,0.7,-0.3
+83.4	PowerFirework	-215,92,233	b9,b8	0,0.4,0.5
+83.4	PowerFirework	-233,97,215	b9,b8	0.7,0.1,-0.2
+86.2	Firework	-232,75,224	b10	1	5.14,6.13,5.14	1
+86.4	Firework	-232,75,224	b10	1	4,6.93,4	1
+86.6	Firework	-232,75,224	b10	1	2.74,7.52,2.74	1
+86.8	Firework	-232,75,224	b10	1	1.39,7.88,1.39	1
+87	Firework	-232,75,224	b10	1	0,8,0	1
+87.2	Firework	-232,75,224	b10	1	-1.39,7.88,-1.39	1
+87.4	Firework	-232,75,224	b10	1	-2.74,7.52,-2.74	1
+87.6	Firework	-232,75,224	b10	1	-4,6.93,-4	1
+87.8	Firework	-232,75,224	b10	1	-5.14,6.13,-5.14	1
+86.2	Firework	-225,75,231	b10	1	-5.14,6.13,-5.14	1
+86.4	Firework	-225,75,231	b10	1	-4,6.93,-4	1
+86.6	Firework	-225,75,231	b10	1	-2.74,7.52,-2.74	1
+86.8	Firework	-225,75,231	b10	1	-1.39,7.88,-1.39	1
+87	Firework	-225,75,231	b10	1	0,8,0	1
+87.2	Firework	-225,75,231	b10	1	1.39,7.88,1.39	1
+87.4	Firework	-225,75,231	b10	1	2.74,7.52,2.74	1
+87.6	Firework	-225,75,231	b10	1	4,6.93,4	1
+87.8	Firework	-225,75,231	b10	1	5.14,6.13,5.14	1
+87.6	Firework	-239,75,218	b10	1	5.14,6.13,5.14	1
+87.8	Firework	-239,75,218	b10	1	4,6.93,4	1
+88	Firework	-239,75,218	b10	1	2.74,7.52,2.74	1
+88.2	Firework	-239,75,218	b10	1	1.39,7.88,1.39	1
+88.4	Firework	-239,75,218	b10	1	0,8,0	1
+88.6	Firework	-239,75,218	b10	1	-1.39,7.88,-1.39	1
+88.8	Firework	-239,75,218	b10	1	-2.74,7.52,-2.74	1
+89	Firework	-239,75,218	b10	1	-4,6.93,-4	1
+89.2	Firework	-239,75,218	b10	1	-5.14,6.13,-5.14	1
+87.6	Firework	-219,75,238	b10	1	-5.14,6.13,-5.14	1
+87.8	Firework	-219,75,238	b10	1	-4,6.93,-4	1
+88	Firework	-219,75,238	b10	1	-2.74,7.52,-2.74	1
+88.2	Firework	-219,75,238	b10	1	-1.39,7.88,-1.39	1
+88.4	Firework	-219,75,238	b10	1	0,8,0	1
+88.6	Firework	-219,75,238	b10	1	1.39,7.88,1.39	1
+88.8	Firework	-219,75,238	b10	1	2.74,7.52,2.74	1
+89	Firework	-219,75,238	b10	1	4,6.93,4	1
+89.2	Firework	-219,75,238	b10	1	5.14,6.13,5.14	1
+89	Firework	-245,75,211	b10	1	5.14,6.13,5.14	1
+89.2	Firework	-245,75,211	b10	1	4,6.93,4	1
+89.4	Firework	-245,75,211	b10	1	2.74,7.52,2.74	1
+89.6	Firework	-245,75,211	b10	1	1.39,7.88,1.39	1
+89.8	Firework	-245,75,211	b10	1	0,8,0	1
+90	Firework	-245,75,211	b10	1	-1.39,7.88,-1.39	1
+90.2	Firework	-245,75,211	b10	1	-2.74,7.52,-2.74	1
+90.4	Firework	-245,75,211	b10	1	-4,6.93,-4	1
+90.6	Firework	-245,75,211	b10	1	-5.14,6.13,-5.14	1
+89	Firework	-212,75,244	b10	1	-5.14,6.13,-5.14	1
+89.2	Firework	-212,75,244	b10	1	-4,6.93,-4	1
+89.4	Firework	-212,75,244	b10	1	-2.74,7.52,-2.74	1
+89.6	Firework	-212,75,244	b10	1	-1.39,7.88,-1.39	1
+89.8	Firework	-212,75,244	b10	1	0,8,0	1
+90	Firework	-212,75,244	b10	1	1.39,7.88,1.39	1
+90.2	Firework	-212,75,244	b10	1	2.74,7.52,2.74	1
+90.4	Firework	-212,75,244	b10	1	4,6.93,4	1
+90.6	Firework	-212,75,244	b10	1	5.14,6.13,5.14	1
+90.4	Firework	-254,75,203	b10	1	5.14,6.13,5.14	1
+90.6	Firework	-254,75,203	b10	1	4,6.93,4	1
+90.8	Firework	-254,75,203	b10	1	2.74,7.52,2.74	1
+91	Firework	-254,75,203	b10	1	1.39,7.88,1.39	1
+91.2	Firework	-254,75,203	b10	1	0,8,0	1
+91.4	Firework	-254,75,203	b10	1	-1.39,7.88,-1.39	1
+91.6	Firework	-254,75,203	b10	1	-2.74,7.52,-2.74	1
+91.8	Firework	-254,75,203	b10	1	-4,6.93,-4	1
+92	Firework	-254,75,203	b10	1	-5.14,6.13,-5.14	1
+90.4	Firework	-204,75,253	b10	1	-5.14,6.13,-5.14	1
+90.6	Firework	-204,75,253	b10	1	-4,6.93,-4	1
+90.8	Firework	-204,75,253	b10	1	-2.74,7.52,-2.74	1
+91	Firework	-204,75,253	b10	1	-1.39,7.88,-1.39	1
+91.2	Firework	-204,75,253	b10	1	0,8,0	1
+91.4	Firework	-204,75,253	b10	1	1.39,7.88,1.39	1
+91.6	Firework	-204,75,253	b10	1	2.74,7.52,2.74	1
+91.8	Firework	-204,75,253	b10	1	4,6.93,4	1
+92	Firework	-204,75,253	b10	1	5.14,6.13,5.14	1
+95.5	PowerFirework	-222,90,226	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	-0.2,0.5,0.1
+96.1	PowerFirework	-217,97,231	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0.5,0.3,0
+96.7	PowerFirework	-217,92,231	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0,0,-0.4
+97.3	PowerFirework	-229,91,219	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0.7,-0.3,0
+97.9	PowerFirework	-225,94,223	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0.2,0.1,-0.3
+98.5	PowerFirework	-223,87,225	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0.4,0.2,0.1
+98.7	PowerFirework	-215,94,233	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0.1,0.5,-0.5
+99.1	PowerFirework	-226,97,222	b11,b11,b11,b11,b11,b11,b11,b11,b11,b11,b11	0.4,0.2,-0.1
+99.4	Firework	-204,79,253	sb8	1	0,2,0	1
+99.4	Firework	-212,79,244	sb8	1	0,2,0	1
+99.4	Firework	-219,79,238	sb8	1	0,2,0	1
+99.4	Firework	-225,79,231	sb8	1	0,2,0	1
+99.4	Firework	-232,79,224	sb8	1	0,2,0	1
+99.4	Firework	-239,79,218	sb8	1	0,2,0	1
+99.4	Firework	-245,79,211	sb8	1	0,2,0	1
+99.4	Firework	-254,79,203	sb8	1	0,2,0	1
+103.4	PowerFirework	-229,87,219	lb11	0,0,0
+103.4	PowerFirework	-225,89,223	lb11	0,0,0
+106.2	PowerFirework	-231,95,217	lb12	0,0,0
+109.7	PowerFirework	-235,93,213	lb12	0,0,0
+111.5	PowerFirework	-223,87,225	lb12	0,0,0
+114	PowerFirework	-219,95,229	lb12	0,0,0
+116.2	PowerFirework	-233,91,215	lb12	0,0,0
+116.2	PowerFirework	-218,87,230	lb12	0,0,0
+118.7	PowerFirework	-232,97,216	lb12	0,0,0
+119.6	PowerFirework	-219,97,229	lb12	0,0,0
+120.9	PowerFirework	-218,95,230	lb12	0,0,0
+122.4	PowerFirework	-208,76,249	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-208,76,249	b12	5.0,8.7,5.0
+122.4	PowerFirework	-217,76,241	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-217,76,241	b12	5.0,8.7,5.0
+122.4	PowerFirework	-222,77,235	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-222,77,235	b12	5.0,8.7,5.0
+122.4	PowerFirework	-229,76,228	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-229,76,228	b12	5.0,8.7,5.0
+122.4	PowerFirework	-236,77,221	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-236,77,221	b12	5.0,8.7,5.0
+122.4	PowerFirework	-242,76,216	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-242,76,216	b12	5.0,8.7,5.0
+122.4	PowerFirework	-250,76,207	b12	-5.0,8.7,-5.0
+122.4	PowerFirework	-250,76,207	b12	5.0,8.7,5.0
+131.4	PowerFirework	-208,76,249	b13	2.25,9.74,2.25
+131.4	PowerFirework	-208,76,249	b13	-2.25,9.74,-2.25
+131.4	PowerFirework	-217,76,241	b13	2.25,9.74,2.25
+131.4	PowerFirework	-217,76,241	b13	-2.25,9.74,-2.25
+131.4	PowerFirework	-222,77,235	b13	2.25,9.74,2.25
+131.4	PowerFirework	-222,77,235	b13	-2.25,9.74,-2.25
+131.4	PowerFirework	-229,76,228	b13	2.25,9.74,2.25
+131.4	PowerFirework	-229,76,228	b13	-2.25,9.74,-2.25
+131.4	PowerFirework	-236,77,221	b13	2.25,9.74,2.25
+131.4	PowerFirework	-236,77,221	b13	-2.25,9.74,-2.25
+131.4	PowerFirework	-242,76,216	b13	2.25,9.74,2.25
+131.4	PowerFirework	-242,76,216	b13	-2.25,9.74,-2.25
+131.4	PowerFirework	-250,76,207	b13	2.25,9.74,2.25
+131.4	PowerFirework	-250,76,207	b13	-2.25,9.74,-2.25
+131.6	PowerFirework	-233,92,215	lb13	0,0,0
+131.6	PowerFirework	-216,95,232	lb13	0,0,0
+132.7	PowerFirework	-221,94,227	lb13	0,0,0
+134.9	PowerFirework	-231,89,217	lb13	0,0,0
+136.1	PowerFirework	-204,75,253	b2	0,8,0
+136.1	PowerFirework	-212,75,244	b2	0,8,0
+136.1	PowerFirework	-219,75,238	b2	0,8,0
+136.1	PowerFirework	-225,75,231	b2	0,8,0
+136.1	PowerFirework	-232,75,224	b2	0,8,0
+136.1	PowerFirework	-239,75,218	b2	0,8,0
+136.1	PowerFirework	-245,75,211	b2	0,8,0
+136.1	PowerFirework	-254,75,203	b2	0,8,0
+136.6	PowerFirework	-229,88,219	lb13	0,0,0
+137.2	PowerFirework	-226,94,222	lb13	0,0,0
+138.4	PowerFirework	-215,94,233	lb13	0,0,0
+139.6	PowerFirework	-235,96,213	lb14g,sb9g	0,0,0
+139.6	PowerFirework	-232,90,216	lb14g,sb9g	0,0,0
+142.5	PowerFirework	-222,96,226	lb14g,sb9g	0,0,0
+141.6	Firework	-204,79,253	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-212,79,244	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-219,79,238	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-225,79,231	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-232,79,224	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-239,79,218	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-245,79,211	sb9g,s1g	1	0,2,0	1
+141.6	Firework	-254,79,203	sb9g,s1g	1	0,2,0	1
+144	Firework	-204,79,253	sb9g,s1g	1	0,2,0	1
+144	Firework	-212,79,244	sb9g,s1g	1	0,2,0	1
+144	Firework	-219,79,238	sb9g,s1g	1	0,2,0	1
+144	Firework	-225,79,231	sb9g,s1g	1	0,2,0	1
+144	Firework	-232,79,224	sb9g,s1g	1	0,2,0	1
+144	Firework	-239,79,218	sb9g,s1g	1	0,2,0	1
+144	Firework	-245,79,211	sb9g,s1g	1	0,2,0	1
+144	Firework	-254,79,203	sb9g,s1g	1	0,2,0	1
+146.5	PowerFirework	-216,95,232	lb15	0,0,0
+147.7	PowerFirework	-227,90,221	lb15	0,0,0
+148	PowerFirework	-218,93,230	lb15	0,0,0
+148.8	PowerFirework	-221,97,227	lb14g,sb9g	0,0,0
+148.8	PowerFirework	-217,95,231	lb14g,sb9g	0,0,0
+150	PowerFirework	-222,88,226	lb14g,sb9g	0,0,0
+150	PowerFirework	-216,94,232	lb14g,sb9g	0,0,0
+150	PowerFirework	-229,88,219	lb14g,sb9g	0,0,0
+150.8	Firework	-204,79,253	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-212,79,244	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-219,79,238	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-225,79,231	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-232,79,224	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-239,79,218	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-245,79,211	sb9g,s1g	1	0,2,0	1
+150.8	Firework	-254,79,203	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-204,79,253	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-212,79,244	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-219,79,238	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-225,79,231	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-232,79,224	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-239,79,218	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-245,79,211	sb9g,s1g	1	0,2,0	1
+153.1	Firework	-254,79,203	sb9g,s1g	1	0,2,0	1
+155.7	PowerFirework	-215,90,233	lb15	0,0,0
+156.3	PowerFirework	-235,96,213	lb15	0,0,0
+157.4	PowerFirework	-227,97,221	lb15	0,0,0
+157.4	PowerFirework	-229,95,219	lb15	0,0,0
+158.1	PowerFirework	-235,93,213	lb15	0,0,0
+158.6	PowerFirework	-221,94,227	s3	0,0,0
+159.1	PowerFirework	-223,88,225	s3	0,0,0
+159.8	PowerFirework	-222,87,226	s3	0,0,0
+159.8	PowerFirework	-219,93,229	s3	0,0,0
+160.6	PowerFirework	-225,92,223	s3	0,0,0
+160.6	PowerFirework	-233,89,215	s3	0,0,0
+161.6	PowerFirework	-231,96,217	s3	0,0,0
+161.6	PowerFirework	-220,91,228	s3	0,0,0
+162.6	PowerFirework	-217,96,231	s3	0,0,0
+162.6	PowerFirework	-217,90,231	s3	0,0,0
+163.2	PowerFirework	-224,88,224	s3	0,0,0
+163.2	PowerFirework	-230,97,218	s3	0,0,0
+163.9	PowerFirework	-232,75,224	b14	1.81,6.76,1.81
+164.4	PowerFirework	-232,75,224	b14	0,8,0
+165	PowerFirework	-232,75,224	b14	-1.81,6.76,-1.81
+165.6	PowerFirework	-239,75,218	b14	1.81,6.76,1.81
+166.2	PowerFirework	-239,75,218	b14	0,8,0
+166.8	PowerFirework	-239,75,218	b14	-1.81,6.76,-1.81
+167.3	PowerFirework	-245,75,211	b14	1.81,6.76,1.81
+167.9	PowerFirework	-245,75,211	b14	0,8,0
+168.5	PowerFirework	-245,75,211	b14	-1.81,6.76,-1.81
+163.9	PowerFirework	-225,75,231	b14	-1.81,6.76,-1.81
+164.4	PowerFirework	-225,75,231	b14	0,8,0
+165	PowerFirework	-225,75,231	b14	1.81,6.76,1.81
+165.6	PowerFirework	-219,75,238	b14	-1.81,6.76,-1.81
+166.2	PowerFirework	-219,75,238	b14	0,8,0
+166.8	PowerFirework	-219,75,238	b14	1.81,6.76,1.81
+167.3	PowerFirework	-212,75,244	b14	-1.81,6.76,-1.81
+167.9	PowerFirework	-212,75,244	b14	0,8,0
+168.5	PowerFirework	-212,75,244	b14	1.81,6.76,1.81
+168.5	PowerFirework	-220,92,228	lb17i	0,0,0
+168.5	PowerFirework	-223,87,225	lb17i	0,0,0
+168.5	PowerFirework	-226,87,222	lb17i	0,0,0
+170.1	PowerFirework	-223,90,225	lb17i	0,0,0
+170.1	PowerFirework	-215,89,233	lb17i	0,0,0
+170.1	PowerFirework	-233,87,215	lb17i	0,0,0
+170.2	PowerFirework	-218,95,230	sb11i	0,0,0
+170.2	PowerFirework	-234,96,214	sb11i	0,0,0
+170.2	PowerFirework	-216,87,232	sb11i	0,0,0
+170.2	PowerFirework	-229,92,219	sb11i	0,0,0
+170.3	PowerFirework	-225,93,223	sb11i	0,0,0
+170.3	PowerFirework	-228,87,220	sb11i	0,0,0
+170.3	PowerFirework	-233,88,215	sb11i	0,0,0
+170.3	PowerFirework	-229,87,219	sb11i	0,0,0
+170.4	PowerFirework	-225,96,223	sb11i	0,0,0
+170.4	PowerFirework	-220,87,228	sb11i	0,0,0
+170.4	PowerFirework	-228,89,220	sb11i	0,0,0
+170.4	PowerFirework	-227,97,221	sb11i	0,0,0
+170.5	PowerFirework	-224,92,224	sb11i	0,0,0
+170.5	PowerFirework	-222,95,226	sb11i	0,0,0
+170.5	PowerFirework	-233,96,215	sb11i	0,0,0
+170.5	PowerFirework	-229,97,219	sb11i	0,0,0
+170.6	PowerFirework	-220,89,228	sb11i	0,0,0
+170.6	PowerFirework	-222,88,226	sb11i	0,0,0
+170.6	PowerFirework	-221,95,227	sb11i	0,0,0
+170.6	PowerFirework	-226,92,222	sb11i	0,0,0
+170.7	PowerFirework	-234,88,214	sb11i	0,0,0
+170.7	PowerFirework	-230,90,218	sb11i	0,0,0
+170.7	PowerFirework	-235,88,213	sb11i	0,0,0
+170.7	PowerFirework	-218,89,230	sb11i	0,0,0
+170.8	PowerFirework	-225,97,223	sb11i	0,0,0
+170.8	PowerFirework	-218,97,230	sb11i	0,0,0
+170.8	PowerFirework	-230,89,218	sb11i	0,0,0
+170.8	PowerFirework	-233,97,215	sb11i	0,0,0
+170.9	PowerFirework	-233,90,215	sb11i	0,0,0
+170.9	PowerFirework	-233,92,215	sb11i	0,0,0
+170.9	PowerFirework	-217,97,231	sb11i	0,0,0
+170.9	PowerFirework	-223,90,225	sb11i	0,0,0
+171	PowerFirework	-235,96,213	sb11i	0,0,0
+171	PowerFirework	-229,96,219	sb11i	0,0,0
+171	PowerFirework	-233,96,215	sb11i	0,0,0
+171	PowerFirework	-234,90,214	sb11i	0,0,0
+171.1	PowerFirework	-220,89,228	sb11i	0,0,0
+171.1	PowerFirework	-217,94,231	sb11i	0,0,0
+171.1	PowerFirework	-232,94,216	sb11i	0,0,0
+171.1	PowerFirework	-228,91,220	sb11i	0,0,0
+171.2	PowerFirework	-230,88,218	sb11i	0,0,0
+171.2	PowerFirework	-235,91,213	sb11i	0,0,0
+171.2	PowerFirework	-234,88,214	sb11i	0,0,0
+171.2	PowerFirework	-232,94,216	sb11i	0,0,0
+171.3	PowerFirework	-229,88,219	sb11i	0,0,0
+171.3	PowerFirework	-230,87,218	sb11i	0,0,0
+171.3	PowerFirework	-229,90,219	sb11i	0,0,0
+171.3	PowerFirework	-223,97,225	sb11i	0,0,0
+171.4	PowerFirework	-224,90,224	sb11i	0,0,0
+171.4	PowerFirework	-226,93,222	sb11i	0,0,0
+171.4	PowerFirework	-230,88,218	sb11i	0,0,0
+171.4	PowerFirework	-221,87,227	sb11i	0,0,0
+171.5	PowerFirework	-232,97,216	sb11i	0,0,0
+171.5	PowerFirework	-216,90,232	sb11i	0,0,0
+171.5	PowerFirework	-224,97,224	sb11i	0,0,0
+171.5	PowerFirework	-234,87,214	sb11i	0,0,0
+171.6	PowerFirework	-231,94,217	sb11i	0,0,0
+171.6	PowerFirework	-232,90,216	sb11i	0,0,0
+171.6	PowerFirework	-222,94,226	sb11i	0,0,0
+171.6	PowerFirework	-226,88,222	sb11i	0,0,0
+171.7	PowerFirework	-215,96,233	sb11i	0,0,0
+171.7	PowerFirework	-233,97,215	sb11i	0,0,0
+171.7	PowerFirework	-215,90,233	sb11i	0,0,0
+171.7	PowerFirework	-233,87,215	sb11i	0,0,0
+171.8	PowerFirework	-215,91,233	sb11i	0,0,0
+171.8	PowerFirework	-230,92,218	sb11i	0,0,0
+171.8	PowerFirework	-216,93,232	sb11i	0,0,0
+171.8	PowerFirework	-226,88,222	sb11i	0,0,0
+171.9	PowerFirework	-216,96,232	sb11i	0,0,0
+171.9	PowerFirework	-227,87,221	sb11i	0,0,0
+171.9	PowerFirework	-231,93,217	sb11i	0,0,0
+171.9	PowerFirework	-223,97,225	sb11i	0,0,0
+172	PowerFirework	-231,94,217	sb11i	0,0,0
+172	PowerFirework	-222,93,226	sb11i	0,0,0
+172	PowerFirework	-219,93,229	sb11i	0,0,0
+172	PowerFirework	-224,93,224	sb11i	0,0,0
+172.1	PowerFirework	-222,97,226	sb11i	0,0,0
+172.1	PowerFirework	-234,94,214	sb11i	0,0,0
+172.1	PowerFirework	-226,89,222	sb11i	0,0,0
+172.1	PowerFirework	-217,93,231	sb11i	0,0,0
+172.2	PowerFirework	-225,96,223	sb11i	0,0,0
+172.2	PowerFirework	-218,87,230	sb11i	0,0,0
+172.2	PowerFirework	-217,90,231	sb11i	0,0,0
+172.2	PowerFirework	-227,88,221	sb11i	0,0,0
+172.3	PowerFirework	-229,89,219	sb11i	0,0,0
+172.3	PowerFirework	-225,95,223	sb11i	0,0,0
+172.3	PowerFirework	-231,93,217	sb11i	0,0,0
+172.3	PowerFirework	-229,87,219	sb11i	0,0,0
+172.4	PowerFirework	-235,92,213	sb11i	0,0,0
+172.4	PowerFirework	-215,95,233	sb11i	0,0,0
+172.4	PowerFirework	-231,88,217	sb11i	0,0,0
+172.4	PowerFirework	-222,95,226	sb11i	0,0,0
+172.5	PowerFirework	-221,95,227	sb11i	0,0,0
+172.5	PowerFirework	-223,96,225	sb11i	0,0,0
+172.5	PowerFirework	-228,92,220	sb11i	0,0,0
+172.5	PowerFirework	-234,90,214	sb11i	0,0,0
+172.6	PowerFirework	-227,87,221	sb11i	0,0,0
+172.6	PowerFirework	-215,90,233	sb11i	0,0,0
+172.6	PowerFirework	-225,90,223	sb11i	0,0,0
+172.6	PowerFirework	-231,88,217	sb11i	0,0,0
+172.7	PowerFirework	-234,96,214	sb11i	0,0,0
+172.7	PowerFirework	-215,94,233	sb11i	0,0,0
+172.7	PowerFirework	-235,88,213	sb11i	0,0,0
+172.7	PowerFirework	-221,96,227	sb11i	0,0,0
+172.8	PowerFirework	-232,93,216	sb11i	0,0,0
+172.8	PowerFirework	-225,89,223	sb11i	0,0,0
+172.8	PowerFirework	-230,92,218	sb11i	0,0,0
+172.8	PowerFirework	-226,92,222	sb11i	0,0,0
+172.9	PowerFirework	-219,94,229	sb11i	0,0,0
+172.9	PowerFirework	-218,93,230	sb11i	0,0,0
+172.9	PowerFirework	-230,91,218	sb11i	0,0,0
+172.9	PowerFirework	-222,92,226	sb11i	0,0,0
+173	PowerFirework	-233,95,215	sb11i	0,0,0
+173	PowerFirework	-227,90,221	sb11i	0,0,0
+173	PowerFirework	-225,89,223	sb11i	0,0,0
+173	PowerFirework	-219,92,229	sb11i	0,0,0
+173.1	PowerFirework	-221,97,227	sb11i	0,0,0
+173.1	PowerFirework	-222,92,226	sb11i	0,0,0
+173.1	PowerFirework	-224,91,224	sb11i	0,0,0
+173.1	PowerFirework	-225,88,223	sb11i	0,0,0
+########################################################################################
+173.2	PowerFirework	-232,75,224	b15	5.14,6.13,5.14
+173.3	PowerFirework	-232,75,224	b15	4.59,6.55,4.59
+173.4	PowerFirework	-232,75,224	b15	4,6.93,4
+173.5	PowerFirework	-232,75,224	b15	3.38,7.25,3.38
+173.6	PowerFirework	-232,75,224	b15	2.74,7.52,2.74
+173.7	PowerFirework	-232,75,224	b15	2.07,7.73,2.07
+173.8	PowerFirework	-232,75,224	b15	1.39,7.88,1.39
+173.9	PowerFirework	-232,75,224	b15	0.7,7.97,0.7
+174	PowerFirework	-232,75,224	b15	0,8,0
+174.1	PowerFirework	-232,75,224	b15	-0.7,7.97,-0.7
+174.2	PowerFirework	-232,75,224	b15	-1.39,7.88,-1.39
+174.3	PowerFirework	-232,75,224	b15	-2.07,7.73,-2.07
+174.4	PowerFirework	-232,75,224	b15	-2.74,7.52,-2.74
+174.5	PowerFirework	-232,75,224	b15	-3.38,7.25,-3.38
+174.6	PowerFirework	-232,75,224	b15	-4,6.93,-4
+174.7	PowerFirework	-232,75,224	b15	-4.59,6.55,-4.59
+174.8	PowerFirework	-232,75,224	b15	-5.14,6.13,-5.14
+173.2	PowerFirework	-225,75,231	b15	-5.14,6.13,-5.14
+173.3	PowerFirework	-225,75,231	b15	-4.59,6.55,-4.59
+173.4	PowerFirework	-225,75,231	b15	-4,6.93,-4
+173.5	PowerFirework	-225,75,231	b15	-3.38,7.25,-3.38
+173.6	PowerFirework	-225,75,231	b15	-2.74,7.52,-2.74
+173.7	PowerFirework	-225,75,231	b15	-2.07,7.73,-2.07
+173.8	PowerFirework	-225,75,231	b15	-1.39,7.88,-1.39
+173.9	PowerFirework	-225,75,231	b15	-0.7,7.97,-0.7
+174	PowerFirework	-225,75,231	b15	0,8,0
+174.1	PowerFirework	-225,75,231	b15	0.7,7.97,0.7
+174.2	PowerFirework	-225,75,231	b15	1.39,7.88,1.39
+174.3	PowerFirework	-225,75,231	b15	2.07,7.73,2.07
+174.4	PowerFirework	-225,75,231	b15	2.74,7.52,2.74
+174.5	PowerFirework	-225,75,231	b15	3.38,7.25,3.38
+174.6	PowerFirework	-225,75,231	b15	4,6.93,4
+174.7	PowerFirework	-225,75,231	b15	4.59,6.55,4.59
+174.8	PowerFirework	-225,75,231	b15	5.14,6.13,5.14
+174.5	PowerFirework	-245,75,211	b15	5.14,6.13,5.14
+174.6	PowerFirework	-245,75,211	b15	4.59,6.55,4.59
+174.7	PowerFirework	-245,75,211	b15	4,6.93,4
+174.8	PowerFirework	-245,75,211	b15	3.38,7.25,3.38
+174.9	PowerFirework	-245,75,211	b15	2.74,7.52,2.74
+175	PowerFirework	-245,75,211	b15	2.07,7.73,2.07
+175.1	PowerFirework	-245,75,211	b15	1.39,7.88,1.39
+175.2	PowerFirework	-245,75,211	b15	0.7,7.97,0.7
+175.3	PowerFirework	-245,75,211	b15	0,8,0
+175.4	PowerFirework	-245,75,211	b15	-0.7,7.97,-0.7
+175.5	PowerFirework	-245,75,211	b15	-1.39,7.88,-1.39
+175.6	PowerFirework	-245,75,211	b15	-2.07,7.73,-2.07
+175.7	PowerFirework	-245,75,211	b15	-2.74,7.52,-2.74
+175.8	PowerFirework	-245,75,211	b15	-3.38,7.25,-3.38
+175.9	PowerFirework	-245,75,211	b15	-4,6.93,-4
+176	PowerFirework	-245,75,211	b15	-4.59,6.55,-4.59
+176.1	PowerFirework	-245,75,211	b15	-5.14,6.13,-5.14
+174.5	PowerFirework	-212,75,244	b15	-5.14,6.13,-5.14
+174.6	PowerFirework	-212,75,244	b15	-4.59,6.55,-4.59
+174.7	PowerFirework	-212,75,244	b15	-4,6.93,-4
+174.8	PowerFirework	-212,75,244	b15	-3.38,7.25,-3.38
+174.9	PowerFirework	-212,75,244	b15	-2.74,7.52,-2.74
+175	PowerFirework	-212,75,244	b15	-2.07,7.73,-2.07
+175.1	PowerFirework	-212,75,244	b15	-1.39,7.88,-1.39
+175.2	PowerFirework	-212,75,244	b15	-0.7,7.97,-0.7
+175.3	PowerFirework	-212,75,244	b15	0,8,0
+175.4	PowerFirework	-212,75,244	b15	0.7,7.97,0.7
+175.5	PowerFirework	-212,75,244	b15	1.39,7.88,1.39
+175.6	PowerFirework	-212,75,244	b15	2.07,7.73,2.07
+175.7	PowerFirework	-212,75,244	b15	2.74,7.52,2.74
+175.8	PowerFirework	-212,75,244	b15	3.38,7.25,3.38
+175.9	PowerFirework	-212,75,244	b15	4,6.93,4
+176	PowerFirework	-212,75,244	b15	4.59,6.55,4.59
+176.1	PowerFirework	-212,75,244	b15	5.14,6.13,5.14
+176	PowerFirework	-219,75,238	b15	5.14,6.13,5.14
+176.1	PowerFirework	-219,75,238	b15	4.59,6.55,4.59
+176.2	PowerFirework	-219,75,238	b15	4,6.93,4
+176.3	PowerFirework	-219,75,238	b15	3.38,7.25,3.38
+176.4	PowerFirework	-219,75,238	b15	2.74,7.52,2.74
+176.5	PowerFirework	-219,75,238	b15	2.07,7.73,2.07
+176.6	PowerFirework	-219,75,238	b15	1.39,7.88,1.39
+176.7	PowerFirework	-219,75,238	b15	0.7,7.97,0.7
+176.8	PowerFirework	-219,75,238	b15	0,8,0
+176.9	PowerFirework	-219,75,238	b15	-0.7,7.97,-0.7
+177	PowerFirework	-219,75,238	b15	-1.39,7.88,-1.39
+177.1	PowerFirework	-219,75,238	b15	-2.07,7.73,-2.07
+177.2	PowerFirework	-219,75,238	b15	-2.74,7.52,-2.74
+177.3	PowerFirework	-219,75,238	b15	-3.38,7.25,-3.38
+177.4	PowerFirework	-219,75,238	b15	-4,6.93,-4
+177.5	PowerFirework	-219,75,238	b15	-4.59,6.55,-4.59
+177.6	PowerFirework	-219,75,238	b15	-5.14,6.13,-5.14
+176	PowerFirework	-239,75,218	b15	-5.14,6.13,-5.14
+176.1	PowerFirework	-239,75,218	b15	-4.59,6.55,-4.59
+176.2	PowerFirework	-239,75,218	b15	-4,6.93,-4
+176.3	PowerFirework	-239,75,218	b15	-3.38,7.25,-3.38
+176.4	PowerFirework	-239,75,218	b15	-2.74,7.52,-2.74
+176.5	PowerFirework	-239,75,218	b15	-2.07,7.73,-2.07
+176.6	PowerFirework	-239,75,218	b15	-1.39,7.88,-1.39
+176.7	PowerFirework	-239,75,218	b15	-0.7,7.97,-0.7
+176.8	PowerFirework	-239,75,218	b15	0,8,0
+176.9	PowerFirework	-239,75,218	b15	0.7,7.97,0.7
+177	PowerFirework	-239,75,218	b15	1.39,7.88,1.39
+177.1	PowerFirework	-239,75,218	b15	2.07,7.73,2.07
+177.2	PowerFirework	-239,75,218	b15	2.74,7.52,2.74
+177.3	PowerFirework	-239,75,218	b15	3.38,7.25,3.38
+177.4	PowerFirework	-239,75,218	b15	4,6.93,4
+177.5	PowerFirework	-239,75,218	b15	4.59,6.55,4.59
+177.6	PowerFirework	-239,75,218	b15	5.14,6.13,5.14
+179.5	PowerFirework	-208,76,249	b12	-1.65,5.77,-1.65
+179.5	PowerFirework	-217,76,241	b12	-1.65,5.77,-1.65
+179.5	PowerFirework	-222,76,235	b12	-1.65,5.77,-1.65
+179.5	PowerFirework	-229,76,228	b12	-1.65,5.77,-1.65
+180.7	PowerFirework	-229,76,228	b12	1.65,5.77,1.65
+180.7	PowerFirework	-236,76,221	b12	1.65,5.77,1.65
+180.7	PowerFirework	-242,76,216	b12	1.65,5.77,1.65
+180.7	PowerFirework	-250,76,207	b12	1.65,5.77,1.65
+181.8	PowerFirework	-204,75,253	b16	1.71,4.7,1.71
+181.8	PowerFirework	-219,75,238	b16	1.71,4.7,1.71
+181.8	PowerFirework	-239,75,218	b16	1.71,4.7,1.71
+181.8	PowerFirework	-254,75,203	b16	1.71,4.7,1.71
+181.8	PowerFirework	-204,75,253	b16	-1.71,4.7,-1.71
+181.8	PowerFirework	-219,75,238	b16	-1.71,4.7,-1.71
+181.8	PowerFirework	-239,75,218	b16	-1.71,4.7,-1.71
+181.8	PowerFirework	-254,75,203	b16	-1.71,4.7,-1.71
+182	PowerFirework	-222,91,226	lb18	0,0,0
+182.1	PowerFirework	-235,93,213	lb18	0,0,0
+182.2	PowerFirework	-226,88,222	lb18	0,0,0
+182.3	PowerFirework	-232,89,216	lb18	0,0,0
+182.4	PowerFirework	-218,93,230	lb18	0,0,0
+182.5	PowerFirework	-227,95,221	lb18	0,0,0
+182.6	PowerFirework	-234,94,214	lb18	0,0,0
+182.7	PowerFirework	-229,93,219	lb18	0,0,0
+191.4	PowerFirework	-216,90,232	b17	-0.2,0.5,0
+193.1	PowerFirework	-227,90,221	b17	0.4,0.1,0.4
+194.3	PowerFirework	-234,88,214	b17	0.2,0.3,-0.2
+194.9	PowerFirework	-228,97,220	b17	0,0.5,-0.3
+196.9	PowerFirework	-216,91,232	b17	0.6,0.1,0
+198.1	PowerFirework	-232,88,216	b17	0.3,0.2,-0.4
+198.9	PowerFirework	-222,93,226	b17	-0.4,0,0.2
+200.2	PowerFirework	-230,95,218	b17	0.3,0.3,-0.3
+201.1	PowerFirework	-227,94,221	b17	0.2,0.3,-0.4
+202.2	PowerFirework	-229,88,219	b17	0.6,0.1,0.2
+207.6	PowerFirework	-234,89,214	lb19j,sb12j	0,0,0
+209.8	PowerFirework	-219,93,229	lb19j,sb12j	0,0,0
+211.8	PowerFirework	-226,87,222	lb19j,sb12j	0,0,0
+213.2	PowerFirework	-234,88,214	lb19j,sb12j	0,0,0
+214.5	PowerFirework	-228,90,220	lb19j,sb12j	0,0,0
+215.8	PowerFirework	-223,88,225	lb19j,sb12j	0,0,0
+216.9	PowerFirework	-232,97,216	lb6	0,0,0
+219.2	PowerFirework	-216,91,232	lb6	0,0,0
+221.5	PowerFirework	-226,87,222	lb6	0,0,0
+223.9	PowerFirework	-216,87,232	lb6	0,0,0
+225.9	PowerFirework	-223,88,225	lb6	0,0,0
+226.4	PowerFirework	-228,93,220	lb19j,sb12j	0,0,0
+226.4	PowerFirework	-234,97,214	lb19j,sb12j	0,0,0
+229.4	PowerFirework	-230,93,218	lb6	0,0,0
+231.4	PowerFirework	-217,95,231	lb19j,sb12j	0,0,0
+231.4	PowerFirework	-222,96,226	lb19j,sb12j	0,0,0
+231.4	PowerFirework	-225,95,223	lb19j,sb12j	0,0,0
+233.2	PowerFirework	-215,88,233	b18	0.4,0.2,-0.1
+233.2	PowerFirework	-228,91,220	b18	0.6,0.1,0.2
+233.2	PowerFirework	-216,91,232	b18	-0.5,0,0.1
+233.2	PowerFirework	-224,88,224	b18	0,0.5,-0.2
+233.2	PowerFirework	-223,92,225	b18	0.4,0.2,-0.1
+239.7	PowerFirework	-216,89,232	b18	0,0.3,-0.4
+239.7	PowerFirework	-230,96,218	b18	0.2,0.3,0.4
+239.7	PowerFirework	-222,88,226	b18	0.4,-0.4,-0.2
+239.7	PowerFirework	-230,91,218	b18	0.1,-0.6,0.1
+239.7	PowerFirework	-227,87,221	b18	0.6,0.1,0
+243.9	PowerFirework	-219,87,229	lb20	0,0,0
+244.6	PowerFirework	-216,90,232	lb20	0,0,0
+245.3	PowerFirework	-222,94,226	lb20	0,0,0
+247.3	PowerFirework	-215,88,233	lb20	0,0,0
+247.3	PowerFirework	-231,95,217	lb20	0,0,0
+249.5	PowerFirework	-221,88,227	lb20	0,0,0
+254	PowerFirework	-234,94,214	lb21	0,0,0
+254	PowerFirework	-217,91,231	lb21	0,0,0
+254	PowerFirework	-220,90,228	lb21	0,0,0
+254	PowerFirework	-223,88,216	lb21	0,0,0
+254	PowerFirework	-227,97,231	lb21	0,0,0
+235	Firework	-204,79,253	b19	1	-5.14,6.13,-5.14	1
+235.4	Firework	-204,79,253	b19	1	-4,6.93,-4	1
+235.8	Firework	-204,79,253	b19	1	-2.74,7.52,-2.74	1
+236.2	Firework	-204,79,253	b19	1	-1.39,7.88,-1.39	1
+236.6	Firework	-204,79,253	b19	1	0,8,0	1
+237	Firework	-204,79,253	b19	1	1.39,7.88,1.39	1
+237.4	Firework	-204,79,253	b19	1	2.74,7.52,2.74	1
+237.8	Firework	-204,79,253	b19	1	4,6.93,4	1
+238.2	Firework	-204,79,253	b19	1	5.14,6.13,5.14	1
+235	Firework	-254,79,203	b19	1	5.14,6.13,5.14	1
+235.4	Firework	-254,79,203	b19	1	4,6.93,4	1
+235.8	Firework	-254,79,203	b19	1	2.74,7.52,2.74	1
+236.2	Firework	-254,79,203	b19	1	1.39,7.88,1.39	1
+236.6	Firework	-254,79,203	b19	1	0,8,0	1
+237	Firework	-254,79,203	b19	1	-1.39,7.88,-1.39	1
+237.4	Firework	-254,79,203	b19	1	-2.74,7.52,-2.74	1
+237.8	Firework	-254,79,203	b19	1	-4,6.93,-4	1
+238.2	Firework	-254,79,203	b19	1	-5.14,6.13,-5.14	1
+235	Firework	-219,79,238	b19	1	-5.14,6.13,-5.14	1
+235.4	Firework	-219,79,238	b19	1	-4,6.93,-4	1
+235.8	Firework	-219,79,238	b19	1	-2.74,7.52,-2.74	1
+236.2	Firework	-219,79,238	b19	1	-1.39,7.88,-1.39	1
+236.6	Firework	-219,79,238	b19	1	0,8,0	1
+237	Firework	-219,79,238	b19	1	1.39,7.88,1.39	1
+237.4	Firework	-219,79,238	b19	1	2.74,7.52,2.74	1
+237.8	Firework	-219,79,238	b19	1	4,6.93,4	1
+238.2	Firework	-219,79,238	b19	1	5.14,6.13,5.14	1
+235	Firework	-239,79,218	b19	1	5.14,6.13,5.14	1
+235.4	Firework	-239,79,218	b19	1	4,6.93,4	1
+235.8	Firework	-239,79,218	b19	1	2.74,7.52,2.74	1
+236.2	Firework	-239,79,218	b19	1	1.39,7.88,1.39	1
+236.6	Firework	-239,79,218	b19	1	0,8,0	1
+237	Firework	-239,79,218	b19	1	-1.39,7.88,-1.39	1
+237.4	Firework	-239,79,218	b19	1	-2.74,7.52,-2.74	1
+237.8	Firework	-239,79,218	b19	1	-4,6.93,-4	1
+238.2	Firework	-239,79,218	b19	1	-5.14,6.13,-5.14	1
+242.2	Firework	-245,79,211	b19	1	-5.14,6.13,-5.14	1
+242.6	Firework	-245,79,211	b19	1	-4,6.93,-4	1
+243	Firework	-245,79,211	b19	1	-2.74,7.52,-2.74	1
+243.4	Firework	-245,79,211	b19	1	-1.39,7.88,-1.39	1
+243.8	Firework	-245,79,211	b19	1	0,8,0	1
+244.2	Firework	-245,79,211	b19	1	1.39,7.88,1.39	1
+244.6	Firework	-245,79,211	b19	1	2.74,7.52,2.74	1
+245	Firework	-245,79,211	b19	1	4,6.93,4	1
+245.4	Firework	-245,79,211	b19	1	5.14,6.13,5.14	1
+242.2	Firework	-212,79,244	b19	1	5.14,6.13,5.14	1
+242.6	Firework	-212,79,244	b19	1	4,6.93,4	1
+243	Firework	-212,79,244	b19	1	2.74,7.52,2.74	1
+243.4	Firework	-212,79,244	b19	1	1.39,7.88,1.39	1
+243.8	Firework	-212,79,244	b19	1	0,8,0	1
+244.2	Firework	-212,79,244	b19	1	-1.39,7.88,-1.39	1
+244.6	Firework	-212,79,244	b19	1	-2.74,7.52,-2.74	1
+245	Firework	-212,79,244	b19	1	-4,6.93,-4	1
+245.4	Firework	-212,79,244	b19	1	-5.14,6.13,-5.14	1
+242.2	Firework	-232,79,224	b19	1	-5.14,6.13,-5.14	1
+242.6	Firework	-232,79,224	b19	1	-4,6.93,-4	1
+243	Firework	-232,79,224	b19	1	-2.74,7.52,-2.74	1
+243.4	Firework	-232,79,224	b19	1	-1.39,7.88,-1.39	1
+243.8	Firework	-232,79,224	b19	1	0,8,0	1
+244.2	Firework	-232,79,224	b19	1	1.39,7.88,1.39	1
+244.6	Firework	-232,79,224	b19	1	2.74,7.52,2.74	1
+245	Firework	-232,79,224	b19	1	4,6.93,4	1
+245.4	Firework	-232,79,224	b19	1	5.14,6.13,5.14	1
+242.2	Firework	-225,79,231	b19	1	5.14,6.13,5.14	1
+242.6	Firework	-225,79,231	b19	1	4,6.93,4	1
+243	Firework	-225,79,231	b19	1	2.74,7.52,2.74	1
+243.4	Firework	-225,79,231	b19	1	1.39,7.88,1.39	1
+243.8	Firework	-225,79,231	b19	1	0,8,0	1
+244.2	Firework	-225,79,231	b19	1	-1.39,7.88,-1.39	1
+244.6	Firework	-225,79,231	b19	1	-2.74,7.52,-2.74	1
+245	Firework	-225,79,231	b19	1	-4,6.93,-4	1
+245.4	Firework	-225,79,231	b19	1	-5.14,6.13,-5.14	1
+263.9	PowerFirework	-224,92,224	lb22k,sb13k	0,0,0
+266	PowerFirework	-221,93,227	lb22k,sb13k	0,0,0
+266.1	PowerFirework	-227,90,221	lb22k,sb13k	0,0,0
+272	PowerFirework	-222,77,235	b20	1,5.9,1
+272	PowerFirework	-222,77,235	b20	-1,5.9,-1
+272.8	PowerFirework	-236,77,221	b20	1,5.9,1
+272.8	PowerFirework	-236,77,221	b20	-1,5.9,-1
+273.8	PowerFirework	-219,75,238	b21	4.9,4.9,4.9
+273.8	PowerFirework	-219,75,238	b21	3.5,6,3.5
+273.8	PowerFirework	-219,75,238	b21	1.8,6.8,1.8
+273.8	PowerFirework	-219,75,238	b21	0,7,0
+273.8	PowerFirework	-219,75,238	b21	-1.8,6.8,-1.8
+273.8	PowerFirework	-219,75,238	b21	-3.5,6,-3.5
+273.8	PowerFirework	-219,75,238	b21	-4.9,4.9,-4.9
+277	PowerFirework	-239,75,218	b21	4.9,4.9,4.9
+277	PowerFirework	-239,75,218	b21	3.5,6,3.5
+277	PowerFirework	-239,75,218	b21	1.8,6.8,1.8
+277	PowerFirework	-239,75,218	b21	0,7,0
+277	PowerFirework	-239,75,218	b21	-1.8,6.8,-1.8
+277	PowerFirework	-239,75,218	b21	-3.5,6,-3.5
+277	PowerFirework	-239,75,218	b21	-4.9,4.9,-4.9
+280.1	PowerFirework	-245,75,211	b21	4.9,4.9,4.9
+280.1	PowerFirework	-245,75,211	b21	3.5,6,3.5
+280.1	PowerFirework	-245,75,211	b21	1.8,6.8,1.8
+280.1	PowerFirework	-245,75,211	b21	0,7,0
+280.1	PowerFirework	-245,75,211	b21	-1.8,6.8,-1.8
+280.1	PowerFirework	-245,75,211	b21	-3.5,6,-3.5
+280.1	PowerFirework	-212,75,244	b21	3.5,6,3.5
+280.1	PowerFirework	-212,75,244	b21	1.8,6.8,1.8
+280.1	PowerFirework	-212,75,244	b21	0,7,0
+280.1	PowerFirework	-212,75,244	b21	-1.8,6.8,-1.8
+280.1	PowerFirework	-212,75,244	b21	-3.5,6,-3.5
+280.1	PowerFirework	-212,75,244	b21	-4.9,4.9,-4.9
+281	Firework	-204,79,253	sb14	1	0,2,0	1
+281	Firework	-212,79,244	sb14	1	0,2,0	1
+281	Firework	-219,79,238	sb14	1	0,2,0	1
+281	Firework	-225,79,231	sb14	1	0,2,0	1
+281	Firework	-232,79,224	sb14	1	0,2,0	1
+281	Firework	-239,79,218	sb14	1	0,2,0	1
+281	Firework	-245,79,211	sb14	1	0,2,0	1
+281	Firework	-254,79,203	sb14	1	0,2,0	1
+286.3	PowerFirework	-204,75,253	b22	2.07,7.73,2.07
+286.3	PowerFirework	-204,75,253	b22	1.39,7.88,1.39
+286.3	PowerFirework	-204,75,253	b22	0.7,7.97,0.7
+286.3	PowerFirework	-204,75,253	b22a	0,8,0
+286.3	PowerFirework	-204,75,253	b22	-0.7,7.97,-0.7
+286.3	PowerFirework	-204,75,253	b22	-1.39,7.88,-1.39
+286.3	PowerFirework	-204,75,253	b22	-2.07,7.73,-2.07
+287.1	PowerFirework	-219,75,238	b22	2.07,7.73,2.07
+287.1	PowerFirework	-219,75,238	b22	1.39,7.88,1.39
+287.1	PowerFirework	-219,75,238	b22	0.7,7.97,0.7
+287.1	PowerFirework	-219,75,238	b22a	0,8,0
+287.1	PowerFirework	-219,75,238	b22	-0.7,7.97,-0.7
+287.1	PowerFirework	-219,75,238	b22	-1.39,7.88,-1.39
+287.1	PowerFirework	-219,75,238	b22	-2.07,7.73,-2.07
+287.9	PowerFirework	-232,75,224	b22	2.07,7.73,2.07
+287.9	PowerFirework	-232,75,224	b22	1.39,7.88,1.39
+287.9	PowerFirework	-232,75,224	b22	0.7,7.97,0.7
+287.9	PowerFirework	-232,75,224	b22a	0,8,0
+287.9	PowerFirework	-232,75,224	b22	-0.7,7.97,-0.7
+287.9	PowerFirework	-232,75,224	b22	-1.39,7.88,-1.39
+287.9	PowerFirework	-232,75,224	b22	-2.07,7.73,-2.07
+288.6	PowerFirework	-245,75,211	b22	2.07,7.73,2.07
+288.6	PowerFirework	-245,75,211	b22	1.39,7.88,1.39
+288.6	PowerFirework	-245,75,211	b22	0.7,7.97,0.7
+288.6	PowerFirework	-245,75,211	b22a	0,8,0
+288.6	PowerFirework	-245,75,211	b22	-0.7,7.97,-0.7
+288.6	PowerFirework	-245,75,211	b22	-1.39,7.88,-1.39
+288.6	PowerFirework	-245,75,211	b22	-2.07,7.73,-2.07
+289.4	PowerFirework	-254,75,203	b22	2.07,7.73,2.07
+289.4	PowerFirework	-254,75,203	b22	1.39,7.88,1.39
+289.4	PowerFirework	-254,75,203	b22	0.7,7.97,0.7
+289.4	PowerFirework	-254,75,203	b22a	0,8,0
+289.4	PowerFirework	-254,75,203	b22	-0.7,7.97,-0.7
+289.4	PowerFirework	-254,75,203	b22	-1.39,7.88,-1.39
+289.4	PowerFirework	-254,75,203	b22	-2.07,7.73,-2.07
+290.2	PowerFirework	-239,75,218	b22	2.07,7.73,2.07
+290.2	PowerFirework	-239,75,218	b22	1.39,7.88,1.39
+290.2	PowerFirework	-239,75,218	b22	0.7,7.97,0.7
+290.2	PowerFirework	-239,75,218	b22a	0,8,0
+290.2	PowerFirework	-239,75,218	b22	-0.7,7.97,-0.7
+290.2	PowerFirework	-239,75,218	b22	-1.39,7.88,-1.39
+290.2	PowerFirework	-239,75,218	b22	-2.07,7.73,-2.07
+290.9	PowerFirework	-225,75,231	b22	2.07,7.73,2.07
+290.9	PowerFirework	-225,75,231	b22	1.39,7.88,1.39
+290.9	PowerFirework	-225,75,231	b22	0.7,7.97,0.7
+290.9	PowerFirework	-225,75,231	b22a	0,8,0
+290.9	PowerFirework	-225,75,231	b22	-0.7,7.97,-0.7
+290.9	PowerFirework	-225,75,231	b22	-1.39,7.88,-1.39
+290.9	PowerFirework	-225,75,231	b22	-2.07,7.73,-2.07
+291.6	PowerFirework	-212,75,244	b22	2.07,7.73,2.07
+291.6	PowerFirework	-212,75,244	b22	1.39,7.88,1.39
+291.6	PowerFirework	-212,75,244	b22	0.7,7.97,0.7
+291.6	PowerFirework	-212,75,244	b22a	0,8,0
+291.6	PowerFirework	-212,75,244	b22	-0.7,7.97,-0.7
+291.6	PowerFirework	-212,75,244	b22	-1.39,7.88,-1.39
+291.6	PowerFirework	-212,75,244	b22	-2.07,7.73,-2.07
+286.3	Firework	-204,79,253	s4	1	1,3,1	1
+286.3	Firework	-204,79,253	s4	1	0,3,0	1
+286.3	Firework	-204,79,253	s4	1	-1,3,-1	1
+287.1	Firework	-219,79,238	s4	1	1,3,1	1
+287.1	Firework	-219,79,238	s4	1	0,3,0	1
+287.1	Firework	-219,79,238	s4	1	-1,3,-1	1
+287.9	Firework	-232,79,224	s4	1	1,3,1	1
+287.9	Firework	-232,79,224	s4	1	0,3,0	1
+287.9	Firework	-232,79,224	s4	1	-1,3,-1	1
+288.6	Firework	-245,79,211	s4	1	1,3,1	1
+288.6	Firework	-245,79,211	s4	1	0,3,0	1
+288.6	Firework	-245,79,211	s4	1	-1,3,-1	1
+289.4	Firework	-254,79,203	s4	1	1,3,1	1
+289.4	Firework	-254,79,203	s4	1	0,3,0	1
+289.4	Firework	-254,79,203	s4	1	-1,3,-1	1
+290.2	Firework	-239,79,218	s4	1	1,3,1	1
+290.2	Firework	-239,79,218	s4	1	0,3,0	1
+290.2	Firework	-239,79,218	s4	1	-1,3,-1	1
+290.9	Firework	-225,79,231	s4	1	1,3,1	1
+290.9	Firework	-225,79,231	s4	1	0,3,0	1
+290.9	Firework	-225,79,231	s4	1	-1,3,-1	1
+291.6	Firework	-212,79,244	s4	1	1,3,1	1
+291.6	Firework	-212,79,244	s4	1	0,3,0	1
+291.6	Firework	-212,79,244	s4	1	-1,3,-1	1
+292.4	PowerFirework	-225,97,223	lb23	0,0,0
+292.9	PowerFirework	-216,89,232	lb23	0,0,0
+293.4	PowerFirework	-224,90,224	lb23	0,0,0
+293.9	PowerFirework	-221,93,227	lb23	0,0,0
+292.5	PowerFirework	-204,75,253	b23	1.39,7.88,1.39
+292.5	PowerFirework	-204,75,253	b23	-1.39,7.88,1.39
+292.5	PowerFirework	-254,75,203	b23	1.39,7.88,1.39
+292.5	PowerFirework	-254,75,203	b23	-1.39,7.88,1.39
+293.2	PowerFirework	-212,75,244	b23	1.39,7.88,1.39
+293.2	PowerFirework	-212,75,244	b23	-1.39,7.88,1.39
+293.2	PowerFirework	-245,75,211	b23	1.39,7.88,1.39
+293.2	PowerFirework	-245,75,211	b23	-1.39,7.88,1.39
+293.9	PowerFirework	-219,75,238	b23	1.39,7.88,1.39
+293.9	PowerFirework	-219,75,238	b23	-1.39,7.88,1.39
+293.9	PowerFirework	-239,75,218	b23	1.39,7.88,1.39
+293.9	PowerFirework	-239,75,218	b23	-1.39,7.88,1.39
+294.6	PowerFirework	-225,75,231	b23	1.39,7.88,1.39
+294.6	PowerFirework	-225,75,231	b23	-1.39,7.88,1.39
+294.6	PowerFirework	-232,75,224	b23	1.39,7.88,1.39
+294.6	PowerFirework	-232,75,224	b23	-1.39,7.88,1.39
+295.3	Firework	-204,79,253	sb15	1	0,2,0	1
+295	Firework	-212,79,244	sb15	1	0,2,0	1
+294.6	Firework	-219,79,238	sb15	1	0,2,0	1
+294.3	Firework	-225,79,231	sb15	1	0,2,0	1
+294.3	Firework	-232,79,224	sb15	1	0,2,0	1
+294.6	Firework	-239,79,218	sb15	1	0,2,0	1
+295	Firework	-245,79,211	sb15	1	0,2,0	1
+295.3	Firework	-254,79,203	sb15	1	0,2,0	1
+297.1	PowerFirework	-250,76,207	b20	1.2,3.8,1.2
+297.1	PowerFirework	-208,76,249	b20	-1.2,3.8,-1.2
+297.3	PowerFirework	-242,76,216	b20	1.2,3.8,1.2
+297.3	PowerFirework	-217,76,241	b20	-1.2,3.8,-1.2
+297.7	PowerFirework	-236,77,221	b20	1.2,3.8,1.2
+297.7	PowerFirework	-222,77,235	b20	-1.2,3.8,-1.2
+298	PowerFirework	-229,76,228	b20	1.2,3.8,1.2
+298	PowerFirework	-229,76,228	b20	-1.2,3.8,-1.2
+299.9	PowerFirework	-204,75,253	b24	0,1,0
+299.9	PowerFirework	-212,75,244	b24	0,1,0
+299.9	PowerFirework	-219,75,238	b24	0,1,0
+299.9	PowerFirework	-225,75,231	b24	0,1,0
+299.9	PowerFirework	-232,75,224	b24	0,1,0
+299.9	PowerFirework	-239,75,218	b24	0,1,0
+299.9	PowerFirework	-245,75,211	b24	0,1,0
+299.9	PowerFirework	-254,75,203	b24	0,1,0
+298.7	Firework	-204,79,253	sb14	1	1,3,1	1
+298.7	Firework	-204,79,253	sb14	1	0,3,0	1
+298.7	Firework	-204,79,253	sb14	1	-1,3,-1	1
+298.7	Firework	-219,79,238	sb14	1	1,3,1	1
+298.7	Firework	-219,79,238	sb14	1	0,3,0	1
+298.7	Firework	-219,79,238	sb14	1	-1,3,-1	1
+298.7	Firework	-232,79,224	sb14	1	1,3,1	1
+298.7	Firework	-232,79,224	sb14	1	0,3,0	1
+298.7	Firework	-232,79,224	sb14	1	-1,3,-1	1
+298.7	Firework	-245,79,211	sb14	1	1,3,1	1
+298.7	Firework	-245,79,211	sb14	1	0,3,0	1
+298.7	Firework	-245,79,211	sb14	1	-1,3,-1	1
+298.7	Firework	-254,79,203	sb14	1	1,3,1	1
+298.7	Firework	-254,79,203	sb14	1	0,3,0	1
+298.7	Firework	-254,79,203	sb14	1	-1,3,-1	1
+298.7	Firework	-239,79,218	sb14	1	1,3,1	1
+298.7	Firework	-239,79,218	sb14	1	0,3,0	1
+298.7	Firework	-239,79,218	sb14	1	-1,3,-1	1
+298.7	Firework	-225,79,231	sb14	1	1,3,1	1
+298.7	Firework	-225,79,231	sb14	1	0,3,0	1
+298.7	Firework	-225,79,231	sb14	1	-1,3,-1	1
+298.7	Firework	-212,79,244	sb14	1	1,3,1	1
+298.7	Firework	-212,79,244	sb14	1	0,3,0	1
+298.7	Firework	-212,79,244	sb14	1	-1,3,-1	1
+310.3	PowerFirework	-208,76,249	b25	5.14,6.13,5.14
+310.4	PowerFirework	-208,76,249	b25	4,6.93,4
+310.5	PowerFirework	-208,76,249	b25	2.74,7.52,2.74
+310.6	PowerFirework	-208,76,249	b25	1.39,7.88,1.39
+310.7	PowerFirework	-208,76,249	b25	0,8,0
+310.8	PowerFirework	-208,76,249	b25	-1.39,7.88,-1.39
+310.9	PowerFirework	-208,76,249	b25	-2.74,7.52,-2.74
+311	PowerFirework	-208,76,249	b25	-4,6.93,-4
+311.1	PowerFirework	-208,76,249	b25	-5.14,6.13,-5.14
+311.2	PowerFirework	-222,77,235	b25	5.14,6.13,5.14
+311.3	PowerFirework	-222,77,235	b25	4,6.93,4
+311.4	PowerFirework	-222,77,235	b25	2.74,7.52,2.74
+311.5	PowerFirework	-222,77,235	b25	1.39,7.88,1.39
+311.6	PowerFirework	-222,77,235	b25	0,8,0
+311.7	PowerFirework	-222,77,235	b25	-1.39,7.88,-1.39
+311.8	PowerFirework	-222,77,235	b25	-2.74,7.52,-2.74
+311.9	PowerFirework	-222,77,235	b25	-4,6.93,-4
+312	PowerFirework	-222,77,235	b25	-5.14,6.13,-5.14
+312.1	PowerFirework	-229,76,228	b25	5.14,6.13,5.14
+312.2	PowerFirework	-229,76,228	b25	4,6.93,4
+312.3	PowerFirework	-229,76,228	b25	2.74,7.52,2.74
+312.4	PowerFirework	-229,76,228	b25	1.39,7.88,1.39
+312.5	PowerFirework	-229,76,228	b25	0,8,0
+312.6	PowerFirework	-229,76,228	b25	-1.39,7.88,-1.39
+312.7	PowerFirework	-229,76,228	b25	-2.74,7.52,-2.74
+312.8	PowerFirework	-229,76,228	b25	-4,6.93,-4
+312.9	PowerFirework	-229,76,228	b25	-5.14,6.13,-5.14
+313	PowerFirework	-236,77,221	b25	5.14,6.13,5.14
+313.1	PowerFirework	-236,77,221	b25	4,6.93,4
+313.2	PowerFirework	-236,77,221	b25	2.74,7.52,2.74
+313.3	PowerFirework	-236,77,221	b25	1.39,7.88,1.39
+313.4	PowerFirework	-236,77,221	b25	0,8,0
+313.5	PowerFirework	-236,77,221	b25	-1.39,7.88,-1.39
+313.6	PowerFirework	-236,77,221	b25	-2.74,7.52,-2.74
+313.7	PowerFirework	-236,77,221	b25	-4,6.93,-4
+313.8	PowerFirework	-236,77,221	b25	-5.14,6.13,-5.14
+313.9	PowerFirework	-250,76,207	b25	5.14,6.13,5.14
+314	PowerFirework	-250,76,207	b25	4,6.93,4
+314.1	PowerFirework	-250,76,207	b25	2.74,7.52,2.74
+314.2	PowerFirework	-250,76,207	b25	1.39,7.88,1.39
+314.3	PowerFirework	-250,76,207	b25	0,8,0
+314.4	PowerFirework	-250,76,207	b25	-1.39,7.88,-1.39
+314.5	PowerFirework	-250,76,207	b25	-2.74,7.52,-2.74
+314.6	PowerFirework	-250,76,207	b25	-4,6.93,-4
+314.7	PowerFirework	-250,76,207	b25	-5.14,6.13,-5.14
+315.6	PowerFirework	-254,75,203	b26	1.69,6.8,1.69
+315.6	PowerFirework	-204,75,253	b26	-1.69,6.8,-1.69
+315.7	PowerFirework	-245,75,211	b26	1.69,6.8,1.69
+315.7	PowerFirework	-212,75,244	b26	-1.69,6.8,-1.69
+315.8	PowerFirework	-239,75,218	b26	1.69,6.8,1.69
+315.8	PowerFirework	-219,75,238	b26	-1.69,6.8,-1.69
+315.9	PowerFirework	-232,75,224	b26	1.69,6.8,1.69
+315.9	PowerFirework	-225,75,231	b26	-1.69,6.8,-1.69
+316	PowerFirework	-225,75,231	b26	1.69,6.8,1.69
+316	PowerFirework	-232,75,224	b26	-1.69,6.8,-1.69
+316.1	PowerFirework	-219,75,238	b26	1.69,6.8,1.69
+316.1	PowerFirework	-239,75,218	b26	-1.69,6.8,-1.69
+316.2	PowerFirework	-212,75,244	b26	1.69,6.8,1.69
+316.2	PowerFirework	-245,75,211	b26	-1.69,6.8,-1.69
+316.3	PowerFirework	-204,75,253	b26	1.69,6.8,1.69
+316.3	PowerFirework	-254,75,203	b26	-1.69,6.8,-1.69
+316.6	PowerFirework	-232,75,224	b27	0,5,0
+316.9	PowerFirework	-219,75,238	b27	0,5,0
+317.2	PowerFirework	-245,75,211	b27	0,5,0
+317.5	PowerFirework	-204,75,253	b27	0,5,0
+317.8	PowerFirework	-254,75,203	b27	0,5,0
+318.1	PowerFirework	-225,75,231	b27	0,5,0
+318.4	PowerFirework	-239,75,218	b27	0,5,0
+318.7	PowerFirework	-212,75,244	b27	0,5,0
+319	PowerFirework	-229,76,228	b25	0,5,0
+319.3	PowerFirework	-219,75,238	b28	0,5,0
+319.6	PowerFirework	-245,75,211	b28	0,5,0
+319.9	PowerFirework	-204,75,253	b28	0,5,0
+320.2	PowerFirework	-212,75,244	b28	0,5,0
+320.5	PowerFirework	-225,75,231	b28	0,5,0
+320.8	PowerFirework	-254,75,203	b28	0,5,0
+321.1	PowerFirework	-232,75,224	b28	0,5,0
+321.4	PowerFirework	-239,75,218	b28	0,5,0
+321.6	PowerFirework	-204,75,253	b25	3.4,9.4,3.4
+321.6	PowerFirework	-204,75,253	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-212,75,244	b25	3.4,9.4,3.4
+321.6	PowerFirework	-212,75,244	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-219,75,238	b25	3.4,9.4,3.4
+321.6	PowerFirework	-219,75,238	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-225,75,231	b25	3.4,9.4,3.4
+321.6	PowerFirework	-225,75,231	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-232,75,224	b25	3.4,9.4,3.4
+321.6	PowerFirework	-232,75,224	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-239,75,218	b25	3.4,9.4,3.4
+321.6	PowerFirework	-239,75,218	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-245,75,211	b25	3.4,9.4,3.4
+321.6	PowerFirework	-245,75,211	b25	-3.4,9.4,-3.4
+321.6	PowerFirework	-254,75,203	b25	3.4,9.4,3.4
+321.6	PowerFirework	-254,75,203	b25	-3.4,9.4,-3.4
+324.6	PowerFirework	-231,88,217	lb24l,sb16l	0,0,0
+326	PowerFirework	-217,91,231	lb24l,sb16l	0,0,0
+326	PowerFirework	-221,94,227	lb24l,sb16l	0,0,0
+329	PowerFirework	-216,94,232	lb24l,sb16l	0,0,0
+330.4	PowerFirework	-219,91,229	lb24l,sb16l	0,0,0
+333.3	PowerFirework	-227,87,228	lb24l,sb16l	0,0,0
+333.3	PowerFirework	-223,93,220	lb24l,sb16l	0,0,0
+336.2	PowerFirework	-231,94,217	lb24l,sb16l	0,0,0
+337.6	PowerFirework	-220,89,228	lb24l,sb16l	0,0,0
+337.6	PowerFirework	-217,87,231	lb24l,sb16l	0,0,0
+339	PowerFirework	-215,96,233	lb25	0,0,0
+339	PowerFirework	-234,88,214	lb25	0,0,0
+340.5	PowerFirework	-228,94,220	lb25	0,0,0
+340.9	PowerFirework	-222,97,226	lb25	0,0,0
+341.2	PowerFirework	-221,92,227	lb25	0,0,0
+341.9	PowerFirework	-230,93,218	lb25	0,0,0
+341.9	PowerFirework	-215,97,233	lb25	0,0,0
+347.3	PowerFirework	-234,92,214	lb26	0,0,0
+347.3	PowerFirework	-229,88,219	lb26	0,0,0
+345	PowerFirework	-254,75,203	b29	2.3,8.7,2.3
+345	PowerFirework	-204,75,253	b29	-2.3,8.7,-2.3
+345.3	PowerFirework	-245,75,211	b29	2.3,8.7,2.3
+345.3	PowerFirework	-212,75,244	b29	-2.3,8.7,-2.3
+345.6	PowerFirework	-239,75,218	b29	2.3,8.7,2.3
+345.6	PowerFirework	-219,75,238	b29	-2.3,8.7,-2.3
+345.9	PowerFirework	-232,75,224	b29	2.3,8.7,2.3
+345.9	PowerFirework	-225,75,231	b29	-2.3,8.7,-2.3
+346.2	PowerFirework	-225,75,231	b29	2.3,8.7,2.3
+346.2	PowerFirework	-232,75,224	b29	-2.3,8.7,-2.3
+346.5	PowerFirework	-219,75,238	b29	2.3,8.7,2.3
+346.5	PowerFirework	-239,75,218	b29	-2.3,8.7,-2.3
+346.8	PowerFirework	-212,75,244	b29	2.3,8.7,2.3
+346.8	PowerFirework	-245,75,211	b29	-2.3,8.7,-2.3
+347.1	PowerFirework	-204,75,253	b29	2.3,8.7,2.3
+347.1	PowerFirework	-254,75,203	b29	-2.3,8.7,-2.3
+348.2	PowerFirework	-225,75,231	b28	1,5.9,1
+348.2	PowerFirework	-232,75,224	b28	-1,5.9,-1
+348.6	PowerFirework	-219,75,238	b28	1,5.9,1
+348.6	PowerFirework	-239,75,218	b28	-1,5.9,-1
+349	PowerFirework	-212,75,244	b28	1,5.9,1
+349	PowerFirework	-245,75,211	b28	-1,5.9,-1
+349.4	PowerFirework	-204,75,253	b28	1,5.9,1
+349.4	PowerFirework	-254,75,203	b28	-1,5.9,-1
+350	PowerFirework	-212,75,244	b27	0,6,0
+350.3	PowerFirework	-239,75,218	b27	0,6,0
+350.6	PowerFirework	-225,75,231	b27	0,6,0
+350.9	PowerFirework	-232,75,224	b27	0,6,0
+351.2	PowerFirework	-245,75,211	b27	0,6,0
+351.5	PowerFirework	-219,75,238	b27	0,6,0
+351.8	PowerFirework	-232,75,224	b27	0,6,0
+352.3	PowerFirework	-233,88,215	lb26	0,0,0
+352.9	PowerFirework	-231,91,217	lb26	0,0,0
+354.6	PowerFirework	-218,97,230	lb26	0,0,0
+355.3	PowerFirework	-215,91,233	lb26	0,0,0
+357	PowerFirework	-232,90,216	lb26,sb17m	0,0,0
+358.2	PowerFirework	-224,97,224	lb26,sb17m	0,0,0
+358.2	PowerFirework	-234,93,214	lb26,sb17m	0,0,0
+359.2	PowerFirework	-230,87,218	lb26,sb17m	0,0,0
+360.2	PowerFirework	-229,89,219	lb26,sb17m	0,0,0
+361.8	PowerFirework	-225,88,224	lb26,sb17m	0,0,0
+362	PowerFirework	-217,91,231	lb27	0,0,0
+362	PowerFirework	-230,92,218	lb27	0,0,0
+363.1	PowerFirework	-221,91,227	lb27	0,0,0
+361.8	PowerFirework	-204,75,253	b30	1.7,9.8,1.7
+361.8	PowerFirework	-204,75,253	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-212,75,244	b30	1.7,9.8,1.7
+361.8	PowerFirework	-212,75,244	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-219,75,238	b30	1.7,9.8,1.7
+361.8	PowerFirework	-219,75,238	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-225,75,231	b30	1.7,9.8,1.7
+361.8	PowerFirework	-225,75,231	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-232,75,224	b30	1.7,9.8,1.7
+361.8	PowerFirework	-232,75,224	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-239,75,218	b30	1.7,9.8,1.7
+361.8	PowerFirework	-239,75,218	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-245,75,211	b30	1.7,9.8,1.7
+361.8	PowerFirework	-245,75,211	b30	-1.7,9.8,-1.7
+361.8	PowerFirework	-254,75,203	b30	1.7,9.8,1.7
+361.8	PowerFirework	-254,75,203	b30	-1.7,9.8,-1.7
+364.3	PowerFirework	-204,75,253	b31	-1.35,5.85,-1.35
+364.3	PowerFirework	-212,75,244	b31	-1.35,5.85,-1.35
+364.3	PowerFirework	-219,75,238	b31	-1.35,5.85,-1.35
+364.3	PowerFirework	-225,75,231	b31	-1.35,5.85,-1.35
+364.5	PowerFirework	-225,90,223	lb27	0,0,0
+364.5	PowerFirework	-232,89,216	lb27	0,0,0
+365.6	PowerFirework	-232,75,224	b31	1.35,5.85,1.35
+365.6	PowerFirework	-239,75,218	b31	1.35,5.85,1.35
+365.6	PowerFirework	-245,75,211	b31	1.35,5.85,1.35
+365.6	PowerFirework	-254,75,203	b31	1.35,5.85,1.35
+365.8	PowerFirework	-215,96,233	lb27	0,0,0
+365.8	PowerFirework	-225,88,223	lb27	0,0,0
+366.8	PowerFirework	-225,75,231	b28	-2.1,7.7,-2.1
+367	PowerFirework	-225,75,231	b28	2.1,7.7,2.1
+367.2	PowerFirework	-219,75,238	b28	-2.1,7.7,-2.1
+367.4	PowerFirework	-219,75,238	b28	2.1,7.7,2.1
+367.6	PowerFirework	-212,75,244	b28	-2.1,7.7,-2.1
+367.8	PowerFirework	-212,75,244	b28	2.1,7.7,2.1
+368	PowerFirework	-204,75,253	b28	-2.1,7.7,-2.1
+368.2	PowerFirework	-204,75,253	b28	2.1,7.7,2.1
+366.8	PowerFirework	-232,75,224	b28	2.1,7.7,2.1
+367	PowerFirework	-232,75,224	b28	-2.1,7.7,-2.1
+367.2	PowerFirework	-239,75,218	b28	2.1,7.7,2.1
+367.4	PowerFirework	-239,75,218	b28	-2.1,7.7,-2.1
+367.6	PowerFirework	-245,75,211	b28	2.1,7.7,2.1
+367.8	PowerFirework	-245,75,211	b28	-2.1,7.7,-2.1
+368	PowerFirework	-254,75,203	b28	2.1,7.7,2.1
+368.2	PowerFirework	-254,75,203	b28	-2.1,7.7,-2.1
+367.2	PowerFirework	-226,95,222	lb28	0,0,0
+368.4	PowerFirework	-229,93,219	lb28	0,0,0
+370.7	PowerFirework	-212,75,244	b28	1.8,7.8,1.8
+370.7	PowerFirework	-225,75,231	b28	1.8,7.8,1.8
+370.7	PowerFirework	-239,75,218	b28	1.8,7.8,1.8
+370.7	PowerFirework	-254,75,203	b28	1.8,7.8,1.8
+370.8	PowerFirework	-234,87,214	lb26	0,0,0
+370.8	PowerFirework	-215,89,233	lb26	0,0,0
+370.8	PowerFirework	-222,95,227	lb26	0,0,0
+371.9	PowerFirework	-204,75,253	b28	-1.8,7.8,-1.8
+371.9	PowerFirework	-219,75,238	b28	-1.8,7.8,-1.8
+371.9	PowerFirework	-232,75,224	b28	-1.8,7.8,-1.8
+371.9	PowerFirework	-245,75,211	b28	-1.8,7.8,-1.8
+372	PowerFirework	-223,96,225	lb26	0,0,0
+372.2	PowerFirework	-215,91,233	lb26	0,0,0
+372.3	PowerFirework	-226,96,222	lb26	0,0,0
+372.5	PowerFirework	-222,93,226	lb26	0,0,0
+374.1	PowerFirework	-232,96,216	lb29	0,0,0
+374.1	PowerFirework	-216,94,232	lb29	0,0,0
+374.1	PowerFirework	-222,91,226	lb29	0,0,0
+374.2	PowerFirework	-217,94,231	lb29	0,0,0
+374.2	PowerFirework	-226,88,222	lb29	0,0,0
+374.2	PowerFirework	-230,96,218	lb29	0,0,0
+374.3	PowerFirework	-216,97,232	lb29	0,0,0
+374.3	PowerFirework	-233,87,215	lb29	0,0,0
+374.3	PowerFirework	-226,92,222	lb29	0,0,0
+377.7	PowerFirework	-208,76,249	b34	0,8,0
+377.7	PowerFirework	-217,76,241	b34	0,8,0
+377.7	PowerFirework	-222,77,235	b34	0,8,0
+377.7	PowerFirework	-229,76,228	b34	0,8,0
+377.7	PowerFirework	-236,77,221	b34	0,8,0
+377.7	PowerFirework	-242,76,216	b34	0,8,0
+377.7	PowerFirework	-250,76,207	b34	0,8,0
+381.9	PowerFirework	-208,76,249	b34	1.8,7.8,1.8
+381.9	PowerFirework	-217,76,241	b34	1.8,7.8,1.8
+381.9	PowerFirework	-222,77,235	b34	1.8,7.8,1.8
+381.9	PowerFirework	-229,76,228	b34	1.8,7.8,1.8
+381.9	PowerFirework	-236,77,221	b34	1.8,7.8,1.8
+381.9	PowerFirework	-242,76,216	b34	1.8,7.8,1.8
+381.9	PowerFirework	-250,76,207	b34	1.8,7.8,1.8
+381.9	PowerFirework	-208,76,249	b34	-1.8,7.8,-1.8
+381.9	PowerFirework	-217,76,241	b34	-1.8,7.8,-1.8
+381.9	PowerFirework	-222,77,235	b34	-1.8,7.8,-1.8
+381.9	PowerFirework	-229,76,228	b34	-1.8,7.8,-1.8
+381.9	PowerFirework	-236,77,221	b34	-1.8,7.8,-1.8
+381.9	PowerFirework	-242,76,216	b34	-1.8,7.8,-1.8
+381.9	PowerFirework	-250,76,207	b34	-1.8,7.8,-1.8
+381	Firework	-204,79,253	sb18	1	0,2,0	1
+381	Firework	-212,79,244	sb18	1	0,2,0	1
+381	Firework	-219,79,238	sb18	1	0,2,0	1
+381	Firework	-225,79,231	sb18	1	0,2,0	1
+381	Firework	-232,79,224	sb18	1	0,2,0	1
+381	Firework	-239,79,218	sb18	1	0,2,0	1
+381	Firework	-245,79,211	sb18	1	0,2,0	1
+381	Firework	-254,79,203	sb18	1	0,2,0	1
+385.9	PowerFirework	-208,76,249	b34	1.8,7.8,1.8
+385.9	PowerFirework	-217,76,241	b34	1.8,7.8,1.8
+385.9	PowerFirework	-222,77,235	b34	1.8,7.8,1.8
+385.9	PowerFirework	-229,76,228	b34	1.8,7.8,1.8
+385.9	PowerFirework	-236,77,221	b34	1.8,7.8,1.8
+385.9	PowerFirework	-242,76,216	b34	1.8,7.8,1.8
+385.9	PowerFirework	-250,76,207	b34	1.8,7.8,1.8
+385.9	PowerFirework	-208,76,249	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-217,76,241	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-222,77,235	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-229,76,228	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-236,77,221	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-242,76,216	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-250,76,207	b34	-1.8,7.8,-1.8
+385.9	PowerFirework	-208,76,249	b34	0,9,0
+385.9	PowerFirework	-217,76,241	b34	0,9,0
+385.9	PowerFirework	-222,77,235	b34	0,9,0
+385.9	PowerFirework	-229,76,228	b34	0,9,0
+385.9	PowerFirework	-236,77,221	b34	0,9,0
+385.9	PowerFirework	-242,76,216	b34	0,9,0
+385.9	PowerFirework	-250,76,207	b34	0,9,0
+384.8	Firework	-204,79,253	sb18	1	0,2,0	1
+384.8	Firework	-212,79,244	sb18	1	0,2,0	1
+384.8	Firework	-219,79,238	sb18	1	0,2,0	1
+384.8	Firework	-225,79,231	sb18	1	0,2,0	1
+384.8	Firework	-232,79,224	sb18	1	0,2,0	1
+384.8	Firework	-239,79,218	sb18	1	0,2,0	1
+384.8	Firework	-245,79,211	sb18	1	0,2,0	1
+384.8	Firework	-254,79,203	sb18	1	0,2,0	1
+389.9	PowerFirework	-224,95,224	lb30n,s5n	0,0,0
+391.9	PowerFirework	-216,93,232	lb30n,s5n	0,0,0
+393.7	PowerFirework	-231,95,217	lb30n,s5n	0,0,0
+395.8	PowerFirework	-221,92,227	lb31	0,0,0
+396.8	PowerFirework	-235,89,213	lb31	0,0,0
+398.8	PowerFirework	-217,97,231	lb31	0,0,0
+399.9	PowerFirework	-234,91,214	lb31	0,0,0
+401.9	PowerFirework	-228,93,220	lb31	0,0,0
+403.9	PowerFirework	-220,97,228	lb31	0,0,0
+405.9	PowerFirework	-217,94,231	lb31	0,0,0
+407.8	PowerFirework	-225,94,223	lb31	0,0,0
+409.8	PowerFirework	-208,76,249	b35	0,8,0
+409.8	PowerFirework	-217,76,241	b35	0,8,0
+409.8	PowerFirework	-222,77,235	b35	0,8,0
+409.8	PowerFirework	-229,76,228	b35	0,8,0
+409.8	PowerFirework	-236,77,221	b35	0,8,0
+409.8	PowerFirework	-242,76,216	b35	0,8,0
+409.8	PowerFirework	-250,76,207	b35	0,8,0
+408.8	Firework	-204,79,253	sb18	1	0,2,0	1
+408.8	Firework	-212,79,244	sb18	1	0,2,0	1
+408.8	Firework	-219,79,238	sb18	1	0,2,0	1
+408.8	Firework	-225,79,231	sb18	1	0,2,0	1
+408.8	Firework	-232,79,224	sb18	1	0,2,0	1
+408.8	Firework	-239,79,218	sb18	1	0,2,0	1
+408.8	Firework	-245,79,211	sb18	1	0,2,0	1
+408.8	Firework	-254,79,203	sb18	1	0,2,0	1
+413.8	PowerFirework	-208,76,249	b35	1.8,7.8,1.8
+413.8	PowerFirework	-217,76,241	b35	1.8,7.8,1.8
+413.8	PowerFirework	-222,77,235	b35	1.8,7.8,1.8
+413.8	PowerFirework	-229,76,228	b35	1.8,7.8,1.8
+413.8	PowerFirework	-236,77,221	b35	1.8,7.8,1.8
+413.8	PowerFirework	-242,76,216	b35	1.8,7.8,1.8
+413.8	PowerFirework	-250,76,207	b35	1.8,7.8,1.8
+413.8	PowerFirework	-208,76,249	b35	-1.8,7.8,-1.8
+413.8	PowerFirework	-217,76,241	b35	-1.8,7.8,-1.8
+413.8	PowerFirework	-222,77,235	b35	-1.8,7.8,-1.8
+413.8	PowerFirework	-229,76,228	b35	-1.8,7.8,-1.8
+413.8	PowerFirework	-236,77,221	b35	-1.8,7.8,-1.8
+413.8	PowerFirework	-242,76,216	b35	-1.8,7.8,-1.8
+413.8	PowerFirework	-250,76,207	b35	-1.8,7.8,-1.8
+412.7	Firework	-204,79,253	sb18	1	0,2,0	1
+412.7	Firework	-212,79,244	sb18	1	0,2,0	1
+412.7	Firework	-219,79,238	sb18	1	0,2,0	1
+412.7	Firework	-225,79,231	sb18	1	0,2,0	1
+412.7	Firework	-232,79,224	sb18	1	0,2,0	1
+412.7	Firework	-239,79,218	sb18	1	0,2,0	1
+412.7	Firework	-245,79,211	sb18	1	0,2,0	1
+412.7	Firework	-254,79,203	sb18	1	0,2,0	1
+415.8	PowerFirework	-232,87,216	lb33	0,0,0
+417.7	PowerFirework	-221,91,227	lb32	0,0,0
+420	PowerFirework	-222,95,226	lb33	0,0,0
+422	PowerFirework	-228,92,220	lb32	0,0,0
+424.3	PowerFirework	-218,91,230	lb33	0,0,0
+426.6	PowerFirework	-220,87,228	lb32	0,0,0
+428.5	PowerFirework	-231,93,217	lb33	0,0,0
+429.7	PowerFirework	-228,90,220	lb32	0,0,0
+429.7	PowerFirework	-225,92,223	lb33	0,0,0
+434.4	PowerFirework	-232,75,224	b22	5.14,6.13,5.14
+434.45	PowerFirework	-232,75,224	b22	4.59,6.55,4.59
+434.5	PowerFirework	-232,75,224	b22	4,6.93,4
+434.55	PowerFirework	-232,75,224	b22	3.38,7.25,3.38
+434.6	PowerFirework	-232,75,224	b22	2.74,7.52,2.74
+434.65	PowerFirework	-232,75,224	b22	2.07,7.73,2.07
+434.7	PowerFirework	-232,75,224	b22	1.39,7.88,1.39
+434.75	PowerFirework	-232,75,224	b22	0.7,7.97,0.7
+434.8	PowerFirework	-232,75,224	b22	0,8,0
+434.85	PowerFirework	-232,75,224	b22	-0.7,7.97,-0.7
+434.9	PowerFirework	-232,75,224	b22	-1.39,7.88,-1.39
+434.95	PowerFirework	-232,75,224	b22	-2.07,7.73,-2.07
+435	PowerFirework	-232,75,224	b22	-2.74,7.52,-2.74
+435.05	PowerFirework	-232,75,224	b22	-3.38,7.25,-3.38
+435.1	PowerFirework	-232,75,224	b22	-4,6.93,-4
+435.15	PowerFirework	-232,75,224	b22	-4.59,6.55,-4.59
+435.2	PowerFirework	-232,75,224	b22	-5.14,6.13,-5.14
+434.4	PowerFirework	-225,75,231	b22	-5.14,6.13,-5.14
+434.45	PowerFirework	-225,75,231	b22	-4.59,6.55,-4.59
+434.5	PowerFirework	-225,75,231	b22	-4,6.93,-4
+434.55	PowerFirework	-225,75,231	b22	-3.38,7.25,-3.38
+434.6	PowerFirework	-225,75,231	b22	-2.74,7.52,-2.74
+434.65	PowerFirework	-225,75,231	b22	-2.07,7.73,-2.07
+434.7	PowerFirework	-225,75,231	b22	-1.39,7.88,-1.39
+434.75	PowerFirework	-225,75,231	b22	-0.7,7.97,-0.7
+434.8	PowerFirework	-225,75,231	b22	0,8,0
+434.85	PowerFirework	-225,75,231	b22	0.7,7.97,0.7
+434.9	PowerFirework	-225,75,231	b22	1.39,7.88,1.39
+434.95	PowerFirework	-225,75,231	b22	2.07,7.73,2.07
+435	PowerFirework	-225,75,231	b22	2.74,7.52,2.74
+435.05	PowerFirework	-225,75,231	b22	3.38,7.25,3.38
+435.1	PowerFirework	-225,75,231	b22	4,6.93,4
+435.15	PowerFirework	-225,75,231	b22	4.59,6.55,4.59
+435.2	PowerFirework	-225,75,231	b22	5.14,6.13,5.14
+434.9	PowerFirework	-239,75,218	b22	5.14,6.13,5.14
+434.95	PowerFirework	-239,75,218	b22	4.59,6.55,4.59
+435	PowerFirework	-239,75,218	b22	4,6.93,4
+435.05	PowerFirework	-239,75,218	b22	3.38,7.25,3.38
+435.1	PowerFirework	-239,75,218	b22	2.74,7.52,2.74
+435.15	PowerFirework	-239,75,218	b22	2.07,7.73,2.07
+435.2	PowerFirework	-239,75,218	b22	1.39,7.88,1.39
+435.25	PowerFirework	-239,75,218	b22	0.7,7.97,0.7
+435.3	PowerFirework	-239,75,218	b22	0,8,0
+435.35	PowerFirework	-239,75,218	b22	-0.7,7.97,-0.7
+435.4	PowerFirework	-239,75,218	b22	-1.39,7.88,-1.39
+435.45	PowerFirework	-239,75,218	b22	-2.07,7.73,-2.07
+435.5	PowerFirework	-239,75,218	b22	-2.74,7.52,-2.74
+435.55	PowerFirework	-239,75,218	b22	-3.38,7.25,-3.38
+435.6	PowerFirework	-239,75,218	b22	-4,6.93,-4
+435.65	PowerFirework	-239,75,218	b22	-4.59,6.55,-4.59
+435.7	PowerFirework	-239,75,218	b22	-5.14,6.13,-5.14
+434.9	PowerFirework	-219,75,238	b22	-5.14,6.13,-5.14
+434.95	PowerFirework	-219,75,238	b22	-4.59,6.55,-4.59
+435	PowerFirework	-219,75,238	b22	-4,6.93,-4
+435.05	PowerFirework	-219,75,238	b22	-3.38,7.25,-3.38
+435.1	PowerFirework	-219,75,238	b22	-2.74,7.52,-2.74
+435.15	PowerFirework	-219,75,238	b22	-2.07,7.73,-2.07
+435.2	PowerFirework	-219,75,238	b22	-1.39,7.88,-1.39
+435.25	PowerFirework	-219,75,238	b22	-0.7,7.97,-0.7
+435.3	PowerFirework	-219,75,238	b22	0,8,0
+435.35	PowerFirework	-219,75,238	b22	0.7,7.97,0.7
+435.4	PowerFirework	-219,75,238	b22	1.39,7.88,1.39
+435.45	PowerFirework	-219,75,238	b22	2.07,7.73,2.07
+435.5	PowerFirework	-219,75,238	b22	2.74,7.52,2.74
+435.55	PowerFirework	-219,75,238	b22	3.38,7.25,3.38
+435.6	PowerFirework	-219,75,238	b22	4,6.93,4
+435.65	PowerFirework	-219,75,238	b22	4.59,6.55,4.59
+435.7	PowerFirework	-219,75,238	b22	5.14,6.13,5.14
+435.4	PowerFirework	-245,75,211	b22	5.14,6.13,5.14
+435.45	PowerFirework	-245,75,211	b22	4.59,6.55,4.59
+435.5	PowerFirework	-245,75,211	b22	4,6.93,4
+435.55	PowerFirework	-245,75,211	b22	3.38,7.25,3.38
+435.6	PowerFirework	-245,75,211	b22	2.74,7.52,2.74
+435.65	PowerFirework	-245,75,211	b22	2.07,7.73,2.07
+435.7	PowerFirework	-245,75,211	b22	1.39,7.88,1.39
+435.75	PowerFirework	-245,75,211	b22	0.7,7.97,0.7
+435.8	PowerFirework	-245,75,211	b22	0,8,0
+435.85	PowerFirework	-245,75,211	b22	-0.7,7.97,-0.7
+435.9	PowerFirework	-245,75,211	b22	-1.39,7.88,-1.39
+435.95	PowerFirework	-245,75,211	b22	-2.07,7.73,-2.07
+436	PowerFirework	-245,75,211	b22	-2.74,7.52,-2.74
+436.05	PowerFirework	-245,75,211	b22	-3.38,7.25,-3.38
+436.1	PowerFirework	-245,75,211	b22	-4,6.93,-4
+436.15	PowerFirework	-245,75,211	b22	-4.59,6.55,-4.59
+436.2	PowerFirework	-245,75,211	b22	-5.14,6.13,-5.14
+435.4	PowerFirework	-212,75,244	b22	-5.14,6.13,-5.14
+435.45	PowerFirework	-212,75,244	b22	-4.59,6.55,-4.59
+435.5	PowerFirework	-212,75,244	b22	-4,6.93,-4
+435.55	PowerFirework	-212,75,244	b22	-3.38,7.25,-3.38
+435.6	PowerFirework	-212,75,244	b22	-2.74,7.52,-2.74
+435.65	PowerFirework	-212,75,244	b22	-2.07,7.73,-2.07
+435.7	PowerFirework	-212,75,244	b22	-1.39,7.88,-1.39
+435.75	PowerFirework	-212,75,244	b22	-0.7,7.97,-0.7
+435.8	PowerFirework	-212,75,244	b22	0,8,0
+435.85	PowerFirework	-212,75,244	b22	0.7,7.97,0.7
+435.9	PowerFirework	-212,75,244	b22	1.39,7.88,1.39
+435.95	PowerFirework	-212,75,244	b22	2.07,7.73,2.07
+436	PowerFirework	-212,75,244	b22	2.74,7.52,2.74
+436.05	PowerFirework	-212,75,244	b22	3.38,7.25,3.38
+436.1	PowerFirework	-212,75,244	b22	4,6.93,4
+436.15	PowerFirework	-212,75,244	b22	4.59,6.55,4.59
+436.2	PowerFirework	-212,75,244	b22	5.14,6.13,5.14
+436.2	PowerFirework	-233,89,215	lb34o,s6o	0,0,0
+437.1	PowerFirework	-224,94,224	lb35o,s6o	0,0,0
+437.1	PowerFirework	-221,90,227	lb35o,s6o	0,0,0
+438.4	PowerFirework	-232,96,216	lb34o,s6o	0,0,0
+438.9	PowerFirework	-235,97,213	lb35o,s6o	0,0,0
+439.4	PowerFirework	-221,90,227	lb34o,s6o	0,0,0
+440.2	PowerFirework	-225,95,223	lb35o,s6o	0,0,0
+440.2	PowerFirework	-220,91,228	lb34o,s6o	0,0,0
+442.2	PowerFirework	-217,95,231	lb35o,s6o	0,0,0
+442.2	PowerFirework	-231,97,217	lb34o,s6o	0,0,0
+443.3	PowerFirework	-254,75,203	b37	2,8.8,2
+443.5	PowerFirework	-245,75,211	b37	2,8.8,2
+443.7	PowerFirework	-239,75,218	b37	2,8.8,2
+443.9	PowerFirework	-232,75,224	b37	2,8.8,2
+444.1	PowerFirework	-225,75,231	b37	2,8.8,2
+444.3	PowerFirework	-219,75,238	b37	2,8.8,2
+444.5	PowerFirework	-212,75,244	b37	2,8.8,2
+444.7	PowerFirework	-204,75,253	b37	2,8.8,2
+443.5	PowerFirework	-204,75,253	b37	-2,8.8,-2
+443.7	PowerFirework	-212,75,244	b37	-2,8.8,-2
+443.9	PowerFirework	-219,75,238	b37	-2,8.8,-2
+444.1	PowerFirework	-225,75,231	b37	-2,8.8,-2
+444.3	PowerFirework	-232,75,224	b37	-2,8.8,-2
+444.5	PowerFirework	-239,75,218	b37	-2,8.8,-2
+444.7	PowerFirework	-245,75,211	b37	-2,8.8,-2
+444.9	PowerFirework	-254,75,203	b37	-2,8.8,-2
+445.3	PowerFirework	-208,76,249	b38,b38,b38,b38,b38	-2,5.6,-2
+445.3	PowerFirework	-217,76,241	b38,b38,b38,b38,b38	-2,5.6,-2
+445.3	PowerFirework	-222,77,235	b38,b38,b38,b38,b38	-2,5.6,-2
+445.3	PowerFirework	-229,76,228	b38,b38,b38,b38,b38	-2,5.6,-2
+445.3	PowerFirework	-236,77,221	b38,b38,b38,b38,b38	-2,5.6,-2
+445.3	PowerFirework	-242,76,216	b38,b38,b38,b38,b38	-2,5.6,-2
+445.3	PowerFirework	-250,76,207	b38,b38,b38,b38,b38	-2,5.6,-2
+447.1	PowerFirework	-208,76,249	b38,b38,b38,b38,b38	2,5.6,2
+447.1	PowerFirework	-217,76,241	b38,b38,b38,b38,b38	2,5.6,2
+447.1	PowerFirework	-222,77,235	b38,b38,b38,b38,b38	2,5.6,2
+447.1	PowerFirework	-229,76,228	b38,b38,b38,b38,b38	2,5.6,2
+447.1	PowerFirework	-236,77,221	b38,b38,b38,b38,b38	2,5.6,2
+447.1	PowerFirework	-242,76,216	b38,b38,b38,b38,b38	2,5.6,2
+447.1	PowerFirework	-250,76,207	b38,b38,b38,b38,b38	2,5.6,2
+448.9	PowerFirework	-218,87,230	lb36p,lb37p	0,0,0
+450.4	PowerFirework	-228,92,220	lb36p,lb37p	0,0,0
+451.1	PowerFirework	-221,90,227	lb36p,lb37p	0,0,0
+452	PowerFirework	-226,88,222	lb36p,lb37p	0,0,0
+454.5	PowerFirework	-208,76,249	b38,b38,b38,b38,b38	-2,5.6,-2
+454.5	PowerFirework	-217,76,241	b38,b38,b38,b38,b38	-2,5.6,-2
+454.5	PowerFirework	-222,77,235	b38,b38,b38,b38,b38	-2,5.6,-2
+454.5	PowerFirework	-229,76,228	b38,b38,b38,b38,b38	-2,5.6,-2
+454.5	PowerFirework	-236,77,221	b38,b38,b38,b38,b38	-2,5.6,-2
+454.5	PowerFirework	-242,76,216	b38,b38,b38,b38,b38	-2,5.6,-2
+454.5	PowerFirework	-250,76,207	b38,b38,b38,b38,b38	-2,5.6,-2
+456.4	PowerFirework	-208,76,249	b38,b38,b38,b38,b38	2,5.6,2
+456.4	PowerFirework	-217,76,241	b38,b38,b38,b38,b38	2,5.6,2
+456.4	PowerFirework	-222,77,235	b38,b38,b38,b38,b38	2,5.6,2
+456.4	PowerFirework	-229,76,228	b38,b38,b38,b38,b38	2,5.6,2
+456.4	PowerFirework	-236,77,221	b38,b38,b38,b38,b38	2,5.6,2
+456.4	PowerFirework	-242,76,216	b38,b38,b38,b38,b38	2,5.6,2
+456.4	PowerFirework	-250,76,207	b38,b38,b38,b38,b38	2,5.6,2
+458.3	PowerFirework	-225,93,223	lb36p,lb37p	0,0,0
+458.7	PowerFirework	-217,87,231	lb36p,lb37p	0,0,0
+462.2	PowerFirework	-222,93,226	lb36p,lb37p	0,0,0
+462.2	PowerFirework	-230,95,218	lb36p,lb37p	0,0,0
+465.6	PowerFirework	-231,88,217	s7q,sbq	0,0,0
+465.6	PowerFirework	-215,94,233	s7q,sbq	0,0,0
+466.8	PowerFirework	-222,94,226	s7q,sbq	0,0,0
+466.8	PowerFirework	-225,93,223	s7q,sbq	0,0,0
+466.8	PowerFirework	-217,91,231	s7q,sbq	0,0,0
+468.1	PowerFirework	-230,93,218	s7q,sbq	0,0,0
+469.1	PowerFirework	-219,95,229	s7q,sbq	0,0,0
+470.3	PowerFirework	-204,75,253	b25	0,10,0
+470.3	PowerFirework	-212,75,244	b25	0,10,0
+470.3	PowerFirework	-219,75,238	b25	0,10,0
+470.3	PowerFirework	-225,75,231	b25	0,10,0
+470.3	PowerFirework	-232,75,224	b25	0,10,0
+470.3	PowerFirework	-239,75,218	b25	0,10,0
+470.3	PowerFirework	-245,75,211	b25	0,10,0
+470.3	PowerFirework	-254,75,203	b25	0,10,0
+471.5	PowerFirework	-204,75,253	b25	3.4,10,3.4
+471.5	PowerFirework	-212,75,244	b25	3.4,10,3.4
+471.5	PowerFirework	-219,75,238	b25	3.4,10,3.4
+471.5	PowerFirework	-225,75,231	b25	3.4,10,3.4
+471.5	PowerFirework	-232,75,224	b25	3.4,10,3.4
+471.5	PowerFirework	-239,75,218	b25	3.4,10,3.4
+471.5	PowerFirework	-245,75,211	b25	3.4,10,3.4
+471.5	PowerFirework	-254,75,203	b25	3.4,10,3.4
+471.5	PowerFirework	-204,75,253	b25	-3.4,10,-3.4
+471.5	PowerFirework	-212,75,244	b25	-3.4,10,-3.4
+471.5	PowerFirework	-219,75,238	b25	-3.4,10,-3.4
+471.5	PowerFirework	-225,75,231	b25	-3.4,10,-3.4
+471.5	PowerFirework	-232,75,224	b25	-3.4,10,-3.4
+471.5	PowerFirework	-239,75,218	b25	-3.4,10,-3.4
+471.5	PowerFirework	-245,75,211	b25	-3.4,10,-3.4
+471.5	PowerFirework	-254,75,203	b25	-3.4,10,-3.4
+#Finale
+474.5	PowerFirework	-204,75,253	b39	-1.8,6.8,-1.8
+474.5	PowerFirework	-212,75,244	b39	-1.8,6.8,-1.8
+474.5	PowerFirework	-219,75,238	b39	1.8,6.8,1.8
+474.5	PowerFirework	-225,75,231	b39	-1.8,6.8,-1.8
+474.5	PowerFirework	-232,75,224	b39	1.8,6.8,1.8
+474.5	PowerFirework	-239,75,218	b39	-1.8,6.8,-1.8
+474.5	PowerFirework	-245,75,211	b39	1.8,6.8,1.8
+474.5	PowerFirework	-254,75,203	b39	1.8,6.8,1.8
+475.3	PowerFirework	-226,92,222	lb38	0,0,0
+475.3	PowerFirework	-218,89,230	lb38	0,0,0
+475.3	PowerFirework	-217,93,231	lb38	0,0,0
+476	PowerFirework	-204,75,253	b40	1.8,6.8,1.8
+476	PowerFirework	-212,75,244	b40	1.8,6.8,1.8
+476	PowerFirework	-219,75,238	b40	-1.8,6.8,-1.8
+476	PowerFirework	-225,75,231	b40	1.8,6.8,1.8
+476	PowerFirework	-232,75,224	b40	-1.8,6.8,-1.8
+476	PowerFirework	-239,75,218	b40	1.8,6.8,1.8
+476	PowerFirework	-245,75,211	b40	-1.8,6.8,-1.8
+476	PowerFirework	-254,75,203	b40	-1.8,6.8,-1.8
+476.6	PowerFirework	-222,90,226	lb38	0,0,0
+476.6	PowerFirework	-235,87,213	lb38	0,0,0
+476.6	PowerFirework	-229,91,219	lb38	0,0,0
+477.4	PowerFirework	-204,75,253	b41	-1.8,6.8,-1.8
+477.4	PowerFirework	-212,75,244	b41	-1.8,6.8,-1.8
+477.4	PowerFirework	-219,75,238	b41	1.8,6.8,1.8
+477.4	PowerFirework	-225,75,231	b41	-1.8,6.8,-1.8
+477.4	PowerFirework	-232,75,224	b41	1.8,6.8,1.8
+477.4	PowerFirework	-239,75,218	b41	-1.8,6.8,-1.8
+477.4	PowerFirework	-245,75,211	b41	1.8,6.8,1.8
+477.4	PowerFirework	-254,75,203	b41	1.8,6.8,1.8
+478.1	PowerFirework	-230,88,218	lb38	0,0,0
+478.1	PowerFirework	-220,87,228	lb38	0,0,0
+478.1	PowerFirework	-219,87,229	lb38	0,0,0
+478.8	PowerFirework	-204,75,253	b42	1.8,6.8,1.8
+478.8	PowerFirework	-212,75,244	b42	1.8,6.8,1.8
+478.8	PowerFirework	-219,75,238	b42	-1.8,6.8,-1.8
+478.8	PowerFirework	-225,75,231	b42	1.8,6.8,1.8
+478.8	PowerFirework	-232,75,224	b42	-1.8,6.8,-1.8
+478.8	PowerFirework	-239,75,218	b42	1.8,6.8,1.8
+478.8	PowerFirework	-245,75,211	b42	-1.8,6.8,-1.8
+478.8	PowerFirework	-254,75,203	b42	-1.8,6.8,-1.8
+479.7	PowerFirework	-235,89,213	lb38	0,0,0
+479.8	PowerFirework	-230,87,218	lb38	0,0,0
+479.9	PowerFirework	-217,90,231	lb38	0,0,0
+481.1	PowerFirework	-229,76,228	b23	0,10,0
+481.1	PowerFirework	-229,76,228	b23	2.76,9.6,2.76
+481.1	PowerFirework	-229,76,228	b23	-2.76,9.6,-2.76
+481.1	PowerFirework	-222,77,235	b23	0,10,0
+481.1	PowerFirework	-222,77,235	b23	2.76,9.6,2.76
+481.1	PowerFirework	-222,77,235	b23	-2.76,9.6,-2.76
+481.1	PowerFirework	-208,76,249	b23	0,10,0
+481.1	PowerFirework	-208,76,249	b23	2.76,9.6,2.76
+481.1	PowerFirework	-208,76,249	b23	-2.76,9.6,-2.76
+481.1	PowerFirework	-250,76,207	b23	0,10,0
+481.1	PowerFirework	-250,76,207	b23	2.76,9.6,2.76
+481.1	PowerFirework	-250,76,207	b23	-2.76,9.6,-2.76
+481.1	PowerFirework	-236,77,221	b23	0,10,0
+481.1	PowerFirework	-236,77,221	b23	2.76,9.6,2.76
+481.1	PowerFirework	-236,77,221	b23	-2.76,9.6,-2.76
+481.5	PowerFirework	-220,89,228	lb28	0,0,0
+481.8	PowerFirework	-232,89,216	lb28	0,0,0
+482.1	PowerFirework	-222,91,226	lb28	0,0,0
+482.4	PowerFirework	-230,88,218	lb28	0,0,0
+482.7	PowerFirework	-219,87,229	lb28	0,0,0
+483	PowerFirework	-215,91,233	lb28	0,0,0
+483.3	PowerFirework	-234,94,214	lb28	0,0,0
+483.6	PowerFirework	-226,97,222	lb28	0,0,0
+483.9	PowerFirework	-228,90,220	lb28	0,0,0
+484.2	PowerFirework	-230,94,218	lb28	0,0,0
+484.5	PowerFirework	-221,92,227	lb28	0,0,0
+484.8	PowerFirework	-225,92,223	lb28	0,0,0
+485.1	PowerFirework	-219,93,229	lb28	0,0,0
+485.4	PowerFirework	-215,87,233	lb28	0,0,0
+485.7	PowerFirework	-234,88,214	lb28	0,0,0
+486	PowerFirework	-222,95,226	lb28	0,0,0
+486.3	PowerFirework	-217,94,231	lb28	0,0,0
+486.6	PowerFirework	-216,97,232	lb28	0,0,0
+487.4	PowerFirework	-233,89,215	lb28	0,0,0
+487.4	PowerFirework	-228,94,220	lb28	0,0,0
+487.4	PowerFirework	-229,94,219	lb28	0,0,0
+487.4	PowerFirework	-223,87,225	lb28	0,0,0
+487.4	PowerFirework	-217,92,231	lb28	0,0,0
+490.6	PowerFirework	-219,95,229	lb28	0,0,0
+490.7	PowerFirework	-227,92,221	lb38	0,0,0
+490.8	PowerFirework	-231,90,217	lb32	0,0,0
+490.9	PowerFirework	-222,88,226	lb28	0,0,0
+491	PowerFirework	-219,93,229	lb1a	0,0,0
+491.1	PowerFirework	-229,97,219	lb10f	0,0,0
+491.2	PowerFirework	-232,92,216	lb28	0,0,0
+491.3	PowerFirework	-215,92,233	lb33	0,0,0
+491.4	PowerFirework	-220,95,228	lb27	0,0,0
+491.5	PowerFirework	-224,89,224	lb28	0,0,0
+491.6	PowerFirework	-229,97,219	lb38	0,0,0
+491.7	PowerFirework	-220,95,228	lb32	0,0,0
+491.8	PowerFirework	-221,93,227	lb28	0,0,0
+491.9	PowerFirework	-218,91,230	lb1a	0,0,0
+492	PowerFirework	-217,89,231	lb10f	0,0,0
+492.1	PowerFirework	-222,94,226	lb28	0,0,0
+492.2	PowerFirework	-228,89,220	lb33	0,0,0
+492.3	PowerFirework	-220,90,228	lb27	0,0,0
+492.4	PowerFirework	-223,90,225	lb28	0,0,0
+492.5	PowerFirework	-224,93,224	lb38	0,0,0
+492.6	PowerFirework	-228,94,220	lb32	0,0,0
+492.7	PowerFirework	-233,95,215	lb28	0,0,0
+492.8	PowerFirework	-232,94,216	lb1a	0,0,0
+492.9	PowerFirework	-228,96,220	lb10f	0,0,0
+493	PowerFirework	-216,90,232	lb28	0,0,0
+493.1	PowerFirework	-225,95,223	lb33	0,0,0
+493.2	PowerFirework	-217,91,231	lb27	0,0,0
+493.3	PowerFirework	-235,88,213	lb28	0,0,0
+493.4	PowerFirework	-229,92,219	lb38	0,0,0
+493.5	PowerFirework	-227,90,221	lb32	0,0,0
+493.6	PowerFirework	-235,87,213	lb28	0,0,0
+493.7	PowerFirework	-235,93,213	lb1a	0,0,0
+493.8	PowerFirework	-227,89,221	lb10f	0,0,0
+493.9	PowerFirework	-233,89,215	lb28	0,0,0
+494	PowerFirework	-225,87,223	lb33	0,0,0
+488.7	PowerFirework	-232,75,224	b32	5.14,6.13,5.14
+488.75	PowerFirework	-232,75,224	b32	4.59,6.55,4.59
+488.8	PowerFirework	-232,75,224	b32	4,6.93,4
+488.85	PowerFirework	-232,75,224	b32	3.38,7.25,3.38
+488.9	PowerFirework	-232,75,224	b32	2.74,7.52,2.74
+488.95	PowerFirework	-232,75,224	b32	2.07,7.73,2.07
+489	PowerFirework	-232,75,224	b32	1.39,7.88,1.39
+489.05	PowerFirework	-232,75,224	b32	0.7,7.97,0.7
+489.1	PowerFirework	-232,75,224	b32	0,8,0
+489.15	PowerFirework	-232,75,224	b32	-0.7,7.97,-0.7
+489.2	PowerFirework	-232,75,224	b32	-1.39,7.88,-1.39
+489.25	PowerFirework	-232,75,224	b32	-2.07,7.73,-2.07
+489.3	PowerFirework	-232,75,224	b32	-2.74,7.52,-2.74
+489.35	PowerFirework	-232,75,224	b32	-3.38,7.25,-3.38
+489.4	PowerFirework	-232,75,224	b32	-4,6.93,-4
+489.45	PowerFirework	-232,75,224	b32	-4.59,6.55,-4.59
+489.5	PowerFirework	-232,75,224	b32	-5.14,6.13,-5.14
+489.5	PowerFirework	-225,75,231	b32	5.14,6.13,5.14
+489.45	PowerFirework	-225,75,231	b32	4.59,6.55,4.59
+489.4	PowerFirework	-225,75,231	b32	4,6.93,4
+489.35	PowerFirework	-225,75,231	b32	3.38,7.25,3.38
+489.3	PowerFirework	-225,75,231	b32	2.74,7.52,2.74
+489.25	PowerFirework	-225,75,231	b32	2.07,7.73,2.07
+489.2	PowerFirework	-225,75,231	b32	1.39,7.88,1.39
+489.15	PowerFirework	-225,75,231	b32	0.7,7.97,0.7
+489.1	PowerFirework	-225,75,231	b32	0,8,0
+489.05	PowerFirework	-225,75,231	b32	-0.7,7.97,-0.7
+489	PowerFirework	-225,75,231	b32	-1.39,7.88,-1.39
+488.95	PowerFirework	-225,75,231	b32	-2.07,7.73,-2.07
+488.9	PowerFirework	-225,75,231	b32	-2.74,7.52,-2.74
+488.85	PowerFirework	-225,75,231	b32	-3.38,7.25,-3.38
+488.8	PowerFirework	-225,75,231	b32	-4,6.93,-4
+488.75	PowerFirework	-225,75,231	b32	-4.59,6.55,-4.59
+488.7	PowerFirework	-225,75,231	b32	-5.14,6.13,-5.14
+489.0	PowerFirework	-239,75,218	b32	5.14,6.13,5.14
+489.05	PowerFirework	-239,75,218	b32	4.59,6.55,4.59
+489.1	PowerFirework	-239,75,218	b32	4,6.93,4
+489.15	PowerFirework	-239,75,218	b32	3.38,7.25,3.38
+489.2	PowerFirework	-239,75,218	b32	2.74,7.52,2.74
+489.25	PowerFirework	-239,75,218	b32	2.07,7.73,2.07
+489.3	PowerFirework	-239,75,218	b32	1.39,7.88,1.39
+489.35	PowerFirework	-239,75,218	b32	0.7,7.97,0.7
+489.4	PowerFirework	-239,75,218	b32	0,8,0
+489.45	PowerFirework	-239,75,218	b32	-0.7,7.97,-0.7
+489.5	PowerFirework	-239,75,218	b32	-1.39,7.88,-1.39
+489.55	PowerFirework	-239,75,218	b32	-2.07,7.73,-2.07
+489.6	PowerFirework	-239,75,218	b32	-2.74,7.52,-2.74
+489.65	PowerFirework	-239,75,218	b32	-3.38,7.25,-3.38
+489.7	PowerFirework	-239,75,218	b32	-4,6.93,-4
+489.75	PowerFirework	-239,75,218	b32	-4.59,6.55,-4.59
+489.8	PowerFirework	-239,75,218	b32	-5.14,6.13,-5.14
+489.8	PowerFirework	-219,75,238	b32	5.14,6.13,5.14
+489.75	PowerFirework	-219,75,238	b32	4.59,6.55,4.59
+489.7	PowerFirework	-219,75,238	b32	4,6.93,4
+489.65	PowerFirework	-219,75,238	b32	3.38,7.25,3.38
+489.6	PowerFirework	-219,75,238	b32	2.74,7.52,2.74
+489.55	PowerFirework	-219,75,238	b32	2.07,7.73,2.07
+489.5	PowerFirework	-219,75,238	b32	1.39,7.88,1.39
+489.45	PowerFirework	-219,75,238	b32	0.7,7.97,0.7
+489.4	PowerFirework	-219,75,238	b32	0,8,0
+489.35	PowerFirework	-219,75,238	b32	-0.7,7.97,-0.7
+489.3	PowerFirework	-219,75,238	b32	-1.39,7.88,-1.39
+489.25	PowerFirework	-219,75,238	b32	-2.07,7.73,-2.07
+489.2	PowerFirework	-219,75,238	b32	-2.74,7.52,-2.74
+489.15	PowerFirework	-219,75,238	b32	-3.38,7.25,-3.38
+489.1	PowerFirework	-219,75,238	b32	-4,6.93,-4
+489.05	PowerFirework	-219,75,238	b32	-4.59,6.55,-4.59
+489.0	PowerFirework	-219,75,238	b32	-5.14,6.13,-5.14
+489.3	PowerFirework	-245,75,211	b32	5.14,6.13,5.14
+489.35	PowerFirework	-245,75,211	b32	4.59,6.55,4.59
+489.4	PowerFirework	-245,75,211	b32	4,6.93,4
+489.45	PowerFirework	-245,75,211	b32	3.38,7.25,3.38
+489.5	PowerFirework	-245,75,211	b32	2.74,7.52,2.74
+489.55	PowerFirework	-245,75,211	b32	2.07,7.73,2.07
+489.6	PowerFirework	-245,75,211	b32	1.39,7.88,1.39
+489.65	PowerFirework	-245,75,211	b32	0.7,7.97,0.7
+489.7	PowerFirework	-245,75,211	b32	0,8,0
+489.75	PowerFirework	-245,75,211	b32	-0.7,7.97,-0.7
+489.8	PowerFirework	-245,75,211	b32	-1.39,7.88,-1.39
+489.85	PowerFirework	-245,75,211	b32	-2.07,7.73,-2.07
+489.9	PowerFirework	-245,75,211	b32	-2.74,7.52,-2.74
+489.95	PowerFirework	-245,75,211	b32	-3.38,7.25,-3.38
+490.0	PowerFirework	-245,75,211	b32	-4,6.93,-4
+490.05	PowerFirework	-245,75,211	b32	-4.59,6.55,-4.59
+490.1	PowerFirework	-245,75,211	b32	-5.14,6.13,-5.14
+490.1	PowerFirework	-212,75,244	b32	5.14,6.13,5.14
+490.05	PowerFirework	-212,75,244	b32	4.59,6.55,4.59
+490.0	PowerFirework	-212,75,244	b32	4,6.93,4
+489.95	PowerFirework	-212,75,244	b32	3.38,7.25,3.38
+489.9	PowerFirework	-212,75,244	b32	2.74,7.52,2.74
+489.85	PowerFirework	-212,75,244	b32	2.07,7.73,2.07
+489.8	PowerFirework	-212,75,244	b32	1.39,7.88,1.39
+489.75	PowerFirework	-212,75,244	b32	0.7,7.97,0.7
+489.7	PowerFirework	-212,75,244	b32	0,8,0
+489.65	PowerFirework	-212,75,244	b32	-0.7,7.97,-0.7
+489.6	PowerFirework	-212,75,244	b32	-1.39,7.88,-1.39
+489.55	PowerFirework	-212,75,244	b32	-2.07,7.73,-2.07
+489.5	PowerFirework	-212,75,244	b32	-2.74,7.52,-2.74
+489.45	PowerFirework	-212,75,244	b32	-3.38,7.25,-3.38
+489.4	PowerFirework	-212,75,244	b32	-4,6.93,-4
+489.35	PowerFirework	-212,75,244	b32	-4.59,6.55,-4.59
+489.3	PowerFirework	-212,75,244	b32	-5.14,6.13,-5.14
+489.6	PowerFirework	-254,75,203	b32	5.14,6.13,5.14
+489.65	PowerFirework	-254,75,203	b32	4.59,6.55,4.59
+489.7	PowerFirework	-254,75,203	b32	4,6.93,4
+489.75	PowerFirework	-254,75,203	b32	3.38,7.25,3.38
+489.8	PowerFirework	-254,75,203	b32	2.74,7.52,2.74
+489.85	PowerFirework	-254,75,203	b32	2.07,7.73,2.07
+489.9	PowerFirework	-254,75,203	b32	1.39,7.88,1.39
+489.95	PowerFirework	-254,75,203	b32	0.7,7.97,0.7
+490.0	PowerFirework	-254,75,203	b32	0,8,0
+490.05	PowerFirework	-254,75,203	b32	-0.7,7.97,-0.7
+490.1	PowerFirework	-254,75,203	b32	-1.39,7.88,-1.39
+490.15	PowerFirework	-254,75,203	b32	-2.07,7.73,-2.07
+490.2	PowerFirework	-254,75,203	b32	-2.74,7.52,-2.74
+490.25	PowerFirework	-254,75,203	b32	-3.38,7.25,-3.38
+490.3	PowerFirework	-254,75,203	b32	-4,6.93,-4
+490.35	PowerFirework	-254,75,203	b32	-4.59,6.55,-4.59
+490.4	PowerFirework	-254,75,203	b32	-5.14,6.13,-5.14
+490.4	PowerFirework	-204,75,253	b32	5.14,6.13,5.14
+490.35	PowerFirework	-204,75,253	b32	4.59,6.55,4.59
+490.3	PowerFirework	-204,75,253	b32	4,6.93,4
+490.25	PowerFirework	-204,75,253	b32	3.38,7.25,3.38
+490.2	PowerFirework	-204,75,253	b32	2.74,7.52,2.74
+490.15	PowerFirework	-204,75,253	b32	2.07,7.73,2.07
+490.1	PowerFirework	-204,75,253	b32	1.39,7.88,1.39
+490.05	PowerFirework	-204,75,253	b32	0.7,7.97,0.7
+490.0	PowerFirework	-204,75,253	b32	0,8,0
+489.95	PowerFirework	-204,75,253	b32	-0.7,7.97,-0.7
+489.9	PowerFirework	-204,75,253	b32	-1.39,7.88,-1.39
+489.85	PowerFirework	-204,75,253	b32	-2.07,7.73,-2.07
+489.8	PowerFirework	-204,75,253	b32	-2.74,7.52,-2.74
+489.75	PowerFirework	-204,75,253	b32	-3.38,7.25,-3.38
+489.7	PowerFirework	-204,75,253	b32	-4,6.93,-4
+489.65	PowerFirework	-204,75,253	b32	-4.59,6.55,-4.59
+489.6	PowerFirework	-204,75,253	b32	-5.14,6.13,-5.14
+490.6	Firework	-225,79,231	sb20	1	4,6.93,4	1
+490.7	Firework	-225,79,231	sb20	1	0,8,0	1
+490.8	Firework	-225,79,231	sb20	1	-4,6.93,-4	1
+490.9	Firework	-225,79,231	sb20	1	0,8,0	1
+491	Firework	-225,79,231	sb20	1	4,6.93,4	1
+491.1	Firework	-225,79,231	sb20	1	0,8,0	1
+491.2	Firework	-225,79,231	sb20	1	-4,6.93,-4	1
+491.3	Firework	-225,79,231	sb20	1	0,8,0	1
+491.4	Firework	-225,79,231	sb20	1	4,6.93,4	1
+491.5	Firework	-225,79,231	sb20	1	0,8,0	1
+491.6	Firework	-225,79,231	sb20	1	-4,6.93,-4	1
+491.7	Firework	-225,79,231	sb20	1	0,8,0	1
+491.8	Firework	-225,79,231	sb20	1	4,6.93,4	1
+491.9	Firework	-225,79,231	sb20	1	0,8,0	1
+492	Firework	-225,79,231	sb20	1	-4,6.93,-4	1
+492.1	Firework	-225,79,231	sb20	1	0,8,0	1
+492.2	Firework	-225,79,231	sb20	1	4,6.93,4	1
+492.3	Firework	-225,79,231	sb20	1	0,8,0	1
+492.4	Firework	-225,79,231	sb20	1	-4,6.93,-4	1
+492.5	Firework	-225,79,231	sb20	1	0,8,0	1
+492.6	Firework	-225,79,231	sb20	1	4,6.93,4	1
+492.7	Firework	-225,79,231	sb20	1	0,8,0	1
+490.6	Firework	-232,79,224	sb20	1	-4,6.93,-4	1
+490.7	Firework	-232,79,224	sb20	1	0,8,0	1
+490.8	Firework	-232,79,224	sb20	1	4,6.93,4	1
+490.9	Firework	-232,79,224	sb20	1	0,8,0	1
+491	Firework	-232,79,224	sb20	1	-4,6.93,-4	1
+491.1	Firework	-232,79,224	sb20	1	0,8,0	1
+491.2	Firework	-232,79,224	sb20	1	4,6.93,4	1
+491.3	Firework	-232,79,224	sb20	1	0,8,0	1
+491.4	Firework	-232,79,224	sb20	1	-4,6.93,-4	1
+491.5	Firework	-232,79,224	sb20	1	0,8,0	1
+491.6	Firework	-232,79,224	sb20	1	4,6.93,4	1
+491.7	Firework	-232,79,224	sb20	1	0,8,0	1
+491.8	Firework	-232,79,224	sb20	1	-4,6.93,-4	1
+491.9	Firework	-232,79,224	sb20	1	0,8,0	1
+492	Firework	-232,79,224	sb20	1	4,6.93,4	1
+492.1	Firework	-232,79,224	sb20	1	0,8,0	1
+492.2	Firework	-232,79,224	sb20	1	-4,6.93,-4	1
+492.3	Firework	-232,79,224	sb20	1	0,8,0	1
+492.4	Firework	-232,79,224	sb20	1	4,6.93,4	1
+492.5	Firework	-232,79,224	sb20	1	0,8,0	1
+492.6	Firework	-232,79,224	sb20	1	-4,6.93,-4	1
+492.7	Firework	-232,79,224	sb20	1	0,8,0	1
+490.6	Firework	-219,79,238	sb20	1	4,6.93,4	1
+490.7	Firework	-219,79,238	sb20	1	0,8,0	1
+490.8	Firework	-219,79,238	sb20	1	-4,6.93,-4	1
+490.9	Firework	-219,79,238	sb20	1	0,8,0	1
+491	Firework	-219,79,238	sb20	1	4,6.93,4	1
+491.1	Firework	-219,79,238	sb20	1	0,8,0	1
+491.2	Firework	-219,79,238	sb20	1	-4,6.93,-4	1
+491.3	Firework	-219,79,238	sb20	1	0,8,0	1
+491.4	Firework	-219,79,238	sb20	1	4,6.93,4	1
+491.5	Firework	-219,79,238	sb20	1	0,8,0	1
+491.6	Firework	-219,79,238	sb20	1	-4,6.93,-4	1
+491.7	Firework	-219,79,238	sb20	1	0,8,0	1
+491.8	Firework	-219,79,238	sb20	1	4,6.93,4	1
+491.9	Firework	-219,79,238	sb20	1	0,8,0	1
+492	Firework	-219,79,238	sb20	1	-4,6.93,-4	1
+492.1	Firework	-219,79,238	sb20	1	0,8,0	1
+492.2	Firework	-219,79,238	sb20	1	4,6.93,4	1
+492.3	Firework	-219,79,238	sb20	1	0,8,0	1
+492.4	Firework	-219,79,238	sb20	1	-4,6.93,-4	1
+492.5	Firework	-219,79,238	sb20	1	0,8,0	1
+492.6	Firework	-219,79,238	sb20	1	4,6.93,4	1
+492.7	Firework	-219,79,238	sb20	1	0,8,0	1
+490.6	Firework	-239,79,218	sb20	1	-4,6.93,-4	1
+490.7	Firework	-239,79,218	sb20	1	0,8,0	1
+490.8	Firework	-239,79,218	sb20	1	4,6.93,4	1
+490.9	Firework	-239,79,218	sb20	1	0,8,0	1
+491	Firework	-239,79,218	sb20	1	-4,6.93,-4	1
+491.1	Firework	-239,79,218	sb20	1	0,8,0	1
+491.2	Firework	-239,79,218	sb20	1	4,6.93,4	1
+491.3	Firework	-239,79,218	sb20	1	0,8,0	1
+491.4	Firework	-239,79,218	sb20	1	-4,6.93,-4	1
+491.5	Firework	-239,79,218	sb20	1	0,8,0	1
+491.6	Firework	-239,79,218	sb20	1	4,6.93,4	1
+491.7	Firework	-239,79,218	sb20	1	0,8,0	1
+491.8	Firework	-239,79,218	sb20	1	-4,6.93,-4	1
+491.9	Firework	-239,79,218	sb20	1	0,8,0	1
+492	Firework	-239,79,218	sb20	1	4,6.93,4	1
+492.1	Firework	-239,79,218	sb20	1	0,8,0	1
+492.2	Firework	-239,79,218	sb20	1	-4,6.93,-4	1
+492.3	Firework	-239,79,218	sb20	1	0,8,0	1
+492.4	Firework	-239,79,218	sb20	1	4,6.93,4	1
+492.5	Firework	-239,79,218	sb20	1	0,8,0	1
+492.6	Firework	-239,79,218	sb20	1	-4,6.93,-4	1
+492.7	Firework	-239,79,218	sb20	1	0,8,0	1
+490.6	Firework	-212,79,244	sb20	1	4,6.93,4	1
+490.7	Firework	-212,79,244	sb20	1	0,8,0	1
+490.8	Firework	-212,79,244	sb20	1	-4,6.93,-4	1
+490.9	Firework	-212,79,244	sb20	1	0,8,0	1
+491	Firework	-212,79,244	sb20	1	4,6.93,4	1
+491.1	Firework	-212,79,244	sb20	1	0,8,0	1
+491.2	Firework	-212,79,244	sb20	1	-4,6.93,-4	1
+491.3	Firework	-212,79,244	sb20	1	0,8,0	1
+491.4	Firework	-212,79,244	sb20	1	4,6.93,4	1
+491.5	Firework	-212,79,244	sb20	1	0,8,0	1
+491.6	Firework	-212,79,244	sb20	1	-4,6.93,-4	1
+491.7	Firework	-212,79,244	sb20	1	0,8,0	1
+491.8	Firework	-212,79,244	sb20	1	4,6.93,4	1
+491.9	Firework	-212,79,244	sb20	1	0,8,0	1
+492	Firework	-212,79,244	sb20	1	-4,6.93,-4	1
+492.1	Firework	-212,79,244	sb20	1	0,8,0	1
+492.2	Firework	-212,79,244	sb20	1	4,6.93,4	1
+492.3	Firework	-212,79,244	sb20	1	0,8,0	1
+492.4	Firework	-212,79,244	sb20	1	-4,6.93,-4	1
+492.5	Firework	-212,79,244	sb20	1	0,8,0	1
+492.6	Firework	-212,79,244	sb20	1	4,6.93,4	1
+492.7	Firework	-212,79,244	sb20	1	0,8,0	1
+490.6	Firework	-245,79,211	sb20	1	-4,6.93,-4	1
+490.7	Firework	-245,79,211	sb20	1	0,8,0	1
+490.8	Firework	-245,79,211	sb20	1	4,6.93,4	1
+490.9	Firework	-245,79,211	sb20	1	0,8,0	1
+491	Firework	-245,79,211	sb20	1	-4,6.93,-4	1
+491.1	Firework	-245,79,211	sb20	1	0,8,0	1
+491.2	Firework	-245,79,211	sb20	1	4,6.93,4	1
+491.3	Firework	-245,79,211	sb20	1	0,8,0	1
+491.4	Firework	-245,79,211	sb20	1	-4,6.93,-4	1
+491.5	Firework	-245,79,211	sb20	1	0,8,0	1
+491.6	Firework	-245,79,211	sb20	1	4,6.93,4	1
+491.7	Firework	-245,79,211	sb20	1	0,8,0	1
+491.8	Firework	-245,79,211	sb20	1	-4,6.93,-4	1
+491.9	Firework	-245,79,211	sb20	1	0,8,0	1
+492	Firework	-245,79,211	sb20	1	4,6.93,4	1
+492.1	Firework	-245,79,211	sb20	1	0,8,0	1
+492.2	Firework	-245,79,211	sb20	1	-4,6.93,-4	1
+492.3	Firework	-245,79,211	sb20	1	0,8,0	1
+492.4	Firework	-245,79,211	sb20	1	4,6.93,4	1
+492.5	Firework	-245,79,211	sb20	1	0,8,0	1
+492.6	Firework	-245,79,211	sb20	1	-4,6.93,-4	1
+492.7	Firework	-245,79,211	sb20	1	0,8,0	1
+490.6	Firework	-204,79,253	sb20	1	4,6.93,4	1
+490.7	Firework	-204,79,253	sb20	1	0,8,0	1
+490.8	Firework	-204,79,253	sb20	1	-4,6.93,-4	1
+490.9	Firework	-204,79,253	sb20	1	0,8,0	1
+491	Firework	-204,79,253	sb20	1	4,6.93,4	1
+491.1	Firework	-204,79,253	sb20	1	0,8,0	1
+491.2	Firework	-204,79,253	sb20	1	-4,6.93,-4	1
+491.3	Firework	-204,79,253	sb20	1	0,8,0	1
+491.4	Firework	-204,79,253	sb20	1	4,6.93,4	1
+491.5	Firework	-204,79,253	sb20	1	0,8,0	1
+491.6	Firework	-204,79,253	sb20	1	-4,6.93,-4	1
+491.7	Firework	-204,79,253	sb20	1	0,8,0	1
+491.8	Firework	-204,79,253	sb20	1	4,6.93,4	1
+491.9	Firework	-204,79,253	sb20	1	0,8,0	1
+492	Firework	-204,79,253	sb20	1	-4,6.93,-4	1
+492.1	Firework	-204,79,253	sb20	1	0,8,0	1
+492.2	Firework	-204,79,253	sb20	1	4,6.93,4	1
+492.3	Firework	-204,79,253	sb20	1	0,8,0	1
+492.4	Firework	-204,79,253	sb20	1	-4,6.93,-4	1
+492.5	Firework	-204,79,253	sb20	1	0,8,0	1
+492.6	Firework	-204,79,253	sb20	1	4,6.93,4	1
+492.7	Firework	-204,79,253	sb20	1	0,8,0	1
+490.6	Firework	-254,79,203	sb20	1	-4,6.93,-4	1
+490.7	Firework	-254,79,203	sb20	1	0,8,0	1
+490.8	Firework	-254,79,203	sb20	1	4,6.93,4	1
+490.9	Firework	-254,79,203	sb20	1	0,8,0	1
+491	Firework	-254,79,203	sb20	1	-4,6.93,-4	1
+491.1	Firework	-254,79,203	sb20	1	0,8,0	1
+491.2	Firework	-254,79,203	sb20	1	4,6.93,4	1
+491.3	Firework	-254,79,203	sb20	1	0,8,0	1
+491.4	Firework	-254,79,203	sb20	1	-4,6.93,-4	1
+491.5	Firework	-254,79,203	sb20	1	0,8,0	1
+491.6	Firework	-254,79,203	sb20	1	4,6.93,4	1
+491.7	Firework	-254,79,203	sb20	1	0,8,0	1
+491.8	Firework	-254,79,203	sb20	1	-4,6.93,-4	1
+491.9	Firework	-254,79,203	sb20	1	0,8,0	1
+492	Firework	-254,79,203	sb20	1	4,6.93,4	1
+492.1	Firework	-254,79,203	sb20	1	0,8,0	1
+492.2	Firework	-254,79,203	sb20	1	-4,6.93,-4	1
+492.3	Firework	-254,79,203	sb20	1	0,8,0	1
+492.4	Firework	-254,79,203	sb20	1	4,6.93,4	1
+492.5	Firework	-254,79,203	sb20	1	0,8,0	1
+492.6	Firework	-254,79,203	sb20	1	-4,6.93,-4	1
+492.7	Firework	-254,79,203	sb20	1	0,8,0	1
+494.4	PowerFirework	-229,76,228	b17	0,10,0
+494.4	PowerFirework	-229,76,228	b17	2.76,9.6,2.76
+494.4	PowerFirework	-229,76,228	b17	-2.76,9.6,-2.76
+494.4	PowerFirework	-222,77,235	b17	0,10,0
+494.4	PowerFirework	-222,77,235	b17	2.76,9.6,2.76
+494.4	PowerFirework	-222,77,235	b17	-2.76,9.6,-2.76
+494.4	PowerFirework	-208,76,249	b17	0,10,0
+494.4	PowerFirework	-208,76,249	b17	2.76,9.6,2.76
+494.4	PowerFirework	-208,76,249	b17	-2.76,9.6,-2.76
+494.4	PowerFirework	-250,76,207	b17	0,10,0
+494.4	PowerFirework	-250,76,207	b17	2.76,9.6,2.76
+494.4	PowerFirework	-250,76,207	b17	-2.76,9.6,-2.76
+494.4	PowerFirework	-236,77,221	b17	0,10,0
+494.4	PowerFirework	-236,77,221	b17	2.76,9.6,2.76
+494.4	PowerFirework	-236,77,221	b17	-2.76,9.6,-2.76
+494.4	PowerFirework	-217,76,241	b17	0,10,0
+494.4	PowerFirework	-217,76,241	b17	2.76,9.6,2.76
+494.4	PowerFirework	-217,76,241	b17	-2.76,9.6,-2.76
+494.4	PowerFirework	-242,76,216	b17	0,10,0
+494.4	PowerFirework	-242,76,216	b17	2.76,9.6,2.76
+494.4	PowerFirework	-242,76,216	b17	-2.76,9.6,-2.76
+#Open fence
+500	Block	0	-184,65,235
+500	Block	0	-189,65,235
+500	Block	0	-193,65,236
+500	Block	0	-203,66,226
+500	Block	0	-204,66,225
+500	Block	0	-205,66,225
+500	Block	0	-208,66,221
+500	Block	0	-208,66,220
+500	Block	0	-208,66,219
+500	Block	0	-208,66,218
+500	Block	0	-208,66,217
+500	Block	0	-219,66,207
+500	Block	0	-220,66,207
+500	Block	0	-221,66,207
+500	Block	0	-222,66,207
+500	Block	0	-226,66,204
+500	Block	0	-226,66,203
+500	Block	0	-227,66,202
+500	Block	0	-236,65,195
+500	Block	0	-244,65,186
+500	Block	0	-244,66,185
+500	Block	0	-245,66,184
+500	Block	0	-270,65,206
+500	Block	0	-270,65,207
+500	Block	0	-185,64,235
+500	Block	0	-186,64,235
+500	Block	0	-187,64,235
+500	Block	0	-188,64,235
+500	Block	0	-194,64,236
+500	Block	0	-194,64,235
+500	Block	0	-195,64,235
+500	Block	0	-195,64,234
+500	Block	0	-196,64,234
+500	Block	0	-196,64,233
+500	Block	0	-197,64,233
+500	Block	0	-197,64,232
+500	Block	0	-198,64,232
+500	Block	0	-198,64,231
+500	Block	0	-199,64,231
+500	Block	0	-199,64,230
+500	Block	0	-200,64,230
+500	Block	0	-200,64,229
+500	Block	0	-201,64,229
+500	Block	0	-201,64,228
+500	Block	0	-202,64,228
+500	Block	0	-202,64,227
+500	Block	0	-203,64,227
+500	Block	0	-203,64,226
+500	Block	0	-204,64,226
+500	Block	0	-204,64,225
+500	Block	0	-205,64,225
+500	Block	0	-208,64,220
+500	Block	0	-208,64,219
+500	Block	0	-208,64,218
+500	Block	0	-208,64,217
+500	Block	0	-218,64,207
+500	Block	0	-219,64,207
+500	Block	0	-220,64,207
+500	Block	0	-221,64,207
+500	Block	0	-226,64,204
+500	Block	0	-226,64,203
+500	Block	0	-227,64,203
+500	Block	0	-227,64,202
+500	Block	0	-228,64,202
+500	Block	0	-228,64,201
+500	Block	0	-229,64,201
+500	Block	0	-229,64,200
+500	Block	0	-230,64,200
+500	Block	0	-230,64,199
+500	Block	0	-231,64,199
+500	Block	0	-231,64,198
+500	Block	0	-232,64,198
+500	Block	0	-232,64,197
+500	Block	0	-233,64,197
+500	Block	0	-233,64,196
+500	Block	0	-234,64,196
+500	Block	0	-234,64,195
+500	Block	0	-235,64,195
+500	Block	0	-244,64,185
+500	Block	0	-245,64,185
+500	Block	0	-245,64,184
+500	Block	0	-246,64,184
+500	Block	0	-246,64,183
+500	Block	0	-247,64,183
+500	Block	0	-247,64,182
+500	Block	0	-248,64,182
+500	Block	0	-248,64,181
+500	Block	0	-249,64,181
+500	Block	0	-249,64,180
+500	Block	0	-250,64,180
+500	Block	0	-250,64,179
+500	Block	0	-251,64,179
+500	Block	0	-251,64,178
+500	Block	0	-252,64,178
+500	Block	0	-252,64,177
+500	Block	0	-253,64,177
+500	Block	0	-253,64,176
+500	Block	0	-254,64,176
+500	Block	0	-254,64,175
+500	Block	0	-255,64,175
+500	Block	0	-255,64,174
+500	Block	0	-256,64,174
+500	Block	0	-268,63,193
+500	Block	0	-268,63,194
+500	Block	0	-268,63,195
+500	Block	0	-268,63,196
+500	Block	0	-268,63,197
+500	Block	0	-269,63,197
+500	Block	0	-269,63,198
+500	Block	0	-269,63,199
+500	Block	0	-269,63,200
+500	Block	0	-269,63,201
+500	Block	0	-270,63,201
+500	Block	0	-270,63,202
+500	Block	0	-270,63,203
+500	Block	0	-270,63,204
+500	Block	0	-270,63,205
+500	Block	0	-270,63,206
+500	Block	0	-270,63,207
+500	Block	0	-178,62,282
+500	Block	0	-179,62,282
+500	Block	0	-179,62,283
+500	Block	0	-180,62,283
+500	Block	0	-180,62,284
+500	Block	0	-181,62,284
+500	Block	0	-181,62,285
+500	Block	0	-182,62,285
+500	Block	0	-182,62,286
+500	Block	0	-183,62,286
+500	Block	0	-183,62,287
+500	Block	0	-184,62,287
+500	Block	0	-271,63,227
+500	Block	0	-270,63,227
+500	Block	0	-270,63,228
+#EasyDifficulty
+506	Block	152	-219,56,222
+#Hi, I'm new
+481	Block	95:3	-253,76,252
+481	Block	95:3	-253,76,253
+481	Block	95:3	-254,76,252
+481	Block	95:3	-254,76,253
+494.4	Block	35:8	-253,76,252
+494.4	Block	35:8	-253,76,253
+494.4	Block	35:8	-254,76,252
+494.4	Block	35:8	-254,76,253

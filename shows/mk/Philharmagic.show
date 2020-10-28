@@ -1,0 +1,23 @@
+Show	Location	-144,44,-1688
+Show	TextRadius	45
+Show	Name	Philharmagic
+
+#Audio
+0	AudioStart	PhilharMG	0
+0	AudioSync	PhilharMG	0
+
+#Main Show Text
+#Text
+2.1    Text    &8[&cMinnie &fMouse&8] &c
+2.1    Text    &8[&6Goofy&8] &6
+2.1    Text    &8[&cMickey &fMouse&8] &c
+2.1    Text    &8[&9Donald &fDuck&8] &9
+2.1    Text    &8[&eLumiere&8] &6
+2.1    Text    &8[&bFlounder&8] &b
+2.1    Text    &8[&4Ariel&8] &c
+2.1    Text    &8[&6Simba&8] &6
+2.1    Text    &8[&9Zazu&8] &9
+2.1    Text    &8[&2Peter &fPan&8] &2
+2.1    Text    &8[&cAladdin&8] &c
+2.1    Text    &8[&bJasmine&8] &b
+2.1    Text    &8[&cIago&8] &c

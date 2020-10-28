@@ -1,0 +1,76 @@
+Sequence	Build
+
+Build	mc0	mc0
+39.4	mc0	Spawn	133.5,66.5,417.5
+39.41	mc0	Move	133.5,69.5,417.5	80
+42.4	mc0	Despawn
+Build	mc1	mc1
+39.4	mc1	Spawn	139.5,63.5,415.5
+39.5	mc1	Move	139.5,63.5,399.5	60
+42.5	mc1	Despawn
+844.0	mc1	Spawn	139.5,63.5,399.5
+844.01	mc1	Move	139.5,63.5,415.5	60
+847.0	mc1	Despawn
+Build	mc2	mc2
+39.4	mc2	Spawn	140.5,63.5,427.5
+39.5	mc2	Move	140.5,63.5,443.5	60
+42.5	mc2	Despawn
+844.0	mc2	Spawn	140.5,63.5,443.5
+844.01	mc2	Move	140.5,63.5,427.5	60
+847.0	mc2	Despawn
+Build	mc3	mc3
+39.4	mc3	Spawn	141.6,63.5,415.5
+43.7	mc3	Move	141.6,63.5,399.5	60
+46.7	mc3	Despawn
+Build	mc4	mc4
+39.4	mc4	Spawn	141.6,63.5,428.5
+43.7	mc4	Move	141.6,63.5,443.5	60
+46.7	mc4	Despawn
+Build	mc5	mc5
+39.4	mc5	Spawn	143.2,63.5,415.5
+47.9	mc5	Move	143.2,70.5,415.5	60
+50.9	mc5	Despawn
+Build	mc6	mc6
+39.4	mc6	Spawn	144.2,63.5,415.5
+48.4	mc6	Move	144.2,70.5,415.5	60
+50.9	mc6	Despawn
+Build	ms1	ms1
+39.4	ms1	Spawn	146.1,63.5,415.5
+53.1	ms1	Move	138.5,63.5,415.5	80
+58.6	ms1	Despawn
+Build	md1	md1
+Build	md2	md2
+Build	md3	md3
+Build	md4	md4
+Build	md5	md5
+Build	md6	md6
+58.7	md1	Spawn	140.5,63.5,429.5
+58.7	md2	Spawn	140.5,63.5,428.5
+58.7	md3	Spawn	140.5,63.5,427.5
+58.7	md4	Spawn	140.5,63.5,426.5
+58.7	md5	Spawn	140.5,63.5,425.5
+58.7	md6	Spawn	140.5,63.5,424.5
+58.8	md5	Move	139.5,63.5,424.5	80
+58.8	md4	Move	138.5,63.5,424.5	80
+58.8	md3	Move	137.5,63.5,424.5	80
+58.8	md2	Move	136.5,63.5,424.5	80
+58.8	md1	Move	135.5,63.5,424.5	80
+71.1	md1	Move	137.5,63.5,429.5	100
+71.1	md2	Move	138.5,63.5,428.5	100
+71.1	md3	Move	138.5,63.5,427.5	100
+71.1	md4	Move	139.5,63.5,426.5	100
+71.1	md5	Move	140.5,63.5,425.5	100
+79.3	md1	Move	140.5,63.5,429.5	40
+79.3	md2	Move	140.5,63.5,428.5	40
+79.3	md3	Move	140.5,63.5,427.5	40
+79.3	md4	Move	140.5,63.5,426.5	40
+81.4	md1	Despawn
+81.4	md2	Despawn
+81.4	md3	Despawn
+81.4	md4	Despawn
+81.5	md5	Despawn
+81.6	md6	Despawn
+Build	md7	md7
+81.2	md7	Spawn	140.5,64.5,436.5
+82.2	md7	Move	139.5,64.5,437.5	10
+88.5	md7	Despawn

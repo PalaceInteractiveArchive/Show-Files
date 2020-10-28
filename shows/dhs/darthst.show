@@ -1,0 +1,54 @@
+#Basics
+Show	Location	258,54,613
+Show	TextRadius	5
+#Basics end
+
+#Audio
+1.1	Block	152	258,51,611
+1.3	Block	95	258,51,611
+#Audio end
+
+#Cart
+0.1	Block	152	264,52,610
+0.3	Block	95	264,52,610
+#Cart end
+
+#Text
+1.1	Text	&f[&aAir Traffic Controller&f] &2Star Tours, 1401 you are cleared for departure.
+4.1	Text	&f[&eC3PO&f] &61401, that's us! We can't take off, the captain isn't onboard.
+9.1	Text	&f[&cComputer&f] &4Auto take-off sequence iniciated.
+11.1	Text	&f[&eC3PO&f] &6Oh no, um, excuse me, you don't seem to understand. I'm not the captain. I am &eC3PO&6.
+
+#Text end
+
+#Air traffic controller
+ArmorStand	atc1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQ1ZmNkMzEyODdkNjNlNzgyNmVhNzYwYTdlZDE1NGY2ODVkZmRjN2YzNDY1NzMyYTk2ZTYxOWIyZTEzNDcifX19;299(64,64,64);300(64,64,64);301(64,64,64);
+1	ArmorStand	atc1	spawn	266.5,67,602.5
+#1.5	ArmorStand	atc1	position	LEG_LEFT	0,180,0	2
+#1.5	ArmorStand	atc1	position	LEG_RIGHT	0,180,0	2
+#1.5	ArmorStand	atc1	position	BODY	0,180,0	2
+#1.5	ArmorStand	atc1	position	HEAD	0,180,0	2
+#1.5	ArmorStand	atc1	position	ARM_LEFT	0,180,0	2
+#1.5	ArmorStand	atc1	position	ARM_RIGHT	356,144,114	2
+#1.5	ArmorStand	atc1	rotate	180	2
+3	Block	152	266,79,614
+3.2	Block	95	266,79,614
+18.7	ArmorStand	atc1	Move	266.5,67,598.5	1
+19.7	ArmorStand	atc1	Move	269.5,67,595.5	1.5
+21.2	ArmorStand	atc1	Move	283.5,67,595.5	3.5
+19.7	Block	152	266,79,616
+20	Block	95	266,79,616
+24.7	ArmorStand	atc1	despawn
+ArmorStand	atc2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ1YzlhY2VhOGRhNzFiNGYyNTJjZDRkZWI1OTQzZjQ5ZTdkYmMwNzY0Mjc0YjI1YTZhNmY1ODc1YmFlYTMifX19;299(64,64,64);300(64,64,64);301(64,64,64);
+24.7	ArmorStand	atc2	spawn	283.5,67,595.5
+45	ArmorStand	atc2	despawn
+24.8	Block	152	266,79,613
+24.9	Block	152	266,79,613
+25.2	Block	95	266,79,613
+#ATC end
+
+################################################################################
+#                                   MADE BY                                    #
+#                                   FRANKYFG                                   #
+################################################################################
+

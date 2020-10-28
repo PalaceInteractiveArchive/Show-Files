@@ -1,0 +1,61 @@
+Show	Location	-89.0,42.0,-1588.0
+Show	TextRadius	150
+Show	Name	Castle
+
+#Audio
+0	AudioStart	DI
+0	AudioSync	DI	0
+
+#mapping
+69	Block	152	-107,16,-1590
+
+#IntroText
+
+0.1	Text	&eAnd Now, Et maintenant,
+2.8	Text	&5&lDisney &d&lIlluminations
+9	Text	&eWithin each of us, is a dreamer just waiting to be awakened.
+14.3	Text	&eWe all have the magic to unlock this inner child.
+18.2	Text	&eIt’s what gives us the power to turn the world we know
+22	Text	&einto a magical place only we can imagine.
+26.3	Text	&eIt’s a place where fantasies are real
+29	Text	&eand any dream can become a reality, you are the king.
+34.5	Text	&eBut sometimes that inner child needs an invitation to come out and play.
+40.2	Text	&eThis is your invitation
+42.7	Text	&e&lTo Dream!
+
+#MickeyText
+69.8	Text	&eA dream is a wish your heart makes.
+75.5	Text	&eWhen you're fast asleep.
+80.5	Text	&eIn dreams you will loose your heartache.
+85.8	Text	&eWhat ever you wish for you keep.
+91.2	Text	&eYou wake with the morning sunlight.
+96.2	Text	&eTo find fortune that is smiling on you.
+101.2	Text	&eDon't let your heart be filled with sorrow.
+104.7	Text	&eFor all you know tomorrow.
+107.2	Text	&eThe dream that you wish...
+113.1	Text	&eWill come true!
+
+#Effect
+
+Effect	b1	BURST,204;0;0,TRAIL
+
+EnderCrystal	test1
+EnderCrystal	test2
+EnderCrystal	test3
+EnderCrystal	test4
+EnderCrystal	test5
+EnderCrystal	test6
+
+21	test1	Spawn	-129,56,-1681	-106,83,-1632
+21	test2	Spawn	-129,56,-1681	-116,83,-1632
+21	test3	Spawn	-129,56,-1681	-126,83,-1632
+31	text4	Spawn	-49,58,-1683	-64,83,-1629
+31	text5	Spawn	-49,58,-1683	-54,83,-1629
+31	text6	Spawn	-49,58,-1683	-44,83,-1629
+
+30	test1	Move	Target	-150,40,-1643	5
+32	test2	Move	Target	-150,40,-1643	5
+34	test3	Move	Target	-150,40,-1643	5
+31	test4	Move	Target	-32,40,-1628	5
+33	test5	Move	Target	-32,40,-1628	5
+35	test6	Move	Target	-32,40,-1628	5

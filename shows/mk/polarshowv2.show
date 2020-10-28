@@ -1,0 +1,94 @@
+Show	Location	-90,42.0,-1589.0
+Show	TextRadius	150
+Show	Name	Castle
+
+0.0	AudioStart	polarshow
+
+11.9  Text    &eThere's a feeling that, you were meant to find.
+
+18.9    Text    &eLet the voice of insperation be applied..
+
+25.0    Text    &eEvery color, every wonder that your heart has inside,
+
+32.5    Text    &eFind your direction,
+
+33.2    Text    &eFind the connection,
+
+35.0    Text    &eFollow the &r&f&lLight!
+
+39.5    Text    &eIf we all believe, in the world of dreams and imagination.
+
+45.9    Text    &eFrom all we know, there's know way to show. Where the spark will take us!
+
+53.0    Text    &eSo much more than a Destination!
+
+59.0    Text    &eJourney, to Imagination!
+
+65.0    Text    &eWhen we get lost, we don't know which way we're going.
+
+72.0    Text    &aInside our trust,
+
+74.9    Text    &aWe'll get there,
+
+76.0    Text    &eWe'll get there,
+
+78.0    Text    &6&oIf we all believe, in the world of dreams.
+
+81.0    Text    &6&oand Imagination!
+
+84.0    Text    &6From all we know,
+
+85.0    Text    &6There's no way to know, where the star will take us.
+
+91.0    Text    &eSo much more than a Destination!
+
+97.0    Text    &9&oJourney,
+99.0    Text    &9&oJourney,
+100.0   Text    &9&oJourney, To Imagination!
+
+104.0   Text    &9&oImagination...
+105.0   Text    &9&oImagination...
+
+157.0   Text    &3Hakuna Matata!
+159.0   Text    &3What a wonderful phrase
+161.0   Text    &3Hakuna Matata!
+164.0   Text    &3Ain't no passing craze...
+166.0   Text    &3It means no worries, for the rest of your days.
+170.0   Text    &3It's our problem-free philosophy
+173.5   Text    &3Hakuna Matata!
+
+180.0   Text    &dOoh-bi-doo, I wan'na be like you
+183.0   Text    &dI want to walk like you, talk like you, too
+186.0   Text    &dYou see it's true, an ape like me
+190.5   Text    &dCan learn to be like you, too
+194.5   Text    &d&oOne more time!
+195.0   Text    &dCan learn to be like you, too..
+
+224.5   Text    &bCelebrate, a world filled with magic;
+228.0   Text    &dWhere happiness is found, around the vin...
+233.5   Text    &dAll of your dreams and fantasies...
+237.0   Text    &dMagicly, will never end.
+
+258.0   Text    &d&lCelebrate a world filled with magic!
+262.0   Text    &d&lJust wish upon a &r&e&lSTAR &r&d&lthat shines so bright,
+267.5   Text    &d&oEnter a world, of make-believe...
+
+272.0   Text    &f[&7Walt Disney&r&f] &r&7I hope we never loose sight of one thing, and it was all started by a &r&7&omouse.
+277.5   Text    &d&lAnd let your dreams come true, tonight.
+
+297.0   Text    &d&lCelebrate the MAGIC!
+
+#- AFTER SHOW AUDIO STARTS =-= FWS AND BEACONS AND STUFF BELOW
+
+9	Block	166	-117.0,38.0,-1623.0 
+12	Block	166	-112.0,38.0,-1623.0 
+15	Block	166	-107.0,38.0,-1623.0 
+9	Block	166	-55.0,38.0,-1623.0 
+12	Block	166	-60.0,38.0,-1623.0 
+15	Block	166	-65`.0,38.0,-1623.0 
+
+19	PowerFirework	96.0,52.0,-1617.0	b1	0,1,0
+19	PowerFirework	-84.0,52.0,-1617.0	b1	0,1,0
+
+
+

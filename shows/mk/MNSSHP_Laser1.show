@@ -1,0 +1,8 @@
+Sequence	Laser	Actual
+#<Seconds> Data <Coordinates> <Coordinates2> <Time it takes to move>
+2	Spawn	168,51,-1503	145,51,-1505
+3.5	Move	Base	150,51,-1510	8
+4.5	Move	Base	145,51,-1505	8
+5.5	Move	Base	148,51,-1499	8
+6.5	Despawn
+#148,51,-1499

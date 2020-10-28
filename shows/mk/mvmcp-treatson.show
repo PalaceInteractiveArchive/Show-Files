@@ -1,0 +1,36 @@
+Show	Location	-90,70,-1620
+Show	TextRadius	100000
+0   Block   70  -302,40,-1479
+0   Block   70  -259,42,-1580
+0   Block   70  -97,45,-1733
+0   Block   70  -33,45,-1718
+0   Block   70  92,43,-1515
+0   Block   70  -390,42,-1491 
+0   Block   70  115,45,-1779
+
+##Jungle Cruise
+0   Block   152 -302,36,-1487
+
+##Diamodn Horsehoe
+0   Block   152 -258,36,-1583 
+
+##PVH
+0   Block   152 -96,36,-1731
+
+##Big top souveniers 
+0   Block   152 113,36,-1783
+
+##Lunching Pad
+0   Block   152 89,36,-1516
+
+##Storybook Treats
+0   Block   152 -31,36,-1718
+
+##Tortuga
+0   Block   152 -392,36,-1488
+
+##Text
+
+0   Text    &cLadies and gentlemen, boys and girls.
+3   Text    &2Welcome to Mickey's Very Merry Christmas Party!
+6   Text    &cGet ready for festive treats, because treat stations around the park are &2NOW OPEN!

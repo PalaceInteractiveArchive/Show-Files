@@ -1,0 +1,108 @@
+﻿Show	Location	-1614,64,-488
+Show	TextRadius	60
+Effect	test1	BURST,255;208;186,255;208;186,TRAIL
+Effect	test2	BALL_LARGE,0;255;186,255;208;186,TRAIL
+Effect	test3	BURST,FUCHSIA
+Effect	test3a	BURST,LIME
+Effect	test4	BALL,255;208;186,255;208;186,FLICKER
+
+#time >	0			
+0	PowerFirework	-93,100,-1620	test3	0.7,0,0
+0	PowerFirework	-93,100,-1620	test3	0.741,0.318,0
+0	PowerFirework	-93,100,-1620	test3	0.641,0.674,0
+0	PowerFirework	-93,100,-1620	test3	0.372,1.005,0
+0	PowerFirework	-93,100,-1620	test3	-0.063,1.233,0
+0	PowerFirework	-93,100,-1620	test3	-0.627,1.278,0
+0	PowerFirework	-93,100,-1620	test3	-1.244,1.068,0
+0	PowerFirework	-93,100,-1620	test3	-1.803,0.566,0
+0	PowerFirework	-93,100,-1620	test3	-2.167,-0.22,0
+0	PowerFirework	-93,100,-1620	test3	-2.194,-1.218,0
+0	PowerFirework	-93,100,-1620	test3	-1.77,-2.287,0
+0	PowerFirework	-93,100,-1620	test3	-0.836,-3.227,0
+0	PowerFirework	-93,100,-1620	test3	0.582,-3.797,0
+0	PowerFirework	-93,100,-1620	test3	2.342,-3.757,0
+0	PowerFirework	-93,100,-1620	test3	4.187,-2.915,0
+0	PowerFirework	-93,100,-1620	test3	5.759,-1.184,0
+0	PowerFirework	-93,100,-1620	test3a	-0.7,0,0
+0	PowerFirework	-93,100,-1620	test3a	-0.741,-0.318,0
+0	PowerFirework	-93,100,-1620	test3a	-0.641,-0.674,0
+0	PowerFirework	-93,100,-1620	test3a	-0.372,-1.005,0
+0	PowerFirework	-93,100,-1620	test3a	0.063,-1.233,0
+0	PowerFirework	-93,100,-1620	test3a	0.627,-1.278,0
+0	PowerFirework	-93,100,-1620	test3a	1.244,-1.068,0
+0	PowerFirework	-93,100,-1620	test3a	1.803,-0.566,0
+0	PowerFirework	-93,100,-1620	test3a	2.167,0.22,0
+0	PowerFirework	-93,100,-1620	test3a	2.194,1.218,0
+0	PowerFirework	-93,100,-1620	test3a	1.77,2.287,0
+0	PowerFirework	-93,100,-1620	test3a	0.836,3.227,0
+0	PowerFirework	-93,100,-1620	test3a	-0.582,3.797,0
+0	PowerFirework	-93,100,-1620	test3a	-2.342,3.757,0
+0	PowerFirework	-93,100,-1620	test3a	-4.187,2.915,0
+0	PowerFirework	-93,100,-1620	test3a	-5.759,1.184,0
+
+
+#time >	3			
+3	PowerFirework	-93,100,-1620	test3	0,0.958,0
+3	PowerFirework	-93,100,-1620	test3	0.345,1.679,0
+3	PowerFirework	-93,100,-1620	test3	1.371,3.195,0
+3	PowerFirework	-93,100,-1620	test3	2.887,4.147,0
+3	PowerFirework	-93,100,-1620	test3	3.848,3.657,0
+3	PowerFirework	-93,100,-1620	test3	3.306,2.06,0
+3	PowerFirework	-93,100,-1620	test3	1.391,0.515,0
+3	PowerFirework	-93,100,-1620	test3	-0.63,-0.097,0
+3	PowerFirework	-93,100,-1620	test3	-1.343,0.068,0
+3	PowerFirework	-93,100,-1620	test3	-0.361,0.093,0
+3	PowerFirework	-93,100,-1620	test3	1.371,-0.672,0
+3	PowerFirework	-93,100,-1620	test3	2.415,-1.87,0
+3	PowerFirework	-93,100,-1620	test3	2.064,-2.404,0
+3	PowerFirework	-93,100,-1620	test3	0.84,-1.513,0
+3	PowerFirework	-93,100,-1620	test3	-0.124,0.395,0
+3	PowerFirework	-93,100,-1620	test3	-0.198,1.949,0
+3	PowerFirework	-93,100,-1620	test3	0.198,1.949,0
+3	PowerFirework	-93,100,-1620	test3	0.124,0.396,0
+3	PowerFirework	-93,100,-1620	test3	-0.838,-1.51,0
+3	PowerFirework	-93,100,-1620	test3	-2.061,-2.401,0
+3	PowerFirework	-93,100,-1620	test3	-2.411,-1.866,0
+3	PowerFirework	-93,100,-1620	test3	-1.365,-0.669,0
+3	PowerFirework	-93,100,-1620	test3	0.369,0.096,0
+3	PowerFirework	-93,100,-1620	test3	1.353,0.069,0
+3	PowerFirework	-93,100,-1620	test3	0.643,-0.098,0
+3	PowerFirework	-93,100,-1620	test3	-1.376,0.51,0
+3	PowerFirework	-93,100,-1620	test3	-3.29,2.051,0
+3	PowerFirework	-93,100,-1620	test3	-3.832,3.642,0
+3	PowerFirework	-93,100,-1620	test3	-2.872,4.126,0
+3	PowerFirework	-93,100,-1620	test3	-1.359,3.167,0
+3	PowerFirework	-93,100,-1620	test3	-0.338,1.643,0
+
+#time >	6			
+6	PowerFirework	-93,100,-1620	test3a	0,1.846,0
+6	PowerFirework	-93,100,-1620	test3a	0.033,2.394,0
+6	PowerFirework	-93,100,-1620	test3a	0.245,3.662,0
+6	PowerFirework	-93,100,-1620	test3a	0.746,4.761,0
+6	PowerFirework	-93,100,-1620	test3a	1.523,4.826,0
+6	PowerFirework	-93,100,-1620	test3a	2.445,3.552,0
+6	PowerFirework	-93,100,-1620	test3a	3.299,1.379,0
+6	PowerFirework	-93,100,-1620	test3a	3.863,-0.774,0
+6	PowerFirework	-93,100,-1620	test3a	3.985,-2.058,0
+6	PowerFirework	-93,100,-1620	test3a	3.629,-2.191,0
+6	PowerFirework	-93,100,-1620	test3a	2.895,-1.6,0
+6	PowerFirework	-93,100,-1620	test3a	1.978,-1.117,0
+6	PowerFirework	-93,100,-1620	test3a	1.105,-1.436,0
+6	PowerFirework	-93,100,-1620	test3a	0.457,-2.669,0
+6	PowerFirework	-93,100,-1620	test3a	0.107,-4.269,0
+6	PowerFirework	-93,100,-1620	test3a	0.004,-5.382,0
+6	PowerFirework	-93,100,-1620	test3a	-0.004,-5.382,0
+6	PowerFirework	-93,100,-1620	test3a	-0.107,-4.269,0
+6	PowerFirework	-93,100,-1620	test3a	-0.457,-2.669,0
+6	PowerFirework	-93,100,-1620	test3a	-1.105,-1.436,0
+6	PowerFirework	-93,100,-1620	test3a	-1.978,-1.117,0
+6	PowerFirework	-93,100,-1620	test3a	-2.895,-1.6,0
+6	PowerFirework	-93,100,-1620	test3a	-3.629,-2.191,0
+6	PowerFirework	-93,100,-1620	test3a	-3.985,-2.058,0
+6	PowerFirework	-93,100,-1620	test3a	-3.863,-0.774,0
+6	PowerFirework	-93,100,-1620	test3a	-3.299,1.379,0
+6	PowerFirework	-93,100,-1620	test3a	-2.445,3.552,0
+6	PowerFirework	-93,100,-1620	test3a	-1.523,4.826,0
+6	PowerFirework	-93,100,-1620	test3a	-0.746,4.761,0
+6	PowerFirework	-93,100,-1620	test3a	-0.245,3.662,0
+6	PowerFirework	-93,100,-1620	test3a	-0.033,2.394,0

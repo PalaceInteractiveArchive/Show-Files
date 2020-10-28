@@ -1,0 +1,119 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+Effect	goldsparklb	BALL_LARGE,255;181;98,255;181;98
+
+Effect	flickersound	BURST,0;0;0,0;0;0,FLICKER
+Effect	fan1rednn	BURST,255;64;0,255;64;0
+#v 0:10
+Effect	aer1orpurnn	BALL_LARGE,255;128;64&182;108;255,255;128;64&182;108;255
+Effect	topexpl1	BURST,255;218;128,255;218;128,TRAIL
+#0:26
+Effect	aer2limenn	BURST,155;255;144,155;255;144
+#0:37
+Effect	aer3redmininn	BURST,255;111;111,255;111;111
+#at 0:45- inner sparkly
+Effect	aer4goldny	BALL_LARGE,238;173;125,238;173;125,FLICKER
+Effect	castside1lime	BURST,128;255;0&0;255;64,128;255;0&0;255;64
+#1:05
+Effect	topexpl2	BURST,255;218;128,255;218;128
+Effect	fanpinknn	BURST,255;0;255&255;128;255,255;255;255&255;130;255
+Effect	fanpinknn2	BURST,255;0;255&255;128;255,255;0;255&255;128;255
+#1:31 with some comet to falling star logic
+Effect	pinkblueyn	BURST,255;0;255&255;128;255&128;128;255,255;128;255,TRAIL
+#Playful... with fanpinknn
+Effect	goldsparkbur	BURST,255;181;98,255;181;98,FLICKER
+#2:20
+Effect	redsparklb	BALL_LARGE,255;0;0&255;128;128,255;0;0&255;128;128,FLICKER
+#2:26
+Effect	yellowlb	BALL_LARGE,255;215;53,255;215;53
+Effect	yellowsb	BALL,255;215;53,255;215;53
+Effect	whitelb	BALL_LARGE,255;255;255,255;255;255
+Effect	whitesb	BALL,255;255;255,255;255;255
+#2:44
+Effect	redsb	BALL,255;0;0&255;128;128,255;0;0&255;128;128
+Effect	redlb	BALL_LARGE,255;0;0&255;128;128,255;0;0&255;128;128
+#3:45
+Effect	whiteb	BURST,255;255;255,255;255;255
+#5:00,,,5:09...5:22
+Effect	whitelimeb	BURST,221;255;225,221;255;225
+Effect	aer5bluelb		BALL_LARGE,128;128;255&150;175;255,128;128;255&150;175;255
+Effect	aer5bluesb		BALL,128;128;255&150;175;255,128;128;255&150;175;255
+Effect	redb	BURST,255;0;0&255;128;128,255;0;0&255;128;128
+Effect	533blue	BURST,128;128;255&150;175;255,128;128;255&150;175;255
+
+#{
+
+# Timings (sebb): 0.0 0.0 0 0
+# Launcher options: testair [1] 0.0 1 0
+# Shell Zone: CastleHigh 1
+# Aerial FX: -Circle 20 1 1
+#  Groups/Rot: 0.0 1 -1.0 -1.0 -1.0
+#  Built-in FX: 10  fan1rednn; aer2limenn
+#  Toppers: 0 0 0.0 0.0 0.0
+#  Single: 0
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-2.759,-1.337,-1.525
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-2.553,-0.54,-2.209
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-2.409,0.353,-3.071
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-1.414,1.102,-2.825
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-0.639,1.815,-2.783
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	0.207,2.264,-2.36
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	1.026,2.582,-1.817
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	2.044,3.072,-1.25
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	2.569,2.693,-0.235
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	2.623,1.953,0.671
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	2.88,1.396,1.592
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	2.424,0.512,2.097
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	2.35,-0.345,2.995
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	1.488,-1.16,2.974
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	0.719,-2.042,3.131
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-0.247,-2.701,2.815
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-1.054,-2.652,1.866
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-1.707,-2.565,1.044
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-2.286,-2.396,0.209
+0.0	PowerFirework	-88.92,155.201,-1647.42	fan1rednn	-2.675,-1.991,-0.684
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	-1.038,-1.525,0.595
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	-1.176,0.143,-1.466
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	0.953,-0.84,2.015
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	0.701,1.652,-1.112
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	1.399,-0.267,1.854
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	1.204,1.741,-0.658
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	1.686,0.306,1.517
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	1.501,1.519,-0.076
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	1.774,0.815,1.032
+0.0	PowerFirework	-88.92,155.201,-1647.42	aer2limenn	1.856,1.331,0.532
+#}
+
+
+
+#{
+
+# Timings (sebb): 2.0 2.0 0 0
+# Launcher options: testair [1] 0.0 1 0
+# Shell Zone: CastleHigh 1
+# Aerial FX: Normal Sphere 20 2 100
+#  Groups/Rot: 0.0 1 -1.0 -1.0 -1.0
+#  Built-in FX: 10  fan1rednn; aer2limenn
+#  Toppers: 0 0 0.0 0.0 0.0
+#  Single: 0
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-3.665,0.043,-0.566
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-3.338,-1.595,-1.043
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-2.454,1.892,-1.246
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-2.553,-0.896,1.829
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-1.748,-1.025,-3.233
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-1.865,2.803,1.195
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-1.432,-3.125,0.614
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-0.478,1.93,-3.09
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	-1.138,0.631,3.526
+2.0	PowerFirework	-89.515,150.476,-1653.193	fan1rednn	0.119,-2.908,-2.267
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	0.254,3.324,-0.236
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	0.135,-2.385,2.62
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	1.431,0.01,-3.211
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	0.927,2.165,2.578
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	1.682,-3.148,-0.039
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	2.488,2.446,-1.51
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	2.143,-0.527,3.086
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	3.236,-1.267,-1.49
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	3.344,1.614,0.978
+2.0	PowerFirework	-89.515,150.476,-1653.193	aer2limenn	3.331,-0.039,0.514
+#}
+

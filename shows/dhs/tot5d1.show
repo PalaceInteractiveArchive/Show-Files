@@ -1,0 +1,357 @@
+Show	Location	-175,88,-137
+Show	TextRadius	15
+Show	Name	totfifthd1
+#Lights Reset
+0	Block	35:15	-179,85,-139
+0	Block	35:15	-173,85,-133
+0	Block	35:15	-176,85,-132
+0	Block	35:15	-180,85,-135
+0	Block	35:15	-179,85,-129
+0	Block	35:15	-183,85,-132
+0	Block	35:15	-183,85,-124
+0	Block	35:15	-187,85,-128
+0	Block	152	-175,91,-130
+0	Block	152	-176,91,-130
+0	Block	152	-177,91,-129
+0	Block	152	-178,91,-128
+0	Block	35:15	-186,85,-129
+#Gray Reset
+0	Block	152	-180,92,-138
+0	Block	152	-178,92,-139
+#Lights On
+10.4	Block	76:5	-179,85,-139
+10.4	Block	76:5	-173,85,-133
+10.4	Block	152	-170,91,-133
+10.9	Block	76:5	-176,85,-132
+10.9	Block	76:5	-180,85,-135
+10.9	Block	152	-171,91,-132
+11.4	Block	76:5	-179,85,-129
+11.4	Block	76:5	-183,85,-132
+11.4	Block	152	-172,91,-131
+11.9	Block	76:5	-183,85,-124
+11.9	Block	76:5	-187,85,-128
+11.9	Block	152	-173,91,-130
+#Lights Off
+21.8	Block	35:15	-179,85,-139
+21.8	Block	35:15	-173,85,-133
+21.8	Block	152	-175,91,-130
+22.4	Block	35:15	-176,85,-132
+22.4	Block	35:15	-180,85,-135
+22.4	Block	152	-176,91,-130
+23.0	Block	35:15	-179,85,-129
+23.0	Block	35:15	-183,85,-132
+23.0	Block	152	-177,91,-129
+23.6	Block	35:15	-183,85,-124
+23.6	Block	35:15	-187,85,-128
+23.6	Block	152	-178,91,-128
+#Glass Color Particles Left
+24.5	Particle	witchMagic	-173.5,87.5,-130.5	0.3	0.8	0.3	0	30
+24.6	Particle	witchMagic	-174.5,87.5,-130.5	0.3	0.8	0.3	0	30
+24.7	Particle	witchMagic	-175.0,87.5,-130.0	0.3	0.8	0.3	0	30
+24.8	Particle	witchMagic	-175.5,87.5,-129.5	0.3	0.8	0.3	0	30
+24.9	Particle	witchMagic	-176.5,87.5,-129.5	0.3	0.8	0.3	0	30
+25.0	Particle	witchMagic	-177.0,87.5,-129.0	0.3	0.8	0.3	0	30
+25.1	Particle	witchMagic	-177.5,87.5,-128.5	0.3	0.8	0.3	0	30
+25.2	Particle	witchMagic	-178.0,87.5,-127.5	0.3	0.8	0.3	0	30
+25.3	Particle	witchMagic	-178.0,87.5,-127.0	0.3	0.8	0.3	0	30
+25.4	Particle	witchMagic	-178.5,87.5,-126.5	0.3	0.8	0.3	0	30
+25.5	Particle	witchMagic	-179.5,87.5,-126.5	0.3	0.8	0.3	0	30
+25.6	Particle	witchMagic	-180.0,87.5,-125.5	0.3	0.8	0.3	0	30
+25.7	Particle	witchMagic	-180.0,87.5,-125.0	0.3	0.8	0.3	0	30
+25.8	Particle	witchMagic	-180.5,87.5,-124.5	0.3	0.8	0.3	0	30
+25.9	Particle	witchMagic	-181.5,87.5,-124.5	0.3	0.8	0.3	0	30
+#Glass Color Particles Right
+24.5	Particle	witchMagic	-180.5,87.5,-137.5	0.3	0.8	0.3	0	30
+24.6	Particle	witchMagic	-180.5,87.5,-136.5	0.3	0.8	0.3	0	30
+24.7	Particle	witchMagic	-180.5,87.5,-135.5	0.3	0.8	0.3	0	30
+24.8	Particle	witchMagic	-181.0,87.5,-135.0	0.3	0.8	0.3	0	30
+24.9	Particle	witchMagic	-181.5,87.5,-134.5	0.3	0.8	0.3	0	30
+25.0	Particle	witchMagic	-181.5,87.5,-133.5	0.3	0.8	0.3	0	30
+25.1	Particle	witchMagic	-182.0,87.5,-133.0	0.3	0.8	0.3	0	30
+25.2	Particle	witchMagic	-182.5,87.5,-132.5	0.3	0.8	0.3	0	30
+25.3	Particle	witchMagic	-183.5,87.5,-132.5	0.3	0.8	0.3	0	30
+25.4	Particle	witchMagic	-184.0,87.5,-132.0	0.3	0.8	0.3	0	30
+25.5	Particle	witchMagic	-184.5,87.5,-131.5	0.3	0.8	0.3	0	30
+25.6	Particle	witchMagic	-184.5,87.5,-130.5	0.3	0.8	0.3	0	30
+25.7	Particle	witchMagic	-185.5,87.5,-130.5	0.3	0.8	0.3	0	30
+25.8	Particle	witchMagic	-186.0,87.5,-130.0	0.3	0.8	0.3	0	30
+25.9	Particle	witchMagic	-186.5,87.5,-129.5	0.3	0.8	0.3	0	30
+#Color Cyan
+24.5	Block	160:9	-174,87,-131
+24.5	Block	160:9	-174,88,-131
+24.6	Block	160:9	-175,87,-131
+24.6	Block	160:9	-175,88,-131
+24.7	Block	160:9	-175,87,-130
+24.7	Block	160:9	-175,88,-130
+24.8	Block	160:9	-176,87,-130
+24.8	Block	160:9	-176,88,-130
+24.9	Block	160:9	-177,87,-130
+24.9	Block	160:9	-177,88,-130
+25.0	Block	160:9	-177,87,-129
+25.0	Block	160:9	-177,88,-129
+25.1	Block	160:9	-178,87,-129
+25.1	Block	160:9	-178,88,-129
+25.2	Block	160:9	-178,87,-128
+25.2	Block	160:9	-178,88,-128
+25.3	Block	160:9	-178,87,-127
+25.3	Block	160:9	-178,88,-127
+25.4	Block	160:9	-179,87,-127
+25.4	Block	160:9	-179,88,-127
+25.5	Block	160:9	-180,87,-127
+25.5	Block	160:9	-180,88,-127
+25.6	Block	160:9	-180,87,-126
+25.6	Block	160:9	-180,88,-126
+25.7	Block	160:9	-181,87,-126
+25.7	Block	160:9	-181,88,-126
+25.8	Block	160:9	-181,87,-125
+25.8	Block	160:9	-181,88,-125
+25.9	Block	160:9	-181,87,-124
+25.9	Block	160:9	-181,88,-124
+25.9	Block	160:9	-182,87,-124
+25.9	Block	160:9	-182,88,-124
+25.9	Block	160:9	-182,87,-123
+25.9	Block	160:9	-182,88,-123
+
+24.5	Block	160:9	-181,87,-138
+24.5	Block	160:9	-181,88,-138
+24.6	Block	160:9	-181,87,-137
+24.6	Block	160:9	-181,88,-137
+24.7	Block	160:9	-181,87,-136
+24.7	Block	160:9	-181,88,-136
+24.8	Block	160:9	-182,87,-136
+24.8	Block	160:9	-182,88,-136
+24.9	Block	160:9	-182,87,-135
+24.9	Block	160:9	-182,88,-135
+25.0	Block	160:9	-182,87,-134
+25.0	Block	160:9	-182,88,-134
+25.1	Block	160:9	-183,87,-134
+25.1	Block	160:9	-183,88,-134
+25.2	Block	160:9	-183,87,-133
+25.2	Block	160:9	-183,88,-133
+25.3	Block	160:9	-184,87,-133
+25.3	Block	160:9	-184,88,-133
+25.4	Block	160:9	-185,87,-133
+25.4	Block	160:9	-185,88,-133
+25.5	Block	160:9	-185,87,-132
+25.5	Block	160:9	-185,88,-132
+25.6	Block	160:9	-185,87,-131
+25.6	Block	160:9	-185,88,-131
+25.7	Block	160:9	-186,87,-131
+25.7	Block	160:9	-186,88,-131
+25.8	Block	160:9	-187,87,-131
+25.8	Block	160:9	-187,88,-131
+25.9	Block	160:9	-187,87,-130
+25.9	Block	160:9	-187,88,-130
+25.9	Block	160:9	-187,87,-129
+25.9	Block	160:9	-187,88,-129
+#Color Cyan
+#24	Block	152	-183,91,-136
+#24	Block	152	-182,91,-137
+#Color Black
+60	Block	152	-180,92,-138
+60	Block	152	-178,92,-139
+#Door1
+10.2	Block	0	-175,86,-141
+10.2	Block	0	-175,87,-141
+10.2	Block	0	-175,88,-141
+10.7	Block	0	-174,86,-140
+10.7	Block	0	-174,87,-140
+10.7	Block	0	-174,88,-140
+10.7	Block	0	-176,86,-142
+10.7	Block	0	-176,87,-142
+10.7	Block	0	-176,88,-142
+#Reset Door1
+30	Block	98:3	-175,86,-141
+30	Block	98:3	-175,87,-141
+30	Block	98:3	-175,88,-141
+30	Block	98:1	-174,86,-140
+30	Block	98:1	-174,87,-140
+30	Block	98:1	-174,88,-140
+30	Block	98:1	-176,86,-142
+30	Block	98:1	-176,87,-142
+30	Block	98:1	-176,88,-142
+#Audio
+0	AudioStart	totfifthd1
+9	AudioSync	totfifthd1	9
+#Clock
+24	Block	152	-175,92,-138
+24.2	Block	76:5	-176,85,-129
+35.8	Block	35:15	-176,85,-129
+36	Block	152	-173,92,-136
+#Door
+25.1	Block	152	-178,92,-136
+25.3	Block	76:4	-184,85,-134
+41.5	Block	35:15	-184,85,-134
+41.7	Block	152	-176,92,-135
+#E=MC^2
+33.9    Block   152 -169,91,-124
+34.1    Block   76:3    -167,85,-117
+40.4  Block   0   -167,85,-117
+40.6    Block   152 -169,91,-126
+#Window
+34.9    Block   152 -172,91,-115
+35.1    Block   76:3    -169,85,-115
+41.1    Block   0   -169,85,-115
+40.9    Block   152 -172,91,-117
+#Group Picture
+35	Block	152	-177,92,-132
+37	Block	152	-178,92,-132
+38	Block	152	-179,92,-132
+35	Block	76:5	-180,85,-125
+#Reset Group picture
+60	Block	152	-180,92,-132
+60	Block	35:15	-180,85,-125
+#Particles
+28	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+28	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+28.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+28.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+29	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+29	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+29.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+29.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+30	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+30	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+30.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+30.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+31	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+31	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+31.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+31.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+32	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+32	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+32.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+32.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+33	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+33	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+33.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+33.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+34	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+34	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+34.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+34.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+35	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+35	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+35.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+35.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+36	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+36	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+36.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+36.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+37	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+37	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+37.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+37.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+38	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+38	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+38.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+38.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+39	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+39	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+39.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+39.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+40	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+40	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+40.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+40.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+41	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+41	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+41.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+41.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+42	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+42	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+42.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+42.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+43	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+43	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+43.5	Particle	fireworksSpark	-186.8,88.0,-125.0	0	0.5	0.8	0	10
+43.5	Particle	fireworksSpark	-185.0,88.0,-123.2	0.8	0.5	0	0	10
+44	Particle	fireworksSpark	-186.5,87.5,-123.5	0.7	0.5	0.7	0	25
+44.5	Particle	fireworksSpark	-186.5,87.5,-123.5	0.7	0.5	0.7	0	25
+45	Particle	fireworksSpark	-186.5,87.5,-123.5	0.7	0.5	0.7	0	25
+45.5	Particle	fireworksSpark	-186.5,87.5,-123.5	0.7	0.5	0.7	0	25
+46	Particle	fireworksSpark	-186.8,87.5,-123.2	0.01	0.7	0.01	0	50
+46.5	Particle	fireworksSpark	-186.8,87.5,-123.2	0.01	0.7	0.01	0	50
+#Left
+47.0	Particle	fireworksSpark	-186.5,87.5,-123.2	0.01	0.7	0.01	0	50
+47.1	Particle	fireworksSpark	-186.2,87.5,-123.2	0.01	0.7	0.01	0	50
+47.2	Particle	fireworksSpark	-185.9,87.5,-123.2	0.01	0.7	0.01	0	50
+47.3	Particle	fireworksSpark	-185.6,87.5,-123.2	0.01	0.7	0.01	0	50
+47.4	Particle	fireworksSpark	-185.3,87.5,-123.2	0.01	0.7	0.01	0	50
+47.5	Particle	fireworksSpark	-185.0,87.5,-123.2	0.01	0.7	0.01	0	50
+47.6	Particle	fireworksSpark	-184.7,87.5,-123.2	0.01	0.7	0.01	0	50
+47.7	Particle	fireworksSpark	-184.4,87.5,-123.2	0.01	0.7	0.01	0	50
+47.8	Particle	fireworksSpark	-184.1,87.5,-123.2	0.01	0.7	0.01	0	50
+47.9	Particle	fireworksSpark	-183.8,87.5,-123.2	0.01	0.7	0.01	0	50
+48.0	Particle	fireworksSpark	-183.5,87.5,-123.2	0.01	0.7	0.01	0	50
+#Right
+47.0	Particle	fireworksSpark	-186.8,87.5,-123.5	0.01	0.7	0.01	0	50
+47.1	Particle	fireworksSpark	-186.8,87.5,-123.8	0.01	0.7	0.01	0	50
+47.2	Particle	fireworksSpark	-186.8,87.5,-124.1	0.01	0.7	0.01	0	50
+47.3	Particle	fireworksSpark	-186.8,87.5,-124.4	0.01	0.7	0.01	0	50
+47.4	Particle	fireworksSpark	-186.8,87.5,-124.7	0.01	0.7	0.01	0	50
+47.5	Particle	fireworksSpark	-186.8,87.5,-125.0	0.01	0.7	0.01	0	50
+47.6	Particle	fireworksSpark	-186.8,87.5,-125.3	0.01	0.7	0.01	0	50
+47.7	Particle	fireworksSpark	-186.8,87.5,-125.6	0.01	0.7	0.01	0	50
+47.8	Particle	fireworksSpark	-186.8,87.5,-125.9	0.01	0.7	0.01	0	50
+47.9	Particle	fireworksSpark	-186.8,87.5,-126.2	0.01	0.7	0.01	0	50
+48.0	Particle	fireworksSpark	-186.8,87.5,-126.5	0.01	0.7	0.01	0	50
+#Blocks
+47.2	Block	0	-188,86,-124
+47.2	Block	0	-188,87,-124
+47.2	Block	0	-188,88,-124
+47.2	Block	0	-187,86,-123
+47.2	Block	0	-187,87,-123
+47.2	Block	0	-187,88,-123
+
+47.5	Block	0	-188,86,-125
+47.5	Block	0	-188,87,-125
+47.5	Block	0	-188,88,-125
+47.5	Block	0	-186,86,-123
+47.5	Block	0	-186,87,-123
+47.5	Block	0	-186,88,-123
+
+47.8	Block	0	-188,86,-126
+47.8	Block	0	-188,87,-126
+47.8	Block	0	-188,88,-126
+47.8	Block	0	-185,86,-123
+47.8	Block	0	-185,87,-123
+47.8	Block	0	-185,88,-123
+
+48.0	Block	0	-188,86,-127
+48.0	Block	0	-188,87,-127
+48.0	Block	0	-188,88,-127
+48.0	Block	0	-184,86,-123
+48.0	Block	0	-184,87,-123
+48.0	Block	0	-184,88,-123
+
+#ResetBlocks
+65	Block	35:15	-188,86,-124
+65	Block	35:15	-188,87,-124
+65	Block	35:15	-188,88,-124
+65	Block	35:15	-187,86,-123
+65	Block	35:15	-187,87,-123
+65	Block	35:15	-187,88,-123
+65	Block	35:15	-188,86,-125
+65	Block	35:15	-188,87,-125
+65	Block	35:15	-188,88,-125
+65	Block	35:15	-186,86,-123
+65	Block	35:15	-186,87,-123
+65	Block	35:15	-186,88,-123
+65	Block	35:15	-188,86,-126
+65	Block	35:15	-188,87,-126
+65	Block	35:15	-188,88,-126
+65	Block	35:15	-185,86,-123
+65	Block	35:15	-185,87,-123
+65	Block	35:15	-185,88,-123
+65	Block	35:15	-188,86,-127
+65	Block	35:15	-188,87,-127
+65	Block	35:15	-188,88,-127
+65	Block	35:15	-184,86,-123
+65	Block	35:15	-184,87,-123
+65	Block	35:15	-184,88,-123
+#LightsOn
+65	Block	152	-174,91,-119
+
+#Lightning
+69	Block	152	-193,85,-123

@@ -1,0 +1,5 @@
+Show	Location	441,64,84
+Show	TextRadius	45
+0.0	SpiralParticle    fireworksSpark	461.5,66.5,84.5    5    0    1.5    4    10    1	-2
+0.0	SpiralParticle    snowshovel	463.5,70.5,81.5    10    45    2.5    4    30    1	-2
+0.0	SpiralParticle    snowshovel	463.5,70.5,87.5    10    -45    2.5    4    30    1	2

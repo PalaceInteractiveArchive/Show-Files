@@ -1,0 +1,16 @@
+﻿Show	Location	-276,63,-1743
+Show	TextRadius	150
+
+1	Lightning	-269,62,-1743
+1	Lightning	-270,62,-1742
+1	Lightning	-284,63,-1750
+1	Lightning	-285,63,-1749
+2	Fountain	35:0	3	-277,65,-1743	0,1,0	
+Effect	b1	BURST,BLUE,BLUE,FLICKER
+5	PowerFirework	-277,65,-1743	b1	0,1,0
+
+
+
+
+
+

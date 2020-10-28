@@ -1,0 +1,7 @@
+Sequence	Build
+#Rat
+Build	msdoor	msdoor
+#Bottom
+2	msdoor	Spawn	206.5,2.5,2590.5
+15	msdoor	Move	206.5,-5,2590.5	60
+18	msdoor	Despawn

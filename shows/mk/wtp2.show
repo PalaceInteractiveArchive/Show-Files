@@ -1,0 +1,238 @@
+﻿Show	Location	6,46,-1675
+Show	TextRadius	30
+#ArmorStandsDefine
+ArmorStand	wtpowl1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWRiZDhiNmNiM2IxZWNkOWNhMzU5YjgzM2MxYmVmMjJlOTczMmZiN2FhMGQwZmY0ZmI1NTg4ODZmNWE2YSJ9fX0=";299(64,38,13);300(54,45,22);301(64,38,13);0
+#Spawn
+0	ArmorStand	wtpowl1	Spawn	7.456,48.68750,-1674.927,-150
+#Pos
+0.1	ArmorStand	wtpowl1	Position	ARM_RIGHT	140,50,0	0.1
+0.1	ArmorStand	wtpowl1	Position	LEG_LEFT	-30,0,0	0.1
+0.1	ArmorStand	wtpowl1	Position	LEG_RIGHT	-30,0,0	0.1
+#Move
+1	ArmorStand	wtpowl1	Position	HEAD	10,20,0	1
+2	ArmorStand	wtpowl1	Position	HEAD	10,-20,0	1
+3	ArmorStand	wtpowl1	Position	HEAD	10,20,0	1
+4	ArmorStand	wtpowl1	Position	HEAD	10,-20,0	1
+5	ArmorStand	wtpowl1	Position	HEAD	10,20,0	1
+6	ArmorStand	wtpowl1	Position	HEAD	10,-20,0	1
+7	ArmorStand	wtpowl1	Position	HEAD	10,20,0	1
+8	ArmorStand	wtpowl1	Position	HEAD	10,-20,0	1
+#DoorOpen1
+0	Block	0	8,48,-1679
+0	Block	0	8,47,-1679
+0	Block	0	8,46,-1679
+0	Block	0	7,48,-1679
+0	Block	0	7,47,-1679
+0	Block	0	7,46,-1679
+0	Block	134:2	8,48,-1678
+0	Block	17:0	8,47,-1678
+0	Block	134:2	8,46,-1678
+0	Block	17:0	7,48,-1678
+0	Block	134:2	7,47,-1678
+0	Block	17:0	7,46,-1678
+#DoorOpen2
+0.5	Block	0	7,48,-1678
+0.5	Block	0	7,47,-1678
+0.5	Block	0	7,46,-1678
+0.5	Block	17:0	7,48,-1677
+0.5	Block	134:2	7,47,-1677
+0.5	Block	17:0	7,46,-1677
+#DoorOpen3
+1	Block	0	7,48,-1677
+1	Block	0	7,47,-1677
+1	Block	0	7,46,-1677
+1	Block	134:0	8,46,-1678
+1	Block	134:0	8,48,-1678
+1	Block	17:0	8,46,-1677
+1	Block	134:0	8,47,-1677
+1	Block	17:0	8,48,-1677
+#DoorOpen4
+1.5	Block	0	8,48,-1678
+1.5	Block	0	8,47,-1678
+1.5	Block	0	8,46,-1678
+1.5	Block	0	8,48,-1677
+1.5	Block	0	8,47,-1677
+1.5	Block	0	8,46,-1677
+1.5	Block	134:0	9,46,-1678
+1.5	Block	17:0	9,47,-1678
+1.5	Block	134:0	9,48,-1678
+1.5	Block	17:0	9,46,-1677
+1.5	Block	134:0	9,47,-1677
+1.5	Block	17:0	9,48,-1677
+1.5	Block	134:0	9,47,-1679
+#DoorOpen5
+2	Block	0	9,48,-1679
+2	Block	0	9,47,-1679
+2	Block	0	9,46,-1679
+2	Block	0	9,48,-1678
+2	Block	0	9,47,-1678
+2	Block	0	9,46,-1678
+2	Block	0	9,48,-1677
+2	Block	0	9,47,-1677
+2	Block	0	9,46,-1677
+2	Block	65:4	9,47,-1678
+#DoorClose1
+10	Block	134:0	9,46,-1678
+10	Block	17:0	9,47,-1678
+10	Block	134:0	9,48,-1678
+10	Block	17:0	9,46,-1677
+10	Block	134:0	9,47,-1677
+10	Block	17:0	9,48,-1677
+10	Block	134:0	9,47,-1679
+10	Block	17:0	9,46,-1679
+10	Block	17:0	9,48,-1679
+#DoorClose2
+10.5	Block	134:0	8,46,-1678
+10.5	Block	134:0	8,48,-1678
+10.5	Block	17:0	8,46,-1677
+10.5	Block	134:0	8,47,-1677
+10.5	Block	17:0	8,48,-1677
+10.5	Block	17:0	8,47,-1678
+10.5	Block	0	9,48,-1677
+10.5	Block	0	9,47,-1677
+10.5	Block	0	9,46,-1677
+10.5	Block	0	9,48,-1678
+10.5	Block	0	9,47,-1678
+10.5	Block	0	9,46,-1678
+#DoorClose3
+11	Block	17:0	7,48,-1677
+11	Block	134:2	7,47,-1677
+11	Block	17:0	7,46,-1677
+11	Block	0	8,48,-1677
+11	Block	0	8,47,-1677
+11	Block	0	8,46,-1677
+#DoorClose4
+11.5	Block	134:2	8,48,-1678
+11.5	Block	17:0	8,47,-1678
+11.5	Block	134:2	8,46,-1678
+11.5	Block	17:0	7,48,-1678
+11.5	Block	134:2	7,47,-1678
+11.5	Block	17:0	7,46,-1678
+11.5	Block	134:2	9,47,-1679
+11.5	Block	0	7,48,-1677
+11.5	Block	0	7,47,-1677
+11.5	Block	0	7,46,-1677
+#DoorClose5
+12	Block	134:2	8,48,-1679
+12	Block	17:0	8,47,-1679
+12	Block	134:2	8,46,-1679
+12	Block	17:0	7,48,-1679
+12	Block	134:2	7,47,-1679
+12	Block	17:0	7,46,-1679
+12	Block	0	8,48,-1678
+12	Block	0	8,47,-1678
+12	Block	0	8,46,-1678
+12	Block	0	7,48,-1678
+12	Block	0	7,47,-1678
+12	Block	0	7,46,-1678
+#Particles
+5	Block	152	7,41,-1676
+20	Block	0	7,41,-1676
+#HouseFall
+6	Schematic	wtphousefall1	6	46	-1675	mk	false
+13	Schematic	wtphousefallR	6	46	-1675	mk	false
+#Despawn
+20	ArmorStand	wtpowl1	Despawn
+#Door2Open1
+15	Block	24:0	1,46,-1672
+15	Block	5:0	1,47,-1672
+15	Block	135:1	1,48,-1672
+15	Block	5:0	1,46,-1671
+15	Block	24:0	1,47,-1671
+15	Block	135:1	1,48,-1671
+15	Block	0	2,46,-1672
+15	Block	0	2,47,-1672
+15	Block	0	2,48,-1672
+15	Block	0	2,46,-1671
+15	Block	0	2,47,-1671
+15	Block	0	2,48,-1671
+#Door2Open2
+15.5	Block	24:0	0,46,-1672
+15.5	Block	5:0	0,47,-1672
+15.5	Block	135:1	0,48,-1672
+15.5	Block	0	1,46,-1672
+15.5	Block	0	1,47,-1672
+15.5	Block	0	1,48,-1672
+#Door2Open3
+16	Block	0	0,46,-1672
+16	Block	0	0,47,-1672
+16	Block	0	0,48,-1672
+16	Block	24:0	0,46,-1671
+16	Block	5:0	0,47,-1671
+16	Block	135:2	0,48,-1671
+16	Block	135:2	1,48,-1671
+#Door2Open4
+16.5	Block	0	0,46,-1671
+16.5	Block	0	0,47,-1671
+16.5	Block	0	0,48,-1671
+16.5	Block	0	1,48,-1671
+16.5	Block	0	1,47,-1671
+16.5	Block	0	1,46,-1671
+16.5	Block	24:0	0,46,-1670
+16.5	Block	5:0	0,47,-1670
+16.5	Block	135:2	0,48,-1670
+16.5	Block	5:0	1,46,-1670
+16.5	Block	24:0	1,47,-1670
+16.5	Block	135:2	1,48,-1670
+16.5	Block	135:2	2,48,-1670
+#Door2Open5
+17	Block	0	0,46,-1670
+17	Block	0	0,47,-1670
+17	Block	0	0,48,-1670
+17	Block	0	1,46,-1670
+17	Block	0	1,47,-1670
+17	Block	0	1,48,-1670
+17	Block	0	2,48,-1670
+17	Block	0	2,47,-1670
+17	Block	0	2,46,-1670
+#Door2Close1
+23	Block	24:0	0,46,-1670
+23	Block	5:0	0,47,-1670
+23	Block	135:2	0,48,-1670
+23	Block	5:0	1,46,-1670
+23	Block	24:0	1,47,-1670
+23	Block	135:2	1,48,-1670
+23	Block	24:0	2,46,-1670
+23	Block	5:0	2,47,-1670
+23	Block	135:2	2,48,-1670
+#Door2Close2
+23.5	Block	24:0	0,46,-1671
+23.5	Block	5:0	0,47,-1671
+23.5	Block	135:2	0,48,-1671
+23.5	Block	5:0	1,46,-1671
+23.5	Block	24:0	1,47,-1671
+23.5	Block	135:1	1,48,-1671
+23.5	Block	0	0,46,-1670
+23.5	Block	0	0,47,-1670
+23.5	Block	0	0,48,-1670
+23.5	Block	0	1,46,-1670
+23.5	Block	0	1,47,-1670
+23.5	Block	0	1,48,-1670
+#Door2Close3
+24	Block	0	0,46,-1671
+24	Block	0	0,47,-1671
+24	Block	0	0,48,-1671
+24	Block	24:0	0,46,-1672
+24	Block	5:0	0,47,-1672
+24	Block	135:1	0,48,-1672
+24	Block	135:1	2,48,-1670
+#Door2Close4
+24.5	Block	24:0	1,46,-1672
+24.5	Block	5:0	1,47,-1672
+24.5	Block	135:1	1,48,-1672
+24.5	Block	0	0,46,-1672
+24.5	Block	0	0,47,-1672
+24.5	Block	0	0,48,-1672
+#Door2Close5
+25	Block	0	1,46,-1672
+25	Block	0	1,47,-1672
+25	Block	0	1,48,-1672
+25	Block	0	1,46,-1671
+25	Block	0	1,47,-1671
+25	Block	0	1,48,-1671
+25	Block	24:0	2,46,-1672
+25	Block	5:0	2,47,-1672
+25	Block	135:1	2,48,-1672
+25	Block	5:0	2,46,-1671
+25	Block	24:0	2,47,-1671
+25	Block	135:1	2,48,-1671

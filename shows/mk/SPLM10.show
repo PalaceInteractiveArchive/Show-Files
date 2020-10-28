@@ -1,0 +1,34 @@
+﻿Show	Location	-471,55,-1598
+Show	TextRadius	25
+#Define
+ArmorStand	splmrabbit8	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThhNGZiMjVhZmJjNmI3YWVjMTVhYmU4NzJmY2VhZDFlNWIzM2MxYWIxMjUyNTE0MWQ3N2JmZDI5OGZjMzJkOSJ9fX0=";299(214,160,222);300(35,87,99);301(110,88,66);0
+#Spawn
+0	ArmorStand	splmrabbit8	Spawn	-469.8,57.5,-1598.5,90
+0.1	ArmorStand	splmrabbit8	Position	LEG_LEFT	-5,0,-10	0.5
+0.1	ArmorStand	splmrabbit8	Position	LEG_RIGHT	-5,0,10	0.5
+#Move
+1	ArmorStand	splmrabbit8	Position	LEG_LEFT	5,0,-10	2
+1	ArmorStand	splmrabbit8	Position	LEG_RIGHT	5,0,10	2
+2	ArmorStand	splmrabbit8	Position	LEG_LEFT	-5,0,-10	2
+2	ArmorStand	splmrabbit8	Position	LEG_RIGHT	-5,0,10	2
+3	ArmorStand	splmrabbit8	Position	LEG_LEFT	5,0,-10	2
+3	ArmorStand	splmrabbit8	Position	LEG_RIGHT	5,0,10	2
+4	ArmorStand	splmrabbit8	Position	LEG_LEFT	-5,0,-10	2
+4	ArmorStand	splmrabbit8	Position	LEG_RIGHT	-5,0,10	2
+5	ArmorStand	splmrabbit8	Position	LEG_LEFT	5,0,-10	2
+5	ArmorStand	splmrabbit8	Position	LEG_RIGHT	5,0,10	2
+6	ArmorStand	splmrabbit8	Position	LEG_LEFT	-5,0,-10	2
+6	ArmorStand	splmrabbit8	Position	LEG_RIGHT	-5,0,10	2
+7	ArmorStand	splmrabbit8	Position	LEG_LEFT	5,0,-10	2
+7	ArmorStand	splmrabbit8	Position	LEG_RIGHT	5,0,10	2
+8	ArmorStand	splmrabbit8	Position	LEG_LEFT	-5,0,-10	2
+8	ArmorStand	splmrabbit8	Position	LEG_RIGHT	-5,0,10	2
+9	ArmorStand	splmrabbit8	Position	LEG_LEFT	5,0,-10	2
+9	ArmorStand	splmrabbit8	Position	LEG_RIGHT	5,0,10	2
+1	ArmorStand	splmrabbit8	Position	HEAD	0,-20,0	6
+3	ArmorStand	splmrabbit8	Position	HEAD	0,20,0	6
+5	ArmorStand	splmrabbit8	Position	HEAD	0,-20,0	6
+7	ArmorStand	splmrabbit8	Position	HEAD	0,20,0	6
+9	ArmorStand	splmrabbit8	Position	HEAD	0,-20,0	6
+#Despawn
+20	ArmorStand	splmrabbit8	Despawn

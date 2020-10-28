@@ -1,0 +1,38 @@
+﻿Show	Location	-301,58,-61
+Show	TextRadius	10
+#This is the location where music/text is centered.
+Show	Name	rrctour
+#Follows the anti-double show running rule
+#Comment
+
+
+### Text ###
+#Text:
+10	Text	&cIs that everyone off the elevator? Yeah.. good!
+14.3	Text	&cWe’re now directly under the starting point for the ride.
+16.6	Text	&cThese command blocks look complex but they all do a similar task.
+21	Text	&cAnimations, flashes, countdowns, minecarts and of course pixelators,
+25.5	Text	&cthough pretty much all of our rides and shows are created through
+28.1	Text	&cour custom Show/Ride plugins we still need to use command blocks.
+32	Text	&cWe use these for more complex tasks within our plugin,
+34.9	Text	&cbut it's still easier to set a redstone block next to a command block
+38.2	Text	&cand activate it to run a command.
+39.7	Text	&cThis is also how we limit lag whilst you are on our rides,
+42.6	Text	&cwatching our shows or parades.
+45.3	Text	&2Next up lets take a look at the tracks themselves!
+
+### Blocks ###
+#http://minecraft-ids.grahamedgecombe.com/
+#Placing Blocks:
+
+## Remove Barriers#
+45	Block	0	-301,59,-57
+45	Block	0	-302,59,-57
+
+## Start Tour 3 ##
+55	Block	152	-339,51,-103
+
+
+### Audio ###
+10	AudioStart	RRCTour2
+10	AudioSync	RRCTour2	0

@@ -1,0 +1,20 @@
+Show    Location    163,43,-1503
+Show    TextRadius  30 
+
+#Effects
+Effect  b1  BURST,RED,LIME,FLICKER,TRAIL
+Effect  b2  BURST,LIME,RED,FLICKER,TRAIL
+
+
+##Fireworks
+0.0 PowerFirework   169,53,-1503    b1  0,2,2
+0.2 PowerFirework   169,53,-1503    b1  0,2,1
+0.4 PowerFirework   169,53,-1503    b1  0,2,0
+0.6 PowerFirework   169,53,-1503    b1  0,2,-1
+0.8 PowerFirework   169,53,-1503    b1  0,2,-2
+1.0 PowerFirework   169,53,-1503    b2  0,2,2
+1.2 PowerFirework   169,53,-1503    b2  0,2,1
+1.4 PowerFirework   169,53,-1503    b2  0,2,0
+1.6 PowerFirework   169,53,-1503    b2  0,2,-1
+1.8 PowerFirework   169,53,-1503    b2  0,2,-2
+

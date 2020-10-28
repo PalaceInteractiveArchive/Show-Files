@@ -1,0 +1,50 @@
+Show	Location	-286,64,162
+Show	TextRadius	45
+Show	Name	Votlm
+
+#Audio
+0	AudioStart	mermaid	0
+0	AudioSync	mermaid	0
+
+#particle
+
+Effect b1 BURST,208;61;225,BLUE
+Effect b2 BURST,208;61;225,BLUE,GREEN,TRAIL
+
+#fireworks
+0    PowerFirework    -280,74,168    b1    0,0,0
+0.5    PowerFirework    -280,74,168    b1    0,0,0
+1    PowerFirework    -280,74,168    b1    0,0,0
+1.5    PowerFirework    -280,74,168    b1    0,0,0
+2    PowerFirework    -280,74,168    b1    0,0,0
+2.5    PowerFirework    -280,74,168    b1    0,0,0
+3    PowerFirework    -280,74,168    b1    0,0,0
+3.5    PowerFirework    -280,74,168    b1    0,0,0
+4    PowerFirework    -280,74,168    b1    0,0,0
+4.5    PowerFirework    -280,74,168    b1    0,0,0
+
+5    PowerFirework    -281,74,169    b1    0,0,0
+5.5    PowerFirework    -279,74,167    b1    0,0,0
+6    PowerFirework    -281,74,169    b1    0,0,0
+6.5    PowerFirework    -279,74,167    b1    0,0,0
+
+7    PowerFirework    -278,74,166    b1    0,0,0
+7.5    PowerFirework    -282,74,170    b1    0,0,0
+8    PowerFirework    -278,74,166    b1    0,0,0
+8.5    PowerFirework    -282,74,170    b1    0,0,0
+
+9    PowerFirework    -277,74,165    b1    0,0,0
+9.5    PowerFirework    -283,74,171    b1    0,0,0
+10    PowerFirework    -277,74,165    b1    0,0,0
+10.5    PowerFirework    -283,74,171    b1    0,0,0
+
+11    PowerFirework    -276,74,164    b1    0,0,0
+11.5    PowerFirework    -284,74,172    b1    0,0,0
+
+12    PowerFirework    -283,74,171    b1    0,0,0
+12.1    PowerFirework    -277,74,165    b1    0,0,0
+12.2    PowerFirework    -282,74,170    b1    0,0,0
+12.3    PowerFirework    -278,74,166    b1    0,0,0
+12.4    PowerFirework    -279,74,167    b1    0,0,0
+12.5    PowerFirework    -281,74,169    b1    0,0,0
+12.6    PowerFirework    -280,74,168    b1    0,0,0

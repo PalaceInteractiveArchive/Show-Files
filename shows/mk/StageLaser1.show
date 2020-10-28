@@ -1,0 +1,11 @@
+Show	Location	157.5,43,-1503.5
+Show	TextRadius	25
+
+0	Sequence	Laser	Stage1
+0.5	Sequence	Laser	Stage1
+1	Sequence	Laser	Stage1
+1.5	Sequence	Laser	Stage1
+2	Sequence	Laser	Stage1
+2.5	Sequence	Laser	Stage1
+3	Sequence	Laser	Stage1
+3.5	Sequence	Laser	Stage1

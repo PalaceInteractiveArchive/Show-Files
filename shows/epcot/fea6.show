@@ -1,0 +1,42 @@
+Show	Location	237,64,3052
+Show	TextRadius	15
+Show	Name	fea6
+ArmorStand	elsa2	false	skull:eyJ0aW1lc3RhbXAiOjE0NzYwMzg4Nzg0MzAsInByb2ZpbGVJZCI6IjdiODc1YTRlMWUxNjQwZWNhMmIwOWI2N2Y5MGZmM2NjIiwicHJvZmlsZU5hbWUiOiJFbHNhX18iLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGZjYjgzYWE5ZmY4Nzc4ZjU5NWQ2YzhlYzc2NGRkY2VmZDc5NzY4N2M4NzM2NWY0ZDQ3ZWY1MmRmZmIifX19;299(10,172,31);300(10,172,31);301(10,172,31)
+ArmorStand	anna2	false	skull:eyJ0aW1lc3RhbXAiOjE0NzYwNDM5Njk0NDEsInByb2ZpbGVJZCI6IjdkZjhkMWJiYWIzMTRlMzk5MTNiMzJiM2Y3N2M5ZWFmIiwicHJvZmlsZU5hbWUiOiJTb3J0aW5nSGF0IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhMTJlMDUxZWUzN2U0MjhmYWM4YWFmN2QxMDNiNGU2MmVkYzZmOWQ2MzM5N2VjM2I0M2VhMjE2YmIzYWU1In19fQ==;299(20,97,9);300(61,231,243);301(1,108,115)
+ArmorStand	olaf3	true	skull:eyJ0aW1lc3RhbXAiOjE0NzA2MDM4Njg3NTgsInByb2ZpbGVJZCI6IjNmMzc1Y2E0MTRmMTQwNWY4ZGIwYjFjOTc1Mzg1NWZlIiwicHJvZmlsZU5hbWUiOiJPbGFmX18iLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NiYzM3OTM4NTFiNGY3MGU0OTE4MGE4OTI1ZmYxZThjY2FkM2VkNjEyNjgxNjhkY2UwYjU4ZTQ5YjkifX19;299(255,255,255);300(255,255,255);301(255,255,255)
+#elsa
+1	ArmorStand	elsa2	spawn	232.7,64,3056.4
+1.5	ArmorStand	elsa2	rotate	-145	.5
+2	ArmorStand	elsa2	position	ARM_LEFT	0,0,-31	.5
+2	ArmorStand	elsa2	position	ARM_RIGHT	0,0,14	.5
+2	ArmorStand	elsa2	position	HEAD	0,14,0	.5
+23.5	ArmorStand	elsa2	position	HEAD	8,0,0	1
+25	ArmorStand	elsa2	position	HEAD	0,-10,0	1
+40	ArmorStand	elsa2	despawn
+#anna
+1	ArmorStand	anna2	spawn	231.9,64,3055.7
+1.5	ArmorStand	anna2	rotate	-120	.5
+2	ArmorStand	anna2	position	ARM_RIGHT	0,0,31	.5
+2	ArmorStand	anna2	position	ARM_LEFT	-29,0,-14	.5
+2	ArmorStand	anna2	position	LEG_RIGHT	-15,0,0	.5
+18	ArmorStand	anna2	position	HEAD	0,10,0	2
+18	ArmorStand	anna2	position	ARM_LEFT	-10,0,-10	2
+21	ArmorStand	anna2	position	HEAD	0,0,0	1
+23.5	ArmorStand	anna2	position	HEAD	8,0,0	1
+25	ArmorStand	anna2	position	HEAD	0,10,0	1
+35	ArmorStand	anna2	despawn
+#olaf
+1	ArmorStand	olaf3	spawn	234.7,64.1,3053.5
+1.5	ArmorStand	olaf3	rotate	-110	.5
+2	ArmorStand	olaf3	position	ARM_RIGHT	0,0,17	.5
+2	ArmorStand	olaf3	position	ARM_LEFT	0,0,-18	.5
+2	ArmorStand	olaf3	position	LEG_RIGHT	-22,0,0	.5
+2	ArmorStand	olaf3	position	LEG_LEFT	0,0,-7	.5
+2	ArmorStand	olaf3	position	HEAD	0,-5,0	.5
+20	ArmorStand	olaf3	position	ARM_LEFT	-29,0,-14	2
+20	ArmorStand	olaf3	position	ARM_RIGHT	-29,0,10	2
+20	ArmorStand	olaf3	position	HEAD	0,10,0	2
+23	ArmorStand	olaf3	position	HEAD	0,-10,0	2
+27	ArmorStand	olaf3	position	ARM_RIGHT	0,0,0	2
+30	ArmorStand	olaf3	position	HEAD	0,10,0	2
+35	ArmorStand	olaf3	despawn

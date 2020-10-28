@@ -1,0 +1,19 @@
+ArmorStand	jar	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjMzODFhZmI2ZTUzYWRlZTRjMjZiNzE0YjlmNGVkNjg5N2U2NjYxNGVhNjMyNDhhYmUxNThhZjVmN2IyOTQyIn19fQ==";299(90,39,41);300(90,39,41);301(90,39,41)
+Show	Location	-4,40,1359
+Show	Name	jarjar
+.1	ArmorStand	jar	spawn	-4.3,40,1359.2
+.3	ArmorStand	jar	rotate	-108	.2
+.3	ArmorStand	jar	position	ARM_LEFT	0,0,-130	.5
+.3	ArmorStand	jar	position	HEAD	0,0,4	.2
+1	ArmorStand	jar	position	ARM_LEFT	0,0,-21	.5
+2	ArmorStand	jar	position	ARM_LEFT	0,0,-130	.5
+3	ArmorStand	jar	position	ARM_LEFT	0,0,-21	.5
+4	ArmorStand	jar	position	ARM_LEFT	0,0,-130	.5
+5	ArmorStand	jar	position	ARM_LEFT	0,0,-21	.5
+6	ArmorStand	jar	position	ARM_LEFT	0,0,-130	.5
+7	ArmorStand	jar	position	ARM_LEFT	0,0,-21	.5
+7.2	ArmorStand	jar	position	HEAD	24,0,0	.2
+7.2	ArmorStand	jar	position	ARM_LEFT	-122,24,0	.2
+7.2	ArmorStand	jar	position	ARM_RIGHT	-122,16,0	.2
+7.2	ArmorStand	jar	move	-4.3,39.3,1359.2	.4
+8	ArmorStand	jar	despawn

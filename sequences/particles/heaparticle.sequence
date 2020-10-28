@@ -1,0 +1,14 @@
+Sequence	Particle
+Cylinder	heastart2	mobSpell	1,1,0	0	1	8	11	2	half	south
+Cylinder	heastart3	mobSpell	1,1,0	0	1	8	8	2	half	south
+Cylinder	heastart4	mobSpell	1,1,0	0	1	8	4	2	half	south
+#Start#0=69
+66	heastart2	Spawn	-86,55,-1636
+67	heastart2	Move	-86,75,-1636	60
+70	heastart2	Despawn
+69	heastart3	Spawn	-86,75,-1636
+69.1	heastart3	Move	-86,78,-1624	60
+72.1	heastart3	Despawn
+72.1	heastart4	Spawn	-84,86,-1636
+72.2	heastart4	Move	-84,96,-1624	40
+74.2	heastart4	Despawn

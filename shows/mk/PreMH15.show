@@ -1,0 +1,43 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+Show	Name	Parade
+#Mainstreet block/Pre/Show start
+3	Block	152	-102,49,-1405
+4	Block	20	-102,49,-1405
+10	Block	152	-131,53,-1435
+900	Block	152	-110,48,-1410
+#Time system
+0	Block	35	-122,53,-1400
+900	Block	152	-123,53,-1401
+#Audio
+498	Block	152	-105,51,-1396
+500	AudioStart	mhpre
+502	AudioSync	mhpre	2
+590	AudioSync	mhpre	70
+640	AudioSync	mhpre	120
+700	AudioSync	mhpre	180
+
+0	Text	&eLadies and gentleman boys and girls in just &d15 Minutes &ewe invite you to join us for our &d&lMagic Happens Parade &eat /warp mainstreet
+300	Text	&eLadies and gentleman boys and girls in just &d10 Minutes &ewe invite you to join us for our &d&lMagic Happens Parade &eat /warp mainstreet
+600	Text	&eLadies and gentleman boys and girls in just &d5 Minutes &ewe invite you to join us for our &d&lMagic Happens Parade &eat /warp mainstreet
+60	Text	&6Hear the Parade music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6During &d&lMagic Happens&6, please be on version &e1.12.2!
+240	Text	&6Hear the Parade music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6During &d&lMagic Happens&6, please be on version &e1.12.2!
+420	Text	&6Hear the Parade music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6During &d&lMagic Happens&6, please be on version &e1.12.2!
+540	Text	&6Hear the Parade music with &dThe Palace Network's &6Audio Server just type &a/audio
+660	Text	&6During &d&lMagic Happens&6, please be on version &e1.12.2!
+720	Text	&6Hear the Parade music with &dThe Palace Network's &6Audio Server just type &a/audio
+780	Text	&6During &d&lMagic Happens&6, please be on version &e1.12.2!
+840	Text	&6Hear the Parade music with &dThe Palace Network's &6Audio Server just type &a/audio
+880	Text	&6During &d&lMagic Happens&6, please be on version &e1.12.2!
+#/b
+0	Block	152	-125,49,-1413
+1	Block	20	-125,49,-1413
+270	Block	152	-125,49,-1414
+271	Block	20	-125,49,-1414
+570	Block	152	-125,49,-1415
+571	Block	20	-125,49,-1415
+750	Block	152	-125,49,-1416
+751	Block	20	-125,49,-1416

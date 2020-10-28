@@ -1,0 +1,79 @@
+Show    Location    -215,62,339
+ArmorStand    witch    false    skull:eyJ0aW1lc3RhbXAiOjE0NjgwOTMyOTAxMzUsInByb2ZpbGVJZCI6IjIwMDI2ZGIwOTZkYzQ0YzE5NTE5OTk5MGJkNjA2MmI2IiwicHJvZmlsZU5hbWUiOiJWaXJ1c0VsaXRlNTI0Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hOWI3ZWQ4NWQ5NzZhNWRiMjUwNTViMTgxZTJhNWQwYjFjM2JlOWY4OTUwMmFhMmIxYmZiMWNhMmZjZDRlOTgifSwiQ0FQRSI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YyZGI5MzhhYmFjNDQ0ZmYzMTViOTVlOTU5MDE4NGUwZTJmZTg5NDFmZGZmNTU5YTRhYjk2Y2Q1NGJjZGQifX19;299(0,0,0);300(0,0,0);301(0,0,0)
+0    ArmorStand    witch    spawn    -211.7,64,338.6
+#Audio Sync
+0	AudioStart	gmrwizard2
+0	AudioSync	gmrwizard2	0
+2	AudioSync	gmrwizard2	2
+5	AudioSync	gmrwizard2	5
+10	AudioSync	gmrwizard2	10
+30	AudioSync	gmrwizard2	30
+60	AudioSync	gmrwizard2	60
+#Particles
+#/particle cloud -236.3 66 335.7 0 1 0 .05 220 force
+5    ArmorStand    witch    position    HEAD    5,0,0    .3
+5    ArmorStand    witch    position    ARM_LEFT    -30,0,-15    .3
+#/particle cloud -212 64 338.6 0 0 -0.7 .05 400 force
+#/particle cloud -212 65 338.6 0 0 -0.7 .025 600 force
+#START PARTICLES
+.1    Block    152    -210,60,339
+.1    Block    152    -210,60,337
+.3    Block    0    -210,60,339
+.3    Block    0    -210,60,337
+.1    Block    152    -210,60,341
+.3    Block    0    -210,60,341
+#broom data
+.5    Block    152    -206,61,337
+1    Block    0    -206,61,337
+#rotate 45
+.7    Block    152    -206,61,338
+2    Block    0    -206,61,338
+#rotate 140
+9.5    Block    152    -206,61,339
+9.7    Block    0    -206,61,339
+#rotate 40
+13    Block    152    -206,61,340
+13.2    Block    0    -206,61,340
+#rotate 140
+17.8    Block    152    -206,61,341
+18    Block    0    -206,61,341
+#rotate 120
+20    Block    152    -206,61,342
+20.2    Block    0    -206,61,342
+#rotate 40
+21.3    Block    152    -206,61,343
+21.5    Block    0    -206,61,343
+#rotate 70
+24.1    Block    152    -206,61,344
+24.3    Block    0    -206,61,344
+#rotate 40
+28.4    Block    152    -206,61,345
+28.6    Block    0    -206,61,345
+#rotate 110
+31    Block    152    -206,61,346
+31.2    Block    0    -206,61,346
+#end particles and despawn
+31.9    Block    152    -210,60,339
+31.9    Block    152    -210,60,337
+32.1    Block    0    -210,60,339
+32.1    Block    0    -210,60,337
+31.9    Block    152    -210,60,341
+32.1    Block    0    -210,60,341
+32.4    ArmorStand    witch    despawn
+
+#HEAD STUFF
+7.8	ArmorStand	witch	position	HEAD	-5,0,0	.2
+9.4	ArmorStand	witch	position	HEAD	10,0,0	.2
+12.7	ArmorStand	witch	position	HEAD	-10,0,0	.2
+14.3	ArmorStand	witch	position	HEAD	5,0,0	.2
+15.4	ArmorStand	witch	position	HEAD	-5,0,0	.2
+19.8	ArmorStand	witch	position	HEAD	-30,0,0	.2
+21	ArmorStand	witch	position	HEAD	40,0,0	.5
+22	ArmorStand	witch	position	HEAD	-10,0,0	.5
+24.9	ArmorStand	witch	position	HEAD	-5,0,0	.5
+26.8	ArmorStand	witch	position	HEAD	5,0,0	.2
+28.5	ArmorStand	witch	position	HEAD	10,0,0	.5
+31	ArmorStand	witch	position	HEAD	-10,0,0	1
+
+#arm movement?
+28.5	ArmorStand	witch	position	ARM_LEFT	-10,0,0	.2

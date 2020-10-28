@@ -1,0 +1,159 @@
+﻿Show	Location	-282,43,-1746
+Show	TextRadius	3
+#Define
+ArmorStand	hmghosthost1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDBmNzU4NWZlZjBkZWUwNDFmMzNhNjc5MTFkNzlmOTVhZDkwYzdkYjFmMmVjNTAxNTZmMzUzY2Y5NDFkYWY3MiJ9fX0=";299(163,218,172);300(39,47,97);0;0
+0	ArmorStand		hmghosthost1	Spawn	-280.525,54,-1745.518,135.3
+0.1	ArmorStand	hmghosthost1	Position	HEAD	43.6,0,0	0.5
+#Barriers
+0	Block	166	-278,43,-1749
+0	Block	166	-279,43,-1750
+0	Block	166	-278,44,-1749
+0	Block	166	-279,44,-1750
+#CloseDoor
+5	Block	17:1	-280,43,-1744
+5	Block	17:1	-279,43,-1745
+6	Block	17:1	-280,44,-1744
+6	Block	17:1	-279,44,-1745
+#CloseFrontDoor
+0	Block	17:1	-279,43,-1749
+0	Block	17:1	-279,44,-1749
+#StopTestFor
+0	Block	0	-274,40,-1748
+#ResumeTestFor
+115	Block	152	-274,40,-1748
+#TpOut(FirstRoom)
+6	Block	152	-267,36,-1743
+#AudioStart
+10	Block	152	-293,36,-1745
+#Sequence
+0	Sequence	Build	hmstretch
+#RemoveActualBlocks
+0	Block	0	-284,48,-1747
+0	Block	0	-284,48,-1746
+0	Block	0	-283,48,-1745
+0	Block	0	-282,48,-1744
+0	Block	0	-281,48,-1744
+0	Block	0	-280,48,-1745
+0	Block	0	-279,48,-1746
+0	Block	0	-279,48,-1747
+0	Block	0	-280,48,-1748
+0	Block	0	-281,48,-1749
+0	Block	0	-282,48,-1749
+0	Block	0	-283,48,-1748
+0	Block	0	-283,48,-1746
+0	Block	0	-281,48,-1745
+0	Block	0	-280,48,-1746
+0	Block	0	-282,48,-1748
+0	Block	0	-283,49,-1747
+0	Block	0	-283,49,-1746
+0	Block	0	-282,49,-1745
+0	Block	0	-281,49,-1745
+0	Block	0	-280,49,-1746
+0	Block	0	-280,49,-1747
+0	Block	0	-281,49,-1748
+0	Block	0	-282,49,-1748
+0	Block	0	-282,49,-1746
+0	Block	0	-281,49,-1746
+0	Block	0	-281,49,-1747
+0	Block	0	-282,49,-1747
+0	Block	0	-280,48,-1747
+#FallingBlocksToNormal
+63	Schematic	hmstretchR	-284	50	-1744	mk	true
+#LightsControl
+66	Block	5:2	-282,42,-1747
+80	Block	89	-282,42,-1747
+#Text
+10	Text	&e"Our tour begins here, in this gallery... Where you see paintings of some of our guests, as they appeared in their corruptible, mortal state..."
+22	Text	&e"Your cadaverous pallor, betrays an aura of foreboding, almost as though you sense a disquieting metamorphosis.."
+32	Text	&e"Is this Haunted room actually stretching? Or is it your imagination, hmm?
+41.5	Text	&e"And condsider this dismaying observation... this chamber has no windows, and no doors..."
+53	Text	&e"Which offers you this chilling challenge... to find a way out! Hahaha!!"
+62.5	Text	&e"Of course, there's always my way..."
+80	Text	&e"Oh, I didn't mean to frighten you prematurely."
+85	Text	&e"The real chills come later... now, as they say; look alive."
+93	Text	&e"and we'll continue our little tour. And let's all stay together, please."
+#PaintingsUp1
+35	Block	152	-293,36,-1747
+35	Block	152	-293,36,-1750
+35	Block	152	-293,36,-1753
+35	Block	152	-293,36,-1756
+#PaintingsUp2
+60	Block	152	-293,36,-1748
+60	Block	152	-293,36,-1751
+60	Block	152	-293,36,-1754
+60	Block	152	-293,36,-1757
+#See-ThroughRoof
+67	Block	79	-282,51,-1747
+67	Block	79	-281,51,-1746
+67	Block	79	-281,51,-1747
+67	Block	79	-282,51,-1746
+#FallingBlocksToNormal
+80	Schematic	hmstretchR	-284	50	-1744	mk	true
+#Flash
+67.5	Block	119	-282,55,-1747
+67.7	Block	0	-282,55,-1747
+68.7	Block	119	-282,55,-1747
+68.9	Block	0	-282,55,-1747
+69.9	Block	119	-282,55,-1747
+70.1	Block	0	-282,55,-1747
+71.1	Block	119	-282,55,-1747
+71.3	Block	0	-282,55,-1747
+72.3	Block	119	-282,55,-1747
+72.5	Block	0	-282,55,-1747
+73.5	Block	119	-282,55,-1747
+73.7	Block	0	-282,55,-1747
+#OpenFrontDoor
+95	Block	0	-279,43,-1749
+95	Block	0	-279,44,-1749
+#Barriers
+95	Block	0	-278,43,-1749
+95	Block	0	-279,43,-1750
+95	Block	0	-278,44,-1749
+95	Block	0	-279,44,-1750
+#CloseFrontDoor
+110	Block	17:1	-279,43,-1749
+110	Block	17:1	-279,44,-1749
+#Barriers
+110	Block	166	-278,43,-1749
+110	Block	166	-279,43,-1750
+110	Block	166	-278,44,-1749
+110	Block	166	-279,44,-1750
+#TpOut
+111	Block	152	-293,36,-1758
+#ResetAll
+115	ArmorStand	hmghosthost1	Despawn
+115	Block	152	-293,36,-1746
+115	Block	152	-293,36,-1749
+115	Block	152	-293,36,-1752
+115	Block	152	-293,36,-1755
+115	Schematic	hmstretchR	-284	48	-1744	mk	true
+#RemoveSchematic
+115	Block	0	-284,50,-1747
+115	Block	0	-284,50,-1746
+115	Block	0	-283,50,-1745
+115	Block	0	-282,50,-1744
+115	Block	0	-281,50,-1744
+115	Block	0	-280,50,-1745
+115	Block	0	-279,50,-1746
+115	Block	0	-279,50,-1747
+115	Block	0	-280,50,-1748
+115	Block	0	-281,50,-1749
+115	Block	0	-282,50,-1749
+115	Block	0	-283,50,-1748
+115	Block	0	-283,50,-1746
+115	Block	0	-281,50,-1745
+115	Block	0	-280,50,-1746
+115	Block	0	-282,50,-1748
+115	Block	0	-283,51,-1747
+115	Block	0	-283,51,-1746
+115	Block	0	-282,51,-1745
+115	Block	0	-281,51,-1745
+115	Block	0	-280,51,-1746
+115	Block	0	-280,51,-1747
+115	Block	0	-281,51,-1748
+115	Block	0	-282,51,-1748
+115	Block	0	-282,51,-1746
+115	Block	0	-281,51,-1746
+115	Block	0	-281,51,-1747
+115	Block	0	-282,51,-1747
+115	Block	0	-280,50,-1747

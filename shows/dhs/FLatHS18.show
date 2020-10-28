@@ -1,0 +1,127 @@
+#Show Started January 20th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths18
+5	AudioSync	flaths18	5
+10	AudioSync	flaths18	10
+30	AudioSync	flaths18	30
+60	AudioSync	flaths18	60
+90	AudioSync	flaths18	90
+120	AudioSync	flaths18	120
+150	AudioSync	flaths18	150
+180	AudioSync	flaths18	180
+210	AudioSync	flaths18	210
+#S18Finale
+6.1	Text	&eNa na na heyana
+8.5	Text	&eHahiyaha naha
+13.8	Text	&eNaheya heya na yanuwa
+17.5	Text	&eHanahe yunuwana
+23.1	Text	&eNa na na heyana
+25.8	Text	&eHahiyaha naha
+29.1	Text	&eNaheya heya na yanuwa
+32.4	Text	&eNa na na heyana
+34.3	Text	&eHahiyaha naha
+38.2	Text	&eNaheya heya na yanuwa
+42	Text	&eHanahe yunuwana
+48.1	Text	&f[&dAnna&f] &7I knew you could do it!
+49.8	Text	&f[&bElsa&f] &7I couldn’t have, not with you.
+56	Text	&f[&9Olaf&f] &7Hands down this is the best day of my life!
+59.9	Text	&7...and quite possibly the last.
+62.4	Text	&f[&bElsa&f] &7Oh Olaf, hang on little guy!
+67.9	Text	&f[&9Olaf&f] &7Hey, my own personal flurry!
+72.4	Text	&f[&3Kristoff&f] &7As for you…
+74.2	Text	&f[&dAnna&f] &7I’ve got this.
+75.6	Text	&f[&6Hans&f] &7I- I don’t understand.
+77.2	Text	&7She froze your heart.
+79.3	Text	&f[&dAnna&f] &7The only frozen heart around here is yours.
+87.5	Text	&f[&bElsa&f] &7Guard, take Prince Hans back to his country.
+90.3	Text	&7We’ll see what his twelve big brothers think of his behavior.
+93.2	Text	&f[&cDuke of Weselton&f] &7I couldn’t agree with you more your Majesty.
+95.1	Text	&f[&bElsa&f] &7And take the duke with you.
+97.1	Text	&7Arendelle will henceforth and forever no longer do business of any sort with &oWeaseltown.
+103.5	Text	&f[&cDuke of Weselton&f] &7It’s Weselton... Weselton... Weselton!
+107.9	Text	&f[&dAnna&f] &7I was wondering if maybe we couldn’t use a royal ice master and deliverer.
+114.7	Text	&f[&bElsa&f] &7Of course.
+115.5	Text	&f[&dAnna&f] &7What do you say Kristoff?
+116.8	Text	&f[&3Kristoff&f] &7Is that a thing?
+117.8	Text	&f[&dAnna&f] &7It is now.
+119.2	Text	&f[&3Kristoff&f] &7You mean it? 
+120.2	Text	&7Oh, Anna, I could kiss you!
+122.6	Text	&7...I could.
+124	Text	&7...I mean, I’d like to.
+126.2	Text	&7May I...? May we...? Me? Wait, what?
+132.2	Text	&f[&dAnna&f] &7We may.
+138.6	Text	&f[&bElsa&f] &7And one more thing.
+140.9	Text	&7Henceforth the gates will never be closed again.
+149.2	Text	&f[&5King&f] &7Say goodbye to the pain of the past.
+151	Text	&f[&5Queen&f] &7Say goodbye.
+156.1	Text	&f[&5King &f& &5Queen&f] &7You don’t have to feel it anymore.
+164	Text	&f[&dAnna &f& &bElsa&f] &7Love is an open door.
+169.7	Text	&eLove is an open door.
+174.7	Text	&e&lLove is an open door.
+179.4	Text	&e&lLove is an open door.
+184.1	Text	&e&lLove is an open door.
+185.9	Text	&f[&dAnna&f] &dWith you!
+186.6	Text	&f[&3Kristoff&f] &3With you!
+187.2	Text	&f[&aMaid&f] &aWith you!
+187.8	Text	&f[&aButler&f] &aWith you!
+188.6	Text	&e&lLife could be so much more.
+190.5	Text	&eWith you!
+191.4	Text	&f[&9Olaf&f] &9With you!
+192	Text	&f[&bElsa&f] &bWith you!
+192.7	Text	&eWith you!
+193.6	Text	&eLove is an open door,
+195.3	Text	&eWith you!
+196	Text	&6With you!
+196.8	Text	&eWith you!
+197.5	Text	&6With you!
+198.2	Text	&e&lLove is an open door!
+#Magic
+6.10	Block	152	459,88,69
+6.10	Block	1	457,88,74
+8.60	Block	1	457,88,76
+11.1	Block	1	457,88,78
+13.6	Block	1	457,88,80
+16.1	Block	0	459,88,69
+16.1	Block	0	457,88,74
+16.1	Block	0	457,88,76
+16.1	Block	0	457,88,78
+16.1	Block	0	457,88,80
+32.4	Block	152	453,88,82
+44.1	Block	152	455,88,95
+#Flurry
+65.7	Block	152	460,88,81
+107.9	Block	0	460,88,81
+#Schematics
+1	Schematic	FLatHS18.1	439	62	68	newhws	false
+2.6	Schematic	FLatHS18.2	439	62	68	newhws	false
+6.1	Schematic	FLatHS18.3	439	62	68	newhws	false
+16.1	Schematic	FLatHS18.4	439	62	68	newhws	false
+20.1	Schematic	FLatHS18.5	439	62	68	newhws	false
+21.1	Schematic	FLatHS18.6	439	62	68	newhws	false
+22.1	Schematic	FLatHS18.7	439	62	68	newhws	false
+22.7	Schematic	FLatHS18.8	439	62	68	newhws	false
+25.4	Schematic	FLatHS18.9	439	62	68	newhws	false
+28.1	Schematic	FLatHS18.10	439	62	68	newhws	false
+32.4	Schematic	FLatHS18.11	439	62	68	newhws	false
+44.1	Schematic	FLatHS18.12	439	62	68	newhws	false
+140.9	Schematic	FLatHS18.13	439	62	68	newhws	false
+141.9	Schematic	FLatHS18.14	439	62	68	newhws	false
+142.9	Schematic	FLatHS18.15	439	62	68	newhws	false
+179.1	Schematic	FLatHS18.16	439	62	68	newhws	false
+180.1	Schematic	FLatHS18.17	439	62	68	newhws	false
+181.1	Schematic	FLatHS18.18	439	62	68	newhws	false
+206	Schematic	FLatHS18.19	439	62	68	newhws	false
+#DoorsToBalconyLeftStage
+44.1	Block	76	455,67,101
+140.8	Block	0	455,67,101
+206.0	Block	76	455,67,101
+#DoorsToBalconyLeftStage
+142.9	Block	76	455,67,67
+179.0	Block	0	455,67,67
+206.0	Block	76	455,67,67
+#LightsForLeftBalcony
+147.7	Block	89	455,78,100
+147.7	Block	89	455,76,100

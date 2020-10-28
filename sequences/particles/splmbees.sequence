@@ -1,0 +1,29 @@
+Sequence	Particle
+Cylinder	splmbee1	reddust	1,1,0	0	1	7	0.0001	1	half	south
+#Start
+0	splmbee1	Spawn	-548.5,48,-1627.5
+0.1	splmbee1	Move	-547.5,48,-1628.5	10
+0.6	splmbee1	Move	-548.5,48,-1629.5	10
+1.1	splmbee1	Move	-549.5,48,-1628.5	10
+1.6	splmbee1	Move	-548.5,48,-1627.5	10
+2.1	splmbee1	Move	-547.5,48,-1628.5	10
+2.6	splmbee1	Move	-548.5,48,-1629.5	10
+3.1	splmbee1	Move	-549.5,48,-1628.5	10
+3.6	splmbee1	Move	-548.5,48,-1627.5	10
+4.1	splmbee1	Move	-547.5,48,-1628.5	10
+4.6	splmbee1	Move	-548.5,48,-1629.5	10
+5.1	splmbee1	Move	-549.5,48,-1628.5	10
+5.6	splmbee1	Move	-548.5,48,-1627.5	10
+6.1	splmbee1	Move	-547.5,48,-1628.5	10
+6.6	splmbee1	Move	-548.5,48,-1629.5	10
+7.1	splmbee1	Move	-549.5,48,-1628.5	10
+7.6	splmbee1	Move	-548.5,48,-1627.5	10
+8.1	splmbee1	Move	-547.5,48,-1628.5	10
+8.6	splmbee1	Move	-548.5,48,-1629.5	10
+9.1	splmbee1	Move	-549.5,48,-1628.5	10
+9.6	splmbee1	Move	-548.5,48,-1627.5	10
+10.1	splmbee1	Move	-547.5,48,-1628.5	10
+10.6	splmbee1	Move	-548.5,48,-1629.5	10
+11.1	splmbee1	Move	-549.5,48,-1628.5	10
+11.6	splmbee1	Move	-548.5,48,-1627.5	10
+12.1	splmbee1	Despawn

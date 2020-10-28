@@ -1,0 +1,351 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	150
+0	Sequence	Light	healights
+
+0 Block	152	-90,43,-1555
+1 Block	20	-90,43,-1555
+
+#Effects
+
+Effect	ExampleA 	BALL_LARGE,FUCHSIA&WHITE,WHITE,FLICKER,TRAIL
+Effect  ExampleC  BALL,PURPLE,YELLOW,FLICKER,TRAIL
+Effect	ExampleB	BURST,SILVER&WHITE,WHITE,TRAIL
+
+#Opening
+Effect	b1	BURST,255;160;117
+#b1a= "gold trail->smoke
+Effect	b1a	BURST,252;229;232,153;111;119,TRAIL
+Effect	b2	BURST,223;158;181,TRAIL
+Effect	sb1	BALL,246;131;161,FLICKER
+Effect	lb1	BALL_LARGE,165;86;67,222;193;196,TRAIL
+Effect	lb1b	BALL_LARGE,165;86;67,246;131;161,FLICKER
+Effect	bla	BURST,245;148;81
+Effect	b3	BURST,245;148;81
+Effect	b4	BURST,255;105;158,WHITE,TRAIL
+Effect	b5	BURST,123;89;105,250;250;250,FLICKER,TRAIL
+Effect	lb2c	BALL_LARGE,191;172;166,195;159;136,TRAIL
+Effect	b6c	BURST,246;131;161,FLICKER
+Effect  lb3da BALL_LARGE,SILVER&WHITE,WHITE,FLICKER,TRAIL
+Effect	star1	STAR,WHITE&AQUA,TRAIL
+#New shooting star into Tiana
+Effect	tianb	BURST,244;193;81,TRAIL
+Effect	tianb2	BURST,190;170;250,TRAIL
+Effect	tianb3	BURST,WHITE
+Effect	tianb4a	BURST,243;207;168,TRAIL
+Effect	tiansbb	BALL,204;180;218
+Effect	tianlbb	BALL_LARGE,248;233;228&169;138;144,221;173;143,FLICKER
+Effect	jelly1	BALL_LARGE,136;130;160
+Effect	jelly2	BURST,234;213;182,TRAIL
+Effect	jelly3	BURST,234;213;182
+Effect	ariel1	BALL_LARGE,144;115;108,244;187;139,FLICKER,TRAIL
+Effect	ariel2	BALL_LARGE,153;111;119,154;172;138,FLICKER
+#ariel1 follows...with tianb3 which follows V
+Effect	ariel3	BALL_LARGE,144;115;108,244;187;139&154;172;138,FLICKER,TRAIL
+Effect	ariel4	BALL_LARGE,244;187;139&154;172;138
+#Our friend b5 makes a surprise appearance
+Effect	ariel5	BALL_LARGE,RED,WHITE
+Effect	ariel5b	BALL,250;250;250,FLICKER,TRAIL
+Effect	ariel6	BALL_LARGE,249;193;173&123;89;105&249;193;173&195;179;241,154;172;138&244;193;81
+Effect	ariel7	BURST,240;195;178,WHITE&218;187;150,TRAIL
+#Out There, yes, 2 pairs of tests
+Effect	hunc1	BALL_LARGE,225;34;45
+Effect	hunc2	BALL,225;34;45
+Effect	hunc3	BALL_LARGE,255;94;46
+Effect	hunc4	BALL,255;94;46
+Effect	hunc5	BALL_LARGE,249;66;63&227;215;138
+Effect	hunc6	BALL,249;66;63&227;215;138,TRAIL
+Effect	hunc6b	BALL_LARGE,0;0;0,212;117;133
+#hunc6,hunc7b likes being bells, yes, I will look to do bells later..
+Effect	hunc7b	BALL_LARGE,0;0;0,217;178;103,TRAIL
+Effect	hunc8	BURST,243;207;168,TRAIL
+Effect	hunc9	BURST,252;91;166
+#+b1a
+Effect	hunc10u	BURST,249;193;173,TRAIL
+Effect	hunc11u	BALL,192;172;214
+#b5+hunc6b+
+Effect	hunc12	BALL_LARGE,218;187;150,TRAIL
+Effect	hunc13	BALL,LIME,TRAIL,FLICKER
+
+
+#BRAVE
+Effect	brav1	BURST,233;157;149
+Effect	brav2a	BURST,237;54;59
+Effect	brav2b	BALL,237;54;59
+Effect	brav2c	BALL_LARGE,237;54;59
+Effect	brav3	BALL,231;221;202
+Effect	brav3a	BALL_LARGE,239;94;135,151;187;158
+Effect	brav4	BALL_LARGE,120;107;111,168;56;81
+#Butterflies
+Effect	brav5	BALL,102;90;109
+Effect	brav5a	CREEPER,237;54;59&154;172;138
+#4:54 in https://www.youtube.com/watch?v=d7FFFENv6i4&
+Effect	brav6	BURST,255;126;135&147;217;209&255;181;150
+Effect	brav6a	BURST,250;146;96,TRAIL
+Effect	brav7	BALL_LARGE,227;215;138&255;94;46
+Effect	brav7a	BALL,227;215;138&255;94;46
+Effect	braari	BURST,253;129;79
+Effect	brav8	BALL_LARGE,199;188;185,255;184;210
+Effect	brav9	BALL_LARGE,199;188;185&245;97;126,199;188;185&245;97;126
+Effect	brav10	BURST,194;166;228&225;246;161&255;156;121&255;108;118&244;181;164
+#^ with b1a
+#fireworks
+99.5  Firework	-94,101,-1627	lb1,lb1b	0	0,1,0	1
+99.5  Firework  -75,101,-1627 lb1,lb1b  0 0,1,0 1
+99.5  Firework  -87,112,-1627 sb1,lb1,lb1b  0 0,1,0 1
+#Left Burst - Intro
+99.5  PowerFirework  -105,66,-1636  b1,b1a	-0.8,10,0
+99.5  PowerFirework  -105,66,-1636  b1,b1a	-0.8,10,0
+99.5  PowerFirework  -105,66,-1636  b1,b1a	-0.8,10,0
+99.5  PowerFirework  -105,66,-1636  b1,b1a	-0.8,10,0
+99.5  PowerFirework  -105,66,-1636  b1,b1a	-0.8,10,0
+#Right Burst - Intro
+99.5  PowerFirework  -69,66,-1628  b1,b1a	0.8,10,0
+99.5  PowerFirework  -69,66,-1628  b1,b1a	0.8,10,0
+99.5  PowerFirework  -69,66,-1628  b1,b1a	0.8,10,0
+99.5  PowerFirework  -69,66,-1628  b1,b1a	0.8,10,0
+99.5  PowerFirework  -69,66,-1628  b1,b1a	0.8,10,0
+
+106.1  PowerFirework  -98,67,-1623  b3,b1a	-1,10,0
+106.3  PowerFirework  -98,75,-1633  b3,b1a	-1,10,0
+106.5  PowerFirework  -69,67,-1628  b3,b1a	1,25,0
+106.5  PowerFirework  -74,75,-1633  b3,b1a	1,25,0
+
+106.8  PowerFirework  -108,47,-1614  b5	-1,2,0
+106.8  PowerFirework  -108,47,-1614  b5	-1,2,0
+106.8  PowerFirework  -108,47,-1614  b5	-1,2,0
+106.8  PowerFirework  -72,47,-1614  b5	1,2,0
+106.8  PowerFirework  -72,47,-1614  b5	1,2,0
+106.8  PowerFirework  -72,47,-1614  b5	1,2,0
+106.8  Firework	-85,109,-1629	sb1,lb1	0	0,1,0	1
+
+113  Firework	-91,102,-1631	sb1,lb1	0	0,1,0	1
+113  Firework	-79,102,-1631	sb1,lb1	0	0,1,0	1
+
+114.8  PowerFirework  -108,47,-1614  b5	-1,2,0
+114.8  PowerFirework  -108,47,-1614  b5	-1,2,0
+114.8  PowerFirework  -108,47,-1614  b5	-1,2,0
+114.8  PowerFirework  -72,47,-1614  b5	1,2,0
+114.8  PowerFirework  -72,47,-1614  b5	1,2,0
+114.8  PowerFirework  -72,47,-1614  b5	1,2,0
+114.8  Firework	-85,109,-1629	sb1,lb1	0	0,1,0	1
+
+122.3  Firework	-85,109,-1629	sb1,lb1	0	0,1,0	1
+
+124  Firework	-117,100,-1630	lb3da 0	0,1,0	1
+124  Firework	-112,100,-1630	lb3da 0	0,1,0	1
+124  Firework	-107,100,-1630	lb3da 0	0,1,0	1
+124  Firework	-102,100,-1630	lb3da 0	0,1,0	1
+
+124  Firework	-68,100,-1630	lb3da 0	0,1,0	1
+124  Firework	-63,100,-1630	lb3da 0	0,1,0	1
+124  Firework	-58,100,-1630	lb3da 0	0,1,0	1
+124  Firework	-53,100,-1630	lb3da 0	0,1,0	1
+
+126  Firework	-91,102,-1631	lb1,lb1b	0	0,1,0	1
+126  Firework	-79,102,-1631	lb1,lb1b	0	0,1,0	1
+
+129.8  PowerFirework  -116,45,-1605  b5,b3	0,10,-1
+130.1  PowerFirework  -110,45,-1611  b5,b3	0,10,-1
+130.4  PowerFirework  -104,47,-1615  b5,b3	0,10,-1
+129.8  PowerFirework  -66,45,-1608  b5,b3	-0.5,10,1
+130.1  PowerFirework  -70,45,-1612  b5,b3	-0.5,10,1
+130.4  PowerFirework  -74,47,-1616  b5,b3	-0.5,10,1
+130.6  Firework	-94,101,-1627	lb1,lb1b	0	0,1,0	1
+
+#Tiana
+148.5  Firework	-81,102,-1631	tianb	0	0,1,0	1
+148.5  Firework	-89,102,-1631	tianb	0	0,1,0	1
+154.5  Firework	-81,102,-1631	tianb	0	0,1,0	1
+154.5  Firework	-93,102,-1631	tianb	0	0,1,0	1
+
+164.5  Firework	-85,108,-1629	tianb2	0	0,1,0	1
+164.5  Firework	-84,110,-1629	tianb2	0	0,1,0	1
+164.5  Firework	-82,110,-1629	tianb2	0	0,1,0	1
+
+172  PowerFirework  -91,85,-1631  b5,jelly2,jelly3	-1,5,0
+172.5  PowerFirework  -89,85,-1631  b5,jelly2,jelly3	-0.5,5,0
+173  PowerFirework  -87,85,-1631  b5,jelly2,jelly3	0,5,0
+173.5  PowerFirework  -83,85,-1631  b5,jelly2,jelly3	0.5,5,0
+174  PowerFirework  -81,85,-1631  b5,jelly2,jelly3	1,5,0
+174.5  PowerFirework  -79,85,-1631  b5,jelly2,jelly3	1.5,5,0
+
+175.5  PowerFirework  -79,85,-1631  b5,jelly2,jelly3	1.5,5,0
+176  PowerFirework  -81,85,-1631  b5,jelly2,jelly3	1,5,0
+176.5  PowerFirework  -83,85,-1631  b5,jelly2,jelly3	0.5,5,0
+177  PowerFirework  -87,85,-1631  b5,jelly2,jelly3	0,5,0
+177.5  PowerFirework  -89,85,-1631  b5,jelly2,jelly3	-0.5,5,0
+178  PowerFirework  -91,85,-1631  b5,jelly2,jelly3	-1,5,0
+
+181  Firework	-95,91,-1627	tiansbb,tianlbb	0	0,1,0	1
+182.5  Firework	-88,104,-1629	tiansbb,tianlbb	0	0,1,0	1
+184  Firework	-76,97,-1629	tiansbb,tianlbb	0	0,1,0	1
+
+187  Firework	-95,90,-1622	tiansbb,tianlbb	0	0,1,0	1
+187  Firework	-75,90,-1622	tiansbb,tianlbb	0	0,1,0	1
+
+190  Firework	-100,89,-1630	ariel1,ariel2	0	0,1,0	1
+190.4  Firework	-95,85,-1622	ariel1,ariel2	0	0,1,0	1
+
+190  Firework	-90,90,-1622	ariel6	0	0,1,0	1
+190  Firework	-80,90,-1622	ariel6	0	0,1,0	1
+190.3  Firework	-84,93,-1622	ariel1,ariel5	0	0,1,0	1
+193.3  Firework	-86.5,93,-1622	ariel1,ariel5,b5	0	0,1,0	1
+195.3  Firework	-90,93,-1622	ariel1,ariel5,b5	0	0,1,0	1
+
+196  Firework	-90,90,-1622	tiansbb,tianlbb	0	0,1,0	1
+196  Firework	-80,90,-1622	tiansbb,tianlbb	0	0,1,0	1
+196.2  Firework	-84,93,-1622	tiansbb,tianlbb	0	0,1,0	1
+197  Firework	-86.5,93,-1622	tiansbb,tianlbb,b5	0	0,1,0	1
+199  Firework	-90,93,-1622	tiansbb,tianlbb,b5	0	0,1,0	1
+200  Firework	-109,78,-1621	tiansbb,tianlbb	0	0,1,0	1
+202  Firework	-100,89,-1630	tiansbb,tianlbb	0	0,1,0	1
+204.5  Firework	-76,97,-1626	tiansbb,tianlbb	0	0,1,0	1
+205.5  Firework	-73,93,-1626	tiansbb,tianlbb	0	0,1,0	1
+
+206.5  PowerFirework  -109,45,-1613  b5,jelly2,jelly3	-1.8,5,0
+207  PowerFirework  -108,45,-1614  b5,jelly2,jelly3	-1.5,5,0
+207.5  PowerFirework  -107,45,-1615  b5,jelly2,jelly3	-1,5,0
+208  PowerFirework  -106,45,-1615  b5,jelly2,jelly3	-0.5,5,0
+208.5  PowerFirework  -105,45,-1615  b5,jelly2,jelly3	0,5,0
+209  PowerFirework  -104,45,-1615  b5,jelly2,jelly3	0.5,5,0
+209.5  PowerFirework  -103,45,-1615  b5,jelly2,jelly3	1,5,0
+210  PowerFirework  -102,45,-1615  b5,jelly2,jelly3	1.5,5,0
+
+210.5  PowerFirework  -75,45,-1616  b5,jelly2,jelly3	-1.8,5,0
+211  PowerFirework  -74,45,-1616  b5,jelly2,jelly3	-1.5,5,0
+211.5  PowerFirework  -73,45,-1616  b5,jelly2,jelly3	-1,5,0
+212  PowerFirework  -72,45,-1616  b5,jelly2,jelly3	-0.5,5,0
+212.5  PowerFirework  -71,45,-1615  b5,jelly2,jelly3	0,5,0
+213  PowerFirework  -69,45,-1614  b5,jelly2,jelly3	0.5,5,0
+213.5  PowerFirework  -68,45,-1613  b5,jelly2,jelly3	1,5,0
+214  PowerFirework  -67,45,-1612  b5,jelly2,jelly3	1.5,5,0
+
+215.10  PowerFirework  -96,100,-1631  hunc1	0,0,0
+215.20  PowerFirework  -101,96,-1631  hunc2	0,0,0
+222.2  PowerFirework  -100,88,-1629  hunc3	0,0,0
+222.3  PowerFirework  -108,86,-1629  hunc4	0,0,0
+228.7  PowerFirework  -100,92,-1629  hunc5	0,0,0
+228.9  PowerFirework  -108,94,-1629  hunc6,hunc6b	0,0,0
+236.7  PowerFirework  -100,91,-1629  hunc6,hunc6b	0,0,0
+236.9  PowerFirework  -108,95,-1629  hunc7b	0,0,0
+243.9  PowerFirework  -96,90,-1625  hunc8	0,0,0
+244  PowerFirework  -101,89,-1625  hunc9	0,0,0
+245.7  PowerFirework  -96,95,-1625  hunc10u	0,0,0
+245.9  PowerFirework  -101,90,-1625  hunc9	0,0,0
+247.5  PowerFirework  -101,89,-1625  hunc8	0,0,0
+247.7  PowerFirework  -96,95,-1625  hunc9	0,0,0
+
+249.7  PowerFirework  -101,90,-1625  hunc8	0,0,0
+250.6  PowerFirework  -115,66,-1623  hunc12	0,0,0
+251.5  PowerFirework  -118,74,-1623  hunc12	0,0,0
+251.5  PowerFirework  -112,74,-1623  hunc12	0,0,0
+252  PowerFirework  -115,79,-1623  hunc12	0,0,0
+
+257.2  PowerFirework  -109,45,-1613  b5,jelly2,jelly3	-1.8,5,0
+257.4  PowerFirework  -108,45,-1614  b5,jelly2,jelly3	-1.5,5,0
+257.6  PowerFirework  -107,45,-1615  b5,jelly2,jelly3	-1,5,0
+257.8  PowerFirework  -106,45,-1615  b5,jelly2,jelly3	-0.5,5,0
+258.2  PowerFirework  -105,45,-1615  b5,jelly2,jelly3	0,5,0
+258.4  PowerFirework  -104,45,-1615  b5,jelly2,jelly3	0.5,5,0
+258.6  PowerFirework  -103,45,-1615  b5,jelly2,jelly3	1,5,0
+258.8  PowerFirework  -102,45,-1615  b5,jelly2,jelly3	1.5,5,0
+
+257.2  PowerFirework  -75,45,-1616  b5,jelly2,jelly3	-1.8,5,0
+257.4  PowerFirework  -74,45,-1616  b5,jelly2,jelly3	-1.5,5,0
+257.6  PowerFirework  -73,45,-1616  b5,jelly2,jelly3	-1,5,0
+257.8  PowerFirework  -72,45,-1616  b5,jelly2,jelly3	-0.5,5,0
+258.2 PowerFirework  -71,45,-1615  b5,jelly2,jelly3	0,5,0
+258.4  PowerFirework  -69,45,-1614  b5,jelly2,jelly3	0.5,5,0
+258.6  PowerFirework  -68,45,-1613  b5,jelly2,jelly3	1,5,0
+258.8  PowerFirework  -67,45,-1612  b5,jelly2,jelly3	1.5,5,0
+
+
+
+259  PowerFirework  -102,45,-1615  b5,jelly2,jelly3	1.5,5,0
+259.2  PowerFirework  -103,45,-1615  b5,jelly2,jelly3	1,5,0
+259.4  PowerFirework  -104,45,-1615  b5,jelly2,jelly3	0.5,5,0
+259.6  PowerFirework  -105,45,-1615  b5,jelly2,jelly3	0,5,0
+259.8  PowerFirework  -106,45,-1615  b5,jelly2,jelly3	-0.5,5,0
+260  PowerFirework  -107,45,-1615  b5,jelly2,jelly3	-1,5,0
+260.2  PowerFirework  -108,45,-1614  b5,jelly2,jelly3	-1.5,5,0
+260.4  PowerFirework  -109,45,-1613  b5,jelly2,jelly3	-1.8,5,0
+
+259  PowerFirework  -67,45,-1612  b5,jelly2,jelly3	1.5,5,0
+259.2  PowerFirework  -68,45,-1613  b5,jelly2,jelly3	1,5,0
+259.4  PowerFirework  -69,45,-1614  b5,jelly2,jelly3	0.5,5,0
+259.6 PowerFirework  -71,45,-1615  b5,jelly2,jelly3	0,5,0
+259.8  PowerFirework  -72,45,-1616  b5,jelly2,jelly3	-0.5,5,0
+260  PowerFirework  -73,45,-1616  b5,jelly2,jelly3	-1,5,0
+260.2  PowerFirework  -74,45,-1616  b5,jelly2,jelly3	-1.5,5,0
+260.4  PowerFirework  -75,45,-1616  b5,jelly2,jelly3	-1.8,5,0
+
+259.3	PowerFirework	-104,87,-1633	b1	0,0,0
+259.3	PowerFirework	-105,89,-1633	b1	0,0,0
+259.3	PowerFirework	-105,91,-1633	b1	0,0,0
+259.3	PowerFirework	-105,93,-1633	b1	0,0,0
+259.3	PowerFirework	-104,95,-1633	b1	0,0,0
+259.3	PowerFirework	-102,96,-1633	b1	0,0,0
+259.3	PowerFirework	-100,96,-1633	b1	0,0,0
+259.3	PowerFirework	-98,96,-1633	b1	0,0,0
+259.3	PowerFirework	-96,95,-1633	b1	0,0,0
+259.3	PowerFirework	-95,93,-1633	b1	0,0,0
+259.3	PowerFirework	-95,91,-1633	b1	0,0,0
+259.3	PowerFirework	-95,89,-1633	b1	0,0,0
+259.3	PowerFirework	-96,87,-1633	b1	0,0,0
+259.3	PowerFirework	-98,86,-1633	b1	0,0,0
+259.3	PowerFirework	-100,86,-1633	b1	0,0,0
+259.3	PowerFirework	-102,86,-1633	b1	0,0,0
+
+259.5	PowerFirework	-106,106,-1636	b1	0,0,0
+259.5	PowerFirework	-108,106,-1636	b1	0,0,0
+259.5	PowerFirework	-110,106,-1636	b1	0,0,0
+259.5	PowerFirework	-112,105,-1636	b1	0,0,0
+259.5	PowerFirework	-113,103,-1636	b1	0,0,0
+259.5	PowerFirework	-113,101,-1636	b1	0,0,0
+259.5	PowerFirework	-113,99,-1636	b1	0,0,0
+259.5	PowerFirework	-112,97,-1636	b1	0,0,0
+259.5	PowerFirework	-110,96,-1636	b1	0,0,0
+259.5	PowerFirework	-108,96,-1636	b1	0,0,0
+259.5	PowerFirework	-106,96,-1636	b1	0,0,0
+259.5	PowerFirework	-104,97,-1636	b1	0,0,0
+259.5	PowerFirework	-103,99,-1636	b1	0,0,0
+259.5	PowerFirework	-103,101,-1636	b1	0,0,0
+259.5	PowerFirework	-103,103,-1636	b1	0,0,0
+259.5	PowerFirework	-104,105,-1636	b1	0,0,0
+
+259.7	PowerFirework	-93,98,-1636	b1	0,0,0
+259.7	PowerFirework	-95,98,-1636	b1	0,0,0
+259.7	PowerFirework	-97,98,-1636	b1	0,0,0
+259.7	PowerFirework	-99,99,-1636	b1	0,0,0
+259.7	PowerFirework	-100,101,-1636	b1	0,0,0
+259.7	PowerFirework	-100,103,-1636	b1	0,0,0
+259.7	PowerFirework	-100,105,-1636	b1	0,0,0
+259.7	PowerFirework	-99,107,-1636	b1	0,0,0
+259.7	PowerFirework	-97,108,-1636	b1	0,0,0
+259.7	PowerFirework	-95,108,-1636	b1	0,0,0
+259.7	PowerFirework	-93,108,-1636	b1	0,0,0
+259.7	PowerFirework	-91,107,-1636	b1	0,0,0
+259.7	PowerFirework	-90,105,-1636	b1	0,0,0
+259.7	PowerFirework	-90,103,-1636	b1	0,0,0
+259.7	PowerFirework	-90,101,-1636	b1	0,0,0
+259.7	PowerFirework	-91,99,-1636	b1	0,0,0
+
+265	PowerFirework	-107,88,-1631	hunc13	0,0,0
+265	PowerFirework	-101,91,-1631	hunc13	0,0,0
+
+#Brave
+#Arrow shot here
+
+279.8	PowerFirework	-114,86,-1626	brav1,	0,0,0
+283.3	PowerFirework	-91,93,-1627	brav2a,brav2b,brav2c	0,0,0
+283.5	PowerFirework	-98,90,-1627	brav3a,brav2b,brav2c	0,0,0
+284.5	PowerFirework	-101,86,-1629	brav3	0,0,0
+285	PowerFirework	-97,94,-1616	brav4	0,0,0
+290.15	PowerFirework	-102,92,-1624	brav5	0,0,0
+290.25	PowerFirework	-95,90,-1622	brav5	0,0,0
+294	PowerFirework	-104,45,-1615	b5,jelly2,jelly3	0,5,.18
+294	PowerFirework	-75,45,-1616	b5,jelly2,jelly3	0,5,-.18
+296.5	PowerFirework	-91,83,-1620	brav6,brav6a	0,0,0
+296.5	PowerFirework	-99,88,-1620	brav6,brav6a	0,0,0
+298.4	PowerFirework	-97,94,-1616	brav8	0,0,0
+298.6	PowerFirework	-99,88,-1620	brav8	0,0,0

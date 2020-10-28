@@ -1,0 +1,74 @@
+#Show Started January 25th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flathspost
+5	AudioSync	flathspost	5
+10	AudioSync	flathspost	10
+30	AudioSync	flathspost	30
+60	AudioSync	flathspost	60
+120	AudioSync	flathspost	120
+160	AudioSync	flathspost	160
+#PostShow
+7.5	Text	&6Credits:
+8.5	Text	&eOriginally Developed By - &dXavier9214 & Zacx209
+9.5	Text	&eBrought To You By - &dhalofreak894, RRandomm, & ActualFacts
+10.5	Text	&eWith Help From - &dcreatorforparks and Pink_Rosebud
+12.5	Text	&6And of course, &5The Palace Family&6!
+142.5	Text	&eThank you for joining us for, &9&l"Frozen &9- &lLive at the Hyperion."
+146.9	Text	&ePlease remember to gather your belongings and exit the theatre through the doors to your right.
+152.1	Text	&eThank you.
+153.8	Text	&eGracias por acompaña nos a, &9&l"Frozen &9- &lLive at the Hyperion." 
+158.2	Text	&ePor favor no olviden tus pertenencias y salgan del teatro por los puertas de la derecha.
+164.3	Text	&eGracias.
+#Unmutechat
+15.0	Block	152	416,68,74
+#BackgroundAudioOn
+165	Block	152	416,68,77
+#Lights
+7.5	Block	152	420,64,74
+#ExitDoors
+8.0	Block	152	428,71,79
+8.5	Block	35:15	428,71,79
+#Schematics
+7.5	Schematic	FLatHS20.1	439	62	68	newhws	false
+140.1	Schematic	FLatHS18.12	439	62	68	newhws	false
+#CloneSnowflake
+11.0	Block	152	452,89,79
+14.5	Block	152	452,89,80
+18.0	Block	152	452,89,79
+21.5	Block	152	452,89,80
+25.0	Block	152	452,89,79
+28.5	Block	152	452,89,80
+32.0	Block	152	452,89,79
+35.5	Block	152	452,89,80
+39.0	Block	152	452,89,79
+42.5	Block	152	452,89,80
+46.0	Block	152	452,89,79
+49.5	Block	152	452,89,80
+53.0	Block	152	452,89,79
+56.5	Block	152	452,89,80
+60.0	Block	152	452,89,79
+63.5	Block	152	452,89,80
+67.0	Block	152	452,89,79
+70.5	Block	152	452,89,80
+74.0	Block	152	452,89,79
+77.5	Block	152	452,89,80
+81.0	Block	152	452,89,79
+84.5	Block	152	452,89,80
+88.0	Block	152	452,89,79
+91.5	Block	152	452,89,80
+95.0	Block	152	452,89,79
+98.5	Block	152	452,89,80
+102.0	Block	152	452,89,79
+105.5	Block	152	452,89,80
+109.0	Block	152	452,89,79
+112.5	Block	152	452,89,80
+116.0	Block	152	452,89,79
+119.5	Block	152	452,89,80
+123.0	Block	152	452,89,79
+126.5	Block	152	452,89,80
+130.0	Block	152	452,89,79
+133.5	Block	152	452,89,80
+137.0	Block	152	452,89,79

@@ -1,0 +1,93 @@
+Show    Location    -13,64,2667
+Show    Name    PowerofColor
+Show    TextRadius  3
+#Audio Stuffs
+0   AudioStart poc
+15  AudioSync   poc 15
+30  AudioSync   poc 30
+60  AudioSync   poc 60
+120 AudioSync   poc 120
+180 AudioSync   poc 180
+#Block Replacie Thingies
+0   Block   0   -10,62,2668
+0   Block   0   -13,65,2665
+0	Block	152	-15,65,2663
+1	Block	0	-15,65,2663
+180	Block	152	-16,65,2664
+181	Block	0	-16,65,2664
+11  Block   76:1    -12,69,2667
+11  Block   76:2    -14,69,2667
+11  Block   76:3    -13,69,2668
+11  Block   76:4    -13,69,2666
+16 Block   50:1    -12,69,2667
+16 Block   50:2    -14,69,2667
+16 Block   50:3    -13,69,2668
+16 Block   50:4    -13,69,2666
+153 Block	0	-12,69,2667
+153 Block	0	-14,69,2667
+153 Block	0	-13,69,2668
+153 Block	0	-13,69,2666
+162 Block   50:1    -12,69,2667
+162 Block   50:2    -14,69,2667
+185 Block   50:3    -13,69,2668
+162 Block   50:4    -13,69,2666
+185.5   Block   76:5    -12,62,2670
+195.5   Block   0   -12,62,2670
+198 Block   76:5    -15,64,2661
+199 Block   0   -15,64,2661
+200 Block   76:5    -10,62,2668
+200 Block   143:3   -13,65,2665
+#Schematic ThingieMerBobbers
+16	Schematic	colortopia-blue.schematic	-13	64	2667	epcot	true
+45  Schematic   colortopia-yellow.schematic -13 64  2667    epcot   true
+69  Schematic   colortopia-orange.schematic -13 64  2667    epcot   true
+91  Schematic   colortopia-green.schematic  -13 64  2667    epcot   true
+116 Schematic   colortopia-red.schematic    -13 64  2667    epcot   true
+137 Schematic   colortopia-violet.schematic -13 64  2667    epcot   true
+153 Schematic   colortopia-black.schematic  -13 64  2667    epcot   true
+162 Schematic   colortopia-green.schematic  -13 64  2667    epcot   true
+163 Schematic   colortopia-violet.schematic -13 64  2667    epcot   true
+164 Schematic   colortopia-red.schematic    -13 64  2667    epcot   true
+165 Schematic   colortopia-blue.schematic   -13 64  2667    epcot   true
+166 Schematic   colortopia-all1.schematic   -13 64  2667    epcot   true
+170 Schematic   colortopia-all2.schematic   -13 64  2667    epcot   true
+174 Schematic   colortopia-all3.schematic   -13 64  2667    epcot   true
+178 Schematic   colortopia-all4.schematic   -13 64  2667    epcot   true
+182 Schematic   colortopia-blank.schematic  -13 64  2667    epcot   false
+#Chat Stuffs
+0.1 Text &f[&bTy&f] &b&lHey there! Welcome! Hello!
+3   Text    &f[&bTy&f] &b&lYou're probably thinking "What am I doing here?"
+6   Text    &f[&bTy&f] &b&lWell thats very Phil-isofical of you! But that's one of lifes unanswerable questions.
+11.5    Text    &f[&bTy&f] &b&lI have a question for you!
+14.5    Text    &f[&bTy&f] &b&lWhat is something that you see everyday that has a powerful influence over your actions, emotions, and moods? And can even affect the way you think and feel?
+23  Text    &f[&bTy&f] &b&lNo, I'm not talking about teenagers!
+25.5    Text    &f[&bTy&f] &b&lI'm talking about &cC&6O&eL&aO&9R&b!!!
+27.8    Text    &f[&bTy&f] &9&lBlue for example.
+34.4    Text    &f[&bTy&f] &9&lCan you feel it? Are ya feelin' blue? I'm sure feelin' blue! Wait!
+39.1    Text    &f[&bTy&f] &9&lOh no. No, that's not what I meant. Uh different meaning.
+44.1    Text    &f[&bTy&f] &e&lOh, hello yellow!
+47  Text    &f[&bTy&f] &e&lColors can sometimes evoke powerful memories.
+50.5    Text    &f[&bTy&f] &e&lThis yellow brings back memories of sitting with my friends in the back of the school bus!
+55.2    Text    &f[&bTy&f] &e&lLaughing and singing with Shannon and Andre and old Carl the driver!
+60  Text    &f[&bTy&f] &e&lWait a minute. I walked to school!
+61  Text    &f[&bTy&f] &e&lThose are someone elses memories! That's how powerful &cC&6O&eL&aO&9R &e&lcan be!!
+70  Text    &f[&bTy&f] &6&lOh orange! Okay!
+73  Text    &f[&bTy&f] &6&lFun Fact: nothing rhymes with orange.
+77  Text    &f[&bTy&f] &6&lOrange is a lively, exciting, jump up and dance kind of color!
+82  Text    &f[&bTy&f] &6&lAnd in this light you guys all look ready to have fun! Am I right?
+89  Text    &f[&bTy&f] &a&lAnd the party's over!
+93  Text    &f[&bTy&f] &a&lTime to calm down in the Zen Garden that is green.
+100 Text    &f[&bTy&f] &a&lGreen is a color that knows how to get along, have fun, but be chill.
+106 Text    &f[&bTy&f] &a&lMaybe it is easy being green after all. Oh, I can't wait to tell Kermit!
+113 Text    &f[&bTy&f] &c&lOk stop! Just stop it!
+116 Text    &f[&bTy&f] &c&lRed, of course it's hot. It's spicy. It's the color of which we paint the town.
+122 Text    &f[&bTy&f] &c&lRed is full of emotion; anger, red face. Excitement, RED ALERT! Romance, red rose for my lady.
+134 Text    &f[&bTy&f] &c&lSpeaking of roses are red, violets are red sophisticated neighbor on the color wheel.
+140 Text    &f[&bTy&f] &5&lViolet can stimulate creative thought.
+145 Text    &f[&bTy&f] &5&lZee-Zop, busizee-bop, budodya-bop, buzigabamsmah- I don't know the words.
+151 Text    &f[&bTy&f] &5&lCan you imagine a world without color?
+154 Text    &f[&7Ty&f] &7&lNo-no! NO! Don't listen to me! I mean listen to me!
+158 Text    &f[&7Ty&f] &7&lEverybody, think of your favorite color-quickly!
+168 Text    &f[&bTy&f] &b&lWow, okay I think you are all ready to have a blast with color!
+173 Text    &f[&bTy&f] &b&lThe doors are about to open and you will enter the color lab for a truly colorful experience!
+180 Text    &f[&bTy&f] &b&lHave fun and I'll catch up with you later!

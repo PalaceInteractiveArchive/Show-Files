@@ -1,0 +1,83 @@
+Sequence	Particle
+#Cylinder	name		type	ox,oy,oz	count	speed	frequency radius distance shape	face
+Cylinder	mickey1a	cloud	1.5,0.3,3.5	12	0	10	1	360	full	west
+Cylinder	mickey1b	explode	0.6,0.01,0.25	25	0.01	20	1	360	full	west
+Cylinder	witchfog1	cloud	2.5,0.05,3.5	10	0	10	1	360	full	west
+Cylinder	mallift1	witchMagic	1,0.1,1	20	0	20	1	360	full	west
+Cylinder	cauldron1	explode	1,0.01,0.0	20	0.01	20	1	360	full	west
+Cylinder	cauldron2	explode	0.0,0.01,0.7	24	0.01	20	1	360	full	west
+Cylinder	cauldron3	explode	1,0.01,0.0	14	0.01	20	1	360	full	west
+Cylinder	sparkle1	spell	3,3,9	35	0.0	10	1	360	full	west
+Cylinder	sparkle2	fireworksSpark	5,4,15	45	0.0	5	1	360	full	west
+Cylinder	sparks1	fireworksSpark	0.12,0.75,0.12	7	0.022	20	1	360	full	west
+Cylinder	sparks2	fireworksSpark	0.12,0.75,0.12	7	0.022	20	1	360	full	west
+Cylinder	sparks3	fireworksSpark	0.12,0.75,0.12	7	0.022	20	1	360	full	west
+Cylinder	sparks4	fireworksSpark	0.12,0.75,0.12	7	0.022	20	1	360	full	west
+Cylinder	sparks5	fireworksSpark	0.12,0.75,0.12	7	0.022	20	1	360	full	west
+Cylinder	sparks6	fireworksSpark	0.12,0.75,0.12	7	0.022	20	1	360	full	west
+
+#Start#0=69
+#67	heastart2	Move	-86,75,-1636	60
+
+75.5	mickey1a	Spawn	-21.5,67.95,-250.5
+93	mickey1a	Despawn
+88.2	mickey1b	Spawn	-20.0,68.55,-250.5
+93	mickey1b	Despawn
+872	witchfog1	Spawn	-21.5,68.3,-250.5
+973.6	witchfog1	Despawn
+1290	witchfog1	Spawn	-21.5,68.3,-250.5
+1308.5	witchfog1	Despawn
+947.5	cauldron1	Spawn	-21.5,68.5,-247.5
+954.5	cauldron1	Despawn
+947.5	cauldron2	Spawn	-23.5,68.5,-249.5
+954.5	cauldron2	Despawn
+947.5	cauldron3	Spawn	-21.5,68.25,-251.5
+954.5	cauldron3	Despawn
+1219.9	mallift1	Spawn	-10.5,70.1,-245.5
+1237.4	mallift1	Despawn
+1219.9	mickey1a	Spawn	-21.5,67.95,-250.5
+1237.4	mickey1a	Despawn
+1624.6	mickey1a	Spawn	-21.5,67.95,-250.5
+1627.3	mickey1a	Despawn
+1624.6	mickey1b	Spawn	-20.0,68.55,-250.5
+1627.3	mickey1b	Despawn
+1440	sparkle1	Spawn	-13.5,72.95,-253.5
+1470	sparkle1	Despawn
+1440	sparkle2	Spawn	-17.5,70,-260.5
+1470	sparkle2	Despawn
+1543.9	sparks1	Spawn	-14.5,68.1,-224.5
+1563.7	sparks1	Despawn
+1543.9	sparks2	Spawn	-25.5,68.1,-227.5
+1563.7	sparks2	Despawn
+1543.9	sparks3	Spawn	-36.5,68.1,-237.5
+1563.7	sparks3	Despawn
+1543.9	sparks4	Spawn	-41.5,68.1,-248.5
+1563.7	sparks4	Despawn
+1543.9	sparks5	Spawn	-40.5,68.1,-263.5
+1563.7	sparks5	Despawn
+1543.9	sparks6	Spawn	-35.5,68.1,-273.5
+1563.7	sparks6	Despawn
+
+
+#75.5	mickey1a	Spawn	-21.5,67.95,-250.5
+#93	mickey1a	Despawn
+#75.5	mickey1b	Spawn	-20.0,68.55,-250.5
+#93	mickey1b	Despawn
+#0	witchfog1	Spawn	-21.5,68.3,-250.5
+#10	witchfog1	Despawn
+#0	mallift1	Spawn	-10.5,70.1,-245.5
+#10	mallift1	Despawn
+#0	cauldron1	Spawn	-21.5,68.5,-247.5
+#10	cauldron1	Despawn
+#0	cauldron2	Spawn	-23.5,68.5,-249.5
+#10	cauldron2	Despawn
+#0	cauldron3	Spawn	-21.5,68.25,-251.5
+#10	cauldron3	Despawn
+#0	extra1	Spawn	-20.5,68.85,-250.5
+#10	extra1	Despawn
+#0	extra2	Spawn	-23.5,68.5,-249.5
+#10	extra2	Despawn
+#1440	sparkle1	Spawn	-13.5,72.95,-253.5
+#1470	sparkle1	Despawn
+#1440	sparkle2	Spawn	-17.5,70,-260.5
+#1470	sparkle2	Despawn

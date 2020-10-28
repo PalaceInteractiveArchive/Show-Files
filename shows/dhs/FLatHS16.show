@@ -1,0 +1,47 @@
+#Show Started January 20th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths16
+5	AudioSync	flaths16	5
+10	AudioSync	flaths16	10
+30	AudioSync	flaths16	30
+60	AudioSync	flaths16	60
+#S16 Monster on the loose
+16.4	Text	&f[&cDuke of Weselton&f] &7It’s getting colder by the minute!
+18.8	Text	&7If we don’t do something soon, we’ll all freeze to death.
+22.6	Text	&7Prince Hans.
+24	Text	&f[&6Hans&f] &7Princess Anna is dead.
+27.3	Text	&7At least we got to say our marriage vows before she died in my arms.
+32.5	Text	&7She was killed...
+34	Text	&7by Queen Elsa!
+37	Text	&f[&cDuke of Weselton&f] &7There can be no doubt about it now.
+39.5	Text	&7Queen Elsa is a monster and we are all in great danger.
+43.4	Text	&f[&6Hans&f] &7She's been captured and is in the royal dungeon.
+46.5	Text	&f[&cDuke of Weselton&f] &7Prince Hans, Arendelle looks to you.
+52.3	Text	&f[&6Hans&f] &7With a heavy heart, I charge Queen Elsa of Arendelle with treason...
+57.9	Text	&7and sentence her to &odeath.
+60.7	Text	&f[&2Guard&f] &7Prince Hans, Queen Elsa has escaped.
+63.5	Text	&f[&6Hans&f] &7WHAT?!
+64.4	Text	&f[&cDuke of Weselton&f] &7The monster's on the loose!
+#Schematics
+0	Schematic	FLatHS16.1	439	62	68	newhws	false
+3.3	Schematic	FLatHS16.2	439	62	68	newhws	false
+6.6	Schematic	FLatHS16.3	439	62	68	newhws	false
+14	Schematic	FLatHS16.4	439	62	68	newhws	false
+17.3	Schematic	FLatHS16.5	439	62	68	newhws	false
+20.6	Schematic	FLatHS16.6	439	62	68	newhws	false
+#Snow
+14	Block	152	465,88,68
+#BackStageDoorsOpen
+0	Block	76	445,62,104
+0	Block	76	445,62,103
+0	Block	76	444,62,64
+0	Block	76	444,62,63
+#Door
+5	Block	152	470,65,106
+#DoorsToTopBalcony
+20.6	Block	76	455,67,67
+25.6	Block	0	455,67,67
+25.6	Block	0	456,67,68

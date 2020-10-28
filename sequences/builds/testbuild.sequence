@@ -1,0 +1,4 @@
+Sequence	Build
+Build	heaup	heaup
+2	heaup	Spawn	-92,102,-1624
+2.5	heaup	MoveAndDespawn	-92,150,-1624	91	True	245

@@ -1,0 +1,1637 @@
+Show	Location	-133,64,133
+Show	TextRadius	150
+Show	Name	motfo
+
+#Audio
+0	AudioStart	MotFO
+0	AudioSync	MotFO	0
+5	AudioSync	MotFO	5
+10	AudioSync	MotFO	10
+30	AudioSync	MotFO	30
+60	AudioSync	MotFO	60
+120	AudioSync	MotFO	120
+180	AudioSync	MotFO	180
+240	AudioSync	MotFO	240
+300	AudioSync	MotFO	300
+360	AudioSync	MotFO	360
+420	AudioSync	MotFO	420
+480	AudioSync	MotFO	480
+540	AudioSync	MotFO	540
+600	AudioSync	MotFO	600
+645	AudioSync	MotFO	645
+
+Effect	b1	BURST,RED,FLICKER,TRAIL
+
+#Emergency Buttons
+#Show on
+0	Block	89	-156,60,147
+#Audio
+0	Block	89	-148,60,147
+#Walk Down to Stage
+90	Block	89	-152,60,151
+#Off for search
+216	Block	123	-152,60,151
+#Continue
+273	Block	89	-152,60,151
+#At Stage here
+363	Block	123	-152,60,151
+#Back to base
+553	Block	89	-152,60,143
+#End
+643	Block	123	-152,60,143
+670	Block	123	-148,60,147
+670	Block	123	-156,60,147
+
+
+#Text
+63.0	Text	&f[&6Captain Phasma&f] &cAdvance!
+80.1	Text	&cClear the way.
+103.8	Text	&cStay alert.
+122.2	Text	&cStand aside.
+216.3	Text	&cStop!
+228.6	Text	&cEyes and ears on me.
+233.1	Text	&cYou'd better believe ours are on you.
+244.5	Text	&cIt will not be easy to crush the resistance, but it will be satisfying.
+251.8	Text	&cIf you pass information to the resistance you will be considered a traitor, and a target.
+259.4	Text	&cOver here.
+264.1	Text	&cAt attention.
+267.1	Text	&cWe'll see you again.
+272.3	Text	&cAdvance!
+399.7	Text	&cI am here under the authority of General Hux.
+404.1	Text	&cYou are here under the authority of me.
+408.9	Text	&cStand proud.
+425.3	Text	&cTroops in this division are held to the highest standard, mine.
+429.3	Text	&cShow me fearless.
+438.1	Text	&cUnder my command you will be proud to wear the armour of a Storm Trooper.
+442.9	Text	&cYou will learn &ldiscipline,
+444.6	Text	&c&lLoyalty,
+445.9	Text	&c&lAnd what it means to be a Storm Trooper.
+450.9	Text	&cBattle Stance.
+476.3	Text	&cAcceptable.
+479.6	Text	&cAt attention.
+482.0	Text	&cWe do not tollerate traitors, nor those who hide them.
+488.0	Text	&cMove out.
+670.0	Text	&6Credits:
+671.0	Text	&6Plugin &e- &dPalace Dev Team
+672.0	Text	&6And of course the &dPalace &6Family of Servers.
+673.0	Text	&6&o&lMay the Force be with you.
+
+#Phasma Arm Movements
+63.0	Block	152	-57,50,177
+65.0	Block	152	-56,50,177
+
+216.3	Block	152	-57,50,177
+217.3	Block	152	-56,50,177
+
+408.9	Block	152	-57,50,177
+410.9	Block	152	-56,50,177
+
+430	Block	152	-57,50,177
+431	Block	152	-56,50,177
+
+488	Block	152	-57,50,177
+490	Block	152	-56,50,177
+
+#Gate
+38.4	Schematic	MotFO2	-76	64	117	DHS	false
+38.8	Schematic	MotFO3	-76	64	117	DHS	false
+39.2	Schematic	MotFO4	-76	64	117	DHS	false
+39.6	Schematic	MotFO5	-76	64	117	DHS	false
+57.6	Schematic	MotFO4	-76	64	117	DHS	false
+58.0	Schematic	MotFO3	-76	64	117	DHS	false
+58.4	Schematic	MotFO2	-76	64	117	DHS	false
+58.8	Schematic	MotFO1	-76	64	117	DHS	false
+
+#Particles
+0	Block	152	-57,50,127
+38.4	Block	20	-57,50,127
+
+663	Block	152	-57,50,127
+674	Block	20	-57,50,127
+
+#Fireworks
+Effect	b1	BURST,RED,FLICKER,TRAIL
+
+#ArmorStands
+ArmorStand	Trooper1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper7	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Trooper8	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==;299(253,253,253);300(253,253,253);301(253,253,253)
+ArmorStand	Phasma	false	skull:eyJ0aW1lc3RhbXAiOjE0ODg0OTgwNTUwMzQsInByb2ZpbGVJZCI6IjE5NGZlZTM5ZTIwNzQyMzBiYWEwZWI2YzJiNGE4NDRiIiwicHJvZmlsZU5hbWUiOiJDYXB0YWluX19QaGFzbWEiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDFiMmUzMzBjMmFkMmY0NDYxNDZiZWMzNzJjMmNkMDcxMjM4OGYxZTkyNThjZTljYzhlNTRkMjk3YmE5ZCJ9fX0=;299(51,47,47);300(100,89,89);301(82,70,70)
+
+0	ArmorStand	Trooper1	Spawn	-68.697,64.00,122.561
+0	ArmorStand	Trooper2	Spawn	-67.584,64.00,122.565
+0	ArmorStand	Trooper3	Spawn	-66.404,64.00,122.560
+0	ArmorStand	Trooper4	Spawn	-65.616,64.00,122.553
+0	ArmorStand	Trooper5	Spawn	-68.575,64.00,120.491
+0	ArmorStand	Trooper6	Spawn	-67.560,64.00,120.477
+0	ArmorStand	Trooper7	Spawn	-66.526,64.00,120.477
+0	ArmorStand	Trooper8	Spawn	-65.428,64.00,120.480
+0	ArmorStand	Phasma	Spawn	-69.578,64.00,121.471
+
+#Rotation, arms
+1	Block	152	-57,50,129
+1	Block	152	-56,50,129
+1	Block	152	-55,50,129
+1	Block	152	-54,50,129
+1	Block	152	-53,50,129
+1	Block	152	-52,50,129
+1	Block	152	-51,50,129
+1	Block	152	-50,50,129
+1	Block	152	-49,50,129
+
+36.6	ArmorStand	Phasma	Move	-79.516,64.00,118.451	20
+36.6	ArmorStand	Trooper1	Move	-77.450,64.00,119.474	20
+36.6	ArmorStand	Trooper2	Move	-76.421,64.00,119.467	20
+36.6	ArmorStand	Trooper3	Move	-75.400,64.00,119.483	20
+36.6	ArmorStand	Trooper4	Move	-74.277,64.00,119.453	20
+36.6	ArmorStand	Trooper5	Move	-77.338,64.00,117.626	20
+36.6	ArmorStand	Trooper6	Move	-76.300,64.00,117.497	20
+36.6	ArmorStand	Trooper7	Move	-75.605,64.00,117.559	20
+36.6	ArmorStand	Trooper8	Move	-74.525,64.00,117.482	20
+
+#To 135f
+56	Block	152	-57,50,133
+56	Block	152	-56,50,133
+56	Block	152	-55,50,133
+56	Block	152	-54,50,133
+56	Block	152	-53,50,133
+56	Block	152	-52,50,133
+56	Block	152	-51,50,133
+56	Block	152	-50,50,133
+56	Block	152	-49,50,133
+
+#Ready to go down towards stage
+65	ArmorStand	Phasma	Move	-100.494,64.00,100.434	18
+65	ArmorStand	Trooper1	Move	-81.486,64.00,118.531	3
+65	ArmorStand	Trooper2	Move	-80.551,64.00,119.459	3
+65	ArmorStand	Trooper3	Move	-79.572,64.00,120.343	3
+65	ArmorStand	Trooper4	Move	-78.504,64.00,121.488	3
+65	ArmorStand	Trooper5	Move	-80.550,64.00,117.493	3
+65	ArmorStand	Trooper6	Move	-79.503,64.00,118.519	3
+65	ArmorStand	Trooper7	Move	-78.570,64.00,119.526	3
+65	ArmorStand	Trooper8	Move	-77.455,64.00,120.498	3
+69	ArmorStand	Trooper1	Move	-98.507,64.00,101.566	18
+69	ArmorStand	Trooper2	Move	-97.487,64.00,102.553	18
+69	ArmorStand	Trooper3	Move	-96.538,64.00,103.521	18
+69	ArmorStand	Trooper4	Move	-95.683,64.00,104.309	18
+69	ArmorStand	Trooper5	Move	-97.463,64.00,100.581	18
+69	ArmorStand	Trooper6	Move	-96.427,64.00,101.465	18
+69	ArmorStand	Trooper7	Move	-95.512,64.00,102.529	18
+69	ArmorStand	Trooper8	Move	-94.545,64.00,103.518	18
+
+#2
+84	ArmorStand	Phasma	Move	-105.670,64.00,105.497	3
+87	ArmorStand	Trooper1	Move	-104.393,64.00,105.536	3
+87	ArmorStand	Trooper5	Move	-105.413,64.00,104.402	3
+87	ArmorStand	Trooper2	Move	-103.392,64.00,104.300	3
+87	ArmorStand	Trooper3	Move	-102.498,64.00,103.428	3
+87	ArmorStand	Trooper4	Move	-101.407,64.00,102.412	3
+87	ArmorStand	Trooper6	Move	-102.533,64.00,101.413	3
+87	ArmorStand	Trooper7	Move	-104.661,64.00,103.494	3
+87	ArmorStand	Trooper8	Move	-103.622,64.00,102.639	3
+
+#To 45f
+83	Block	152	-49,50,135
+
+87	Block	152	-57,50,135
+87	Block	152	-56,50,135
+87	Block	152	-55,50,135
+87	Block	152	-54,50,135
+87	Block	152	-53,50,135
+87	Block	152	-52,50,135
+87	Block	152	-51,50,135
+87	Block	152	-50,50,135
+
+90	ArmorStand	Phasma	Move	-162.433,64.00,162.435	126.3
+90	ArmorStand	Trooper1	Move	-161.500,64.00,162.421	126.3
+90	ArmorStand	Trooper2	Move	-160.443,64.00,161.403	126.3
+90	ArmorStand	Trooper3	Move	-159.553,64.00,160.491	126.3
+90	ArmorStand	Trooper4	Move	-158.510,64.00,159.481	126.3
+90	ArmorStand	Trooper6	Move	-159.557,64.00,158.478	126.3
+90	ArmorStand	Trooper7	Move	-161.637,64.00,160.414	126.3
+90	ArmorStand	Trooper8	Move	-160.588,64.00,159.503	126.3
+90	ArmorStand	Trooper5	Move	-162.517,64.00,161.493	126.3
+
+#Phasma Rotations - initial search
+216	Block	152	-53,53,137
+216.9	ArmorStand	Phasma	Move	-163.5,64,166.5	2
+218	Block	152	-52,53,137
+218.0	ArmorStand	Phasma	Move	-166.5,64,162.5	3
+221	Block	152	-51,53,137
+221.0	ArmorStand	Phasma	Move	-164.5,64,164.5	2
+223	Block	152	-50,53,137
+
+#1 and 5 with Phasma
+236	Block	152	-57,53,137
+236	Block	152	-56,53,137
+236	Block	152	-55,53,137
+
+235	ArmorStand	Phasma	Move	-165.5,64,167.5	3
+236	ArmorStand	Trooper1	Move	-165.5,64,166.5	3
+236	ArmorStand	Trooper5	Move	-166.5,64,167.5	3
+
+#To -45f (1, 5 and P)
+238	Block	152	-57,50,137
+239	Block	152	-56,50,137
+239	Block	152	-55,50,137
+
+236	ArmorStand	Trooper2	Move	-159.5,64,163.5	2
+236	ArmorStand	Trooper3	Move	-158.5,64,162.5	2
+236	ArmorStand	Trooper4	Move	-157.5,64,161.5	2
+236	ArmorStand	Trooper6	Move	-161.5,64,156.5	2
+236	ArmorStand	Trooper7	Move	-163.5,64,158.5	2
+236	ArmorStand	Trooper8	Move	-162.5,64,157.5	2
+
+#All others face right way
+235	Block	152	-57,50,139
+235	Block	152	-56,50,139
+235	Block	152	-55,50,139
+235	Block	152	-54,50,139
+235	Block	152	-53,50,139
+235	Block	152	-52,50,139
+
+
+251	ArmorStand	Trooper1	Move	-166.5,64,167.5	2
+250	ArmorStand	Phasma	Move	-166.5,64,168.5	2
+251	ArmorStand	Trooper5	Move	-167.5,64,168.5	2
+
+#To 135
+259	Block	152	-53,50,137
+259	Block	152	-52,50,137
+259	Block	152	-51,50,137
+
+259	ArmorStand	Phasma	Move	-168.5,64,165.5	1
+260	ArmorStand	Trooper1	Move	-167.5,64,168.5	1
+260	ArmorStand	Trooper5	Move	-168.5,64,169.5	1
+
+#All apart from P, 1 and 5 face back
+263	Block	152	-57,50,141
+263	Block	152	-56,50,141
+263	Block	152	-55,50,141
+
+263	Block	152	-53,50,141
+263	Block	152	-52,50,141
+263	Block	152	-51,50,141
+
+264	ArmorStand	Trooper1	Move	-161.500,64.00,162.421	3
+264	ArmorStand	Trooper2	Move	-160.443,64.00,161.403	1
+264	ArmorStand	Trooper3	Move	-159.553,64.00,160.491	1
+264	ArmorStand	Trooper4	Move	-158.510,64.00,159.481	1
+264	ArmorStand	Trooper5	Move	-162.517,64.00,161.493	3
+264	ArmorStand	Trooper6	Move	-159.557,64.00,158.478	1
+264	ArmorStand	Trooper7	Move	-161.637,64.00,160.414	1
+264	ArmorStand	Trooper8	Move	-160.588,64.00,159.503	1
+268	ArmorStand	Phasma	Move	-162.433,64.00,162.435	3
+
+#Face right way again
+265	Block	152	-56,50,135
+265	Block	152	-55,50,135
+265	Block	152	-54,50,135
+265	Block	152	-52,50,135
+265	Block	152	-51,50,135
+265	Block	152	-50,50,135
+
+#1 and 5 towards
+264	Block	152	-50,50,141
+264	Block	152	-49,50,141
+
+#1 and 5 right way
+267	Block	152	-57,50,135
+267	Block	152	-53,50,135
+
+#Phasma towards
+268	Block	152	-54,50,141
+
+#Phasma right way
+271	Block	152	-49,50,135
+
+273	ArmorStand	Trooper1	Move	-206.5,64.00,207.5	90
+273	ArmorStand	Trooper7	Move	-206.5,64.00,205.5	90
+273	ArmorStand	Trooper8	Move	-205.5,64.00,204.5	90
+273	ArmorStand	Trooper6	Move	-204.5,64.00,203.5	90
+273	ArmorStand	Trooper5	Move	-207.5,64.00,206.5	90
+273	ArmorStand	Trooper2	Move	-205.5,64.00,206.5	90
+273	ArmorStand	Trooper3	Move	-204.5,64.00,205.5	90
+273	ArmorStand	Trooper4	Move	-203.5,64.00,204.5	90
+273	ArmorStand	Phasma	Move	-207.5,64.00,207.5	90
+
+#Phasma, 1 and 5 to stage
+364	ArmorStand	Phasma	Move	-224.542,64.00,203.491	8
+365	ArmorStand	Trooper1	Move	-223.451,64.00,203.506	7
+366	ArmorStand	Trooper5	Move	-222.535,64.00,203.510	6
+
+373	ArmorStand	Phasma	Move	-233.529,64.00,203.505	5
+373	ArmorStand	Trooper1	Move	-232.738,64.00,203.402	5
+373	ArmorStand	Trooper5	Move	-231.592,64.00,203.498	5
+
+380	ArmorStand	Phasma	Move	-233.517,64.00,213.380	3
+380	ArmorStand	Trooper1	Move	-233.529,64.00,203.505	1
+382	ArmorStand	Trooper1	Move	-233.525,64.00,212.307	3
+380	ArmorStand	Trooper5	Move	-233.529,64.00,203.505	1
+382	ArmorStand	Trooper5	Move	-233.512,64.00,211.405	3
+
+387	ArmorStand	Phasma	Move	-220.677,65.00,222.512	2
+387	ArmorStand	Trooper1	Move	-220.721,65.00,221.448	2
+387	ArmorStand	Trooper5	Move	-221.577,65.00,221.435	2
+
+#P, 1 and 5 face towards stage entrance
+362	Block	152	-57,50,143
+365	Block	152	-56,50,143
+366	Block	152	-55,50,143
+
+380	Block	152	-53,50,143
+380	Block	152	-52,50,143
+380	Block	152	-51,50,143
+
+386	Block	152	-57,50,145
+386	Block	152	-56,50,145
+386	Block	152	-55,50,145
+
+393	Block	152	-53,50,145
+393	Block	152	-52,50,145
+393	Block	152	-51,50,145
+
+#Phasma on stage
+390	ArmorStand	Phasma	Move	-216.500,65.00,222.500	2
+393	ArmorStand	Phasma	Move	-216.425,65.00,216.356	3
+396	ArmorStand	Phasma	Move	-213.379,65.00,213.284	3
+
+#Trooper 1 on stage
+391	ArmorStand	Trooper1	Move	-216.500,65.00,222.500	2
+394	ArmorStand	Trooper1	Move	-216.425,65.00,216.356	3
+398	ArmorStand	Trooper1	Move	-215.889,65.00,212.087	3
+
+#Trooper 5 on stage
+392	ArmorStand	Trooper5	Move	-216.500,65.00,222.500	2
+395	ArmorStand	Trooper5	Move	-216.471,65.00,215.455	3
+399	ArmorStand	Trooper5	Move	-212.019,65.00,215.418	3
+
+#formation
+370	ArmorStand	Trooper7	Move	-210.417,64.00,209.329	3
+370	ArmorStand	Trooper2	Move	-209.519,64.00,210.452	3
+374	ArmorStand	Trooper8	Move	-210.417,64.00,209.329	4
+374	ArmorStand	Trooper3	Move	-209.519,64.00,210.452	4
+
+373	ArmorStand	Trooper7	Move	-207.5,64,214.5	5
+373	ArmorStand	Trooper2	Move	-214.5,64,207.5	5
+
+372	Block	152	-57,50,147
+372	Block	152	-53,50,147
+378	Block	152	-57,50,149
+378	Block	152	-56,50,149
+
+378	ArmorStand	Trooper3	Move	-208.5,64.00,213.5	4
+378	ArmorStand	Trooper8	Move	-213.5,64.00,208.5	4
+
+377	Block	152	-56,50,147
+377	Block	152	-52,50,147
+382	Block	152	-55,50,149
+382	Block	152	-54,50,149
+
+379	ArmorStand	Trooper6	Move	-209.417,64.00,209.329	6
+379	ArmorStand	Trooper4	Move	-208.519,64.00,210.452	6
+
+388	ArmorStand	Trooper6	Move	-212.5,64.00,209.5	3
+388	ArmorStand	Trooper4	Move	-209.5,64.00,212.5	3
+
+387	Block	152	-55,50,149
+387	Block	152	-51,50,149
+391	Block	152	-53,50,149
+391	Block	152	-52,50,149
+
+#Stand Proud
+411	ArmorStand	Trooper7	Move	-205.5,64,212.5	4
+411	ArmorStand	Trooper3	Move	-206.5,64,211.5	4
+411	ArmorStand	Trooper4	Move	-207.5,64,210.5	4
+411	ArmorStand	Trooper6	Move	-210.5,64,207.5	4
+411	ArmorStand	Trooper8	Move	-211.5,64,206.5	4
+411	ArmorStand	Trooper2	Move	-212.5,64,205.5	4
+
+#Fearless
+430	ArmorStand	Trooper7	Move	-202.5,64,209.5	4
+430	ArmorStand	Trooper3	Move	-203.5,64,208.5	4
+430	ArmorStand	Trooper4	Move	-204.5,64,207.5	4
+430	ArmorStand	Trooper6	Move	-207.5,64,204.5	4
+430	ArmorStand	Trooper8	Move	-208.5,64,203.5	4
+430	ArmorStand	Trooper2	Move	-209.5,64,202.5	4
+
+#Battle Stance
+#4+6
+454	ArmorStand	Trooper4	Move	-205.5,64,206.5	1
+454	ArmorStand	Trooper6	Move	-206.5,64,205.5	1
+
+456	ArmorStand	Trooper4	Move	-209.5,64,210.5	3
+456	ArmorStand	Trooper6	Move	-210.5,64,209.5	3
+
+460	ArmorStand	Trooper4	Move	-207.5,64,214.5	3
+460	ArmorStand	Trooper6	Move	-214.5,64,207.5	3
+
+453	Block	152	-55,50,151
+453	Block	152	-51,50,151
+455	Block	152	-55,50,153
+455	Block	152	-51,50,153
+463	Block	152	-55,50,155
+463	Block	152	-51,50,155
+
+#3+8
+456	ArmorStand	Trooper3	Move	-205.5,64,206.5	1
+456	ArmorStand	Trooper8	Move	-206.5,64,205.5	1
+
+458	ArmorStand	Trooper3	Move	-209.5,64,210.5	3
+458	ArmorStand	Trooper8	Move	-210.5,64,209.5	3
+
+464	ArmorStand	Trooper3	Move	-208.5,64,213.5	3
+464	ArmorStand	Trooper8	Move	-213.5,64,208.5	3
+
+455	Block	152	-56,50,151
+455	Block	152	-52,50,151
+457	Block	152	-56,50,153
+457	Block	152	-52,50,153
+467	Block	152	-56,50,155
+467	Block	152	-52,50,155
+
+#7+2
+458	ArmorStand	Trooper7	Move	-205.5,64,206.5	1
+458	ArmorStand	Trooper2	Move	-206.5,64,205.5	1
+
+463	ArmorStand	Trooper7	Move	-209.5,64,210.5	3
+463	ArmorStand	Trooper2	Move	-210.5,64,209.5	3
+
+470	ArmorStand	Trooper7	Move	-209.5,64,212.5	3
+470	ArmorStand	Trooper2	Move	-212.5,64,209.5	3
+
+457	Block	152	-57,50,151
+457	Block	152	-53,50,151
+459	Block	152	-57,50,153
+459	Block	152	-53,50,153
+473	Block	152	-57,50,155
+473	Block	152	-53,50,155
+
+#Off stage
+#Phasma on stage
+492	Block	152	-57,50,169
+489	ArmorStand	Phasma	Move	-213.379,65.00,213.284	3
+493	ArmorStand	Phasma	Move	-216.425,65.00,216.356	3
+496	Block	152	-56,50,169
+497	ArmorStand	Phasma	Move	-216.500,65.00,222.500	2
+499	Block	152	-55,50,169
+
+#Trooper 1 on stage
+496	Block	152	-54,50,169
+493	ArmorStand	Trooper1	Move	-215.889,65.00,212.087	3
+497	ArmorStand	Trooper1	Move	-216.425,65.00,216.356	3
+500	Block	152	-53,50,169
+501	ArmorStand	Trooper1	Move	-216.500,65.00,222.500	2
+503	Block	152	-52,50,169
+
+#Trooper 5 on stage
+494	ArmorStand	Trooper5	Move	-212.019,65.00,215.418	3
+497	Block	152	-51,50,169
+498	ArmorStand	Trooper5	Move	-216.471,65.00,215.455	3
+501	Block	152	-50,50,169
+502	ArmorStand	Trooper5	Move	-216.500,65.00,222.500	2
+504	Block	152	-49,50,169
+
+#
+500	ArmorStand	Phasma	Move	-220.677,65.00,222.512	2
+504	ArmorStand	Trooper1	Move	-220.721,65.00,221.448	2
+505	ArmorStand	Trooper5	Move	-221.577,65.00,221.435	2
+
+507	ArmorStand	Trooper1	Move	-233.525,64.00,212.307	3
+511	ArmorStand	Trooper1	Move	-233.529,64.00,203.505	1
+507	ArmorStand	Trooper5	Move	-233.512,64.00,211.405	3
+511	ArmorStand	Trooper5	Move	-233.529,64.00,203.505	1
+
+511	ArmorStand	Phasma	Move	-233.517,64.00,213.380	3
+
+514	Block	152	-57,50,157
+514	Block	152	-56,50,157
+514	Block	152	-55,50,157
+
+513	ArmorStand	Trooper1	Move	-232.738,64.00,203.402	5
+513	ArmorStand	Trooper5	Move	-231.592,64.00,203.498	5
+
+515	ArmorStand	Phasma	Move	-233.529,64.00,203.505	5
+
+519	ArmorStand	Trooper1	Move	-223.451,64.00,203.506	7
+519	ArmorStand	Trooper5	Move	-222.535,64.00,203.510	6
+522	ArmorStand	Phasma	Move	-224.542,64.00,203.491	8
+
+219	Block	152	-53,50,157
+219	Block	152	-52,50,157
+
+534	Block	152	-50,50,157
+534	Block	152	-49,50,157
+
+528	ArmorStand	Trooper1	Move	-210.5,64,204.5	5
+528	ArmorStand	Trooper5	Move	-210.5,64,205.5	5
+
+532	ArmorStand	Phasma	Move	-210.5,64,205.5	5
+
+534	ArmorStand	Trooper5	Move	-211.5,64,210.5	5
+534	ArmorStand	Trooper1	Move	-210.5,64,211.5	5
+
+539	Block	152	-56,50,159
+539	Block	152	-55,50,159
+
+537	ArmorStand	Phasma	Move	-205.5,64,205.5	5
+
+540	Block	152	-57,50,159
+
+543	ArmorStand	Trooper5	Move	-206.5,64,205.5	4
+543	ArmorStand	Trooper1	Move	-205.5,64,206.5	4
+
+#Ready to move out
+543	Block	152	-57,50,161
+543	Block	152	-56,50,161
+543	Block	152	-55,50,161
+
+543	Block	152	-53,50,161
+543	Block	152	-52,50,161
+543	Block	152	-51,50,161
+
+544	ArmorStand	Trooper2	Move	-211.5,64,210.5	1
+544	ArmorStand	Trooper7	Move	-210.5,64,211.5	1
+
+545	Block	152	-57,50,163
+545	Block	152	-53,50,163
+
+546	ArmorStand	Trooper2	Move	-207.5,64,206.5	3
+546	ArmorStand	Trooper7	Move	-206.5,64,207.5	3
+
+546	ArmorStand	Trooper3	Move	-210.5,64,211.5	1.5
+546	ArmorStand	Trooper8	Move	-211.5,64,210.5	1.5
+
+547.5	Block	152	-56,50,163
+547.5	Block	152	-52,50,163
+
+548	ArmorStand	Trooper3	Move	-207.5,64,208.5	2
+548	ArmorStand	Trooper8	Move	-208.5,64,207.5	2
+
+548	ArmorStand	Trooper4	Move	-210.5,64,211.5	2
+548	ArmorStand	Trooper6	Move	-211.5,64,210.5	2
+
+550	Block	152	-55,50,163
+550	Block	152	-51,50,163
+
+550	ArmorStand	Trooper4	Move	-208.5,64,209.5	1
+550	ArmorStand	Trooper6	Move	-209.5,64,208.5	1
+
+#MUST BE DONE BY 553
+553	ArmorStand	Phasma	Move	-103.5,64,103.5	90
+553	ArmorStand	Trooper5	Move	-104.5,64,103.5	90
+553	ArmorStand	Trooper1	Move	-103.5,64,104.5	90
+553	ArmorStand	Trooper2	Move	-105.5,64,104.5	90
+553	ArmorStand	Trooper7	Move	-104.5,64,105.5	90
+553	ArmorStand	Trooper8	Move	-106.5,64,105.5	90
+553	ArmorStand	Trooper3	Move	-105.5,64,106.5	90
+553	ArmorStand	Trooper6	Move	-107.5,64,106.5	90
+553	ArmorStand	Trooper4	Move	-106.5,64,107.5	90
+
+
+#END AT 670
+643	Block	152	-57,50,165
+643	Block	152	-56,50,165
+643	Block	152	-55,50,165
+643	Block	152	-54,50,165
+643	Block	152	-53,50,165
+643	Block	152	-52,50,165
+643	Block	152	-51,50,165
+643	Block	152	-50,50,165
+643	Block	152	-49,50,165
+
+644	ArmorStand	Phasma	Move	-94.5,64,103.5	7
+644	ArmorStand	Trooper5	Move	-95.5,64,102.5	7
+644	ArmorStand	Trooper1	Move	-95.5,64,104.5	7
+644	ArmorStand	Trooper2	Move	-96.5,64,102.5	7
+644	ArmorStand	Trooper7	Move	-96.5,64,104.5	7
+644	ArmorStand	Trooper8	Move	-97.5,64,102.5	7
+644	ArmorStand	Trooper3	Move	-97.5,64,104.5	7
+644	ArmorStand	Trooper6	Move	-98.5,64,102.5	7
+644	ArmorStand	Trooper4	Move	-98.5,64,104.5	7
+
+652	ArmorStand	Phasma	Move	-77.5,64,119.5	10
+652	ArmorStand	Trooper5	Move	-77.5,64,118.5	10
+652	ArmorStand	Trooper1	Move	-78.5,64,119.5	10
+652	ArmorStand	Trooper2	Move	-78.5,64,117.5	10
+652	ArmorStand	Trooper7	Move	-79.5,64,118.5	10
+652	ArmorStand	Trooper8	Move	-79.5,64,116.5	10
+652	ArmorStand	Trooper3	Move	-80.5,64,117.5	10
+652	ArmorStand	Trooper6	Move	-80.5,64,115.5	10
+652	ArmorStand	Trooper4	Move	-81.5,64,116.5	10
+
+663	ArmorStand	Phasma	Move	-65.5,64,120.5	7
+663	ArmorStand	Trooper5	Move	-66.5,64,119.5	7
+663	ArmorStand	Trooper1	Move	-66.5,64,121.5	7
+663	ArmorStand	Trooper2	Move	-67.5,64,119.5	7
+663	ArmorStand	Trooper7	Move	-67.5,64,121.5	7
+663	ArmorStand	Trooper8	Move	-68.5,64,119.5	7
+663	ArmorStand	Trooper3	Move	-68.5,64,121.5	7
+663	ArmorStand	Trooper6	Move	-69.5,64,119.5	7
+663	ArmorStand	Trooper4	Move	-69.5,64,121.5	7
+
+675	ArmorStand	Phasma	Despawn
+675	ArmorStand	Trooper1	Despawn
+675	ArmorStand	Trooper2	Despawn
+675	ArmorStand	Trooper3	Despawn
+675	ArmorStand	Trooper4	Despawn
+675	ArmorStand	Trooper5	Despawn
+675	ArmorStand	Trooper6	Despawn
+675	ArmorStand	Trooper7	Despawn
+675	ArmorStand	Trooper8	Despawn
+
+#Kill
+676	Block	152	-57,50,131
+676	Block	152	-56,50,131
+676	Block	152	-55,50,131
+676	Block	152	-54,50,131
+676	Block	152	-53,50,131
+676	Block	152	-52,50,131
+676	Block	152	-51,50,131
+676	Block	152	-50,50,131
+676	Block	152	-49,50,131
+
+
+#Gate
+663	Schematic	MotFO2	-76	64	117	DHS	false
+664	Schematic	MotFO3	-76	64	117	DHS	false
+665	Schematic	MotFO4	-76	64	117	DHS	false
+666	Schematic	MotFO5	-76	64	117	DHS	false
+671	Schematic	MotFO4	-76	64	117	DHS	false
+672	Schematic	MotFO3	-76	64	117	DHS	false
+673	Schematic	MotFO2	-76	64	117	DHS	false
+674	Schematic	MotFO1	-76	64	117	DHS	false
+
+470.7	PowerFirework	-215,66,211	b1	0,2,-7
+470.7	PowerFirework	-212,66,214	b1	7,2,0
+
+## Leg Movements ##
+40	Block	152	-57,50,171
+40	Block	152	-56,50,171
+40	Block	152	-55,50,171
+40	Block	152	-54,50,171
+40	Block	152	-53,50,171
+40	Block	152	-52,50,171
+40	Block	152	-51,50,171
+40	Block	152	-50,50,171
+40	Block	152	-49,50,171
+
+45	Block	152	-57,50,173
+45	Block	152	-56,50,173
+45	Block	152	-55,50,173
+45	Block	152	-54,50,173
+45	Block	152	-53,50,173
+45	Block	152	-52,50,173
+45	Block	152	-51,50,173
+45	Block	152	-50,50,173
+45	Block	152	-49,50,173
+
+50	Block	152	-57,50,171
+50	Block	152	-56,50,171
+50	Block	152	-55,50,171
+50	Block	152	-54,50,171
+50	Block	152	-53,50,171
+50	Block	152	-52,50,171
+50	Block	152	-51,50,171
+50	Block	152	-50,50,171
+50	Block	152	-49,50,171
+
+#Reset for Advance
+55	Block	152	-57,50,175
+55	Block	152	-56,50,175
+55	Block	152	-55,50,175
+55	Block	152	-54,50,175
+55	Block	152	-53,50,175
+55	Block	152	-52,50,175
+55	Block	152	-51,50,175
+55	Block	152	-50,50,175
+55	Block	152	-49,50,175
+
+#Continue til 215
+65	Block	152	-57,50,173
+65	Block	152	-56,50,173
+65	Block	152	-55,50,173
+65	Block	152	-54,50,173
+65	Block	152	-53,50,173
+65	Block	152	-52,50,173
+65	Block	152	-51,50,173
+65	Block	152	-50,50,173
+65	Block	152	-49,50,173
+
+70	Block	152	-57,50,171
+70	Block	152	-56,50,171
+70	Block	152	-55,50,171
+70	Block	152	-54,50,171
+70	Block	152	-53,50,171
+70	Block	152	-52,50,171
+70	Block	152	-51,50,171
+70	Block	152	-50,50,171
+70	Block	152	-49,50,171
+
+75	Block	152	-57,50,173
+75	Block	152	-56,50,173
+75	Block	152	-55,50,173
+75	Block	152	-54,50,173
+75	Block	152	-53,50,173
+75	Block	152	-52,50,173
+75	Block	152	-51,50,173
+75	Block	152	-50,50,173
+75	Block	152	-49,50,173
+
+80	Block	152	-57,50,171
+80	Block	152	-56,50,171
+80	Block	152	-55,50,171
+80	Block	152	-54,50,171
+80	Block	152	-53,50,171
+80	Block	152	-52,50,171
+80	Block	152	-51,50,171
+80	Block	152	-50,50,171
+80	Block	152	-49,50,171
+
+85	Block	152	-57,50,173
+85	Block	152	-56,50,173
+85	Block	152	-55,50,173
+85	Block	152	-54,50,173
+85	Block	152	-53,50,173
+85	Block	152	-52,50,173
+85	Block	152	-51,50,173
+85	Block	152	-50,50,173
+85	Block	152	-49,50,173
+
+90	Block	152	-57,50,171
+90	Block	152	-56,50,171
+90	Block	152	-55,50,171
+90	Block	152	-54,50,171
+90	Block	152	-53,50,171
+90	Block	152	-52,50,171
+90	Block	152	-51,50,171
+90	Block	152	-50,50,171
+90	Block	152	-49,50,171
+
+95	Block	152	-57,50,173
+95	Block	152	-56,50,173
+95	Block	152	-55,50,173
+95	Block	152	-54,50,173
+95	Block	152	-53,50,173
+95	Block	152	-52,50,173
+95	Block	152	-51,50,173
+95	Block	152	-50,50,173
+95	Block	152	-49,50,173
+
+100	Block	152	-57,50,171
+100	Block	152	-56,50,171
+100	Block	152	-55,50,171
+100	Block	152	-54,50,171
+100	Block	152	-53,50,171
+100	Block	152	-52,50,171
+100	Block	152	-51,50,171
+100	Block	152	-50,50,171
+100	Block	152	-49,50,171
+
+105	Block	152	-57,50,173
+105	Block	152	-56,50,173
+105	Block	152	-55,50,173
+105	Block	152	-54,50,173
+105	Block	152	-53,50,173
+105	Block	152	-52,50,173
+105	Block	152	-51,50,173
+105	Block	152	-50,50,173
+105	Block	152	-49,50,173
+
+110	Block	152	-57,50,171
+110	Block	152	-56,50,171
+110	Block	152	-55,50,171
+110	Block	152	-54,50,171
+110	Block	152	-53,50,171
+110	Block	152	-52,50,171
+110	Block	152	-51,50,171
+110	Block	152	-50,50,171
+110	Block	152	-49,50,171
+
+115	Block	152	-57,50,173
+115	Block	152	-56,50,173
+115	Block	152	-55,50,173
+115	Block	152	-54,50,173
+115	Block	152	-53,50,173
+115	Block	152	-52,50,173
+115	Block	152	-51,50,173
+115	Block	152	-50,50,173
+115	Block	152	-49,50,173
+
+120	Block	152	-57,50,171
+120	Block	152	-56,50,171
+120	Block	152	-55,50,171
+120	Block	152	-54,50,171
+120	Block	152	-53,50,171
+120	Block	152	-52,50,171
+120	Block	152	-51,50,171
+120	Block	152	-50,50,171
+120	Block	152	-49,50,171
+
+125	Block	152	-57,50,173
+125	Block	152	-56,50,173
+125	Block	152	-55,50,173
+125	Block	152	-54,50,173
+125	Block	152	-53,50,173
+125	Block	152	-52,50,173
+125	Block	152	-51,50,173
+125	Block	152	-50,50,173
+125	Block	152	-49,50,173
+
+130	Block	152	-57,50,171
+130	Block	152	-56,50,171
+130	Block	152	-55,50,171
+130	Block	152	-54,50,171
+130	Block	152	-53,50,171
+130	Block	152	-52,50,171
+130	Block	152	-51,50,171
+130	Block	152	-50,50,171
+130	Block	152	-49,50,171
+
+135	Block	152	-57,50,173
+135	Block	152	-56,50,173
+135	Block	152	-55,50,173
+135	Block	152	-54,50,173
+135	Block	152	-53,50,173
+135	Block	152	-52,50,173
+135	Block	152	-51,50,173
+135	Block	152	-50,50,173
+135	Block	152	-49,50,173
+
+140	Block	152	-57,50,171
+140	Block	152	-56,50,171
+140	Block	152	-55,50,171
+140	Block	152	-54,50,171
+140	Block	152	-53,50,171
+140	Block	152	-52,50,171
+140	Block	152	-51,50,171
+140	Block	152	-50,50,171
+140	Block	152	-49,50,171
+
+145	Block	152	-57,50,173
+145	Block	152	-56,50,173
+145	Block	152	-55,50,173
+145	Block	152	-54,50,173
+145	Block	152	-53,50,173
+145	Block	152	-52,50,173
+145	Block	152	-51,50,173
+145	Block	152	-50,50,173
+145	Block	152	-49,50,173
+
+150	Block	152	-57,50,171
+150	Block	152	-56,50,171
+150	Block	152	-55,50,171
+150	Block	152	-54,50,171
+150	Block	152	-53,50,171
+150	Block	152	-52,50,171
+150	Block	152	-51,50,171
+150	Block	152	-50,50,171
+150	Block	152	-49,50,171
+
+155	Block	152	-57,50,173
+155	Block	152	-56,50,173
+155	Block	152	-55,50,173
+155	Block	152	-54,50,173
+155	Block	152	-53,50,173
+155	Block	152	-52,50,173
+155	Block	152	-51,50,173
+155	Block	152	-50,50,173
+155	Block	152	-49,50,173
+
+160	Block	152	-57,50,171
+160	Block	152	-56,50,171
+160	Block	152	-55,50,171
+160	Block	152	-54,50,171
+160	Block	152	-53,50,171
+160	Block	152	-52,50,171
+160	Block	152	-51,50,171
+160	Block	152	-50,50,171
+160	Block	152	-49,50,171
+
+165	Block	152	-57,50,173
+165	Block	152	-56,50,173
+165	Block	152	-55,50,173
+165	Block	152	-54,50,173
+165	Block	152	-53,50,173
+165	Block	152	-52,50,173
+165	Block	152	-51,50,173
+165	Block	152	-50,50,173
+165	Block	152	-49,50,173
+
+170	Block	152	-57,50,171
+170	Block	152	-56,50,171
+170	Block	152	-55,50,171
+170	Block	152	-54,50,171
+170	Block	152	-53,50,171
+170	Block	152	-52,50,171
+170	Block	152	-51,50,171
+170	Block	152	-50,50,171
+170	Block	152	-49,50,171
+
+175	Block	152	-57,50,173
+175	Block	152	-56,50,173
+175	Block	152	-55,50,173
+175	Block	152	-54,50,173
+175	Block	152	-53,50,173
+175	Block	152	-52,50,173
+175	Block	152	-51,50,173
+175	Block	152	-50,50,173
+175	Block	152	-49,50,173
+
+180	Block	152	-57,50,171
+180	Block	152	-56,50,171
+180	Block	152	-55,50,171
+180	Block	152	-54,50,171
+180	Block	152	-53,50,171
+180	Block	152	-52,50,171
+180	Block	152	-51,50,171
+180	Block	152	-50,50,171
+180	Block	152	-49,50,171
+
+185	Block	152	-57,50,173
+185	Block	152	-56,50,173
+185	Block	152	-55,50,173
+185	Block	152	-54,50,173
+185	Block	152	-53,50,173
+185	Block	152	-52,50,173
+185	Block	152	-51,50,173
+185	Block	152	-50,50,173
+185	Block	152	-49,50,173
+
+190	Block	152	-57,50,171
+190	Block	152	-56,50,171
+190	Block	152	-55,50,171
+190	Block	152	-54,50,171
+190	Block	152	-53,50,171
+190	Block	152	-52,50,171
+190	Block	152	-51,50,171
+190	Block	152	-50,50,171
+190	Block	152	-49,50,171
+
+195	Block	152	-57,50,173
+195	Block	152	-56,50,173
+195	Block	152	-55,50,173
+195	Block	152	-54,50,173
+195	Block	152	-53,50,173
+195	Block	152	-52,50,173
+195	Block	152	-51,50,173
+195	Block	152	-50,50,173
+195	Block	152	-49,50,173
+
+200	Block	152	-57,50,171
+200	Block	152	-56,50,171
+200	Block	152	-55,50,171
+200	Block	152	-54,50,171
+200	Block	152	-53,50,171
+200	Block	152	-52,50,171
+200	Block	152	-51,50,171
+200	Block	152	-50,50,171
+200	Block	152	-49,50,171
+
+205	Block	152	-57,50,173
+205	Block	152	-56,50,173
+205	Block	152	-55,50,173
+205	Block	152	-54,50,173
+205	Block	152	-53,50,173
+205	Block	152	-52,50,173
+205	Block	152	-51,50,173
+205	Block	152	-50,50,173
+205	Block	152	-49,50,173
+
+210	Block	152	-57,50,171
+210	Block	152	-56,50,171
+210	Block	152	-55,50,171
+210	Block	152	-54,50,171
+210	Block	152	-53,50,171
+210	Block	152	-52,50,171
+210	Block	152	-51,50,171
+210	Block	152	-50,50,171
+210	Block	152	-49,50,171
+
+#Reset
+215	Block	152	-57,50,175
+215	Block	152	-56,50,175
+215	Block	152	-55,50,175
+215	Block	152	-54,50,175
+215	Block	152	-53,50,175
+215	Block	152	-52,50,175
+215	Block	152	-51,50,175
+215	Block	152	-50,50,175
+215	Block	152	-49,50,175
+
+#Just Phasma for search 1 til 223
+216	Block	152	-57,50,173
+218	Block	152	-57,50,171
+220	Block	152	-57,50,173
+222	Block	152	-57,50,171
+223	Block	152	-57,50,175
+
+#All others
+236	Block	152	-55,50,171
+236	Block	152	-54,50,171
+236	Block	152	-53,50,171
+236	Block	152	-51,50,171
+236	Block	152	-50,50,171
+236	Block	152	-49,50,171
+
+237	Block	152	-55,50,173
+237	Block	152	-54,50,173
+237	Block	152	-53,50,173
+237	Block	152	-51,50,173
+237	Block	152	-50,50,173
+237	Block	152	-49,50,173
+
+238	Block	152	-55,50,175
+238	Block	152	-54,50,175
+238	Block	152	-53,50,175
+238	Block	152	-51,50,175
+238	Block	152	-50,50,175
+238	Block	152	-49,50,175
+
+#P 1 and 5
+235	Block	152	-57,50,171
+236	Block	152	-57,50,173
+237	Block	152	-57,50,175
+
+236	Block	152	-56,50,171
+237	Block	152	-56,50,173
+238	Block	152	-56,50,175
+
+236	Block	152	-52,50,171
+237	Block	152	-52,50,173
+238	Block	152	-52,50,175
+
+259	Block	152	-57,50,171
+260	Block	152	-57,50,175
+
+260	Block	152	-52,50,171
+261	Block	152	-52,50,175
+
+260	Block	152	-56,50,171
+260	Block	152	-56,50,175
+
+#All back
+264	Block	152	-55,50,171
+264	Block	152	-54,50,171
+264	Block	152	-53,50,171
+264	Block	152	-51,50,171
+264	Block	152	-50,50,171
+264	Block	152	-49,50,171
+
+265	Block	152	-55,50,175
+265	Block	152	-54,50,175
+265	Block	152	-53,50,175
+265	Block	152	-51,50,175
+265	Block	152	-50,50,175
+265	Block	152	-49,50,175
+
+#1 5 back
+264	Block	152	-56,50,171
+265	Block	152	-56,50,173
+266	Block	152	-56,50,171
+267	Block	152	-56,50,175
+
+264	Block	152	-52,50,171
+265	Block	152	-52,50,173
+266	Block	152	-52,50,171
+267	Block	152	-52,50,175
+
+#P Back
+268	Block	152	-57,50,171
+269	Block	152	-57,50,173
+270	Block	152	-57,50,171
+271	Block	152	-57,50,175
+
+#March to stage
+275	Block	152	-57,50,173
+275	Block	152	-56,50,173
+275	Block	152	-55,50,173
+275	Block	152	-54,50,173
+275	Block	152	-53,50,173
+275	Block	152	-52,50,173
+275	Block	152	-51,50,173
+275	Block	152	-50,50,173
+275	Block	152	-49,50,173
+
+280	Block	152	-57,50,171
+280	Block	152	-56,50,171
+280	Block	152	-55,50,171
+280	Block	152	-54,50,171
+280	Block	152	-53,50,171
+280	Block	152	-52,50,171
+280	Block	152	-51,50,171
+280	Block	152	-50,50,171
+280	Block	152	-49,50,171
+
+285	Block	152	-57,50,173
+285	Block	152	-56,50,173
+285	Block	152	-55,50,173
+285	Block	152	-54,50,173
+285	Block	152	-53,50,173
+285	Block	152	-52,50,173
+285	Block	152	-51,50,173
+285	Block	152	-50,50,173
+285	Block	152	-49,50,173
+
+290	Block	152	-57,50,171
+290	Block	152	-56,50,171
+290	Block	152	-55,50,171
+290	Block	152	-54,50,171
+290	Block	152	-53,50,171
+290	Block	152	-52,50,171
+290	Block	152	-51,50,171
+290	Block	152	-50,50,171
+290	Block	152	-49,50,171
+
+295	Block	152	-57,50,173
+295	Block	152	-56,50,173
+295	Block	152	-55,50,173
+295	Block	152	-54,50,173
+295	Block	152	-53,50,173
+295	Block	152	-52,50,173
+295	Block	152	-51,50,173
+295	Block	152	-50,50,173
+295	Block	152	-49,50,173
+
+300	Block	152	-57,50,171
+300	Block	152	-56,50,171
+300	Block	152	-55,50,171
+300	Block	152	-54,50,171
+300	Block	152	-53,50,171
+300	Block	152	-52,50,171
+300	Block	152	-51,50,171
+300	Block	152	-50,50,171
+300	Block	152	-49,50,171
+
+305	Block	152	-57,50,173
+305	Block	152	-56,50,173
+305	Block	152	-55,50,173
+305	Block	152	-54,50,173
+305	Block	152	-53,50,173
+305	Block	152	-52,50,173
+305	Block	152	-51,50,173
+305	Block	152	-50,50,173
+305	Block	152	-49,50,173
+
+310	Block	152	-57,50,171
+310	Block	152	-56,50,171
+310	Block	152	-55,50,171
+310	Block	152	-54,50,171
+310	Block	152	-53,50,171
+310	Block	152	-52,50,171
+310	Block	152	-51,50,171
+310	Block	152	-50,50,171
+310	Block	152	-49,50,171
+
+315	Block	152	-57,50,173
+315	Block	152	-56,50,173
+315	Block	152	-55,50,173
+315	Block	152	-54,50,173
+315	Block	152	-53,50,173
+315	Block	152	-52,50,173
+315	Block	152	-51,50,173
+315	Block	152	-50,50,173
+315	Block	152	-49,50,173
+
+320	Block	152	-57,50,171
+320	Block	152	-56,50,171
+320	Block	152	-55,50,171
+320	Block	152	-54,50,171
+320	Block	152	-53,50,171
+320	Block	152	-52,50,171
+320	Block	152	-51,50,171
+320	Block	152	-50,50,171
+320	Block	152	-49,50,171
+
+325	Block	152	-57,50,173
+325	Block	152	-56,50,173
+325	Block	152	-55,50,173
+325	Block	152	-54,50,173
+325	Block	152	-53,50,173
+325	Block	152	-52,50,173
+325	Block	152	-51,50,173
+325	Block	152	-50,50,173
+325	Block	152	-49,50,173
+
+330	Block	152	-57,50,171
+330	Block	152	-56,50,171
+330	Block	152	-55,50,171
+330	Block	152	-54,50,171
+330	Block	152	-53,50,171
+330	Block	152	-52,50,171
+330	Block	152	-51,50,171
+330	Block	152	-50,50,171
+330	Block	152	-49,50,171
+
+335	Block	152	-57,50,173
+335	Block	152	-56,50,173
+335	Block	152	-55,50,173
+335	Block	152	-54,50,173
+335	Block	152	-53,50,173
+335	Block	152	-52,50,173
+335	Block	152	-51,50,173
+335	Block	152	-50,50,173
+335	Block	152	-49,50,173
+
+340	Block	152	-57,50,171
+340	Block	152	-56,50,171
+340	Block	152	-55,50,171
+340	Block	152	-54,50,171
+340	Block	152	-53,50,171
+340	Block	152	-52,50,171
+340	Block	152	-51,50,171
+340	Block	152	-50,50,171
+340	Block	152	-49,50,171
+
+345	Block	152	-57,50,173
+345	Block	152	-56,50,173
+345	Block	152	-55,50,173
+345	Block	152	-54,50,173
+345	Block	152	-53,50,173
+345	Block	152	-52,50,173
+345	Block	152	-51,50,173
+345	Block	152	-50,50,173
+345	Block	152	-49,50,173
+
+350	Block	152	-57,50,171
+350	Block	152	-56,50,171
+350	Block	152	-55,50,171
+350	Block	152	-54,50,171
+350	Block	152	-53,50,171
+350	Block	152	-52,50,171
+350	Block	152	-51,50,171
+350	Block	152	-50,50,171
+350	Block	152	-49,50,171
+
+355	Block	152	-57,50,173
+355	Block	152	-56,50,173
+355	Block	152	-55,50,173
+355	Block	152	-54,50,173
+355	Block	152	-53,50,173
+355	Block	152	-52,50,173
+355	Block	152	-51,50,173
+355	Block	152	-50,50,173
+355	Block	152	-49,50,173
+
+#Reset
+360	Block	152	-57,50,175
+360	Block	152	-56,50,175
+360	Block	152	-55,50,175
+360	Block	152	-54,50,175
+360	Block	152	-53,50,175
+360	Block	152	-52,50,175
+360	Block	152	-51,50,175
+360	Block	152	-50,50,175
+360	Block	152	-49,50,175
+
+#P 1 and 5 to stage
+364	Block	152	-57,50,171
+367	Block	152	-57,50,173
+370	Block	152	-57,50,171
+373	Block	152	-57,50,173
+376	Block	152	-57,50,171
+379	Block	152	-57,50,173
+382	Block	152	-57,50,171
+385	Block	152	-57,50,173
+387	Block	152	-57,50,175
+
+365	Block	152	-56,50,171
+368	Block	152	-56,50,173
+371	Block	152	-56,50,171
+374	Block	152	-56,50,173
+377	Block	152	-56,50,171
+380	Block	152	-56,50,173
+383	Block	152	-56,50,171
+386	Block	152	-56,50,173
+388	Block	152	-56,50,175
+
+366	Block	152	-52,50,171
+369	Block	152	-52,50,173
+372	Block	152	-52,50,171
+375	Block	152	-52,50,173
+378	Block	152	-52,50,171
+381	Block	152	-52,50,173
+384	Block	152	-52,50,171
+387	Block	152	-52,50,173
+389	Block	152	-52,50,175
+
+#Formation DO LATER IF I CAN
+
+#Stand Proud
+411	Block	152	-55,50,171
+411	Block	152	-54,50,171
+411	Block	152	-53,50,171
+411	Block	152	-51,50,171
+411	Block	152	-50,50,171
+411	Block	152	-49,50,171
+
+412	Block	152	-55,50,173
+412	Block	152	-54,50,173
+412	Block	152	-53,50,173
+412	Block	152	-51,50,173
+412	Block	152	-50,50,173
+412	Block	152	-49,50,173
+
+413	Block	152	-55,50,171
+413	Block	152	-54,50,171
+413	Block	152	-53,50,171
+413	Block	152	-51,50,171
+413	Block	152	-50,50,171
+413	Block	152	-49,50,171
+
+414	Block	152	-55,50,175
+414	Block	152	-54,50,175
+414	Block	152	-53,50,175
+414	Block	152	-51,50,175
+414	Block	152	-50,50,175
+414	Block	152	-49,50,175
+
+#Fearless
+430	Block	152	-55,50,171
+430	Block	152	-54,50,171
+430	Block	152	-53,50,171
+430	Block	152	-51,50,171
+430	Block	152	-50,50,171
+430	Block	152	-49,50,171
+
+431	Block	152	-55,50,173
+431	Block	152	-54,50,173
+431	Block	152	-53,50,173
+431	Block	152	-51,50,173
+431	Block	152	-50,50,173
+431	Block	152	-49,50,173
+
+432	Block	152	-55,50,171
+432	Block	152	-54,50,171
+432	Block	152	-53,50,171
+432	Block	152	-51,50,171
+432	Block	152	-50,50,171
+432	Block	152	-49,50,171
+
+433	Block	152	-55,50,175
+433	Block	152	-54,50,175
+433	Block	152	-53,50,175
+433	Block	152	-51,50,175
+433	Block	152	-50,50,175
+433	Block	152	-49,50,175
+
+#DO BATTLE STANCE LATER
+
+#Move Out 555 to 670
+555	Block	152	-57,50,171
+555	Block	152	-56,50,171
+555	Block	152	-55,50,171
+555	Block	152	-54,50,171
+555	Block	152	-53,50,171
+555	Block	152	-52,50,171
+555	Block	152	-51,50,171
+555	Block	152	-50,50,171
+555	Block	152	-49,50,171
+
+560	Block	152	-57,50,173
+560	Block	152	-56,50,173
+560	Block	152	-55,50,173
+560	Block	152	-54,50,173
+560	Block	152	-53,50,173
+560	Block	152	-52,50,173
+560	Block	152	-51,50,173
+560	Block	152	-50,50,173
+560	Block	152	-49,50,173
+
+565	Block	152	-57,50,171
+565	Block	152	-56,50,171
+565	Block	152	-55,50,171
+565	Block	152	-54,50,171
+565	Block	152	-53,50,171
+565	Block	152	-52,50,171
+565	Block	152	-51,50,171
+565	Block	152	-50,50,171
+565	Block	152	-49,50,171
+
+570	Block	152	-57,50,173
+570	Block	152	-56,50,173
+570	Block	152	-55,50,173
+570	Block	152	-54,50,173
+570	Block	152	-53,50,173
+570	Block	152	-52,50,173
+570	Block	152	-51,50,173
+570	Block	152	-50,50,173
+570	Block	152	-49,50,173
+
+575	Block	152	-57,50,171
+575	Block	152	-56,50,171
+575	Block	152	-55,50,171
+575	Block	152	-54,50,171
+575	Block	152	-53,50,171
+575	Block	152	-52,50,171
+575	Block	152	-51,50,171
+575	Block	152	-50,50,171
+575	Block	152	-49,50,171
+
+580	Block	152	-57,50,173
+580	Block	152	-56,50,173
+580	Block	152	-55,50,173
+580	Block	152	-54,50,173
+580	Block	152	-53,50,173
+580	Block	152	-52,50,173
+580	Block	152	-51,50,173
+580	Block	152	-50,50,173
+580	Block	152	-49,50,173
+
+585	Block	152	-57,50,171
+585	Block	152	-56,50,171
+585	Block	152	-55,50,171
+585	Block	152	-54,50,171
+585	Block	152	-53,50,171
+585	Block	152	-52,50,171
+585	Block	152	-51,50,171
+585	Block	152	-50,50,171
+585	Block	152	-49,50,171
+
+590	Block	152	-57,50,173
+590	Block	152	-56,50,173
+590	Block	152	-55,50,173
+590	Block	152	-54,50,173
+590	Block	152	-53,50,173
+590	Block	152	-52,50,173
+590	Block	152	-51,50,173
+590	Block	152	-50,50,173
+590	Block	152	-49,50,173
+
+595	Block	152	-57,50,171
+595	Block	152	-56,50,171
+595	Block	152	-55,50,171
+595	Block	152	-54,50,171
+595	Block	152	-53,50,171
+595	Block	152	-52,50,171
+595	Block	152	-51,50,171
+595	Block	152	-50,50,171
+595	Block	152	-49,50,171
+
+600	Block	152	-57,50,173
+600	Block	152	-56,50,173
+600	Block	152	-55,50,173
+600	Block	152	-54,50,173
+600	Block	152	-53,50,173
+600	Block	152	-52,50,173
+600	Block	152	-51,50,173
+600	Block	152	-50,50,173
+600	Block	152	-49,50,173
+
+605	Block	152	-57,50,171
+605	Block	152	-56,50,171
+605	Block	152	-55,50,171
+605	Block	152	-54,50,171
+605	Block	152	-53,50,171
+605	Block	152	-52,50,171
+605	Block	152	-51,50,171
+605	Block	152	-50,50,171
+605	Block	152	-49,50,171
+
+610	Block	152	-57,50,173
+610	Block	152	-56,50,173
+610	Block	152	-55,50,173
+610	Block	152	-54,50,173
+610	Block	152	-53,50,173
+610	Block	152	-52,50,173
+610	Block	152	-51,50,173
+610	Block	152	-50,50,173
+610	Block	152	-49,50,173
+
+615	Block	152	-57,50,171
+615	Block	152	-56,50,171
+615	Block	152	-55,50,171
+615	Block	152	-54,50,171
+615	Block	152	-53,50,171
+615	Block	152	-52,50,171
+615	Block	152	-51,50,171
+615	Block	152	-50,50,171
+615	Block	152	-49,50,171
+
+620	Block	152	-57,50,173
+620	Block	152	-56,50,173
+620	Block	152	-55,50,173
+620	Block	152	-54,50,173
+620	Block	152	-53,50,173
+620	Block	152	-52,50,173
+620	Block	152	-51,50,173
+620	Block	152	-50,50,173
+620	Block	152	-49,50,173
+
+625	Block	152	-57,50,171
+625	Block	152	-56,50,171
+625	Block	152	-55,50,171
+625	Block	152	-54,50,171
+625	Block	152	-53,50,171
+625	Block	152	-52,50,171
+625	Block	152	-51,50,171
+625	Block	152	-50,50,171
+625	Block	152	-49,50,171
+
+630	Block	152	-57,50,173
+630	Block	152	-56,50,173
+630	Block	152	-55,50,173
+630	Block	152	-54,50,173
+630	Block	152	-53,50,173
+630	Block	152	-52,50,173
+630	Block	152	-51,50,173
+630	Block	152	-50,50,173
+630	Block	152	-49,50,173
+
+635	Block	152	-57,50,171
+635	Block	152	-56,50,171
+635	Block	152	-55,50,171
+635	Block	152	-54,50,171
+635	Block	152	-53,50,171
+635	Block	152	-52,50,171
+635	Block	152	-51,50,171
+635	Block	152	-50,50,171
+635	Block	152	-49,50,171
+
+640	Block	152	-57,50,173
+640	Block	152	-56,50,173
+640	Block	152	-55,50,173
+640	Block	152	-54,50,173
+640	Block	152	-53,50,173
+640	Block	152	-52,50,173
+640	Block	152	-51,50,173
+640	Block	152	-50,50,173
+640	Block	152	-49,50,173
+
+645	Block	152	-57,50,171
+645	Block	152	-56,50,171
+645	Block	152	-55,50,171
+645	Block	152	-54,50,171
+645	Block	152	-53,50,171
+645	Block	152	-52,50,171
+645	Block	152	-51,50,171
+645	Block	152	-50,50,171
+645	Block	152	-49,50,171
+
+650	Block	152	-57,50,173
+650	Block	152	-56,50,173
+650	Block	152	-55,50,173
+650	Block	152	-54,50,173
+650	Block	152	-53,50,173
+650	Block	152	-52,50,173
+650	Block	152	-51,50,173
+650	Block	152	-50,50,173
+650	Block	152	-49,50,173
+
+655	Block	152	-57,50,171
+655	Block	152	-56,50,171
+655	Block	152	-55,50,171
+655	Block	152	-54,50,171
+655	Block	152	-53,50,171
+655	Block	152	-52,50,171
+655	Block	152	-51,50,171
+655	Block	152	-50,50,171
+655	Block	152	-49,50,171
+
+660	Block	152	-57,50,173
+660	Block	152	-56,50,173
+660	Block	152	-55,50,173
+660	Block	152	-54,50,173
+660	Block	152	-53,50,173
+660	Block	152	-52,50,173
+660	Block	152	-51,50,173
+660	Block	152	-50,50,173
+660	Block	152	-49,50,173
+
+665	Block	152	-57,50,171
+665	Block	152	-56,50,171
+665	Block	152	-55,50,171
+665	Block	152	-54,50,171
+665	Block	152	-53,50,171
+665	Block	152	-52,50,171
+665	Block	152	-51,50,171
+665	Block	152	-50,50,171
+665	Block	152	-49,50,171
+
+670	Block	152	-57,50,175
+670	Block	152	-56,50,175
+670	Block	152	-55,50,175
+670	Block	152	-54,50,175
+670	Block	152	-53,50,175
+670	Block	152	-52,50,175
+670	Block	152	-51,50,175
+670	Block	152	-50,50,175
+670	Block	152	-49,50,175
+
+#Audio
+675	Block	152	-57,50,179
+675	Block	152	-56,50,179
+675	Block	152	-55,50,179
+
+675	Block	152	-53,50,179
+
+700	Block	152	-52,50,179
+
+#Reset
+700	Block	152	-101,54,102
+700	Block	20	-205,61,203

@@ -1,0 +1,12 @@
+Sequence	Fountain
+0	Spawn	0,0.1,0
+0	Block	35:3
+0.1	Block	35:3
+0	Move	0,1.0,0	160
+8	Move	0,1,0	10
+9	Move	0,0.4,0	20
+10.4	Move	0,1,0	1
+11.4	Move	0,0.4,0	1
+13.1	Move	0,0.4,0.3	2
+13.9	Move	0,0.4,-0.3	2
+14.4	Despawn

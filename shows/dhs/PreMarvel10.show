@@ -1,0 +1,155 @@
+Show	Location	-217,65,216
+Show	TextRadius	250
+Show	Name	sits
+
+
+#Audio control 
+0   AudioStart  marvelpre
+#Chatmute/Show start
+0   Block   152 -220,60,193
+600 Block   152 -224,60,193
+602 Block   152 -220,60,196
+#Time system
+0   Block   152 -217,60,193
+600 Block   152 -216,60,195
+
+#Text
+0	Text	&eLadies and Gentlemen boys and girls, in just &910 Minutes&e, &dThe Palace Network &ewill proudly present &c&oMarvelous &eat &d/warp marvelous!
+300	Text	&eLadies and Gentlemen boys and girls, in just &95 Minutes&e, &dThe Palace Network &ewill proudly present &c&oMarvelous &eat &d/warp marvelous!
+480	Text	&eLadies and Gentlemen boys and girls, in just &92 Minutes&e, &dThe Palace Network &ewill proudly present &c&oMarvelous &eat &d/warp marvelous!
+5	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+60	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+120	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+240	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+305	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+360	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+400	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+420	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+450	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+480	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+520	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+550	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+585	Text	&6During &c&oMarvelous&6, the chat will be disabled park-wide.  We will re-enable it after the show.
+590	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-214,60,195
+270	Block	152	-214,60,196
+450	Block	152	-214,60,197
+
+
+#Lights out
+#Centre stage area/GMR
+600	Block	123	-230,77,245
+600	Block	123	-224,77,251
+600	Block	123	-232,77,260
+600	Block	123	-244,77,267
+600	Block	123	-270,77,240
+600	Block	123	-261,77,231
+600	Block	123	-252,77,223
+600 Block	123	-246,77,229
+600	Block	123	-258,73,243
+600	Block	123	-244,73,257
+600	Block	123	-234,63,258
+600	Block	123	-245,63,251
+600	Block	123	-252,63,244
+600	Block	123	-261,63,235
+600	Block	123	-225,63,247
+600	Block	123	-226,63,246
+600	Block	123	-247,63,225
+600	Block	123	-248,63,224
+600	Block	123	-242,62,223
+600	Block	123	-224,62,241
+600	Block	123	-174,63,202
+600	Block	123	-183,62,195
+600	Block	123	-175,63,185
+600	Block	123	-184,63,169
+600	Block	123	-191,63,176
+600	Block	123	-191,63,237
+600	Block	123	-193,63,243
+600	Block	123	-221,63,172
+600	Block	123	-225,63,176
+600	Block	123	-220,63,182
+600	Block	123	-210,63,176
+600	Block	123	-225,63,161
+600	Block	123	-248,62,213
+600	Block	123	-214,62,247
+600	Block	123	-239,63,210
+600	Block	123	-233,63,220
+600	Block	123	-221,63,232
+600	Block	123	-211,63,238
+600	Block	123	-238,62,167
+600	Block	123	-247,62,176
+#76
+600	Block	76	-253,82,245
+600	Block	76	-252,89,248
+600	Block	76	-249,89,251
+600	Block	76	-247,82,253.
+#95:15
+600	Block	95:15	-249,77,248
+600	Block	95:15	-188,62,179
+600	Block	95:15	-181,62,175
+600	Block	95:15	-176,62,180
+600	Block	95:15	-180,62,185
+#Hyperion Theatre
+600	Block	123	-178,70,266
+600	Block	123	-180,70,264
+600	Block	123	-179,70,263
+600	Block	123	-178,70,262
+600	Block	123	-177,70,261
+600	Block	123	-176,70,260
+600	Block	123	-175,70,259
+600	Block	123	-174,70,258
+600	Block	123	-173,70,257
+600	Block	123	-172,70,256
+600	Block	123	-171,70,255
+600	Block	123	-170,70,254
+600	Block	123	-169,70,253
+600	Block	123	-168,70,252
+600	Block	123	-167,70,251
+600	Block	123	-166,70,250
+600	Block	123	-165,70,249
+600	Block	123	-164,70,248
+600	Block	123	-163,70,247
+600	Block	123	-162,70,246
+600	Block	123	-161,70,245
+600	Block	123	-160,70,244
+600	Block	123	-159,70,243
+600	Block	123	-158,70,243
+600	Block	123	-157,70,244
+600	Block	123	-156,70,245
+600	Block	123	-155,70,246
+600	Block	123	-154,70,247
+600	Block	123	-153,70,248
+600	Block	123	-152,70,249
+600	Block	123	-151,70,250
+600	Block	123	-150,70,251
+600	Block	123	-149,70,252
+600	Block	123	-148,70,253
+600	Block	123	-147,70,254
+#New Lights
+600	Block	123	-181,62,235
+600	Block	123	-207,62,230
+600	Block	123	-231,62,206
+600	Block	123	-246,77,228
+600	Block	123	-245,77,229
+600	Block	123	-230,77,244
+600	Block	123	-229,77,245
+600	Block	95:15	-222,66,270
+600	Block	95:15	-222,66,273
+600	Block	95:15	-222,65,276
+#ABC area
+600	Block	123	-190,65,283
+600	Block	123	-196,65,283
+600	Block	123	-199,65,286
+#Animation courtyard
+600	Block	123	-243,63,158
+600	Block	123	-249,63,164
+600	Block	123	-250,63,165
+600	Block	123	-256,63,171
+600	Block	123	-244,63,164
+600 Block	123	-250,63,170
+#76
+600	Block	76	-248,66,160
+600	Block	76	-254,66,166
+

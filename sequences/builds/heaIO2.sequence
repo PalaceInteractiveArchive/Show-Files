@@ -1,0 +1,215 @@
+Sequence	Build
+Build	heaup	heaup
+##InsideOutSection2
+Build	heaioY	heaioY
+Build	heaioB	heaioB
+Build	heaioG	heaioG
+Build	heaioP	heaioP
+Build	heaioR	heaioR
+Build	heaioY2	heaioY2
+Build	heaioB2	heaioB2
+Build	heaioG2	heaioG2
+Build	heaioP2	heaioP2
+Build	heaioR2	heaioR2
+Build	heaioY3	heaioY3
+Build	heaioB3	heaioB3
+Build	heaioG3	heaioG3
+Build	heaioP3	heaioP3
+Build	heaioR3	heaioR3
+Build	heaioY4	heaioY4
+Build	heaioB4	heaioB4
+Build	heaioG4	heaioG4
+Build	heaioP4	heaioP4
+Build	heaioR4	heaioR4
+Build	heaioY5	heaioY5
+Build	heaioB5	heaioB5
+Build	heaioG5	heaioG5
+Build	heaioP5	heaioP5
+Build	heaioR5	heaioR5
+Build	heaioY6	heaioY6
+Build	heaioB6	heaioB6
+Build	heaioG6	heaioG6
+Build	heaioP6	heaioP6
+Build	heaioR6	heaioR6
+Build	heaioY7	heaioY7
+Build	heaioB7	heaioB7
+Build	heaioG7	heaioG7
+Build	heaioP7	heaioP7
+Build	heaioR7	heaioR7
+Build	heaioY8	heaioY8
+Build	heaioB8	heaioB8
+Build	heaioG8	heaioG8
+Build	heaioP8	heaioP8
+Build	heaioR8	heaioR8
+Build	heaioY9	heaioY9
+Build	heaioB9	heaioB9
+Build	heaioG9	heaioG9
+Build	heaioP9	heaioP9
+Build	heaioR9	heaioR9
+Build	heaioY10	heaioY10
+Build	heaioB10	heaioB10
+Build	heaioG10	heaioG10
+Build	heaioP10	heaioP10
+Build	heaioR10	heaioR10
+#Spawn
+0	heaioY	Spawn	-88.5,50,-1618.5
+0	heaioB	Spawn	-89.5,50,-1618.5
+0	heaioG	Spawn	-90.5,50,-1618.5
+0.1	heaioY	Move	-88.5,40,-1618.5	10
+0.1	heaioB	Move	-89.5,40,-1618.5	20
+0.1	heaioG	Move	-90.5,40,-1618.5	15
+#
+0.2	heaioY2	Spawn	-88.5,50,-1618.5
+0.2	heaioB2	Spawn	-89.5,50,-1618.5
+0.2	heaioG2	Spawn	-90.5,50,-1618.5
+0.3	heaioY2	Move	-88.5,40,-1618.5	10
+0.3	heaioB2	Move	-89.5,40,-1618.5	20
+0.3	heaioG2	Move	-90.5,40,-1618.5	15
+#
+0.3	heaioY3	Spawn	-88.5,50,-1618.5
+0.3	heaioB3	Spawn	-89.5,50,-1618.5
+0.3	heaioG3	Spawn	-90.5,50,-1618.5
+0.4	heaioY3	Move	-88.5,40,-1618.5	10
+0.4	heaioB3	Move	-89.5,40,-1618.5	20
+0.4	heaioG3	Move	-90.5,40,-1618.5	15
+#
+0.5	heaioY4	Spawn	-88.5,50,-1618.5
+0.5	heaioB4	Spawn	-89.5,50,-1618.5
+0.5	heaioG4	Spawn	-90.5,50,-1618.5
+0.6	heaioY4	Move	-88.5,40,-1618.5	10
+0.6	heaioB4	Move	-89.5,40,-1618.5	20
+0.6	heaioG4	Move	-90.5,40,-1618.5	15
+#
+0.7	heaioY5	Spawn	-88.5,50,-1618.5
+0.7	heaioB5	Spawn	-89.5,50,-1618.5
+0.7	heaioG5	Spawn	-90.5,50,-1618.5
+0.8	heaioY5	Move	-88.5,40,-1618.5	10
+0.8	heaioB5	Move	-89.5,40,-1618.5	20
+0.8	heaioG5	Move	-90.5,40,-1618.5	15
+#
+0.9	heaioY6	Spawn	-88.5,50,-1618.5
+0.9	heaioB6	Spawn	-89.5,50,-1618.5
+0.9	heaioG6	Spawn	-90.5,50,-1618.5
+1.0	heaioY6	Move	-88.5,40,-1618.5	10
+1.0	heaioB6	Move	-89.5,40,-1618.5	20
+1.0	heaioG6	Move	-90.5,40,-1618.5	15
+#
+1.1	heaioY7	Spawn	-88.5,50,-1618.5
+1.1	heaioB7	Spawn	-89.5,50,-1618.5
+1.1	heaioG7	Spawn	-90.5,50,-1618.5
+1.2	heaioY7	Move	-88.5,40,-1618.5	10
+1.2	heaioB7	Move	-89.5,40,-1618.5	20
+1.2	heaioG7	Move	-90.5,40,-1618.5	15
+#
+1.3	heaioY8	Spawn	-88.5,50,-1618.5
+1.3	heaioB8	Spawn	-89.5,50,-1618.5
+1.3	heaioG8	Spawn	-90.5,50,-1618.5
+1.4	heaioY8	Move	-88.5,40,-1618.5	10
+1.4	heaioB8	Move	-89.5,40,-1618.5	20
+1.4	heaioG8	Move	-90.5,40,-1618.5	15
+#
+1.5	heaioY9	Spawn	-88.5,50,-1618.5
+1.5	heaioB9	Spawn	-89.5,50,-1618.5
+1.5	heaioG9	Spawn	-90.5,50,-1618.5
+1.6	heaioY9	Move	-88.5,40,-1618.5	10
+1.6	heaioB9	Move	-89.5,40,-1618.5	20
+1.6	heaioG9	Move	-90.5,40,-1618.5	15
+#
+1.7	heaioY10	Spawn	-88.5,50,-1618.5
+1.7	heaioB10	Spawn	-89.5,50,-1618.5
+1.7	heaioG10	Spawn	-90.5,50,-1618.5
+1.8	heaioY10	Move	-88.5,40,-1618.5	10
+1.8	heaioB10	Move	-89.5,40,-1618.5	20
+1.8	heaioG10	Move	-90.5,40,-1618.5	15
+#PR
+0.1	heaioP	Spawn	-88.5,50,-1618.5
+0.1	heaioR	Spawn	-89.5,50,-1618.5
+0.2	heaioP	Move	-88.5,40,-1618.5	20
+0.2	heaioR	Move	-89.5,40,-1618.5	15
+0.3	heaioP2	Spawn	-88.5,50,-1618.5
+0.3	heaioR2	Spawn	-89.5,50,-1618.5
+0.4	heaioP2	Move	-88.5,40,-1618.5	20
+0.4	heaioR2	Move	-89.5,40,-1618.5	15
+0.5	heaioP3	Spawn	-88.5,50,-1618.5
+0.5	heaioR3	Spawn	-89.5,50,-1618.5
+0.6	heaioP3	Move	-88.5,40,-1618.5	20
+0.6	heaioR3	Move	-89.5,40,-1618.5	15
+0.7	heaioP4	Spawn	-88.5,50,-1618.5
+0.7	heaioR4	Spawn	-89.5,50,-1618.5
+0.8	heaioP4	Move	-88.5,40,-1618.5	20
+0.8	heaioR4	Move	-89.5,40,-1618.5	15
+0.9	heaioP5	Spawn	-88.5,50,-1618.5
+0.9	heaioR5	Spawn	-89.5,50,-1618.5
+1.0	heaioP5	Move	-88.5,40,-1618.5	20
+1.0	heaioR5	Move	-89.5,40,-1618.5	15
+1.1	heaioP6	Spawn	-88.5,50,-1618.5
+1.1	heaioR6	Spawn	-89.5,50,-1618.5
+1.2	heaioP6	Move	-88.5,40,-1618.5	20
+1.2	heaioR6	Move	-89.5,40,-1618.5	15
+1.3	heaioP7	Spawn	-88.5,50,-1618.5
+1.3	heaioR7	Spawn	-89.5,50,-1618.5
+1.4	heaioP7	Move	-88.5,40,-1618.5	20
+1.4	heaioR7	Move	-89.5,40,-1618.5	15
+1.5	heaioP8	Spawn	-88.5,50,-1618.5
+1.5	heaioR8	Spawn	-89.5,50,-1618.5
+1.6	heaioP8	Move	-88.5,40,-1618.5	20
+1.6	heaioR8	Move	-89.5,40,-1618.5	15
+1.7	heaioP9	Spawn	-88.5,50,-1618.5
+1.7	heaioR9	Spawn	-89.5,50,-1618.5
+1.8	heaioP9	Move	-88.5,40,-1618.5	20
+1.8	heaioR9	Move	-89.5,40,-1618.5	15
+1.9	heaioP10	Spawn	-88.5,50,-1618.5
+1.9	heaioR10	Spawn	-89.5,50,-1618.5
+2.0	heaioP10	Move	-88.5,40,-1618.5	20
+2.0	heaioR10	Move	-89.5,40,-1618.5	15
+#Despawn
+2.2	heaioY	Despawn
+2.2	heaioB	Despawn
+2.2	heaioG	Despawn
+2.3	heaioR	Despawn
+2.3	heaioP	Despawn
+2.4	heaioY2	Despawn
+2.4	heaioB2	Despawn
+2.4	heaioG2	Despawn
+2.5	heaioR2	Despawn
+2.5	heaioP2	Despawn
+2.6	heaioY3	Despawn
+2.6	heaioB3	Despawn
+2.6	heaioG3	Despawn
+2.7	heaioR3	Despawn
+2.7	heaioP3	Despawn
+2.8	heaioY4	Despawn
+2.8	heaioB4	Despawn
+2.8	heaioG4	Despawn
+2.9	heaioR4	Despawn
+2.9	heaioP4	Despawn
+3.0	heaioY5	Despawn
+3.0	heaioB5	Despawn
+3.0	heaioG5	Despawn
+3.1	heaioR5	Despawn
+3.1	heaioP5	Despawn
+4.2	heaioY6	Despawn
+4.2	heaioB6	Despawn
+4.2	heaioG6	Despawn
+4.3	heaioR6	Despawn
+4.3	heaioP6	Despawn
+4.4	heaioY7	Despawn
+4.4	heaioB7	Despawn
+4.4	heaioG7	Despawn
+4.5	heaioR7	Despawn
+4.5	heaioP7	Despawn
+4.6	heaioY8	Despawn
+4.6	heaioB8	Despawn
+4.6	heaioG8	Despawn
+4.7	heaioR8	Despawn
+4.7	heaioP8	Despawn
+5.8	heaioY9	Despawn
+5.8	heaioB9	Despawn
+5.8	heaioG9	Despawn
+5.9	heaioR9	Despawn
+5.9	heaioP9	Despawn
+5.5	heaioY10	Despawn
+5.5	heaioB10	Despawn
+5.5	heaioG10	Despawn
+5.6	heaioR10	Despawn
+5.6	heaioP10	Despawn

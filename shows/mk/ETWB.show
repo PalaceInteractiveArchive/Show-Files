@@ -1,0 +1,73 @@
+Show	Location	-78,44,-1808
+Show	TextRadius	20
+Show	Name	ETWB
+#Audio
+0	AudioStart	ETWB
+60	AudioSync	ETWB	60
+
+#Time
+0	Block	152	-77,35,-1795
+0.1	Block	0	-77,35,-1795
+73.9	Block	0	-81,48,-1806
+73.9	Block	0	-78,48,-1810
+73.9	Block	0	-75,48,-1808
+74	Block	75:1	-81,48,-1806
+74	Block	75:3	-78,48,-1810
+74	Block	75:2	-75,48,-1808
+74	Block	0	-85,49,-1809
+83.2	Block	389:1	-81,46,-1808
+84	Block	152	-79,35,-1797
+85	Block	0	-79,35,-1797
+96	Block	0	-81,35,-1797
+108	Block	198	-85,49,-1809
+110	Block	152	-81,35,-1797
+110	Block	0	-81,46,-1808
+110	Block	0	-82,45,-1808
+110	Block	0	-82,46,-1808
+110	Block	0	-83,46,-1808
+110	Block	0	-83,45,-1808
+120	Block	152	-77,35,-1797
+120	Block	0	-77,35,-1797
+199	Block	0	-81,48,-1806
+199	Block	0	-78,48,-1810
+199	Block	0	-75,48,-1808
+200	Block	76:1	-81,48,-1806
+200	Block	76:3	-78,48,-1810
+200	Block	76:2	-75,48,-1808
+200	Block	24	-83,45,-1809
+200	Block	24	-83,45,-1808
+200	Block	24	-83,45,-1807
+200	Block	24	-83,46,-1809
+200	Block	24	-83,46,-1808
+200	Block	24	-83,46,-1807
+200	Block	24	-83,47,-1809
+200	Block	24	-83,47,-1808
+200	Block	24	-83,47,-1807
+200	Block	24	-82,45,-1808
+200	Block	24	-82,46,-1808
+
+#Particle
+73	Particle	crit	-81,48,-1808	0	-1	0.3	0.01	50
+78	Particle	crit	-81,47,-1807	0	-1	0.3	0.01	50
+78	Particle	crit	-81,47,-1809	0	-1	0.3	0.01	50
+
+#Text
+0	Text &3Bonjour, everyone! As most of you know, &4Maurice &3is an inventor, and this is his workshop. 
+3	Text &3If you look around the on the walls and on the cieling, you’ll see lots of his plans and lots of working models of his &3inventions. 
+11	Text &3Feel free to take as many photos as you like — but please, refrain from doing &eflash &3photography or video &flighting.
+30	Text &3Now can you tell me who used to live here?
+35	Text	&3Belle, thats right!
+36	Text &3Where does she live now?
+39	Text	&3Yep, the beast's castle.
+42	Text	&3Now out of all the rooms of the &ecastle, &3can someone tell me what Belle's favorite room is?
+45	Text	&3The library, thats right!
+47	Text	&3Well &4Maurice &3 is always inside the &ecastle at the library.
+53	Text &3This magic mirror can transport us to the castle at any point in time, and I think I know the perfect time.
+57	Text	&3This was actually a gift given from the &cBeast &3to &4Maurice &3so that he could visit &ePrincess Belle &3at the &dcastle&3 whenever he wanted.
+62	Text &3Now, repeat after me: &b&l“Take me back to the day &e&lBelle &b&land &c&lBeast &b&lfell in love.”
+68	Text &b&lTake me back to the day &e&lBelle &b&land &c&lBeast &b&lfell in love
+112	Text	&3 Please exit to your right through the door as you will be on your way to meeting Madame!
+
+#Sequence
+109	Sequence	Build	ETWBDoor
+

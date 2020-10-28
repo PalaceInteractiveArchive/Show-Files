@@ -1,0 +1,44 @@
+#eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmYxNTlhMWNiZTE3M2Q5MjczOTJmYTY1ZmNmZTc4NTUzZDgxYWE1ZGMyOTQ5NWI5ZmJiYWRlMzYyZjhiZjkifX19
+ArmorStand  security    false   skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzRhNzQ0NTdjOTM1OTQ5ZGYxZmU3ZWUzOTViNDhjNDQ4YjMzZTYwMzM0MTMwOTU4NTM2YjE0OGViZDZjNiJ9fX0=;299(51,50,51);300(51,50,51);301(51,50,51)
+Show    Location    -43.8,63,396.2
+Show    Name    Security
+Show    TextRadius  10
+#Text
+.1  Text    &f[&bSecurity Guard&f] &eKeep moving.
+2.1 Text    &f[&bSecurity Guard&f] &eHow are ya'?
+3.8 Text    &f[&bSecurity Guard&f] &eYou look familiar to me.
+5.6 Text    &f[&bSecurity Guard&f] &eHave I scanned you somewhere before?
+9   Text    &f[&bSecurity Guard&f] &eLet's keep it moving, let's keep it close.
+11.9    Text    &f[&bSecurity Guard&f] &eGood, good.
+#audio command block
+.1  Block   152 -46,60,397
+.8  Block   95   -46,60,397
+#initial entity data 1
+.2  Block   152 -103,54,514
+.5  Block   95   -103,54,514
+#
+.1 ArmorStand  security    spawn   -41.5,63.5,398.6
+#.3 ArmorStand  security    ARM_LEFT    -120,-40,0  .1
+#how are ya 2
+2.1 Block   152 -103,54,515
+2.3 Block   95   -103,54,515
+#you look familiar to me 3
+3.8 Block   152 -103,54,516
+4   Block   95   -103,54,516
+#have I scanned you somewhere before 4
+5.6 Block   152 -103,54,517
+5.8 Block   95   -103,54,517
+#Let's keep it moving 5
+9.1 Block   152 -103,54,518
+9.3 Block   95   -103,54,518
+#lets keep it close 6
+10.1   Block   152 -103,54,519
+10.4 Block   95   -103,54,519
+#lets keep it good good 7
+11.5    Block   152 -103,54,520
+11.7    Block   95   -103,54,520
+20 ArmorStand  security    despawn
+20	Block	152	-43,60,401
+#Activation pressure plate
+.1  Block   0   -44,63,392
+21    Block   70  -44,63,392

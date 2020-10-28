@@ -1,0 +1,16 @@
+﻿Show	Location	-89,43,-1343
+Show	TextRadius	35
+#Sequence
+0	Sequence	Build	flagdown
+#RemoveFlag
+0	Block	0	-93,58,-1345
+0	Block	0	-93,59,-1345
+0	Block	0	-92,59,-1345
+0	Block	0	-91,59,-1345
+0	Block	0	-93,59,-1344
+0	Block	0	-92,59,-1344
+0	Block	0	-91,59,-1344
+0	Block	0	-92,60,-1344
+0	Block	0	-91,60,-1344
+0	Block	0	-91,60,-1343
+0	Block	0	-91,60,-1345

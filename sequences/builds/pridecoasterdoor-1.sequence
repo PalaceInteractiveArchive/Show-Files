@@ -1,0 +1,5 @@
+Sequence	Build
+Build	pridecoasterdoor-1  pridecoasterdoor-1
+0		pridecoasterdoor-1  Spawn   -1538,60,-623.5
+1		pridecoasterdoor-1  Move    -1538,68,-623.5  150
+8.6	pridecoasterdoor-1 Despawn

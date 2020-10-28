@@ -1,0 +1,4 @@
+Sequence	Laser	Relative
+#blue laser 0.5s
+10	Spawn
+10.5	Despawn

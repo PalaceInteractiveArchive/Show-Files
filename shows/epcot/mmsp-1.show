@@ -1,0 +1,4 @@
+Show    Location    -80,75,2755
+Show	TextRadius	25
+#TestLights
+0	Sequence    Light   mmsp-1

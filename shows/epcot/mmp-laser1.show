@@ -1,0 +1,14 @@
+Show	Location	-313.5,68,5,-123.5
+Show	TextRadius	25
+
+0.0	Sequence	Laser	mmp-laser1
+0.1	Sequence	Laser	mmp-laser1
+0.2	Sequence	Laser	mmp-laser1
+0.3	Sequence	Laser	mmp-laser1
+0.4	Sequence	Laser	mmp-laser1
+0.5	Sequence	Laser	mmp-laser1
+0.6	Sequence	Laser	mmp-laser1
+0.7	Sequence	Laser	mmp-laser1
+0.8	Sequence	Laser	mmp-laser1
+0.9	Sequence	Laser	mmp-laser1
+1.0	Sequence	Laser	mmp-laser1

@@ -1,0 +1,9 @@
+Show	Location	-301,64,-112
+Show	TextRadius	2
+
+0   Text    &eNow it's time to play, &6&o&lHot Potato!
+2   Text    &eThe rule are simple: Whoever the potato lands on is &6out&e!
+4   Text    &eIf the potato lands in the middle, the person who the potato landed on last is out. 
+6   Text    &a&o&lGood luck!
+6   Block   152 -315,67,-113
+8   Block   0   -315,67,-113

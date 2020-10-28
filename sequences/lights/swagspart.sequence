@@ -1,0 +1,141 @@
+Sequence	Particle
+#Cylinder	name		type	ox,oy,oz	count	speed	frequency radius distance shape	face
+Cylinder	cloudl1	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudl2	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudl3	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudl4	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudr1	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudr2	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudr3	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	cloudr4	cloud	0.6,1.2,0.6	4	0	20	1	360	full	west
+Cylinder	firetall11	flame	0.25,1,0.25	10	0.01	20	1	360	full	west
+Cylinder	firetall12	flame	0.6,1.6,0.6	20	0.01	20	1	360	full	west
+Cylinder	firetall13	flame	0.9,1.6,0.9	34	0.02	20	1	360	full	west
+Cylinder	firetall14	flame	1.3,1.6,1.3	50	0.02	20	1	360	full	west
+Cylinder	firetall15	flame	1.7,1.6,1.7	60	0.025	20	1	360	full	west
+Cylinder	firetall16	largesmoke	1.7,1.6,1.7	70	0.04	20	1	360	full	west
+Cylinder	firetall21	flame	0.25,1,0.25	10	0.01	20	1	360	full	west
+Cylinder	firetall22	flame	0.6,1.6,0.6	20	0.01	20	1	360	full	west
+Cylinder	firetall23	flame	0.9,1.6,0.9	34	0.02	20	1	360	full	west
+Cylinder	firetall24	flame	1.3,1.6,1.3	50	0.02	20	1	360	full	west
+Cylinder	firetall25	flame	1.7,1.6,1.7	60	0.025	20	1	360	full	west
+Cylinder	firetall26	largesmoke	1.7,1.6,1.7	70	0.04	20	1	360	full	west
+#flame = cen, 0.3, 0.7, 1.1, 1.5, 1.5	y= 1.5, 7, 11, 15, 18, 19
+#/particle cloud -224.5 80.5 250.5 0.6 1.2 0.6 0 4 force
+#/particle cloud -225.9 80.5 249.1 0.6 1.2 0.6 0 4 force
+#/particle cloud -227.3 80.5 247.7 0.6 1.2 0.6 0 4 force
+#/particle cloud -228.7 80.5 246.3 0.6 1.2 0.6 0 4 force
+#The top right
+#/particle cloud -250.5 80.5 224.5 0.6 1.2 0.6 0 4 force
+#/particle cloud -249.1 80.5 225.9 0.6 1.2 0.6 0 4 force
+#/particle cloud -247.7 80.5 227.3 0.6 1.2 0.6 0 4 force
+#/particle cloud -246.3 80.5 228.7 0.6 1.2 0.6 0 4 force
+
+#75.5	mickey1a	Spawn	-21.5,67.95,-250.5
+#93	mickey1a	Despawn
+#firetall11	Spawn -225.0,78,247.0
+#0	firetall11	Spawn	-225.0,79.5,247.0
+#0	firetall12	Spawn	-224.7,85,246.7
+#0	firetall13	Spawn	-224.3,89,246.3
+#0	firetall14	Spawn	-223.9,93,245.9
+#0	firetall15	Spawn	-223.5,96,245.5
+#0	firetall16	Spawn	-223.5,97,245.5
+#firetall11	Spawn -247.0,78,225.0
+#0	firetall21	Spawn	-247.0,79.5,225.0
+#0	firetall22	Spawn	-246.7,85,224.7
+#0	firetall23	Spawn	-246.3,89,224.3
+#0	firetall24	Spawn	-245.9,93,223.9
+#0	firetall25	Spawn	-245.5,96,223.5
+#0	firetall26	Spawn	-245.5,97,223.5
+#	cloudl1	Spawn	-224.5,80.5,250.5
+#	cloudl2	Spawn	-225.9,80.5,249.1
+#	cloudl3	Spawn	-227.3,80.5,247.7
+#	cloudl4	Spawn	-228.7,80.5,246.3
+#	cloudl1	Despawn
+#	cloudl2	Despawn
+#	cloudl3	Despawn
+#	cloudl4	Despawn
+#	cloudr1	Spawn	-250.5,80.5,224.5
+#	cloudr2	Spawn	-249.1,80.5,225.9
+#	cloudr3	Spawn	-247.7,80.5,227.3
+#	cloudr4	Spawn	-246.3,80.5,228.7
+#	cloudr1	Despawn
+#	cloudr2	Despawn
+#	cloudr3	Despawn
+#	cloudr4	Despawn
+147	cloudl1	Spawn	-224.5,80.5,250.5
+146.5	cloudl2	Spawn	-225.9,80.5,249.1
+145.4	cloudl3	Spawn	-227.3,80.5,247.7
+146.9	cloudl4	Spawn	-228.7,80.5,246.3
+152.3	cloudl1	Despawn
+152.3	cloudl2	Despawn
+152.3	cloudl3	Despawn
+152.3	cloudl4	Despawn
+485.4	cloudl1	Spawn	-224.5,80.5,250.5
+485.4	cloudl2	Spawn	-225.9,80.5,249.1
+485.4	cloudl3	Spawn	-227.3,80.5,247.7
+485.4	cloudl4	Spawn	-228.7,80.5,246.3
+506.5	cloudl1	Despawn
+506.5	cloudl2	Despawn
+506.5	cloudl3	Despawn
+506.5	cloudl4	Despawn
+485.4	cloudr1	Spawn	-250.5,80.5,224.5
+485.4	cloudr2	Spawn	-249.1,80.5,225.9
+485.4	cloudr3	Spawn	-247.7,80.5,227.3
+485.4	cloudr4	Spawn	-246.3,80.5,228.7
+506.5	cloudr1	Despawn
+506.5	cloudr2	Despawn
+506.5	cloudr3	Despawn
+506.5	cloudr4	Despawn
+#firetall11	Spawn -225.0,78,247.0		
+258.3	firetall11	Spawn	-225.0,79.5,247.0
+258.9	firetall12	Spawn	-224.7,85,246.7
+259.1	firetall13	Spawn	-224.3,89,246.3
+259.3	firetall14	Spawn	-223.9,93,245.9
+259.6	firetall15	Spawn	-223.5,96,245.5
+260.1	firetall16	Spawn	-223.5,97,245.5
+#firetall11	Spawn -247.0,78,225.0		
+258.3	firetall21	Spawn	-247.0,79.5,225.0
+258.9	firetall22	Spawn	-246.7,85,224.7
+259.1	firetall23	Spawn	-246.3,89,224.3
+259.3	firetall24	Spawn	-245.9,93,223.9
+259.6	firetall25	Spawn	-245.5,96,223.5
+260.1	firetall26	Spawn	-245.5,97,223.5
+261.7	firetall11	Despawn
+262.1	firetall12	Despawn
+262.6	firetall13	Despawn
+263.1	firetall14	Despawn
+263.6	firetall15	Despawn
+265.1	firetall16	Despawn
+261.7	firetall21	Despawn
+262.1	firetall22	Despawn
+262.6	firetall23	Despawn
+263.1	firetall24	Despawn
+263.6	firetall25	Despawn
+265.1	firetall26	Despawn
+#firetall11	Spawn -225.0,78,247.0		
+720.3	firetall11	Spawn	-225.0,79.5,247.0
+720.9	firetall12	Spawn	-224.7,85,246.7
+721.1	firetall13	Spawn	-224.3,89,246.3
+721.3	firetall14	Spawn	-223.9,93,245.9
+721.6	firetall15	Spawn	-223.5,96,245.5
+722.1	firetall16	Spawn	-223.5,97,245.5
+#firetall11	Spawn -247.0,78,225.0		
+720.3	firetall21	Spawn	-247.0,79.5,225.0
+720.9	firetall22	Spawn	-246.7,85,224.7
+721.1	firetall23	Spawn	-246.3,89,224.3
+721.3	firetall24	Spawn	-245.9,93,223.9
+721.6	firetall25	Spawn	-245.5,96,223.5
+722.1	firetall26	Spawn	-245.5,97,223.5
+722.1	firetall11	Despawn
+722.5	firetall12	Despawn
+723	firetall13	Despawn
+723.5	firetall14	Despawn
+724	firetall15	Despawn
+725.5	firetall16	Despawn
+722.1	firetall21	Despawn
+722.5	firetall22	Despawn
+723	firetall23	Despawn
+723.5	firetall24	Despawn
+724	firetall25	Despawn
+725.5	firetall26	Despawn

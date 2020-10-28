@@ -1,0 +1,58 @@
+﻿Show	Location	-19,65,441
+Show	TextRadius	10
+Show	Name	GateF
+0	AudioStart	stpref
+#Reset
+0	Block	152	-16,60,441
+#Pixels
+0	Block	152	-27,54,428
+11	Block	152	-27,54,427
+19.5	Block	152	-27,54,426
+27	Block	152	-27,54,425
+30.3	Block	152	-27,54,424
+44	Block	152	-27,54,423
+52	Block	152	-27,54,422
+55	Block	152	-27,54,421
+59	Block	152	-27,54,420
+84	Block	152	-27,54,419
+87	Block	152	-27,54,418
+92	Block	152	-27,54,417
+100	Block	152	-27,54,416
+106	Block	152	-27,54,415
+110	Block	152	-27,54,414
+113.5	Block	152	-27,54,413
+120.5	Block	152	-27,54,412
+149	Block	152	-27,54,411
+153	Block	152	-27,54,410
+156	Block	152	-27,54,409
+160	Block	152	-27,54,408
+162	Block	152	-21,60,435
+#StartRide
+165	Block	152	-19,60,436
+#Reset
+164.5	Block	152	-16,60,441
+#Text
+0	Text	&f[&6C3PO&f]	&9R2D2&e, thank goodness I caught you. I just received word that the captain is having some sort of technical problem.
+5	Text	&f[&9R2D2&f]	&b(Beeps)
+6.5	Text	&f[&6C3PO&f]	&eAnd that's why I am the systems analyst and you are the astromech.
+9.5	Text	&f[&9R2D2&f]	&b(Whistles, and beeps)
+11.3	Text	&f[&6C3PO&f]	&eDon't you tell me to hurry, you overgrown glob of grease! I know exactly what time you depart. You just do your job and I'll do mine.
+30.7	Text	&f[&6C3PO&f]	&eAh...Excuse me. captain...
+32.5	Text	&f[&2ACE&f]	&aWho are you?
+33.3	Text	&f[&6C3PO&f]	&eC3PO, systems analyst.
+35.5	Text	&f[&2ACE&f]	&aIt's about time, the binary motivator's acting up.
+37.1	Text	&f[&6C3PO&f]	&eWell, Binary is like a second language to me, but I can't fix the motivator from here.
+44.5	Text	&f[&2ACE&f]	&aJust make it quick. We're scheduled to depart in a few minutes.
+47	Text	&f[&6C3PO&f]	&eThen there's no time to lose. Off with you. Go on! Shoo! Shoo! Tour droids...really.
+54.2	Text	&f[&6C3PO&f]	&eWhat? This is malfunctioning too! This could take longer than I thought...
+87.3	Text	&f[&5Safety Announcer&f]	&dPlease pay attention to the following safety information.
+90.3	Text	&f[&5Safety Announcer&f]	&dWhen the automatic doors have opened, please proceed directly across the ramp into the cabin.
+95.3	Text	&f[&5Safety Announcer&f]	&dContinue to move all the way across your aisle, filling in every available seat.
+100.9	Text	&f[&5Safety Announcer&f]	&dGalactic Regulations require that all carry-on items be safely stowed beneath your seats.
+105.7	Text	&f[&5Safety Announcer&f]	&dTo fasten your restraint, use the yellow strap to pull the belt out from the right side of the seat, and snap the belt into the buckle in your left.
+113.7	Text	&f[&5Safety Announcer&f]	&dFor your safety, remain seated throughout your flight with your restraints securely fastened. And please watch your children.
+121.7	Text	&f[&5Safety Announcer&f]	&dPara su seguridad, permanezca sentados con el cinturón de seguridad ajustado y cuide a los pequeñitos.
+130.3	Text	&f[&5Safety Announcer&f]	&dDo not put on your flight glasses until instructed to do so by a crew member.
+135.3	Text	&f[&5Safety Announcer&f]	&dOne final reminder, smoking and photography are never permitted on any Star Tours flight.
+142.3	Text	&f[&5Safety Announcer&f]	&dIf you have any questions, don't hesitate to ask a Star Tours agent.
+146.6	Text	&f[&5Safety Announcer&f]	&dYou'll be boarding in just a few moments. Thank you.

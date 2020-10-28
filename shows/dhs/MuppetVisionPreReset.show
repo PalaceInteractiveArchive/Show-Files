@@ -1,0 +1,49 @@
+Show	Location	-143,60,448
+Show	TextRadius	10
+
+
+### Front End ###
+#Left hand block off
+0	Block	0	-148,61,441
+0	Block	0	-148,61,442
+0	Block	0	-148,61,443
+0	Block	0	-148,61,444
+
+#Right hand block off
+0	Block	0	-149,61,448
+0	Block	0	-149,61,447
+0	Block	0	-148,61,447
+0	Block	0	-148,61,446
+
+#Skip pre block off
+0	Block	0	-155,61,449
+0	Block	0	-154,61,449
+0	Block	0	-153,61,449
+
+#Fence off Pre Show areas
+0	Block	76	-153,59,435
+0	Block	76	-153,59,434
+
+#Signs
+0	Block	152	-150,58,440
+
+#Block off queue signs
+0	Block	0	-138,60,454
+0	Block	0	-138,61,454
+0	Block	0	-140,61,454
+0	Block	0	-140,60,454
+0	Block	0	-142,60,454
+0	Block	0	-142,61,454
+
+#Turn off lights
+0	Block	0	-152,67,435
+0	Block	0	-152,67,434
+
+#Reset Pixelators
+0	Block	152	-142,50,431
+
+#Button
+0	Block	152	-134,60,442
+
+#/ac
+5	Block	152	-142,55,436

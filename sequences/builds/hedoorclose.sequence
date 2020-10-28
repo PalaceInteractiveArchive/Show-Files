@@ -1,0 +1,5 @@
+Sequence	Build
+Build	hedoor  hedoor
+0		hedoor  Spawn   -729.5,74,3811.5
+1		hedoor  Move    -729.5,68.5,3811.5  150
+8.6	hedoor Despawn

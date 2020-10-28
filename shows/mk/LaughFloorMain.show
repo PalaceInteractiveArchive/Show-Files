@@ -1,0 +1,310 @@
+Show    Location    33,16,-1485
+Show	TextRadius	20
+Show    Name    LaughFloor
+
+#Audio
+0   AudioStart  LF
+3   AudioSync   LF  3
+
+#Text
+3.0     Text    &f[&c&lRoz&r&f]&c See that Giant Cannister?
+5.5     Text    &cThat's where we collect your laughter.
+8.7     Text    &cThe More you laugh, the more power we collect.
+13.2    Text    &cThe Less you laugh,
+15.2    Text    &cWell, we may not have enough power to open the exit doors..
+25.2    Text    &cI can tell we're off to a great start.
+30.3    Text    &f[&a&lMike Wazowski&r&f]&a Ladies and Gentlemen,
+31.7    Text    &aWelcome to the Laugh Floor!
+35.1    Text    &aMake some noise for your Monster of Ceremonies
+39.4    Text    &aMe!
+40.7    Text    &a&lMike Wazowski!
+45.8    Text    &aHello, Humans!
+50.2    Text    &aOh come on! You can do better than that!
+52.6    Text    &a&lHello, Humans!
+56.8    Text    &aWoah, Woah, Woah, Very good!
+59.0    Text    &aI'm Mike Wazowski,
+60.0    Text    &aThat's Wazowski, with one &leye!
+64.2    Text    &aWelcome to the laugh floor!
+65.9    Text    &aNow this is your first time in the monster world
+68.3    Text    &aThere are a few things you should know.
+69.2    Text    &aLike if I said, you stink, to &lthat guy
+73.9    Text    &aIt'd be a compliment!
+76.1    Text    &aYou're welcome sir!
+77.9    Text    &aSee now, we're after your laughter!
+80.1    Text    &aSo the only one here who might make you scream,
+82.9    Text    &aWould be &c&lRoz
+84.2    Text    &aEugh
+85.6    Text    &aWe like to call &c&lRoz&r&a the face that launched one thousand lunches!
+89.5    Text    &aHey! Why did the chicken cross the road?
+91.9    Text    &aTo get away from &c&lRoz!
+93.6    Text    &aHa Ha!
+95.9    Text    &aShe's up on the screen isn't she.
+98.2    Text    &f[&c&lRoz&r&f]&c Wazowski!
+99.5    Text    &cYou better fill the can this time.
+102.0   Text    &cOr else!
+103.1   Text    &f[&a&lMike Wazowski&r&f]&a Or else what!?
+105.4   Text    &f[&c&lRoz&r&f]&c Or else this!
+114.3   Text    &f[&a&lMike Wazowski&r&f]&a I'm okay folks!
+117.0   Text    &aPhew!
+118.2   Text    &aAre you ready for our first act?
+122.6   Text    &aWell, here they are! &6&lSam and Ella!
+126.5   Text    &f[&6&lSam&r&f]&6 Hello Humans!
+131.1   Text    &6Oh very nice, hello there, my name is Sam!
+134.1   Text    &6This is Ella
+134.9   Text    &f[&e&lElla&r&f]&e Hi.
+135.1   Text    &f[&6&lSam&r&f]&6 And together, we're Samonella 
+139.5   Text    &6Ella here is an expert in Geography!
+142.1   Text    &f[&e&lElla&r&f]&e Of the Human world!
+143.3   Text    &f[&6&lSam&r&f]&6 Of The Human world?
+144.5   Text    &f[&e&lElla&r&f]&e Yeah, this map, that's the Human world,
+146.7   Text    &eAnd I can name the capital of any Human country.
+150.2   Text    &f[&6&lSam&r&f]&6 Really?
+151.3   Text    &6Alright, Humans yell out the name of a country!
+157.1   Text    &6The first one I heard was USA..
+159.1   Text    &f[&e&lElla&r&f]&e Well that's a very tricky one, because the USA has three capitals.
+164.1   Text    &eU S and A.
+168.5   Text    &f[&6&lSam&r&f]&6 I see what you did there..
+169.6   Text    &6Alright, let's try it again with another Human!
+171.9   Text    &6Could be anyone.
+172.8   Text    &f[&e&lElla&r&f]&e Well except for that guy!
+174.6   Text    &f[&6&lSam&r&f]&6 What?
+175.3   Text    &f[&e&lElla&r&f]&e Well, he's studying for his tests, because he only got a B on the last one.
+180.3   Text    &f[&6&lSam&r&f]&6 Alright, someone else then, Humans raise your hands if you know where you live!
+183.6   Text    &6Raise those hands up high!
+185.3   Text    &6Everyone here should know where they live or they're not gonna get home..
+187.7   Text    &6Let's see uh, oh I know a human over on this side!
+191.1   Text    &6Looks's like they might know where they live
+193.2   Text    &f[&e&lElla&r&f]&e Alright.
+193.3   Text    &f[&6&lSam&r&f]&6 Let's see here
+194.4   Text    &6Wearing a red shirt I believe, yes!
+198.3   Text    &6Hello!
+199.1   Text    &f[&e&lElla&r&f]&e Oh Yeah!
+200.4   Text    &f[&6&lSam&r&f]&6 Hello, yes we are Sam and Ella, what's your name?
+203.4   Text    &f[&7&lJohn&r&f]&7 John
+204.5   Text    &f[&6&lSam&r&f]&6 John, where do you live?
+205.7   Text    &f[&7&lJohn&r&f]&7 Uh, Greensboro North Carolina.
+207.6   Text    &f[&e&lElla&r&f]&e North Carolina! Hi John!
+209.7   Text    &eI know all about North Carolina!
+211.6   Text    &eIt's a frozen island tundra!
+214.0   Text    &eIn.. yeah, in in the Pacific Ocean!
+216.8   Text    &eCompletely surrounded by water!
+218.4   Text    &eIt has Polar Bears, Gummy Bears and the Eifel Tower!
+223.4   Text    &f[&6&lSam&r&f]&6John is that right?
+224.7   Text    &f[&7&lJohn&r&f]&7 Nailed it.
+227.9   Text    &f[&e&lElla&r&f]&e Everybody give it up for John!
+232.1   Text    &f[&6&lSam&r&f]&6 I'm not too sure about this..
+233.6   Text    &f[&e&lElla&r&f]&e You know what I can do it again!
+234.8   Text    &eAnd let's talk to somebody more like us, how about a two headed human?
+237.9   Text    &f[&6&lSam&r&f]&6 There's no such thing as a two headed-
+240.1   Text    &6Oh my..
+240.4   Text    &f[&e&lElla&r&f]&e Look at that.
+242.3   Text    &f[&6&lSam&r&f]&6 That's amazing!
+243.1   Text    &f[&e&lElla&r&f]&e She's growing out of his armpit, just like me!
+245.9   Text    &f[&6&lSam&r&f]&6 Well hello there you two, what are your names?
+248.4   Text    &f[&7&lMark&r&f]&7 Mark and Ashley.
+249.9   Text    &f[&6&lSam&r&f]&6 Oh alright, okay!
+250.7   Text    &f[&e&lElla&r&f]&e Hi!
+251.3   Text    &f[&6&lSam&r&f]&6 And Where do you live?
+253.1   Text    &f[&7&lMark&r&f]&7 We live in Tampa, Florida.
+254.8   Text    &f[&e&lElla&r&f]&e Ohhh,
+255.8   Text    &eKonichiwa!
+258.6   Text    &eI am speaking their language!
+260.5   Text    &eI know all about Florida,
+262.3   Text    &eIt is a completely mountainous mountain range,
+265.0   Text    &eNext to Lima Peru!
+266.5   Text    &eIt has eerie canals on either side of it!
+269.2   Text    &eAnd It also has..
+270.7   Text    &eThe Eifel Tower!
+275.3   Text    &f[&6&lSam&r&f]&6 Mark and Ashley, is that right?
+277.1   Text    &f[&7&lMark&r&f]&7 Nope!
+279.0   Text    &f[&e&lElla&r&f]&e Excuse me, Mark!
+280.8   Text    &eAnd Ashley!
+282.3   Text    &eWhen was the last time you were home?
+286.4   Text    &f[&7&lMark&r&f]&7 Two days ago.
+288.4   Text    &f[&e&lElla&r&f]&e Did he say two days?
+289.5   Text    &f[&6&lSam&r&f]&6 Yes.
+290.4   Text    &f[&e&lElla&r&f]&e Oo, well it's all changed since then!
+292.2   Text    &f[&6&lSam&r&f]&6 What?
+292.5   Text    &f[&e&lElla&r&f]&e Yeah!
+293.3   Text    &eThey're gonna get home, they won't even recognise it!
+295.2   Text    &eThey put in uh, they put in a new fireplug!
+297.2   Text    &eThey got a new light in the corner
+299.0   Text    &eThey even have a brand new national anthem!
+301.4   Text    &eI'm gonna sing it for you and everybody clap along!
+304.5   Text    &eBa dum ba dum bum bum!
+304.9   Text    &eThere's a place where you really want to stop!
+309.5   Text    &eThat's in Florida to visit Ashley and Mark!
+313.1   Text    &eThey'll take you out and buy you lots of flowers!
+316.7   Text    &eThen John will plant them underneath their Efiel Tower!
+320.8   Text    &f[&6&lSam&r&f]&6 Let's hear it for Ella!
+324.7   Text    &f[&a&lMike Wazowski&r&f]&a Weren't they great Folks, weren't they great!
+326.9   Text    &aLet's see how they did!
+328.4   Text    &aHo, ho oh, ho oh!
+330.1   Text    &aFifteen Gigawatts!
+332.1   Text    &aLooking good!
+333.7   Text    &aOkay, this next act is almost as funny as a Monkey in a Tutu!
+337.4   Text    &aThe Monkey wasn't available.
+339.0   Text    &aHe's my buddy, he's your buddy!
+341.7   Text    &aHe's &5&lBuddy Boil&r&a!
+344.0   Text    &f[&5&lBuddy Boil&r&f]&5 Hello Humans!
+348.7   Text    &5You remembered!
+349.9   Text    &5Even that guy!
+352.9   Text    &5Hey, I'm still Buddy Boil, but you may not know that I'm also a mind reader!
+356.8   Text    &5I'm tele-
+358.6   Text    &5Pathetic.
+360.6   Text    &5I need a Telepathetic mind to read!
+364.9   Text    &5I'm being drawn over to this side of the theatre!
+367.8   Text    &5It must be!
+369.9   Text    &5You!
+373.1   Text    &5The Lady with the camera?
+375.6   Text    &5Well, hello lady, hi!
+377.4   Text    &5Hi my name is Buddy, Buddy Boil, what's your name?
+379.6   Text    &f[&9&lMarilyn&r&f]&9 Marilyn.
+380.9   Text    &f[&5&lBuddy Boil&r&f]&5 Correct!
+384.4   Text    &5Marilyn! It is Marilyn, right?
+386.9   Text    &f[&9&lMarilyn&r&f]&9 Yes.
+389.8   Text    &f[&5&lBuddy Boil&r&f]&5 Two for Two.
+392.4   Text    &5Marilyn I need you to think of a number between 1 and 50,
+395.3   Text    &5Can you do that for me?
+396.3   Text    &f[&9&lMarilyn&r&f]&9 Mmhmm!
+397.2   Text    &f[&5&lBuddy Boil&r&f]&5 Great!
+398.1   Text    &5Go Ahead and give that number to the audience,
+400.4   Text    &5Including this crazy guy beside you with the camera now.
+403.5   Text    &5That way everyone will know what the number is,
+404.8   Text    &5But don't worry, I'll close my eyes, that way I cannot hear you!
+408.9   Text    &f[&9&lMarilyn&r&f]&9 Twenty Three!
+410.2   Text    &f[&5&lBuddy Boil&r&f]&5 What?
+411.5   Text    &f[&9&lMarilyn&r&f]&9 Twenty Three.
+412.8   Text    &f[&5&lBuddy Boil&r&f]&5 What?
+415.7   Text    &5Marilyn, did you give them the number?
+417.8   Text    &f[&9&lMarilyn&r&f]&9 Twenty Three.
+419.0   Text    &f[&5&lBuddy Boil&r&f]&5 It's a yes or no question..
+420.1   Text    &f[&9&lMarilyn&r&f]&9 Oh Yes.
+422.0   Text    &f[&5&lBuddy Boil&r&f]&5 Alright.
+422.6   Text    &5Send me that number with your mind.
+425.4   Text    &5Concentrate..
+426.1   Text    &5Oh, she's done this before!
+428.2   Text    &5That's good, that's good, okay good.
+430.0   Text    &5Alright, I'm getting something!
+431.0   Text    &5I am getting something!
+432.3   Text    &5Hmmmmmm
+433.9   Text    &5Na na na na na na na na na na
+436.5   Text    &5Na-Your Number is..
+439.1   Text    &5Fourty Nine!
+442.9   Text    &5No?
+443.5   Text    &f[&9&lMarilyn&r&f]&9 No.
+445.7   Text    &f[&5&lBuddy Boil&r&f]&5 Marilyn, is it higher or lower?
+447.5   Text    &f[&9&lMarilyn&r&f]&9 Lower.
+449.2   Text    &f[&5&lBuddy Boil&r&f]&5 &l&nFourty Nine&r
+453.7   Text    &5Lower?
+455.2   Text    &5Uh, Fourty Eight?
+458.5   Text    &5Lower. Uhh,
+459.9   Text    &5Fourty Seven?
+461.6   Text    &5HELLO!
+467.9   Text    &5I think your number just hit me.
+471.2   Text    &5Is your number..
+473.7   Text    &5Twenty Three?
+474.8   Text    &f[&9&lMarilyn&r&f]&9 Yep.
+475.9   Text    &f[&5&lBuddy Boil&r&f]&5 Yeah!
+478.3   Text    &5Oh Yeah we did it!
+480.1   Text    &5Thank you everyone, thanks everyone!
+481.7   Text    &5I'm Buddy Boil and I can read minds!
+483.6   Text    &5Oh Yes I can!
+484.7   Text    &5Woooooh!
+491.7   Text    &f[&a&lMike Wazowski&r&f]&a Roz, why did you do that?
+493.3   Text    &aHe got it right!
+495.1   Text    &f[&c&lRoz&r&f]&c Oops, my finger slipped.
+498.7   Text    &f[&a&lMike Wazowski&r&f]&a Ooh! Well, look at that Roz!
+500.5   Text    &aThe Can's half full!
+502.3   Text    &f[&c&lRoz&r&f]&c Looks half empty to me.
+504.4   Text    &cFace it Wazowski, you'll never fill that can.
+508.7   Text    &f[&a&lMike Wazowski&r&f]&a Oh Yes we will!
+510.4   Text    &aRight Guys?
+512.8   Text    &f[&c&lRoz&r&f]&c Just fill the Can.
+514.7   Text    &cBut remember, I'm watching,
+517.3   Text    &cAlways watching!
+520.3   Text    &f[&a&lMike Wazowski&r&f]&a I'm watching,
+521.3   Text    &aAlways watching.
+522.4   Text    &aI'm Roz and I've got a mole on my-
+523.9   Text    &f[&c&lRoz&r&f]&c I can still hear you.
+525.7   Text    &f[&a&lMike Wazowski&r&f]&a Dyugh, Ladies and Gentlemen,
+528.2   Text    &aPerforming the Jokes, you just sent in!
+530.4   Text    &aMy Nephew!
+531.6   Text    &2&lMarty Wazowski!
+534.5   Text    &f[&2&lMarty Wazowski&r&f]&2 Um, Hello Humans?
+539.9   Text    &2Wow, that was incredible!
+541.6   Text    &2You guys are totally cool, thanks for helping me out!
+544.0   Text    &2You know what I get to tell the jokes you sent in!
+546.0   Text    &2Do you want to hear them? Say Oh Yeah!
+549.8   Text    &2Cool deal, all the way from Georgia!
+553.0   Text    &2What's a vampires favorite dog? Everybody say, which one!
+557.9   Text    &2A blood hound!
+560.5   Text    &2Uh Ellis, sends that one in.
+562.2   Text    &2And let's see,
+563.0   Text    &2What did the Skeleton order at the restaurant?
+565.9   Text    &2Everybody say what!
+568.4   Text    &2Spare Ribs!
+572.4   Text    &2Do you know how ghosts wash their hair?
+574.2   Text    &2Everybody say how?
+576.6   Text    &2With Sham-Boo!
+579.9   Text    &2I love giving you a role!
+581.5   Text    &2I wanna try this with a real life human kid
+583.0   Text    &2I need a comedy partner though!
+584.3   Text    &2Someone to help me tell a joke and fill that laugh can!
+586.7   Text    &2Human kids out their raise your hands,
+588.2   Text    &2And wave it around if you want to be my comedy partner!
+590.7   Text    &2Cause I am looking for somebody to help me out,
+592.6   Text    &2I am looking for somebody over on the,
+594.8   Text    &2Other side in a yellow shirt, about seven rows back,
+599.1   Text    &2Although it looks like he had a tragic laundry accident.
+602.0   Text    &2That's okay.
+603.6   Text    &2Hi, what's your name Human?
+606.1   Text    &f[&7&lEthan&r&f]&7 Ethan.
+607.3   Text    &f[&2&lMarty Wazowski&r&f]&2 Hi Ethan, how old are you?
+609.1   Text    &f[&7&lEthan&r&f]&7 Nine.
+610.0   Text    &f[&2&lMarty Wazowski&r&f]&2 That is totally awesome!
+612.4   Text    &2Alright, Ethan, do you know what a Mummy's favorite music is?
+617.0   Text    &f[&7&lEthan&r&f]&7 Rap Music?
+618.6   Text    &f[&2&lMarty Wazowski&r&f]&2 Give it up for Ethan!
+623.6   Text    &2Comedy Stylings of Ethan, you're doing great!
+626.7   Text    &2Now um, do you know what happens when Darth Vader makes your hamburger?
+631.7   Text    &f[&7&lEthan&r&f]&7 No clue.
+633.5   Text    &f[&2&lMarty Wazowski&r&f]&2 It turns out a little on the dark side!
+639.3   Text    &2Ooh look you're filling the laugh can, you are doing a great job!
+642.4   Text    &2Thanks for helping me tell a joke or two!
+645.1   Text    &2You're obviously a great comic, but
+646.7   Text    &2Ethan, what do you want to be when you grow up?
+649.0   Text    &f[&7&lEthan&r&f]&7 A Zoologist.
+651.0   Text    &f[&2&lMarty Wazowski&r&f]&2 Oooh!
+652.7   Text    &2Well that's alright, that's fantastic!
+654.9   Text    &2I know what I want to be too, I want to be the coolest guy in the room
+657.2   Text    &2And the guy who get's all the laughs.
+658.7   Text    &2When I grow up, dude I'm gonna be just like..
+660.9   Text    &2That Guy!
+663.0   Text    &2Hey everybody put your hands together and scream for Ethan!
+665.6   Text    &2He was the number one comic!
+669.1   Text    &f[&a&lMike Wazowski&r&f]&a Okay, let's give the little guy a big hand, wasn't he great!
+673.3   Text    &aOoh! And look at that!
+676.1   Text    &aWe did it! We filled the can!
+678.6   Text    &aWay to go!
+679.8   Text    &aHa Haa!
+681.2   Text    &aWhat do you think of that, Roz?
+683.2   Text    &f[&c&lRoz&r&f]&c Well I guess I have to promote the one responsible.
+687.7   Text    &f[&a&lMike Wazowski&r&f]&a Ooh yeah, what's my new title?
+689.4   Text    &f[&c&lRoz&r&f]&c Not you Wazowski,
+691.6   Text    &cThat Guy.
+694.0   Text    &cGive him a big hand!
+696.0   Text    &f[&a&lMike Wazowski&r&f]&a Well that's our show!
+697.9   Text    &aThanks for your laughter!
+699.6   Text    &aAnd Goodbye Humans!
+
+#Schematics
+0.0     Schematic   LFMainStage  38  16  -1473   mk  false
+143.0   Schematic   LFSamAndElla 38  16  -1473   mk  false
+344.0   Schematic   LFBuddyBoilStage    38  16  -1473   mk  false
+534.0   Schematic   LFMartyNoPixelator  38  16  -1473   mk  false
+667.0   Schematic   LFCity   38  16  -1473   mk  false
+
+#Block Placing
+#Test quick
+1.0   Block   152 33,14,-1484

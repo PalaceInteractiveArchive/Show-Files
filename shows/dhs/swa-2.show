@@ -1,0 +1,8 @@
+Show    Location    -387,74,1149
+Show    TextRadius  10
+
+0   Text    &r[&6Guide&r]
+0.5 Text    &5Welcome, recruits.
+2.0 Text    &5Your mission is to find the hidden button in each room. 
+5.0 Text    &5If you get stuck, do /warp dhs and let a staff member know you didn't finish. 
+9.0 Text    &5Good luck, recruits. 

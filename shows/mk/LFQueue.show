@@ -1,0 +1,177 @@
+Show    Location    15,43,-1496
+Show    TextRadius    20
+Show    Name    LFQueue
+
+#Audio
+0   AudioStart  LFQueue
+
+0   Block   152 13,36,-1496
+1   Text    &f[&a&lWazowski&r&f]&a Hello Humans!
+2   Block   152 13,36,-1497
+3.5 Text    &aI'm Mike Wazowski, the MC of the Laugh Floor.
+7.2 Text    &aThat's Monster of Ceremonies.
+7.2 Block   152 13,36,-1498
+9.5 Text    &aFolks, we're just 5 minutes away from bringing you into the theatre.
+12.9    Text    &aBut first, I'd like to explain how we Monsters  got into this funny business!
+12.9    Block   152 13,36,-1499
+17.4    Text    &aHit it!
+19.0    Text    &aWelcome to Monsters Incorporated.
+19.0    Block   152 13,36,-1500
+21.5    Text    &aYou are now standing inside the premiere Laugh Factory in the Monster world!
+22.0    Block   152 13,36,-1501
+26.5    Text    &aOkay, the only Laugh Factory in the Monster World.
+29.3    Text    &aBut, definitely the best!
+30.8    Block   152 13,36,-1502
+30.9    Text    &aWe're home to the funniest Monsters that ever roamed Monstropolis.
+35.0    Block   152 13,36,-1503
+35.2    Text    &aJust a few short years ago, our world was powered by your screams.
+38.0    Block   152 13,36,-1504
+39.7    Text    &aAnd we at Monsters Incorporated would go door to door and collect the screams from kids all over the world.
+40.0    Block   152 13,36,-1505
+44.8    Block   152 13,36,-1506
+45.8    Text    &aIt was simple!
+46.9    Text    &aThe more scream from you, the more power for us!
+46.9    Block   152 13,36,-1507
+50.0    Text    &aBut then, I discovered Human laughter was ten times more powerful than scream!
+51.7    Block   152 13,36,-1508
+55.7    Text    &aWoah-hoa-hoa!
+55.7    Block   152 13,36,-1509
+56.8    Text    &aSo, we got out of the scare business and now we're making funny with the ha ha!
+60.4    Block   152 13,36,-1510
+62.9    Text    &aNow this you're gonna love!
+64.4    Block   152 13,36,-1511
+64.4    Text    &aInstead of sending monsters into your world, I came up with the brilliant idea of the Laugh Floor!
+70.0    Text    &aWhere we Invite you into our world, not to be scared, but to laugh!
+70.0    Block   152 13,36,-1512
+75.3    Text    &aOh Please.
+76.0    Block   152 13,36,-1513
+76.1    Text    &aDon't be scared to laugh.
+77.7    Text    &aLaugh as if an entire city were depending on it!
+81.5    Text    &aBecause it is!
+82.6    Text    &aAs is my job, no pressure, no worries.
+86.1    Text    &aSo there you have it.
+86.1    Block   152 13,36,-1514
+87.6    Text    &aToday Monsters Incorporated is generating more power with laughter than we ever did with scream.
+88.8    Block   152 15,36,-1486
+94.3    Text    &aSo don't you worry, there's nothing here that'll scare you!
+98.1    Text    &f[&c&lRoz&r&f]&c Wazowski!
+98.9    Block   152 15,36,-1487
+98.9    Text    &f[&a&lWazowski&r&f]&a Ah!
+100.6   Block   152 15,36,-1488
+100.6   Text    &aRoz. Why do you always have to do that?
+103.6   Text    &f[&c&lRoz&r&f]&c It's a hobby!
+103.6   Block   152 15,36,-1489
+106.0   Text    &cNow what were you blabbering about Wazowski?
+106.0   Block   152 15,36,-1490
+110.1   Text    &f[&a&lWazowski&r&f]&a I was just telling the humans that we're after their laughter these days, not their screams.
+111.0   Block   152 15,36,-1491
+115.7   Text    &f[&c&lRoz&r&f]&c Call me sentimental, but I still miss the screaming.
+115.7   Block   152 15,36,-1492
+120.0   Block   152 15,36,-1493
+123.0   Block   152 15,36,-1494
+126.6   Text    &f[&a&lWazowski&r&f]&a We'll be opening the doors in just about 3 minutes,
+126.6   Block   152 15,36,-1495
+129.3   Block   152 15,36,-1496
+129.3   Text    &aBut for now, here's a taste of the sophisticated, high-brow humor that awaits you inside!
+135.3   Block   152 15,36,-1497
+135.2   Text    &f[&c&lRoz&r&f]&c Hold that Tape Wazowski.
+137.9   Block   152 15,36,-1498
+137.9   Text    &cI've been tough on you and
+140.5   Text    &cI feel soo bad.
+142.0   Block   152 15,36,-1499
+144.6   Text    &cSo to make it up to you, I've made clips of your best work.
+149.7   Text    &f[&a&lWazowski&r&f]&a Really?
+149.7   Block    152 15,36,-1500
+150.6   Text    &aI can't wait!
+152.2   Text    &aPlay it Roz!
+156.2   Block   152 15,36,-1501
+161.9   Block   152 15,36,-1502
+165.7   Block   152 15,36,-1503
+167.5   Block   152 15,36,-1504
+171.4   Block   152 15,36,-1505
+173.7   Block   152 15,36,-1506
+177.5   Block   152 15,36,-1507
+180.0   Block   152 15,36,-1508
+185.5   Block   152 15,36,-1509
+188.1   Block   152 15,36,-1510
+193.6   Block   152 15,36,-1511
+195.9   Block   152 15,36,-1512
+196.7   Block   152 15,36,-1513
+197.5   Block   152 15,36,-1514
+198.2   Block   152 15,36,-1515
+198.8   Block   152 15,36,-1516
+199.8   Block   152 15,36,-1518
+201.8   Block   152 15,36,-1519
+201.8   Text    &f[&c&lRoz&r&f]&c Ha Ha Ha.
+204.7   Text    &f[&a&lWazowski&r&f]&a Hey! That wasn't my best work, that was just me making mistakes!
+204.2   Block   152 15,36,-1520
+209.2   Text    &f[&c&lRoz&r&f]&c Oh did I hurt your feelings Wazowski?
+209.2   Block   152 15,36,-1521
+213.4   Text    &cWas this the part?
+213.4   Block   152 15,36,-1505
+215.8   Block   152 15,36,-1512
+215.8   Text    &cOr this?
+217.7   Text    &cHow about this part?
+217.7   Block   152 15,36,-1503
+220.1   Text    &cOh! That one hurt!
+220.1   Block   152 15,36,-1501
+223.0   Text    &f[&a&lWazowski&r&f]&a Stop! Stop!
+223.0   Text    152 15,36,-1522
+228.5   Text    &aAnd sometimes, painful.
+231.8   Block   152 19,36,-1486
+231.8   Text    &aAnd it can be difficult to know just what is funny.
+234.9   Text    &aEspecially for monsters who are new at this whole comedy thing.
+238.8   Text    &aLike Roz.
+238.8   Block   152 19,36,-1487
+240.4   Text    &aThat's why we have...
+241.8   Block   152 19,36,-1488
+241.8   Text    &f[&d&lArt&r&f]&d The Monsters University School..
+245.4   Text    &dUh, nope.
+247.3   Text    &dAha!
+248.8   Text    &dOf!
+250.5   Block   152 19,36,-1489
+250.5   Text    &dLaughing!
+252.5   Text    &dMonsters University is training the top laugh makers of tomorrow, today!
+253.0   Block   152 19,36,-1490
+256.0   Block   152 19,36,-1491
+257.7   Text    &dMonsters learn to be funny in a safe and Nurturing Environment.
+261.0   Block   152 19,36,-1492
+262.4   Text    &dWhere we all care, and share together.
+266.4   Text    &dOffering classes in...
+268.5   Block   152 19,36,-1493
+268.5   Text    &dProp Comedy!
+270.9   Block   152 19,36,-1494
+270.9   Text    &dPhysical Comedy-
+279.7   Block   152 19,36,-1495
+279.7   Text    &dDeadpan.
+283.3   Block   152 19,36,-1496
+283.3   Text    &dAnd even how to act jolly!
+285.8   Text    &7(Robotic Laughter)
+287.5   Block   152 19,36,-1497
+287.5   Text    &f[&d&lArt&r&f]&d Some M.U. students have even gone on to become real monsters of comedy!
+289.0   Block   152 19,36,-1498
+291.0   Block   152 19,36,-1499
+293.5   Text    &dWhile others..
+294.6   Text    &dUhhh,
+294.6   Block   152 19,36,-1500
+296.1   Text    &dThey're just getting started!
+298.5   Text    &dKnock, Knock..
+298.5   Block   152 19,36,-1501
+299.4   Text    &dWho's there?
+300.3   Text    &dIt's your future!
+301.4   Text    &dIt's your future, who?
+303.6   Block   152 19,36,-1502
+303.6   Text    &dIt's your future, right here!
+306.1   Text    &dAt Monsters University!
+309.6   Block   152 19,36,-1503
+315.6   Block   152 19,36,-1504
+320.1   Block   152 19,36,-1505
+320.3   Text    &f[&a&lWazowski&r&f]&a Alright, this is exciting!
+322.4   Text    &aWe're just about to open the doors to the laugh floor!
+325.4   Text    &aBring up the logo guys!
+329.0   Block   152 19,36,-1506
+331.8   Text    &aIsn't it great!
+333.2   Text    &aYeah I designed it myself.
+335.2   Text    &aOkay, here we go!
+336.9   Text    &aSee you inside everybody!
+341.0   Block   152 19,36,-1507

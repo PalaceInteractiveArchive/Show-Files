@@ -1,0 +1,104 @@
+﻿Show	Location	-249,45,-1832
+Show	TextRadius	25
+#Define
+ArmorStand	hmcrow1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQwODM4MGYwMjYzOWU4MzdlYzk1ZWE4YmQzOTFiZTU5NmQ4M2FhYmU2NTgwZGRjNDJhNTY1OTgyMDMzMDE0ZiJ9fX0=";299(59,56,56);300(59,56,56);301(59,56,56);0
+#Spawn
+0	ArmorStand	hmcrow1	Spawn	-249.3,46.8,-1831.2,-32.1
+#SpawnPos
+0.5	Block	152	-247,42,-1828
+0.6	Block	0	-247,42,-1828
+0.1	ArmorStand	hmcrow1	Position	LEG_LEFT	60,0,0	0.5
+0.1	ArmorStand	hmcrow1	Position	LEG_RIGHT	60,0,0	0.5
+0.1	ArmorStand	hmcrow1	Position	ARM_LEFT	90,0,0	0.5
+0.1	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,0,0	0.5
+##Movements
+#Head
+1	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	4
+3	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	4
+4	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	6
+6	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+8	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+9	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+11	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+13	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+14	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+16	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+18	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+19	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+21	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+23	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	4
+25	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	6
+27	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+29	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+31	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+33	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+35	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+37	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+39	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+41	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+43	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+45	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+47	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	4
+49	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	6
+51	ArmorStand	hmcrow1	Position	HEAD	-20,0,0	6
+53	ArmorStand	hmcrow1	Position	HEAD	0,15,-10	6
+55	ArmorStand	hmcrow1	Position	HEAD	20,-10,10	8
+#Arms
+1	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	2
+1	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	2
+3	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	2
+3	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	2
+5	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	2
+5	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	2
+7	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	2
+7	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	2
+9	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	2
+9	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+11	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+11	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+13	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+13	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+15	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+15	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+17	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+17	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+19	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+19	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+21	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+21	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+23	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+23	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+25	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+25	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+27	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+27	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+29	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+29	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+31	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+31	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+33	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+33	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	4
+35	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	4
+35	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	4
+37	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	4
+37	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	8
+39	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	8
+39	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	8
+41	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	8
+41	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	8
+43	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	8
+43	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	8
+45	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	8
+45	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	8
+47	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	8
+47	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	8
+49	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	8
+49	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	8
+51	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	8
+51	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	8
+53	ArmorStand	hmcrow1	Position	ARM_LEFT	90,30,0	8
+53	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,-30,0	8
+55	ArmorStand	hmcrow1	Position	ARM_LEFT	90,-30,0	8
+55	ArmorStand	hmcrow1	Position	ARM_RIGHT	90,30,0	8
+#Reset/Despawn
+57	ArmorStand	hmcrow1	Despawn

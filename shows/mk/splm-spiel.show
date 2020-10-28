@@ -1,0 +1,29 @@
+Show	Location	-420,45,-1594
+Show	TextRadius	40
+#Text
+0   Block   152 -409,42,-1566 
+1	Text	&6Welcome to the &dGRAND OPENING &6of &bSplash Mountain!
+5	Text	&6Before we release the flood gates, we have some trivia for you!
+10	Text	&dQuestion 1:
+12	Text	&dHow many gallons of water does the ride hold?
+20	Text	&6Answer: 965,000 Gallons! That's alot!
+25	Text	&dQuestion 2: What was the original name of Splash Mountain?
+33	Text	&6Answer:	Zip-a-Dee River Run! That's a creative name!
+38	Text	&dQuestion 3: How tall is the last plunge?
+46	Text	&6Answer: Fifty-two and a half foot! That's a big drop!
+55	Text	&6It's almost time to cut the ribbon, Are we ready?!
+57  Block   152 -409,42,15664
+65  Block   152 -409,42,-1566 
+66	Text	&6Here's a word from the sponsor: &aBoumic05
+70	Text	&dGood afternoon, everyone!
+72	Text	&dSorry I couldn't attend today's event, but I want to personally welcome you all to &bSplash Mountain's &dOpening!
+75	Text	&dOur Build/Tech Team and Staff have worked so hard to bring this beloved ride back to Palace!
+78	Text	&dI hope you enjoy the refurbished &bSplash Mountain &dand welcome back to the briar patch!
+82	Text	&6Ladies and Gentlemen, Boys and Girls.. Welcome!
+86	Text	&6Splash Mountain has become a ride famous around the World, and is located in
+90	Text	&9Disneyland!
+93	Text	&3Walt Disney World!
+96	Text	&6and &bTokyo Disneyland!
+99	Text    &6And now...
+103	Text	&6It is time to have a zip-ade-do-dah time!
+105	Block   152 -409,42,-1562

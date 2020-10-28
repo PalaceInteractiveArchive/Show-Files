@@ -1,0 +1,471 @@
+Show	Location	-89,47,-1549
+Show	TextRadius	50
+
+#HEA Lasers
+#-97 58 -1618 to -77 58 -1595 (LEFT TO RIGHT)
+#-90 58 -1618 to -93 58 -1592 (left) or -86 58 -1592 (right) (MID TO LEFT/RIGHT)
+#-83 58 -1618 to -103 58 -1595 (RIGHT TO LEFT)
+
+
+##
+#Intro 1 Left-Left
+98	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+98.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+99	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+99.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+100	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+100.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+101	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+101.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+102	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+102.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+103	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+103.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+104	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+104.5	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+105	Sequence	Laser	heal1	-93.5,28,-1592.5	-88.5,58,-1618.5
+
+#Intro 1 Right-Right
+98	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+98.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+99	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+99.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+100	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+100.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+101	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+101.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+102	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+102.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+103	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+103.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+104	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+104.5	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+105	Sequence	Laser	hear1	-86.5,28,-1592.5	-88.5,58,-1618.5
+
+##
+#Intro 2 Left-Right
+105	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+105.5	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+106	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+106.5	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+107	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+107.5	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+108	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+108.5	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+109	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+109.5	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+110	Sequence	Laser	heal2	-86.5,28,-1592.5	-88.5,58,-1618.5
+
+#Intro 2 Right-Left
+105	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+105.5	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+106	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+106.5	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+107	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+107.5	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+108	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+108.5	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+109	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+109.5	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+110	Sequence	Laser	hear2	-93.5,28,-1592.5	-88.5,58,-1618.5
+
+##
+#Intro 3 Stay Left-Right
+#124
+121	Sequence	Laser	heal3	-89.5,28,-1590.5	-88.5,58,-1618.5
+121	Sequence	Laser	hear3	-89.5,28,-1590.5	-88.5,58,-1618.5
+121	Sequence	Laser	heal3	-93.5,28,-1592.5	-88.5,58,-1618.5
+121	Sequence	Laser	heal3	-96.5,28,-1593.5	-88.5,58,-1618.5
+121	Sequence	Laser	heal3	-99.5,28,-1595.5	-88.5,58,-1618.5
+121	Sequence	Laser	hear3	-87.5,28,-1592.5	-88.5,58,-1618.5
+121	Sequence	Laser	hear3	-84.5,28,-1593.5	-88.5,58,-1618.5
+121	Sequence	Laser	hear3	-81.5,28,-1595.5	-88.5,58,-1618.5
+
+##
+#Sea
+#-97 58 -1618 to -77 58 -1595 (LEFT TO RIGHT)
+#-90 58 -1618 to -93 58 -1592 (left) or -86 58 -1592 (right) (MID TO LEFT/RIGHT)
+#-83 58 -1618 to -103 58 -1595 (RIGHT TO LEFT)
+
+#Right side pos
+315	Sequence	Laser	heasea	-87.5,58,-1591.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-86.5,58,-1591.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-85.5,58,-1591.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-84.5,58,-1591.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-83.5,58,-1592.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-82.5,58,-1592.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-81.5,58,-1593.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-80.5,58,-1593.5	-97.5,58,-1618.5
+315	Sequence	Laser	heasea	-79.5,58,-1594.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-87.5,58,-1591.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-86.5,58,-1591.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-85.5,58,-1591.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-84.5,58,-1591.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-83.5,58,-1592.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-82.5,58,-1592.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-81.5,58,-1593.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-80.5,58,-1593.5	-97.5,58,-1618.5
+317	Sequence	Laser	heasea	-79.5,58,-1594.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-87.5,58,-1591.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-86.5,58,-1591.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-85.5,58,-1591.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-84.5,58,-1591.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-83.5,58,-1592.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-82.5,58,-1592.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-81.5,58,-1593.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-80.5,58,-1593.5	-97.5,58,-1618.5
+319	Sequence	Laser	heasea	-79.5,58,-1594.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-87.5,58,-1591.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-86.5,58,-1591.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-85.5,58,-1591.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-84.5,58,-1591.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-83.5,58,-1592.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-82.5,58,-1592.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-81.5,58,-1593.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-80.5,58,-1593.5	-97.5,58,-1618.5
+321	Sequence	Laser	heasea	-79.5,58,-1594.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-87.5,58,-1591.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-86.5,58,-1591.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-85.5,58,-1591.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-84.5,58,-1591.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-83.5,58,-1592.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-82.5,58,-1592.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-81.5,58,-1593.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-80.5,58,-1593.5	-97.5,58,-1618.5
+323	Sequence	Laser	heasea	-79.5,58,-1594.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-87.5,58,-1591.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-86.5,58,-1591.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-85.5,58,-1591.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-84.5,58,-1591.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-83.5,58,-1592.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-82.5,58,-1592.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-81.5,58,-1593.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-80.5,58,-1593.5	-97.5,58,-1618.5
+325	Sequence	Laser	heaseaoutr	-79.5,58,-1594.5	-97.5,58,-1618.5
+
+#Left pos
+315	Sequence	Laser	heasea	-92.5,58,-1591.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-93.5,58,-1591.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-94.5,58,-1591.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-95.5,58,-1591.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-96.5,58,-1592.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-97.5,58,-1592.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-98.5,58,-1593.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-99.5,58,-1593.5	-83.5,58,-1618.5
+315	Sequence	Laser	heasea	-100.5,58,-1594	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-92.5,58,-1591.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-93.5,58,-1591.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-94.5,58,-1591.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-95.5,58,-1591.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-96.5,58,-1592.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-97.5,58,-1592.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-98.5,58,-1593.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-99.5,58,-1593.5	-83.5,58,-1618.5
+317	Sequence	Laser	heasea	-100.5,58,-1594	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-92.5,58,-1591.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-93.5,58,-1591.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-94.5,58,-1591.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-95.5,58,-1591.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-96.5,58,-1592.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-97.5,58,-1592.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-98.5,58,-1593.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-99.5,58,-1593.5	-83.5,58,-1618.5
+319	Sequence	Laser	heasea	-100.5,58,-1594	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-92.5,58,-1591.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-93.5,58,-1591.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-94.5,58,-1591.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-95.5,58,-1591.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-96.5,58,-1592.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-97.5,58,-1592.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-98.5,58,-1593.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-99.5,58,-1593.5	-83.5,58,-1618.5
+321	Sequence	Laser	heasea	-100.5,58,-1594	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-92.5,58,-1591.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-93.5,58,-1591.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-94.5,58,-1591.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-95.5,58,-1591.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-96.5,58,-1592.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-97.5,58,-1592.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-98.5,58,-1593.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-99.5,58,-1593.5	-83.5,58,-1618.5
+323	Sequence	Laser	heasea	-100.5,58,-1594	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-92.5,58,-1591.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-93.5,58,-1591.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-94.5,58,-1591.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-95.5,58,-1591.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-96.5,58,-1592.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-97.5,58,-1592.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-98.5,58,-1593.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-99.5,58,-1593.5	-83.5,58,-1618.5
+325	Sequence	Laser	heaseaoutl	-100.5,58,-1594	-83.5,58,-1618.5
+
+##
+348	Sequence	Laser	heal4	-96.5,28,-1592.5	-97.5,58,-1618.5
+348	Sequence	Laser	hear4	-92.5,28,-1591.5	-97.5,58,-1618.5
+348	Sequence	Laser	hear4	-87.5,28,-1591.5	-83.5,58,-1618.5
+348	Sequence	Laser	heal4	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+348.5	Sequence	Laser	heal4	-96.5,28,-1592.5	-97.5,58,-1618.5
+348.5	Sequence	Laser	hear4	-92.5,28,-1591.5	-97.5,58,-1618.5
+348.5	Sequence	Laser	hear4	-87.5,28,-1591.5	-83.5,58,-1618.5
+348.5	Sequence	Laser	heal4	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+349	Sequence	Laser	heal4	-96.5,28,-1592.5	-97.5,58,-1618.5
+349	Sequence	Laser	hear4	-92.5,28,-1591.5	-97.5,58,-1618.5
+349	Sequence	Laser	hear4	-87.5,28,-1591.5	-83.5,58,-1618.5
+349	Sequence	Laser	heal4	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+349.5	Sequence	Laser	heal4	-96.5,28,-1592.5	-97.5,58,-1618.5
+349.5	Sequence	Laser	hear4	-92.5,28,-1591.5	-97.5,58,-1618.5
+349.5	Sequence	Laser	hear4	-87.5,28,-1591.5	-83.5,58,-1618.5
+349.5	Sequence	Laser	heal4	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+##
+402.2	Sequence	Laser	heagreenout	-95.5,28,-1591.5	-88.5,58,-1618.5
+402.5	Sequence	Laser	heagreenout	-81.5,28,-1593.5	-88.5,58,-1618.5
+402.8	Sequence	Laser	heagreenout	-100.5,28,-1594.5	-88.5,58,-1618.5
+
+403.5	Sequence	Laser	hear5	-96.5,28,-1592.5	-97.5,58,-1618.5
+403.5	Sequence	Laser	hear5	-87.5,28,-1591.5	-97.5,58,-1618.5
+403.5	Sequence	Laser	heal5	-92.5,28,-1591.5	-83.5,58,-1618.5
+403.5	Sequence	Laser	heal5	-83.5,28,-1592.5	-83.5,58,-1618.5
+414	Sequence	Laser	heablueout	-100.5,58,-1594.5	-83.5,58,-1618.5
+414	Sequence	Laser	heablueout	-79.5,58,-1594.5	-83.5,58,-1618.5
+
+404	Sequence	Laser	hear5	-96.5,28,-1592.5	-97.5,58,-1618.5
+404	Sequence	Laser	heal5	-87.5,28,-1591.5	-97.5,58,-1618.5
+404	Sequence	Laser	hear5	-92.5,28,-1591.5	-83.5,58,-1618.5
+404	Sequence	Laser	heal5	-83.5,28,-1592.5	-83.5,58,-1618.5
+414.5	Sequence	Laser	heablueout	-100.5,58,-1594.5	-83.5,58,-1618.5
+414.5	Sequence	Laser	heablueout	-79.5,58,-1594.5	-83.5,58,-1618.5
+
+404.6	Sequence	Laser	hear5	-96.5,28,-1592.5	-97.5,58,-1618.5
+404.6	Sequence	Laser	hear5	-87.5,28,-1591.5	-97.5,58,-1618.5
+404.6	Sequence	Laser	heal5	-92.5,28,-1591.5	-83.5,58,-1618.5
+404.6	Sequence	Laser	heal5	-83.5,28,-1592.5	-83.5,58,-1618.5
+414.6	Sequence	Laser	heablueout1	-100.5,58,-1594.5	-83.5,58,-1618.5
+414.6	Sequence	Laser	heablueout1	-79.5,58,-1594.5	-83.5,58,-1618.5
+
+405	Sequence	Laser	hear6	-96.5,28,-1592.5	-97.5,58,-1618.5
+405	Sequence	Laser	hear6	-87.5,28,-1591.5	-97.5,58,-1618.5
+405	Sequence	Laser	heal6	-92.5,28,-1591.5	-83.5,58,-1618.5
+405	Sequence	Laser	heal6	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+407.5	Sequence	Laser	hear5	-96.5,28,-1592.5	-97.5,58,-1618.5
+407.5	Sequence	Laser	heal5	-87.5,28,-1591.5	-97.5,58,-1618.5
+407.5	Sequence	Laser	hear5	-92.5,28,-1591.5	-83.5,58,-1618.5
+407.5	Sequence	Laser	heal5	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+409.5	Sequence	Laser	hear6	-96.5,28,-1592.5	-97.5,58,-1618.5
+409.5	Sequence	Laser	hear6	-87.5,28,-1591.5	-97.5,58,-1618.5
+409.5	Sequence	Laser	heal6	-92.5,28,-1591.5	-83.5,58,-1618.5
+409.5	Sequence	Laser	heal6	-83.5,28,-1592.5	-83.5,58,-1618.5
+
+#bang bang bang bang(out)
+415	Sequence	Laser	heagreenout	-92.5,28,-1591.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-93.5,28,-1591.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-94.5,28,-1591.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-95.5,28,-1591.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-96.5,28,-1592.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-97.5,28,-1592.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-98.5,28,-1593.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-99.5,28,-1593.5	-83.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-100.5,28,-1594.5	-83.5,58,-1618.5
+
+415.9	Sequence	Laser	heagreenout	-92.5,28,-1591.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-93.5,28,-1591.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-94.5,28,-1591.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-95.5,28,-1591.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-96.5,28,-1592.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-97.5,28,-1592.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-98.5,28,-1593.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-99.5,28,-1593.5	-83.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-100.5,28,-1594.5	-83.5,58,-1618.5
+
+416.3	Sequence	Laser	heagreenout	-92.5,28,-1591.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-93.5,28,-1591.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-94.5,28,-1591.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-95.5,28,-1591.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-96.5,28,-1592.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-97.5,28,-1592.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-98.5,28,-1593.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-99.5,28,-1593.5	-83.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-100.5,28,-1594.5	-83.5,58,-1618.5
+
+417.1	Sequence	Laser	heal7	-92.5,28,-1591.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-93.5,28,-1591.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-94.5,28,-1591.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-95.5,28,-1591.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-96.5,28,-1592.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-97.5,28,-1592.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-98.5,28,-1593.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-99.5,28,-1593.5	-83.5,58,-1618.5
+417.1	Sequence	Laser	heal7	-100.5,28,-1594.5	-83.5,58,-1618.5
+
+
+415	Sequence	Laser	heagreenout	-87.5,28,-1591.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-86.5,28,-1591.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-85.5,28,-1591.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-84.5,28,-1591.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-83.5,28,-1592.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-82.5,28,-1592.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-81.5,28,-1593.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-80.5,28,-1593.5	-97.5,58,-1618.5
+415	Sequence	Laser	heagreenout	-79.5,28,-1594.5	-97.5,58,-1618.5
+
+415.9	Sequence	Laser	heagreenout	-87.5,28,-1591.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-86.5,28,-1591.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-85.5,28,-1591.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-84.5,28,-1591.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-83.5,28,-1592.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-82.5,28,-1592.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-81.5,28,-1593.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-80.5,28,-1593.5	-97.5,58,-1618.5
+415.9	Sequence	Laser	heagreenout	-79.5,28,-1594.5	-97.5,58,-1618.5
+
+416.3	Sequence	Laser	heagreenout	-87.5,28,-1591.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-86.5,28,-1591.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-85.5,28,-1591.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-84.5,28,-1591.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-83.5,28,-1592.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-82.5,28,-1592.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-81.5,28,-1593.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-80.5,28,-1593.5	-97.5,58,-1618.5
+416.3	Sequence	Laser	heagreenout	-79.5,28,-1594.5	-97.5,58,-1618.5
+
+417.1	Sequence	Laser	hear7	-87.5,28,-1591.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-86.5,28,-1591.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-85.5,28,-1591.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-84.5,28,-1591.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-83.5,28,-1592.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-82.5,28,-1592.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-81.5,28,-1593.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-80.5,28,-1593.5	-97.5,58,-1618.5
+417.1	Sequence	Laser	hear7	-79.5,28,-1594.5	-97.5,58,-1618.5
+
+418.2	Sequence	Laser	heagreenout	-95.5,28,-1591.5	-88.5,58,-1618.5
+418.7	Sequence	Laser	heagreenout	-81.5,28,-1593.5	-88.5,58,-1618.5
+419.2	Sequence	Laser	heagreenout	-100.5,28,-1594.5	-88.5,58,-1618.5
+419.7	Sequence	Laser	heagreenout	-80.5,28,-1593.5	-88.5,58,-1618.5
+420.2	Sequence	Laser	heagreenout	-95.5,28,-1591.5	-88.5,58,-1618.5
+420.7	Sequence	Laser	heagreenout	-81.5,28,-1593.5	-88.5,58,-1618.5
+
+#-97 58 -1618 to -77 58 -1595 (LEFT TO RIGHT)
+#-83 58 -1618 to -103 58 -1595 (RIGHT TO LEFT)
+547	Sequence	Laser	heal8	-77.5,58,-1595.5	-97.5,58,-1618.5
+547	Sequence	Laser	hear8	-77.5,58,-1595.5	-97.5,58,-1618.5
+547	Sequence	Laser	heal8	-103.5,58,-1595.5	-83.5,58,-1618.5
+547	Sequence	Laser	hear8	-103.5,58,-1595.5	-83.5,58,-1618.5
+
+548	Sequence	Laser	heal8	-77.5,58,-1595.5	-97.5,58,-1618.5
+548	Sequence	Laser	hear8	-77.5,58,-1595.5	-97.5,58,-1618.5
+548	Sequence	Laser	heal8	-103.5,58,-1595.5	-83.5,58,-1618.5
+548	Sequence	Laser	hear8	-103.5,58,-1595.5	-83.5,58,-1618.5
+
+549	Sequence	Laser	heal9	-77.5,58,-1595.5	-97.5,58,-1618.5
+549	Sequence	Laser	hear9	-77.5,58,-1595.5	-97.5,58,-1618.5
+549	Sequence	Laser	heal9	-103.5,58,-1595.5	-83.5,58,-1618.5
+549	Sequence	Laser	hear9	-103.5,58,-1595.5	-83.5,58,-1618.5
+
+
+1079	Sequence	Laser	heablueout2	-87.5,58,-1591.5	-88.5,58,-1618.5
+1079.1	Sequence	Laser	heablueout2	-86.5,58,-1591.5	-88.5,58,-1618.5
+1079.2	Sequence	Laser	heablueout2	-85.5,58,-1591.5	-88.5,58,-1618.5
+1079.3	Sequence	Laser	heablueout2	-84.5,58,-1591.5	-88.5,58,-1618.5
+1079.4	Sequence	Laser	heablueout2	-83.5,58,-1592.5	-88.5,58,-1618.5
+1079.5	Sequence	Laser	heablueout2	-82.5,58,-1592.5	-88.5,58,-1618.5
+1079.6	Sequence	Laser	heablueout2	-81.5,58,-1593.5	-88.5,58,-1618.5
+1079.7	Sequence	Laser	heablueout2	-80.5,58,-1593.5	-88.5,58,-1618.5
+1079.8	Sequence	Laser	heablueout2	-79.5,58,-1594.5	-88.5,58,-1618.5
+
+1079	Sequence	Laser	heablueout2	-92.5,58,-1591.5	-97.5,58,-1618.5
+1079.1	Sequence	Laser	heablueout2	-93.5,58,-1591.5	-97.5,58,-1618.5
+1079.2	Sequence	Laser	heablueout2	-94.5,58,-1591.5	-97.5,58,-1618.5
+1079.3	Sequence	Laser	heablueout2	-95.5,58,-1591.5	-97.5,58,-1618.5
+1079.4	Sequence	Laser	heablueout2	-96.5,58,-1592.5	-97.5,58,-1618.5
+1079.5	Sequence	Laser	heablueout2	-97.5,58,-1592.5	-97.5,58,-1618.5
+1079.6	Sequence	Laser	heablueout2	-98.5,58,-1593.5	-97.5,58,-1618.5
+1079.7	Sequence	Laser	heablueout2	-99.5,58,-1593.5	-97.5,58,-1618.5
+1079.8	Sequence	Laser	heablueout2	-100.5,58,-1594.5	-97.5,58,-1618.5
+
+1080	Sequence	Laser	heablueout2	-87.5,58,-1591.5	-88.5,58,-1618.5
+1080.1	Sequence	Laser	heablueout2	-86.5,58,-1591.5	-88.5,58,-1618.5
+1080.2	Sequence	Laser	heablueout2	-85.5,58,-1591.5	-88.5,58,-1618.5
+1080.3	Sequence	Laser	heablueout2	-84.5,58,-1591.5	-88.5,58,-1618.5
+1080.4	Sequence	Laser	heablueout2	-83.5,58,-1592.5	-88.5,58,-1618.5
+1080.5	Sequence	Laser	heablueout2	-82.5,58,-1592.5	-88.5,58,-1618.5
+1080.6	Sequence	Laser	heablueout2	-81.5,58,-1593.5	-88.5,58,-1618.5
+1080.7	Sequence	Laser	heablueout2	-80.5,58,-1593.5	-88.5,58,-1618.5
+1080.8	Sequence	Laser	heablueout2	-79.5,58,-1594.5	-88.5,58,-1618.5
+
+1080	Sequence	Laser	heablueout2	-92.5,58,-1591.5	-97.5,58,-1618.5
+1080.1	Sequence	Laser	heablueout2	-93.5,58,-1591.5	-97.5,58,-1618.5
+1080.2	Sequence	Laser	heablueout2	-94.5,58,-1591.5	-97.5,58,-1618.5
+1080.3	Sequence	Laser	heablueout2	-95.5,58,-1591.5	-97.5,58,-1618.5
+1080.4	Sequence	Laser	heablueout2	-96.5,58,-1592.5	-97.5,58,-1618.5
+1080.5	Sequence	Laser	heablueout2	-97.5,58,-1592.5	-97.5,58,-1618.5
+1080.6	Sequence	Laser	heablueout2	-98.5,58,-1593.5	-97.5,58,-1618.5
+1080.7	Sequence	Laser	heablueout2	-99.5,58,-1593.5	-97.5,58,-1618.5
+1080.8	Sequence	Laser	heablueout2	-100.5,58,-1594.5	-97.5,58,-1618.5
+
+1081	Sequence	Laser	heablueout2	-87.5,58,-1591.5	-88.5,58,-1618.5
+1081.1	Sequence	Laser	heablueout2	-86.5,58,-1591.5	-88.5,58,-1618.5
+1081.2	Sequence	Laser	heablueout2	-85.5,58,-1591.5	-88.5,58,-1618.5
+1081.3	Sequence	Laser	heablueout2	-84.5,58,-1591.5	-88.5,58,-1618.5
+1081.4	Sequence	Laser	heablueout2	-83.5,58,-1592.5	-88.5,58,-1618.5
+1081.5	Sequence	Laser	heablueout2	-82.5,58,-1592.5	-88.5,58,-1618.5
+1081.6	Sequence	Laser	heablueout2	-81.5,58,-1593.5	-88.5,58,-1618.5
+1081.7	Sequence	Laser	heablueout2	-80.5,58,-1593.5	-88.5,58,-1618.5
+1081.8	Sequence	Laser	heablueout2	-79.5,58,-1594.5	-88.5,58,-1618.5
+
+1081	Sequence	Laser	heablueout2	-92.5,58,-1591.5	-97.5,58,-1618.5
+1081.1	Sequence	Laser	heablueout2	-93.5,58,-1591.5	-97.5,58,-1618.5
+1081.2	Sequence	Laser	heablueout2	-94.5,58,-1591.5	-97.5,58,-1618.5
+1081.3	Sequence	Laser	heablueout2	-95.5,58,-1591.5	-97.5,58,-1618.5
+1081.4	Sequence	Laser	heablueout2	-96.5,58,-1592.5	-97.5,58,-1618.5
+1081.5	Sequence	Laser	heablueout2	-97.5,58,-1592.5	-97.5,58,-1618.5
+1081.6	Sequence	Laser	heablueout2	-98.5,58,-1593.5	-97.5,58,-1618.5
+1081.7	Sequence	Laser	heablueout2	-99.5,58,-1593.5	-97.5,58,-1618.5
+1081.8	Sequence	Laser	heablueout2	-100.5,58,-1594.5	-97.5,58,-1618.5
+
+
+
+1089.8	Sequence	Laser	hear10	-87.5,58,-1591.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-86.5,58,-1591.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-85.5,58,-1591.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-84.5,58,-1591.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-83.5,58,-1592.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-82.5,58,-1592.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-81.5,58,-1593.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-80.5,58,-1593.5	-88.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-79.5,58,-1594.5	-88.5,58,-1618.5
+
+1089.8	Sequence	Laser	hear10	-92.5,58,-1591.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-93.5,58,-1591.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-94.5,58,-1591.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-95.5,58,-1591.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-96.5,58,-1592.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-97.5,58,-1592.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-98.5,58,-1593.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	heal10	-99.5,58,-1593.5	-97.5,58,-1618.5
+1089.8	Sequence	Laser	hear10	-100.5,58,-1594.5	-97.5,58,-1618.5
+
+1092.2	Sequence	Laser	hear10	-87.5,58,-1591.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-86.5,58,-1591.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-85.5,58,-1591.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-84.5,58,-1591.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-83.5,58,-1592.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-82.5,58,-1592.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-81.5,58,-1593.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-80.5,58,-1593.5	-88.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-79.5,58,-1594.5	-88.5,58,-1618.5
+
+1092.2	Sequence	Laser	hear10	-92.5,58,-1591.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-93.5,58,-1591.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-94.5,58,-1591.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-95.5,58,-1591.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-96.5,58,-1592.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-97.5,58,-1592.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-98.5,58,-1593.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	heal10	-99.5,58,-1593.5	-97.5,58,-1618.5
+1092.2	Sequence	Laser	hear10	-100.5,58,-1594.5	-97.5,58,-1618.5

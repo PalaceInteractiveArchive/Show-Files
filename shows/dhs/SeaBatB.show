@@ -1,0 +1,304 @@
+Show	Location	-114,64,-28
+Show	TextRadius	45
+Show	Name	BATB
+#January 23 - 
+#Audio
+
+#ArmorStands IDs
+#ArmorStand	name	small	headID:data;chestID:data;legsID:data;bootsID:data
+ArmorStand	bannerguy1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWNhMjdiYTQ1MjNlNTgzYWUxYmQyNzAzMGQ3YTJlMDdiN2VlYmEyY2U3M2FjMzljZjM1NzQ5ZTI0MmQyOSJ9fX0=;299(255,0,0);300(255,179,179);301(0,0,0)
+ArmorStand	prince	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGY2Y2YzNWFkOTFmZTM2MzkwYmZmZmVjMjU1Mzc0MzI1Njg0MzRkNzYxZTYxYTU0ZmNmZTA2NDc2ZjVmMzc0In19fQ==;299(255,255,255);300(65,105,225);301(0,0,0)
+ArmorStand	bannerguy2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM4YWMwMTY0ZDZiZjc4MmJiMDc2YWYzZDk3NzI0MjlkODBmYjJmZmRkMDY5NzEzY2FiZTI2MmFhMjYyZSJ9fX0=;299(255,243,255);300(44,191,59);301(58,255,18)
+ArmorStand	town2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjgzZjMxZWIwM2U1NjM2ZWE2ZmE4OGVlZjk4M2RhOTZhMWM0MGJmMzE0ZjA0ZDg1YTE0Y2EyNmJiNzgyZjQifX19;299(225,160,122);300(225,69,0);301(225,165,0)
+ArmorStand	town1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDFmOWM1MzE3N2E0Mzk5MjYyZmUzNDhjM2Y3MWEyMjYzYTY3N2QwNmY0MWJiYzIzMWZiYWNjNTU5OTY0ZTM5In19fQ==;299(5,191,39);300(4,127,26);301(7,255,51)
+ArmorStand	town4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjgyYzQxOWQxYjI1M2E5NGE5ODllMjM1NTg4Yjk1ODhlNjE1ZDAzZTVlMjkzOTA5NzhjNjI2YmNjMTk0In19fQ==;299(127,52,51);300(255,105,102);301(191,79,76)
+ArmorStand	town5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjE2NDEzYWZlMTMwNjNiNTViYTc4MjcxNjczYWQyZmE4NDM2MzJhOGYzZWE2YzMzYjZmN2UwM2Y2MmY2In19fQ==;299(171,234,255);300(250,255,245);301(127,100,84)
+ArmorStand	town3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGNhOTgyNjY2M2RlNTZjOTYyOGI3OGM0ZTM3NzU4ODE3ZWJkNDBiMDkyZjA0MzMwNmU4Y2RmMWJiNjUxZSJ9fX0=;299(220,20,60);300(178,34,34);301(165,42,42)
+ArmorStand	town7	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmRhN2E5N2EzZTY0YTI2ZDI2ZTgxOWJjMzhkYWM5YTY1OGQ2OGQ3MmY3YmUxZmQwZWRhYTc4ZGNkMzZjZCJ9fX0=;299(234,169,227);300(29,143,191);301(38,190,255)
+ArmorStand	town6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTUyZmViOTY1MWNjMjkxZTljZjMyZjk3MzU2ZjdiN2JmZjlkZWRjYzZlZGZlMmQ4M2VmZDgzYTg4ZDQ3OWJiMyJ9fX0=;299(144,238,144);300(50,205,50);301(143,188,143)
+ArmorStand	town8	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RkMjY4MzhlN2NjZmY2ZGI4ZmQxZDAzNzZjNTgwN2MzY2I2YThkMTg5OTU4ODNmNDYwYzQ1OWI5ZDg4OCJ9fX0=;299(255,211,230);300(255,11,21);301(127,5,10)
+ArmorStand	beast	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmU2ZjE4YTg2NjQwZWQ1NmIyNjllZmFiNDU2ODdiNDVmYjAyZmFiMjFkN2RjZmM5ZWU0NDlkOTY1N2I3OWZkIn19fQ==;299(102,68,0);300(65,105,225);301(102,68,0)
+ArmorStand	bimbette1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE4OTc4MzhhN2FmNDQzYTc3MDk3N2UzMGUzOGY5N2RlNjE3NzMxODRlMTg5YjJhYmExNTIyYmY2NmIifX19;299(255,228,225);300(255,240,245);301(225,228,225)
+ArmorStand	bimbette2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE4OTc4MzhhN2FmNDQzYTc3MDk3N2UzMGUzOGY5N2RlNjE3NzMxODRlMTg5YjJhYmExNTIyYmY2NmIifX19;299(255,228,225);300(255,240,245);301(225,228,225)
+ArmorStand	bimbette3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE4OTc4MzhhN2FmNDQzYTc3MDk3N2UzMGUzOGY5N2RlNjE3NzMxODRlMTg5YjJhYmExNTIyYmY2NmIifX19;299(255,228,225);300(255,240,245);301(225,228,225)
+ArmorStand	witch	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2MzkxODkwNjIsInByb2ZpbGVJZCI6IjAwNmQ4MDZlNjllMDQ2YTBhMmRhMTllZWY3ZmRjY2VhIiwicHJvZmlsZU5hbWUiOiJMaWxXaGFsZVRhaWwiLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FiNDVkMGI2NmQxODNhNGExMmVmMmI0ZjQ4ZDc4NDhjZmNmMTZlZjI2YmYzN2UyNWRlMzJmZGQ2MDcyZWYifX19;299(0,0,0);300(115,38,115);301(0,0,0)
+ArmorStand	gg1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,96,36);300(127,48,18);301(227,86,32)
+ArmorStand	gg2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,143,126);300(127,72,63);301(191,108,95)
+ArmorStand	gg3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,243,255);300(44,191,59);301(58,255,18)
+ArmorStand	gg4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMzMDI3ZGJjYWM5NTM2NGM2ZGE0M2NkMTZkNjQzNjc2MjgxYTkzZDQ5YTg2YTg1YzkxMmZlNGMzYjliNzk3YyJ9fX0=;299(255,74,24);300(176,253,255);301(127,46,30)
+ArmorStand	gaston	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNiY2IwMzZjMDcwOThkMDIyYmYyNDNlOWMyNjQ1N2Y5ZmM2ODljYjRmYTI5MWIwYjI0MmYxN2NmMGIyN2QifX19;299(204,0,0);300(0,0,0);301(102,51,0)
+ArmorStand	belle1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjczM2YxODE3Yjc0MTM4MGU0OTVmM2NiYzVjN2JkOWFkOWU2YjI5YzM1MWIwZDg2YTE2OTA5MjI0NjU1YSJ9fX0=;299(255,255,255);300(30,144,225);301(0,0,0)
+ArmorStand	lumiere	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RjMzMxNWVlMmMzNDM4NzNmNmQ2ZWFkOGI2YWE4ZGY0MjY5OWZjYzUwYjE2ZmE1M2Y0YWVlZGMxZjA4ZWZjIn19fQ==;299(255,221,34);300(255,181,0);301(255,232,0)
+ArmorStand	cogsworth	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjY0MjRmOTMyMGEyNjE3NmEyODRkZDVhY2FmY2E3OTY2NTdhNDE3NGNjMjE5YWNiYzM5ZDhiNGFhMTQ4YzdkNyJ9fX0=;299(139,69,19);300(218,165,32);301(139,69,19)
+ArmorStand	mrspotts	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUwZjk0YTY5M2U2N2E4M2FjZmM2MzRkYzA1NTEyZGNlNTEwNmFiY2JkNDJlNGU1MzBjZGE5YWIyMTg2OTcifX19;299(204,102,204);300(255,255,255);301(255,102,217)
+ArmorStand	chip	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUwZjk0YTY5M2U2N2E4M2FjZmM2MzRkYzA1NTEyZGNlNTEwNmFiY2JkNDJlNGU1MzBjZGE5YWIyMTg2OTcifX19;299(204,102,204);300(255,255,255);301(255,102,217)
+ArmorStand	boggreen	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(0,255,46);301(0,255,46)
+ArmorStand	bogred	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(255,9,0);301(255,9,0)
+ArmorStand	bogblue	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(4,28,255);301(4,28,255)
+ArmorStand	bogorange	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(255,126,14);301(255,126,14)
+ArmorStand	bogyellow	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(255,239,0);301(255,239,0)
+ArmorStand	bogaqua	false	skull:eyJ0aW1lc3RhbXAiOjE0NjY2Mzg5NzE3NjMsInByb2ZpbGVJZCI6IjllNGNmZjIxMGIyMDQ0N2ViYzQzYmUyZDRjOWMwZDhkIiwicHJvZmlsZU5hbWUiOiJMdWNpZXRvbml4IiwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2EwYzNkNGJmOGYyMmZmNTc1YzViN2JiMjU2ZmI0ZGFmYTI1ZjY5NjA5ZDQwYmM3ZjM5NjY3NWY5YzNlMjdkIn19fQ==;299(255,255,247);300(0,229,184);301(0,229,184)
+ArmorStand	bogguy1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy3	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy4	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy5	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWJhZjUxOTI4YzhmMTFhNzk2M2FmMTYxMzhmODNlNmNhNmQ2N2Y4MTYyYzgyYWI5YmYyMzE1NDYwNDhmZDIzIn19fQ==;299(255,255,255);300(230,0,0);301(230,0,0)
+#
+
+
+#little town belle= belle1
+81	ArmorStand	belle1	spawn	-101.534,64,-42.276
+#initial
+81.1	Block	152	-70,61,-26
+81.3	Block	0	-70,61,-26
+#
+#belle spawns 81.3 at -130 degrees
+#at 88	belle will rotate to 45
+88	Block	152	-69,61,-26
+88.2	Block	0	-69,61,-26
+#
+#81.3	ArmorStand	belle1	rotate	45	1
+90	ArmorStand	belle1	move	-104.705,64,-37.664	8
+90	ArmorStand	belle1	position	HEAD	10,0,0	1
+90.5	ArmorStand	belle1	position	ARM_LEFT	-10,0,0	.5
+91	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
+91	ArmorStand	belle1	position	LEG_RIGHT	-32,0,0	1
+92.2	ArmorStand	belle1	position	ARM_RIGHT	10,0,0	1
+92.2	ArmorStand	belle1	position	LEG_RIGHT	32,0,0	1
+92.2	ArmorStand	belle1	position	LEG_LEFT	-32,0,0	1
+93.4	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
+93.4	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	1
+93.4	ArmorStand	belle1	position	LEG_LEFT	0,0,0	1
+94.5	ArmorStand	belle1	position	ARM_RIGHT	10,0,0	1
+94.5	ArmorStand	belle1	position	LEG_RIGHT	32,0,0	1
+94.5	ArmorStand	belle1	position	LEG_LEFT	-32,0,0	1
+95.6	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
+95.6	ArmorStand	belle1	position	LEG_RIGHT	-32,0,0	1
+95.6	ArmorStand	belle1	position	LEG_LEFT	32,0,0	1
+97.7	ArmorStand	belle1	position	ARM_RIGHT	0,0,0	1
+97.7	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	1
+97.7	ArmorStand	belle1	position	LEG_LEFT	0,0,0	1
+99	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
+99	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
+99	ArmorStand	belle1	position	HEAD	0,0,0	.5
+100	ArmorStand	belle1	position	HEAD	-10,0,0	1
+102	ArmorStand	belle1	position	HEAD	-10,20,0	1
+104	ArmorStand	belle1	position	HEAD	-10,-20,0	1
+109	ArmorStand	belle1	position	HEAD	-10,0,0	1
+112	ArmorStand	belle1	position	HEAD	10,0,0	1
+113.5	ArmorStand	belle1	position	HEAD	0,10,0	.5
+117.5	ArmorStand	belle1	position	HEAD	0,0,0	.5
+118.2	ArmorStand	belle1	position	HEAD	-10,0,0	.5
+#at 120.5, belle will go to rotation -30
+120.5	Block	152	-68,61,-26
+120.7	Block	0	-68,61,-26
+#
+120.5	ArmorStand	belle1	position	HEAD	0,-20,0	.5
+121	ArmorStand	belle1	position	ARM_LEFT	-130,-40,0	.5
+122	ArmorStand	belle1	position	ARM_LEFT	-30,15,0	.5
+#at 122.3	belle1 will rotate to 105
+122.3	Block	152	-67,61,-26
+122.5	Block	0	-67,61,-26
+#
+122.3	ArmorStand	belle1	position	HEAD	0,0,0	.5
+122.8	ArmorStand	belle1	position	HEAD	20,0,0	.5
+122.8	ArmorStand	belle1	position	ARM_RIGHT	-145,50,0	.5
+#at 123.7	belle will rotate to 45
+123.7	Block	152	-69,61,-26
+123.9	Block	0	-69,61,-26
+#
+123.7	ArmorStand	belle1	position	ARM_RIGHT	-20,0,0	.2
+123.7	ArmorStand	belle1	position	ARM_LEFT	0,0,0	.2
+123.7	ArmorStand	belle1	position	HEAD	0,0,0	.2
+#at 124.4	belle will rotate to -30
+124.4	Block	152	-68,61,-26
+124.6	Block	0	-68,61,-26
+#
+124.2	ArmorStand	belle1	move	-101.824,64,-37.081	3
+124.2	ArmorStand	belle1	position	LEG_RIGHT	-32,0,0	1
+124.2	ArmorStand	belle1	position	LEG_LEFT	7,0,0	1
+125.4	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	1
+125.4	ArmorStand	belle1	position	LEG_LEFT	-32,0,0	1
+126	ArmorStand	belle1	position	ARM_LEFT	-20,0,0	.5
+126.7	ArmorStand	belle1	position	LEG_LEFT	0,0,0	.5
+126.7	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	.5
+#at 128, belle will rotate to 15
+128	Block	152	-66,61,-26
+128.2	Block	0	-66,61,-26
+#
+128	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
+128	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
+129	ArmorStand	belle1	position	HEAD	0,-10,0	.5
+131.1	ArmorStand	belle1	position	HEAD	-10,0,0	.5
+132.8	ArmorStand	belle1	position	HEAD	-10,20,0	.5
+#belle moves at 134.8
+#at 134.8, belle rotates to 105
+134.8	Block	152	-67,61,-26
+135	Block	0	-67,61,-26
+#
+#at 136.4 is "goodmorning belle'
+#at 136.4 belle rotates to -15
+136.4	Block	152	-65,61,-26
+136.6	Block	0	-65,61,-26
+#
+136.5	ArmorStand	belle1	position	HEAD	5,-20,0	.5
+#good morning monseiur
+137.3	ArmorStand	belle1	position	HEAD	-10,-27,0	.5
+137.3	ArmorStand	belle1	position	ARM_LEFT	-130,0,0	.5
+138	ArmorStand	belle1	position	ARM_LEFT	-10,0,0	1
+#where are you off to
+139.2	ArmorStand	belle1	position	HEAD	15,0,0	.2
+139.7	ArmorStand	belle1	position	HEAD	0,0,0	.2
+141	ArmorStand	belle1	position	HEAD	-10,-20,0	.2
+141.6	ArmorStand	belle1	position	HEAD	0,0,0	.2
+142.9	ArmorStand	belle1	position	HEAD	-5,-10,0	.2
+143.7	ArmorStand	belle1	position	HEAD	0,10,0	.2
+144.3	ArmorStand	belle1	position	HEAD	0,0,0	.2
+145.1	ArmorStand	belle1	position	HEAD	0,10,0	.2
+#THE BAGUETESSS
+146.8	ArmorStand	belle1	position	HEAD	5,0,0	.2
+#147.7, belle rotates to 45
+147.7	Block	152	-69,61,-26
+147.9	Block	0	-69,61,-26
+#
+147.9	ArmorStand	belle1	position	HEAD	20,0,0	.5
+147.9	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
+147.9	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
+#she is supposed to be holding a book
+#she walks forward
+148.5	ArmorStand	belle1	move	-102.655,64.1,-35.411	1
+#belle rotates to -30
+151	Block	152	-68,61,-26
+151.2	Block	0	-68,61,-26
+#
+#she walks over to the far right
+151	ArmorStand	belle1	move	-99.492,64,-33.406	5
+#at 157 she rotates -135 and walks around
+157	Block	152	-64,61,-26
+157.2	Block	0	-64,61,-26
+#
+157	ArmorStand	belle1	move	-97.143,64,-35.073	1
+#at 158.3	belle will rotate 105
+158.3	Block	152	-67,61,-26
+158.5	Block	0	-67,61,-26
+#
+158.3	ArmorStand	belle1	move	-98.768,64,-36.783	1
+#belle will rotate to 75 at 159.5
+159.5	Block	152	-63,61,-26
+159.7	Block	0	-63,61,-26
+#
+159.5	ArmorStand	belle1	move	-99.7,64,-36.3	1.3
+#by 160.8 she should be at her stopping point
+#AAAAAAAHHHH
+162.3	ArmorStand	belle1	position	HEAD	-20,20,0	2
+165.8	ArmorStand	belle1	position	HEAD	0,10,0	1
+167.1	ArmorStand	belle1	position	HEAD	10,0,0	.6
+#at 168 she starts moving
+168	ArmorStand	belle1	move	-102.769,64,-39.010	1.6
+172.5	ArmorStand	belle1	position	HEAD	-5,0,0	1.5
+172.5	ArmorStand	belle1	position	ARM_LEFT	-60,12,0	.5
+172.5	ArmorStand	belle1	position	ARM_RIGHT	-60,-12,0	.5
+#176.8 she rotates to 45
+176.8	Block	152	-69,61,-26
+177	Block	0	-69,61,-26
+#
+176.8	ArmorStand	belle1	position	HEAD	-10,-20,0	2
+179.1	ArmorStand	belle1	position	ARM_LEFT	-20,12,0	.5
+179.1	ArmorStand	belle1	position	ARM_RIGHT	-20,-12,0	.5
+179.1	ArmorStand	belle1	position	HEAD	5,0,0	.5
+180.5	ArmorStand	belle1	position	HEAD	-10,0,0	1.5
+182.5	ArmorStand	belle1	position	HEAD	20,-10,0	.5
+182.5	ArmorStand	belle1	position	ARM_LEFT	-60,12,0	.5
+182.5	ArmorStand	belle1	position	ARM_RIGHT	-60,-12,0	.5
+188	ArmorStand	belle1	position	HEAD	0,-10,0	.5
+#she rotates at 190.7 to 105
+190.7	Block	152	-67,61,-26
+190.9	Block	0	-67,61,-26
+#
+190.7	ArmorStand	belle1	move	-108.774,64,-42.414	6
+190.7	ArmorStand	belle1	position	HEAD	0,0,0	.5
+190.7	ArmorStand	belle1	position	ARM_LEFT	-20,12,0	.5
+190.7	ArmorStand	belle1	position	ARM_RIGHT	-20,-12,0	.5
+196.3	ArmorStand	belle1	position	HEAD	10,0,0	1
+#196.3 she rotates to 195	
+196.3	Block	152	-62,61,-26
+196.5	Block	0	-62,61,-26
+#
+196.3	ArmorStand	belle1	move	-105.627,64,-45.373	1.7
+#at 197 she rotates to 225
+197	Block	152	-61,61,-26
+197.2	Block	0	-61,61,-26
+#part ive stopped at, they say "mademoselle then "its pity and sin"
+
+
+#townperson1= green dress, blonde
+81	ArmorStand	town1	spawn	-104.496,64,-46.324
+81.3	ArmorStand	town1	rotate	-100	1
+81.5	ArmorStand	town1	position	ARM_LEFT	-50,24,0	.5
+81.5	ArmorStand	town1	position	ARM_RIGHT	-50,-24,0	.5
+
+#townperson2=orange guy
+81	ArmorStand	town2	spawn	-103.715,64,-45.486
+81.3	ArmorStand	town2	rotate	-135	1
+
+#townperson3=red guy
+81	ArmorStand	town3	spawn	-102.884,64,-44.386
+81.3	ArmorStand	town3	rotate	165	1
+81.5	ArmorStand	town3	position	ARM_LEFT	-20,0,0	.5
+
+#townsperson4=redgirl
+81	ArmorStand	town4	spawn	-99.533,64,-41.369
+81.3	ArmorStand	town4	rotate	45	1
+81.5	ArmorStand	town4	position	HEAD	0,-30,0	.5
+81.5	ArmorStand	town4	position	ARM_LEFT	-50,24,0	.5
+81.5	ArmorStand	town4	position	ARM_RIGHT	-50,-24,0	.5
+
+#townsperson5=baker
+81	ArmorStand	town5	spawn	-98.663,64,-40.418
+81.3	ArmorStand	town5	rotate	45	1
+81.5	ArmorStand	town5	position	HEAD	-10,20,0	.5
+81.5	ArmorStand	town5	position	ARM_RIGHT	-45,20,0	.5
+81.5	ArmorStand	town5	position	ARM_LEFT	0,0,-145	.5
+81.5	ArmorStand	town5	position	LEG_LEFT	-15,0,0	.5
+120.5	ArmorStand	town5	position	ARM_LEFT	-37,0,0	.5
+120.5	ArmorStand	town5	position	ARM_RIGHT	-140,36,0	.2
+121	ArmorStand	town5	position	ARM_LEFT	-41,0,0	.2
+121	ArmorStand	town5	position	ARM_RIGHT	-34,15,0	.2
+
+
+#townsperson6=greengirl
+81	ArmorStand	town6	spawn	-97.541,64,-39.662
+81.3	ArmorStand	town6	rotate	-42	1
+81.5	ArmorStand	town6	position	ARM_RIGHT	-45,0,0	.5
+
+
+#townsperson7=blueguy
+81	ArmorStand	town7	spawn	-96.434,64,-38.362
+81.3	ArmorStand	town7	rotate	65	1
+81.5	ArmorStand	town7	position	HEAD	0,30,0	.5
+
+
+#townsperson8=blonde red girl with no bread????
+81	ArmorStand	town8	spawn	-95.419,64,-37.389
+81.3	ArmorStand	town8	rotate	80	1
+81.5	ArmorStand	town8	position	ARM_LEFT	-50,24,0	.5
+81.5	ArmorStand	town8	position	ARM_RIGHT	-50,-24,0	.5
+
+
+0	AudioStart	batb
+5	AudioSync	batb	5
+10	AudioSync	batb	10
+30	AudioSync	batb	30
+120	AudioSync	batb	120
+240	AudioSync	batb	240
+360	AudioSync	batb	360
+480	AudioSync	batb	480
+600	AudioSync	batb	600
+720	AudioSync	batb	720
+840	AudioSync	batb	840
+960	AudioSync	batb	960
+1080	AudioSync	batb	1080
+1200	AudioSync	batb	1200
+1320	AudioSync	batb	1320
+1440	AudioSync	batb	1440

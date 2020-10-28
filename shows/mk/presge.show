@@ -1,0 +1,945 @@
+﻿Show	Location	40,43,-1551
+Show	TextRadius	8
+Show	Name	SGE
+#ArmorStandDefine
+ArmorStand	Seargent	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTM0ZmIyZGI2MmM4YWI4YjY3NGZiMTVlNmM2MjE4NWMxMjVjNTQzNzlhNzhhNDY3ZTI1OTIxZGE5MzZkYmZiIn19fQ==;299(51,76,178);300(51,76,178);301(51,76,178)
+ArmorStand	Alien1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM2ZWRmN2RlOWFkY2E3MjMwOGE5NGQxYzM4YzM1OGFjYzgyOTE4ZmU4ZmNlZDI1ZDQ3NDgyMGY0Y2I3ODQifX19;299(158,158,158);300(207,212,76);301(196,192,77)
+ArmorStand	Alien2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2EzNWViMTBiOTRlODg4NDI3ZmIyM2M3ODMwODI2NThjZWI4MWYzY2Y1ZDBhYWQyNWQ3ZDQxYTE5NGIyNiJ9fX0=;299(158,158,158);300(106,168,110);301(87,138,90)
+#ArmorStandSpawns
+111.8	ArmorStand	Alien2	Spawn	43.5,44,-1555.5
+195	ArmorStand	Alien2	Despawn
+195	ArmorStand	Alien1	Despawn
+0	ArmorStand	Alien1	Spawn	37.5,44,-1555.5
+0	ArmorStand	Seargent	Spawn	40.5,43.0,-1557.5
+206	ArmorStand	Seargent	Despawn
+#AudioStart/Sync
+0	AudioStart	presge
+60	AudioSync	presge	60
+#Text
+1	Text	&f[&cPleakley&f] &2Attention smaller recruits! Make sure, now, you position yourselves for the best view of the chamber.
+7.4	Text	&2And the Seargent... He's the one in the middle wearing a hat... and on the phone.
+15.2	Text	&2That is all!
+17.2	Text	&f[&cRobot Officer&f] Yeah, uh-huh, look, hun, I gotta go.. yeah, yeah we're really busy today. Okay buh-bye!
+28.1	Text	&f[&cRobot Officer&f] &dATTEN-HUT!
+32.9	Text	&dThank you.
+34.6	Text	&dLet me introduce myself. I am the Prisoner Teleportation Officer, &cSergeant C4703BK2704-90210.
+44.4	Text	&dSo, to start, prisoners come in two types. Your &alevel ones, &dand your &elevel twos.
+52.3	Text	&dAnd you people are not ready for your &elevel twos, &dso we will start with the &aones.
+55.8	Text	&dYou know, the common criminals of the cosmos. Like this hairy hoodlum over here. 
+61.5	Text	&dHe's here for Jaywalking between the moons of Jupiter.
+65.4	Text	&dWhen perpetrators like him are caught, they are teleported here to one of these, tubey things. 
+71.3	Text	&dAnd then, they have to deal with me!
+76.4	Text	&dPerfect! Here comes another one!
+80	Text	&dAh &8Lieutenant Sludge. &dWhat have you got?
+83.6	Text	&f[&8Lieutenant Sludge&f] &3We've had another situation in the Galactic Federation Bakery.
+87	Text	&f[&cRobot Officer&f] &dOh... not the donut guy again!
+89.9	Text	&f[&8Lieutenant Sludge&f] &3Yep.. Found him sucking the goop out all the Jelly Wormhole Doughnuts.
+96.9	Text	&f[&cRobot Officer&f] &dAhh, When are you guys gonna send me some &elevel twos &dfor a change?
+101.4	Text	&f[&8Lieutenant Sludge&f] &3Not today 90210..
+104.1	Text	&f[&7&lComputer&f] &bTeleportation in 3...
+107.1	Text	&b..2... 
+108.2	Text	&b...Teleporting now.
+117.7	Text	&f[&cRobot Officer&f] &dOh you should be ashamed of yourself you gas bag!
+122.2	Text	&dBut I have no choice but to send you to your cell.
+125.1	Text	&dAnd this time, with no milk! You understand?
+130.1	Text	&dHuh!? What's that!?
+131.8	Text	&f[&9Gantu&f] &cSergeant! &5We have an incoming &cLevel Three.
+134.8	Text	&f[&cRobot Officer&f] &dA...a...a…&cLevel Three?!  &dAHHHHH!
+138.7	Text	&f[&9Gantu&f] &5Pull yourself together man!
+141.8	Text	&f[&cRobot Officer&f] &dI think I just oiled myself... 
+145.2	Text	&f[&9Gantu&f] &cSergeant!!
+145.6	Text	&f[&cRobot Officer&f] &dYes, sir!
+146.4	Text	&f[&9Gantu&f] &5I don't know what kind of monster they caught out there, but we'll have to move to the high security &cLevel 3 &6teleportation chamber!
+152.8	Text	&f[&cRobot Officer&f] &dBut it's their first day, and they're not even trained to handle &aLevel ones &dyet!
+157.2	Text	&f[&9Gantu&f] &cSERGEANT!
+157.9	Text	&f[&cRobot Officer&f] &dSir.. Yes-s sir.
+160	Text	&dOkay! Don't people panic! .....I mean go that way! ..No, no I meant that way!
+166.6	Text	&f[&9Gantu&f] &5You too &cSergeant.. 
+167.8	Text	&f[&cRobot Officer&f] &dMe!?! N...no...no, No I would love to go sir...I really...b..but I can't
+172.8	Text	&f[&9Gantu&f] &cSergeant!!
+173.7	Text	&f[&cRobot Officer&f] &dSir... 
+173.9	Text	&f[&9Gantu&f] &5I'll meet you in the &6High Security Chamber! &dTHAT'S AN ORDER!!
+177	Text	&f[&cRobot Officer&f] &dYes S-sir..
+178.8	Text	&dBut something big is on the way, Something &clevel 3 &d&lBIG!
+184.2	Text	&dOh dear... I think...I'm going...to faint...
+190.9	Text	&f[&cPleakley&f] &2Emergency everyone! We have an emergency here! All guards to the &6High Security Teleportation Chamber &2immediately!
+198	Text	&f[&9Gantu&f] &5That means YOU recruits, now move it!
+200.8	Text	&f[&cPleakley&f] &2You heard the Captain everyone, let's get a move on it, and let's make it snappy!
+#ParticlesFirstBox
+61.1	Particle	mobSpell	37,44,-1556	0	0	0	0.01	50
+66.1	Particle	mobSpell	37,44,-1556	0	0	0	0.01	50
+71.1	Particle	mobSpell	37,44,-1556	0	0	0	0.01	50
+#Pixelator 
+0	Block	152	49,40,-1548
+46.7	Block	152	45,37,-1548
+75.4	Block	152	45,38,-1548
+79.5	Block	152	46,38,-1548
+103.4	Block	152	46,37,-1548
+116.2	Block	152	44,37,-1548
+123.5	Block	152	47,37,-1548
+129.5	Block	152	43,38,-1548
+131.8	Block	152	47,38,-1548
+178.1	Block	152	43,38,-1548
+197.7	Block	152	47,38,-1548
+200.4	Block	152	43,37,-1548
+207.5	Block	152	49,40,-1548
+#FlashRedGlass
+129.7	Block	89	43,48,-1552
+129.7	Block	89	40,48,-1552
+129.7	Block	89	37,48,-1552
+129.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+129.7	Block	152	40,40,-1554
+129.7	Block	95:14	40,43,-1559
+129.7	Block	95:14	40,44,-1559
+129.7	Block	95:14	43,47,-1552
+129.7	Block	95:14	40,47,-1552
+129.7	Block	95:14	37,47,-1552
+130.7	Block	123	43,48,-1552
+130.7	Block	123	40,48,-1552
+130.7	Block	123	37,48,-1552
+130.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+130.7	Block	152	40,40,-1554
+130.7	Block	95:08	40,43,-1559
+130.7	Block	95:08	40,44,-1559
+130.7	Block	95:08	43,47,-1552
+130.7	Block	95:08	40,47,-1552
+130.7	Block	95:08	37,47,-1552
+131.7	Block	89	43,48,-1552
+131.7	Block	89	40,48,-1552
+131.7	Block	89	37,48,-1552
+131.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+131.7	Block	152	40,40,-1554
+131.7	Block	95:14	40,43,-1559
+131.7	Block	95:14	40,44,-1559
+131.7	Block	95:14	43,47,-1552
+131.7	Block	95:14	40,47,-1552
+131.7	Block	95:14	37,47,-1552
+132.7	Block	123	43,48,-1552
+132.7	Block	123	40,48,-1552
+132.7	Block	123	37,48,-1552
+132.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+132.7	Block	152	40,40,-1554
+132.7	Block	95:08	40,43,-1559
+132.7	Block	95:08	40,44,-1559
+132.7	Block	95:08	43,47,-1552
+132.7	Block	95:08	40,47,-1552
+132.7	Block	95:08	37,47,-1552
+133.7	Block	89	43,48,-1552
+133.7	Block	89	40,48,-1552
+133.7	Block	89	37,48,-1552
+133.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+133.7	Block	152	40,40,-1554
+133.7	Block	95:14	40,43,-1559
+133.7	Block	95:14	40,44,-1559
+133.7	Block	95:14	43,47,-1552
+133.7	Block	95:14	40,47,-1552
+133.7	Block	95:14	37,47,-1552
+134.7	Block	123	43,48,-1552
+134.7	Block	123	40,48,-1552
+134.7	Block	123	37,48,-1552
+134.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+134.7	Block	152	40,40,-1554
+134.7	Block	95:08	40,43,-1559
+134.7	Block	95:08	40,44,-1559
+134.7	Block	95:08	43,47,-1552
+134.7	Block	95:08	40,47,-1552
+134.7	Block	95:08	37,47,-1552
+135.7	Block	89	43,48,-1552
+135.7	Block	89	40,48,-1552
+135.7	Block	89	37,48,-1552
+135.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+135.7	Block	152	40,40,-1554
+135.7	Block	95:14	40,43,-1559
+135.7	Block	95:14	40,44,-1559
+135.7	Block	95:14	43,47,-1552
+135.7	Block	95:14	40,47,-1552
+135.7	Block	95:14	37,47,-1552
+136.7	Block	123	43,48,-1552
+136.7	Block	123	40,48,-1552
+136.7	Block	123	37,48,-1552
+136.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+136.7	Block	152	40,40,-1554
+136.7	Block	95:08	40,43,-1559
+136.7	Block	95:08	40,44,-1559
+136.7	Block	95:08	43,47,-1552
+136.7	Block	95:08	40,47,-1552
+136.7	Block	95:08	37,47,-1552
+137.7	Block	89	43,48,-1552
+137.7	Block	89	40,48,-1552
+137.7	Block	89	37,48,-1552
+137.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+137.7	Block	152	40,40,-1554
+137.7	Block	95:14	40,43,-1559
+137.7	Block	95:14	40,44,-1559
+137.7	Block	95:14	43,47,-1552
+137.7	Block	95:14	40,47,-1552
+137.7	Block	95:14	37,47,-1552
+138.7	Block	123	43,48,-1552
+138.7	Block	123	40,48,-1552
+138.7	Block	123	37,48,-1552
+138.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+138.7	Block	152	40,40,-1554
+138.7	Block	95:08	40,43,-1559
+138.7	Block	95:08	40,44,-1559
+138.7	Block	95:08	43,47,-1552
+138.7	Block	95:08	40,47,-1552
+138.7	Block	95:08	37,47,-1552
+139.7	Block	89	43,48,-1552
+139.7	Block	89	40,48,-1552
+139.7	Block	89	37,48,-1552
+139.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+139.7	Block	152	40,40,-1554
+139.7	Block	95:14	40,43,-1559
+139.7	Block	95:14	40,44,-1559
+139.7	Block	95:14	43,47,-1552
+139.7	Block	95:14	40,47,-1552
+139.7	Block	95:14	37,47,-1552
+140.7	Block	123	43,48,-1552
+140.7	Block	123	40,48,-1552
+140.7	Block	123	37,48,-1552
+140.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+140.7	Block	152	40,40,-1554
+140.7	Block	95:08	40,43,-1559
+140.7	Block	95:08	40,44,-1559
+140.7	Block	95:08	43,47,-1552
+140.7	Block	95:08	40,47,-1552
+140.7	Block	95:08	37,47,-1552
+141.7	Block	89	43,48,-1552
+141.7	Block	89	40,48,-1552
+141.7	Block	89	37,48,-1552
+141.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+141.7	Block	152	40,40,-1554
+141.7	Block	95:14	40,43,-1559
+141.7	Block	95:14	40,44,-1559
+141.7	Block	95:14	43,47,-1552
+141.7	Block	95:14	40,47,-1552
+141.7	Block	95:14	37,47,-1552
+142.7	Block	123	43,48,-1552
+142.7	Block	123	40,48,-1552
+142.7	Block	123	37,48,-1552
+142.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+142.7	Block	152	40,40,-1554
+142.7	Block	95:08	40,43,-1559
+142.7	Block	95:08	40,44,-1559
+142.7	Block	95:08	43,47,-1552
+142.7	Block	95:08	40,47,-1552
+142.7	Block	95:08	37,47,-1552
+143.7	Block	89	43,48,-1552
+143.7	Block	89	40,48,-1552
+143.7	Block	89	37,48,-1552
+143.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+143.7	Block	152	40,40,-1554
+143.7	Block	95:14	40,43,-1559
+143.7	Block	95:14	40,44,-1559
+143.7	Block	95:14	43,47,-1552
+143.7	Block	95:14	40,47,-1552
+143.7	Block	95:14	37,47,-1552
+144.7	Block	123	43,48,-1552
+144.7	Block	123	40,48,-1552
+144.7	Block	123	37,48,-1552
+144.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+144.7	Block	152	40,40,-1554
+144.7	Block	95:08	40,43,-1559
+144.7	Block	95:08	40,44,-1559
+144.7	Block	95:08	43,47,-1552
+144.7	Block	95:08	40,47,-1552
+144.7	Block	95:08	37,47,-1552
+145.7	Block	89	43,48,-1552
+145.7	Block	89	40,48,-1552
+145.7	Block	89	37,48,-1552
+145.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+145.7	Block	152	40,40,-1554
+145.7	Block	95:14	40,43,-1559
+145.7	Block	95:14	40,44,-1559
+145.7	Block	95:14	43,47,-1552
+145.7	Block	95:14	40,47,-1552
+145.7	Block	95:14	37,47,-1552
+146.7	Block	123	43,48,-1552
+146.7	Block	123	40,48,-1552
+146.7	Block	123	37,48,-1552
+146.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+146.7	Block	152	40,40,-1554
+146.7	Block	95:08	40,43,-1559
+142.7	Block	95:08	40,44,-1559
+146.7	Block	95:08	43,47,-1552
+146.7	Block	95:08	40,47,-1552
+146.7	Block	95:08	37,47,-1552
+147.7	Block	89	43,48,-1552
+147.7	Block	89	40,48,-1552
+147.7	Block	89	37,48,-1552
+147.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+147.7	Block	152	40,40,-1554
+147.7	Block	95:14	40,43,-1559
+147.7	Block	95:14	40,44,-1559
+147.7	Block	95:14	43,47,-1552
+147.7	Block	95:14	40,47,-1552
+147.7	Block	95:14	37,47,-1552
+148.7	Block	123	43,48,-1552
+148.7	Block	123	40,48,-1552
+148.7	Block	123	37,48,-1552
+148.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+148.7	Block	152	40,40,-1554
+148.7	Block	95:08	40,43,-1559
+148.7	Block	95:08	40,44,-1559
+148.7	Block	95:08	43,47,-1552
+148.7	Block	95:08	40,47,-1552
+148.7	Block	95:08	37,47,-1552
+149.7	Block	89	43,48,-1552
+149.7	Block	89	40,48,-1552
+149.7	Block	89	37,48,-1552
+149.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+149.7	Block	152	40,40,-1554
+149.7	Block	95:14	40,43,-1559
+149.7	Block	95:14	40,44,-1559
+149.7	Block	95:14	43,47,-1552
+149.7	Block	95:14	40,47,-1552
+149.7	Block	95:14	37,47,-1552
+150.7	Block	123	43,48,-1552
+150.7	Block	123	40,48,-1552
+150.7	Block	123	37,48,-1552
+150.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+150.7	Block	152	40,40,-1554
+150.7	Block	95:08	40,43,-1559
+150.7	Block	95:08	40,44,-1559
+150.7	Block	95:08	43,47,-1552
+150.7	Block	95:08	40,47,-1552
+150.7	Block	95:08	37,47,-1552
+151.7	Block	89	43,48,-1552
+151.7	Block	89	40,48,-1552
+151.7	Block	89	37,48,-1552
+151.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+151.7	Block	152	40,40,-1554
+151.7	Block	95:14	40,43,-1559
+151.7	Block	95:14	40,44,-1559
+151.7	Block	95:14	43,47,-1552
+151.7	Block	95:14	40,47,-1552
+151.7	Block	95:14	37,47,-1552
+152.7	Block	123	43,48,-1552
+152.7	Block	123	40,48,-1552
+152.7	Block	123	37,48,-1552
+152.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+152.7	Block	152	40,40,-1554
+152.7	Block	95:08	40,43,-1559
+152.7	Block	95:08	40,44,-1559
+152.7	Block	95:08	43,47,-1552
+152.7	Block	95:08	40,47,-1552
+152.7	Block	95:08	37,47,-1552
+153.7	Block	89	43,48,-1552
+153.7	Block	89	40,48,-1552
+153.7	Block	89	37,48,-1552
+153.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+153.7	Block	152	40,40,-1554
+153.7	Block	95:14	40,43,-1559
+153.7	Block	95:14	40,44,-1559
+153.7	Block	95:14	43,47,-1552
+153.7	Block	95:14	40,47,-1552
+153.7	Block	95:14	37,47,-1552
+154.7	Block	123	43,48,-1552
+154.7	Block	123	40,48,-1552
+154.7	Block	123	37,48,-1552
+154.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+154.7	Block	152	40,40,-1554
+154.7	Block	95:08	40,43,-1559
+154.7	Block	95:08	40,44,-1559
+154.7	Block	95:08	43,47,-1552
+154.7	Block	95:08	40,47,-1552
+154.7	Block	95:08	37,47,-1552
+155.7	Block	89	43,48,-1552
+155.7	Block	89	40,48,-1552
+155.7	Block	89	37,48,-1552
+155.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+155.7	Block	152	40,40,-1554
+155.7	Block	95:14	40,43,-1559
+155.7	Block	95:14	40,44,-1559
+155.7	Block	95:14	43,47,-1552
+155.7	Block	95:14	40,47,-1552
+155.7	Block	95:14	37,47,-1552
+156.7	Block	123	43,48,-1552
+156.7	Block	123	40,48,-1552
+156.7	Block	123	37,48,-1552
+156.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+156.7	Block	152	40,40,-1554
+156.7	Block	95:08	40,43,-1559
+156.7	Block	95:08	40,44,-1559
+156.7	Block	95:08	43,47,-1552
+156.7	Block	95:08	40,47,-1552
+156.7	Block	95:08	37,47,-1552
+157.7	Block	89	43,48,-1552
+157.7	Block	89	40,48,-1552
+157.7	Block	89	37,48,-1552
+157.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+157.7	Block	152	40,40,-1554
+157.7	Block	95:14	40,43,-1559
+157.7	Block	95:14	40,44,-1559
+157.7	Block	95:14	43,47,-1552
+157.7	Block	95:14	40,47,-1552
+157.7	Block	95:14	37,47,-1552
+158.7	Block	123	43,48,-1552
+158.7	Block	123	40,48,-1552
+158.7	Block	123	37,48,-1552
+158.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+158.7	Block	152	40,40,-1554
+158.7	Block	95:08	40,43,-1559
+158.7	Block	95:08	40,44,-1559
+158.7	Block	95:08	43,47,-1552
+158.7	Block	95:08	40,47,-1552
+158.7	Block	95:08	37,47,-1552
+159.7	Block	89	43,48,-1552
+159.7	Block	89	40,48,-1552
+159.7	Block	89	37,48,-1552
+159.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+159.7	Block	152	40,40,-1554
+159.7	Block	95:14	40,43,-1559
+159.7	Block	95:14	40,44,-1559
+159.7	Block	95:14	43,47,-1552
+159.7	Block	95:14	40,47,-1552
+159.7	Block	95:14	37,47,-1552
+160.7	Block	123	43,48,-1552
+160.7	Block	123	40,48,-1552
+160.7	Block	123	37,48,-1552
+160.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+160.7	Block	152	40,40,-1554
+160.7	Block	95:08	40,43,-1559
+160.7	Block	95:08	40,44,-1559
+160.7	Block	95:08	43,47,-1552
+160.7	Block	95:08	40,47,-1552
+160.7	Block	95:08	37,47,-1552
+161.7	Block	89	43,48,-1552
+161.7	Block	89	40,48,-1552
+161.7	Block	89	37,48,-1552
+161.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+161.7	Block	152	40,40,-1554
+161.7	Block	95:14	40,43,-1559
+161.7	Block	95:14	40,44,-1559
+161.7	Block	95:14	43,47,-1552
+161.7	Block	95:14	40,47,-1552
+161.7	Block	95:14	37,47,-1552
+162.7	Block	123	43,48,-1552
+162.7	Block	123	40,48,-1552
+162.7	Block	123	37,48,-1552
+162.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+162.7	Block	152	40,40,-1554
+162.7	Block	95:08	40,43,-1559
+162.7	Block	95:08	40,44,-1559
+162.7	Block	95:08	43,47,-1552
+162.7	Block	95:08	40,47,-1552
+162.7	Block	95:08	37,47,-1552
+163.7	Block	89	43,48,-1552
+163.7	Block	89	40,48,-1552
+163.7	Block	89	37,48,-1552
+163.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+163.7	Block	152	40,40,-1554
+163.7	Block	95:14	40,43,-1559
+163.7	Block	95:14	40,44,-1559
+163.7	Block	95:14	43,47,-1552
+163.7	Block	95:14	40,47,-1552
+163.7	Block	95:14	37,47,-1552
+164.7	Block	123	43,48,-1552
+164.7	Block	123	40,48,-1552
+164.7	Block	123	37,48,-1552
+164.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+164.7	Block	152	40,40,-1554
+164.7	Block	95:08	40,43,-1559
+164.7	Block	95:08	40,44,-1559
+164.7	Block	95:08	43,47,-1552
+164.7	Block	95:08	40,47,-1552
+164.7	Block	95:08	37,47,-1552
+165.7	Block	89	43,48,-1552
+165.7	Block	89	40,48,-1552
+165.7	Block	89	37,48,-1552
+165.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+165.7	Block	152	40,40,-1554
+165.7	Block	95:14	40,43,-1559
+165.7	Block	95:14	40,44,-1559
+165.7	Block	95:14	43,47,-1552
+165.7	Block	95:14	40,47,-1552
+165.7	Block	95:14	37,47,-1552
+166.7	Block	123	43,48,-1552
+166.7	Block	123	40,48,-1552
+166.7	Block	123	37,48,-1552
+166.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+166.7	Block	152	40,40,-1554
+166.7	Block	95:08	40,43,-1559
+166.7	Block	95:08	40,44,-1559
+166.7	Block	95:08	43,47,-1552
+166.7	Block	95:08	40,47,-1552
+166.7	Block	95:08	37,47,-1552
+167.7	Block	89	43,48,-1552
+167.7	Block	89	40,48,-1552
+167.7	Block	89	37,48,-1552
+167.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+167.7	Block	152	40,40,-1554
+167.7	Block	95:14	40,43,-1559
+167.7	Block	95:14	40,44,-1559
+167.7	Block	95:14	43,47,-1552
+167.7	Block	95:14	40,47,-1552
+167.7	Block	95:14	37,47,-1552
+168.7	Block	123	43,48,-1552
+168.7	Block	123	40,48,-1552
+168.7	Block	123	37,48,-1552
+168.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+168.7	Block	152	40,40,-1554
+168.7	Block	95:08	40,43,-1559
+168.7	Block	95:08	40,44,-1559
+168.7	Block	95:08	43,47,-1552
+168.7	Block	95:08	40,47,-1552
+168.7	Block	95:08	37,47,-1552
+169.7	Block	89	43,48,-1552
+169.7	Block	89	40,48,-1552
+169.7	Block	89	37,48,-1552
+169.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+169.7	Block	152	40,40,-1554
+169.7	Block	95:14	40,43,-1559
+169.7	Block	95:14	40,44,-1559
+169.7	Block	95:14	43,47,-1552
+169.7	Block	95:14	40,47,-1552
+169.7	Block	95:14	37,47,-1552
+170.7	Block	123	43,48,-1552
+170.7	Block	123	40,48,-1552
+170.7	Block	123	37,48,-1552
+170.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+170.7	Block	152	40,40,-1554
+170.7	Block	95:08	40,43,-1559
+170.7	Block	95:08	40,44,-1559
+170.7	Block	95:08	43,47,-1552
+170.7	Block	95:08	40,47,-1552
+170.7	Block	95:08	37,47,-1552
+171.7	Block	89	43,48,-1552
+171.7	Block	89	40,48,-1552
+171.7	Block	89	37,48,-1552
+171.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+171.7	Block	152	40,40,-1554
+171.7	Block	95:14	40,43,-1559
+171.7	Block	95:14	40,44,-1559
+171.7	Block	95:14	43,47,-1552
+171.7	Block	95:14	40,47,-1552
+171.7	Block	95:14	37,47,-1552
+172.7	Block	123	43,48,-1552
+172.7	Block	123	40,48,-1552
+172.7	Block	123	37,48,-1552
+172.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+172.7	Block	152	40,40,-1554
+172.7	Block	95:08	40,43,-1559
+172.7	Block	95:08	40,44,-1559
+172.7	Block	95:08	43,47,-1552
+172.7	Block	95:08	40,47,-1552
+172.7	Block	95:08	37,47,-1552
+173.7	Block	89	43,48,-1552
+173.7	Block	89	40,48,-1552
+173.7	Block	89	37,48,-1552
+173.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+173.7	Block	152	40,40,-1554
+173.7	Block	95:14	40,43,-1559
+173.7	Block	95:14	40,44,-1559
+173.7	Block	95:14	43,47,-1552
+173.7	Block	95:14	40,47,-1552
+173.7	Block	95:14	37,47,-1552
+174.7	Block	123	43,48,-1552
+174.7	Block	123	40,48,-1552
+174.7	Block	123	37,48,-1552
+174.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+174.7	Block	152	40,40,-1554
+174.7	Block	95:08	40,43,-1559
+174.7	Block	95:08	40,44,-1559
+174.7	Block	95:08	43,47,-1552
+174.7	Block	95:08	40,47,-1552
+174.7	Block	95:08	37,47,-1552
+175.7	Block	89	43,48,-1552
+175.7	Block	89	40,48,-1552
+175.7	Block	89	37,48,-1552
+175.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+175.7	Block	152	40,40,-1554
+175.7	Block	95:14	40,43,-1559
+175.7	Block	95:14	40,44,-1559
+175.7	Block	95:14	43,47,-1552
+175.7	Block	95:14	40,47,-1552
+175.7	Block	95:14	37,47,-1552
+176.7	Block	123	43,48,-1552
+176.7	Block	123	40,48,-1552
+176.7	Block	123	37,48,-1552
+176.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+176.7	Block	152	40,40,-1554
+176.7	Block	95:08	40,43,-1559
+176.7	Block	95:08	40,44,-1559
+176.7	Block	95:08	43,47,-1552
+176.7	Block	95:08	40,47,-1552
+176.7	Block	95:08	37,47,-1552
+177.7	Block	89	43,48,-1552
+177.7	Block	89	40,48,-1552
+177.7	Block	89	37,48,-1552
+177.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+177.7	Block	152	40,40,-1554
+177.7	Block	95:14	40,43,-1559
+177.7	Block	95:14	40,44,-1559
+177.7	Block	95:14	43,47,-1552
+177.7	Block	95:14	40,47,-1552
+177.7	Block	95:14	37,47,-1552
+178.7	Block	123	43,48,-1552
+178.7	Block	123	40,48,-1552
+178.7	Block	123	37,48,-1552
+178.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+178.7	Block	152	40,40,-1554
+178.7	Block	95:08	40,43,-1559
+178.7	Block	95:08	40,44,-1559
+178.7	Block	95:08	43,47,-1552
+178.7	Block	95:08	40,47,-1552
+178.7	Block	95:08	37,47,-1552
+179.7	Block	89	43,48,-1552
+179.7	Block	89	40,48,-1552
+179.7	Block	89	37,48,-1552
+179.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+179.7	Block	152	40,40,-1554
+179.7	Block	95:14	40,43,-1559
+179.7	Block	95:14	40,44,-1559
+179.7	Block	95:14	43,47,-1552
+179.7	Block	95:14	40,47,-1552
+179.7	Block	95:14	37,47,-1552
+180.7	Block	123	43,48,-1552
+180.7	Block	123	40,48,-1552
+180.7	Block	123	37,48,-1552
+180.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+180.7	Block	152	40,40,-1554
+180.7	Block	95:08	40,43,-1559
+180.7	Block	95:08	40,44,-1559
+180.7	Block	95:08	43,47,-1552
+180.7	Block	95:08	40,47,-1552
+180.7	Block	95:08	37,47,-1552
+181.7	Block	89	43,48,-1552
+181.7	Block	89	40,48,-1552
+181.7	Block	89	37,48,-1552
+181.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+181.7	Block	152	40,40,-1554
+181.7	Block	95:14	40,43,-1559
+181.7	Block	95:14	40,44,-1559
+181.7	Block	95:14	43,47,-1552
+181.7	Block	95:14	40,47,-1552
+181.7	Block	95:14	37,47,-1552
+182.7	Block	123	43,48,-1552
+182.7	Block	123	40,48,-1552
+182.7	Block	123	37,48,-1552
+182.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+182.7	Block	152	40,40,-1554
+182.7	Block	95:08	40,43,-1559
+182.7	Block	95:08	40,44,-1559
+182.7	Block	95:08	43,47,-1552
+182.7	Block	95:08	40,47,-1552
+182.7	Block	95:08	37,47,-1552
+183.7	Block	89	43,48,-1552
+183.7	Block	89	40,48,-1552
+183.7	Block	89	37,48,-1552
+183.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+183.7	Block	152	40,40,-1554
+183.7	Block	95:14	40,43,-1559
+183.7	Block	95:14	40,44,-1559
+183.7	Block	95:14	43,47,-1552
+183.7	Block	95:14	40,47,-1552
+183.7	Block	95:14	37,47,-1552
+184.7	Block	123	43,48,-1552
+184.7	Block	123	40,48,-1552
+184.7	Block	123	37,48,-1552
+184.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+184.7	Block	152	40,40,-1554
+184.7	Block	95:08	40,43,-1559
+184.7	Block	95:08	40,44,-1559
+184.7	Block	95:08	43,47,-1552
+184.7	Block	95:08	40,47,-1552
+184.7	Block	95:08	37,47,-1552
+185.7	Block	89	43,48,-1552
+185.7	Block	89	40,48,-1552
+185.7	Block	89	37,48,-1552
+185.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+185.7	Block	152	40,40,-1554
+185.7	Block	95:14	40,43,-1559
+185.7	Block	95:14	40,44,-1559
+185.7	Block	95:14	43,47,-1552
+185.7	Block	95:14	40,47,-1552
+185.7	Block	95:14	37,47,-1552
+186.7	Block	123	43,48,-1552
+186.7	Block	123	40,48,-1552
+186.7	Block	123	37,48,-1552
+186.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+186.7	Block	152	40,40,-1554
+186.7	Block	95:08	40,43,-1559
+186.7	Block	95:08	40,44,-1559
+186.7	Block	95:08	43,47,-1552
+186.7	Block	95:08	40,47,-1552
+186.7	Block	95:08	37,47,-1552
+187.7	Block	89	43,48,-1552
+187.7	Block	89	40,48,-1552
+187.7	Block	89	37,48,-1552
+187.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+187.7	Block	152	40,40,-1554
+187.7	Block	95:14	40,43,-1559
+187.7	Block	95:14	40,44,-1559
+187.7	Block	95:14	43,47,-1552
+187.7	Block	95:14	40,47,-1552
+187.7	Block	95:14	37,47,-1552
+188.7	Block	123	43,48,-1552
+188.7	Block	123	40,48,-1552
+188.7	Block	123	37,48,-1552
+188.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+188.7	Block	152	40,40,-1554
+188.7	Block	95:08	40,43,-1559
+188.7	Block	95:08	40,44,-1559
+188.7	Block	95:08	43,47,-1552
+188.7	Block	95:08	40,47,-1552
+188.7	Block	95:08	37,47,-1552
+189.7	Block	89	43,48,-1552
+189.7	Block	89	40,48,-1552
+189.7	Block	89	37,48,-1552
+189.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+189.7	Block	152	40,40,-1554
+189.7	Block	95:14	40,43,-1559
+189.7	Block	95:14	40,44,-1559
+189.7	Block	95:14	43,47,-1552
+189.7	Block	95:14	40,47,-1552
+189.7	Block	95:14	37,47,-1552
+190.7	Block	123	43,48,-1552
+190.7	Block	123	40,48,-1552
+190.7	Block	123	37,48,-1552
+190.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+190.7	Block	152	40,40,-1554
+190.7	Block	95:08	40,43,-1559
+190.7	Block	95:08	40,44,-1559
+190.7	Block	95:08	43,47,-1552
+190.7	Block	95:08	40,47,-1552
+190.7	Block	95:08	37,47,-1552
+191.7	Block	89	43,48,-1552
+191.7	Block	89	40,48,-1552
+191.7	Block	89	37,48,-1552
+191.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+191.7	Block	152	40,40,-1554
+191.7	Block	95:14	40,43,-1559
+191.7	Block	95:14	40,44,-1559
+191.7	Block	95:14	43,47,-1552
+191.7	Block	95:14	40,47,-1552
+191.7	Block	95:14	37,47,-1552
+192.7	Block	123	43,48,-1552
+192.7	Block	123	40,48,-1552
+192.7	Block	123	37,48,-1552
+192.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+192.7	Block	152	40,40,-1554
+192.7	Block	95:08	40,43,-1559
+192.7	Block	95:08	40,44,-1559
+192.7	Block	95:08	43,47,-1552
+192.7	Block	95:08	40,47,-1552
+192.7	Block	95:08	37,47,-1552
+193.7	Block	89	43,48,-1552
+193.7	Block	89	40,48,-1552
+193.7	Block	89	37,48,-1552
+193.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+193.7	Block	152	40,40,-1554
+193.7	Block	95:14	40,43,-1559
+193.7	Block	95:14	40,44,-1559
+193.7	Block	95:14	43,47,-1552
+193.7	Block	95:14	40,47,-1552
+193.7	Block	95:14	37,47,-1552
+194.7	Block	123	43,48,-1552
+194.7	Block	123	40,48,-1552
+194.7	Block	123	37,48,-1552
+194.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+194.7	Block	152	40,40,-1554
+194.7	Block	95:08	40,43,-1559
+194.7	Block	95:08	40,44,-1559
+194.7	Block	95:08	43,47,-1552
+194.7	Block	95:08	40,47,-1552
+194.7	Block	95:08	37,47,-1552
+195.7	Block	89	43,48,-1552
+195.7	Block	89	40,48,-1552
+195.7	Block	89	37,48,-1552
+195.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+195.7	Block	152	40,40,-1554
+195.7	Block	95:14	40,43,-1559
+195.7	Block	95:14	40,44,-1559
+195.7	Block	95:14	43,47,-1552
+195.7	Block	95:14	40,47,-1552
+195.7	Block	95:14	37,47,-1552
+196.7	Block	123	43,48,-1552
+196.7	Block	123	40,48,-1552
+196.7	Block	123	37,48,-1552
+196.7	Particle	reddust	40,44,-1558	0.2	1	0	0	500
+196.7	Block	152	40,40,-1554
+196.7	Block	95:08	40,43,-1559
+196.7	Block	95:08	40,44,-1559
+196.7	Block	95:08	43,47,-1552
+196.7	Block	95:08	40,47,-1552
+196.7	Block	95:08	37,47,-1552
+#BackToBlack
+205	Block	95:15	40,43,-1559
+205	Block	95:15	40,44,-1559 
+205	Block	95:15	43,47,-1552
+205	Block	95:15	40,47,-1552
+205	Block	95:15	37,47,-1552
+#Robot Animations Rotations
+28.2	Block	152	39,40,-1548
+32.2	Block	152	39,39,-1548
+35.2	Block	152	39,38,-1548
+38.2	Block	152	39,39,-1548
+45.2	Block	152	39,37,-1548
+49.2	Block	152	39,40,-1548
+50.7	Block	152	39,40,-1548
+52.2	Block	152	39,40,-1548
+59.2	Block	152	39,36,-1548
+71.2	Block	152	39,40,-1548
+75.7	Block	152	39,35,-1548
+80	Block	152	39,34,-1548
+86.7	Block	152	39,33,-1548
+96.2	Block	152	39,34,-1548
+104.2	Block	152	39,35,-1548
+117.7	Block	152	39,34,-1548
+130.6	Block	152	39,35,-1548
+132.2	Block	152	39,34,-1548
+137.2	Block	152	39,40,-1548
+140.2	Block	152	39,35,-1548
+145.7	Block	152	39,40,-1548
+149.2	Block	152	39,35,-1548
+157.9	Block	152	39,40,-1548
+163.1	Block	152	39,40,-1548
+165.3	Block	152	39,40,-1548
+167.6	Block	152	39,34,-1548
+173.2	Block	152	39,40,-1548
+180.2	Block	152	39,35,-1548
+#ArmorStandPositions
+1	ArmorStand	Seargent	Position	HEAD	0,0,0	1
+1	ArmorStand	Seargent	Position	ARM_LEFT	0,0,0	1
+1	ArmorStand	Seargent	Position	ARM_RIGHT	0,0,0	1
+1	ArmorStand	Seargent	Position	BODY	0,0,0	1
+28.2	ArmorStand	Seargent	Position	HEAD	-10,0,0	0.5
+28.2	ArmorStand	Seargent	Position	ARM_LEFT	0,5,-10	0.5
+28.2	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,10	0.5
+32.2	ArmorStand	Seargent	Position	HEAD	0,0,0	1
+32.2	ArmorStand	Seargent	Position	ARM_LEFT	0,0,0	1
+32.2	ArmorStand	Seargent	Position	ARM_RIGHT	0,0,0	1
+38.2	ArmorStand	Seargent	Position	HEAD	-2,0,0	1
+38.2	ArmorStand	Seargent	Position	ARM_RIGHT	10,0,0	1
+49.2	ArmorStand	Seargent	Position	HEAD	0,0,0	1
+49.2	ArmorStand	Seargent	Position	ARM_LEFT	0,5,-10	1
+49.2	ArmorStand	Seargent	Position	ARM_RIGHT	-65,-5,10	1
+50.7	ArmorStand	Seargent	Position	ARM_LEFT	-65,5,-10	1
+50.7	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,10	1
+52.2	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+52.2	ArmorStand	Seargent	Position	ARM_RIGHT	-65,5,-30	1
+59.2	ArmorStand	Seargent	Position	HEAD	10,-30,0	1
+71.2	ArmorStand	Seargent	Position	HEAD	10,0,0	1
+71.2	ArmorStand	Seargent	Position	ARM_LEFT	0,5,-10	1
+71.2	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,10	1
+75.7	ArmorStand	Seargent	Position	HEAD	20,-30,0	1
+75.7	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+75.7	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+80	ArmorStand	Seargent	Position	HEAD	-20,-50,-20	1
+80	ArmorStand	Seargent	Position	ARM_RIGHT	-55,5,-10	1
+86.7	ArmorStand	Seargent	Position	HEAD	20,-10,-10	1
+86.7	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+96.2	ArmorStand	Seargent	Position	HEAD	-20,-50,-20	1
+96.2	ArmorStand	Seargent	Position	ARM_RIGHT	-55,5,-10	1
+104.2	ArmorStand	Seargent	Position	HEAD	20,-30,0	1
+104.2	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+117.7	ArmorStand	Seargent	Position	HEAD	0,-20,0	1
+117.7	ArmorStand	Seargent	Position	ARM_LEFT	-65,0,-10	1
+117.7	ArmorStand	Seargent	Position	ARM_RIGHT	-5,5,10	1
+130.6	ArmorStand	Seargent	Position	HEAD	20,-30,0	1
+130.6	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+130.6	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+132.2	ArmorStand	Seargent	Position	HEAD	-20,-50,-20	1
+132.2	ArmorStand	Seargent	Position	ARM_RIGHT	-55,5,-10	1
+137.2	ArmorStand	Seargent	Position	HEAD	-25,-20,0	1
+137.2	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-120	1
+137.2	ArmorStand	Seargent	Position	ARM_RIGHT	-5,5,120	1
+140.2	ArmorStand	Seargent	Position	HEAD	20,-30,0	1
+140.2	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+140.2	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+145.7	ArmorStand	Seargent	Position	HEAD	-10,0,0	1
+145.7	ArmorStand	Seargent	Position	ARM_LEFT	0,5,-10	1
+145.7	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,10	1
+149.2	ArmorStand	Seargent	Position	HEAD	20,-30,0	1
+149.2	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+149.2	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+157.9	ArmorStand	Seargent	Position	HEAD	-10,0,0	1
+157.9	ArmorStand	Seargent	Position	ARM_LEFT	0,5,-10	1
+157.9	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,-10	1
+163.1	ArmorStand	Seargent	Position	HEAD	0,0,0	1
+163.1	ArmorStand	Seargent	Position	ARM_RIGHT	-65,-5,10	1
+165.3	ArmorStand	Seargent	Position	ARM_LEFT	-65,5,-10	1
+165.3	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,10	1
+167.6	ArmorStand	Seargent	Position	HEAD	-20,-50,-20	1
+167.6	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+167.6	ArmorStand	Seargent	Position	ARM_RIGHT	-55,5,-10	1
+173.2	ArmorStand	Seargent	Position	HEAD	-10,0,0	1
+173.2	ArmorStand	Seargent	Position	ARM_LEFT	0,5,-10	1
+173.2	ArmorStand	Seargent	Position	ARM_RIGHT	0,-5,10	1
+180.2	ArmorStand	Seargent	Position	HEAD	20,-30,0	1
+180.2	ArmorStand	Seargent	Position	ARM_LEFT	0,0,-10	1
+180.2	ArmorStand	Seargent	Position	ARM_RIGHT	-25,5,-10	1
+#Faint Animation
+185.7	ArmorStand	Seargent	Position	HEAD	10,20,-10	1
+185.7	ArmorStand	Seargent	Position	ARM_LEFT	0,0,0	1
+185.7	ArmorStand	Seargent	Position	ARM_RIGHT	0,0,0	1
+185.7	ArmorStand	Seargent	Position	Body	10,0,-10	1
+187.7	ArmorStand	Seargent	Position	HEAD	20,20,-10	1
+190.2	ArmorStand	Seargent	Position	HEAD	30,20,-10	1
+#TpHere
+106.1	Block	152	43,41,-1554
+115.3	Block	20	43,41,-1554
+#TpGone
+190.6	Block	152	43,41,-1554
+199.6	Block	20	43,41,-1554
+#Right Alien Animations/Rotations
+117.2	ArmorStand	Alien2	Position	HEAD	-25,10,0	0.5
+118.2	ArmorStand	Alien2	Position	HEAD	0,0,0	0.5
+122.2	ArmorStand	Alien2	Position	HEAD	-25,10,0	0.5
+123.2	ArmorStand	Alien2	Position	HEAD	0,0,0	0.5
+129.6	ArmorStand	Alien2	Position	HEAD	-25,10,0	0.5
+130.6	ArmorStand	Alien2	Position	HEAD	0,0,0	0.5
+190.9	ArmorStand	Alien2	Position	HEAD	-25,10,0	0.5
+117.2	Block	152	37,40,-1548
+118.2	Block	152	37,40,-1548
+120.2	Block	152	37,39,-1548
+122.2	Block	152	37,40,-1548
+123.2	Block	152	37,40,-1548
+124.2	Block	152	37,40,-1548
+126.7	Block	152	37,39,-1548
+127.7	Block	152	37,39,-1548
+129.6	Block	152	37,39,-1548
+130.6	Block	152	37,39,-1548
+#Left Alien Rotations
+1	Block	152	41,39,-1548
+34.9	Block	152	41,40,-1548
+36.9	Block	152	41,39,-1548
+41.9	Block	152	41,40,-1548
+43.9	Block	152	41,39,-1548
+48.9	Block	152	41,40,-1548
+50.9	Block	152	41,39,-1548
+60.5	Block	152	41,40,-1548
+63.5	Block	152	41,39,-1548
+74.9	Block	152	41,40,-1548
+78.9	Block	152	41,39,-1548
+87.9	Block	152	41,40,-1548
+93.9	Block	152	41,39,-1548
+104.9	Block	152	41,40,-1548
+111.9	Block	152	41,39,-1548
+125.9	Block	152	41,40,-1548
+130.9	Block	152	41,39,-1548
+145.9	Block	152	41,40,-1548
+157.9	Block	152	41,39,-1548
+169.9	Block	152	41,40,-1548
+176.9	Block	152	41,39,-1548
+#Oiled Myself Effect
+143.9	Particle	splash	40,44,-1557	.5	.5	.5	1	200
+#Flash
+83.5	Block	152	41,40,-1554
+84.5	Block	152	41,40,-1554
+85.5	Block	152	41,40,-1554
+86.5	Block	152	41,40,-1554
+87.5	Block	152	41,40,-1554
+#TpOut
+207	Block	152	46,36,-1546
+#Doors
+25	Block	152	37,40,-1545
+210	Block	0	37,40,-1545
+191	Block	0	51,44,-1557
+191	Block	0	50,44,-1557
+191	Block	0	49,44,-1557
+#Barrier Back
+207.5	Block	166	51,44,-1557
+207.5	Block	166	50,44,-1557
+207.5	Block	166	49,44,-1557

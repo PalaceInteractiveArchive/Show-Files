@@ -1,0 +1,152 @@
+Show	Location	-201,64,199
+Show	TextRadius	50
+Show	Name		CT
+
+0	AudioStart		swags
+0	AudioSync	swags	0
+2	AudioSync	swags	2
+5	AudioSync	swags	5
+10	AudioSync	swags	10
+20	AudioSync	swags	20
+30	AudioSync	swags	30
+60	AudioSync	swags	60
+120	AudioSync	swags	120
+180	AudioSync	swags	180
+240	AudioSync	swags	240
+300	AudioSync	swags	300
+360	AudioSync	swags	360
+420	AudioSync	swags	420
+480	AudioSync	swags	480
+540	AudioSync	swags	540
+600	AudioSync	swags	600
+660	AudioSync	swags	660
+720	AudioSync	swags	720
+780	AudioSync	swags	780
+840	AudioSync	swags	840
+850	AudioSync	swags	850
+
+#Text
+0.4		Text	&aAnd now, please join us
+2.4		Text	&aas &6Disney's Hollywood Studios &aproudly presents
+6.3		Text	&9&lStar Wars: A Galactic Spectacular!
+11.7	Text	&c1977, a triumphant year in screen history.
+17.9	Text	&cOn May 25, Star Wars premiered.
+24.1	Text	&cNow, more than fourty years later
+27.1	Text	&cStar Wars has reached every corner of the world
+31.3	Text	&cand across generations 
+33.9	Text	&cas the saga continues to transport audiences
+38.4	Text	&cwith the words...
+40.3	Text	&cA long time ago in a galaxy far, far away.
+47.2	Text	&8[&2Master Yoda&8] &2Through the force, things you will see,
+49.9	Text	&2other places, the future, the past, 
+53.9	Text	&2old friends long gone.
+56.6	Text	&2[&aLuke Skywalker&2] &aThe force is strong in my family.
+59.2	Text	&aMy father has it, but I have it.
+63.1	Text	&aMy sister has it.
+65.6	Text	&aYou have that &2&lpower &atoo.
+68.4	Text	&6[&eRey Skywalker&6] &eThere's stories about what happened.
+72.1	Text	&8[&7Han Solo&8] &7It's true, all of it.
+149		Text	&f[&5Princess Leia&f] &dHelp me, Obi-Wan Kenobi.
+151.1	Text	&dYou're my only hope.
+182.4	Text	&7We have incoming in 24-6.
+185.2	Text	&7A communications disruption could mean only one thing:
+188.2	Text	&9Invasion.
+189.2	Text	&7We have spotted imperial walkers.
+190.9	Text	&7Imperial walkers on the north ridge.
+193.5	Text	&7Echo Station 5-7, we're on our way.
+196.2	Text	&7Prepare to target the main generator.
+199.3	Text	&2[&aLuke Skywalker&2] &aWatch that crossfire, boys!
+219.9	Text	&7It's a trap!
+221.2	Text	&7I've got one behind me!
+223.4	Text	&7We're going to get hit!
+225.3	Text	&7This is it.
+226.4	Text	&7Draw their fire away from the cruisers.
+228.9	Text	&7We're in position.
+230.5	Text	&7We just lost R1.
+233.5	Text	&7Commence primary ignition.
+235.4	Text	&7Look at the size of that thing.
+237.9	Text	&7There's too many of them!
+242.1	Text	&8[&cGeneral Hux&8] &cToday is the end of the Republic.
+246.7	Text	&cAll remaining systems will bow to the First Order.
+267.1	Text	&5[&2Padmé Amidala&5] &2So this is how liberty dies...
+269.5	Text	&2With thunderous applause.
+277.1	Text	&8[&3Maz Kanata&8] &3Who are you?
+279.9	Text	&6[&eRey Skywalker&6] &eI'm no one.
+283.6	Text	&2[&aLuke Skywalker&2] &aWhere are you from?
+286.1	Text	&6[&eRey Skywalker&6] &eNowhere.
+306.7	Text	&eI need someone to show me my place in all this.
+313.5	Text	&2[&aLuke Skywalker&2] &aI wanna learn the ways of the Force and become a Jedi like my father.
+321.2	Text	&8[&2Yoda&8] &2Skywalker, still looking to the horizon?
+339.1	Text	&9[&bObi-Wan Kenobi&9] &bThat boy is our last hope.
+341.2	Text	&8[&2Yoda&8] &2No, there is another.
+344.3	Text	&f[&5Leia&f] &dThis is our rescue!
+347.2	Text	&dBut didn't you have a plan for getting out?
+349.3	Text	&2[&aAnakin Skywalker&2] &aYou call this a diplomatic solution?
+351.2	Text	&5[&2Padmé Amidala&5] &2No, I call it aggressive negotiations.
+354.7	Text	&8[&7Jyn Erso&8] &7This is a rebellion isn't it?
+359.5	Text	&7I rebel.
+387.4	Text	&6[C-3PO] &eSir, the possibility of successfully navigating an asteroid field 
+390.7	Text	&eis approximately 3,720 to 1.
+393.1	Text	&8[&7Han Solo&8] &7Never tell me the odds.
+399		Text	&2[&aLuke Skywalker&2] &aI got him!
+399.8	Text	&8[&7Han Solo&8] &7Great kid! Don't get cocky!
+414.5	Text	&6[&eRey Skywalker&6] &eWhoo! I like this!
+419.4	Text	&8[&cKylo Ren&8] &cBlow that piece of junk out of the sky!
+488.5	Text	&9[&bObi-Wan Kenobi&9] &bWell, the Force is what gives a Jedi his power.
+491.6	Text	&bIt’s an energy field created by all living things.
+495		Text	&bIt surrounds us, penetrates us, it binds the galaxy together.
+501.6	Text	&8[&2Yoda&8] &2Do or do not. There is no try.
+513		Text	&2[&aLuke Skywalker&2] &aReach out. What do you see?
+529.1	Text	&f[&5Leia&f] &dI love you.
+531.6	Text	&8[&7Han Solo&8] &7I know.
+553		Text	&2[&aLuke Skywalker&2] &aI won't fail you. I'm not afraid.
+557.8	Text	&8[&2Yoda&8] &2You will be. &2&oYou will be.
+567		Text	&9[&bObi-Wan Kenobi&9] &bYou were the chosen one!
+570.4	Text	&bIt was said that you would destroy the Sith, not join them.
+574.5	Text	&bBring balance to the force, not leave it in darkness.
+580		Text	&bYou were my brother, Anakin! I loved you.
+586.6	Text	&8[&9Palpatine&8] &8Darth Vader.
+588.8	Text	&8Rise.
+599.7	Text	&0[&4Darth Vader&0] &4The Force is with you young Skywalker.
+611.9	Text	&4But you are not a Jedi yet. 
+615.7	Text	&2[&aAnakin Skywalker&2] &aNooooooooooo... Nooooooooooo...
+619.7	Text	&8[&cDarth Maul&8] &cAt last we will reveal ourselves to the Jedi.
+624.2	Text	&cAt last we will have our revenge.
+643.2	Text	&8[&9Palpatine&8] &8Unlimited power!
+655		Text	&4[&cSupreme Leader Snoke&4] &cDarkness rises and light to meet it.
+682.1	Text	&2[&aLuke Skywalker&2] &aConfronting fear is the destiny of a Jedi.
+688.8	Text	&aYour destiny.
+692.6	Text	&7Lock S-foils in attack position.
+695.4	Text	&7Red 5 standing by, stay on target.
+698.2	Text	&7We're passing through their magnetic field.
+699.9	Text	&7Hold Tight.
+700.4	Text	&7This is Red-5, I'm going in!
+703.6	Text	&7Watch it, you've got one on your tail.
+705.1	Text	&7They're coming in!
+706.4	Text	&73 Marks at 2-10.
+709.3	Text	&f[&6Poe Dameron&f] &6Hit the target hard, give it everything you got!
+712.8	Text	&7All clear.
+713.4	Text	&f[&6Poe Dameron&f] &6I'm going in! Pull up and cover me!
+716.1	Text	&7Copy that, Black Leader! Good luck, Poe!
+839.2	Text	&9[&bObi-Wan Kenobi&9] &bThe Force will be with you.
+842.1	Text	&bAlways.
+848.9	Text	&aThank you for joining us for &9&lStar Wars: A Galactic Spectacular&a!
+853.7	Text	&aNow please make sure to gather all of your belongings,
+856.4	Text	&aand enjoy the rest of your evening here at &6Disney's Hollywood Studios&a!
+861		Text	&6Brought to you by:
+862		Text	&6Plugin by -- &dPalace Development Team.
+863		Text	&6Developed by -- &dSteven_Davison, halofreak894 & Mavly.
+864		Text	&6And, of course the Palace - Family of Servers!
+
+
+
+
+
+
+
+
+
+
+
+
+

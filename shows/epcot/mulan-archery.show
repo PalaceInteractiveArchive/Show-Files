@@ -1,0 +1,64 @@
+Show	Location	-1423,103,3898
+Show	TextRadius	2
+
+#Text
+0   Text    &r[&c&lLi Shang&r] &eAttention warrior! Today I will teach you archery. Listen at ALL times.
+3   Text    &eNow, check that two slots in your inventory is empty.
+6   Text    &eGood, you will have 20 seconds to shoot an arrow to the target, that's lighting up now.
+8   Text    &cOn your marks,
+9   Text    &eGet set
+10  Text    &aGo!
+15  Text    &e15 seconds warrior!
+20  Text    &e10 seconds warrior!
+25  Text    &e5
+26  Text    &e4
+27  Text    &e3
+28  Text    &e2
+29  Text    &e1
+30  Text    &eNice job warrior, make sure to do as good as you did here on the rest of the training coure.
+
+
+#Light up (6)
+6.0 Block   152 -1402,98,3892
+6.5 Block   0   -1402,98,3892
+7.0 Block   152 -1402,98,3892
+7.5 Block   0   -1402,98,3892
+
+6.0 Block   159:4   -1404,96,3892
+6.0 Block   159:4   -1404,97,3891
+6.0 Block   159:4   -1404,98,3892
+6.0 Block   159:4   -1404,97,3893
+
+6.5 Block   159:14  -1404,96,3892
+6.5 Block   159:14  -1404,97,3891
+6.5 Block   159:14  -1404,98,3892
+6.5 Block   159:14  -1404,97,3893
+
+7.0 Block   159:4   -1404,96,3892
+7.0 Block   159:4   -1404,97,3891
+7.0 Block   159:4   -1404,98,3892
+7.0 Block   159:4   -1404,97,3893
+
+7.5 Block   159:14  -1404,96,3892
+7.5 Block   159:14  -1404,97,3891
+7.5 Block   159:14  -1404,98,3892
+7.5 Block   159:14  -1404,97,3893
+
+#Grant Bow
+10  Block   152 -1407,89,3894
+#Grant Arrow 
+10  Block   152 -1407,89,3896
+
+#TP
+35  Block   152 -1407,89,3898
+
+#Remove items
+30  Block   152 -1409,89,3893
+30  Block   152 -1411,89,3893
+
+#Light up target
+10  Block   152 -1402,98,3892
+30  Block   0   -1402,98,3892
+
+#Reset
+30  Block   152 -1409,89,3899

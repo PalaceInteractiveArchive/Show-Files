@@ -1,0 +1,36 @@
+Show	Location	-90,43,-1441
+Show	TextRadius	125
+Show    Name    Parade
+#Audio
+0   AudioStart  msep_pre
+120 AudioSync   msep_pre    120
+#Mainstreet/Show start/Harold Remove
+0   Block   152 -105,51,-1396
+0   Block   152 -102,49,-1405
+1   Block   152 -90,35,-1328
+600	Block	152	-113,48,-1411
+#Time system
+0	Block	35	-122,53,-1400
+600	Block	152	-123,53,-1401
+601	Block	20	-123,53,-1401
+#Merch Carts
+90  Block   152 -87,37,-1377
+240 Block   152 -90,37,-1380
+360 Block   152 -83,37,-1380
+#Text
+0	Text	&6Ladies and gentlemen, boys and girls, in just &c10 Minutes&6, &dThe Palace Network &6will proudly present &eDisney`s &cM&6a&ei&an&2s&9t&dr&5e&ce&6t &eE&al&2e&9c&dt&5r&ci&6c&ea&al &2P&9a&dr&5a&cd&6e&e! &6at /warp mainstreet.
+300	Text	&6Ladies and gentlemen, boys and girls, in just &c5 Minutes&6, &dThe Palace Network &6will proudly present &eDisney`s &cM&6a&ei&an&2s&9t&dr&5e&ce&6t &eE&al&2e&9c&dt&5r&ci&6c&ea&al &2P&9a&dr&5a&cd&6e&e! &6at /warp mainstreet.
+300 Block   152 -129,46,-1415
+60	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+180	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+360	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+420	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+480	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+540	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+580	Text	&6Hear the Show music with &dThe Palace Network's &6Audio Server just type &a/audio
+#/b
+0	Block	152	-129,46,-1414
+270	Block	152	-129,46,-1415
+450	Block	152	-129,46,-1416

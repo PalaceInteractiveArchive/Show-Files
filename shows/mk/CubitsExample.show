@@ -1,0 +1,357 @@
+Show    Location    -90,44,-1550
+Show    TextRadius  50
+Show    Name    Castle
+
+#Audio
+0	AudioStart	cubits
+2	AudioSync	cubits	2
+
+#Text
+07.3    Text    &f[&4&lSinger&r&f]&c Mm, you can run away from it all
+10.7    Text    &cBut like a boomerang
+12.5    Text    &cIt'll all come back
+16.4    Text    &cYou can hang on until you fall
+18.3    Text    &cBut even when you land
+20.2    Text    &cYou'll be on your back
+24.0    Text    &cLike mannequins all draped in designers
+28.3    Text    &cHave we forgotten where we come from?
+31.6    Text    &cWith bottled hopes and dreams and desires
+35.8    Text    &cMust have forgotten that
+37.7    Text    &cWe got bills to pay
+39.9    Text    &cWe got rules to break
+41.7    Text    &cWe got risks to take
+43.7    Text    &cWe got things to say
+45.6    Text    &cNo one ever said
+47.5    Text    &cIt would be okay
+49.4    Text    &cBut we'll find a way
+51.3    Text    &cWhen there's love
+52.7    Text    &cAnd we got love
+59.4    Text    &cYeah, it's okay 'cause we got love
+67.1    Text    &cYeah, it's okay 'cause we got love
+72.9    Text    &cOh-oh
+74.8    Text    &cYeah, it's okay 'cause we got love
+
+#Blocks
+
+01.0    Block   1  -90,44,-1599
+01.0    Block   1  -94,44,-1600
+01.0    Block   1  -86,44,-1600
+01.0    Block   1  -90,44,-1603
+01.0    Block   1  -86,44,-1600
+01.0    Block   1  -96,46,-1605
+01.0    Block   1  -83,47,-1606
+
+04.6    Block   0   -77,38,-1621
+05.0    Block   0   -75,38,-1621
+05.5    Block   0   -103,38,-1621
+05.9    Block   0   -105,38,-1621
+
+07.8    Block   159:13   -77,38,-1621
+07.8    Block   159:13   -75,38,-1621
+07.8    Block   159:13   -103,38,-1621
+07.8    Block   159:13   -105,38,-1621
+
+38.7    Block   0   -77,38,-1621
+38.7    Block   0   -75,38,-1621
+38.7    Block   0   -103,38,-1621
+38.7    Block   0   -105,38,-1621
+
+38.7    Block   95:14   -77,37,-1621
+38.7    Block   95:14   -75,37,-1621
+38.7    Block   95:14   -103,37,-1621
+38.7    Block   95:14   -105,37,-1621
+
+39.9    Block   95:9    -77,37,-1621
+39.9    Block   95:9    -75,37,-1621
+39.9    Block   95:9    -103,37,-1621
+39.9    Block   95:9    -105,37,-1621
+
+41.7    Block   95:5    -77,37,-1621
+41.7    Block   95:5    -75,37,-1621
+41.7    Block   95:5    -103,37,-1621
+41.7    Block   95:5    -105,37,-1621
+
+43.6    Block   95:10   -77,37,-1621
+43.6    Block   95:10   -75,37,-1621
+43.6    Block   95:10   -103,37,-1621
+43.6    Block   95:10   -105,37,-1621
+
+45.6    Block   95:1    -77,37,-1621
+45.6    Block   95:1    -75,37,-1621
+45.6    Block   95:1    -103,37,-1621
+45.6    Block   95:1    -105,37,-1621
+
+47.5    Block   95:9    -77,37,-1621
+47.5    Block   95:9    -75,37,-1621
+47.5    Block   95:9    -103,37,-1621
+47.5    Block   95:9    -105,37,-1621
+
+49.4    Block   159:13   -77,38,-1621
+49.4    Block   159:13   -75,38,-1621
+49.4    Block   159:13   -103,38,-1621
+49.4    Block   159:13   -105,38,-1621
+
+51.4    Block   0   -77,38,-1621
+51.4    Block   0   -75,38,-1621
+51.4    Block   0   -103,38,-1621
+51.4    Block   0   -105,38,-1621
+
+51.4    Block   20  -77,37,-1621
+51.4    Block   20  -75,37,-1621
+51.4    Block   20  -103,37,-1621
+51.4    Block   20  -105,37,-1621
+
+52.8    Block   95:14   -77,37,-1621
+52.8    Block   95:14   -75,37,-1621
+52.8    Block   95:14   -103,37,-1621
+52.8    Block   95:14   -105,37,-1621
+
+54.0    Block   0   -75,38,-1621
+54.0    Block   159:13   -77,38,-1621
+54.0    Block   159:13   -103,38,-1621
+54.0    Block   159:13   -105,38,-1621
+
+54.3    Block   159:13  -75,38,-1621
+54.3    Block   0   -77,38,-1621
+
+54.6    Block   159:13  -77,38,-1621
+54.6    Block   0   -103,38,-1621
+
+54.9    Block   159:13  -103,38,-1621
+54.9    Block   0   -105,38,-1621
+
+55.2    Block   159:13  -105,38,-1621
+55.2    Block   0   -75,38,-1621
+
+55.5    Block   159:13  -75,38,-1621
+55.5    Block   0   -77,38,-1621
+
+55.7    Block   159:13  -77,38,-1621
+55.7    Block   0   -103,38,-1621
+
+56.0    Block   159:13  -103,38,-1621
+56.0    Block   0   -105,38,-1621
+
+56.3    Block   159:13  -105,38,-1621
+56.3    Block   0   -75,38,-1621
+
+56.6    Block   159:13  -75,38,-1621
+56.6    Block   0   -77,38,-1621
+
+56.9    Block   159:13  -77,38,-1621
+56.9    Block   0   -103,38,-1621
+
+57.2    Block   159:13  -103,38,-1621
+57.2    Block   0   -105,38,-1621
+
+57.5    Block   159:13  -105,38,-1621
+57.5    Block   0   -75,38,-1621
+
+57.7    Block   159:13  -75,38,-1621
+57.7    Block   0   -77,38,-1621
+
+58.0    Block   159:13  -77,38,-1621
+58.0    Block   0   -103,38,-1621
+
+58.3    Block   159:13  -103,38,-1621
+58.3    Block   0   -105,38,-1621
+
+58.5    Block   159:13   -75,38,-1621
+58.5    Block   159:13   -77,38,-1621
+58.5    Block   159:13   -103,38,-1621
+58.5    Block   159:13   -105,38,-1621
+
+62.0    Block   0   -75,38,-1621
+62.0    Block   159:13   -77,38,-1621
+62.0    Block   159:13   -103,38,-1621
+62.0    Block   159:13   -105,38,-1621
+
+62.3    Block   159:13  -75,38,-1621
+62.3    Block   0   -77,38,-1621
+
+62.6    Block   159:13  -77,38,-1621
+62.6    Block   0   -103,38,-1621
+
+62.9    Block   159:13  -103,38,-1621
+62.9    Block   0   -105,38,-1621
+
+63.2    Block   159:13  -105,38,-1621
+63.2    Block   0   -75,38,-1621
+
+63.5    Block   159:13  -75,38,-1621
+63.5    Block   0   -77,38,-1621
+
+63.7    Block   159:13  -77,38,-1621
+63.7    Block   0   -103,38,-1621
+
+64.0    Block   159:13  -103,38,-1621
+64.0    Block   0   -105,38,-1621
+
+64.3    Block   159:13  -105,38,-1621
+64.3    Block   0   -75,38,-1621
+
+64.6    Block   159:13  -75,38,-1621
+64.6    Block   0   -77,38,-1621
+
+64.9    Block   159:13  -77,38,-1621
+64.9    Block   0   -103,38,-1621
+
+65.2    Block   159:13  -103,38,-1621
+65.2    Block   0   -105,38,-1621
+
+65.5    Block   159:13  -105,38,-1621
+65.5    Block   0   -75,38,-1621
+
+65.7    Block   159:13  -75,38,-1621
+65.7    Block   0   -77,38,-1621
+
+66.0    Block   159:13  -77,38,-1621
+66.0    Block   0   -103,38,-1621
+
+66.3    Block   159:13  -103,38,-1621
+66.3    Block   0   -105,38,-1621
+
+66.6    Block   159:13   -75,38,-1621
+66.6    Block   159:13   -77,38,-1621
+66.6    Block   159:13   -103,38,-1621
+66.6    Block   159:13   -105,38,-1621
+
+77.0    Block   0   -75,38,-1621
+77.0    Block   159:13   -77,38,-1621
+77.0    Block   159:13   -103,38,-1621
+77.0    Block   159:13   -105,38,-1621
+
+77.3    Block   159:13  -75,38,-1621
+77.3    Block   0   -77,38,-1621
+
+77.6    Block   159:13  -77,38,-1621
+77.6    Block   0   -103,38,-1621
+
+77.9    Block   159:13  -103,38,-1621
+77.9    Block   0   -105,38,-1621
+
+78.2    Block   159:13  -105,38,-1621
+78.2    Block   0   -75,38,-1621
+
+78.5    Block   159:13  -75,38,-1621
+78.5    Block   0   -77,38,-1621
+
+78.7    Block   159:13  -77,38,-1621
+78.7    Block   0   -103,38,-1621
+
+79.0    Block   159:13  -103,38,-1621
+79.0    Block   0   -105,38,-1621
+
+79.3    Block   159:13  -105,38,-1621
+79.3    Block   0   -75,38,-1621
+
+79.6    Block   159:13  -75,38,-1621
+79.6    Block   0   -77,38,-1621
+
+79.9    Block   159:13  -77,38,-1621
+79.9    Block   0   -103,38,-1621
+
+80.2    Block   159:13  -103,38,-1621
+80.2    Block   0   -105,38,-1621
+
+80.5    Block   159:13  -105,38,-1621
+80.5    Block   0   -75,38,-1621
+
+80.7    Block   159:13  -75,38,-1621
+80.7    Block   0   -77,38,-1621
+
+81.0    Block   159:13  -77,38,-1621
+81.0    Block   0   -103,38,-1621
+
+81.3    Block   159:13  -103,38,-1621
+81.3    Block   0   -105,38,-1621
+
+81.6    Block   159:13  -105,38,-1621
+81.6    Block   0   -75,38,-1621
+
+81.9    Block   159:13  -75,38,-1621
+81.9    Block   0   -77,38,-1621
+
+82.3    Block   159:13  -77,38,-1621
+82.3    Block   0   -103,38,-1621
+
+82.5    Block   159:13  -103,38,-1621
+82.5    Block   0   -105,38,-1621
+
+82.8    Block   159:13   -75,38,-1621
+82.8    Block   159:13   -77,38,-1621
+82.8    Block   159:13   -103,38,-1621
+82.8    Block   159:13   -105,38,-1621
+
+#Fireworks
+Effect  SmallStart  BALL,255;255;255,FLICKER
+Effect  BlueTrail BURST,255;255;255&BLUE,TRAIL
+Effect  BigBlue BALL_LARGE,255;255;255&TEAL
+Effect  BigRed  BALL_LARGE,255;255;255&RED&WHITE,FLICKER
+Effect  LilRed  BALL,255;255;255&WHITE&RED
+Effect  RedTrail    BURST,255;255;255&RED&WHITE,TRAIL 
+
+#FireworksLaunch
+13.4    PowerFirework   -90,95,-1618.4  SmallStart  0,1,0
+15.1    PowerFirework   -90,74,-1613    BlueTrail   0,4,0
+15.1    PowerFirework   -111,61,-1595   BlueTrail   0,4,0
+15.1    PowerFirework   -69,61,-1595    BlueTrail   0,4,0
+15.1    PowerFirework   -90,45,-1598    RedTrail    0,3,3
+21.3    PowerFirework   -119,103,-1632  BigBlue 0,1,0
+21.8    PowerFirework   -88,103,-1632  BigBlue 0,1,0
+22.4    PowerFirework   -62,103,-1632  BigBlue 0,1,0
+27.0    PowerFirework   -89,97,-1625    BlueTrail   0,2,3
+34.9    PowerFirework   -88,111,-1629   SmallStart 0,1,0
+53.7    PowerFirework   -89,74,-1614    BigRed  1,1,0
+58.3    PowerFirework   -62,103,-1632  LilRed   0,1,0
+58.7    PowerFirework   -88,103,-1632  LilRed   0,1,0
+59.3    PowerFirework   -119,103,-1632  LilRed  0,1,0
+61.7    PowerFirework   -89,97,-1625    BlueTrail  0,2,3
+63.6    PowerFirework   -89,97,-1625    BlueTrail  0,2,3 
+66.0    PowerFirework   -62,103,-1632  LilRed   0,1,0
+66.4    PowerFirework   -88,103,-1632  LilRed   0,1,0
+67.0    PowerFirework   -119,103,-1632  LilRed  0,1,0
+69.4    PowerFirework   -89,74,-1614    BigRed  1,1,0
+70.3    PowerFirework   -62,103,-1632   RedTrail  -1,1,0
+71.9    PowerFirework   -119,103,-1632   RedTrail  1,1,0
+72.9    PowerFirework   -62,103,-1632   RedTrail  -1,1,0
+73.9    PowerFirework   -119,103,-1632   RedTrail  1,1,0
+74.9    PowerFirework   -62,103,-1632   RedTrail  -1,1,0
+75.9    PowerFirework   -119,103,-1632   RedTrail  1,1,0
+84.2    PowerFirework   -89,74,-1614    BigRed  1,1,0
+
+#Glow with Show
+#Linked up with the beacons.
+38.7    Glow    172,0,0 -90,44,-1550    30
+39.9    Glow    0,109,172   -90,44,-1550    30
+41.7    Glow    55,252,133  -90,44,-1550    30
+43.6    Glow    120,55,252  -90,44,-1550    30
+45.6    Glow    235,134,18  -90,44,-1550    30
+47.5    Glow    0,109,172   -90,44,-1550    30
+52.8    Glow    172,0,0 -90,44,-1550    30
+85.0    GlowDone
+
+
+
+#Cleanup Below:
+
+#Beacon Glass
+85.0    Block   95:3    -77,37,-1621
+85.0    Block   95:3    -75,37,-1621
+85.0    Block   95:3    -103,37,-1621
+85.0    Block   95:3    -105,37,-1621
+
+#Beacon Cover
+85.0    Block   159:13   -77,38,-1621
+85.0    Block   159:13   -75,38,-1621
+85.0    Block   159:13   -103,38,-1621
+85.0    Block   159:13   -105,38,-1621
+
+#Stage Lights
+85.0    Block   89  -90,44,-1599
+85.0    Block   89  -94,44,-1600
+85.0    Block   89  -86,44,-1600
+85.0    Block   89  -90,44,-1603
+85.0    Block   89  -86,44,-1600
+85.0    Block   89  -96,46,-1605
+85.0    Block   89  -83,47,-1606

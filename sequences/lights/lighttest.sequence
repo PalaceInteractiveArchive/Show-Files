@@ -1,0 +1,6 @@
+Sequence	Light
+#Define				
+EnderCrystal	bl5	Actual
+0	bl5	Spawn	-109,92.2,-1577.8	-157,57,-1684
+0.9	bl5	Move	-158.5,103.4,-1621.9	0.7	
+2.3	bl5	Despawn

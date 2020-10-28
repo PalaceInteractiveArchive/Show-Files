@@ -1,0 +1,234 @@
+Show	Location	-257,64,163
+Show	TextRadius	50
+#Audio
+0	Block	152	-265,61,164
+#Text
+#Preshow
+.1	Text	&eWelcome to &6&lVoyage &a&lof the &9&lLittle Mermaid&e -- Because of the special effects involved in the show, we ask that you please remain seated throughout the entire performance.
+8.5	Text	&eFor the safety of our performers on stage, we also ask that you refrain from using all flash photography.
+14.4	Text	&eHigh-speed film or video cameras with no lights are fine, but please, no flash photography.
+20.3	Text	&eAnd now, &6Disney's Hollywood Studios &epresents:
+24.4	Text	&6&lVoyage &a&lof the &9&lLittle Mermaid&e
+#Mainshow
+133.4	Text	&f[&c&lSebastian&f] &e(laughs) De human world! It's a mess. 
+137	Text	&eLife under de sea is better dan anything dey got up dere.
+142.5	Text	&eDe seaweed is always &2greener 
+144.8	Text	&eIn somebody else's lake 
+147.2	Text	&eYou dream about going up dere 
+149.6	Text	&eBut dat is a big mistake 
+152.1	Text	&eJust look at de world around you 
+154.4	Text	&eRight here on de &bocean &efloor 
+156.8	Text	&eSuch wonderful dings surround you 
+159.2	Text	&eWhat more is you lookin' for? 
+161.9	Text	&aUnder de sea 
+164.3	Text	&aUnder de sea 
+166.8	Text	&eDarling it's better 
+167.9	Text	&eDown where it's wetter 
+169.1	Text	&eTake it from me 
+171.5	Text	&eUp on de shore dey work all day 
+174	Text	&eOut in de sun dey slave away 
+176.3	Text	&eWhile we devotin' 
+177.6	Text	&eFull time to floatin' 
+178.9	Text	&aUnder de sea 
+184.5	Text	&eDown here all de fish is happy 
+186.8	Text	&eAs off through de waves dey roll 
+189.1	Text	&eDe fish on de land ain't happy 
+191.7	Text	&eDey sad 'cause dey in deir bowl 
+194.1	Text	&eBut fish in de bowl is lucky 
+196.4	Text	&eDey in for a worser fate 
+198.9	Text	&eOne day when de boss get hungry 
+201.9	Text	&f[&9&lFish&f] &3Guess who's goin' be on de plate
+204	Text	&f[&c&lSebastian&f] &aUnder de sea
+206.2	Text	&aUnder de sea
+208.6	Text	&eNobody beat us 
+209.9	Text	&eFry us and eat us 
+211.2	Text	&eIn fricassee 
+213.4	Text	&eWe what de land folks love to cook 
+215.8	Text	&eUnder de sea we off de hook 
+218.3	Text	&eWe got no troubles 
+219.5	Text	&eLife is de bubbles 
+220.8	Text	&aUnder de sea 
+221.7	Text	&6Under de sea 
+223	Text	&aUnder de sea 
+224	Text	&6Under de sea 
+225.3	Text	&eSince life is sweet here 
+226.7	Text	&eWe got de beat here 
+227.8	Text	&eNaturally
+230.3	Text	&eEven de sturgeon an' de ray 
+232.8	Text	&eDey get de urge 'n' start to play 
+235	Text	&eWe got de spirit 
+235.2	Text	&eYou got to hear it 
+237.4	Text	&aUnder de sea 
+239.6	Text	&eHa! 
+240.3	Text	&eDe newt play de flute 
+241.4	Text	&eDe carp play de harp 
+242.7	Text	&eDe plaice play de bass 
+243.9	Text	&eAnd dey soundin' sharp 
+245.1	Text	&eDe bass play de brass 
+246.2	Text	&eDe chub play de tub 
+247.5	Text	&eDe fluke is de duke of soul 
+249.5	Text	&f[&9&lFluke&f] &3Yeah!
+249.7	Text	&f[&c&lSebastian&f] &eDe ray he can play 
+251	Text	&eDe ling's on de strings 
+252.2	Text	&eDe trout rockin' out 
+253.5	Text	&eDe blackfish he sings 
+254.7	Text	&eDe smelt and de sprat 
+255.8	Text	&eDey know where it's at 
+257.1	Text	&eAn' oh, dat blowfish BLOW! 
+285.4	Text	&aUnder de sea 
+286.4	Text	&6Under de sea
+287.7	Text	&aUnder de sea 
+288.8	Text	&6Under de sea 
+290	Text	&eWhen de sardine 
+291.2	Text	&eBegin de beguine 
+292.4	Text	&eIt's music to me 
+295	Text	&eWhat do dey got? A lot of sand 
+297.2	Text	&eWe got a hot crustacean band 
+299.8	Text	&eEach little clam here 
+301	Text	&eknow how to jam here 
+302.1	Text	&aUnder de sea
+304.5	Text	&eEach little slug here 
+305.8	Text	&eCuttin' a rug here 
+306.9	Text	&aUnder de sea
+309.1	Text	&eEach little snail here 
+310.4	Text	&eKnow how to wail here 
+311.7	Text	&eDat's why it's hotter 
+313	Text	&eUnder de water 
+314.1	Text	&eYeah, we in luck here 
+315.3	Text	&eDown in de muck here 
+316.5	Text	&a&lUnder de sea!
+356	Text	&f[&6&lKing Triton&f] &9Ariel! 
+357	Text	&3You went up to the surface again, didn't you?
+359.5	Text	&eDidn't you?
+360.1	Text	&f[&9&lAriel&f] &aDaddy, I'm sixteen years old, I'm not a child.
+362.6	Text	&f[&6&lKing Triton&f] &3Don't you take that tone of voice with me young lady!
+364.9	Text	&3As long as you live under my &bocean, &3you will obey my rules.
+368.4	Text	&f[&9&lAriel&f] &aBut if you would just-
+369.3	Text	&f[&6&lKing Triton&f] &3I am never, never to hear of you going to the surface again, is that clear?
+377.5	Text	&f[&9&lAriel&f] &aIf I could just make him understand!
+380	Text	&aI just don't see things the way he does.
+383.6	Text	&aMaybe they're right. 
+385.3	Text	&aMaybe there is something wrong with me, but I just don't see how a world that makes such wonderful things could be bad.
+395.5	Text	&aLook at this stuff
+396.9	Text	&aIsn't it neat?
+398.5	Text	&aWouldn't you think my collection's complete?
+402	Text	&aWouldn't you think I'm the girl,
+404.3	Text	&athe girl who has everything?
+408.1	Text	&aLook at this trove
+409.6	Text	&aTreasures untold
+411.4	Text	&aHow many wonders can one cavern hold?
+414.9	Text	&aLooking around here you think
+416.8	Text	&aSure, she's got everything
+420.3	Text	&aI've got gadgets and gizmos a-plenty
+423.5	Text	&aI've got whozits and whatzits galore
+426.6	Text	&aYou want thingamabobs?
+428.3	Text	&aI've got twenty!
+429.9	Text	&aBut who cares?
+431.5	Text	&aNo big deal
+433.6	Text	&aI want more!
+442.9	Text	&aI wanna be where the people are
+447	Text	&aI wanna see, wanna see them dancing'
+450.2	Text	&aWalking around on those - what do you call 'em?
+454	Text	&aOh - feet!
+457.3	Text	&aFlippin' your fins, you don't get too far
+460.7	Text	&aLegs are required for jumping, dancing
+464.5	Text	&aStrolling along down a - what's that word again?
+468.3	Text	&aStreet!
+470.7	Text	&aUp where they walk, up where they run
+474.3	Text	&aUp where they stay all day in the sun
+477.8	Text	&aWanderin' free - wish I could be
+482	Text	&9Part of that world
+485.3	Text	&aWhat would I give if I could live out of these waters?
+491.6	Text	&aWhat would I pay to spend a day warm on the sand?
+498.1	Text	&aBet'cha on land they understand
+501	Text	&aBet they don't reprimand their daughters
+505.4	Text	&aBright young women sick of swimming
+509.2	Text	&aReady to stand!
+514.5	Text	&aAnd ready to know what the people know
+518.2	Text	&aAsk 'em my questions and get some answers
+522.4	Text	&aWhat's a fire and why does it - what's the word?
+526.2	Text	&aBurn?
+528.6	Text	&aWhen's it my turn?
+530.7	Text	&aWouldn't I love, love to explore that shore up above?
+540	Text	&aOut of the sea
+544.5	Text	&aWish I could be
+549.8	Text	&9&lPart of your world!
+579.6	Text	&f[&3&lFlotsam&f] &ePoor child.
+581.6	Text	&f[&3&lJetsam&f] &ePoor, sweet child.
+583.6	Text	&f[&3&lFlotsam&f] &eShe has a very serious problem. 
+587.1	Text	&f[&3&lJetsam&f] &eIf only there were something we could do. 
+590.8	Text	&f[&3&lFlotsam&f] &eBut there &ois &r&esomething
+604.7	Text	&f[&9&lUrsula&f] &3Now, now, angelfish, the solution to your problem is quite simple.
+612.2	Text	&3The only way to get what you want is to become human yourself. 
+618.8	Text	&f[&9&lAriel&f] &aCan you &odo &r&athat?
+620.1	Text	&f[&9&lUrsula&f] &3Oh, my dear sweet child, that's what I do.
+624.1	Text	&3It's what I &olive &r&3for.
+626.7	Text	&3To help unfortunate merfolk like yourself. 
+631.1	Text	&3Poor souls with no one else to turn to. 
+635.7	Text	&3I'll make a potion that will turn you into a human for three days.
+640.9	Text	&3If he kisses you before sunset on the third day, you'll remain human permanently
+647.3	Text	&3But if he doesn't, you turn back into a mermaid, and you belong to me.
+654	Text	&3Have we got a deal? 
+656.2	Text	&f[&9&lAriel&f] &aIf I become human, I'll never be with my father or sisters again. 
+660.3	Text	&f[&9&lUrsula&f] &3That's right. 
+661.7	Text	&3But you'll have your man.
+663.8	Text	&3Life's full of tough choices, innit? 
+668	Text	&3Oh! Oh, and there is one more thing, sweetcakes. 
+672.1	Text	&3No more talking, singing, zip. 
+676	Text	&f[&9&lAriel&f] &aWithout my voice... how can I -- 
+677.6	Text	&f[&9&lUrsula&f] &3You'll have your looks! 
+679	Text	&3Your pretty face!
+680.7	Text	&3And don't underestimate the importance of... body language! 
+685.8	Text	&3Come on, you poor unfortunate soul 
+689.9	Text	&3Go ahead! 
+691.2	Text	&3Make your choice! 
+692.8	Text	&3I'm a very busy woman 
+694.1	Text	&3And I haven't got all day 
+695.6	Text	&3It won't cost much 
+696.9	Text	&3Just your voice! 
+698.4	Text	&3You poor unfortunate soul 
+701.1	Text	&3It's sad
+702.5	Text	&3But true
+704	Text	&3If you want to cross a bridge, my sweet 
+705.6	Text	&3You've got to pay the toll 
+706.9	Text	&3Take a gulp and take a breath 
+708.1	Text	&3And go ahead and sign the scroll! 
+709.8	Text	&3Flotsam, Jetsam, now I've got her, boys 
+711.9	Text	&3The boss is on a roll 
+715.8	Text	&3This poor unfortunate sooooooooooooul. 
+726.2	Text	&3Beluga, Sevruga, come winds of the Caspian Sea. 
+731.8	Text	&3Larynxis, glossitis, et max laryngitis, 
+734.8	Text	&3La voce to me! 
+738	Text	&3Now . . . sing! 
+743	Text	&3Keep singing!
+753	Text	&3Sing!
+761.1	Text	&3Sing!
+765.5	Text	&3Sing!
+800	Text	&3Now I am the ruler of all the &bocean&3!
+804.5	Text	&3The waves obey my every whim!
+807.7	Text	&3The sea and all its spoils bow to my power! 
+853	Text	&f[&9&lAriel&f] &aWhat would I give 
+854.7	Text	&aTo live where you are? 
+857.5	Text	&aWhat would I pay 
+859.1	Text	&aTo stay here beside you? 
+862.4	Text	&aWhat would I do 
+864	Text	&aTo have you here, smiling at me? 
+873.8	Text	&f[&6&lKing Triton&f] &3She really does love him, doesn't she, &cSebastian? 
+878	Text	&f[&c&lSebastian&f] &eHmmm, it's like I always say, your majesty;
+891.9	Text	&eChildren got to be free to lead deir own lives. 
+896	Text	&f[&6&lKing Triton&f] &3Then I guess there's just one problem left. 
+899.1	Text	&f[&c&lSebastian&f] &eHAnd what's dat, your majesty?
+901.8	Text	&f[&6&lKing Triton&f] &3How much I'm going to miss her. 
+922	Text	&f[&b&lPrince Eric&f] &9Ariel?
+923	Text	&f[&9&lAriel&f] &bEric!
+925	Text	&f[&a&lPrince Eric&f] &bYou can talk!
+926.9	Text	&bYou're the one!
+928.1	Text	&bIt was you all the time!
+957	Text	&eWe hoped you have enjoyed: &6&lVoyage &a&lof the &9&lLittle Mermaid&e.  
+961.7	Text	&ePlease gather all of your personal belongings and exit through the doors on your left.
+966.7	Text	&eHave a wonderful day here at &6Disney's Hollywood Studios&e.
+#Credits
+970	Text	&6Brought to you by:
+#973	Text	&eXavier9214 and Zafacon2
+976	Text	&6Plugin by -- &dChiss and the MCMagic Dev Team
+979	Text	&6And of course, the &bMCMagic Parks Family!

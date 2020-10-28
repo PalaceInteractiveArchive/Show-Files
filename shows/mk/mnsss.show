@@ -1,0 +1,296 @@
+Show	Location	-90,43,-1550
+Show	TextRadius	250
+#Show	Name	Castle
+
+#Stop	#	Daylight true
+764.5	Pulse	-103,29,-1611
+#	hub/cast/turret/stage lights
+#769.5	Pulse	-99,28,-1611
+#777	Pulse	-96,30,-1611
+#772	Pulse	-96,28,-1611
+#774.5	Pulse	-93,28,-1611
+#	Cast Audio
+#775	Pulse	-96,29,-1611
+#	Fence
+775	Pulse	-89,28,-1611
+#	Chatmute
+#773	Pulse	-87,29,-1612
+#Vip area	775	Pulse	-81,28,-1611
+#Particles/fountains
+764.5	Block	5:1	-68,53,-1466
+#824
+770	Block	35	-71,38,-1516
+#0	Text	4
+
+#CompleteReset1355	Block	152	-93,24,-1595
+
+
+#Moneys	
+#300	Pulse	-84,28,-1611
+#
+#600	Pulse	-84,28,-1611
+#	
+#800	Pulse	-84,28,-1611
+#0	Text	5
+#FX	0,	124.1,	118.6,	121.9,	146.4,	140.9,	"end" tagged on
+#0	Pulse	ns3intro
+#Show	LoadShow	mnsssbuddy	0
+Show	LoadShow	ns3intro	0
+#0	Pulse	-71,27,-1601
+#124.1	Pulse	ns3plot2
+Show	LoadShow	ns3plot2	124.1
+#124.1	Pulse	-71,27,-1600
+#242.7	Pulse	ns3skull
+Show	LoadShow	ns3skull	242.7
+#242.7	Pulse	-71,27,-1599
+#364.6	Pulse	ns3ghosts
+Show	LoadShow	ns3ghosts	364.6
+#364.6	Pulse	-71,27,-1598
+#511	Pulse	ns3villain
+Show	LoadShow	ns3villain	511
+#511	Pulse	-71,27,-1597
+#651.9	Pulse	ns3finale
+Show	LoadShow	ns3finale	651.9
+#651.9	Pulse	-71,27,-1596
+
+#11.7	Text	&3The story you are about to be told	1
+#14.9	Text	&3Is one for both the young and the old	1
+#18.5	Text	&3Unlike anything you've ever seen	1
+#21	Text	&3Get ready	1
+#22	Text	&3For This is Halloween	1
+##	This is Halloween (The Nightmare Before Christmas, show theme)	0	#
+#35.1	Text	&5Boys and girls of every age	1
+#37.4	Text	&5Wouldn't you like to see something strange?	1
+#39.7	Text	&5Come with us and you will see	1
+#42.1	Text	&5This, our town of Halloween	1
+#44.4	Text	&5This is Halloween, this is Halloween	1
+#46.7	Text	&5Pumpkins scream in the dead of night	1
+#	0	0	#
+#59.1	Text	&5Skeleton Jack might catch you in the back	1
+#51.1	Text	&5And scream like a banshee	1
+#52.3	Text	&5Make you jump out of your skin	1
+#54.1	Text	&5This is Halloween, everybody scream	1
+#55.9	Text	&5Won't ya please make way for a very special guy	1
+#58.5	Text	&5Our man Jack is King of the pumpkin patch	1
+#60.8	Text	&5Everyone hail to the Pumpkin King	1
+##	63 or 64 Gate opens	0	#
+#73.7	Text	&5La la la (Halloween!)	1
+#75.4	Text	&5La la la la la (Halloween!)	1
+#77.7	Text	&5La la la la la (Halloween!)	1
+#80.1	Text	&5La la la la la la	1
+#82.5	Text	&5EVERYBODY SCREAM!	1
+#84.1	Text	&5SCREAM!	1
+#85.4	Text	&5Halloween! Halloween!	1
+#	0	0	#
+#86.8	Text	&f[&7Jack Skellington&f] &7Happy Halloween!	1
+#91.85	Text	&7Good evening, dear friends!	1
+#94.1	Text	&7It's wonderful to have you here.	1
+#96.5	Text	&7For I, Jack Skellington, have a tale to tell	1
+#100.1	Text	&7Ha ha, yes.	1
+#101.5	Text	&7Halloween is a night full of surprises	1
+#104.7	Text	&7Playful tricks, frightful treats	1
+#107.7	Text	&7Why, anything can happen on Halloween,	1
+#110.9	Text	&7As some friends found out on a night much like this one.	1
+#114.7	Text	&7Oh, but I'm getting ahead of myself.	1
+#117.4	Text	&7Oh, Zero! Here Boy!	1
+#119.8	Text	&7Zero?	1
+#121.7	Text	&7Where is that dog?	1
+#123.4	Text	&f[&8Zero&f] &7(Ruff, ruff!)	1
+#0.600000000000009	Text	&f[&7Jack Skellington&f] &7Aah! There you are, Zero.	2
+#3.7	Text	&7It's time now to send our friends on a Halloween adventure,	2
+#8.59999999999999	Text	&7One they'll not soon forget!	2
+#11.2	Text	&7Ahehehehehehehe...	2
+#	0	0	#
+##Gate closes as he gets behind	0	0	#
+##	Trick or treat for Halloween (Trick or treat)	0	#
+#20.1	Text	&6Trick or treat	2
+#21.3	Text	&6Trick or treat	2
+#22.5	Text	&6Trick or treat for Halloween	2
+##&6Better give a treat that's good to eat	sounds more like below	0	#
+#25.05	Text	&6Better give that treat that's good to eat	2
+#27.5	Text	&6If you wanna keep life serene	2
+#	0	0	#
+#29.8	Text	&6Trick or treat (Trick or treat)	2
+#31.1	Text	&6Trick or treat (Trick or treat)	2
+#32.2	Text	&6Or we'll raise an awful fuss	2
+#34.8	Text	&6If you're smart you'll part with something sweet	2
+#37.4	Text	&6Ya better be sweet to us	2
+#	0	0	#
+#40.7	Text	&f[&dMinnie Mouse&f] &bOh, Mickey!	2
+#41.7	Text	&bI just love Trick-or-Treating!	2
+#43.7	Text	&bAll the costumes --	2
+#44.85	Text	&f[&6Goofy&f] &9-- and the candy!	2
+#46.35	Text	&9Ahyuck!	2
+#47.15	Text	&f[&cMickey Mouse&f] &eOh boy!	2
+#48.1	Text	&eThis is gonna be fun --	2
+#49.3	Text	&f[&6Donald Duck&f] &b-- and Scary!	2
+#50.7	Text	&f[&cMickey&f] &eScary?	2
+#51.8	Text	&eWell, maybe more Not-So-Scary, Donald.	2
+##See? We used the name of the show- smart	0	0	#
+#54.6	Text	&eLet's go!	2
+#	0	0	#
+#56.5	Text	&6Trick or treat	2
+#57.7	Text	&6Trick or treat	2
+#58.95	Text	&6Trick or treat the whole night through	2
+#	0	0	#
+#61.35	Text	&6So when Ghosts and Goblins by the score	2
+#64.2	Text	&6Ring the bell on your front door	2
+#66.6	Text	&6Better not be stingy or your nightmares will come true	2
+#	0	0	#
+#75.05	Text	&6Trick or treat!	2
+#	0	0	#
+#83.8	Text	&f[&8Zero&f] &7(Ruff, ruff!)	2
+#84.7	Text	&f[&cMickey&f] &e Hey, look! A dog.	2
+##210.6*GASP* 	0	0	#
+#86.9	Text	&f[&6Goofy&f] &9It's a ghost-dog!	2
+#88.8	Text	&f[&dMinnie&f] &bHis collar says, "Zero."	2
+#93.05	Text	&f[&8Zero&f] &7(Ruff)	2
+#94.1	Text	&f[&6Goofy&f] &9I think Zero wants us to follow him into...	2
+##&9221*GASP*	0	0	#
+#97.6	Text	&9...that house!	2
+#101.8	Text	&f[&cMickey&f] &eWell, I don't know pals,	2
+#103.05	Text	&eThat house doesn't look very inviting	2
+#	0	0	#
+##	Be Our Guest (Beauty and the Beast)	0	#
+#115.75	Text	&f[&6Donald&f] &bAah, don't be chicken!	2
+#3.40000000000001	Text	&f[&dMinnie&f] &bThis house is spooky.	3
+#5.65000000000001	Text	&f[&6Donald&f] &bHuh?	3
+#6.45000000000002	Text	&f[&cMickey&f] &eGoofy, stop shaking.	3
+#8.40000000000001	Text	&f[&6Goofy&f] &9Well, I'm not shaking!	3
+#10.35	Text	&f[&cMickey&f] &eWell,-uh- if that's not you, then -uh- who is it?	3
+#18.5	Text	&f[All] &7SKELETONS!	3
+#	0	0	#
+##	The Skeleton Dance	0	#
+##	0	The Silly Song (Snow White and the Seven Dwarfs)	#
+##	0	I've Got No Strings (Pinocchio)	#
+##	0	Step in Time (Mary Poppins)	#
+#116	Text	&f[&6Donald&f] &bAah, phooey!	3
+#117.1	Text	&bThat wasn't scary!	3
+#119.1	Text	&f[&6Goofy&f] &9Nope, they're just a bunch of funny bones!	3
+#121.85	Text	&9Ahyuck!	3
+#0.949999999999989	Text	&f[&dMinnie&f] &bThat music, it's so familiar	4
+#4.04999999999995	Text	&f[&8Zero&f] &7(Ruff, ruff!)	4
+#5.14999999999998	Text	&f[&cMickey&f] &eIt's coming from behind that door.	4
+#11.1	Text	&f[&6Donald&f] &bOh boy, ghosts!	4
+#13.5	Text	&f[&6Goofy &7and &dMinnie&f] &7Ghosts!?	4
+#14.9	Text	&f[&cMickey&f] &eA ghost masquerade.	4
+#	0	0	#
+##	Ballroom	0	#
+##	0	Someday My Prince Will Come (Snow White and the Seven Dwarfs)	#
+##	0	Once Upon a Dream (Sleeping Beauty)	#
+##	0	Beauty and the Beast (Beauty and the Beast)	#
+#141.4	Text	&f[&6Donald&f] &bThose ghosts weren't scary!	4
+#143.9	Text	&f[&6Goofy&f] &9Nope, they were boo-tiful!	4
+#145.4	Text	&9Ahyuck!	4
+#0.649999999999977	Text	&f[&cMickey&f] &eYou said it.	5
+#1.60000000000002	Text	&f[&dMinnie&f] &bThis place isn't so spooky after all.	5
+#	0	0	#
+##	Villains	0	#
+#6.39999999999998	Text	&f[&8Zero&f] &7(Ruff, ruff!)	5
+#7.85000000000002	Text	&f[&cMickey&f] &eYikes!	5
+#8.5	Text	&f[&dMinnie&f] &bWhat's happening?!	5
+#10.05	Text	&f[&6Goofy&f] &9Now it's getting scary!	5
+#12.2	Text	&f[&6Donald&f] &bOh boy!	5
+##Villains laughing maniacally	0	0	#
+#18.2	Text	&f[All] &7Villains!	5
+#20.65	Text	&f[&6Donald&f] &bUh-oh.	5
+#	0	0	#
+##	0	Oogie Boogie's Song (The Nightmare Before Christmas)	#
+#22.6	Text	&f[&2Oogie Boogie&f] &aWell, well, well...	5
+#24.4	Text	&aWhat have we here?	5
+#26.2	Text	&aYou're in our world now	5
+#28.4	Text	&aAnd it's Oogie's turn to Boogie.	5
+#	0	0	#
+##	0	The Gospel Truth (Hercules)	#
+#47.5	Text	&f[&3Hades&f] &bHey, we dance	5
+#48.4	Text	&bWe kiss	5
+#48.9	Text	&bWe schmooze	5
+#49.5	Text	&bWe carry on	5
+#50.4	Text	&bWe go home happy	5
+#52.25	Text	&bWhat do ya say?	5
+#	0	0	#
+##	0	Poor Unfortunate Souls (The Little Mermaid)	#
+#57.6	Text	&f[&7Ursula&f] &5It's time Ursula took this party into her own tentacles!	5
+#	0	0	#
+##	0	Painting the Roses Red (Alice in Wonderland)	#
+#82.4	Text	&f[&cRed Queen&f] &cOFF WITH THEIR HEADS!	5
+#	0	0	#
+##	0	The Court of Miracles (The Hunchback of Notre Dame)	#
+#86.2	Text	&f[&8Zero&f] &7(Ruff, ruff, ruff!)	5
+#92.2	Text	&f[&cMickey&f] &eLook out!	5
+#95.3	Text	&f[&6Goofy&f] &9Yikes!	5
+#99.15	Text	&f[&dMinnie&f] &bWe're trapped!	5
+#100.4	Text	&f[&6Donald&f] &bHELP!	5
+#100.9	Text	&f[&6Goofy&f] &9Get us out of here!	5
+#102.3	Text	&f[&8Zero&f] &7(Ruff, ruff, ruff!)	5
+#103.65	Text	&f[&cMickey&f] &eZero can get us out.	5
+#104.95	Text	&f[&8Zero&f] &7(Ruff!)	5
+#105.6	Text	&eFollow that dog!	5
+#111.2	Text	&f[&cMickey&f] &eCome on!	5
+#114.8	Text	&f[&6Goofy&f] &9This way!	5
+#118.25	Text	&f[&8Zero&f] &7(Ruff, ruff!)	5
+#119.25	Text	&f[&dMinnie&f] &bLook! There's the way out!	5
+#	0	0	#
+#138.7	Text	&f[&cMickey&f] &eWe made it!	5
+#139.9	Text	&f[&dMinnie&f] &bThanks, Zero.	5
+#0.300000000000068	Text	&f[&8Zero&f] &7(Ruff!)	6
+#0.700000000000045	Text	&f[&6Goofy&f] &9Ahyuck! That was fun!	6
+#2.60000000000002	Text	&f[&6Donald&f] &bAnd scary!	6
+#4.10000000000002	Text	&f[&cMickey&f] &eThe best Halloween ever!	6
+#6.14999999999998	Text	&f[All] &7Yippee, woohoo!	6
+#8.05000000000007	Text	&f[&8Zero&f] &7(Ruff, ruff!)	6
+#9.20000000000005	Text	&f[&cMickey&f] &eCome on gang, let's go.	6
+#12.2	Text	&f[All] &6Trick or treat	6
+#13.45	Text	&6Trick or treat	6
+#14.6	Text	&6Trick or treat for Halloween	6
+##WHOOPS	0	0	#
+#	0	0	#
+##	Reprise of "This is Halloween" and "Trick or treat for Halloween"	0	#
+#23.5	Text	&f[&7Jack Skellington&f] &7What a perfect Halloween tale...	6
+#25.8000000000001	Text	&7...filled with playful tricks and frightful treats.	6
+#29.4	Text	&7Just as I promised.	6
+#30.85	Text	&f[&8Zero&f] &7(Ruff, ruff!)	6
+#32.1	Text	&f[&7Jack Skellington&f] &7And, Zero, you were very helpful indeed.	6
+#36.35	Text	&7You see my friends, with a lot of adventure and a bit of fright:	6
+#41	Text	&7Halloween is the greatest of nights!	6
+#44.75	Text	&7Happy Halloween!	6
+#47.15	Text	&7Ahehehehehehehe...	6
+#	0	0	#
+#52.95	Text	&5Boys and girls of every age	6
+#55.0500000000001	Text	&5Wouldn't you like to see something strange?	6
+#57.0500000000001	Text	&5Come with us and you will see	6
+#59.1	Text	&5This, our town of Halloween	6
+#	0	0	#
+#63.25	Text	&5This is Halloween, this is Halloween	6
+#65.4	Text	&6Trick or treat	6
+#66.4	Text	&6Trick or treat	6
+#	0	0	#
+#67.35	Text	&5This is Halloween, everybody make a scene	6
+#69.35	Text	&6Trick or treat	6
+#	0	0	#
+#71.45	Text	&5This is Halloween, this is Halloween	6
+#73.6	Text	&6Trick or treat	6
+#74.65	Text	&6Trick or treat	6
+#	0	0	#
+#75.6	Text	&5It's our town, everybody scream	6
+#77.65	Text	&5In this town of Halloween 	6
+#79.7	Text	&6Trick or treat	6
+#81.7	Text	&5This is Halloween, this is Halloween	6
+#83.7	Text	&6Trick or treat	6
+#84.9	Text	&6Trick or treat	6
+#85.75	Text	&5This is Halloween, this is Halloween	6
+#87.85	Text	&6Trick or treat	6
+#89.95	Text	&5This is Halloween, this is Halloween	6
+#92.5	Text	&6Trick or treat	6
+#93.1	Text	&6Trick or treat	6
+#94	Text	&5This is Halloween, this is Halloween	6
+#96.0500000000001	Text	&5In this town of Halloween 	6
+#106.35	Text	&6Happy &5Halloween!	6
+#	0	0	#
+##Post	764.5		#
+##Dearest Trick or treaters			#
+##We thank you for joining us for Disney's Not-So-Spooky Spectacular			#
+##As you carry on with your evening,			#
+##We hope you continue to experience the playful tricks and frightful treats of Halloween			#
+##Please enjoy the rest of your night at Mickey's Not-So-Scary Halloween Party!			#
+#117.1	Text	&eDeveloped by- Palace Network Shows Team	6

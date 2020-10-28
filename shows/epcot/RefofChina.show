@@ -1,0 +1,76 @@
+﻿Show	Location	334,65,3135
+Show	TextRadius	16
+Show	Name	Reflections
+0	AudioStart	refofchina
+0	AudioSync	refofchina	0
+2	AudioSync	refofchina	2
+10	AudioSync	refofchina	10
+30	AudioSync	refofchina	30
+60	AudioSync	refofchina	60
+120	AudioSync	refofchina	120
+0	Block	152	319,72,3120
+1	Block	20	319,72,3120
+4.9	Text	&cAh, China
+7.2	Text	&cWhen one thinks of this magnificent country
+10.9	Text	&cOne cannot help but envision the &6Wanli Changcheng
+16.3	Text	&6&oThe Great Wall
+20.7	Text	&cIt once stretched like a mighty dragon across 4,000 miles of China
+29.3	Text	&cWelcome
+30.6	Text	&cI am &6Li Bai&c, a poet of the &6Tang dynasty
+35.8	Text	&cAnd I have returned to share with you reflections of my beloved China
+44.7	Text	&cLike this Great Wall
+47.7	Text	&cIt winds like a road across timeless landscapes
+53.4	Text	&cBut one can also find landscapes that are ever-changing
+68.4	Text	&6&oShanghai
+70.3	Text	&cA city forever reinventing itself
+75.5	Text	&cVibrant, sophisticated, romantic
+86	Text	&cAs Shanghai reflects modern China
+89.4	Text	&cHistoric &6Nanjing Road &creflects modern Shanghai
+96.9	Text	&cSet your gaze across the &6Huangpu River&c, and you will find a new China that reaches for the sky
+105.9	Text	&cYet in this city of East meets West, one can still find treasures of Shanghai's stately European influence
+118	Text	&cEven in the hectic pace of modern China, there is always time for &6tai chi&c, a tradition that has endured for centuries
+134.6	Text	&cUp here on &6Huangshan&c, at the &6Sea of Clouds&c, painters and poets like myself have been inspired for generations
+148	Text	&cIn China we say &6&o'a poem in every painting and a painting in every poem'
+#Theater changes
+0	Block	20	320,64,3119
+0.8	Block	20	334,73,3135
+3	Block	20	331,73,3132
+3	Block	20	337,73,3132
+3	Block	20	331,73,3138
+3	Block	20	337,73,3138
+6.7	Block	20	326,73,3135
+6.7	Block	20	334,73,3127
+6.7	Block	20	342,73,3135
+6.7	Block	20	334,73,3143
+15.6	Block	152	319,75,3120
+58	Block	152	319,75,3119
+75.5	Block	152	319,75,3118
+77	Block	152	319,75,3117
+79.3	Block	152	319,75,3116
+84.8	Block	152	319,75,3115
+95.9	Block	152	319,75,3114
+116.6	Block	152	319,75,3113
+133.3	Block	152	319,75,3112
+160.3	Block	152	319,75,3111
+15.5	Block	152	320,64,3119
+75	Block	20	320,64,3119
+116.4	Block	152	320,64,3119
+160.3	Block	20	320,64,3119
+160.3	Block	152	319,72,3119
+161.3	Block	152	319,72,3118
+160.8	Block	20	319,72,3119
+161.8	Block	20	319,72,3118
+96	Block	152	328,64,3118
+99	Block	152	328,64,3118
+102	Block	152	328,64,3118
+105	Block	152	328,64,3118
+108	Block	152	328,64,3118
+111	Block	152	328,64,3118
+114	Block	152	328,64,3118
+97	Block	20	328,64,3118
+100	Block	20	328,64,3118
+103	Block	20	328,64,3118
+106	Block	20	328,64,3118
+109	Block	20	328,64,3118
+112	Block	20	328,64,3118
+115	Block	20	328,64,3118

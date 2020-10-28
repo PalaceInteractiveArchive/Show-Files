@@ -1,0 +1,411 @@
+﻿Show	Location	-79,63,2986
+Show	TextRadius	100
+#Show	LoadShow	iroenytagjc.show	#29.9
+0.9	Block	152	-97,37,3020
+2	Block	20	-97,37,3020
+#Show	LoadShow	iroenytaginfg.show	#105.5
+1.4	Block	152	-96,37,3020
+2	Block	20	-96,37,3020
+#Show	LoadShow	iroenytagmor.show	#245.6
+1.3	Block	152	-95,37,3020
+2	Block	20	-95,37,3020
+#Show	LoadShow	iroenytaguk.show	#282.2
+1.8	Block	152	-94,37,3020
+3	Block	20	-94,37,3020
+#Effects
+Effect	1	BALL_LARGE,255;204;255&WHITE,FLICKER
+Effect	2	STAR,255;229;204&WHITE,TRAIL
+Effect	3	BURST,255;229;204&WHITE,FLICKER
+#Lagoon
+Effect	4a	BALL,255;229;204,TRAIL
+Effect	4b	BALL_LARGE,120;120;255
+Effect	5	BURST,255;229;204&WHITE,WHITE,TRAIL,FLICKER
+Effect	6	BALL,WHITE&255;102;102
+Effect	7	BALL_LARGE,WHITE&255;102;102
+Effect	8	BURST,255;51;51
+Effect	9	STAR,WHITE&255;102;102
+Effect	10	BALL_LARGE,204;204;255
+Effect	11	BURST,255;102;178,255;229;204&WHITE,TRAIL,FLICKER
+Effect	12a	BALL,RED,120;0;0
+Effect	12b	BALL_LARGE,255;229;204&WHITE
+#0:41
+Effect	13	BURST,153;255;153
+Effect	14	BURST,255;102;255
+Effect	15	BURST,WHITE
+Effect	16	BALL_LARGE,153;255;153,199;159;119
+Effect	17	BALL_LARGE,255;102;255,199;159;119
+Effect	18	BURST,250;210;170,TRAIL,FLICKER
+Effect	19	BALL,250;224;197,TRAIL
+Effect	20	BURST,255;255;153
+Effect	21	BALL_LARGE,255;223;146,FLICKER
+Effect	22a	BALL_LARGE,255;204;153,228;182;137,FLICKER
+Effect	22b	BALL,153;255;153
+Effect	23	STAR,255;219;182,TRAIL,FLICKER
+#1:06
+Effect	24	BURST,255;229;204&WHITE,WHITE,TRAIL
+Effect	25	STAR,WHITE,FLICKER
+Effect	26	STAR,255;120;120,FLICKER
+Effect	27	STAR,204;255;204,FLICKER
+Effect	28a	BALL_LARGE,153;255;153
+Effect	28b	STAR,255;51;75
+Effect	29a	BALL_LARGE,RED
+Effect	29b	BALL,102;102;255
+Effect	30	BALL_LARGE,102;102;255
+Effect	31a	BALL_LARGE,WHITE&153;153;255
+Effect	31b	BALL,102;102;255
+Effect	32	BURST,255;204;153,TRAIL,FLICKER
+Effect	33	BALL_LARGE,WHITE&204;255;204,FLICKER
+Effect	34	STAR,255;204;153,TRAIL,FLICKER
+#34 goes by itself and with 35-37
+Effect	35	BALL_LARGE,102;255;102
+Effect	36	BALL_LARGE,255;102;102
+Effect	37	BALL_LARGE,255;51;153
+Effect	38	BALL_LARGE,255;255;153
+Effect	39	BALL_LARGE,255;102;102&255;255;204
+#+34 V
+Effect	40	BALL,102;102;255
+#1:36
+Effect	41a	BALL_LARGE,WHITE,255;204;153,FLICKER
+Effect	41b	BALL,WHITE&255;204;153,TRAIL,FLICKER
+Effect	42	BALL_LARGE,225;255;225,FLICKER
+Effect	43	BALL_LARGE,WHITE,FLICKER
+Effect	44	BALL_LARGE,255;153;204,FLICKER
+Effect	45	BALL_LARGE,255;102;102,FLICKER
+Effect	46	BALL_LARGE,225;255;225&WHITE&255;153;204&255;102;102&255;204;153,FLICKER
+Effect	47	BALL_LARGE,225;255;225&WHITE&255;153;204&255;102;102&255;204;153,FLICKER
+#Musics
+1	Block	152	-102,37,3013
+2	Block	20	-102,37,3013
+500	Block	152	-105,37,3000
+50`	Block	20	-105,37,3000
+#Visual Indicator
+1	Block	35:15	-89,60,2981
+1	Block	152	-88,60,2981
+500	Block	35:15	-88,60,2981
+500	Block	152	-89,60,2981
+#Text
+6	Text	&ELadies and gentlemen, boys and girls,
+8.5	Text	&EWelcome to our &BNew Years Eve Countdown!
+11.9	Text	&EAs we await the approach of midnight here in the United States, Canada, and Mexico,
+16.5	Text	&EWe should note that many of our World Showcase friends have already greeted the New Year!
+21.6	Text	&EAt 10 AM this morning, Japan welcomed the first day of the New Year!
+25.9	Text	&EAnd one hour later, China celebrated the New Year!
+28.6	Text	&ELet's celebrate with them now!
+30.8	Text	&d明けましておめでとうございます！
+66.6	Text	&d我們祝你新年快樂！
+96.8	Text	&EAt 6 PM, the countries of Italy, Norway, France and Germany toasted the New Year!
+103.3	Text	&EPlease join us in saluting our friends across the sea!
+107.8	Text	&dFelice anno nuovo tutti!
+145.5	Text	&dGodt Nyttår alle sammen!
+172.4	Text	&dBonne année à tous!
+201.2	Text	&dAllen ein frohes neues Jahr!
+240.7	Text	&EAnd barely five hours ago,
+242.2	Text	&EOur friends in Morocco and the United Kingdom shouted a rousing cheer!
+247	Text	&dسنة سعيدة
+280.9	Text	&EAnd now, the United Kingdom's Happy New Year!
+319.2	Text	&ELadies and gentlemen, boys and girls, now it's our turn!
+323.1	Text	&EThe moment has arrived!
+324.6	Text	&ELet us count down together to greet the New Year!
+329.0	Text	&FTen!
+331.3	Text	&FNine!
+333.3	Text	&FEight!
+335.4	Text	&FSeven!
+337.5	Text	&FSix!
+339.5	Text	&FFive!
+341.7	Text	&FFour!
+343.9	Text	&FThree!
+345.9	Text	&FTwo!
+347.9	Text	&FOne!
+#329.0	Title	title	4	4	36	&910
+#331.3	Title	title	4	4	32	&99
+#333.3	Title	title	4	4	32	&98
+#335.4	Title	title	4	4	32	&97
+#337.5	Title	title	4	4	34	&96
+#339.5	Title	title	4	4	34	&95
+#341.7	Title	title	4	4	34	&94
+#343.9	Title	title	4	4	36	&93
+#345.9	Title	title	4	4	28	&92
+#347.9	Title	title	4	4	30	&91
+#349.8	Title	title	4	4	78	&6Happy New Year!
+363.7	Text	&BShould auld acquaintance be forgot
+369.2	Text	&BAnd never brought to mind
+374.6	Text	&BShould auld acquaintance be forgot
+380.1	Text	&BAnd days of auld lang syne 
+385.8	Text	&BFor auld lang syne, my dear
+391.5	Text	&BFor auld lang syne
+397.3	Text	&BWe'll take a cup of kindness yet
+403.3	Text	&BFor auld lang syne
+409.5	Text	&BFor auld lang syne, my dear
+414.8	Text	&BFor auld lang syne
+419.9	Text	&BWe'll take a cup of kindness yet
+425.2	Text	&BFor auld lang syne
+440.8	Text	&EAll of us at the Palace Network wish you a safe and prosperous New Year!
+#Torches/Lights
+0	Block	20	-105,42,3002
+0	Block	152	-105,43,3002
+350.4	Block	152	-105,41,3002
+350.4	Block	152	-105,42,3002
+29.9	Block	89	-101,61,3002
+65.6	Block	89	-96,61,3006
+245.5	Block	89	-92,61,3014
+282.3	Block	89	-83,61,3010
+200	Block	89	-76,61,3010
+171.2	Block	89	-67,61,3014
+144.1	Block	89	-63,61,3006
+105.7	Block	89	-58,61,3002
+63.5	Block	20	-101,61,3002
+94.2	Block	20	-96,61,3006
+278.7	Block	20	-92,61,3014
+315.6	Block	20	-83,61,3010
+238.5	Block	20	-76,61,3010
+199.4	Block	20	-67,61,3014
+170.5	Block	20	-63,61,3006
+123.9	Block	20	-58,61,3002
+#Earth AI/Colors
+2.1	Block	20	-53,34,2994
+2.3	Block	0	-93,14,3000
+2.5	Block	0	-93,14,2999
+2.4	Block	0	-94,14,3000
+2.6	Block	0	-94,14,2999
+1	Block	152	-60,33,2998
+#Beacons
+0	Block	35	-83,54,3024
+0	Block	35	-84,54,3024
+0	Block	35	-85,54,3024
+0	Block	35	-86,54,3024
+0	Block	35	-87,54,3024
+0	Block	35	-88,54,3024
+0	Block	35	-89,54,3024
+0	Block	35	-99,56,3027
+0	Block	35	-100,56,3026
+0	Block	35	-101,56,3025
+0	Block	35	-102,56,3024
+0	Block	35	-103,56,3023
+0	Block	35	-104,56,3022
+0	Block	35	-105,56,3021
+0	Block	35	-106,56,3020
+0	Block	0	-99,62,3027
+0	Block	0	-100,62,3026
+0	Block	0	-101,62,3025
+0	Block	0	-102,62,3024
+0	Block	0	-103,62,3023
+0	Block	0	-104,62,3022
+0	Block	0	-105,62,3021
+0	Block	0	-106,62,3020
+1	Block	138	-83,53,3024
+1	Block	138	-84,53,3024
+1	Block	138	-85,53,3024
+1	Block	138	-86,53,3024
+1	Block	138	-87,53,3024
+1	Block	138	-88,53,3024
+1	Block	138	-89,53,3024
+1	Block	138	-99,55,3027
+1	Block	138	-100,55,3026
+1	Block	138	-101,55,3025
+1	Block	138	-102,55,3024
+1	Block	138	-103,55,3023
+1	Block	138	-104,55,3022
+1	Block	138	-105,55,3021
+1	Block	138	-106,55,3020
+0	Block	35	-53,56,3020
+0	Block	35	-54,56,3021
+0	Block	35	-55,56,3022
+0	Block	35	-55,56,3022
+0	Block	35	-56,56,3023
+0	Block	35	-57,56,3024
+0	Block	35	-58,56,3025
+0	Block	35	-59,56,3026
+0	Block	35	-60,56,3027
+0	Block	0	-53,62,3020
+0	Block	0	-54,62,3021
+0	Block	0	-55,62,3022
+0	Block	0	-55,62,3022
+0	Block	0	-56,62,3023
+0	Block	0	-57,62,3024
+0	Block	0	-58,62,3025
+0	Block	0	-59,62,3026
+0	Block	0	-60,62,3027
+0	Block	35	-70,54,3024
+0	Block	35	-71,54,3024
+0	Block	35	-72,54,3024
+0	Block	35	-73,54,3024
+0	Block	35	-74,54,3024
+0	Block	35	-75,54,3024
+0	Block	35	-76,54,3024
+1	Block	138	-70,53,3024
+1	Block	138	-71,53,3024
+1	Block	138	-72,53,3024
+1	Block	138	-73,53,3024
+1	Block	138	-74,53,3024
+1	Block	138	-75,53,3024
+1	Block	138	-76,53,3024
+1	Block	138	-53,55,3020
+1	Block	138	-54,55,3021
+1	Block	138	-55,55,3022
+1	Block	138	-55,55,3022
+1	Block	138	-56,55,3023
+1	Block	138	-57,55,3024
+1	Block	138	-58,55,3025
+1	Block	138	-59,55,3026
+1	Block	138	-60,55,3027
+0	Block	35:15	-58,51,3002
+0	Block	35:15	-63,51,3006
+0	Block	35:15	-67,51,3014
+0	Block	35:15	-76,51,3010
+0	Block	35:15	-83,51,3010
+0	Block	35:15	-92,51,3014
+0	Block	35:15	-96,51,3006
+0	Block	35:15	-101,51,3002
+0	Block	20	-58,52,3002
+0	Block	20	-58,53,3002
+0	Block	20	-63,52,3006
+0	Block	20	-63,53,3006
+0	Block	20	-67,52,3014
+0	Block	20	-67,53,3014
+0	Block	20	-76,52,3010
+0	Block	20	-76,53,3010
+0	Block	20	-83,52,3010
+0	Block	20	-83,53,3010
+0	Block	20	-92,52,3014
+0	Block	20	-92,53,3014
+0	Block	20	-96,52,3006
+0	Block	20	-96,53,3006
+0	Block	20	-101,52,3002
+0	Block	20	-101,53,3002
+1	Block	20	-58,59,3002
+1	Block	20	-58,61,3002
+1	Block	20	-63,59,3006
+1	Block	20	-63,61,3006
+1	Block	20	-67,59,3014
+1	Block	20	-67,61,3014
+1	Block	20	-76,59,3010
+1	Block	20	-76,61,3010
+1	Block	20	-83,61,3010
+1	Block	20	-83,59,3010
+1	Block	20	-92,61,3014
+1	Block	20	-92,59,3014
+1	Block	20	-96,61,3006
+1	Block	20	-96,59,3006
+1	Block	20	-101,61,3002
+1	Block	20	-101,59,3002
+2.5	Block	138	-58,50,3002
+2.5	Block	138	-63,50,3006
+2.5	Block	138	-67,50,3014
+2.5	Block	138	-76,50,3010
+2.5	Block	138	-83,50,3010
+2.5	Block	138	-92,50,3014
+2.5	Block	138	-96,50,3006
+2.5	Block	138	-101,50,3002
+#Countdown
+329.0	PowerFirework	-58,62,3002	j3	5.543,2.296,0
+329.05	PowerFirework	-58,62,3002	j3	4.24,4.24,0
+329.1	PowerFirework	-58,62,3002	j3	2.296,5.543,0
+329.15	PowerFirework	-58,62,3002	j3	0,6,0
+329.2	PowerFirework	-58,62,3002	j3	-2.296,5.543,0
+329.25	PowerFirework	-58,62,3002	j3	-4.24,4.24,0
+329.3	PowerFirework	-58,62,3002	j3	-5.543,2.296,0
+329.35	PowerFirework	-58,62,3002	u3	-6.43,7.66,0
+331.3	PowerFirework	-101,62,3002	j3	-5.543,2.296,0
+331.35	PowerFirework	-101,62,3002	j3	-4.24,4.24,0
+331.4	PowerFirework	-101,62,3002	j3	-2.296,5.543,0
+331.45	PowerFirework	-101,62,3002	j3	0,6,0
+331.5	PowerFirework	-101,62,3002	j3	2.296,5.543,0
+331.55	PowerFirework	-101,62,3002	j3	4.24,4.24,0
+331.6	PowerFirework	-101,62,3002	j3	5.543,2.296,0
+331.65	PowerFirework	-101,62,3002	u3	6.43,7.66,0
+333.3	PowerFirework	-63,62,3006	j3	5.543,2.296,0
+333.35	PowerFirework	-63,62,3006	j3	4.24,4.24,0
+333.4	PowerFirework	-63,62,3006	j3	2.296,5.543,0
+333.45	PowerFirework	-63,62,3006	j3	0,6,0
+333.5	PowerFirework	-63,62,3006	j3	-2.296,5.543,0
+333.55	PowerFirework	-63,62,3006	j3	-4.24,4.24,0
+333.6	PowerFirework	-63,62,3006	j3	-5.543,2.296,0
+333.65	PowerFirework	-63,62,3006	u3	-6.43,7.66,0
+335.4	PowerFirework	-96,62,3006	j3	-5.543,2.296,0
+335.45	PowerFirework	-96,62,3006	j3	-4.24,4.24,0
+335.5	PowerFirework	-96,62,3006	j3	-2.296,5.543,0
+335.55	PowerFirework	-96,62,3006	j3	0,6,0
+335.6	PowerFirework	-96,62,3006	j3	2.296,5.543,0
+335.65	PowerFirework	-96,62,3006	j3	4.24,4.24,0
+335.7	PowerFirework	-96,62,3006	j3	5.543,2.296,0
+335.75	PowerFirework	-96,62,3006	u3	6.43,7.66,0
+337.5	PowerFirework	-67,62,3014	j3	5.543,2.296,0
+337.55	PowerFirework	-67,62,3014	j3	4.24,4.24,0
+337.6	PowerFirework	-67,62,3014	j3	2.296,5.543,0
+337.65	PowerFirework	-67,62,3014	j3	0,6,0
+337.7	PowerFirework	-67,62,3014	j3	-2.296,5.543,0
+337.75	PowerFirework	-67,62,3014	j3	-4.24,4.24,0
+337.8	PowerFirework	-67,62,3014	j3	-5.543,2.296,0
+337.85	PowerFirework	-67,62,3014	u3	-6.43,7.66,0
+339.5	PowerFirework	-92,62,3014	j3	-5.543,2.296,0
+339.55	PowerFirework	-92,62,3014	j3	-4.24,4.24,0
+339.6	PowerFirework	-92,62,3014	j3	-2.296,5.543,0
+339.65	PowerFirework	-92,62,3014	j3	0,6,0
+339.7	PowerFirework	-92,62,3014	j3	2.296,5.543,0
+339.75	PowerFirework	-92,62,3014	j3	4.24,4.24,0
+339.8	PowerFirework	-92,62,3014	j3	5.543,2.296,0
+339.85	PowerFirework	-92,62,3014	u3	6.43,7.66,0
+341.7	PowerFirework	-76,62,3010	j3	5.543,2.296,0
+341.75	PowerFirework	-76,62,3010	j3	4.24,4.24,0
+341.8	PowerFirework	-76,62,3010	j3	2.296,5.543,0
+341.85	PowerFirework	-76,62,3010	j3	0,6,0
+341.9	PowerFirework	-76,62,3010	j3	-2.296,5.543,0
+341.95	PowerFirework	-76,62,3010	j3	-4.24,4.24,0
+342.0	PowerFirework	-76,62,3010	j3	-5.543,2.296,0
+342.05	PowerFirework	-76,62,3010	u3	-6.43,7.66,0
+343.9	PowerFirework	-83,62,3010	j3	-5.543,2.296,0
+343.95	PowerFirework	-83,62,3010	j3	-4.24,4.24,0
+344.0	PowerFirework	-83,62,3010	j3	-2.296,5.543,0
+344.05	PowerFirework	-83,62,3010	j3	0,6,0
+344.1	PowerFirework	-83,62,3010	j3	2.296,5.543,0
+344.15	PowerFirework	-83,62,3010	j3	4.24,4.24,0
+344.2	PowerFirework	-83,62,3010	j3	5.543,2.296,0
+344.25	PowerFirework	-83,62,3010	u3	6.43,7.66,0
+345.9	PowerFirework	-57,66,3023	j3	5.543,2.296,0
+345.95	PowerFirework	-57,66,3023	j3	4.24,4.24,0
+346.0	PowerFirework	-57,66,3023	j3	2.296,5.543,0
+346.05	PowerFirework	-57,66,3023	j3	0,6,0
+346.1	PowerFirework	-57,66,3023	j3	-2.296,5.543,0
+346.15	PowerFirework	-57,66,3023	j3	-4.24,4.24,0
+346.2	PowerFirework	-57,66,3023	j3	-5.543,2.296,0
+346.25	PowerFirework	-57,66,3023	u3	-6.43,7.66,0
+345.9	PowerFirework	-102,66,3023	j3	-5.543,2.296,0
+345.95	PowerFirework	-102,66,3023	j3	-4.24,4.24,0
+346.0	PowerFirework	-102,66,3023	j3	-2.296,5.543,0
+346.05	PowerFirework	-102,66,3023	j3	0,6,0
+346.1	PowerFirework	-102,66,3023	j3	2.296,5.543,0
+346.15	PowerFirework	-102,66,3023	j3	4.24,4.24,0
+346.2	PowerFirework	-102,66,3023	j3	5.543,2.296,0
+346.25	PowerFirework	-102,66,3023	u3	6.43,7.66,0
+347.9	PowerFirework	-73,61,3024	j3	5.543,2.296,0
+347.95	PowerFirework	-73,61,3024	j3	4.24,4.24,0
+348.0	PowerFirework	-73,61,3024	j3	2.296,5.543,0
+348.05	PowerFirework	-73,61,3024	j3	0,6,0
+348.1	PowerFirework	-73,61,3024	j3	-2.296,5.543,0
+348.15	PowerFirework	-73,61,3024	j3	-4.24,4.24,0
+348.2	PowerFirework	-73,61,3024	j3	-5.543,2.296,0
+348.25	PowerFirework	-73,61,3024	u3	-6.43,7.66,0
+347.9	PowerFirework	-86,61,3024	j3	-5.543,2.296,0
+347.95	PowerFirework	-86,61,3024	j3	-4.24,4.24,0
+348.0	PowerFirework	-86,61,3024	j3	-2.296,5.543,0
+348.05	PowerFirework	-86,61,3024	j3	0,6,0
+348.1	PowerFirework	-86,61,3024	j3	2.296,5.543,0
+348.15	PowerFirework	-86,61,3024	j3	4.24,4.24,0
+348.2	PowerFirework	-86,61,3024	j3	5.543,2.296,0
+348.25	PowerFirework	-86,61,3024	u3	6.43,7.66,0
+349.8	PowerFirework	-75,62,3016	j3	5.543,2.296,0
+349.85	PowerFirework	-75,62,3016	j3	4.24,4.24,0
+349.9	PowerFirework	-75,62,3016	j3	2.296,5.543,0
+349.95	PowerFirework	-75,62,3016	j3	0,6,0
+350.0	PowerFirework	-75,62,3016	j3	-2.296,5.543,0
+350.05	PowerFirework	-75,62,3016	j3	-4.24,4.24,0
+350.1	PowerFirework	-75,62,3016	j3	-5.543,2.296,0
+350.15	PowerFirework	-75,62,3016	u3	-6.43,7.66,0
+349.8	PowerFirework	-84,62,3016	j3	-5.543,2.296,0
+349.85	PowerFirework	-84,62,3016	j3	-4.24,4.24,0
+349.9	PowerFirework	-84,62,3016	j3	-2.296,5.543,0
+349.95	PowerFirework	-84,62,3016	j3	0,6,0
+350.0	PowerFirework	-84,62,3016	j3	2.296,5.543,0
+350.05	PowerFirework	-84,62,3016	j3	4.24,4.24,0
+350.1	PowerFirework	-84,62,3016	j3	5.543,2.296,0
+350.15	PowerFirework	-84,62,3016	u3	6.43,7.66,0

@@ -1,0 +1,232 @@
+#Show Started December 17, 2016
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Other
+0	Block	152	436,49,53
+#Audio
+0	AudioStart	flaths1
+5	AudioSync	flaths1	5
+10	AudioSync	flaths1	10
+30	AudioSync	flaths1	30
+60	AudioSync	flaths1	60
+120	AudioSync	flaths1	120
+#S1 Frozen Heart
+0	Text	&bNa na na heyana
+2.8	Text	&bHahiyaha naha 
+6	Text	&bNaheya heya na yanuwa 
+9.7	Text	&bHanahe yunuwana
+15.2	Text	&bNa na na heyana
+18.1	Text	&bHahiyaha naha 
+21.1	Text	&bNaheya heya na yanuwa 
+24.7	Text	&bHanahe yunuwana
+43.2	Text	&3Born of cold and winter air
+46	Text	&3and mountain rain combining.
+50.8	Text	&3This icy force both foul and fair
+53.8	Text	&3has a frozen heart worth mining.
+58.2	Text	&3So cut through the heart, cold and clear.
+61.6	Text	&3Strike for love and strike for fear.
+64.7	Text	&3See the beauty, sharp and sheer
+67.8	Text	&3Split the ice apart
+70.6	Text	&3And break the frozen heart
+72.5	Text	&6Hup! Ho!
+74.7	Text	&6Watch your step!
+76	Text	&6Let it go!
+77.5	Text	&3Born of cold and winter air
+79.8	Text	&3and mountain rain combining.
+82.3	Text	&3This icy force both foul and fair
+84.8	Text	&3has a frozen heart worth mining.
+87.5	Text	&3So cut through the heart, cold and clear.
+90	Text	&3Strike for love and strike for fear.
+92.7	Text	&3There's beauty and there's danger here
+94.9	Text	&3Split the ice apart
+97.3	Text	&3Beware the frozen heart...
+119.6	Text	&f[&3Kristoff&f] &7Hey, wait!
+122.5	Text	&f[&3Kristoff&f] &7Wait for me!
+#Show
+#HouseLightsOff
+0	Block	152	420,64,76
+#SmokeEffects
+11.4	Block	152	465,64,104
+21.6	Block	152	466,64,104
+#Off
+122.5	Block	0	465,64,104
+122.5	Block	0	466,64,104
+#WaterOnStageOff+Light	
+0	Block	166	462,65,84
+3	Block	123	456,64,82
+3	Block	123	456,64,86
+#RemovePixelator
+5.9	Block	152	416,65,86
+#Schematics
+6.00	Schematic	FLatHS1.1	439	62	68	newhws	false
+11.2	Schematic	FLatHS1.2	439	62	68	newhws	false
+16.4	Schematic	FLatHS1.3	439	62	68	newhws	false
+21.6	Schematic	FLatHS1.4	439	62	68	newhws	false
+26.8	Schematic	FLatHS1.5	439	62	68	newhws	false
+31.0	Schematic	FLatHS1.6	439	62	68	newhws	false
+77.5	Schematic	FLatHS1.7	439	62	68	newhws	false
+#NorthernLightsMove
+36	Block	89	451,85,78
+41	Block	89	451,85,84
+41	Block	123	451,85,72
+41	Block	123	451,80,71
+46	Block	89	451,85,90
+46	Block	123	451,85,78
+51	Block	89	451,85,96
+51	Block	89	451,80,97
+51	Block	123	451,85,84
+56	Block	89	451,85,72
+56	Block	89	451,80,71
+56	Block	123	451,85,90
+61	Block	89	451,85,78
+61	Block	123	451,85,96
+61	Block	123	451,80,97
+66	Block	89	451,85,84
+66	Block	123	451,85,72
+66	Block	123	451,80,71
+71	Block	89	451,85,90
+71	Block	123	451,85,78
+76	Block	89	451,85,96
+76	Block	89	451,80,97
+76	Block	123	451,85,84
+81	Block	89	451,85,72
+81	Block	89	451,80,71
+81	Block	123	451,85,90
+86	Block	89	451,85,78
+86	Block	123	451,85,96
+86	Block	123	451,80,97
+91	Block	89	451,85,84
+91	Block	123	451,85,72
+91	Block	123	451,80,71
+96	Block	89	451,85,90
+96	Block	123	451,85,78
+101	Block	89	451,85,96
+101	Block	89	451,80,97
+101	Block	123	451,85,84
+106	Block	89	451,85,72
+106	Block	89	451,80,71
+106	Block	123	451,85,90
+111	Block	89	451,85,78
+111	Block	123	451,85,96
+111	Block	123	451,80,97
+116	Block	123	451,85,72
+116	Block	123	451,80,71
+121	Block	123	451,85,78
+#BackStageDoorsOpen
+25	Block	76	445,62,104
+25	Block	76	445,62,103
+25	Block	76	444,62,64
+25	Block	76	444,62,63
+#SideDoorsOpen
+30	Block	152	470,65,106
+#StageRight
+30	Block	0	443,65,66
+30	Block	0	442,65,66
+30	Block	0	441,65,66
+30	Block	0	440,65,66
+30	Block	0	443,64,66
+30	Block	0	442,64,66
+30	Block	0	441,64,66
+30	Block	0	440,64,66
+#StageLeft
+30	Block	0	443,65,102
+30	Block	0	442,65,102
+30	Block	0	441,65,102
+30	Block	0	440,65,102
+30	Block	0	443,64,102
+30	Block	0	442,64,102
+30	Block	0	441,64,102
+30	Block	0	440,64,102
+#StageDoorsClose
+40.3	Block	152	465,65,106
+#StageRight
+40.3	Block	173	443,65,66
+40.3	Block	173	442,65,66
+40.3	Block	173	441,65,66
+40.3	Block	173	440,65,66
+40.3	Block	173	443,64,66
+40.3	Block	173	442,64,66
+40.3	Block	173	441,64,66
+40.3	Block	173	440,64,66
+#StageLeft
+40.3	Block	173	443,65,102
+40.3	Block	173	442,65,102
+40.3	Block	173	441,65,102
+40.3	Block	173	440,65,102
+40.3	Block	173	443,64,102
+40.3	Block	173	442,64,102
+40.3	Block	173	441,64,102
+40.3	Block	173	440,64,102
+#StageLightOn
+#31	Block	89	456,64,82
+#31	Block	89	456,64,86
+#31	Block	89	460,79,84
+#PathLightOn
+40.3	Block	89	449,62,88
+40.3	Block	89	449,62,80
+#IceAppear
+#77.5	Block	79	457,65,81
+#77.5	Block	79	457,65,87
+#IceLeave
+97.3	Block	0	457,65,81
+109.0	Block	0	457,65,87
+#LightEffects
+77.5	Block	89	457,62,75
+77.5	Block	89	457,62,93
+77.5	Block	123	456,64,82
+77.5	Block	123	456,64,86
+87.5	Block	123	457,62,75
+87.5	Block	123	457,62,93
+87.5	Block	89	456,64,82
+87.5	Block	89	456,64,86
+90.0	Block	89	457,62,75
+90.0	Block	89	457,62,93
+90.0	Block	123	456,64,82
+90.0	Block	123	456,64,86
+94.9	Block	123	457,62,75
+94.9	Block	123	457,62,93
+94.9	Block	89	456,64,82
+94.9	Block	89	456,64,86
+#LightsDim
+119.6	Block	123	460,79,84
+119.6	Block	123	456,64,86
+119.6	Block	123	456,64,82
+122.5	Block	123	461,63,72
+122.5	Block	123	461,63,96
+#CartsSpawn
+77.6	Block	152	462,65,107
+#CartsRemove
+110	Block	0	450,63,89
+110	Block	0	451,63,89
+110	Block	0	451,64,89
+110	Block	0	450,63,79
+110	Block	0	451,63,79
+110	Block	0	451,64,79
+#LightsOff
+110	Block	123	449,62,88
+110	Block	123	449,62,80
+#SideDoorsOpen
+110	Block	152	470,65,106
+#StageRight
+110	Block	0	443,65,66
+110	Block	0	442,65,66
+110	Block	0	441,65,66
+110	Block	0	440,65,66
+110	Block	0	443,64,66
+110	Block	0	442,64,66
+110	Block	0	441,64,66
+110	Block	0	440,64,66
+#StageLeft
+110	Block	0	443,65,102
+110	Block	0	442,65,102
+110	Block	0	441,65,102
+110	Block	0	440,65,102
+110	Block	0	443,64,102
+110	Block	0	442,64,102
+110	Block	0	441,64,102
+110	Block	0	440,64,102
+#SpawnSven
+30	Block	152	468,65,107
+#KillSven	
+119.6	Block	152	467,65,107

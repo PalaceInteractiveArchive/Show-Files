@@ -1,0 +1,31 @@
+﻿Show	Location	-532,49,-1577
+Show	TextRadius	25
+#Define
+ArmorStand	splmgator1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjllMzc0YTIyMTRmZWUxNmRlNDhhZmExZTM4MmNmMzQ5NGM2NGVhMWQ5M2ViNTUwNWY3ODA1NWVlZDgyOGMxMiJ9fX0=";299(33,117,44);0;0;346
+ArmorStand	splmgator2	false	0;299(33,117,44);0;0;0
+ArmorStand	splmbf2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM0MjE4NTk3MWQ2MzEzMDA1YzExYjFhMzNhOGNmNzFmMWNhOWMwZmYxNTU2OTNkMjcxMWUxOGQwNzgwZDQwOCJ9fX0=";299(188,14,14);300(209,196,145);301(121,228,82);0
+ArmorStand	splmbluebird2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjY2ODMyOWU2NDVmY2MxMGE3OWVlNzM5MWMxODM1Yzc4ZWNjYmE5NWE3YmEzODk1YzNkYTg1YTYwIn19fQ==";299(64,148,173);300(64,148,173);301(64,148,173);0
+#Spawn
+0	ArmorStand	splmgator1	Spawn	-527.5,47.8,-1577.5,-90
+0.1	ArmorStand	splmgator1	Position	BODY	80,0,0	0.5
+0.1	ArmorStand	splmgator1	Position	HEAD	-20,0,0	0.5
+0.1	ArmorStand	splmgator1	Position	ARM_LEFT	-60,20,0	0.5
+0.1	ArmorStand	splmgator1	Position	ARM_RIGHT	-60,-20,0	0.5
+0	ArmorStand	splmgator2	Spawn	-528.5,47.8,-1577.5,90
+0.1	ArmorStand	splmgator2	Position	BODY	80,0,0	0.5
+0.1	ArmorStand	splmgator2	Position	ARM_LEFT	-70,0,0	0.5
+0.1	ArmorStand	splmgator2	Position	ARM_RIGHT	-70,0,0	0.5
+0.1	ArmorStand	splmgator2	Position	HEAD	30,0,0	0.5
+0	ArmorStand	splmbf2	Spawn	-528.5,49.1,-1577.5,-110
+0.1	ArmorStand	splmbf2	Position	ARM_RIGHT	-180,0,-10	0.5
+0.1	ArmorStand	splmbf2	Position	ARM_LEFT	-180,0,10	0.5
+0.1	ArmorStand	splmbf2	Position	LEG_LEFT	-80,-10,0	0.5
+0.1	ArmorStand	splmbf2	Position	LEG_RIGHT	-80,10,0	0.5
+0	ArmorStand	splmbluebird2	Spawn	-534.473,50.6,-1574.616,151.3
+0.1	ArmorStand	splmbluebird2	Position	LEG_LEFT	60,0,0	0.5
+0.1	ArmorStand	splmbluebird2	Position	LEG_RIGHT	60,0,0	0.5
+#Despawn
+30	ArmorStand	splmgator1	Despawn
+30	ArmorStand	splmgator2	Despawn
+30	ArmorStand	splmbf2	Despawn
+30	ArmorStand	splmbluebird2	Despawn

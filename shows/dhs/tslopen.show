@@ -1,0 +1,144 @@
+﻿Show	Location	-386,63,265
+Show	TextRadius	10
+Show	Name	TSL
+#Audio
+0	Block	152	-383,57,269
+0	AudioStart	tslopen
+5	AudioSync	tslopen	5
+#Effects
+Effect	s1	BURST,GRAY,TRAIL
+Effect	e1	BURST,252;165;83&RED,BLUE,TRAIL,FLICKER
+#Fireworks
+273.8	PowerFirework	-391,69,270	s1	0,1,0
+273.8	PowerFirework	-391,69,261	s1	0,1,0
+285.5	PowerFirework	-390,63,272	e1	0,1,0
+286.2	PowerFirework	-390,63,259	e1	0,1,0
+286.6	PowerFirework	-389,63,260	e1	0,1,1
+286.9	PowerFirework	-389,63,271	e1	0,1,-1
+#Reset
+320	Schematic	tslcurtainR	-390	64	270	dhs	false
+321	Block	152	-389,57,270
+322	Block	0	-389,57,270
+#Text
+0	Text	&f[&2Sarge&f] &aI repeat, toys have landed!
+2.3	Text	&f[&2Sarge&f] &aOperation "Play Big", is a go!
+6.3	Text	&f[&2Sarge&f] &aLet's move, move, move!
+12.7	Text	&f[&2Sarge&f] &aDeploy your lines!
+16.8	Text	&f[&2Sarge&f] &aOperation "Play Big", is underway!
+20.6	Text	&f[&2Sarge&f] &aAlright men, remember your training, how we practiced in the bucket.
+26.2	Text	&f[&2Sarge&f] &aI think we need reinforcements!
+31.8	Text	&f[&2Sarge&f] &aDeploy your lines!
+33.8	Text	&f[&2Sarge&f] &aThis is a critical mission...
+34.2	Text	&f[&2Sarge&f] &alet's move!
+42.5	Text	&f[&2Sarge&f] &aPerimeter is secured!
+47.5	Text	&f[&2Sarge&f] &aCongratulations troops, mission accomplished!
+50.8	Text	&f[&2Sarge&f] &aIt's time to play big in...
+52.6	Text	&f[&2Sarge&f] &a5
+53.6	Text	&f[&2Sarge&f] &a4
+54.6	Text	&f[&2Sarge&f] &a3
+55.4	Text	&f[&2Sarge&f] &a2
+56.1	Text	&f[&2Sarge&f] &a1!
+73.9	Text	&f[&6Woody&f] &eHey howdy hey everybody! Glad you could join us!
+78	Text	&f[&cJessie&f] &4Yee-haw!
+79.9	Text	&f[&cJessie&f] &4It's so great to be here!
+82.2	Text	&f[&aBuzz&f] &2Well, the perimeter is set. Take it away, sir!
+85.8	Text	&f[&2Sarge&f] &aAffirmative space ranger!
+87.85	Text	&f[&2Sarge&f] &aAttention citizens!
+89.5	Text	&f[&2Sarge&f] &aTo officially welcome all of you into Andy's Backyard...
+93.8	Text	&f[&2Sarge&f] &ait is my honor to introduce...
+95	Text	&f[&2Sarge&f] &athepartyboy376!
+97	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aHello everyone, and welcome to the opening of Toy Story Land!
+105	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aI'm so glad to be here, and I'm so excited for you all to be here as well!
+112	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aAs you know we've been working on this land for a long time
+117	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aand we are finally ready to show you our finished result!
+124	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aI can't wait for you all to experience what we've been working on for the past few months!
+128.2	Text	&f[&6Woody&f] &eSay, it looks like our guests are ready to join in some fun!
+131.8	Text	&f[&aBuzz&f] &2We'd like to take this to the next level!
+134.2	Text	&f[&aBuzz&f] &2To infinity...
+135.85	Text	&f[&aBuzz&f] &2and beyond!
+139	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aThat's right Buzz! It's time to begin the countdown to officially open Toy Story Land!
+144.4	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aHere we go!
+147.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aSarge, would you like to do the honors?
+148.9	Text	&f[&2Sarge&f] &aI am now going to pull the lever to activate Slinky Dog Dash and Toy Story Land!
+164	Text	&f[&2Sarge&f] &aSoldiers, assess the situation, move out!
+171.2	Text	&f[&2Soldier 1&f] &aBatteries not included!
+172.4	Text	&f[&2Soldier 2&f] &aBatteries not included!
+173.7	Text	&f[&2Soldier 3&f] &aBatteries not included!
+175.8	Text	&f[&cJessie&f] &4Tarnation! Who's in charge of the batteries?
+179.7	Text	&f[&2Sarge&f] &aI forgot the batteries.
+181.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aDon't worry everyone, I'm sure we'll be able to find some batteries around here somewhere!
+186.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aSarge?
+188.5	Text	&f[&2Sarge&f] &aAlright troops!
+189.6	Text	&f[&2Sarge&f] &aAssemble!
+235	Text	&f[&2Sarge&f] &aIt looks like we plenty of batteries sir!
+238.4	Text	&f[&2Sarge&f] &aWith this much energy and excitement, we are good to go!
+242.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aAlright everyone! It's time to officially open Toy Story Land!
+248	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &aNow, let's countdown before we pull the lever!
+250.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a5!
+251.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a4!
+252.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a3!
+253.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a2!
+254.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a1!
+#StartSlinky
+245	Block	152	-481,61,266
+#MapRemove
+57	Block	152	-383,57,267
+57.5	Block	152	-383,57,266
+58	Block	152	-383,57,265
+58.5	Block	152	-383,57,264
+59	Block	152	-383,57,263
+#CurtainFall1
+57	Block	0	-391,68,270
+57	Block	0	-391,68,269
+57	Block	0	-391,68,268
+57	Block	0	-391,68,267
+57	Block	0	-391,68,266
+57	Block	0	-391,68,265
+57	Block	0	-391,68,264
+57	Block	0	-391,68,263
+57	Block	0	-391,68,262
+57	Block	0	-391,68,261
+#CurtainFall2
+57.5	Block	0	-391,67,270
+57.5	Block	0	-391,67,269
+57.5	Block	0	-391,67,268
+57.5	Block	0	-391,67,267
+57.5	Block	0	-391,67,266
+57.5	Block	0	-391,67,265
+57.5	Block	0	-391,67,264
+57.5	Block	0	-391,67,263
+57.5	Block	0	-391,67,262
+57.5	Block	0	-391,67,261
+#CurtainFall3
+58	Block	0	-391,66,270
+58	Block	0	-391,66,269
+58	Block	0	-391,66,268
+58	Block	0	-391,66,267
+58	Block	0	-391,66,266
+58	Block	0	-391,66,265
+58	Block	0	-391,66,264
+58	Block	0	-391,66,263
+58	Block	0	-391,66,262
+58	Block	0	-391,66,261
+#CurtainFall4
+58.5	Block	0	-391,65,270
+58.5	Block	0	-391,65,269
+58.5	Block	0	-391,65,268
+58.5	Block	0	-391,65,267
+58.5	Block	0	-391,65,266
+58.5	Block	0	-391,65,265
+58.5	Block	0	-391,65,264
+58.5	Block	0	-391,65,263
+58.5	Block	0	-391,65,262
+58.5	Block	0	-391,65,261
+#CurtainFall5
+59	Block	0	-391,64,270
+59	Block	0	-391,64,269
+59	Block	0	-391,64,268
+59	Block	0	-391,64,267
+59	Block	0	-391,64,266
+59	Block	0	-391,64,265
+59	Block	0	-391,64,264
+59	Block	0	-391,64,263
+59	Block	0	-391,64,262
+59	Block	0	-391,64,261

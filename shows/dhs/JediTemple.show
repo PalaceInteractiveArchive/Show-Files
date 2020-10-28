@@ -1,0 +1,484 @@
+Show	Location	-63,63,356
+Show	TextRadius	75
+Show	Name	JediTemple
+
+#Audio
+0	AudioStart	JediTemple
+60	AudioSync	JediTemple	60
+
+#Text
+12	Text	&b[&9&lNetress&b] Master I think this is it
+14	Text	&6[&e&lMaster Vanzel&6] I believe you're right Netress
+19	Text	&6The Force is strong here
+24	Text	&6Jaxs Elbock gather our Force sensitive students.
+29	Text	&6We have arrived
+31	Text	&6Students come this way join me on the training platform
+33	Text	&6We're going to find a blue circle to stand on.
+39	Text	&6Greetings all, my name is Vanzel Mar and I am a Jedi.
+44	Text	&6My apprentices and I travel the galaxy to preserve and pass on the teachings of the Jedi Order.
+49	Text	&6Our journey has brought us to this ancient Jedi Temple
+52	Text	&6Where we will teach a new group of young ones.
+56	Text	&6We are pleased that you have joined us to attend their training.
+59	Text	&6Students, are you ready to take your first step on the path of the Jedi?
+66	Text	&6Excellent.
+67	Text	&6Lets Begin
+69	Text	&6We all know the Force is the energy that connects all living things.
+73	Text	&6It surrounds us.
+74	Text	&6It flows through us.
+76	Text	&6It binds the galaxy together.
+80	Text	&6You students have proven to be sensitive to the force...
+82	Text	&6But.
+84	Text	&6Were you destined to become Jedi? 
+87	Text	&b[&9&lNetress&b] I believe they are master.
+89	Text	&6[&e&lMaster Vanzel&6] Well, we'll soon find out.
+91	Text	&6It's time to face &9&l&nThe Trials of The Temple&r
+96	Text	&r&6Now, you may have heard The Temple is dangerous.
+99	Text	&6That's not quite true.
+101	Text	&6The Temple is no danger to you, but every trial is different, and may require you to face your fear.
+108	Text	&6What we fear can often times feel very dangerous indeed.
+113	Text	&6But you are here because you have strength, because you have courage.
+117	Text	&6Use those in your training and you will be successful.
+120	Text	&6Thank you Elbock, please you and Jaxs prepare our students.
+124	Text	&6We will begin by learning to use the weapon of the Jedi.
+127	Text	&6Which is what students? 
+129	Text	&6That's right a lightsaber.
+130	Text	&6An elegant weapon from a more civilized age.
+133	Text	&b[&9&lNetress&b] That's right with one of these you can be able to face anything that comes out of that temple!
+140	Text	&6[&e&lMaster Vanzel&6] As you can see Netress is quite skilled with the lightsaber.
+142	Text	&b[&9&lNetress&b] Well hey I learned from the best!
+144	Text	&6[&e&lMaster Vanzel&6] Haha. You flatter me, though it is true.
+147	Text	&6But it's now time for the student to become the teacher.
+149	Text	&6Netress you will lead the lesson.
+151	Text	&b[&9&lNetress&b] Really?
+152	Text	&6[&e&lMaster Vanzel&6] Yeah.
+153	Text	&6I believe you are ready, teach them well.
+155	Text	&b[&9&lNetress&b] I'll try.
+157	Text	&6[&e&lMaster Vanzel&6] In the words of Master Yoda. Try not
+159	Text	&6Do or do not.
+160	Text	&b[&9&lNetress&b] There is no try! 
+160	Text	&6[&e&lMaster Vanzel&6] There is no try! 
+162	Text	&6Your students.
+163	Text	&b[&9&lNetress&b] Ok students are you ready to learn? 
+167	Text	Yeah? Are you ready to focus?
+169	Text	Yes! Ok then lets begin.
+172	Text	Now there are three important rules we must learn before we take on The Trials of The Temple.
+177	Text	Rule number one, remember your training positions students look down.
+181	Text	You see those blue circles you're standing on? Those are your training positions. Stay on top of them, ok?
+187	Text	Rule number two, be aware of your lightsabers at all times. Do not hit anyone around you.
+193	Text	&6[&e&lMaster Vanzel&6] Especially your Jedi instructors.
+196	Text	&b[&9&lNetress&b] Right, and rule number three is very important especially for the students along the side areas.
+201	Text	No running or jumping at any time we all must remain focused and alert.
+206	Text	Okay guys? 
+208	Text	&6[&e&lMaster Vanzel&6] Got them!
+210	Text	&b[&9&lNetress&b] Okay! Now when I say ready position we're all going to raise our lightsabers just like this.
+215	Text	Ready position!
+216	Text	&6[&e&lMaster Vanzel&6] Bring them up!
+217	Text	&b[&9&lNetress&b] There you go! Sabers up!
+218	Text	&6[&e&lMaster Vanzel&6] Very good.
+218	Text	&b[&9&lNetress&b] Nice!
+219	Text	Good sabers down.
+222	Text	Now if you do need to engage in combat that's where you'll start.
+225	Text	Now we'll show you the moves you will use to protect yourself.
+227	Text	&6[&e&lMaster Vanzel&6] Yes we will. Students in the lower area please turn and face me.
+230	Text	&b[&9&lNetress&b] Everyone face Vanzel.
+231	Text	&6[&e&lMaster Vanzel&6] We will follow along as Netress teaches
+235	Text	&b[&9&lNetress&b] Okay students here we go!
+237	Text	Ready position!
+238	Text	&6[&e&lMaster Vanzel&6] Ready position.
+239	Text	&b[&9&lNetress&b] Okay first we're going to strike to your opponents left shoulder.
+243	Text	Then bring the lightsaber over your head around to the other side, and to the right shoulder!
+249	Text	Good! Sabers down.
+251	Text	&6[&e&lMaster Vanzel&6] For over a thousand generations the Jedi Knights were the guardians of peace and justice.
+255	Text	&b[&9&lNetress&b] That's right and it's our turn now.
+257	Text	Ready position!
+258	Text	&6[&e&lMaster Vanzel&6] Ready position.
+259	Text	&b[&9&lNetress&b] Cut to the left shoulder. 
+261	Text	Now cut to the right shoulder.
+263	Text	Now everybody we're going to step back and duck!
+265	Text	&6[&e&lMaster Vanzel&6] Get down!
+266	Text	&b[&9&lNetress&b] Get low!
+267	Text	There you go!
+268	Text	Good. Now stand and sabers down.
+270	Text	&6[&e&lMaster Vanzel&6] Now can anyone tell me why we duck? 
+278	Text	&6That's right so you don't get your head cut off.
+282	Text	&6Alright you'll fight much better in one piece.
+284	Text	&6A valuable Jedi safety tip.
+290	Text	&6You can go ahead Netress.
+291	Text	&b[&9&lNetress&b] Okay!
+292	Text	Here we go ready position!
+293	Text	&6[&e&lMaster Vanzel&6] Ready position.
+294	Text	&b[&9&lNetress&b] Cut to the left shoulder.
+296	Text	Now cut to the right shoulder. 
+298	Text	Now everybody step back and duck.
+300	Text	Stand, and now finally we're going to strike to the head.
+305	Text	&6[&e&lMaster Vanzel&6] Uh students you may want to aim a bit higher.
+307	Text	&b[&9&lNetress&b] Aim high guys!
+308	Text	&6[&e&lMaster Vanzel&6] There's a good chance your opponent could be taller then you.
+310	Text	&6Isn't that right Netress.
+313	Text	&b[&9&lNetress&b] Aha! Sabers down.
+315	Text	Alright guys we're going to put the entire combination together now.
+318	Text	Are you guys ready? 
+321	Text	There we go!
+322	Text	Alright guys now follow along and do as we do ok?
+325	Text	Here we go! 
+327	Text	Ready position!
+328	Text	&6[&e&lMaster Vanzel&6] Ready position!
+328.5	Text	&b[&9&lNetress&b] Cut to the left shoulder!
+330	Text	Now cut to the right shoulder!
+332	Text	Now everybody step back and duck!
+334	Text	Stand, and finally strike to the head!
+339	Text	Excellent! Sabers down!
+342	Text	&6[&e&lMaster Vanzel&6] Well done students!
+344.5	Text	&6Your Jedi Trial is about to begin.
+347	Text	&6Well done Netress.
+348	Text	&b[&9&lNetress&b] Thanks master.
+351	Text	&6[&e&lMaster Vanzel&6] Now listen carefully.
+353	Text	&6We do not know what the temple will choose, but together we will face whatever is sends our to challenge us.
+360	Text	&6We could see frightening enemies.
+362	Text	&6But remember a Jedi stays calm and focused.
+365	Text	&6Students, do we let fear or anger to drive our actions? 
+369	Text	&6No. Netress?
+371	Text	&b[&9&lNetress&b] No master, fear and anger do not drive our actions.
+373	Text	&6[&e&lMaster Vanzel&6] That's correct.
+375.5	Text	&6Well the first step is complete.
+377.5	Text	&6The Trial of the Temple is upon us.
+379	Text	&6Everyone lets step to the side!
+380	Text	&b[&9&lNetress&b] Alright students quickly move to that side.
+382	Text	&6[&e&lMaster Vanzel&6] This way over here.
+386	Text	&6Now, we must remember the visions that we see are not real.
+390	Text	&6They are only reflections of our fear and part of our temple trial.
+394	Text	&6Now, lets all step forward and be ready to-
+398	Text	&b[&9&lNetress&b] Master what's happening?
+399	Text	&6[&e&lMaster Vanzel&6] I believe it has begun.
+402	Text	&6Students prepare to face your trial!
+404	Text	&6Prepare to face your fear!
+408.5	Text	&6Prepare to face...
+411.5	Text	&6Darth Vader.
+414	Text	&8[&0&lDarth Vader&8] Join me or face the power of the dark side.
+420.5	Text	&6[&e&lMaster Vanzel&6] Be brave students Darth Vader is strong but it is all of us against one of him.
+428	Text	&6The balance is in our favor.
+436	Text	&b[&9&lNetress&b] Kylo ren.
+437	Text	&6[&e&lMaster Vanzel&6] I believe the balance has just shifted.
+441	Text	&4[&c&lKylo Ren&4] There is no balance Jedi.
+445	Text	&4The dark side will always be stronger.
+448	Text	&6[&e&lMaster Vanzel&6] On that, we disagree.
+450	Text	&b[&9&lNetress&b] Students! Are we ready to face them? 
+453	Text	Good.
+455	Text	&4[&c&lKylo Ren&4] Now, lets see what you've learned from your teachers.
+460	Text	&6[&e&lMaster Vanzel&6] Netress you and Jax take your group to face Kylo Ren.
+462	Text	&b[&9&lNetress&b] Yes master.
+463	Text	&6[&e&lMaster Vanzel&6] Elbock and I will take our group to confront Darth Vader.
+466	Text	&8[&0&lDarth Vader&8] If you wish to challenge the dark side so be it.
+471	Text	&6[&e&lMaster Vanzel&6] Students trust in the force, perform what you've been taught and you will succeed.
+475	Text	&6Who shall go first?
+480	Text	&8[&0&lDarth Vader&8] As you wish
+481	Text	&6[&e&lMaster Vanzel&6] Ready position.
+482	Text	&6Left shoulder.
+483	Text	&6Now the other side.
+484	Text	&6Duck!
+485	Text	&6And cut to the head!
+487	Text	&6Nicely done. Saber down.
+492	Text	&b[&9&lNetress&b] Alright stand here!
+494	Text	&4[&c&lKylo Ren&4] You show promise. Now show me your skill.
+498	Text	&b[&9&lNetress&b] Oh he will.
+498.8	Text	Ready position!
+499	Text	Left shoulder!
+500	Text	Right shoulder!
+501	Text	Duck! 
+502	Text	There you go and cut to the head!
+504	Text	Yeah! Fearless attack nice work!
+507	Text	&6[&e&lMaster Vanzel&6] Nice work down there Netress.
+509	Text	&b[&9&lNetress&b] Thanks master.
+510	Text	&6[&e&lMaster Vanzel&6] Stand here.
+510.8	Text	&8[&0&lDarth Vader&8] The Force is strong with this one.
+514	Text	&6[&e&lMaster Vanzel&6] Wow that's high praise.
+516	Text	&6Ready position!
+517	Text	&6Left shoulder!
+518	Text	&6Now the other side!
+519	Text	&6Duck!
+520	Text	&6And cut to the head!
+521	Text	&6Nicely done saber down.
+523	Text	&b[&9&lNetress&b] Alright stand here.
+524	Text	&4[&c&lKylo Ren&4] So you've had some lessons. I think it's time for a test.
+529	Text	&b[&9&lNetress&b] I do too!
+530	Text	Ready position!
+531	Text	Cut to the left shoulder!
+532	Text	Right shoulder!
+533	Text	Duck!
+535	Text	There you go! Cut to the head!
+536	Text	Yeah! Nice focus saber down!
+541	Text	&6[&e&lMaster Vanzel&6] Stand here.
+542	Text	&8[&0&lDarth Vader&8] We meet at last.
+544	Text	&6[&e&lMaster Vanzel&6] Yes we do.
+545	Text	&6Ready position!
+547	Text	&6Left shoulder!
+548	Text	&6Other side!
+549	Text	&6Duck!
+550	Text	&6And cut to the head!
+551.5	Text	&6Very good. Saber down.
+555	Text	&b[&9&lNetress&b] Okay stand here.
+557	Text	&4[&c&lKylo Ren&4] You wield your weapon like a Jedi. That's your first mistake.
+561	Text	&b[&9&lNetress&b] Don't listen to him!
+562	Text	Left side!
+563	Text	Other side!
+563.5	Text	Duck!
+564	Text	Cut to the head!
+565	Text	Nailed it! You didn't even need my help good job!
+569	Text	&6[&e&lMaster Vanzel&6] Stand here.
+570	Text	&8[&0&lDarth Vader&8] The force is strong with you, but you are not a Jedi. Yet.
+576	Text	&6[&e&lMaster Vanzel&6] Soon enough.
+577	Text	&6Ready position! 
+578	Text	&6Left shoulder!
+579	Text	&6Other side!
+580	Text	&6Duck!
+581.7	Text	&6Keep smiling, it confuses him!
+583	Text	&6Cut to the head!
+584	Text	&6Very good. Saber down.
+585	Text	&b[&9&lNetress&b] Stand here.
+586	Text	&4[&c&lKylo Ren&4] You think you're ready. Lets find out.
+590	Text	&b[&9&lNetress&b] Oh we will.
+591	Text	Ready position!
+592	Text	Left shoulder!
+592.5	Text	Right shoulder!
+593	Text	Duck!
+594	Text	Cut to the head!
+596	Text	Yeah you did it nice work saber down!
+603	Text	&6[&e&lMaster Vanzel&6] Stand here.
+604	Text	&8[&0&lDarth Vader&8] Your training will serve you well when you serve me.
+609	Text	&6[&e&lMaster Vanzel&6] Never.
+610	Text	&6Ready position!
+610.5	Text	&6Left shoulder!
+612	Text	&6Other side!
+613	Text	&6Duck!
+614	Text	&6And cut to the head!
+615	Text	&6Nicely done. Saber down.
+619	Text	&b[&9&lNetress&b] Alright stand here.
+620.5	Text	&4[&c&lKylo Ren&4] I see you've been taught to fight like a Jedi. So have I.
+624.5	Text	&b[&9&lNetress&b] You must have forgotten.
+625	Text	Ready position!
+626	Text	Left shoulder!
+627	Text	Right Shoulder!
+628	Text	Duck!
+629	Text	Cut to the head!
+630	Text	Yeah! Way to show them!
+632	Text	&6[&e&lMaster Vanzel&6] Ready position!
+633	Text	&6Left shoulder!
+634	Text	&6Other side!
+635	Text	&6Duck!
+636	Text	&6Cut to the head!
+638	Text	&6Stand here.
+639	Text	&8[&0&lDarth Vader&8] Your destiny lies with me search your feelings. You know this to be true.
+646	Text	&6[&e&lMaster Vanzel&6] No. I think that's false.
+647	Text	&6Ready position!
+648.5	Text	&6Left shoulder!
+650	Text	&6Other side!
+651	Text	&6Duck!
+652	Text	&6And cut to the head!
+654	Text	&6You did it! Well done saber down.
+655	Text	&b[&9&lNetress&b] Alright stand here.
+657	Text	&4[&c&lKylo Ren&4] You are brave to challenge me.
+659	Text	Ready position!
+660	Text	Left shoulder!
+661	Text	Right shoulder!
+662	Text	Duck!
+663	Text	Cut to the head!
+664	Text	Perfect nice work saber down!
+675	Text	&6[&e&lMaster Vanzel&6] Stand here.
+676	Text	&8[&0&lDarth Vader&8] Become my apprentice and I will complete your training.
+681	Text	&6[&e&lMaster Vanzel&6] Never 
+682	Text	&6Ready position!
+683	Text	&6Left shoulder!
+685	Text	&6Now the other side!
+687	Text	&6Duck!
+688.8	Text	&6And cut to the head!
+690	Text	&6Very good. Saber down.
+694	Text	&6Stand here.
+694.8	Text	&8[&0&lDarth Vader&8] Now we will see how strong you have become.
+698	Text	&6[&e&lMaster Vanzel&6] Yes you will.
+700	Text	&6Ready position!
+701	Text	&6Left shoulder!
+702	Text	&6Now the other side!
+704.5	Text	&6Duck!
+705	Text	&6And cut to the head!
+707	Text	&6Very good saber down!
+710	Text	&6Well done students!
+712	Text	&6Weren't they magnificent?
+716	Text	&b[&9&lNetress&b] Yeah! We took on the dark side!
+720.8	Text	&8[&0&lDarth Vader&8] Wait.
+722	Text	&b[&9&lNetress&b] Master?
+723	Text	&6[&e&lMaster Vanzel&6] The Trial is not over
+725	Text	&8[&0&lDarth Vader&8] Now you will learn the true power of the dark side.
+730	 Text	&6[&e&lMaster Vanzel&6] Netress protect the students.
+734	Text	&8[&0&lDarth Vader&8] Your students have done well.
+737	Text	&8I commend you for bringing them this far.
+741	Text	&8But this is where your training ends.
+744	Text	&b[&9&lNetress&b] No!
+747	Text	&8[&0&lDarth Vader&8] You have controlled your fear.
+750	Text	&8Now release your anger.
+753.5	Text	&b[&9&lNetress&b] What have you done with my master?
+756	Text	&4[&c&lKylo Ren&4] I am your master now.
+759	Text	&b[&9&lNetress&b] Gah!
+762	Text	&4[&c&lKylo Ren&4] And I'd like a word with my students.
+764	Text	&b[&9&lNetress&b] Stay back!
+765	Text	Students ready position!
+768	Text	&4[&c&lKylo Ren&4] Yes. Your anger will make you strong.
+772	Text	&4I can teach you to use it.
+774.8	Text	&4I can teach you the ways of the force.
+778	Text	&b[&9&lNetress&b] You mean the ways of the dark side.
+780	Text	&4[&c&lKylo Ren&4] The power of the dark side.
+784	Text	&4Join me.
+785	Text	&b[&9&lNetress&b] We will never join you.
+787	Text	We'll fight you!
+788	Text	Students activate!
+797	Text	&2[&a&lMaster Yoda&2] Hmm. Fight with fear and anger will you?
+801	Text	&b[&9&lNetress&b] Master Yoda?
+803	Text	&2[&a&lMaster Yoda&2] What you have learned from your master.
+805	Text	&2Your students must learn from you.
+809	Text	&b[&9&lNetress&b] Of course.
+811	Text	Students deactivate your lightsabers.
+815	Text	I understand now.
+817	Text	&2[&a&lMaster Yoda&2] Very well then.
+819	Text	&2Now ready they are. For this lesson.
+822	Text	&b[&9&lNetress&b] Thank you Master Yoda.
+824	Text	Students we faced our fears.
+826	Text	But to pass our trials we must let go of our anger.
+830	Text	Everyone lay down your lightsabers.
+833	Text	Now face Kylo Ren.
+835	Text	&4[&c&lKylo Ren&4] I would rethink that instruction.
+838	Text	&4Apprentice.
+839	Text	&b[&9&lNetress&b] Students we can do this!
+841	Text	When I count to three we're going to use the Force to push this illusion to back to where it came from.
+846	Text	One!
+847.8	Text	Two!
+848.8	Text	Three!
+851	Text	&4[&c&lKylo Ren&4] I am immune to the light.
+853.8	Text	&b[&9&lNetress&b] But you're not immune to the force. 
+856	Text	Gah!
+858	Text	Students all your power!
+860	Text	Now!
+863	Text	We did it! Hahahaha!
+866	Text	Students you were amazing!
+868	Text	Oh man!
+870	Text	Master you're safe!
+873	Text	&6[&e&lMaster Vanzel&6] Netress what happened?
+874.8	Text	&b[&9&lNetress&b] We defeated the dark side!
+877	Text	&6[&e&lMaster Vanzel&6] Oh... very good!
+880	Text	&6Well the dark side is powerful!
+882	Text	&6But you have proven today that the light side can be even stronger.
+885	Text	&6Students I would say you all passed your trial!
+888	Text	&b[&9&lNetress&b] Thanks! Master Yoda was right as always all we had to do was face our fear and let go of our anger.
+893	Text	&6[&e&lMaster Vanzel&6] A valuable lesson indeed.
+895	Text	&6And all of you you've shown great wisdom and control.
+899	Text	&6You are truley ready to follow the path...
+901	Text	&6Of the Jedi.
+904	Text	&2[&a&lMaster Yoda&2] Great is your bravery and skill young ones.
+908	Text	&2Well you have done indeed.
+911	Text	&2But remember stay true.
+913	Text	&2Stick to your path.
+915	Text	&2Remain strong.
+916	Text	&2And the Force will be with you...
+919	Text	&2Always.
+921	Text	&6[&e&lMaster Vanzel&6] Thank you Master Yoda.
+923	Text	&6Students pick up your light sabers!
+924.8	Text	&6Come! Gather around Netress and me come this way!
+946	Text	&6Now turn and face your family and friends!
+949	Text	&6Ready position!
+951	Text	&6Everyone! These students have shown great strength, skill and tremendous courage.
+957	Text	&6I present to you the future...
+959	Text	&6Of...
+959.5	Text	&e&l&nThe Jedi!
+
+#blocks
+1	Block	152	-61,21,413
+381	Block	152	-61,21,410
+381	Block	152	-62,21,409
+381	Block	152	-63,21,410
+381	Block	152	-64,21,409
+381	Block	152	-65,21,410
+381	Block	152	-66,21,409
+381	Block	152	-67,21,410
+381	Block	152	-68,21,409
+381	Block	152	-69,21,410
+381	Block	152	-70,21,409
+381	Block	152	-71,21,410
+381	Block	152	-72,21,409
+381	Block	152	-73,21,410
+381	Block	152	-74,21,409
+381	Block	152	-85,21,403
+381	Block	152	-84,21,402
+381	Block	152	-83,21,403
+381	Block	152	-82,21,402
+381	Block	152	-81,21,403
+381	Block	152	-80,21,402
+381	Block	152	-79,21,403
+381	Block	152	-78,21,402
+381	Block	152	-77,21,403
+381	Block	152	-76,21,402
+381	Block	152	-75,21,403
+381	Block	152	-74,21,402
+381	Block	152	-73,21,403
+381	Block	152	-72,21,402
+381	Block	152	-71,21,403
+381	Block	152	-70,21,402
+381	Block	152	-69,21,403
+381	Block	152	-68,21,402
+381	Block	152	-67,21,403
+381	Block	152	-66,21,402
+381	Block	152	-65,21,403
+381	Block	152	-64,21,402
+381	Block	152	-63,21,403
+381	Block	152	-62,21,402
+381	Block	152	-61,21,403
+381.5	Block	152	-85,21,416 
+381.5	Block	152	-83,21,416
+381.5	Block	152	-81,21,416
+381.5	Block	152	-80,21,410
+381.5	Block	152	-79,21,409
+381.5	Block	152	-78,21,410
+381.8	Block	152	-82,26,415
+381.8	Block	152	-81,26,414
+381.8	Block	152	-80,26,415
+381.8	Block	152	-79,26,414
+381.8	Block	152	-78,26,415
+381.8	Block	152	-77,26,414 
+381.8	Block	152	-76,26,415
+381.8	Block	152	-75,26,414
+381.8	Block	152	-74,26,415
+381.8	Block	152	-73,26,414
+381.8	Block	152	-72,26,415
+381.8	Block	152	-71,26,414
+381.8	Block	152	-70,26,415
+381.8	Block	152	-69,26,414
+926	Block	152	-84,26,404
+926	Block	152	-83,26,403
+926	Block	152	-82,26,404
+926	Block	152	-81,26,403
+926	Block	152	-80,26,404
+926	Block	152	-79,26,403
+390	Block	152	-71,21,393
+466	Block	152	-70,21,392
+722	Block	152	-71,21,393
+769	Block	152	-70,21,392
+837	Block	152	-71,21,393
+874	Block	152	-70,21,392
+480	Block	152	-66,26,414
+494	Block	152	-65,26,413
+510	Block	152	-66,26,414
+524	Block	152	-65,26,413
+542	Block	152	-66,26,414
+556	Block	152	-65,26,413
+569	Block	152	-66,26,414
+586	Block	152	-65,26,413
+603	Block	152	-66,26,414
+619	Block	152	-65,26,413
+638	Block	152	-66,26,414
+656	Block	152	-65,26,413
+675	Block	152	-66,26,414
+694	Block	152	-66,26,414
+390	Block	152	-65,21,414
+466	Block	152	-65,21,416
+837	Block	152	-65,21,414
+874	Block	152	-65,21,416
+722	Block	152	-65,21,414
+769	Block	152	-65,21,416
+631	Block	152	-66,26,414

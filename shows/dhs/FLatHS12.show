@@ -1,0 +1,72 @@
+#Show Started January 16th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths12
+5	AudioSync	flaths12	5
+10	AudioSync	flaths12	10
+30	AudioSync	flaths12	30
+60	AudioSync	flaths12	60
+70	AudioSync	flaths12	70
+#S12 Frozen Arendelle
+.2	Text	&f[&6Hans&f] &7Cloak.
+1.2	Text	&7Does anyone need a cloak?
+2.7	Text	&7The castle is open.
+4.1	Text	&7There's soup and hot glögg in the Great Hall.
+6.4	Text	&f[&cDuke of Weselton&f] &7Prince Hans, are we just expected to sit here and freeze while you give away all of Arendelle's tradable goods?
+13	Text	&f[&6Hans&f] &7Princess Anna has given her orders.
+15.1	Text	&7She left me in charge, and I will not hesitate to help the good people of Arendelle.
+20.9	Text	&f[&cDuke of Weselton&f] &7The weather is getting worse by the minute.
+23	Text	&7And there's been no sign of Princess Anna in sometime.
+26.1	Text	&7The people are worried.
+28.9	Text	&f[&6Hans&f] &7Perhaps you're right.
+30.2	Text	&7I will go and find her at once.
+38.3	Text	&f[&cDuke of Weselton&f] &7My lord!
+40.6	Text	&7I volunteer two men to accompany you.
+52.2	Text	&7Be prepared for anything,
+55.3	Text	&7should you encounter the Queen,
+58	Text	&7you are to put an end to this winter.
+62.3	Text	&7Do you understand?
+#SideDoorsOpen
+0	Block	152	470,65,106
+#MoveCurtainDown
+0	Block	152	452,89,102
+0	Block	152	453,89,102
+0	Block	152	454,89,102
+0	Block	152	455,89,102
+0	Block	152	456,89,102
+0	Block	152	457,89,102
+0	Block	152	458,89,102
+0	Block	152	459,89,102
+0	Block	152	460,89,102
+0	Block	152	461,89,102
+0	Block	152	462,89,102
+#OpenProjectors
+1	Block	152	477,66,57
+2	Block	152	477,66,58
+3	Block	152	477,66,59
+#CloneStairs
+0	Block	152	464,89,95
+#MoveStairs
+4	Block	152	464,89,96
+5	Block	152	464,89,96
+6	Block	152	464,89,96
+7	Block	152	464,89,96
+8	Block	152	464,89,96
+9	Block	152	464,89,96
+10	Block	152	464,89,96
+11	Block	152	464,89,96
+12	Block	152	464,89,96
+13	Block	152	464,89,96
+14	Block	152	464,89,96
+#CloseProjectors
+15	Block	152	468,89,99
+16	Block	152	468,89,98
+16	Block	0	468,89,99
+17	Block	0	468,89,98
+17	Block	152	468,89,97
+#Schematics
+18	Schematic	FLatHS13.1	439	62	68	newhws	false
+#Snow
+72	Block	0	465,88,68

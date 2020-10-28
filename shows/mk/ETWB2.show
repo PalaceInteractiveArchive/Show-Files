@@ -1,0 +1,9 @@
+Show	Location	-78,44,-1808
+Show	TextRadius	3
+Show	Name	ETWB2
+#Audio
+0	AudioStart	ETWB2
+0	AudioSync	ETWB2	0
+
+
+

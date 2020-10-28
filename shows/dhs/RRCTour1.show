@@ -1,0 +1,27 @@
+﻿Show	Location	-291,55,-85
+Show	TextRadius	15
+#This is the location where music/text is centered.
+Show	Name	rrctour
+#Follows the anti-double show running rule
+#Comment
+
+
+### Text ###
+#Text:
+10	Text	&2Welcome to the first section of the tour. The command blocks you can see behind
+13.9	Text	&2me are all to do with the animatronics with the armour stands within the Pre-show area.
+18.5	Text	&2They also spawn, despawn and control pixelators that are used throughout the preshow
+24	Text	&2and start of the ride before you are catapulted down the tunnel.
+
+### Blocks ###
+#http://minecraft-ids.grahamedgecombe.com/
+#Placing Blocks:
+25	Block	0	-279,56,-86
+25	Block	0	-279,56,-85
+
+## Start Tour 2 ##
+35	Block	152	-339,51,-104
+
+### Audio ###
+10	AudioStart	RRCTour1
+10	AudioSync	RRCTour1	0

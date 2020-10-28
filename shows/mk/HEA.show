@@ -1,0 +1,323 @@
+﻿Show	Location	-90,43,-1550
+Show	TextRadius	250
+Show	Name	Castle
+##Version1.3
+#Sequences
+0	Sequence	Light	healights
+#0	Sequence	Light	healights2
+0	Sequence	Build	heabuild
+0	Sequence	Particle	heaparticle
+503.3	Sequence	Build	heaIO2
+#Audio
+0	AudioStart	hea
+#Audio SYNC
+#0	AudioStart	hea	0
+10	AudioSync	hea	10
+15	AudioSync	hea	15
+30	AudioSync	hea	30
+60	AudioSync	hea	60
+120	AudioSync	hea	120
+180	AudioSync	hea	180
+240	AudioSync	hea	240
+300	AudioSync	hea	300
+360	AudioSync	hea	360
+420	AudioSync	hea	420
+480	AudioSync	hea	480
+540	AudioSync	hea	540
+600	AudioSync	hea	600
+660	AudioSync	hea	660
+720	AudioSync	hea	720
+800	AudioSync	hea	800
+860	AudioSync	hea	860
+940	AudioSync	hea	940
+1000	AudioSync	hea	1000
+1060	AudioSync	hea	1060
+1122	AudioSync	hea	1122
+1349	AudioSync	hea	1349
+#ParticlesBackOn
+1355	Block	5:1	-68,53,-1466
+#Chat
+1132	Block	152	-87,28,-1611
+#Money
+300	Block	152	-84,28,-1611
+600	Block	152	-84,28,-1611
+900	Block	152	-84,28,-1611
+1100	Block	152	-84,28,-1611
+#CompleteReset
+1355	Block	152	-93,24,-1595
+#HEAMain
+20	Text	&6[&eNarrator&6]&e And they all lived happily ever after.
+23.8	Text	&eEach of us has a dream,
+26	Text	&ea hearts desire, it calls to us.
+29.45	Text	&eAnd when we are brave enough to listen
+31.65	Text	&eand bold enough to pursue.
+34.10	Text	&eThat dream will lead us on a journey
+37.10	Text	&eto discover who we're meant to be.
+40.35	Text	&eAll we have to do is look inside our hearts
+44.20	Text	&eand unlock the magic within.
+
+48.50	Text	&2[&aJordan Fisher&2]&a Ready to begin... let the wonder, take hold.
+56.60	Text	&5[&dAngie Keilhauer&5]&d Feel it draw you in, watch the moment, unfold..
+63.50	Text	&9[&bJordan & Angie&9]&b Spark a dream that we're meant to follow,
+67.80	Text	&bsetting out for a new tomorrow
+74.30	Text	&2[&aJordan Fisher&2]&a Every step we take, brings a new hope, a new day...
+81.50	Text	&5[&dAngie Keilhauer&5]&d Every choice we make, helps us find our own way.
+89	Text	&9[&bJordan & Angie&9]&b Every wish that we put into motion.
+92	Text	&bDiving in with our hearts wide open.
+100	Text	&5[&dAngie Keilhauer&5]&d The story comes alive,
+106	Text	&2[&aJordan Fisher&2]&a When we look inside.
+107.10	Text	&5[&dAngie Keilhauer&5]&d A new adventure there in your eyes.
+113	Text	&2[&aJordan Fisher&2]&a There in your eyes.
+115.80	Text	&9[&bJordan & Angie&9]&b It's just beginning.
+118.50	Text	&bFeel your heart beat faster.
+122	Text	&bReach out and find your, &l&oHappily Ever After!
+129	Text	&5[&dAngie Keilhauer&5]&d Find your, &l&oHappily Ever After!
+
+#TIANA
+148.5	Text	&2[&aTiana&2] &aThe evening star is shining bright,
+154.5	Text	&aSo make a wish and hold on tight.
+160.50	Text	&aThere's magic in the air tonight,
+166.5	Text	&aAnd anything can happen.
+
+#(Music shifts to “When You Wish Upon a Star” fanfare. Music shifts to “Part of Your World.” Music shifts to “Out There.”)
+
+#QUASIMODO
+215	Text	&a[&2Quasimodo&a] &2Out there, strolling by the Seine.
+220.4	Text	&2Taste a morning out there, like ordinary men
+227	Text	&2Who freely walk about there,
+231	Text	&2Just one day, and then I swear I'll be content
+239	Text	&2with my share.
+242	Text	&2Won't resent, won't despair.
+246	Text	&2Old and bent, I won't care.
+247	Text	&2I'll have spent one day out there!
+
+#(Music shifts to “Touch the Sky.”)
+
+#MERIDA
+269.5	Text	&d[&5Merida&d]&c Your destiny lies within you.
+272	Text	&cYou just have to be brave enough to see it.
+274.5	Text	&cAnd then your journey begins!
+
+279.5	Text	&cI will hear their every story,
+282.5	Text	&cTake hold of my own dream.
+285.5	Text	&cBe as strong as the seas are stormy,
+289	Text	&cAnd proud as an eagle's scream.
+291.5	Text	&cI will ride, I will fly,
+294.5	Text	&cChase the wind and touch the sky!
+297.5	Text	&cI will fly. Chase the wind and touch the sky.
+
+307.5	Text	&cChase the wind, chase the wind and touch the sky!
+
+#(Music shifts to “How Far I’ll Go.”)
+
+#MOANA
+336.5	Text	&3[&9Moana&3] &bEvery turn I take, every trail I track,
+339	Text	&bEvery path I make, every road leads back
+342	Text	&bTo the place I know, where I can not go, where I long to be.
+
+350	Text	&bSee the light as it shines on the sea? It's blinding.
+355	Text	&bBut no one knows how deep it goes.
+361	Text	&bAnd it seems like it's calling out to me, so come find me!
+366	Text	&bAnd let me know, what's beyond that line, will I cross that line?
+
+372	Text	&bThe line where the sky meets the sea? It calls me.
+376.5	Text	&bAnd no one knows, how far it goes.
+382.5	Text	&bIf the wind in my sail on the sea stays behind me, one day I'll know, how far I'll go!
+
+#(Music shifts to Aladdin underscore.)
+
+#ALADDIN
+404.5	Text	&5[&dAladdin&5]&d Trust me, having a best friend by your side opens up a whole new world of possibilities!
+
+#(Music shifts to “Friend Like Me.”)
+
+#CHORUS
+416.5	Text	&6Oh, whoa...
+419	Text	&6Oh, my...
+421	Text	&6Oh, yeah...
+
+#(Music shifts to “Trashing the Camp”)
+#CHORUS
+430	Text	&aZabwe dap, zooboo doop, zabwe dap, zooboo doo dap ‘n dee yap.
+435	Text	&bZabwe dap, zooboo doop, zabwe dap, zooboo doo ‘n dee dee yoop.
+440	Text	&aZabwe dap, zooboo doop, zabwe dap, buh kah, buh kah, buh kah, buh kah! Dwee yap, dwee yoo.
+#(Music shifts to “Hakuna Matata.” Music shifts to “You’ve Got a Friend in Me.” Music shifts to “The Bare Necessities.” Music shifts back to “Hakuna Matata.” Music shifts back to “You’ve Got a Friend in Me.” Music shifts to “That’s What Friends Are For.”)
+
+#FEMALE CHORUS
+505	Text	&6And when you're outside looking in,
+509	Text	&6Who's there to open the door?
+
+#BASS SOLOIST
+515.5	Text	&3&l&oThat's what friends are for!
+
+#(Music shifts back to “Friend Like Me.”)
+
+#CHORUS
+530	Text	&6Mister Aladdin, sir,
+533.5	Text	&6Have a wish or two or three.
+538.5	Text	&6I'm on the job, you big nabob,
+
+#GENIE
+540	Text	&9[&3Genie&9]&3 You ain't never had a friend,
+542	Text	&3Never had a friend.
+543	Text	&3You ain't never had a friend,
+545	Text	&3Never had a friend.
+
+#GENIE AND CHORUS
+545.5	Text	&3You ain't never had a friend like me!
+
+#GENIE
+#Ya ha ha, ha ha ha,
+560.5	Text	&3You ain't never had a friend like me! &l&oHa!
+
+#(Music shifts to “Love Is an Open Door”)
+
+#OLAF
+572	Text	&7[&fOlaf&7] &fSome people are worth melting for.
+
+#FEMALE SOLOIST 1
+578.5	Text	&eSay goodbye
+
+#FEMALE SOLOIST 2
+580	Text	&eSay goodbye
+
+#BOTH
+581.5	Text	&eTo the pain of the past.
+585.5	Text	&eWe don't have to feel it anymore.
+
+#FEMALE SOLOIST 1
+592.7	Text	&eLove is an open door,
+598.4	Text	&eLove is an open door.
+
+#FEMALE SOLOIST 2
+604.1	Text	&eLove is an open door.
+
+#(Music shifts to “You’ll Be in My Heart.”)
+
+#MALE SOLOIST
+623.5	Text	&5You'll be in my heart,
+628.2	Text	&5No matter what they say.
+633.2	Text	&5You'll be here in my heart, always.
+
+#(Music fanfare. Music shifts to “I See the Light.”)
+
+#RAPUNZEL AND FLYNN RIDER
+670	Text	&b[&9Rapunzel & Flynn&b] &3And at last I see the light,
+
+#FLYNN RIDER
+673.9	Text	&b[&9Flynn&b] &3And it's like the fog has lifted.
+
+#RAPUNZEL AND FLYNN RIDER
+678.2	Text	&b[&9Rapunzel & Flynn&b] &3And at last I see the light,
+
+#RAPUNZEL
+682.7	Text	&b[&9Rapunzel&b] &3And it's like the sky is new.
+
+#RAPUNZEL AND FLYNN RIDER
+687	Text	&b[&9Rapunzel & Flynn&b] &3And it's warm and real and bright,
+691.6	Text	&3And the world has somehow shifted.
+700.3	Text	&3All at once, everything is different,
+705.45	Text	&3Now that I see you.
+
+#(Music shifts to Mulan theme.)
+
+#FA ZHOU
+729.5	Text	&2[&aThe Emperor&2] &aThe flower that blooms in adversity is the most rare and beautiful of all.
+
+#(Music shifts to action theme.)
+
+#URSULA
+#(Evil laugh.)
+
+#(Music shifts to “The Stampede.”)
+
+#SCAR
+#(Roar.)
+
+#(Music shifts to “He’s a Pirate.” Music shifts to “Go the Distance.”)
+
+#MUFASA
+863.4	Text	&3[&bMufasa&3] &9Look inside yourself.
+870.3	Text	&9You are more than what you have become.
+878.5	Text	&9Remember who you are.
+882.9	Text	&9Remember. Remember.
+
+#FEMALE SOLOIST
+892	Text	&6I have often dreamed of a far off place,
+898	Text	&6Where a hero's welcome would be waiting for me.
+
+#MALE SOLOIST
+903.5	Text	&6Where the crowds would cheer
+906.3	Text	&6When they see my face.
+
+#BOTH
+909.2	Text	&6And a voice keeps saying,
+909.4	Text	&6&l&o"This is where I'm meant to be."
+
+#CHORUS
+950.3	Text	&dI will beat the odds,
+954	Text	&dI can go the distance!
+956	Text	&dI will face the world,
+959.5	Text	&dFearless, proud, and strong.
+962.5	Text	&dI will please the gods,
+965	Text	&dI can go the distance!
+967.5	Text	&d'Til I find my hero's welcome,
+970.5	Text	&dRight where I belong.
+
+#(Music shifts back to “Happily Ever After” theme.)
+
+#NARRATOR
+994.35	Text	&6[&eNarrator&6]&e And so, our journey comes to an end.
+998	Text	&eBut yours continues on.
+1000.5	Text	&eGrab ahold of your dreams and make them come true.
+1004.9	Text	&eFor you are the key to unlocking your own magic.
+1009	Text	&eNow go.
+1010.2	Text	&eLet your dreams guide you.
+1012.8	Text	&eReach out and find your Happily Ever After.
+
+#FEMALE SOLOIST (ANGIE Keilhauer)
+1018.5	Text	&5[&dAngie Keilhauer&5] &dThe battles, the stories,
+1022.7	Text	&dThe losses and all the glories.
+
+#MALE SOLOIST (JORDAN FISHER)
+1026	Text	&2[&aJordan Fisher&2] &aWe're changed by the way, we live every day.
+1030	Text	&aJust look up and reach to the sky.
+
+#BOTH
+1034.5	Text	&5[&dAngie Keilhauer&5] &dWe all have the courage to fly!
+
+#CHORUS
+1038.45	Text	&eYou can fly! You can fly!
+1039.5	Text	&eYou can fly! You can fly!
+1042.5	Text	&eYou can fly!
+
+#(TINKER BELL flies overhead.)
+
+#CHORUS
+1048.6	Text	&b&l&oThe story comes alive!
+
+#MALE SOLOIST
+1055.3	Text	&6When we look inside.
+
+#CHORUS
+1058.5	Text	&6A new adventure, there in your eyes.
+
+#BOTH SOLOISTS
+1063	Text	&6There in your eyes!
+
+#CHORUS
+1066	Text	&6It's just beginning,
+1069	Text	&6Feel your heart beat faster.
+1073.3	Text	&6Reach out and find your...
+1075.6	Text	&6Reach out and find your...
+1077.5	Text	&6Reach out and find your...
+1083.5	Text	&d&l&oHappily Ever After!
+
+#HEAPost
+1108.5  Text    &eLadies and Gentlemen, Boys and Girls, dreamers of all ages!
+1113    Text    &eThank you for joining us this evening for our nighttime spectacular,
+1117    Text    &d&lHappily Ever After &e- Presented by Aquaticalo.
+1119    Text    &ePlease enjoy the rest of your night and here at the &5Palace Network&e,
+1122.5  Text    &eas you continue your journey to your &d&oHappily Ever After&e.
+1125	Text	&eDeveloped by- Palace Network Shows Team
+1128	Text	&eBuilt by- Palace Network Build Team

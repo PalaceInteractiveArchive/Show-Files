@@ -1,0 +1,23 @@
+﻿Show	Location	593,55,556
+Show	TextRadius	50
+#GirlPixelOn
+0	Block	152	590,47,593
+#PixelOff
+6	Block	152	591,47,593
+#NightVisionAndBlindness
+5.4	Block	152	592,47,593
+5.5	Block	152	594,47,593
+5.6	Block	152	593,47,593
+5.7	Block	152	594,47,593
+#BreakGlass
+5.8	Block	152	595,47,593
+#NightVisionAndBlindness
+5.8	Block	152	592,47,593
+5.9	Block	152	594,47,593
+6	Block	152	593,47,593
+6.1	Block	152	594,47,593
+#NightVisionAndBlindness
+6.2	Block	152	592,47,593
+6.3	Block	152	594,47,593
+6.4	Block	152	593,47,593
+6.5	Block	152	594,47,593

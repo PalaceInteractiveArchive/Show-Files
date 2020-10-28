@@ -1,0 +1,55 @@
+﻿Show	Location	-197,43,-1619
+Show	TextRadius	75
+Show	Name	GMiH
+
+#Audio
+0	AudioStart	gmih
+0	AudioSync	gmih	0
+
+#Audio
+0.5	Text	&f[&6James Jefferson&f] &eHere ye, here ye,
+2.8	Text	&eI am &6James Jefferson&e, the town crier of Liberty Square,
+6.8	Text	&ebut my friends call me &6JJ.
+9.5	Text	&eGather round, gather round!
+12.5	Text	&eCome closer all you people,
+14	Text	&egather round and listen well.
+16.8	Text	&eI've got a satchuel full of historys greatest tales to tell!
+20.5	Text	&eYour hair will stand on end with all the history and such!
+24.5	Text	&f[&3Sam&f] &bUnless of course your bald like me, in which case not so much.
+27	Text	&f[&6James Jefferson&f] &eHey &3Sam&e! It's &3Sam Eagle &eeverybody!
+31.3	Text	&eTell us &3Sam&e, what great american story are we sharing today?
+34.7	Text	&f[&3Sam&f] &bToday we shall salute, the &oDeclaration of Independance!
+39.5	Text	&f[&6James Jefferson&f] &eAh, a great story indeed!
+43.5	Text	&eThe people of the colonies, they said &olet freedom win!
+46.5	Text	&eDeclared their independance and-
+48	Text	&f[&3Sam&f] &bblahblahblahblah blah!
+49.8	Text	&f[&6James Jefferson&f] &eThere were battles, there was violence,
+51.6	Text	&ethere were spies and traitors too!
+53.3	Text	&f[&3Sam&f] &bBut we won't be caught on that!
+55.3	Text	&bThis is wholesome through-and-through!
+57	Text	&f[&6James Jefferson&f] &eRight! Let's bring out some friends to help us pay back what's for you!
+61	Text	&f[&2Kermit, &5Mrs Piggy, &eFozzie &fand &1Gonzo&f] &aWelcome! &dBonjour! &6Hiya! &9Woohoo!
+64.4	Text	&f[&4Muppets&f] &cGreat Moments of History!
+66.4	Text	&f[&1Gonzo&f] &9La-lala-la-la!
+68.2	Text	&f[&4Muppets&f] &cGreat Moments of History!
+69.9	Text	&f[&5Mrs Piggy&f] &dAnd this one features mwah!
+71.1	Text	&f[&6James Jefferson&f] &eAnd here is what you'll take away, in all your minds and hearts-
+78.1	Text	&f[&4Muppets&f] &cGreat Moments of History!
+80.1	Text	&f[&3Sam&f] &bBut only the American parts.
+81.8	Text	&f[&4Muppets&f] &cGreat Moments of History, but just the American parts!
+88.7	Text	&f[&2Kermit&f] &aHeyo, and welcome to Great Moments of History!
+91	Text	&f[&3Sam&f] &bBut just the American parts!
+93.1	Text	&f[&2Kermit&f] &aThat's right Sam!
+94.1	Text	&f[&3Sam&f] &bAs the official Liberty Square historian,
+97.3	Text	&bI have drafted tributes to every important event in American history!
+103.2	Text	&6JJ&b, please remind everyone which great moment we are sharing today!
+108.7	Text	&f[&6James Jefferson&f] &e&oThe Decleration of Independance!
+
+#Blocks
+0	Block	126:1	-194,43,-1622
+
+#ArmorStandDefine
+ArmorStand	jj	false	0;0;0;0;0
+
+#ArmorStandSpawn
+0	ArmorStand	jj	Spawn	-194,43,-1622,0

@@ -1,0 +1,24 @@
+Show	Location	-90,70,-1620
+Show	TextRadius	100000
+
+##Pressure Plates
+0   Block   0   -302,40,-1479
+0   Block   0   -259,42,-1580
+0   Block   0   -97,45,-1733
+0   Block   0   -33,45,-1718
+0   Block   0   92,43,-1515
+0   Block   0   -390,42,-1491 
+0   Block   0   115,45,-1779
+
+##Kill AST
+0   Block   152 -78,36,-1563
+
+##Text
+
+0   Text    &cThank you for joining us for Mickey's Very Merry Christmas Party!
+3   Text    &2We hope you had a very merry time!
+6   Text    &cTreat stations around the park are now CLOSED!
+9   Text    &2Thank you for joining us! And enjoy the rest of your day here at the &dPalace Network!
+
+
+

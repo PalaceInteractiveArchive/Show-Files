@@ -1,0 +1,41 @@
+Show	Location	-109,63,-33
+Show	TextRadius	45
+#Schematic
+0	Schematic	BatB-Village	-104	64	-38	newhws	false
+#MiddleGlowstoneByCurtainOn(2)
+0	Block	95:8	-105,63,-50
+0	Block	95:8	-92,63,-37
+#BackCurainLightsOn(4)
+0	Block	89	-95,74,-45
+0	Block	89	-97,74,-47
+#CurtainLightsOn(4)
+0	Block	89	-100,74,-41
+0	Block	89	-101,74,-42
+0	Block	89	-96,72,-37
+0	Block	89	-105,72,-46
+#LeftStageMidLightOff
+0	Block	159:0	-106,63,-40
+#RightStageLightOff
+0	Block	159:0	-99,63,-35
+#CenterStageLightOff
+0	Block	159:0	-104,63,-38
+#VillageEffectOff
+0	Block	0	-80,65,-30
+#SmokeEffectOff
+0	Block	0	-85,65,-25
+#MainStageLightsOnAfterBell
+0	Block	89	-104,74,-38
+0	Block	89	-101,73,-35
+0	Block	89	-102,73,-36
+0	Block	89	-106,73,-40
+0	Block	89	-107,73,-41
+0	Block	89	-100,72,-34
+0	Block	89	-108,72,-42
+0	Block	89	-98,71,-31
+0	Block	89	-111,71,-44
+0	Block	89	-111,69,-46
+0	Block	89	-96,69,-31
+#KillArmorStand
+0	Block	152	-80,65,-21
+#AreaDisable
+0	Block	152	-73,65,-33

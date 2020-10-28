@@ -1,0 +1,163 @@
+﻿Show	Location	-543,49,-1604
+Show	TextRadius	25
+#Define
+ArmorStand	splmbear1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2U3ZWEzOTRjZGU5NDY1YWYyNjVjNTZjYTA3MTY2N2YxMjE1MTdiMmY1MTRjMzJjNWRmYjRmZWVkMzAwZmQ0OSJ9fX0=";299(74,47,21);300(74,47,21);301(74,47,21);0
+ArmorStand	splmfox1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM3ZDhiNDQ5NGY1YTNhZjdlZWM4N2RiYjM0NjZjZDNkZGE3ODM1Y2Y1ZDNhMzVkMWQ2YTFmYTQzMzdlMGIzIn19fQ==";299(80,152,181);300(33,46,33);301(186,126,73);0
+ArmorStand	splmfoxhat1	true	293:42;0;0;0
+ArmorStand	splmrabbit1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThhNGZiMjVhZmJjNmI3YWVjMTVhYmU4NzJmY2VhZDFlNWIzM2MxYWIxMjUyNTE0MWQ3N2JmZDI5OGZjMzJkOSJ9fX0=";299(214,160,222);300(35,87,99);301(110,88,66);0
+ArmorStand	splmbluebird1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjY2ODMyOWU2NDVmY2MxMGE3OWVlNzM5MWMxODM1Yzc4ZWNjYmE5NWE3YmEzODk1YzNkYTg1YTYwIn19fQ==";299(64,148,173);300(64,148,173);301(64,148,173);0
+#Spawn
+0	ArmorStand	splmbear1	Spawn	-546.327,50.5,-1610.516,-10
+0.1	ArmorStand	splmbear1	Position	ARM_LEFT	-40,0,0	0.5
+0.1	ArmorStand	splmbear1	Position	LEG_RIGHT	0,10,0	0.5
+0.1	ArmorStand	splmbear1	Position	ARM_RIGHT	-60,50,0	0.5
+0.1	ArmorStand	splmbear1	Position	LEG_LEFT	-10,-10,0	0.5
+0.1	ArmorStand	splmbear1	Position	HEAD	25,0,0	0.5
+0.1	ArmorStand	splmbear1	Position	BODY	10,0,0	0.5
+0	ArmorStand	splmfox1	Spawn	-546.327,52.1,-1610.716,0
+0	ArmorStand	splmfoxhat1	Spawn	-546.327,52.17,-1610.716,0
+0.1	ArmorStand	splmfox1	Position	ARM_LEFT	-100,0,0	0.5
+0.1	ArmorStand	splmfox1	Position	ARM_RIGHT	-80,0,0	0.5
+0.1	ArmorStand	splmfox1	Position	BODY	10,0,0	0.5
+0.1	Block	152	-544,46,-1610
+0	ArmorStand	splmrabbit1	Spawn	-546.601,50.06250,-1605.870,-90
+0.1	ArmorStand	splmrabbit1	Position	ARM_LEFT	-150,0,15	0.5
+0.1	ArmorStand	splmrabbit1	Position	LEG_LEFT	0,-10,0	0.5
+0.1	ArmorStand	splmrabbit1	Position	LEG_RIGHT	-10,10,0	0.5
+0	ArmorStand	splmbluebird1	Spawn	-546.486,51.3,-1604.520,-130
+0.1	ArmorStand	splmbluebird1	Position	LEG_LEFT	60,0,0	0.5
+0.1	ArmorStand	splmbluebird1	Position	LEG_RIGHT	60,0,0	0.5
+0.1	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	0.5
+##Movements
+#Bear
+#Arm
+2	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+3	ArmorStand	splmbear1	Position	ARM_LEFT	-50,0,0	1
+3.5	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+5	ArmorStand	splmbear1	Position	ARM_LEFT	-40,0,0	2
+8	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+9	ArmorStand	splmbear1	Position	ARM_LEFT	-50,0,0	1
+9.5	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+10	ArmorStand	splmbear1	Position	ARM_LEFT	-40,0,0	2
+14	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+15	ArmorStand	splmbear1	Position	ARM_LEFT	-50,0,0	1
+15.5	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+16	ArmorStand	splmbear1	Position	ARM_LEFT	-40,0,0	2
+20	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+21	ArmorStand	splmbear1	Position	ARM_LEFT	-50,0,0	1
+21.5	ArmorStand	splmbear1	Position	ARM_LEFT	-70,0,0	2
+22	ArmorStand	splmbear1	Position	ARM_LEFT	-40,0,0	2
+#Head
+1	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+1.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+3	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+3.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+7	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+7.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+8	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+8.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+10	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+10.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+11	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+11.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+15	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+15.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+16	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+16.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+19	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+19.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+20	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+20.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+24	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+24.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+25	ArmorStand	splmbear1	Position	HEAD	20,0,0	5
+25.5	ArmorStand	splmbear1	Position	HEAD	-20,0,0	5
+#Fox
+2	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+2.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+3	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+5	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+5.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+6	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+9	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+9.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+10	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+12	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+12.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+13	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+16	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+16.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+17	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+20	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+20.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+21	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+23	ArmorStand	splmfox1	Position	HEAD	-20,0,0	2
+23.5	ArmorStand	splmfox1	Position	HEAD	20,0,0	2
+24	ArmorStand	splmfox1	Position	HEAD	0,0,0	2
+##Rabbit
+#Head
+1.5	ArmorStand	splmrabbit1	Position	HEAD	20,0,10	3
+2	ArmorStand	splmrabbit1	Position	HEAD	0,0,0	3
+4.5	ArmorStand	splmrabbit1	Position	HEAD	20,0,0	3
+5	ArmorStand	splmrabbit1	Position	HEAD	0,0,0	3
+8.5	ArmorStand	splmrabbit1	Position	HEAD	20,-10,0	3
+9	ArmorStand	splmrabbit1	Position	HEAD	0,0,0	3
+11.5	ArmorStand	splmrabbit1	Position	HEAD	20,0,20	3
+12	ArmorStand	splmrabbit1	Position	HEAD	0,0,0	3
+15.5	ArmorStand	splmrabbit1	Position	HEAD	20,0,0	3
+16	ArmorStand	splmrabbit1	Position	HEAD	0,0,0	3
+#Arm
+2	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-65,0,0	2
+2.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-40,0,0	2
+3.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-10,0,0	2
+6	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-65,0,0	2
+6.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-40,0,0	2
+7.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-10,0,0	2
+10	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-65,0,0	2
+10.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-40,0,0	2
+11.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-30,0,0	2
+14	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-65,0,0	2
+14.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-20,0,0	2
+15.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-50,0,0	2
+17	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-65,0,0	2
+17.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-40,0,0	2
+18.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-10,0,0	2
+20	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-45,0,0	2
+20.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-60,0,0	2
+21.5	ArmorStand	splmrabbit1	Position	ARM_RIGHT	-30,0,0	2
+##Bird
+#Head
+1	ArmorStand	splmbluebird1	Position	HEAD	0,20,0	6
+1.5	ArmorStand	splmbluebird1	Position	HEAD	0,-20,0	6
+5	ArmorStand	splmbluebird1	Position	HEAD	0,20,0	6
+5.5	ArmorStand	splmbluebird1	Position	HEAD	0,0,0	6
+8	ArmorStand	splmbluebird1	Position	HEAD	0,20,0	2
+8.5	ArmorStand	splmbluebird1	Position	HEAD	0,-20,0	2
+11	ArmorStand	splmbluebird1	Position	HEAD	0,20,0	2
+11.5	ArmorStand	splmbluebird1	Position	HEAD	0,-20,0	2
+16	ArmorStand	splmbluebird1	Position	HEAD	0,0,0	2
+16.5	ArmorStand	splmbluebird1	Position	HEAD	0,-20,0	2
+21	ArmorStand	splmbluebird1	Position	HEAD	0,20,0	2
+21.5	ArmorStand	splmbluebird1	Position	HEAD	0,-20,0	2
+25	ArmorStand	splmbluebird1	Position	HEAD	0,20,0	2
+25.5	ArmorStand	splmbluebird1	Position	HEAD	0,-20,0	2
+#Arm
+2	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,30,160	3
+3	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	3
+5	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,30,160	3
+6	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	3
+10	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,30,160	3
+11	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	3
+15	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,30,160	3
+16	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	3
+19	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,30,160	3
+20	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	3
+24	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,30,160	3
+25	ArmorStand	splmbluebird1	Position	ARM_LEFT	-90,0,160	3
+##Despawn
+30	ArmorStand	splmbear1	Despawn
+30	ArmorStand	splmfox1	Despawn
+30	ArmorStand	splmfoxhat1	Despawn
+30	ArmorStand	splmrabbit1	Despawn
+30	ArmorStand	splmbluebird1	Despawn
+30	Block	152	-544,45,-1607

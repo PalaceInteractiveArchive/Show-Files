@@ -1,0 +1,408 @@
+Sequence	Light
+#Define				
+EnderCrystal	bl1	Actual
+EnderCrystal	bl2	Actual
+EnderCrystal	bl3	Actual
+EnderCrystal	bl4	Actual
+EnderCrystal	bl5	Actual
+EnderCrystal	bl6	Actual
+EnderCrystal	bl7	Actual
+EnderCrystal	bl8	Actual
+EnderCrystal	bl9	Actual
+EnderCrystal	bl10	Actual
+EnderCrystal	bl11	Actual
+EnderCrystal	bl12	Actual
+EnderCrystal	bl13	Actual
+EnderCrystal	bl14	Actual
+EnderCrystal	bl15	Actual
+EnderCrystal	bl16	Actual
+EnderCrystal	ml1	Actual
+EnderCrystal	ml2	Actual
+EnderCrystal	ml3	Actual
+EnderCrystal	ml4	Actual
+EnderCrystal	ml5	Actual
+EnderCrystal	br1	Actual
+EnderCrystal	br2	Actual
+EnderCrystal	br3	Actual
+EnderCrystal	br4	Actual
+EnderCrystal	br5	Actual
+EnderCrystal	br6	Actual
+EnderCrystal	br7	Actual
+EnderCrystal	br8	Actual
+EnderCrystal	br9	Actual
+EnderCrystal	br10	Actual
+EnderCrystal	br11	Actual
+EnderCrystal	br12	Actual
+EnderCrystal	br13	Actual
+EnderCrystal	br14	Actual
+EnderCrystal	br15	Actual
+EnderCrystal	br16	Actual
+EnderCrystal	mr1	Actual
+EnderCrystal	mr2	Actual
+EnderCrystal	mr3	Actual
+EnderCrystal	mr4	Actual
+EnderCrystal	mr5	Actual
+#tomorrow
+#Left	inner			
+71.9	bl9	Spawn	-96,70.6,-1667	-139,57,-1684
+71.9	bl10	Spawn	-95,70.6,-1667	-138,57,-1684
+71.9	bl11	Spawn	-94,70.6,-1667	-137,57,-1684
+71.9	bl12	Spawn	-93,70.6,-1667	-136,57,-1684
+71.9	bl13	Spawn	-92,70.6,-1667	-135,57,-1684
+71.9	bl14	Spawn	-91,70.6,-1667	-134,57,-1684
+71.9	bl15	Spawn	-90,70.6,-1667	-133,57,-1684
+71.9	bl16	Spawn	-89,70.6,-1667	-132,57,-1684
+#Right	inner			
+71.9	br9	Spawn	-86,70.6,-1667	-43,58,-1683
+71.9	br10	Spawn	-87,70.6,-1667	-44,58,-1683
+71.9	br11	Spawn	-88,70.6,-1667	-45,58,-1683
+71.9	br12	Spawn	-89,70.6,-1667	-46,58,-1683
+71.9	br13	Spawn	-90,70.6,-1667	-47,58,-1683
+71.9	br14	Spawn	-91,70.6,-1667	-48,58,-1683
+71.9	br15	Spawn	-92,70.6,-1667	-49,58,-1683
+71.9	br16	Spawn	-93,70.6,-1667	-50,58,-1683
+#Left	inner			
+72	bl9	Move	-119,112.2,-1638.1	1.6
+72	bl10	Move	-114,109.8,-1635.55	1.6
+72	bl11	Move	-109,107.4,-1634.7	1.6
+72	bl12	Move	-103,104.2,-1633.85	1.6
+72	bl13	Move	-97,101,-1633	1.6
+72	bl14	Move	-92,98.6,-1633	1.6
+72	bl15	Move	-86,95.4,-1633	1.6
+72	bl16	Move	-80,92.2,-1633.85	1.6
+#Right	inner			
+72	br9	Move	-63,112.2,-1638.1	1.6
+72	br10	Move	-68,109.8,-1635.55	1.6
+72	br11	Move	-73,107.4,-1634.7	1.6
+72	br12	Move	-79,104.2,-1633.85	1.6
+72	br13	Move	-85,101,-1633	1.6
+72	br14	Move	-90,98.6,-1633	1.6
+72	br15	Move	-96,95.4,-1633	1.6
+72	br16	Move	-102,92.2,-1633.85	1.6
+#Left	inner			
+75.2	bl9	Despawn		
+75.1	bl10	Despawn		
+74.9	bl11	Despawn		
+74.8	bl12	Despawn		
+74.6	bl13	Despawn		
+74.5	bl14	Despawn		
+74.3	bl15	Despawn		
+74.2	bl16	Despawn		
+#Right	inner			
+75.2	br9	Despawn		
+75.1	br10	Despawn		
+74.9	br11	Despawn		
+74.8	br12	Despawn		
+74.6	br13	Despawn		
+74.5	br14	Despawn		
+74.3	br15	Despawn		
+74.2	br16	Despawn
+#Left	outer			
+74.9	bl1	Spawn	-152,76.2,-1627.9	-161,57,-1684
+74.9	bl2	Spawn	-151,76.2,-1627.9	-160,57,-1684
+74.9	bl3	Spawn	-150,76.2,-1627.9	-159,57,-1684
+74.9	bl4	Spawn	-149,76.2,-1627.9	-158,57,-1684
+74.9	bl5	Spawn	-148,76.2,-1627.9	-157,57,-1684
+74.9	bl6	Spawn	-147,76.2,-1627.9	-156,57,-1684
+74.9	bl7	Spawn	-146,76.2,-1627.9	-155,57,-1684
+74.9	bl8	Spawn	-145,76.2,-1627.9	-154,57,-1684
+#Right	outer			
+74.9	br1	Spawn	-28,76.2,-1627.9	-19,58,-1683
+74.9	br2	Spawn	-29,76.2,-1627.9	-20,58,-1683
+74.9	br3	Spawn	-30,76.2,-1627.9	-21,58,-1683
+74.9	br4	Spawn	-31,76.2,-1627.9	-22,58,-1683
+74.9	br5	Spawn	-32,76.2,-1627.9	-23,58,-1683
+74.9	br6	Spawn	-33,76.2,-1627.9	-24,58,-1683
+74.9	br7	Spawn	-34,76.2,-1627.9	-25,58,-1683
+74.9	br8	Spawn	-35,76.2,-1627.9	-26,58,-1683
+#Left	outer			
+77	bl1	Move	-132.5,113.8,-1626.2	1.6
+76.7	bl2	Move	-125.5,111.4,-1624.5	1.6
+76.4	bl3	Move	-120,109.8,-1623.65	1.6
+76.1	bl4	Move	-114.5,107.4,-1622.8	1.6
+75.9	bl5	Move	-109,105,-1621.95	1.6
+75.6	bl6	Move	-102,102.6,-1621.1	1.6
+75.3	bl7	Move	-96.5,100.2,-1621.1	1.6
+75	bl8	Move	-89.5,98.6,-1621.1	1.6
+#Right	outer			
+77	br1	Move	-47.5,113.8,-1626.2	1.6
+76.7	br2	Move	-54.5,111.4,-1624.5	1.6
+76.4	br3	Move	-60,109.8,-1623.65	1.6
+76.1	br4	Move	-65.5,107.4,-1622.8	1.6
+75.9	br5	Move	-71,105,-1621.95	1.6
+75.6	br6	Move	-78,102.6,-1621.1	1.6
+75.3	br7	Move	-83.5,100.2,-1621.1	1.6
+75	br8	Move	-90.5,98.6,-1621.1	1.6
+#Left	outer			
+78.1	bl1	Despawn		
+78	bl2	Despawn		
+77.9	bl3	Despawn		
+77.8	bl4	Despawn		
+77.6	bl5	Despawn		
+77.5	bl6	Despawn		
+77.4	bl7	Despawn		
+77.3	bl8	Despawn		
+#Right	outer			
+78.1	br1	Despawn		
+78	br2	Despawn		
+77.9	br3	Despawn		
+77.8	br4	Despawn		
+77.6	br5	Despawn		
+77.5	br6	Despawn		
+77.4	br7	Despawn		
+77.3	br8	Despawn	
+#New dayyy	
+#Left	outer			
+79.7	bl1	Spawn	-132.5,113.8,-1626.2	-161,57,-1684
+79.6	bl2	Spawn	-125.5,111.4,-1624.5	-160,57,-1684
+79.6	bl3	Spawn	-120,109.8,-1623.65	-159,57,-1684
+79.5	bl4	Spawn	-114.5,107.4,-1622.8	-158,57,-1684
+79.4	bl5	Spawn	-109,105,-1621.95	-157,57,-1684
+79.3	bl6	Spawn	-102,102.6,-1621.1	-156,57,-1684
+79.3	bl7	Spawn	-96.5,100.2,-1621.1	-155,57,-1684
+79.2	bl8	Spawn	-89.5,98.6,-1621.1	-154,57,-1684
+#Right	outer			
+79.7	br1	Spawn	-47.5,113.8,-1626.2	-19,58,-1683
+79.6	br2	Spawn	-54.5,111.4,-1624.5	-20,58,-1683
+79.6	br3	Spawn	-60,109.8,-1623.65	-21,58,-1683
+79.5	br4	Spawn	-65.5,107.4,-1622.8	-22,58,-1683
+79.4	br5	Spawn	-71,105,-1621.95	-23,58,-1683
+79.3	br6	Spawn	-78,102.6,-1621.1	-24,58,-1683
+79.3	br7	Spawn	-83.5,100.2,-1621.1	-25,58,-1683
+79.2	br8	Spawn	-90.5,98.6,-1621.1	-26,58,-1683
+#Left	outer			
+79.6	bl1	Move	-137,113.8,-1625.35	0.9
+79.6	bl2	Move	-131.5,111.4,-1623.65	0.9
+79.5	bl3	Move	-126,109.8,-1622.8	0.9
+79.5	bl4	Move	-120.5,107.4,-1621.95	0.9
+79.4	bl5	Move	-119.5,105,-1619.4	0.9
+79.4	bl6	Move	-121.5,102.6,-1616.85	0.9
+79.3	bl7	Move	-125,100.2,-1615.15	0.9
+79.3	bl8	Move	-127,98.6,-1612.6	0.9
+#Right	outer			
+79.6	br1	Move	-43,113.8,-1625.35	0.9
+79.6	br2	Move	-48.5,111.4,-1623.65	0.9
+79.5	br3	Move	-54,109.8,-1622.8	0.9
+79.5	br4	Move	-59.5,107.4,-1621.95	0.9
+79.4	br5	Move	-60.5,105,-1619.4	0.9
+79.4	br6	Move	-58.5,102.6,-1616.85	0.9
+79.3	br7	Move	-55,100.2,-1615.15	0.9
+79.3	br8	Move	-53,98.6,-1612.6	0.9
+#Left	outer			
+81	bl1	Move	-122,113.8,-1627.9	0.6
+81	bl2	Move	-119.5,111.4,-1626.2	0.6
+81.1	bl3	Move	-118.5,109.8,-1624.5	0.6
+81.1	bl4	Move	-117.5,107.4,-1621.95	0.6
+81.2	bl5	Move	-118,105,-1619.4	0.6
+81.2	bl6	Move	-115.5,102.6,-1618.55	0.6
+81.3	bl7	Move	-116,100.2,-1616	0.6
+81.3	bl8	Move	-115,98.6,-1614.3	0.6
+#Right	outer			
+81	br1	Move	-58,113.8,-1627.9	0.6
+81	br2	Move	-60.5,111.4,-1626.2	0.6
+81.1	br3	Move	-61.5,109.8,-1624.5	0.6
+81.1	br4	Move	-62.5,107.4,-1621.95	0.6
+81.2	br5	Move	-62,105,-1619.4	0.6
+81.2	br6	Move	-64.5,102.6,-1618.55	0.6
+81.3	br7	Move	-64,100.2,-1616	0.6
+81.3	br8	Move	-65,98.6,-1614.3	0.6
+#Left	outer			
+81.6	bl1	Despawn		
+81.5	bl2	Despawn		
+81.4	bl3	Despawn		
+81.3	bl4	Despawn		
+81.3	bl5	Despawn		
+81.2	bl6	Despawn		
+81.1	bl7	Despawn		
+81	bl8	Despawn		
+#Right	outer			
+81.6	br1	Despawn		
+81.5	br2	Despawn		
+81.4	br3	Despawn		
+81.3	br4	Despawn		
+81.3	br5	Despawn		
+81.2	br6	Despawn		
+81.1	br7	Despawn		
+81	br8	Despawn		
+#Inners again 1:26 spawn at previous spot	
+#Left	inner			
+80.5	bl9	Spawn	-119,112.2,-1638.1	-139,57,-1684
+80.5	bl10	Spawn	-114,109.8,-1635.55	-138,57,-1684
+80.5	bl11	Spawn	-109,107.4,-1634.7	-137,57,-1684
+80.5	bl12	Spawn	-103,104.2,-1633.85	-136,57,-1684
+80.5	bl13	Spawn	-97,101,-1633	-135,57,-1684
+80.5	bl14	Spawn	-92,98.6,-1633	-134,57,-1684
+80.5	bl15	Spawn	-86,95.4,-1633	-133,57,-1684
+80.5	bl16	Spawn	-80,92.2,-1633.85	-132,57,-1684
+#Right	inner			
+80.5	br9	Spawn	-63,112.2,-1638.1	-43,58,-1683
+80.5	br10	Spawn	-68,109.8,-1635.55	-44,58,-1683
+80.5	br11	Spawn	-73,107.4,-1634.7	-45,58,-1683
+80.5	br12	Spawn	-79,104.2,-1633.85	-46,58,-1683
+80.5	br13	Spawn	-85,101,-1633	-47,58,-1683
+80.5	br14	Spawn	-90,98.6,-1633	-48,58,-1683
+80.5	br15	Spawn	-96,95.4,-1633	-49,58,-1683
+80.5	br16	Spawn	-102,92.2,-1633.85	-50,58,-1683
+#Left	inner			
+82.6	bl9	Move	-120,114.6,-1640.65	0.7
+82.3	bl10	Move	-115,112.2,-1638.95	0.7
+82	bl11	Move	-110,109.8,-1637.25	0.7
+81.7	bl12	Move	-105,107.4,-1635.55	0.7
+81.5	bl13	Move	-99,104.2,-1634.7	0.7
+81.2	bl14	Move	-93,101,-1634.7	0.7
+80.9	bl15	Move	-88,98.6,-1634.7	0.7
+80.6	bl16	Move	-82,95.4,-1634.7	0.7
+#Right	inner			
+82.6	br9	Move	-62,114.6,-1640.65	0.7
+82.3	br10	Move	-67,112.2,-1638.95	0.7
+82	br11	Move	-72,109.8,-1637.25	0.7
+81.7	br12	Move	-77,107.4,-1635.55	0.7
+81.5	br13	Move	-83,104.2,-1634.7	0.7
+81.2	br14	Move	-89,101,-1634.7	0.7
+80.9	br15	Move	-94,98.6,-1634.7	0.7
+80.6	br16	Move	-100,95.4,-1634.7	0.7
+#Left	inner			
+81.9	bl9	Move	-117,117,-1631.3	0.4
+81.8	bl10	Move	-111,114.6,-1629.6	0.4
+81.7	bl11	Move	-105,111.4,-1627.9	0.4
+81.6	bl12	Move	-99,108.2,-1627.05	0.4
+81.6	bl13	Move	-93,105,-1626.2	0.4
+81.5	bl14	Move	-86,101.8,-1626.2	0.4
+81.4	bl15	Move	-80,98.6,-1626.2	0.4
+81.3	bl16	Move	-74,94.6,-1627.05	0.4
+#Right	inner			
+81.9	br9	Move	-65,117,-1631.3	0.4
+81.8	br10	Move	-71,114.6,-1629.6	0.4
+81.7	br11	Move	-77,111.4,-1627.9	0.4
+81.6	br12	Move	-83,108.2,-1627.05	0.4
+81.6	br13	Move	-89,105,-1626.2	0.4
+81.5	br14	Move	-96,101.8,-1626.2	0.4
+81.4	br15	Move	-102,98.6,-1626.2	0.4
+81.3	br16	Move	-108,94.6,-1627.05	0.4
+#Left	inner			
+83.1	bl9	Despawn		
+82.9	bl10	Despawn		
+82.8	bl11	Despawn		
+82.6	bl12	Despawn		
+82.4	bl13	Despawn		
+82.2	bl14	Despawn		
+82.1	bl15	Despawn		
+81.9	bl16	Despawn		
+#Right	inner			
+83.1	br9	Despawn		
+82.9	br10	Despawn		
+82.8	br11	Despawn		
+82.6	br12	Despawn		
+82.4	br13	Despawn		
+82.2	br14	Despawn		
+82.1	br15	Despawn		
+81.9	br16	Despawn		
+
+#Left	outer			
+83.3	bl1	Spawn	-122,113.8,-1627.9	-161,57,-1684
+83.3	bl2	Spawn	-119.5,111.4,-1626.2	-160,57,-1684
+83.2	bl3	Spawn	-118.5,109.8,-1624.5	-159,57,-1684
+83.2	bl4	Spawn	-117.5,107.4,-1621.95	-158,57,-1684
+83.1	bl5	Spawn	-118,105,-1619.4	-157,57,-1684
+83.1	bl6	Spawn	-115.5,102.6,-1618.55	-156,57,-1684
+83	bl7	Spawn	-116,100.2,-1616	-155,57,-1684
+83	bl8	Spawn	-115,98.6,-1614.3	-154,57,-1684
+#Right	outer			
+83.3	br1	Spawn	-58,113.8,-1627.9	-19,58,-1683
+83.3	br2	Spawn	-60.5,111.4,-1626.2	-20,58,-1683
+83.2	br3	Spawn	-61.5,109.8,-1624.5	-21,58,-1683
+83.2	br4	Spawn	-62.5,107.4,-1621.95	-22,58,-1683
+83.1	br5	Spawn	-62,105,-1619.4	-23,58,-1683
+83.1	br6	Spawn	-64.5,102.6,-1618.55	-24,58,-1683
+83	br7	Spawn	-64,100.2,-1616	-25,58,-1683
+83	br8	Spawn	-65,98.6,-1614.3	-26,58,-1683
+#Left	outer			
+85.4	bl1	Move	-119,86.6,-1618.55	0.7
+85.1	bl2	Move	-109,89.8,-1621.95	0.7
+84.8	bl3	Move	-100.5,93,-1626.2	0.7
+84.5	bl4	Move	-93.5,96.2,-1631.3	0.7
+84.1	bl5	Move	-86.5,99.4,-1636.4	0.7
+83.8	bl6	Move	-82.5,102.6,-1642.35	0.7
+83.5	bl7	Move	-78.5,105,-1647.45	0.7
+83.2	bl8	Move	-76,108.2,-1652.55	0.7
+#Right	outer			
+85.4	br1	Move	-61,86.6,-1618.55	0.7
+85.1	br2	Move	-71,89.8,-1621.95	0.7
+84.8	br3	Move	-79.5,93,-1626.2	0.7
+84.5	br4	Move	-86.5,96.2,-1631.3	0.7
+84.1	br5	Move	-93.5,99.4,-1636.4	0.7
+83.8	br6	Move	-97.5,102.6,-1642.35	0.7
+83.5	br7	Move	-101.5,105,-1647.45	0.7
+83.2	br8	Move	-104,108.2,-1652.55	0.7
+#Left	outer			
+86.5	bl1	Despawn		
+86.3	bl2	Despawn		
+86.1	bl3	Despawn		
+85.9	bl4	Despawn		
+85.7	bl5	Despawn		
+85.5	bl6	Despawn		
+85.3	bl7	Despawn		
+85.1	bl8	Despawn		
+#Right	outer			
+86.5	br1	Despawn		
+86.3	br2	Despawn		
+86.1	br3	Despawn		
+85.9	br4	Despawn		
+85.7	br5	Despawn		
+85.5	br6	Despawn		
+85.3	br7	Despawn		
+85.1	br8	Despawn		
+#Left	outer			
+87.3	bl1	Spawn	-119,86.6,-1618.55	-161,57,-1684
+87.3	bl2	Spawn	-109,89.8,-1621.95	-160,57,-1684
+87.2	bl3	Spawn	-100.5,93,-1626.2	-159,57,-1684
+87.2	bl4	Spawn	-93.5,96.2,-1631.3	-158,57,-1684
+87.1	bl5	Spawn	-86.5,99.4,-1636.4	-157,57,-1684
+87.1	bl6	Spawn	-82.5,102.6,-1642.35	-156,57,-1684
+87	bl7	Spawn	-78.5,105,-1647.45	-155,57,-1684
+87	bl8	Spawn	-76,108.2,-1652.55	-154,57,-1684
+#Right	outer			
+87.3	br1	Spawn	-61,86.6,-1618.55	-19,58,-1683
+87.3	br2	Spawn	-71,89.8,-1621.95	-20,58,-1683
+87.2	br3	Spawn	-79.5,93,-1626.2	-21,58,-1683
+87.2	br4	Spawn	-86.5,96.2,-1631.3	-22,58,-1683
+87.1	br5	Spawn	-93.5,99.4,-1636.4	-23,58,-1683
+87.1	br6	Spawn	-97.5,102.6,-1642.35	-24,58,-1683
+87	br7	Spawn	-101.5,105,-1647.45	-25,58,-1683
+87	br8	Spawn	-104,108.2,-1652.55	-26,58,-1683
+#Left	outer			
+89	bl1	Move	-137,113.8,-1625.35	0.7
+88.7	bl2	Move	-134.5,113.8,-1625.35	0.7
+88.5	bl3	Move	-132,113.8,-1626.2	0.7
+88.2	bl4	Move	-129.5,113.8,-1626.2	0.7
+88	bl5	Move	-125.5,113.8,-1626.2	0.7
+87.7	bl6	Move	-123,113.8,-1627.05	0.7
+87.5	bl7	Move	-120.5,113.8,-1627.05	0.7
+87.2	bl8	Move	-118,113.8,-1627.9	0.7
+#Right	outer			
+89	br1	Move	-43,113.8,-1625.35	0.7
+88.7	br2	Move	-45.5,113.8,-1625.35	0.7
+88.5	br3	Move	-48,113.8,-1626.2	0.7
+88.2	br4	Move	-50.5,113.8,-1626.2	0.7
+88	br5	Move	-54.5,113.8,-1626.2	0.7
+87.7	br6	Move	-57,113.8,-1627.05	0.7
+87.5	br7	Move	-59.5,113.8,-1627.05	0.7
+87.2	br8	Move	-62,113.8,-1627.9	0.7
+#Left	outer			
+89.7	bl1	Despawn		
+89.6	bl2	Despawn		
+89.5	bl3	Despawn		
+89.4	bl4	Despawn		
+89.4	bl5	Despawn		
+89.3	bl6	Despawn		
+89.2	bl7	Despawn		
+89.1	bl8	Despawn		
+#Right	outer			
+89.7	br1	Despawn		
+89.6	br2	Despawn		
+89.5	br3	Despawn		
+89.4	br4	Despawn		
+89.4	br5	Despawn		
+89.3	br6	Despawn		
+89.2	br7	Despawn		
+89.1	br8	Despawn		

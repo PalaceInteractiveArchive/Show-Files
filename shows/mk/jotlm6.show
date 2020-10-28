@@ -1,0 +1,218 @@
+﻿Show	Location	59,44,-1836
+Show	TextRadius	25
+#Define
+ArmorStand	jotlmursulatentacle1	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle2	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle3	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle4	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle5	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle6	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle7	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle8	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle9	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle10	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle11	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle12	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle13	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle14	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle15	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulatentacle16	false	0;0;300(0,0,0);0;0
+ArmorStand	jotlmursulanecklace	true	0;0;0;0;41
+ArmorStand	jotlmcrystalball1	false	95:10;0;0;0;0
+ArmorStand	jotlmursula1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWYyMGE1MjRkYjliODcwZjIzODQ5NWM1ZDYzZjI5MzRjODJiOWI5Yzc4NDJkNjM4YmNhZmQ0M2RjM2M3MTEzOCJ9fX0=";299(217,161,240);300(0,0,0);301(0,0,0);0
+#Spawn
+0	ArmorStand	jotlmursulatentacle1	Spawn	62.89,41.5,-1821.1,-45
+0	ArmorStand	jotlmursulatentacle2	Spawn	62.79,41.6,-1821.6,0
+0	ArmorStand	jotlmursulatentacle3	Spawn	62.6,41.7,-1822.0,0
+0	ArmorStand	jotlmursulatentacle4	Spawn	62.2,41.46,-1821.8,-126
+0	ArmorStand	jotlmursulatentacle5	Spawn	61.9,42.3,-1821.7,51
+0	ArmorStand	jotlmursulatentacle6	Spawn	62.07,41.84,-1821.9,-132
+0	ArmorStand	jotlmursulatentacle7	Spawn	62.4,41.86,-1822.4,137.34
+0	ArmorStand	jotlmursulatentacle8	Spawn	61.8,42.56,-1822.7,-69
+0	ArmorStand	jotlmursulatentacle9	Spawn	62.9,41.5,-1822.3,-84.7
+0	ArmorStand	jotlmursulatentacle10	Spawn	63.9,41.6,-1822.3,-87
+0	ArmorStand	jotlmursulatentacle11	Spawn	64.1,41.65,-1822.3,251.84
+0	ArmorStand	jotlmursulatentacle12	Spawn	63.4,41.8,-1822.7,71.64
+0	ArmorStand	jotlmursulatentacle13	Spawn	63.63,42.4,-1822.97,-130.27
+0	ArmorStand	jotlmursulatentacle14	Spawn	63.8,42.43,-1823.2,-128
+0	ArmorStand	jotlmursulatentacle15	Spawn	62.5,42.0,-1823.11,-4.58
+0	ArmorStand	jotlmursulatentacle16	Spawn	62.5,42.26,-1823.3,181.63
+0	ArmorStand	jotlmursulanecklace	Spawn	63.02,43.30,-1821.96,-270.75
+0	ArmorStand	jotlmcrystalball1	Spawn	63.53,41.7,-1821.5,0
+0.5	ArmorStand	jotlmursula1	Spawn	62.67,42.39,-1822.3,-45
+0.1	Block	152	63,38,-1821
+#StartPos
+0.1	ArmorStand	jotlmursulatentacle1	Position	LEG_LEFT	273.06,-12,-1	1
+0.1	ArmorStand	jotlmursulatentacle1	Position	LEG_RIGHT	272.19,-30,0	1
+0.1	ArmorStand	jotlmursulatentacle2	Position	LEG_LEFT	-78,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle2	Position	LEG_RIGHT	268.76,0,1	1
+0.1	ArmorStand	jotlmursulatentacle3	Position	LEG_LEFT	288.28,6,-1	1
+0.1	ArmorStand	jotlmursulatentacle3	Position	LEG_RIGHT	288.28,6,1	1
+0.1	ArmorStand	jotlmursulatentacle4	Position	LEG_LEFT	240.16,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle4	Position	LEG_RIGHT	240.16,0,1	1
+0.1	ArmorStand	jotlmursulatentacle5	Position	LEG_LEFT	238.49,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle5	Position	LEG_RIGHT	238.49,0,1	1
+0.1	ArmorStand	jotlmursulatentacle6	Position	LEG_LEFT	153.45,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle6	Position	LEG_RIGHT	153.45,0,1	1
+0.1	ArmorStand	jotlmursulatentacle7	Position	LEG_LEFT	214.47,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle7	Position	LEG_RIGHT	214.47,0,1	1
+0.1	ArmorStand	jotlmursulatentacle8	Position	LEG_LEFT	310.76,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle8	Position	LEG_RIGHT	310.76,0,1	1
+0.1	ArmorStand	jotlmursulatentacle9	Position	LEG_LEFT	280.64,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle9	Position	LEG_RIGHT	280.64,0,1	1
+0.1	ArmorStand	jotlmursulatentacle10	Position	LEG_LEFT	79.15,351.13,-1	1
+0.1	ArmorStand	jotlmursulatentacle10	Position	LEG_RIGHT	79.15,351.13,1	1
+0.1	ArmorStand	jotlmursulatentacle11	Position	LEG_LEFT	250.69,-18,-1	1
+0.1	ArmorStand	jotlmursulatentacle11	Position	LEG_RIGHT	250.69,-30,21	1
+0.1	ArmorStand	jotlmursulatentacle12	Position	LEG_LEFT	293.98,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle12	Position	LEG_RIGHT	293.98,0,1	1
+0.1	ArmorStand	jotlmursulatentacle13	Position	LEG_LEFT	24.59,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle13	Position	LEG_RIGHT	24.59,0,1	1
+0.1	ArmorStand	jotlmursulatentacle14	Position	LEG_LEFT	259.22,29.32,-1	1
+0.1	ArmorStand	jotlmursulatentacle14	Position	LEG_RIGHT	259.22,29.32,1	1
+0.1	ArmorStand	jotlmursulatentacle15	Position	LEG_LEFT	316.58,0,-1	1
+0.1	ArmorStand	jotlmursulatentacle15	Position	LEG_RIGHT	316.58,0,1	1
+0.1	ArmorStand	jotlmursulatentacle16	Position	LEG_LEFT	255.67,52.66,-1	1
+0.1	ArmorStand	jotlmursulatentacle16	Position	LEG_RIGHT	261.67,22.66,0	1
+0.1	ArmorStand	jotlmursulanecklace	Position	ARM_RIGHT	-15,6,3	1
+0.7	ArmorStand	jotlmursula1	Position	BODY	0,-3.17,0	1
+0.7	ArmorStand	jotlmursula1	Position	HEAD	3,4.45,0	1
+0.7	ArmorStand	jotlmursula1	Position	LEG_LEFT	-1,0,356.06	1
+0.7	ArmorStand	jotlmursula1	Position	LEG_RIGHT	1,0,6.84	1
+0.7	ArmorStand	jotlmursula1	Position	ARM_LEFT	-10,0,-10	1
+0.7	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-15,0,10	1
+#UrsulaMove
+2	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	3
+2	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	3
+2	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	3
+3.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+3.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	3
+3.5	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	3
+5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	3
+5	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	3
+6.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	3
+6.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	3
+6.5	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	3
+8	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	3
+8	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	3
+8	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	3
+9.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+9.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	3
+9.5	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	3
+11	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+11	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	3
+11	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	4
+12.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	4
+12.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	4
+12.5	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	6
+14	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	6
+14	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	6
+14	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	6
+15.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	6
+15.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	6
+15.5	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	6
+17	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	6
+17	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	6
+17	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	6
+18.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	6
+18.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	6
+18.5	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	6
+20	ArmorStand	jotlmursula1	Position	ARM_LEFT	-50,-10,-20	6
+20	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-40,10,20	6
+20	ArmorStand	jotlmursula1	Position	HEAD	0,10,10	6
+21.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-40,-20	6
+21.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-40,40,30	6
+21.5	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	6
+23	ArmorStand	jotlmursula1	Position	ARM_LEFT	-40,-30,-30	6
+23	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,30,20	6
+23	ArmorStand	jotlmursula1	Position	HEAD	0,10,20	6
+24.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	6
+24.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	6
+24.5	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	6
+26	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	6
+26	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	6
+26	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	6
+27.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	6
+27.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	6
+27.5	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	6
+29	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	6
+29	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	6
+29	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	6
+30.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	3
+30.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	3
+30.5	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	3
+32	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+32	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	3
+32	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	3
+33.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+33.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	3
+33.5	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	3
+35	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	3
+35	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	3
+35	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	3
+36.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	3
+36.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	3
+36.5	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	3
+38	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	3
+38	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	3
+38	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	3
+39.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	8
+39.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	8
+39.5	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	8
+41	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	8
+41	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	8
+41	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	8
+42.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	8
+42.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	8
+42.5	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	8
+44	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	8
+44	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	8
+44	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	8
+45.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	8
+45.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	8
+45.5	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	8
+47	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	8
+47	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	8
+47	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	8
+48.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-50,-10,-20	8
+48.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-40,10,20	8
+48.5	ArmorStand	jotlmursula1	Position	HEAD	0,10,10	8
+50	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-40,-20	8
+50	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-40,40,30	8
+50	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	8
+51.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-40,-30,-30	8
+51.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,30,20	8
+51.5	ArmorStand	jotlmursula1	Position	HEAD	0,10,20	8
+53	ArmorStand	jotlmursula1	Position	ARM_LEFT	-30,-10,-20	8
+53	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-30,10,25	8
+53	ArmorStand	jotlmursula1	Position	HEAD	-10,0,10	9
+54.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-80,0,-10	9
+54.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-80,0,10	9
+54.5	ArmorStand	jotlmursula1	Position	HEAD	20,0,10	9
+56	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	9
+56	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-70,10,40	9
+56	ArmorStand	jotlmursula1	Position	HEAD	0,0,0	9
+57.5	ArmorStand	jotlmursula1	Position	ARM_LEFT	-60,-10,-30	9
+57.5	ArmorStand	jotlmursula1	Position	ARM_RIGHT	-90,30,10	9
+57.5	ArmorStand	jotlmursula1	Position	HEAD	0,30,10	9
+#Despawn
+60	ArmorStand	jotlmursulatentacle1	Despawn
+60	ArmorStand	jotlmursulatentacle2	Despawn
+60	ArmorStand	jotlmursulatentacle3	Despawn
+60	ArmorStand	jotlmursulatentacle4	Despawn
+60	ArmorStand	jotlmursulatentacle5	Despawn
+60	ArmorStand	jotlmursulatentacle6	Despawn
+60	ArmorStand	jotlmursulatentacle7	Despawn
+60	ArmorStand	jotlmursulatentacle8	Despawn
+60	ArmorStand	jotlmursulatentacle9	Despawn
+60	ArmorStand	jotlmursulatentacle10	Despawn
+60	ArmorStand	jotlmursulatentacle11	Despawn
+60	ArmorStand	jotlmursulatentacle12	Despawn
+60	ArmorStand	jotlmursulatentacle13	Despawn
+60	ArmorStand	jotlmursulatentacle14	Despawn
+60	ArmorStand	jotlmursulatentacle15	Despawn
+60	ArmorStand	jotlmursulatentacle16	Despawn
+60	ArmorStand	jotlmursulanecklace	Despawn
+60	ArmorStand	jotlmcrystalball1	Despawn
+60	ArmorStand	jotlmursula1	Despawn

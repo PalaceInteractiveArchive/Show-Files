@@ -1,0 +1,10 @@
+Show	Location	-78,64,3327
+Show	TextRadius	3000
+
+##Effects
+Effect	b1	BURST,46;101;145&236;206;5,FLICKER
+Effect	b2	BURST,46;101;145&236;206;5,FLICKER,TRAIL
+Effect  b3  BURST,PURPLE,MAROON,FLICKER,TRAIL
+
+0.0 PowerFirework   -73,68,3324 b3  5,2,0
+0.0 PowerFirework   -83,68,3324 b3  -5,2,0

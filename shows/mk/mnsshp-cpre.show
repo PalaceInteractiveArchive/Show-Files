@@ -1,0 +1,22 @@
+Show	Location	-90,44,-1550
+Show	TextRadius	5000
+
+#Text
+0   Text    &a[&2&l˚o˚&a] &eLadies and gentlemen, &oghosts and ghouls! &eIn just a &6&lfew moments, &eour &o&lspooktacular friends &ewill make their way from &6Mainstreet U.S.A to the Castle&e. Please clear the road so our special friends can make their way to you.
+5   Text    &a[&2&l˚o˚&a] &eTo hear the audio for this &ospooktacular cavalcade, &emake sure to have &6/audio &eon.
+60  Text    &a[&2&l˚o˚&a] &eLadies and gentlemen, &oghosts and ghouls! &eIn just a &6&lfew moments, &eour &o&lspooktacular friends &ewill make their way from &6Mainstreet U.S.A to the Castle&e. Please clear the road so our special friends can make their way to you.
+65  Text    &a[&2&l˚o˚&a] &eTo hear the audio for this &ospooktacular cavalcade, &emake sure to have &6/audio &eon.
+120 Text    &a[&2&l˚o˚&a] &eLadies and gentlemen, &oghosts and ghouls! &eIn just a &6&lfew moments, &eour &o&lspooktacular friends &ewill make their way from &6Mainstreet U.S.A to the Castle&e. Please clear the road so our special friends can make their way to you.
+125 Text    &a[&2&l˚o˚&a] &eTo hear the audio for this &ospooktacular cavalcade, &emake sure to have &6/audio &eon.
+210 Text    &a[&2&l˚o˚&a] &eLadies and gentlemen, &oghosts and ghouls! &eIn just a &6&lfew moments, &eour &o&lspooktacular friends &ewill make their way from &6Mainstreet U.S.A to the Castle&e. Please clear the road so our special friends can make their way to you.
+215 Text    &a[&2&l˚o˚&a] &eTo hear the audio for this &ospooktacular cavalcade, &emake sure to have &6/audio &eon.
+240 Text    &a[&2&l˚o˚&a] &eLadies and gentlemen, &oghosts and ghouls! &eIn just a &6&lfew moments, &eour &o&lspooktacular friends &ewill make their way from &6Mainstreet U.S.A to the Castle&e. Please clear the road so our special friends can make their way to you.
+245 Text    &a[&2&l˚o˚&a] &eTo hear the audio for this &ospooktacular cavalcade, &emake sure to have &6/audio &eon.
+270 Text    &a[&2&l˚o˚&a] &eLadies and gentlemen, &oghosts and ghouls! &eIn just a &6&lfew moments, &eour &o&lspooktacular friends &ewill make their way from &6Mainstreet U.S.A to the Castle&e. Please clear the road so our special friends can make their way to you.
+275 Text    &a[&2&l˚o˚&a] &eTo hear the audio for this &ospooktacular cavalcade, &emake sure to have &6/audio &eon.
+
+#Stop Trolley
+0   Block   152 -90,35,-1328
+
+#AC preshow over
+300 Block   152 -176,17,-1381

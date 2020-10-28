@@ -1,0 +1,66 @@
+﻿Show	Location	-350,64,-104
+Show	TextRadius	100
+#This is the location where music/text is centered.
+Show	Name	rrctour
+#Follows the anti-double show running rule
+#Comment
+
+### Blocks ###
+#http://minecraft-ids.grahamedgecombe.com/
+#Placing Blocks6#
+
+## Start Pressure Plates ##
+0	Block	70	-365,50,-100
+0	Block	70	-364,50,-100
+0	Block	70	-363,50,-100
+0	Block	70	-365,50,-101
+0	Block	70	-364,50,-101
+0	Block	70	-363,50,-101
+0	Block	70	-365,50,-102
+0	Block	70	-364,50,-102
+0	Block	70	-363,50,-102
+
+## Tour 1 Pressure Plates ##
+1	Block	70	-277,55,-86
+1	Block	70	-277,55,-85
+1	Block	70	-278,55,-86
+1	Block	70	-278,55,-85
+
+## Tour 2 Pressure Plates ##
+2	Block	70	-301,58,-55
+2	Block	70	-301,58,-56
+2	Block	70	-302,58,-55
+2	Block	70	-302,58,-56
+
+## End Pressure Plates ##
+3	Block	70	-420,61,-83
+3	Block	70	-420,61,-84
+
+## Removing Barrier Blocks ##
+3	Block	0	-360,51,-101
+
+## Remove Red Wool at RRCTour3 ##
+4	Block	0	-365,62,-103
+4	Block	0	-365,62,-104
+4	Block	0	-365,61,-103
+4	Block	0	-365,61,-104
+
+## Freeze Queues ##
+5	Block	152	-346,51,-111
+5	Block	152	-345,51,-111
+
+## /ac ##
+10	Block	152	-341,51,-111
+
+## Announcements ##
+#10 Minute
+0	Block	152	-342,51,-111
+#5 Minute
+300	Block	152	-343,51,-111
+
+## Start Tour ##
+630	Block	152	-339,51,-106
+
+### Audio ###
+180	AudioStart	RRCTourPre
+180	AudioSync	RRCTourPre	0

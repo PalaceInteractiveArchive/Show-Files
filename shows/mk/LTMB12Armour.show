@@ -1,0 +1,423 @@
+Show	Location	-89,47,-1549
+Show	TextRadius	150
+Show	Name	Castle
+
+Effect	b1	BURST,YELLOW,YELLOW,TRAIL
+Effect	b2	BURST,WHITE,WHITE,FLICKER
+
+#Audio
+0	AudioStart	ltmb
+60	AudioSync	ltmb	60
+120	AudioSync	ltmb	120
+180	AudioSync	ltmb	180
+240	AudioSync	ltmb	240
+
+#Text
+10.3	Text	&f[&6Majesty Maker&f] &eHear ye! Hear Ye!
+12.2	Text	&eCome, gather round everyone, gather round.
+15.3	Text	&eWelcome to this &bMagical Kingdom&e!
+18.8	Text	&eMy name is &6Sir Sterling&e, one of the &dRoyal Majesty Makers&e, here in the beautiful...
+23.6	Text	&eOh my goodness! Look at the time! You know what, I'd better get right to this.
+30.2	Text	&eIt is hereby decreed that all are welcome at this Happy Place.
+35.5	Text	&eWhere the young and young at heart can explore, and laugh, and play together.
+41.7	Text	&eHere, where &dMagic &eawaits you around every corner.
+46.2	Text	&eBursting with the joy and inspiration to make your dreams come true.
+52.1	Text	&eAnd now to welcome you today, the one and only &4Mickey Mouse&e!
+
+70.2	Text	&f[&4Mickey Mouse&f] &cWell, hi everybody!
+72.1	Text	&cOh gosh, it sure is great to see so many good friends.
+75.2	Text	&cSo, are you excited to be here today?
+#unmute chat
+79.5	Block	152	-31,19,-1583
+#mute chat
+81.0	Block	152	-30,19,-1583
+
+80.8	Text	&cWell, I thought so!
+83.4	Text	&cHey pal, thanks for getting things started.
+
+86.8	Text	&cAnd now we're all together, I've got a surprise for ya'!
+90.5	Text	&cYou see...
+91.2	Text	&cWhen folks from around the kingdom heard you were gonna be here,
+94.9	Text	&cWell, they just had to come and give you a great, big &e&lwelcome!
+#CHARACTERS COME IN
+
+136.0	Text	&eHa ha ha, wonderful!
+137.8	Text	&cWell, now that everybody's here, I think it's time to start the day!
+142.2	Text	&cAnd that means that it's time for a little bit of &bmagic&c!
+
+#Particles here
+150.0	Particle	fireworksSpark	-89,54,-1607	18	6	20	1	1000
+
+154.2	Text	&f[&bFairy Godmother&f] &bIs someone in need of magic?
+158.5	Text	&cOh gosh! It's the &bFairy Godmother&c!
+
+161.7	Text	&eShe must've heard you &4Mickey&e.
+163.3	Text	&bWhy hello everyone!
+165.3	Text	&bOh my, look at all of you.
+169.5	Text	&bSo many smiling faces, including yours.
+174.8	Text	&bNow, how may I be of assistance?
+
+177.7	Text	&cWell, erm, do you think you can help kick off our Magical Day?
+182.7	Text	&bOh, of course my dear!
+184.8	Text	&bOh, and I know just the trick! But I'll need everyones' help with the magic words.
+191.4	Text	&bOn the count of three, we're all going to say &b&lBibbidi Bobbidi Boo!
+197.0	Text	&bHere we go!
+199.6	Text	&b&l&oOne...
+200.6	Text	&b&l&oTwo...
+201.6	Text	&b&l&oThree...
+
+#unmute chat
+201.7	Block	152	-31,19,-1583
+
+203.1	Text	&b&lBibbidi
+204.2	Text	&b&lBobbidi
+205.5	Text	&l&lBoo!
+
+#mute chat
+206.0	Block	152	-30,19,-1583
+
+#Fireworks here
+
+205.5	PowerFirework	-99,67,-1623	b1,b2	-15,40,11
+205.5	PowerFirework	-76,67,-1623	b1,b2	15,40,11
+
+205.5	Particle	fireworksSpark	-89,54,-1607	18	6	20	1	1000
+
+#Beacons (COMMENTED OUT UNTIL BEACONS ON NEWMK)
+#0	Block	20	-1645,57,-520
+#0	Block	20	-1644,57,-520
+#0	Block	20	-1643,57,-521
+#0	Block	20	-1642,57,-521
+#0	Block	20	-1641,57,-522
+#0	Block	20	-1640,57,-522
+#0	Block	20	-1639,57,-523
+#0	Block	20	-1638,57,-523
+#0	Block	20	-1637,57,-524
+#0	Block	20	-1636,57,-524
+#0	Block	20	-1635,57,-525
+#0	Block	20	-1634,57,-526
+#0	Block	20	-1633,57,-526
+#0	Block	20	-1632,57,-527
+#0	Block	20	-1631,57,-527
+
+#0	Block	20	-1583,57,-520
+#0	Block	20	-1584,57,-520
+#0	Block	20	-1585,57,-521
+#0	Block	20	-1586,57,-521
+#0	Block	20	-1587,57,-522
+#0	Block	20	-1588,57,-522
+#0	Block	20	-1589,57,-523
+#0	Block	20	-1590,57,-523
+#0	Block	20	-1591,57,-524
+#0	Block	20	-1592,57,-524
+#0	Block	20	-1593,57,-525
+#0	Block	20	-1594,57,-526
+#0	Block	20	-1595,57,-526
+#0	Block	20	-1596,57,-527
+#0	Block	20	-1597,57,-527
+
+#205
+#205.5	Block	20	-1645,60,-520
+#205.6	Block	20	-1644,60,-520
+#205.7	Block	20	-1643,60,-521
+#205.8	Block	20	-1642,60,-521
+#205.9	Block	20	-1641,60,-522
+#206.0	Block	20	-1640,60,-522
+#206.1	Block	20	-1639,60,-523
+#206.2	Block	20	-1638,60,-523
+#206.3	Block	20	-1637,60,-524
+#206.4	Block	20	-1636,60,-524
+#206.5	Block	20	-1635,60,-525
+#206.6	Block	20	-1634,60,-526
+#206.7	Block	20	-1633,60,-526
+#206.8	Block	20	-1632,60,-527
+#206.9	Block	20	-1631,60,-527
+
+#205.5	Block	20	-1583,60,-520
+#205.6	Block	20	-1584,60,-520
+#205.7	Block	20	-1585,60,-521
+#205.8	Block	20	-1586,60,-521
+#205.9	Block	20	-1587,60,-522
+#206.0	Block	20	-1588,60,-522
+#206.1	Block	20	-1589,60,-523
+#206.2	Block	20	-1590,60,-523
+#206.3	Block	20	-1591,60,-524
+#206.4	Block	20	-1592,60,-524
+#206.5	Block	20	-1593,60,-525
+#206.6	Block	20	-1594,60,-526
+#206.7	Block	20	-1595,60,-526
+#206.8	Block	20	-1596,60,-527
+#206.9	Block	20	-1597,60,-527
+
+#300	Block	35	-1645,57,-520
+#300	Block	35	-1644,57,-520
+#300	Block	35	-1643,57,-521
+#300	Block	35	-1642,57,-521
+#300	Block	35	-1641,57,-522
+#300	Block	35	-1640,57,-522
+#300	Block	35	-1639,57,-523
+#300	Block	35	-1638,57,-523
+#300	Block	35	-1637,57,-524
+#300	Block	35	-1636,57,-524
+#300	Block	35	-1635,57,-525
+#300	Block	35	-1634,57,-526
+#300	Block	35	-1633,57,-526
+#300	Block	35	-1632,57,-527
+#300	Block	35	-1631,57,-527
+
+#300	Block	35	-1583,57,-520
+#300	Block	35	-1584,57,-520
+#300	Block	35	-1585,57,-521
+#300	Block	35	-1586,57,-521
+#300	Block	35	-1587,57,-522
+#300	Block	35	-1588,57,-522
+#300	Block	35	-1589,57,-523
+#300	Block	35	-1590,57,-523
+#300	Block	35	-1591,57,-524
+#300	Block	35	-1592,57,-524
+#300	Block	35	-1593,57,-525
+#300	Block	35	-1594,57,-526
+#300	Block	35	-1595,57,-526
+#300	Block	35	-1596,57,-527
+#300	Block	35	-1597,57,-527
+
+#300	Block	35:3	-1645,60,-520
+#300	Block	35:3	-1644,60,-520
+#300	Block	35:3	-1643,60,-521
+#300	Block	35:3	-1642,60,-521
+#300	Block	35:3	-1641,60,-522
+#300	Block	35:3	-1640,60,-522
+#300	Block	35:3	-1639,60,-523
+#300	Block	35:3	-1638,60,-523
+#300	Block	35:3	-1637,60,-524
+#300	Block	35:3	-1636,60,-524
+#300	Block	35:3	-1635,60,-525
+#300	Block	35:3	-1634,60,-526
+#300	Block	35:3	-1633,60,-526
+#300	Block	35:3	-1632,60,-527
+#300	Block	35:3	-1631,60,-527
+
+#300	Block	35:3	-1583,60,-520
+#300	Block	35:3	-1584,60,-520
+#300	Block	35:3	-1585,60,-521
+#300	Block	35:3	-1586,60,-521
+#300	Block	35:3	-1587,60,-522
+#300	Block	35:3	-1588,60,-522
+#300	Block	35:3	-1589,60,-523
+#300	Block	35:3	-1590,60,-523
+#300	Block	35:3	-1591,60,-524
+#300	Block	35:3	-1592,60,-524
+#300	Block	35:3	-1593,60,-525
+#300	Block	35:3	-1594,60,-526
+#300	Block	35:3	-1595,60,-526
+#300	Block	35:3	-1596,60,-527
+#300	Block	35:3	-1597,60,-527
+
+210.5	Text	&cLet the Magic Begin!
+
+#CHARACTERS EXIT
+245.1	Text	&eThank you all for joining us here in this &bMagical Kingdom&e.
+250.9	Text	&cWell, what are we waiting for?
+253.2	Text	&cLet's get goin'! See ya' real soon!
+
+#Honour
+253.0	Block	152	-27,23,-1583
+
+#Money
+254.0	Block	152	-28,23,-1583
+
+258.0	Text	&6Credits:
+260.0	Text	&6Plugin - &dPalace &eDev Team
+262.0	Text	&6Have a Magical Day at &b&lThe Magic Kingdom&r&e!
+
+#unmute chat
+265.0	Block	152	-31,19,-1583
+
+#Close gate
+300	Block	0	-93,45,-1611
+300	Block	0	-93,45,-1612
+300	Block	0	-93,45,-1613
+
+300	Block	0	-87,45,-1611
+300	Block	0	-87,45,-1612
+300	Block	0	-87,45,-1613
+
+#Fence off castle area
+#Right
+300	Block	0	-75,43,-1592
+300	Block	0	-75,43,-1591
+300	Block	0	-74,43,-1591
+300	Block	0	-74,43,-1590
+300	Block	0	-73,43,-1590
+
+#Left
+300	Block	0	-107,43,-1590
+300	Block	0	-106,43,-1590
+300	Block	0	-106,43,-1591
+300	Block	0	-105,43,-1591
+300	Block	0	-105,43,-1592
+
+#Fence off back castle
+300	Block	0	-88,45,-1641
+300	Block	0	-89,45,-1641
+300	Block	0	-90,45,-1641
+300	Block	0	-91,45,-1641
+300	Block	0	-92,45,-1641
+
+#Audio
+265.0	Block	152	-29,19,-1583
+
+#Daylight
+265.0	Block	152	-40,19,-1583
+
+#Gate
+300	Schematic	LTMBCastleGate	-90	45	-1609	mk	false
+
+#Armour Stands
+ArmorStand	mm	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDNiM2YxOGFjZDY2YTQ2N2RhMGI5ZjdlYmQ5MTVkOTNjN2YyYWVhYTdhOWY0ODc0NzczMTg3OTA3N2E3In19fQ==;299(239,214,91);300(65,67,186);301(32,33,91);340
+ArmorStand	mickey	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQ5MGI5Nzk2MjI0MzY4Yjk5Y2FkMWY1NjcyZTFjZTNkNWJlM2JiNmJjOWMzNGEyYjEyNmNhNDlkNzE0YWVkIn19fQ==;299(0,0,0);300(234,14,14);301(232,224,9);0
+
+#PositionTypes: HEAD, BODY, ARM_LEFT, ARM_RIGHT, LEG_LEFT, LEG_RIGHT
+#<time> must be at least 0.1
+#<seconds>	ArmorStand	<name>	Position	<PositionType>	<anglex,angley,anglez>	<time>
+
+#Majesty Maker
+0	ArmorStand	mm	Spawn	-90.5,45,-1623.5,0
+0.1	Block	152	-34,23,-1583
+1	ArmorStand	mm	Move	-90.5,45,-1600.5	8.7
+16.8	ArmorStand	mm	Rotate	90	0.3
+17.2	ArmorStand	mm	Move	-92.5,45,-1600.5	0.8
+18.0	ArmorStand	mm	Rotate	-90	0.3
+27.0	ArmorStand	mm	Rotate	-90	0.3
+27.3	ArmorStand	mm	Move	-90.5,45,-1600.5	1.0
+28.3	ArmorStand	mm	Rotate	90	0.3
+#holds book
+#30.2	Block	152	-41,23,-1589
+35.1	ArmorStand	mm	Rotate	90	0.3
+35.4	ArmorStand	mm	Move	-89.5,45,-1600.5	0.4
+35.8	ArmorStand	mm	Rotate	-90	0.3
+42.5	ArmorStand	mm	Rotate	-90	0.3
+42.8	ArmorStand	mm	Move	-90.5,45,-1600.5	0.5
+43.3	ArmorStand	mm	Rotate	90	0.3
+54.4	ArmorStand	mm	Rotate	90	0.3
+54.7	ArmorStand	mm	Move	-92.5,45,-1600.5	0.6
+55.3	ArmorStand	mm	Rotate	-90	0.3
+
+#Mickey
+54.0	ArmorStand	mickey	Spawn	-89.5,45,-1623.5,0
+54.5	Block	152	-35,23,-1583
+55.0	ArmorStand	mickey	Move	-89.5,45,-1615.5	3
+57.0	ArmorStand	mickey	Move	-88.5,45,-1610.5	3
+59.0	ArmorStand	mickey	Move	-90.5,45,-1602.5	3
+62.0	ArmorStand	mickey	Move	-89.5,45,-1598.5	3
+71.9	ArmorStand	mickey	Move	-86.5,45,-1598.5	3
+76.7	ArmorStand	mickey	Move	-87.5,45,-1598.5	2
+82.4	ArmorStand	mickey	Move	-91.5,45,-1599.5	2
+86.0	ArmorStand	mickey	Move	-91.5,45,-1598.5	2
+91.3	ArmorStand	mickey	Move	-89.5,45,-1598.5	2
+93.3	ArmorStand	mickey	Move	-86.5,45,-1598.5	2
+95.3	ArmorStand	mickey	Move	-89.5,45,-1598.5	2
+100.8	ArmorStand	mickey	Move	-83.5,45,-1598.5	2.5
+
+
+#Mary Poppins and Aladdin
+ArmorStand	poppins	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFjZjQzNjQ0ZWVhYWY2ODEzZTViNTMxNDRmNWJhODEzYWEzNDVlZWJiZTYxMDBkZTE2ZGJiYjdkMTM1NWMwMSJ9fX0=;299(252,193,186);300(249,240,239);301(249,240,239);0
+ArmorStand	aladdin	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzI0Njk4ZGEzNjUwNzE3YTU1ZjcyZmE3OGMxNGY1MmMzYWZiZWM4M2UyMmFmOWQ3NzUwNGM5YzVlZGUyNDYifX19;299(68,26,66);300(249,237,249);301(249,246,237);0
+100.5	ArmorStand	poppins	Spawn	-90.5,45,-1622.5,0
+100.5	ArmorStand	aladdin	Spawn	-88.5,45,-1622.5,0
+100.6	Block	152	-36,23,-1583
+100.6	Block	152	-37,23,-1583
+
+100.6	ArmorStand	poppins	Move	-90.5,45,-1606.5	3
+100.6	ArmorStand	aladdin	Move	-88.5,45,-1606.5	3
+
+103.6	ArmorStand	poppins	Move	-93.5,45.5,-1606.5	3
+103.6	ArmorStand	aladdin	Move	-89.5,45,-1606.5	3.3
+103.9	ArmorStand	aladdin	Move	-89.5,45,-1601.5	3
+104.6	ArmorStand	poppins	Move	-96.5,46.5,-1606.5	3
+104.9	ArmorStand	aladdin	Move	-85.5,45,-1599.5	3.3
+105.6	ArmorStand	poppins	Move	-94.5,47,-1603.5	3
+
+#Rapunzel and Cinderella
+ArmorStand	rapunzel	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDA2OWVjYzcwYmZmY2NjM2MyYjEyM2Q0ZDcyNDE1OGZmNTI1MWY5NTA2NDA3Y2VkY2ViODllNTNkZTYwOWMifX19;299(255,150,237);300(155,90,144);301(242,242,242);0
+ArmorStand	cinderella	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzU1N2YwMTA5ODAwZjZkNzM0ZDE0OWQ2ZTUzMDU2YjU0ZTQ1MDY0ODZhYWRjZDQ0YTg0Yzk1OWVmOWQ1MTFjNCJ9fX0=;299(153,249,255);300(153,249,255);301(82,134,137);0
+101.5	ArmorStand	rapunzel	Spawn	-90.5,45,-1622.5,0
+101.5	ArmorStand	cinderella	Spawn	-88.5,45,-1622.5,0
+101.6	Block	152	-38,23,-1583
+101.6	Block	152	-39,23,-1583
+101.6	ArmorStand	rapunzel	Move	-90.5,45,-1606.5	3
+101.6	ArmorStand	cinderella	Move	-88.5,45,-1606.5	3
+104.6	ArmorStand	rapunzel	Move	-91.5,45,-1602.5	4
+104.6	ArmorStand	cinderella	Move	-89.5,45,-1606.5	3.3
+104.9	ArmorStand	cinderella	Move	-85.5,45,-1601.5	4.3
+106.2	ArmorStand	cinderella	Move	-84.5,45.5,-1601.5	3.2
+106.4	ArmorStand	cinderella	Move	-83.5,46,-1601.5	3.2
+
+#Minnie and Pluto
+ArmorStand	minnie	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWMwYmIyMDZmY2FkZDE0MzBlMWJhMTkyNTI3NDRmYjBhZWNkYzQxZjYxMGZkYjFlYmIzZDJiMjMyMWQ4NjUwYyJ9fX0=;299(255,71,71);300(0,0,0);301(243,255,84);0
+ArmorStand	pluto	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQwMzBkOWIzMzkxOGQxODIwNjlhNzhlYzM2MGRmNzAyZmI3MjEzYTBhZjYxZGQ0ZmIwZjEyNjMzNzljZjI4ZCJ9fX0=;299(184,191,89);300(184,191,89);301(184,191,89);0
+102.5	ArmorStand	minnie	Spawn	-90.5,45,-1622.5,0
+102.5	ArmorStand	pluto	Spawn	-88.5,45,-1622.5,0
+102.6	Block	152	-40,23,-1583
+102.6	Block	152	-41,23,-1583
+102.6	ArmorStand	minnie	Move	-90.5,45,-1606.5	3
+102.6	ArmorStand	pluto	Move	-88.5,45,-1606.5	3
+105.6	ArmorStand	pluto	Move	-87.5,46,-1605.5	3.3
+105.9	ArmorStand	pluto	Move	-87.5,46,-1604.5	3.2
+105.6	ArmorStand	minnie	Move	-89.5,45,-1600.5	4
+107.6	ArmorStand	minnie	Move	-95.5,45,-1598.5	3.5
+
+#Fairy Godmother
+ArmorStand	fairy	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjY0ODA1MWFhMDExN2FhNDA2ZDlkMjhhZGJiZDVkZjBlNTQ0OWIyMjRhZmQzNDk2MGM3NzBlNmMwNmExZjlmMCJ9fX0=;299(176,107,214);300(187,129,219);301(198,136,232);369
+147.0	ArmorStand	fairy	Spawn	-89.5,55,-1618.5,0
+147.5	Block	152	-41,23,-1585
+
+#Exits
+#Only Pluto as Minnie stays
+215.6	ArmorStand	pluto	Move	-87.5,46,-1605.5	3.2
+215.9	ArmorStand	pluto	Move	-88.5,45,-1606.5	3.3
+216.2	ArmorStand	pluto	Move	-88.5,45,-1622.5	3
+219.2	ArmorStand	pluto	Despawn
+
+#Rapunzel and Cinderella
+217.2	ArmorStand	rapunzel	Move	-90.5,45,-1606.5	3
+218.2	ArmorStand	rapunzel	Move	-90.5,45,-1622.5	3
+221.2	ArmorStand	rapunzel	Despawn
+218.1	ArmorStand	cinderella	Move	-84.5,45.5,-1601.5	3.2
+218.3	ArmorStand	cinderella	Move	-85.5,45,-1601.5	3.2
+218.5	ArmorStand	cinderella	Move	-89.5,45,-1606.5	4.3
+219.8	ArmorStand	cinderella	Move	-88.5,45,-1606.5	3.3
+220.1	ArmorStand	cinderella	Move	-88.5,45,-1622.5	3
+223.1	ArmorStand	cinderella	Despawn
+
+#Fairy Godmother
+221.5	ArmorStand	fairy	Despawn
+
+#Mary Poppins and Aladdin
+224.1	ArmorStand	poppins	Move	-96.5,46.5,-1606.5	4
+225.1	ArmorStand	poppins	Move	-93.5,45.5,-1606.5	4
+226.1	ArmorStand	poppins	Move	-90.5,45,-1606.5	4
+227.1	ArmorStand	poppins	Move	-90.5,45,-1622.5	3
+230.1	ArmorStand	poppins	Despawn
+226.6	ArmorStand	aladdin	Move	-89.5,45,-1601.5	4
+227.6	ArmorStand	aladdin	Move	-89.5,45,-1606.5	4
+228.6	ArmorStand	aladdin	Move	-88.5,45,-1622.5	5
+231.6	ArmorStand	aladdin	Despawn
+
+#Mickey, Minnie and Majesty Maker
+235	ArmorStand	mm	Move	-91.5,45,-1597.5	3
+236	ArmorStand	mickey	Move	-90.5,45,-1599.5	3
+236	ArmorStand	minnie	Move	-88.5,45,-1599.5	3
+250	ArmorStand	mm	Move	-89.5,45,-1607.5	3
+253	ArmorStand	mm	Move	-89.5,45,-1619.5	5.5
+255.5	ArmorStand	mm	Despawn
+257	ArmorStand	mickey	Move	-90.5,45,-1608.5	4
+257	ArmorStand	minnie	Move	-88.5,45,-1608.5	4
+259.5	ArmorStand	mickey	Move	-89.7,45,-1608.5	3
+259.5	ArmorStand	minnie	Move	-89.3,45,-1608.5	3
+260.5	ArmorStand	mickey	Move	-90.5,45,-1608.5	2.3
+260.5	ArmorStand	minnie	Move	-88.5,45,-1608.5	2.3
+260.8	ArmorStand	mickey	Move	-90.5,45,-1619.5	5
+260.8	ArmorStand	minnie	Move	-88.5,45,-1619.5	5
+262.8	ArmorStand	mickey	Despawn
+262.8	ArmorStand	minnie	Despawn

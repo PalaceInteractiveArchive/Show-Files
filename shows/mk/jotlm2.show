@@ -1,0 +1,102 @@
+﻿Show	Location	62,43,-1849
+Show	TextRadius	30
+#Define
+ArmorStand	jotlmariel2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTJlYjZmNDFhZGI4ODAzZjJiNmEzY2UxZDdkZjI1M2NiNzMxMzE2MDcyMTZhOWZmMzE2MWNmNGFmNjE5NjM2In19fQ==";299(167,48,191);300(84,171,60);301(147,212,110);379
+ArmorStand	jotlmflounder2	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBhMjRkZjYwZWMzMDQ4YzRhYjI2MTQwMzY5YzFiZTEwNjY5ODYzOTQ4NzFkZTQwNWQ4YTFmNjA3ZWY3OWMwNCJ9fX0=";299(254,216,61);300(22,156,156);301(22,156,156);0
+ArmorStand	jotlmsebastian1	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FlODkzM2UyZGQ2OGQxOGRhOWFlMjkyYjBiZTYwY2Q5YjYxMTU0M2FjNWFhMzY5YzA3MDI4NTJhYTM0MjM2YyJ9fX0=";299(209,26,16);300(209,26,16);301(209,26,16);0
+#Spawn
+0	ArmorStand	jotlmariel2	Spawn	62.5,42.26245,-1849.938,-147.7
+0	ArmorStand	jotlmflounder2	Spawn	63.7,43.19995,-1848.5,180
+0	ArmorStand	jotlmsebastian1	Spawn	61.5,42.8,-1848.5,-90
+0.1	Block	152	62,39,-1853
+#Positions
+0.1	ArmorStand	jotlmariel2	Position	BODY	0,1.03,0	1
+0.1	ArmorStand	jotlmariel2	Position	HEAD	349.9,0,13.5	1
+0.1	ArmorStand	jotlmariel2	Position	LEG_LEFT	303.63,0,-1	1
+0.1	ArmorStand	jotlmariel2	Position	LEG_RIGHT	306.11,0,1	1
+0.1	ArmorStand	jotlmariel2	Position	ARM_LEFT	315.12,32.95,-10	1
+0.1	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,37.99,10	1
+0.1	ArmorStand	jotlmflounder2	Position	BODY	0,-4.7,0	1
+0.1	ArmorStand	jotlmflounder2	Position	HEAD	352.84,0,0	1
+0.1	ArmorStand	jotlmflounder2	Position	LEG_LEFT	34.34,0,-1	1
+0.1	ArmorStand	jotlmflounder2	Position	LEG_RIGHT	34.34,0,1	1
+0.1	ArmorStand	jotlmflounder2	Position	ARM_LEFT	-10,0,343.27	1
+0.1	ArmorStand	jotlmflounder2	Position	ARM_RIGHT	-15,0,23.04	1
+0.1	ArmorStand	jotlmflounder2	Position	HEAD	10,-20,0	1
+0.1	ArmorStand	jotlmsebastian1	Position	ARM_LEFT	0,0,90	1
+0.1	ArmorStand	jotlmsebastian1	Position	ARM_RIGHT	0,0,-90	1
+0.1	ArmorStand	jotlmsebastian1	Position	LEG_LEFT	180,0,0	1
+0.1	ArmorStand	jotlmsebastian1	Position	LEG_RIGHT	180,0,0	1
+#ArielMove
+2	ArmorStand	jotlmariel2	Position	HEAD	-20,0,0	6
+2	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+4	ArmorStand	jotlmariel2	Position	HEAD	-20,30,0	6
+4	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,37.99,10	6
+4.7	ArmorStand	jotlmariel2	Position	HEAD	0,0,0	6
+5.5	ArmorStand	jotlmariel2	Position	HEAD	10,-10,10	6
+5.5	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,47.99,-10	6
+6.3	ArmorStand	jotlmariel2	Position	HEAD	0,30,0	6
+6.3	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+10	ArmorStand	jotlmariel2	Position	HEAD	-20,0,0	6
+10	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,47.99,-10	6
+12	ArmorStand	jotlmariel2	Position	HEAD	10,-10,10	6
+12	ArmorStand	jotlmariel2	Position	ARM_RIGHT	303.79,27.99,10	6
+14	ArmorStand	jotlmariel2	Position	HEAD	-20,0,0	6
+14	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+16	ArmorStand	jotlmariel2	Position	HEAD	-20,30,0	6
+16	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,37.99,10	6
+16.7	ArmorStand	jotlmariel2	Position	HEAD	0,0,0	6
+17.5	ArmorStand	jotlmariel2	Position	HEAD	10,-10,10	6
+17.5	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,47.99,-10	6
+18.3	ArmorStand	jotlmariel2	Position	HEAD	0,30,0	6
+18.3	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+22	ArmorStand	jotlmariel2	Position	HEAD	-20,0,0	6
+22	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,47.99,-10	6
+24	ArmorStand	jotlmariel2	Position	HEAD	10,-10,10	6
+24	ArmorStand	jotlmariel2	Position	ARM_RIGHT	303.79,27.99,10	6
+26	ArmorStand	jotlmariel2	Position	HEAD	-20,0,0	6
+26	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+28	ArmorStand	jotlmariel2	Position	HEAD	-20,30,0	6
+28	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,37.99,10	6
+28.7	ArmorStand	jotlmariel2	Position	HEAD	0,0,0	6
+29.5	ArmorStand	jotlmariel2	Position	HEAD	10,-10,10	6
+29.5	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,47.99,-10	6
+30.3	ArmorStand	jotlmariel2	Position	HEAD	0,30,0	6
+30.3	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+32	ArmorStand	jotlmariel2	Position	HEAD	-20,0,0	6
+32	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+34	ArmorStand	jotlmariel2	Position	HEAD	-20,30,0	6
+34	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,37.99,10	6
+34.7	ArmorStand	jotlmariel2	Position	HEAD	0,0,0	6
+35.5	ArmorStand	jotlmariel2	Position	HEAD	10,-10,10	6
+35.5	ArmorStand	jotlmariel2	Position	ARM_RIGHT	293.79,47.99,-10	6
+36.3	ArmorStand	jotlmariel2	Position	HEAD	0,30,0	6
+36.3	ArmorStand	jotlmariel2	Position	ARM_RIGHT	273.79,27.99,10	6
+#FlounderMove
+2	ArmorStand	jotlmflounder2	Move	63.7,43.59995,-1848.5	6
+8	ArmorStand	jotlmflounder2	Move	63.7,43.19995,-1848.5	6
+12	ArmorStand	jotlmflounder2	Move	63.7,43.59995,-1848.5	6
+20	ArmorStand	jotlmflounder2	Move	63.7,43.19995,-1848.5	6
+24	ArmorStand	jotlmflounder2	Move	63.7,43.59995,-1848.5	6
+28	ArmorStand	jotlmflounder2	Move	63.7,43.19995,-1848.5	6
+34	ArmorStand	jotlmflounder2	Move	63.7,43.59995,-1848.5	6
+#SebastianMove
+4	ArmorStand	jotlmsebastian1	Move	61.5,43.6,-1848.5	1
+8	ArmorStand	jotlmsebastian1	Position	HEAD	0,20,0	3
+10	ArmorStand	jotlmsebastian1	Position	HEAD	0,-20,0	3
+12	ArmorStand	jotlmsebastian1	Position	HEAD	0,0,0	3
+13	ArmorStand	jotlmsebastian1	Move	61.5,42.8,-1848.5	1
+15	ArmorStand	jotlmsebastian1	Move	61.5,43.6,-1848.5	1
+19	ArmorStand	jotlmsebastian1	Position	HEAD	0,20,0	3
+21	ArmorStand	jotlmsebastian1	Position	HEAD	0,-20,0	3
+22	ArmorStand	jotlmsebastian1	Position	HEAD	0,0,0	3
+24	ArmorStand	jotlmsebastian1	Move	61.5,42.8,-1848.5	1
+26	ArmorStand	jotlmsebastian1	Move	61.5,43.6,-1848.5	1
+30	ArmorStand	jotlmsebastian1	Position	HEAD	0,20,0	3
+32	ArmorStand	jotlmsebastian1	Position	HEAD	0,-20,0	3
+34	ArmorStand	jotlmsebastian1	Position	HEAD	0,0,0	3
+35	ArmorStand	jotlmsebastian1	Move	61.5,42.8,-1848.5	1
+#Remove
+40	Block	152	59,39,-1853
+40	ArmorStand	jotlmariel2	Despawn
+40	ArmorStand	jotlmflounder2	Despawn

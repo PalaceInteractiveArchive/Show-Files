@@ -1,0 +1,21 @@
+﻿Show	Location	-217,65,216
+Show	TextRadius	250
+Show	Name	sits
+#Text
+0	Text	&eLadies and Gentlemen boys and girls, in just &915 Minutes&e, &dThe Palace Network &ewill proudly present &c&oMarvelous &eat &d/warp marvelous!
+30	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+120	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+180	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+240	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
+
+#BC
+0   Block   152 -214,60,194
+
+#Time
+0   Block   152 -217,60,193
+
+#Run 10 Min Pre 
+300 Block   152 -219,60,196
+
+#Audio Area Disable
+297 Block   152 -220,60,193

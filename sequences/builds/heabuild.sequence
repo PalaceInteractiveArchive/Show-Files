@@ -1,0 +1,1069 @@
+Sequence	Build
+#Rat
+Build	hearat1	hearat1
+193.7	hearat1	Spawn	-92,50,-1625.5
+194.7	hearat1	Move	-92,60,-1625.5	100
+203.7	hearat1	Despawn
+#UpHouse
+Build	heaup	heaup
+299	heaup	Spawn	-92,42,-1624
+299.5	heaup	MoveAndDespawn	-92,90,-1624	91	True	245
+#Nemo
+Build	heacrush1	heacrush1
+315	heacrush1	Spawn	-100.5,47,-1616.5
+316	heacrush1	Move	-92.5,46.5,-1616.5	40
+318	heacrush1	Move	-92.5,47,-1616.5	20
+319	heacrush1	Move	-92.5,46.5,-1616.5	20
+321	heacrush1	Move	-82.5,46.5,-1616.5	20
+322.1	heacrush1	Despawn
+#Moana#0=359
+Build	heaMB1	heaMB1
+Build	heaMB2	heaMB2
+Build	heaMB3	heaMB3
+Build	heaMB4	heaMB4
+Build	heaML1	heaML1
+Build	heaML2	heaML2
+Build	heaMoanaArm1	heaMoanaArm1
+Build	heaMoanaArm2	heaMoanaArm2
+Build	heaMoanaArm3	heaMoanaArm3
+Build	heaMoanaArm4	heaMoanaArm4
+Build	heaMoanaLeaf1	heaMoanaLeaf1
+Build	heaMoanaTalk1	heaMoanaTalk1
+Build	heaMoanaEye1	heaMoanaEye1
+Build	heaMoanaEye2	heaMoanaEye2
+Build	heaMoanaMR1	heaMoanaMR1
+Build	heaMoanaMR2	heaMoanaMR2
+333.9	heaML1	Spawn	-88.5,44,-1617.5
+333.9	heaML2	Spawn	-90.5,44,-1617.5
+334.5	heaML1	Move	-88.5,44,-1616.5	10
+334.5	heaML2	Move	-90.5,44,-1618.5	10
+335	heaML1	Move	-88.5,44,-1618.5	10
+335	heaML2	Move	-90.5,44,-1616.5	10
+335.5	heaML1	Move	-88.5,44,-1616.5	10
+335.5	heaML2	Move	-90.5,44,-1618.5	10
+336	heaML1	Despawn
+336	heaML2	Despawn
+336	heaMoanaArm1	Spawn	-87.5,52,-1617.5
+336	heaMoanaArm2	Spawn	-91.5,49,-1617.5
+337	heaMoanaArm1	Move	-87.5,51.8,-1617.5	10
+337	heaMoanaArm2	Move	-91.5,49.2,-1617.5	10
+337.5	heaMoanaArm1	Move	-87.5,52.2,-1617.5	10
+337.5	heaMoanaArm2	Move	-91.5,48.8,-1617.5	10
+338	heaMoanaArm1	Move	-87.5,51.8,-1617.5	10
+338	heaMoanaArm2	Move	-91.5,49.2,-1617.5	10
+338.5	heaMoanaArm1	Move	-87.5,52.2,-1617.5	10
+338.5	heaMoanaArm2	Move	-91.5,48.8,-1617.5	10
+339	heaMoanaArm1	Move	-87.5,51.8,-1617.5	10
+339	heaMoanaArm2	Move	-91.5,49.2,-1617.5	10
+339.6	heaMoanaArm1	Despawn
+339.6	heaMoanaArm2	Despawn
+339.6	heaMoanaArm3	Spawn	-88.5,48,-1617.5
+339.6	heaMoanaArm4	Spawn	-92.5,47,-1617.5
+340	heaMoanaArm3	Move	-88.3,48,-1617.5	10
+340	heaMoanaArm4	Move	-92.7,47,-1617.5	10
+340.5	heaMoanaArm3	Move	-88,48,-1617.5	10
+340.5	heaMoanaArm4	Move	-93,47,-1617.5	10
+341	heaMoanaArm3	Move	-88.3,48,-1617.5	10
+341	heaMoanaArm4	Move	-92.7,47,-1617.5	10
+341.5	heaMoanaArm3	Move	-88,48,-1617.5	10
+341.5	heaMoanaArm4	Move	-93,47,-1617.5	10
+342	heaMoanaArm3	Move	-88.3,48,-1617.5	5
+342	heaMoanaArm4	Move	-92.7,47,-1617.5	5
+342.3	heaMoanaArm3	Despawn
+342.3	heaMoanaArm4	Despawn
+342.6	heaMoanaLeaf1	Spawn	-91.5,46,-1616.5
+343.3	heaMoanaLeaf1	MoveAndDespawn	-93.5,51,-1616	52	True	10
+342.4	heaMoanaTalk1	Spawn	-90.5,51,-1617.9
+342.4	heaMoanaEye1	Spawn	-87.5,55,-1617.9
+342.4	heaMoanaEye2	Spawn	-91.5,55,-1617.9
+#MouthTalk
+343	heaMoanaTalk1	Move	-90.5,50.7,-1616.9	10
+343.5	heaMoanaTalk1	Move	-90.5,49,-1616.9	10
+344	heaMoanaTalk1	Move	-90.5,50.7,-1616.9	10
+344.5	heaMoanaTalk1	Move	-90.5,49,-1616.9	10
+345	heaMoanaTalk1	Move	-90.5,50.7,-1616.9	10
+345.5	heaMoanaTalk1	Move	-90.5,49,-1616.9	10
+346	heaMoanaTalk1	Move	-90.5,50.7,-1616.9	10
+346.5	heaMoanaTalk1	Move	-90.5,49,-1616.9	10
+347	heaMoanaTalk1	Despawn
+#EyesBlink
+343	heaMoanaEye1	Move	-87.5,53,-1616.9	10
+343	heaMoanaEye2	Move	-91.5,53,-1616.9	10
+343.5	heaMoanaEye1	Move	-87.5,54,-1616.9	10
+343.5	heaMoanaEye2	Move	-91.5,54,-1616.9	10
+345	heaMoanaEye1	Move	-87.5,53,-1616.9	10
+345	heaMoanaEye2	Move	-91.5,53,-1616.9	10
+345.5	heaMoanaEye1	Move	-87.5,54,-1616.9	10
+345.5	heaMoanaEye2	Move	-91.5,54,-1616.9	10
+347	heaMoanaEye1	Despawn
+347	heaMoanaEye2	Despawn
+346	heaMB1	Spawn	-90.5,64,-1622.5
+346.1	heaMB1	Move	-86.5,64,-1622.5	55
+349.1	heaMB1	Despawn
+349.1	heaMB2	Spawn	-86.5,64,-1622.5
+350	heaMB2	Despawn
+350	heaMB3	Spawn	-90.5,64,-1622.5
+350.1	heaMB3	Move	-86.5,64,-1622.5	110
+356.1	heaMB3	Despawn
+#MantaRay1
+368	heaMoanaMR1	Spawn	-93.5,20,-1616.5
+369	heaMoanaMR1	MoveAndDespawn	-93.5,70,-1616.5	71	True	50
+370	heaMoanaMR2	Spawn	-95.5,30,-1623.5
+370.5	heaMoanaMR2	MoveAndDespawn	-95.5,97,-1623.5	98	True	60
+#BoatMid
+359	heaMB4	Spawn	-91.5,48,-1616.5
+360	heaMB4	Move	-91.3,48,-1616.5	20
+361	heaMB4	Move	-91.7,48,-1616.5	20
+362	heaMB4	Move	-91.3,48,-1616.5	20
+363	heaMB4	Move	-91.7,48,-1616.5	20
+364	heaMB4	Move	-91.3,48,-1616.5	20
+365	heaMB4	Move	-91.7,48,-1616.5	20
+366	heaMB4	Move	-91.3,48,-1616.5	20
+367	heaMB4	Move	-91.7,48,-1616.5	20
+368	heaMB4	Move	-91.3,48,-1616.5	20
+369	heaMB4	Move	-91.7,48,-1616.5	20
+370	heaMB4	Move	-91.3,48,-1616.5	20
+371	heaMB4	Move	-91.7,48,-1616.5	20
+372	heaMB4	Move	-91.3,48,-1616.5	20
+373	heaMB4	Move	-91.7,48,-1616.5	20
+374	heaMB4	Move	-91.3,48,-1616.5	20
+375	heaMB4	Move	-91.7,48,-1616.5	20
+376	heaMB4	Move	-91.3,48,-1616.5	20
+377	heaMB4	Move	-91.7,48,-1616.5	20
+378	heaMB4	Move	-91.3,48,-1616.5	20
+379	heaMB4	Move	-91.7,48,-1616.5	20
+380	heaMB4	Move	-91.3,48,-1616.5	20
+381	heaMB4	Move	-91.7,48,-1616.5	20
+382	heaMB4	Move	-91.3,48,-1616.5	20
+383	heaMB4	Move	-91.7,48,-1616.5	20
+384	heaMB4	Move	-91.3,48,-1616.5	20
+385	heaMB4	Move	-91.7,48,-1616.5	20
+386	heaMB4	Move	-91.3,48,-1616.5	20
+387	heaMB4	Move	-91.7,48,-1616.5	20
+388	heaMB4	Move	-91.3,48,-1616.5	20
+389	heaMB4	Move	-91.7,48,-1616.5	20
+390.5	heaMB4	Despawn
+#Aladdin
+Build	heaAladdinM	heaAladdinM
+415.3	heaAladdinM	Spawn	-94,39,-1620
+415.6	heaAladdinM	Move	-94,38.5,-1620	5
+415.7	heaAladdinM	Move	-94,39,-1620	5
+417.0	heaAladdinM	Move	-94,38.5,-1620	5
+417.2	heaAladdinM	Move	-94,39,-1620	5
+418.9	heaAladdinM	Move	-94,38.5,-1620	5
+419.1	heaAladdinM	Move	-94,39,-1620	5
+419.5	heaAladdinM	Move	-94,38.5,-1620	5
+419.7	heaAladdinM	Move	-94,39,-1620	5
+421.5	heaAladdinM	Move	-94,38.5,-1620	5
+421.7	heaAladdinM	Move	-94,39,-1620	5
+423.6	heaAladdinM	Move	-94,38.5,-1620	5
+423.8	heaAladdinM	Move	-94,39,-1620	5
+425.2	heaAladdinM	Move	-94,38.5,-1620	5
+425.4	heaAladdinM	Move	-94,39,-1620	5
+426.8	heaAladdinM	Move	-94,38.5,-1620	5
+427.0	heaAladdinM	Move	-94,39,-1620	5
+428.5	heaAladdinM	Despawn
+#Tarzan
+Build	heaTarzanBM1	heaTarzanBM1
+Build	heaTarzanFP1	heaTarzanFP1
+430.7	heaTarzanBM1	Spawn	-86.5,70,-1624.5
+431	heaTarzanBM1	Move	-89.5,68,-1624.5	10
+433	heaTarzanBM1	Move	-89.5,70,-1624.5	20
+435	heaTarzanBM1	Move	-89.5,68,-1624.5	20
+437	heaTarzanBM1	Move	-89.5,70,-1624.5	10
+438.4	heaTarzanBM1	Despawn
+430.5	heaTarzanFP1	Spawn	-87.5,78,-1624.5
+441.5	heaTarzanFP1	Move	-92.5,74,-1624.5	20
+442.5	heaTarzanFP1	Move	-78.5,66,-1620.5	40
+444.5	heaTarzanFP1	Move	-77.5,40,-1617.5	20
+445.7	heaTarzanFP1	Despawn
+##ToyStory
+Build	heatsM	heatsM
+Build	heaTSPotatoHead1	heaTSPotatoHead1
+Build	heaTSPotatoHead2	heaTSPotatoHead2
+Build	heaTSPotatoHead3	heaTSPotatoHead3
+473.0	heatsM	Spawn	-94,39,-1619
+473.1	heatsM	Move	-94,10,-1619	15
+474.5	heatsM	Despawn
+#0=465
+465.5	heaTSPotatoHead2	Spawn	-91.5,49,-1619.5
+465.5	heaTSPotatoHead1	Spawn	-91.5,51,-1619.5
+465.5	heaTSPotatoHead3	Spawn	-91.5,49,-1619
+465.6	heaTSPotatoHead3	Move	-91.5,47,-1619	10
+466	heaTSPotatoHead3	Move	-92,46,-1619	10
+466.5	heaTSPotatoHead3	Move	-91.5,46,-1619	10
+467	heaTSPotatoHead3	Move	-92,46,-1619	10
+467.5	heaTSPotatoHead3	Move	-91.5,46,-1619	10
+468.5	heaTSPotatoHead3	Move	-91.5,45,-1619	10
+469	heaTSPotatoHead2	Move	-91.5,46,-1619.5	10
+469	heaTSPotatoHead3	Move	-91.5,47,-1619	10
+471	heaTSPotatoHead2	Move	-91.5,50,-1619.5	10
+471	heaTSPotatoHead1	Move	-91.5,52,-1619.5	10
+471	heaTSPotatoHead3	Move	-89.5,46,-1619.5	10
+472	heaTSPotatoHead3	Move	-89.5,50,-1619.5	10
+465.6	heaTSPotatoHead2	Move	-91.5,46,-1619.5	10
+465.6	heaTSPotatoHead1	Move	-91.5,48,-1619.5	10
+466	heaTSPotatoHead2	Move	-91.5,44,-1619.5	10
+471.6	heaTSPotatoHead1	Despawn
+471.6	heaTSPotatoHead2	Despawn
+472.6	heaTSPotatoHead3	Despawn
+##Zootopia
+Build	headonut	headonut
+494.1	headonut	Spawn	-110,51,-1616
+494.2	headonut	Move	-104,47,-1616	20
+495.2	headonut	Move	-100,51,-1616	15
+496.0	headonut	Move	-94,47,-1616	20
+497.0	headonut	Move	-88,51,-1616	20
+498.0	headonut	Move	-78,30,-1616	30
+500.0	headonut	Despawn
+##InsideOut
+Build	heaioY	heaioY
+Build	heaioB	heaioB
+Build	heaioG	heaioG
+Build	heaioP	heaioP
+Build	heaioR	heaioR
+Build	heaioY2	heaioY2
+Build	heaioB2	heaioB2
+Build	heaioG2	heaioG2
+Build	heaioP2	heaioP2
+Build	heaioR2	heaioR2
+Build	heaioY3	heaioY3
+Build	heaioB3	heaioB3
+Build	heaioG3	heaioG3
+Build	heaioP3	heaioP3
+Build	heaioR3	heaioR3
+Build	heaioY4	heaioY4
+Build	heaioB4	heaioB4
+Build	heaioG4	heaioG4
+Build	heaioP4	heaioP4
+Build	heaioR4	heaioR4
+Build	heaioY5	heaioY5
+Build	heaioB5	heaioB5
+Build	heaioG5	heaioG5
+Build	heaioP5	heaioP5
+Build	heaioR5	heaioR5
+Build	heaioY6	heaioY6
+Build	heaioB6	heaioB6
+Build	heaioG6	heaioG6
+Build	heaioP6	heaioP6
+Build	heaioR6	heaioR6
+Build	heaioY7	heaioY7
+Build	heaioB7	heaioB7
+Build	heaioG7	heaioG7
+Build	heaioP7	heaioP7
+Build	heaioR7	heaioR7
+Build	heaioY8	heaioY8
+Build	heaioB8	heaioB8
+Build	heaioG8	heaioG8
+Build	heaioP8	heaioP8
+Build	heaioR8	heaioR8
+Build	heaioY9	heaioY9
+Build	heaioB9	heaioB9
+Build	heaioG9	heaioG9
+Build	heaioP9	heaioP9
+Build	heaioR9	heaioR9
+Build	heaioY10	heaioY10
+Build	heaioB10	heaioB10
+Build	heaioG10	heaioG10
+Build	heaioP10	heaioP10
+Build	heaioR10	heaioR10
+#YBG
+500.6	heaioY	Spawn	-83.5,86,-1624.5
+500.6	heaioB	Spawn	-84.5,86,-1624.5
+500.6	heaioG	Spawn	-85.5,86,-1624.5
+500.7	heaioY	Move	-83.5,54,-1624.5	10
+500.7	heaioB	Move	-84.5,54,-1624.5	20
+500.7	heaioG	Move	-85.5,54,-1624.5	15
+#
+500.8	heaioY2	Spawn	-83.5,86,-1624.5
+500.8	heaioB2	Spawn	-84.5,86,-1624.5
+500.8	heaioG2	Spawn	-85.5,86,-1624.5
+500.9	heaioY2	Move	-83.5,54,-1624.5	10
+500.9	heaioB2	Move	-84.5,54,-1624.5	20
+500.9	heaioG2	Move	-85.5,54,-1624.5	15
+#
+501.0	heaioY3	Spawn	-83.5,86,-1624.5
+501.0	heaioB3	Spawn	-84.5,86,-1624.5
+501.0	heaioG3	Spawn	-85.5,86,-1624.5
+501.1	heaioY3	Move	-83.5,54,-1624.5	10
+501.1	heaioB3	Move	-84.5,54,-1624.5	20
+501.1	heaioG3	Move	-85.5,54,-1624.5	15
+#
+501.2	heaioY4	Spawn	-83.5,86,-1624.5
+501.2	heaioB4	Spawn	-84.5,86,-1624.5
+501.2	heaioG4	Spawn	-85.5,86,-1624.5
+501.3	heaioY4	Move	-83.5,54,-1624.5	10
+501.3	heaioB4	Move	-84.5,54,-1624.5	20
+501.3	heaioG4	Move	-85.5,54,-1624.5	15
+#
+501.4	heaioY5	Spawn	-83.5,86,-1624.5
+501.4	heaioB5	Spawn	-84.5,86,-1624.5
+501.4	heaioG5	Spawn	-85.5,86,-1624.5
+501.5	heaioY5	Move	-83.5,54,-1624.5	10
+501.5	heaioB5	Move	-84.5,54,-1624.5	20
+501.5	heaioG5	Move	-85.5,54,-1624.5	15
+#
+501.6	heaioY6	Spawn	-83.5,86,-1624.5
+501.6	heaioB6	Spawn	-84.5,86,-1624.5
+501.6	heaioG6	Spawn	-85.5,86,-1624.5
+501.7	heaioY6	Move	-83.5,54,-1624.5	10
+501.7	heaioB6	Move	-84.5,54,-1624.5	20
+501.7	heaioG6	Move	-85.5,54,-1624.5	15
+#
+501.8	heaioY7	Spawn	-83.5,86,-1624.5
+501.8	heaioB7	Spawn	-84.5,86,-1624.5
+501.8	heaioG7	Spawn	-85.5,86,-1624.5
+501.9	heaioY7	Move	-83.5,54,-1624.5	10
+501.9	heaioB7	Move	-84.5,54,-1624.5	20
+501.9	heaioG7	Move	-85.5,54,-1624.5	15
+#
+502.0	heaioY8	Spawn	-83.5,86,-1624.5
+502.0	heaioB8	Spawn	-84.5,86,-1624.5
+502.0	heaioG8	Spawn	-85.5,86,-1624.5
+502.1	heaioY8	Move	-83.5,54,-1624.5	10
+502.1	heaioB8	Move	-84.5,54,-1624.5	20
+502.1	heaioG8	Move	-85.5,54,-1624.5	15
+#
+502.2	heaioY9	Spawn	-83.5,86,-1624.5
+502.2	heaioB9	Spawn	-84.5,86,-1624.5
+502.2	heaioG9	Spawn	-85.5,86,-1624.5
+502.3	heaioY9	Move	-83.5,54,-1624.5	10
+502.3	heaioB9	Move	-84.5,54,-1624.5	20
+502.3	heaioG9	Move	-85.5,54,-1624.5	15
+#
+502.4	heaioY10	Spawn	-83.5,86,-1624.5
+502.4	heaioB10	Spawn	-84.5,86,-1624.5
+502.4	heaioG10	Spawn	-85.5,86,-1624.5
+502.5	heaioY10	Move	-83.5,54,-1624.5	10
+502.5	heaioB10	Move	-84.5,54,-1624.5	20
+502.5	heaioG10	Move	-85.5,54,-1624.5	15
+#PR
+500.7	heaioP	Spawn	-83.5,86,-1624.5
+500.7	heaioR	Spawn	-84.5,86,-1624.5
+500.8	heaioP	Move	-84.5,54,-1624.5	20
+500.8	heaioR	Move	-85.5,54,-1624.5	15
+500.9	heaioP2	Spawn	-83.5,86,-1624.5
+500.9	heaioR2	Spawn	-84.5,86,-1624.5
+501.0	heaioP2	Move	-84.5,54,-1624.5	20
+501.0	heaioR2	Move	-85.5,54,-1624.5	15
+501.1	heaioP3	Spawn	-83.5,86,-1624.5
+501.1	heaioR3	Spawn	-84.5,86,-1624.5
+501.2	heaioP3	Move	-84.5,54,-1624.5	20
+501.2	heaioR3	Move	-85.5,54,-1624.5	15
+501.3	heaioP4	Spawn	-83.5,86,-1624.5
+501.3	heaioR4	Spawn	-84.5,86,-1624.5
+501.4	heaioP4	Move	-84.5,54,-1624.5	20
+501.4	heaioR4	Move	-85.5,54,-1624.5	15
+501.5	heaioP5	Spawn	-83.5,86,-1624.5
+501.5	heaioR5	Spawn	-84.5,86,-1624.5
+501.6	heaioP5	Move	-84.5,54,-1624.5	20
+501.6	heaioR5	Move	-85.5,54,-1624.5	15
+501.7	heaioP6	Spawn	-83.5,86,-1624.5
+501.7	heaioR6	Spawn	-84.5,86,-1624.5
+501.8	heaioP6	Move	-84.5,54,-1624.5	20
+501.8	heaioR6	Move	-85.5,54,-1624.5	15
+501.9	heaioP7	Spawn	-83.5,86,-1624.5
+501.9	heaioR7	Spawn	-84.5,86,-1624.5
+502.0	heaioP7	Move	-84.5,54,-1624.5	20
+502.0	heaioR7	Move	-85.5,54,-1624.5	15
+502.1	heaioP8	Spawn	-83.5,86,-1624.5
+502.1	heaioR8	Spawn	-84.5,86,-1624.5
+502.2	heaioP8	Move	-84.5,54,-1624.5	20
+502.2	heaioR8	Move	-85.5,54,-1624.5	15
+502.3	heaioP9	Spawn	-83.5,86,-1624.5
+502.3	heaioR9	Spawn	-84.5,86,-1624.5
+502.4	heaioP9	Move	-84.5,54,-1624.5	20
+502.4	heaioR9	Move	-85.5,54,-1624.5	15
+502.5	heaioP10	Spawn	-83.5,86,-1624.5
+502.5	heaioR10	Spawn	-84.5,86,-1624.5
+502.6	heaioP10	Move	-84.5,54,-1624.5	20
+502.6	heaioR10	Move	-85.5,54,-1624.5	15
+#Despawn
+502.8	heaioY	Despawn
+502.8	heaioB	Despawn
+502.8	heaioG	Despawn
+502.9	heaioR	Despawn
+502.9	heaioP	Despawn
+503.0	heaioY2	Despawn
+503.0	heaioB2	Despawn
+503.0	heaioG2	Despawn
+503.1	heaioR2	Despawn
+503.1	heaioP2	Despawn
+503.2	heaioY3	Despawn
+503.2	heaioB3	Despawn
+503.2	heaioG3	Despawn
+503.3	heaioR3	Despawn
+503.3	heaioP3	Despawn
+503.4	heaioY4	Despawn
+503.4	heaioB4	Despawn
+503.4	heaioG4	Despawn
+503.5	heaioR4	Despawn
+503.5	heaioP4	Despawn
+503.6	heaioY5	Despawn
+503.6	heaioB5	Despawn
+503.6	heaioG5	Despawn
+503.7	heaioR5	Despawn
+503.7	heaioP5	Despawn
+503.8	heaioY6	Despawn
+503.8	heaioB6	Despawn
+503.8	heaioG6	Despawn
+503.9	heaioR6	Despawn
+503.9	heaioP6	Despawn
+504.0	heaioY7	Despawn
+504.0	heaioB7	Despawn
+504.0	heaioG7	Despawn
+504.1	heaioR7	Despawn
+504.1	heaioP7	Despawn
+504.2	heaioY8	Despawn
+504.2	heaioB8	Despawn
+504.2	heaioG8	Despawn
+504.3	heaioR8	Despawn
+504.3	heaioP8	Despawn
+504.4	heaioY9	Despawn
+504.4	heaioB9	Despawn
+504.4	heaioG9	Despawn
+504.5	heaioR9	Despawn
+504.5	heaioP9	Despawn
+504.6	heaioY10	Despawn
+504.6	heaioB10	Despawn
+504.6	heaioG10	Despawn
+504.7	heaioR10	Despawn
+504.7	heaioP10	Despawn
+##MonstersInc
+Build	heaLC1	heaLC1
+Build	heaLC2	heaLC2
+Build	heaLC3	heaLC3
+Build	heaLC4	heaLC4
+Build	heaLC5	heaLC5
+Build	heaMID1	heaMID1
+Build	heaMID2	heaMID2
+Build	heaMID3	heaMID3
+Build	heaMID4	heaMID4
+Build	heaMID5	heaMID5
+Build	heaMID6	heaMID6
+Build	heaMID7	heaMID7
+Build	heaMID8	heaMID8
+Build	heaMID9	heaMID9
+Build	heaMID10	heaMID10
+Build	heaMIDoor1	heaMIDoor1
+Build	heaMIDoor2	heaMIDoor2
+Build	heaMIDoor3	heaMIDoor3
+Build	heaMIDoor4	heaMIDoor4
+Build	heaMIDoor5	heaMIDoor5
+Build	heaMIDoor6	heaMIDoor6
+Build	heaMIDoor7	heaMIDoor7
+#Spawn
+504.5	heaLC1	Spawn	-85.5,34,-1624.5
+504.5	heaLC2	Spawn	-81.5,47,-1632
+504.5	heaLC3	Spawn	-93.5,42,-1625
+504.5	heaLC4	Spawn	-76.5,19,-1622
+504.5	heaLC5	Spawn	-102.5,11,-1625
+#MoveUp
+505.5	heaLC1	Move	-85.5,64,-1624.5	20
+505.5	heaLC2	Move	-81.5,77,-1632	20
+505.5	heaLC3	Move	-93.5,72,-1625	20
+505.5	heaLC4	Move	-76.5,39,-1622	20
+505.5	heaLC5	Move	-102.5,41,-1625	20
+#FallDown
+511.1	heaLC3	Move	-93.5,42,-1625	15
+512.0	heaLC1	Move	-85.5,34,-1624.5	15
+512.5	heaLC2	Move	-81.5,47,-1632	15
+512.5	heaLC4	Move	-76.5,19,-1622	15
+512.5	heaLC5	Move	-102.5,11,-1625	15
+#Despawn
+513	heaLC1	Despawn
+513.5	heaLC2	Despawn
+514.5	heaLC3	Despawn
+516.5	heaLC4	Despawn
+516.5	heaLC5	Despawn
+#Doors
+507	heaMID1	Spawn	-97,48,-1616
+507.5	heaMID2	Spawn	-97,48,-1616
+508	heaMID3	Spawn	-97,48,-1616
+508.5	heaMID4	Spawn	-97,48,-1616
+509	heaMID5	Spawn	-97,48,-1616
+509.5	heaMID6	Spawn	-97,48,-1616
+510	heaMID7	Spawn	-97,48,-1616
+510.5	heaMID8	Spawn	-97,48,-1616
+511	heaMID9	Spawn	-97,48,-1616
+511.5	heaMID10	Spawn	-97,48,-1616
+#Move
+507.1	heaMID1	Move	-94,47,-1616	5
+507.35	heaMID1	Move	-86,47,-1616	20
+508.35	heaMID1	Move	-83,48,-1616	5
+#
+507.6	heaMID2	Move	-94,47,-1616	5
+507.85	heaMID2	Move	-86,47,-1616	20
+508.85	heaMID2	Move	-83,48,-1616	5
+#
+508.1	heaMID3	Move	-94,47,-1616	5
+508.35	heaMID3	Move	-86,47,-1616	20
+509.35	heaMID3	Move	-83,48,-1616	5
+#
+508.6	heaMID4	Move	-94,47,-1616	5
+508.85	heaMID4	Move	-86,47,-1616	20
+509.85	heaMID4	Move	-83,48,-1616	5
+#
+509.1	heaMID5	Move	-94,47,-1616	5
+509.35	heaMID5	Move	-86,47,-1616	20
+510.35	heaMID5	Move	-83,48,-1616	5
+#Move
+509.6	heaMID6	Move	-94,47,-1616	5
+509.85	heaMID6	Move	-86,47,-1616	20
+510.85	heaMID6	Move	-83,48,-1616	5
+#
+510.1	heaMID7	Move	-94,47,-1616	5
+510.35	heaMID7	Move	-86,47,-1616	20
+511.35	heaMID7	Move	-83,48,-1616	5
+#
+510.6	heaMID8	Move	-94,47,-1616	5
+510.85	heaMID8	Move	-86,47,-1616	20
+511.85	heaMID8	Move	-83,48,-1616	5
+#
+511.1	heaMID9	Move	-94,47,-1616	5
+511.35	heaMID9	Move	-86,47,-1616	20
+512.35	heaMID9	Move	-83,48,-1616	5
+#
+511.6	heaMID10	Move	-94,47,-1616	5
+511.85	heaMID10	Move	-86,47,-1616	20
+512.85	heaMID10	Move	-83,48,-1616	5
+#Despawn
+508.8	heaMID1	Despawn
+509.3	heaMID2	Despawn
+509.8	heaMID3	Despawn
+510.3	heaMID4	Despawn
+510.8	heaMID5	Despawn
+511.3	heaMID6	Despawn
+511.8	heaMID7	Despawn
+512.6	heaMID8	Despawn
+512.8	heaMID9	Despawn
+513.3	heaMID10	Despawn
+#LastDoorOpen
+512	heaMIDoor1	Spawn	-92.5,39,-1616.5
+512	heaMIDoor2	Spawn	-91.5,39,-1616.5
+512	heaMIDoor3	Spawn	-90.5,39,-1616.5
+512	heaMIDoor4	Spawn	-89.5,39,-1616.5
+512	heaMIDoor5	Spawn	-88.5,39,-1616.5
+512	heaMIDoor6	Spawn	-87.5,39,-1616.5
+512	heaMIDoor7	Spawn	-86.5,39,-1616.5
+512.5	heaMIDoor1	Move	-92.5,39,-1615.5	20
+512.5	heaMIDoor2	Move	-92.5,39,-1615.5	20
+512.5	heaMIDoor3	Move	-92.5,39,-1614.5	20
+512.5	heaMIDoor4	Move	-92.5,39,-1613.5	20
+512.5	heaMIDoor5	Move	-92.5,39,-1612.5	20
+512.5	heaMIDoor6	Move	-92.5,39,-1611.5	20
+512.5	heaMIDoor7	Move	-92.5,39,-1610.5	20
+514.5	heaMIDoor1	Despawn
+514.5	heaMIDoor2	Despawn
+514.5	heaMIDoor3	Despawn
+514.5	heaMIDoor4	Despawn
+514.5	heaMIDoor5	Despawn
+514.5	heaMIDoor6	Despawn
+514.5	heaMIDoor7	Despawn
+##Talk
+Build	heatalk1	heatalk1
+Build	heatalk2	heatalk2
+Build	heatalk3	heatalk3
+Build	heatalk4	heatalk4
+Build	heatalk5	heatalk5
+Build	heatalk6	heatalk6
+Build	heatalk7	heatalk7
+Build	heatalk8	heatalk8
+#Spawn
+513	heatalk1	Spawn	-90.5,52.5,-1617.5
+513	heatalk2	Spawn	-89.5,52.5,-1617.5
+513	heatalk3	Spawn	-88.5,52.5,-1617.5
+513	heatalk4	Spawn	-90.5,55.5,-1617.5
+513	heatalk5	Spawn	-90.5,56.5,-1617.5
+513	heatalk6	Spawn	-89.5,56.5,-1617.5
+513	heatalk7	Spawn	-88.5,56.5,-1617.5
+513	heatalk8	Spawn	-88.5,55.5,-1617.5
+#Move
+515	heatalk1	Move	-90.5,52.7,-1617.5	5
+515	heatalk2	Move	-89.5,53,-1617.5	5
+515	heatalk3	Move	-88.5,52.25,-1617.5	5
+515	heatalk4	Move	-90.5,55,-1617.5	5
+515	heatalk5	Move	-90.5,55.5,-1617.5	5
+515	heatalk6	Move	-89.5,55.5,-1617.5	5
+515	heatalk7	Move	-88.5,55,-1617.5	5
+515	heatalk8	Move	-88.5,55.5,-1617.5	5
+515.5	heatalk1	Move	-90.5,52.25,-1617.5	5
+515.5	heatalk2	Move	-89.5,51.75,-1617.5	5
+515.5	heatalk3	Move	-88.5,52.1,-1617.5	5
+515.5	heatalk4	Move	-90.5,55.1,-1617.5	5
+515.5	heatalk5	Move	-90.5,56,-1617.5	5
+515.5	heatalk6	Move	-89.5,56.5,-1617.5	5
+515.5	heatalk7	Move	-88.5,56.5,-1617.5	5
+515.5	heatalk8	Move	-88.5,55.7,-1617.5	5
+516.1	heatalk1	Move	-90.5,52.3,-1617.5	5
+516.1	heatalk2	Move	-89.5,52,-1617.5	5
+516.1	heatalk3	Move	-88.5,52.3,-1617.5	5
+516.1	heatalk4	Move	-90.5,54,-1617.5	5
+516.1	heatalk5	Move	-90.5,55,-1617.5	5
+516.1	heatalk6	Move	-89.5,54.8,-1617.5	5
+516.1	heatalk7	Move	-88.5,55,-1617.5	5
+516.1	heatalk8	Move	-88.5,54,-1617.5	5
+516.7	heatalk1	Move	-90.5,52.25,-1617.5	5
+516.7	heatalk2	Move	-89.5,51.75,-1617.5	5
+516.7	heatalk3	Move	-88.5,52.1,-1617.5	5
+516.7	heatalk4	Move	-90.5,55.1,-1617.5	5
+516.7	heatalk5	Move	-90.5,56,-1617.5	5
+516.7	heatalk6	Move	-89.5,56.5,-1617.5	5
+516.7	heatalk7	Move	-88.5,56,-1617.5	5
+516.7	heatalk8	Move	-88.5,55.1,-1617.5	5
+517.3	heatalk1	Move	-90.5,52.5,-1617.5	5
+517.3	heatalk2	Move	-89.5,52.7,-1617.5	5
+517.3	heatalk3	Move	-88.5,52.5,-1617.5	5
+517.3	heatalk4	Move	-90.5,54.5,-1617.5	5
+517.3	heatalk5	Move	-90.5,55.5,-1617.5	5
+517.3	heatalk6	Move	-89.5,55.5,-1617.5	5
+517.3	heatalk7	Move	-88.5,55.5,-1617.5	5
+517.3	heatalk8	Move	-88.5,54.5,-1617.5	5
+517.6	heatalk1	Move	-90.5,52.3,-1617.5	5
+517.6	heatalk2	Move	-89.5,51.9,-1617.5	5
+517.6	heatalk3	Move	-88.5,52.3,-1617.5	5
+517.6	heatalk4	Move	-90.5,55,-1617.5	5
+517.6	heatalk5	Move	-90.5,56,-1617.5	5
+517.6	heatalk6	Move	-89.5,55.6,-1617.5	5
+517.6	heatalk7	Move	-88.5,56.5,-1617.5	5
+517.6	heatalk8	Move	-88.5,55.5,-1617.5	5
+519.7	heatalk1	Move	-90.5,52.5,-1617.5	5
+519.7	heatalk2	Move	-89.5,52.8,-1617.5	5
+519.7	heatalk3	Move	-88.5,52.5,-1617.5	5
+519.7	heatalk4	Move	-90.5,54.5,-1617.5	5
+519.7	heatalk5	Move	-90.5,55.5,-1617.5	5
+519.7	heatalk6	Move	-89.5,55.5,-1617.5	5
+519.7	heatalk7	Move	-88.5,55.5,-1617.5	5
+519.7	heatalk8	Move	-88.5,54.5,-1617.5	5
+520.5	heatalk1	Move	-90.5,52.25,-1617.5	5
+520.5	heatalk2	Move	-89.5,52,-1617.5	5
+520.5	heatalk3	Move	-88.5,52.25,-1617.5	5
+520.5	heatalk4	Move	-90.5,55.5,-1617.5	5
+520.5	heatalk5	Move	-90.5,56.5,-1617.5	5
+520.5	heatalk6	Move	-89.5,56.5,-1617.5	5
+520.5	heatalk7	Move	-88.5,56.5,-1617.5	5
+520.5	heatalk8	Move	-88.5,55.5,-1617.5	5
+523.5	heatalk1	Move	-90.5,52.5,-1617.5	5
+523.5	heatalk2	Move	-89.5,52.75,-1617.5	5
+523.5	heatalk3	Move	-88.5,52.5,-1617.5	5
+523.5	heatalk4	Move	-90.5,55.5,-1617.5	5
+523.5	heatalk5	Move	-90.5,56.5,-1617.5	5
+523.5	heatalk6	Move	-89.5,56.25,-1617.5	5
+523.5	heatalk7	Move	-88.5,56.5,-1617.5	5
+523.5	heatalk8	Move	-88.5,55.5,-1617.5	5
+524.5	heatalk1	Move	-90.5,52.25,-1617.5	5
+524.5	heatalk2	Move	-89.5,52,-1617.5	5
+524.5	heatalk3	Move	-88.5,52.25,-1617.5	5
+524.5	heatalk4	Move	-90.5,55.5,-1617.5	5
+524.5	heatalk5	Move	-90.5,56.5,-1617.5	5
+524.5	heatalk6	Move	-89.5,56.5,-1617.5	5
+524.5	heatalk7	Move	-88.5,56.5,-1617.5	5
+524.5	heatalk8	Move	-88.5,55.5,-1617.5	5
+525.1	heatalk1	Move	-90.5,54.7,-1617.5	5
+525.1	heatalk2	Move	-89.5,54,-1617.5	5
+525.1	heatalk3	Move	-88.5,54.25,-1617.5	5
+525.1	heatalk4	Move	-90.5,55,-1617.5	5
+525.1	heatalk5	Move	-90.5,55.5,-1617.5	5
+525.1	heatalk6	Move	-89.5,55.5,-1617.5	5
+525.1	heatalk7	Move	-88.5,55,-1617.5	5
+525.1	heatalk8	Move	-88.5,55.5,-1617.5	5
+526.1	heatalk1	Despawn
+526.1	heatalk2	Despawn
+526.1	heatalk3	Despawn
+526.1	heatalk4	Despawn
+526.1	heatalk5	Despawn
+526.1	heatalk6	Despawn
+526.1	heatalk7	Despawn
+526.1	heatalk8	Despawn
+#AladdinPart2
+Build	heaAlRock	heaAlRock
+Build	heaGenie1	heaGenie1
+Build	heaGenie2	heaGenie2
+Build	heaGenie2H	heaGenie2H
+Build	heaGenie3	heaGenie3
+Build	heaGenie3L1	heaGenie3L1
+Build	heaGenie3L2	heaGenie3L2
+Build	heaGenie3L3	heaGenie3L3
+Build	heaGenie3R1	heaGenie3R1
+Build	heaGenie3R2	heaGenie3R2
+Build	heaGenie3R3	heaGenie3R3
+Build	heaGenie4	heaGenie4
+Build	heaGenie5	heaGenie5
+Build	heaAladdinT1	heaAladdinT1
+#Rock
+526	heaAlRock	Spawn	-102.5,20,-1625.5
+527.1	heaAlRock	Move	-102.5,40,-1625.5	40
+529	heaAlRock	Despawn
+#Genie1
+530	heaGenie1	Spawn	-92.5,66,-1613.5
+530.5	heaGenie1	Move	-92.5,66,-1613.5	10
+531	heaGenie1	Move	-92.5,64,-1613.5	10
+531.5	heaGenie1	Move	-92.5,66,-1613.5	10
+532	heaGenie1	Move	-92.5,64,-1613.5	10
+532.5	heaGenie1	Move	-92.5,66,-1613.5	10
+533	heaGenie1	Move	-92.5,64,-1613.5	10
+533.5	heaGenie1	Move	-92.5,66,-1613.5	10
+534	heaGenie1	Move	-92.5,64,-1613.5	10
+534.5	heaGenie1	Move	-92.5,66,-1613.5	10
+535	heaGenie1	Despawn
+#Genie2
+535.5	heaGenie2	Spawn	-89.5,58,-1622.5
+535.5	heaGenie2H	Spawn	-89.5,58,-1621.5
+536	heaGenie2H	Move	-88.5,65,-1621.5	10
+536.5	heaGenie2H	Move	-82.5,65,-1621.5	10
+537	heaGenie2H	Move	-86.5,60,-1621.5	10
+537.5	heaGenie2H	Move	-89.5,60,-1621.5	10
+538	heaGenie2H	Move	-88.5,65,-1621.5	10
+538.5	heaGenie2H	Move	-82.5,65,-1621.5	10
+539	heaGenie2H	Move	-85.5,60,-1621.5	10
+539.5	heaGenie2H	Move	-89.5,60,-1621.5	10
+536	heaGenie2	Move	-88.5,58,-1622.5	20
+537	heaGenie2	Move	-89.5,58,-1622.5	20
+538	heaGenie2	Move	-88.5,58,-1622.5	20
+539	heaGenie2	Move	-89.5,58,-1622.5	20
+540	heaGenie2	Despawn
+540	heaGenie2H	Despawn
+#Genie4
+540.5	heaGenie4	Spawn	-89.5,60,-1623.5
+541	heaGenie4	Move	-89.5,59,-1623.5	10
+541.5	heaGenie4	Move	-89.5,60,-1623.5	10
+542.5	heaGenie4	Despawn
+#Genie3(546.5Spawn)
+546.5	heaGenie3	Spawn	-87.5,63,-1623.5
+546.5	heaGenie3L1	Spawn	-81.5,75,-1621.5
+546.5	heaGenie3L2	Spawn	-82.5,74,-1621
+546.5	heaGenie3L3	Spawn	-83.5,73,-1621
+546.5	heaGenie3R1	Spawn	-89,74,-1623.5
+546.5	heaGenie3R2	Spawn	-89.5,75,-1623.5
+546.5	heaGenie3R3	Spawn	-89.7,76,-1623.5
+#Genie5
+550.6	heaGenie5	Spawn	-93.5,68,-1623.5
+550.7	heaGenie5	Move	-93.5,45,-1623.5	30
+552.5	heaGenie5	Despawn
+#Move
+547.5	heaGenie3L1	Move	-81,75,-1621.5	10
+547.5	heaGenie3L2	Move	-81,76,-1621.5	10
+547.5	heaGenie3L3	Move	-82,77,-1622	10
+547.5	heaGenie3R1	Move	-89,73,-1623.5	10
+547.5	heaGenie3R2	Move	-89.5,72,-1623.5	10
+547.5	heaGenie3R3	Move	-89.7,71,-1623.5	10
+548.2	heaGenie3L2	Move	-81,76,-1621.5	10
+548.2	heaGenie3L3	Move	-81.5,77,-1622	10
+548.2	heaGenie3R1	Move	-88,75.1,-1623.5	10
+548.2	heaGenie3R2	Move	-88.5,75.9,-1623.5	10
+548.2	heaGenie3R3	Move	-88,76.8,-1623.5	10
+549.2	heaGenie3L2	Move	-82.5,74,-1621	10
+549.2	heaGenie3L3	Move	-83.5,73,-1621	10
+549.2	heaGenie3R1	Move	-89,73,-1623.5	10
+549.2	heaGenie3R2	Move	-88.5,72,-1623.5	10
+549.2	heaGenie3R3	Move	-88.7,71,-1623.5	10
+549.9	heaGenie3	Despawn
+549.9	heaGenie3L1	Despawn
+549.9	heaGenie3L2	Despawn
+549.9	heaGenie3L3	Despawn
+549.9	heaGenie3R1	Despawn
+549.9	heaGenie3R2	Despawn
+549.9	heaGenie3R3	Despawn
+#TowerUp
+550	heaAladdinT1	Spawn	-86.5,65,-1625
+550.5	heaAladdinT1	MoveAndDespawn	-86.5,102,-1625	103	True	75
+##AladdinDone
+#Incredibles0=753
+Build	heaomni1	heaomni1
+Build	heaomniLA1	heaomniLA1
+Build	heaomniRA1	heaomniRA1
+#MainBody
+753	heaomni1	Spawn	-92.5,45,-1623.5
+754	heaomni1	Move	-92.5,59,-1623.5	10
+756.5	heaomni1	Move	-89.5,60.5,-1623.5	7
+761.2	heaomni1	Move	-91.5,59,-1623.5	10
+762.5	heaomni1	Move	-93.5,45,-1622.5	10
+763.1	heaomni1	Despawn
+#LeftArm
+756.5	heaomniLA1	Spawn	-89.5,50,-1622.5
+757.5	heaomniLA1	Move	-89.5,62,-1622.5	5
+759	heaomniLA1	Move	-89.5,64,-1622.5	20
+761	heaomniLA1	Despawn
+#RightArm
+756.5	heaomniRA1	Spawn	-79.5,50,-1622.5
+757.5	heaomniRA1	Move	-79.5,62,-1622.5	5
+761	heaomniRA1	Despawn
+#UrsulaWaves
+Build	heawaves1	heawaves1
+Build	heawaves2	heawaves2
+#Movements
+763	heawaves1	Spawn	-97.5,34,-1615.5
+763	heawaves2	Spawn	-97.5,37,-1616.5
+764	heawaves1	Move	-97.5,44,-1615.5	40
+764	heawaves2	Move	-97.5,47,-1616.5	40
+766.1	heawaves1	Move	-97.5,44.6,-1615.5	20
+766	heawaves2	Move	-97.5,47.2,-1616.5	20
+767.1	heawaves1	Move	-97.5,43.4,-1615.5	20
+767	heawaves2	Move	-97.5,46.2,-1616.5	20
+768.1	heawaves1	Move	-97.5,44.6,-1615.5	20
+768	heawaves2	Move	-97.5,47.2,-1616.5	20
+769.1	heawaves1	Move	-97.5,43.4,-1615.5	20
+769	heawaves2	Move	-97.5,46.2,-1616.5	20
+770.1	heawaves1	Move	-97.5,44.6,-1615.5	20
+770	heawaves2	Move	-97.5,47.2,-1616.5	20
+771.1	heawaves1	Move	-97.5,43.4,-1615.5	20
+771	heawaves2	Move	-97.5,46.2,-1616.5	20
+772.1	heawaves1	Move	-97.5,44.6,-1615.5	20
+772	heawaves2	Move	-97.5,47.2,-1616.5	20
+773.1	heawaves1	Move	-97.5,43.4,-1615.5	20
+773	heawaves2	Move	-97.5,46.2,-1616.5	20
+774.1	heawaves1	Move	-97.5,44.6,-1615.5	20
+774	heawaves2	Move	-97.5,47.2,-1616.5	20
+775.1	heawaves1	Move	-97.5,43.4,-1615.5	20
+775	heawaves2	Move	-97.5,46.2,-1616.5	20
+776.1	heawaves1	Move	-97.5,34,-1615.5	40
+776	heawaves2	Move	-97.5,37,-1616.5	40
+779	heawaves1	Despawn
+779	heawaves2	Despawn
+#Ursula
+Build	heaursula1	heaursula1
+Build	heaursulaRT1	heaursulaRT1
+Build	heaursulaRT2	heaursulaRT2
+Build	heaursulaLT1	heaursulaLT1
+Build	heaursula2	heaursula2
+Build	heaursula2R	heaursula2R
+Build	heaursula2L	heaursula2L
+Build	heaursula3	heaursula3
+#Spawn#0=767
+767	heaursulaLT1	Spawn	-98.5,24,-1615.5
+768	heaursulaLT1	Move	-98.5,44,-1615.5	20
+767	heaursulaRT1	Spawn	-85.5,24,-1615.5
+768	heaursulaRT1	Move	-85.5,43,-1615.5	20
+767	heaursulaRT2	Spawn	-77.5,24,-1619.5
+768	heaursulaRT2	Move	-77.5,42,-1619.5	20
+767	heaursula1	Spawn	-91.5,24,-1622.5
+768	heaursula1	Move	-91.5,58,-1622.5	30
+770	heaursula1	Move	-91.5,57.5,-1622.5	10
+770.5	heaursula1	Move	-91.5,58,-1622.5	10
+771	heaursula1	Move	-88.5,58,-1622.5	20
+772.5	heaursula1	Despawn
+#NextUrsula
+772	heaursula2	Spawn	-86.5,58,-1622.5
+772	heaursula2L	Spawn	-77.5,66,-1621.5
+772	heaursula2R	Spawn	-88.5,66,-1621.5
+772.5	heaursula2L	Move	-77.8,67.5,-1621.5	10
+772.5	heaursula2R	Move	-88.5,65,-1621.5	10
+#Ursula3
+774	heaursula2	Despawn
+774	heaursula2R	Despawn
+774	heaursula2L	Despawn
+774	heaursula3	Spawn	-88.5,58,-1622.5
+774.1	heaursula3	Move	-90.5,58,-1622.5	10
+775.5	heaursula3	Despawn
+775.5	heaursulaRT1	Despawn
+775.5	heaursulaRT2	Despawn
+775.5	heaursulaLT1	Despawn
+#LionKing
+Build	healkL1	healkL1
+Build	healkL2	healkL2
+Build	healkL3	healkL3
+Build	healkR1	healkR1
+#Spawn#0=785
+785	healkL1	Spawn	-94.5,65,-1622.5
+785	healkR1	Spawn	-86.5,63,-1622.5
+785.5	healkL1	Move	-93.5,65.5,-1622.5	30
+785.5	healkR1	Move	-85.5,62.5,-1622.5	30
+786.5	healkL1	Move	-93,64,-1622.5	30
+786.5	healkR1	Move	-85,61,-1622.5	30
+787	healkL2	Spawn	-88.5,74,-1623.5
+787.2	healkL2	Move	-86,68,-1623.5	20
+788.5	healkL2	Despawn
+787.5	healkL1	Move	-93,61,-1622.5	30
+787.5	healkR1	Move	-85.5,58,-1622.5	30
+789	healkL1	Move	-93,64,-1622.5	30
+789	healkR1	Move	-85,61,-1622.5	30
+788	healkL3	Spawn	-83.5,68,-1623.5
+788.5	healkL3	Move	-79.5,68,-1623.5	10
+789	healkL3	Move	-79.5,75,-1623.5	20
+790	healkL3	Move	-85,75,-1623.5	20
+791	healkL3	Move	-85,69,-1623.5	10
+792	healkL1	Despawn
+792	healkR1	Despawn
+792	healkL3	Despawn
+#AladdinSnake#0=793
+Build	heasnakebottom1	heasnakebottom1
+Build	heaAlsnake1	heaAlsnake1
+Build	heaAlsnake2	heaAlsnake2
+Build	heaAlsnake3	heaAlsnake3
+Build	heaAlsnake4	heaAlsnake4
+Build	heaAlsnake5	heaAlsnake5
+Build	heaAlsnake3.5	heaAlsnake3.5
+#Bottom
+793	heasnakebottom1	Spawn	-102.5,48,-1623.5
+794	heasnakebottom1	Move	-102,48,-1623.5	40
+796	heasnakebottom1	Move	-103,48,-1623.5	40
+798	heasnakebottom1	Move	-102,48,-1623.5	40
+800	heasnakebottom1	Move	-103,48,-1623.5	30
+801.6	heasnakebottom1	Despawn
+#Top1
+793.5	heaAlsnake1	Spawn	-87.5,53,-1623.5
+794	heaAlsnake1	Move	-87.5,62,-1623.5	10
+794.5	heaAlsnake1	Move	-87.2,62,-1623.5	20
+796	heaAlsnake1	Despawn
+796.1	heaAlsnake3	Spawn	-85.5,61,-1623.5
+796.6	heaAlsnake3	Despawn
+796.7	heaAlsnake2	Spawn	-85.5,62,-1623.5
+796.8	heaAlsnake2	Move	-85,62,-1623.5	5
+797.05	heaAlsnake2	Despawn
+797.1	heaAlsnake3.5	Spawn	-85,61,-1623.5
+797.2	heaAlsnake3.5	Move	-93,62.5,-1623.5	10
+797.9	heaAlsnake3.5	Despawn
+797.9	heaAlsnake4	Spawn	-95,62,-1623.5
+798.5	heaAlsnake4	Move	-91.5,64.5,-1623.5	8
+799.0	heaAlsnake4	Move	-95,63.5,-1623.5	10
+799.6	heaAlsnake4	Move	-95,62.5,-1623.5	8
+800.2	heaAlsnake4	Move	-95,63.5,-1623.5	10
+800.9	heaAlsnake4	Despawn
+801	heaAlsnake5	Spawn	-96,58,-1623.5
+801.3	heaAlsnake5	Move	-88,40,-1623.5	10
+802.15	heaAlsnake5	Despawn
+#Maleficent#0=809
+Build	heaMalshadow1	heaMalshadow1
+Build	heaDragon1	heaDragon1
+Build	heaDragonW1	heaDragonW1
+Build	heaDragonW2	heaDragonW2
+#Shadow
+809	heaMalshadow1	Spawn	-94.5,75,-1622.5
+809.1	heaMalshadow1	Move	-94.5,50,-1622.5	30
+811	heaMalshadow1	Despawn
+#Dragon
+810	heaDragon1	Spawn	-88,55,-1623.5
+810	heaDragonW1	Spawn	-89,61,-1623.5
+810	heaDragonW2	Spawn	-77,57,-1623.5
+810.5	heaDragon1	Move	-88,61,-1623.5	20
+810.5	heaDragonW1	Move	-85,70,-1623.5	20
+810.5	heaDragonW2	Move	-81,68,-1623.5	20
+813.5	heaDragon1	Despawn
+813.5	heaDragonW1	Despawn
+813.5	heaDragonW2	Despawn
+#POTC
+Build	heapotcFireUp1	heapotcFireUp1
+Build	heapotcFire1	heapotcFire1
+Build	heapotcFire2	heapotcFire2
+#Spawn/Movements#0=813
+813	heapotcFireUp1	Spawn	-94,20,-1617
+814	heapotcFireUp1	MoveAndDespawn	-94,70,-1617	71	True	30
+815	heapotcFire2	Spawn	-92.5,45,-1616.5
+815	heapotcFire1	Spawn	-92.5,45,-1615.5
+816	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+816.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+817	heapotcFire2	Move	-92.5,45,-1616.5	20
+817.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+818	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+818.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+819	heapotcFire2	Move	-92.5,45,-1616.5	20
+819.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+820	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+820.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+821	heapotcFire2	Move	-92.5,45,-1616.5	20
+821.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+822	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+822.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+823	heapotcFire2	Move	-92.5,45,-1616.5	20
+823.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+824	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+824.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+825	heapotcFire2	Move	-92.5,45,-1616.5	20
+825.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+826	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+826.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+827	heapotcFire2	Move	-92.5,45,-1616.5	20
+827.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+828	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+828.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+829	heapotcFire2	Move	-92.5,45,-1616.5	20
+829.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+830	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+830.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+831	heapotcFire2	Move	-92.5,45,-1616.5	20
+831.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+832	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+832.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+833	heapotcFire2	Move	-92.5,45,-1616.5	20
+833.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+834	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+834.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+835	heapotcFire2	Move	-92.5,45,-1616.5	20
+835.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+836	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+836.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+837	heapotcFire2	Move	-92.5,45,-1616.5	20
+837.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+838	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+838.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+839	heapotcFire2	Move	-92.5,45,-1616.5	20
+839.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+840	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+840.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+841	heapotcFire2	Move	-92.5,45,-1616.5	20
+841.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+842	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+842.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+843	heapotcFire2	Move	-92.5,45,-1616.5	20
+843.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+844	heapotcFire2	Move	-92.5,45.4,-1616.5	20
+844.5	heapotcFire1	Move	-92.5,45.5,-1615.5	20
+845	heapotcFire2	Move	-92.5,45,-1616.5	20
+845.5	heapotcFire1	Move	-92.5,45,-1615.5	20
+846	heapotcFire1	Move	-92.5,35,-1615.5	20
+846	heapotcFire2	Move	-92.5,35,-1615.5	20
+847.5	heapotcFire1	Despawn
+847.5	heapotcFire2	Despawn
+#Frozen
+Build	heaFMoon1	heaFMoon1
+Build	heaFMoon2	heaFMoon2
+#Spawn
+580	heaFMoon1	Spawn	-115.5,20,-1616.5
+580.1	heaFMoon1	MoveAndDespawn	-95.5,65,-1616.5	64	True	260
+590	heaFMoon2	Spawn	-95.5,50,-1623.5
+590.1	heaFMoon2	MoveAndDespawn	-90.5,90,-1623.5	89	True	260
+##Heart
+Build	heaHeart1	heaHeart1
+Build	heaHeart2	heaHeart2
+Build	heaHeart3	heaHeart3
+Build	heaHeart4	heaHeart4
+Build	heaHeart5	heaHeart5
+Build	heaHeart6	heaHeart6
+Build	heaHeart7	heaHeart7
+Build	heaHeart8	heaHeart8
+#Spawn
+616	heaHeart1	Spawn	-85.5,65,-1624.5
+616.1	heaHeart1	Move	-85.2,65,-1624.5	40
+618.1	heaHeart1	Move	-85.7,65,-1624.5	40
+620.1	heaHeart1	Move	-85.5,65,-1624.5	20
+622	heaHeart1	Despawn
+#
+623	heaHeart2	Spawn	-93.5,53,-1616.5
+623.1	heaHeart2	Move	-93.5,53.3,-1616.5	40
+625.1	heaHeart2	Move	-93.5,53,-1616.5	40
+627.2	heaHeart2	Despawn
+#
+628	heaHeart3	Spawn	-95.5,51,-1616.5
+628.1	heaHeart3	Move	-95.5,51.5,-1616.5	20
+629.1	heaHeart3	Move	-95.5,51,-1616.5	22
+630.5	heaHeart3	Despawn
+#
+631	heaHeart4	Spawn	-93.5,53,-1616.5
+631.1	heaHeart4	Move	-93.5,52.7,-1616.5	15
+631.85	heaHeart4	Move	-93.5,53,-1616.5	15
+632.6	heaHeart4	Despawn
+#
+634	heaHeart5	Spawn	-93.5,53,-1616.5
+637.5	heaHeart5	Despawn
+#
+638	heaHeart6	Spawn	-93.5,53,-1616.5
+638.1	heaHeart6	Move	-93.5,53.5,-1616.5	20
+639.1	heaHeart6	Move	-93.5,53,-1616.5	20
+640.2	heaHeart6	Despawn
+#
+641	heaHeart7	Spawn	-93.5,53,-1616.5
+643.5	heaHeart7	Despawn
+#
+644	heaHeart8	Spawn	-93.5,51,-1616.5
+644.1	heaHeart8	Move	-93.5,53,-1616.5	20
+646.2	heaHeart8	Despawn

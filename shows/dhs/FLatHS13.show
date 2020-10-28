@@ -1,0 +1,207 @@
+#Show Started January 17th, 2017
+Show	Location	441,64,84
+Show	TextRadius	45
+Show	Name	FLatH
+#Audio
+0	AudioStart	flaths13
+5	AudioSync	flaths13	5
+10	AudioSync	flaths13	10
+30	AudioSync	flaths13	30
+60	AudioSync	flaths13	60
+120	AudioSync	flaths13 	120
+180	AudioSync	flaths13 	180
+240	AudioSync	flaths13 	240
+250	AudioSync	flaths13 	250
+#S13 Ice Castle
+12.4	Text	&f[&dAnna&f] &7Elsa?
+14.6	Text	&7It's me, Anna.
+17.2	Text	&f[&bElsa&f] &7Anna.
+18.2	Text	&f[&dAnna&f] &7Elsa, you look so different.
+21	Text	&f[&bElsa&f] &7I feel different.
+22.1	Text	&f[&dAnna&f] &7It's a good different.
+24.4	Text	&7And this place is amazing.
+26.8	Text	&f[&bElsa&f] &7Thank you.
+27.7	Text	&7I never knew what I was capable of.
+29.6	Text	&f[&dAnna&f] &7I'm so sorry about what happened.
+31.7	Text	&7If I'd had known -
+32.3	Text	&f[&bElsa&f] &7No, no, no it's alright.
+33.5	Text	&7You don't have to apologize.
+35.6	Text	&7It's so wonderful to see you but you should probably go, please.
+38.9	Text	&f[&dAnna&f] &7But I just got here.
+40	Text	&f[&bElsa&f] &7You belong in Arendelle.
+41.8	Text	&f[&dAnna&f] &7We were so close.
+43.7	Text	&7We can be like that again.
+46.3	Text	&f[&bElsa&f] &7No, we can't.
+47.7	Text	&f[&dAnna&f] &7Elsa, please.
+48.9	Text	&f[&bElsa&f] &7I'm just trying to protect you.
+50.7	Text	&f[&dAnna&f] &7You don't have to protect me.
+52.5	Text	&7I'm not afraid. 
+54	Text	&dPlease don't shut me out again.
+56.1	Text	&dPlease don't slam the door.
+58.1	Text	&dYou don't have to keep your distance anymore.
+62.2	Text	&d'Cause for the first time in forever,
+65.2	Text	&dI finally understand.
+67.3	Text	&dFor the first time in forever,
+69.6	Text	&dWe can fix this hand in hand.
+71.9	Text	&dWe can head down this mountain together.
+74.4	Text	&dYou don't have to live in fear.
+77.3	Text	&d'Cause for the first time in forever,
+81.4	Text	&dI will be right here.
+84.5	Text	&f[&bElsa&f] &bAnna, please, go back home.
+88	Text	&bYour life awaits.
+90.4	Text	&bGo enjoy the sun and open up the gates.
+94.1	Text	&f[&dAnna&f] &7Yeah, but I-
+94.7	Text	&f[&bElsa&f] &7I know.
+95.7	Text	&bYou mean well,
+97.5	Text	&bbut leave me be.
+99.8	Text	&bYes, I'm alone but I'm alone and free.
+104.2	Text	&bJust stay away and you'll be safe from me.
+109.7	Text	&f[&dAnna&f] &dActually, we're not.
+111.2	Text	&f[&bElsa&f] &bWhat do you mean you're not?
+111.9	Text	&f[&dAnna&f] &dI get the feeling you don't know.
+113.8	Text	&f[&bElsa&f] &bWhat do I not know?
+115.5	Text	&f[&dAnna&f] &dArendelle's in deep, deep, deep, deep snow.
+120.7	Text	&f[&bElsa&f] &7What? 
+121.4	Text	&f[&dAnna&f] &7You kind of set off an eternal winter... everywhere.
+124.6	Text	&f[&bElsa&f] &7Everywhere?
+125.3	Text	&f[&dAnna&f] &7That's okay, you can just unfreeze it.
+127.7	Text	&f[&bElsa&f] &7No I can't.
+128.7	Text	&7I don't know how. 
+129.9	Text	&f[&dAnna&f] &7Sure you can. 
+131.1	Text	&7I know you can!
+133.3	Text	&d'Cause for the first time in forever,
+135.5	Text	&f[&bElsa&f] &bOhhh, I'm such a fool! 
+138	Text	&bI can't be free!
+138.4	Text	&f[&dAnna&f] &dyou don't have to be afraid.
+141.6	Text	&f[&bElsa&f] &bNo escape from the storm inside of me! 
+143.2	Text	&f[&dAnna&f] &dWe can work this out together.
+146.1	Text	&f[&bElsa&f] &bI can't control the curse!
+148.1	Text	&f[&dAnna&f] &dWe'll reverse the storm you made.
+149.3	Text	&f[&bElsa&f] &bOhhh, Anna, please, you'll only make it worse!
+154	Text	&f[&dAnna&f] &dDon't panic.
+155.1	Text	&f[&bElsa&f] &bThere's so much fear!
+155.7	Text	&f[&dAnna&f] &dWe'll make the sun shine bright.
+157.4	Text	&f[&bElsa&f] &bYou're not safe here!
+158.8	Text	&f[&dAnna&f] &dWe can face this thing together...
+160	Text	&f[&bElsa&f] &bOhhh...
+161.3	Text	&f[&dAnna&f] &dWe can change this winter weather,
+161.9	Text	&f[&bElsa&f] &bAhhh!
+164	Text	&f[&dAnna&f] &dand everything will be alright!
+166	Text	&f[&bElsa&f] &bI CAN'T!!
+170.2	Text	&f[&3Kristoff&f] &7Anna!
+171.7	Text	&7Are you okay?
+173.1	Text	&f[&dAnna&f] &7I'm okay, I'm fine.
+174.6	Text	&f[&bElsa&f] &7Who is he?
+175.8	Text	&7Wait, it doesn't matter you have to go.
+177.4	Text	&f[&dAnna&f] &7No, I know we can figure this out together.
+179.8	Text	&f[&bElsa&f] &7How?
+180.7	Text	&7What power do you have to stop this winter?
+183.8	Text	&7To stop &ome?
+185	Text	&f[&3Kristoff&f] &7Anna, I think we should go.
+186.4	Text	&f[&dAnna&f] &7No, I'm not leaving without you, Elsa!
+189	Text	&f[&bElsa&f] &7Yes, you are.
+198	Text	&f[&3Kristoff&f] &7Anna, your hair.
+199.1	Text	&7It's... turning white.
+201.7	Text	&f[&dAnna&f] &7White?
+203.4	Text	&7It's what?
+204.7	Text	&f[&3Kristoff&f] &7It's because she struck you, isn't it?
+206.8	Text	&f[&dAnna&f] &7Does it look bad?
+209.9	Text	&f[&3Kristoff&f] &7...No.
+210.4	Text	&f[&9Olaf&f] &7You hesitated. 
+211.4	Text	&f[&3Kristoff&f] &7No, I didn't.
+213.5	Text	&7Anna, you need help.
+214.8	Text	&7Now come with me.
+216.3	Text	&f[&9Olaf&f] &7Where are we going?
+217.3	Text	&f[&3Kristoff&f] &7To see my friends.
+218.3	Text	&f[&dAnna&f] &7The love experts?
+219.5	Text	&f[&3Kristoff&f] &7Yes, and don't worry; they'll be able to fix this.
+223.1	Text	&7Come on, Sven. 
+223.7	Text	&7Come on, Olaf.
+226	Text	&f[&9Olaf&f] &7I like to consider myself a love expert.
+244.7	Text	&f[&bElsa&f] &7Hello?
+#Schematics
+0	Schematic	FLatHS13.1	439	62	68	newhws	false
+1.5	Schematic	FLatHS13.2	439	62	68	newhws	false
+2.5	Schematic	FLatHS13.3	439	62	68	newhws	false
+3.5	Schematic	FLatHS13.4	439	62	68	newhws	false
+4.5	Schematic	FLatHS13.5	439	62	68	newhws	false
+5.5	Schematic	FLatHS13.6	439	62	68	newhws	false
+6.5	Schematic	FLatHS13.7	439	62	68	newhws	false
+7.5	Schematic	FLatHS13.8	439	62	68	newhws	false
+8.5	Schematic	FLatHS13.9	439	62	68	newhws	false
+9.5	Schematic	FLatHS13.10	439	62	68	newhws	false
+10.5	Schematic	FLatHS13.11	439	62	68	newhws	false
+11.5	Schematic	FLatHS13.12	439	62	68	newhws	false
+192.2	Schematic	FLatHS13.13	439	62	68	newhws	false
+192.7	Schematic	FLatHS13.14	439	62	68	newhws	false
+193.2	Schematic	FLatHS13.15	439	62	68	newhws	false
+193.7	Schematic	FLatHS13.16	439	62	68	newhws	false
+194.2	Schematic	FLatHS13.17	439	62	68	newhws	false
+194.7	Schematic	FLatHS13.18	439	62	68	newhws	false
+247	Schematic	FLatHS13.19	439	62	68	newhws	false
+247.5	Schematic	FLatHS13.20	439	62	68	newhws	false
+248	Schematic	FLatHS13.21	439	62	68	newhws	false
+248.5	Schematic	FLatHS13.22	439	62	68	newhws	false
+249	Schematic	FLatHS13.23	439	62	68	newhws	false
+249.5	Schematic	FLatHS13.24	439	62	68	newhws	false
+250	Schematic	FLatHS13.25	439	62	68	newhws	false
+250.5	Schematic	FLatHS13.26	439	62	68	newhws	false
+251	Schematic	FLatHS13.27	439	62	68	newhws	false
+251.5	Schematic	FLatHS13.28	439	62	68	newhws	false
+252	Schematic	FLatHS13.29	439	62	68	newhws	false
+#LightChandelier 
+11.5	Block	152	470,88,86
+194.7	Block	0	470,88,86
+194.7	Block	152	462,88,87
+250.0	Block	0	462,88,87
+#CloseDoors
+11.5	Block	152	465,65,106
+#OpenDoors
+35.6	Block	152	470,65,106
+#LightForSide
+40.6	Block	89	453,62,106
+#Storm1
+149.3	Block	1	466,88,84
+#Storm2
+157.4	Block	0	466,88,84
+157.4	Block	1	464,88,84
+#Storm3
+166.0	Block	0	464,88,84
+166.0	Block	1	462,88,84
+169.4	Block	0	462,88,84
+#Clock
+149.3	Block	152	467,88,80
+169.4	Block	0	467,88,80
+#I can't
+169.5	Block	152	467,89,78
+#Smoke
+192.2	Block	152	470,88,77
+192.1	Block	0	463,88,79
+192.1	Block	0	463,88,77
+192.7	Block	1	463,88,79
+193.2	Block	1	463,88,77
+193.7	Block	0	465,88,75
+194.2	Block	0	463,88,79
+194.7	Block	0	463,88,77
+194.7	Block	0	470,88,77
+195.0	Block	1	463,88,79
+195.0	Block	1	463,88,77
+195.0	Block	1	465,88,75
+#Doors
+246	Block	152	465,65,106
+#BackStageDoorsClose
+251	Block	0	445,62,104
+251	Block	0	445,62,103
+251	Block	0	444,62,64
+251	Block	0	444,62,63
+#Lights
+235	Block	35:8	452,62,88
+235	Block	0	452,63,88
+235	Block	89	447,62,90
+241	Block	123	447,62,90
+#Stage
+241	Block	89	463,79,86
+241	Block	89	461,79,88
+241	Block	89	465,64,86
+241	Block	89	466,79,84
+241	Block	89	463,79,82

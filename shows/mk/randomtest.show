@@ -1,0 +1,110 @@
+Show	Location	-89,43,-1588
+Show	TextRadius	150
+Show	Name	Castle
+### Armor Stands ###
+#ArmorStand, like Effect, but for Armor Stands
+#ArmorStand	<name>	<small(true/false)>	<head_id;chest_id;legs_id;boots_id;hand>
+#For skulls on head: skull:playerTextureResourceHash
+#For colored armor: armorID:data(r,g,b) <-no spaces
+
+#Spawn:
+#<seconds>	ArmorStand	<name>	Spawn	x,y,z,rotation
+
+#Move:	<time> to move from current position to x,y,z
+#<seconds>	ArmorStand	<name>	Move	x,y,z	<time>
+ArmorStand	fronttrain1	false	0;0;0;0;359:63
+ArmorStand	midtrain1	false	0;0;0;0;359:64
+ArmorStand	backtrain1	false	0;0;0;0;359:65
+ArmorStand	backtrain2	false	0;0;0;0;359:65
+ArmorStand	backtrain3	false	0;0;0;0;359:65
+0	ArmorStand	fronttrain1	Spawn	-102,53,-1615.5,270
+0.01	ArmorStand	fronttrain1	Position	ARM_RIGHT	-5,0,5	0.1
+0.01	ArmorStand	fronttrain1	Position	ARM_Left	-5,0,5	0.1
+0.1	ArmorStand	fronttrain1	Move	-76.5,53,-1615.5	4
+4.1	ArmorStand	fronttrain1	Despawn
+0.7	ArmorStand	midtrain1	Spawn	-102,53,-1615.5,270
+0.71	ArmorStand	midtrain1	Position	ARM_RIGHT	-5,0,5	0.1
+0.71	ArmorStand	midtrain1	Position	ARM_Left	-5,0,5	0.1
+0.8	ArmorStand	midtrain1	Move	-76.5,53,-1615.5	4
+4.6	ArmorStand	midtrain1	Despawn
+1.25	ArmorStand	backtrain1	Spawn	-102,53,-1615.5,270
+1.26	ArmorStand	backtrain1	Position	ARM_RIGHT	-5,0,5	0.1
+1.26	ArmorStand	backtrain1	Position	ARM_Left	-5,0,5	0.1
+1.35	ArmorStand	backtrain1	Move	-76.5,53,-1615.5	4
+5.35	ArmorStand	backtrain1	Despawn
+2.5	ArmorStand	backtrain2	Spawn	-102,53,-1615.5,270
+2.51	ArmorStand	backtrain2	Position	ARM_RIGHT	-5,0,5	0.1
+2.51	ArmorStand	backtrain2	Position	ARM_Left	-5,0,5	0.1
+2.65	ArmorStand	backtrain2	Move	-76.5,53,-1615.5	4
+6.65	ArmorStand	backtrain2	Despawn
+3.75	ArmorStand	backtrain3	Spawn	-102,53,-1615.5,270
+3.76	ArmorStand	backtrain3	Position	ARM_RIGHT	-5,0,5	0.1
+3.76	ArmorStand	backtrain3	Position	ARM_Left	-5,0,5	0.1
+3.85	ArmorStand	backtrain3	Move	-76.5,53,-1615.5	4
+7.55	ArmorStand	backtrain3	Despawn
+
+
+
+
+
+5.1	ArmorStand	fronttrain1	Spawn	-83.5,67,-1623.5,90
+5.11	ArmorStand	fronttrain1	Position	ARM_RIGHT	-25,0,5	0.1
+5.11	ArmorStand	fronttrain1	Position	ARM_Left	-25,0,5	0.1
+5.2	ArmorStand	fronttrain1	Move	-98.5,76,-1623.5	3
+8.2	ArmorStand	fronttrain1	Despawn
+5.8	ArmorStand	midtrain1	Spawn	-83.5,67,-1623.5,90
+5.81	ArmorStand	midtrain1	Position	ARM_RIGHT	-25,0,5	0.1
+5.81	ArmorStand	midtrain1	Position	ARM_Left	-30,0,5	0.1
+5.9	ArmorStand	midtrain1	Move	-98.5,75,-1623.5	6.5
+8.7	ArmorStand	midtrain1	Despawn
+6.35	ArmorStand	backtrain1	Spawn	-83.5,67,-1623.5,90
+6.36	ArmorStand	backtrain1	Position	ARM_RIGHT	-25,0,5	0.1
+6.36	ArmorStand	backtrain1	Position	ARM_Left	-25,0,5	0.1
+6.45	ArmorStand	backtrain1	Move	-98.5,76,-1623.5	3
+9.45	ArmorStand	backtrain1	Despawn
+7.65	ArmorStand	backtrain2	Spawn	-83.5,67,-1623.5,90
+7.66	ArmorStand	backtrain2	Position	ARM_RIGHT	-25,0,5	0.1
+7.66	ArmorStand	backtrain2	Position	ARM_Left	-25,0,5	0.1
+7.75	ArmorStand	backtrain2	Move	-98.5,76,-1623.5	3
+10.75	ArmorStand	backtrain2	Despawn
+8.65	ArmorStand	backtrain3	Spawn	-83.5,67,-1623.5,90
+8.66	ArmorStand	backtrain3	Position	ARM_RIGHT	-25,0,5	0.1
+8.66	ArmorStand	backtrain3	Position	ARM_Left	-25,0,5	0.1
+8.75	ArmorStand	backtrain3	Move	-98.5,76,-1623.5	6.5
+11.65	ArmorStand	backtrain3	Despawn
+
+
+
+9.2	ArmorStand	fronttrain1	Spawn	-89.5,67,-1614.5,0
+9.21	ArmorStand	fronttrain1	Position	ARM_RIGHT	55,0,2.5	0.1
+9.21	ArmorStand	fronttrain1	Position	ARM_Left	55,0,2.5	0.1
+9.3	ArmorStand	fronttrain1	Move	-89.5,40,-1614.5	3
+12.2	ArmorStand	fronttrain1	Despawn
+9.6	ArmorStand	midtrain1	Spawn	-88.5,67,-1614.5,0
+9.61	ArmorStand	midtrain1	Position	ARM_RIGHT	55,0,2.5	0.1
+9.61	ArmorStand	midtrain1	Position	ARM_Left	55,0,2.5	0.1
+9.7	ArmorStand	midtrain1	Move	-89,40,-1614.5	10
+12.7	ArmorStand	midtrain1	Despawn
+10.25	ArmorStand	backtrain1	Spawn	-89.5,67,-1614.5,0
+10.26	ArmorStand	backtrain1	Position	ARM_RIGHT	55,0,2.5	0.1
+10.26	ArmorStand	backtrain1	Position	ARM_Left	55,0,2.5	0.1
+10.35	ArmorStand	backtrain1	Move	-89.5,40,-1614.5	3
+13.25	ArmorStand	backtrain1	Despawn
+11.35	ArmorStand	backtrain2	Spawn	-89.5,67,-1614.5,0
+11.36	ArmorStand	backtrain2	Position	ARM_RIGHT	55,0,2.5	0.1
+11.36	ArmorStand	backtrain2	Position	ARM_Left	55,0,2.5	0.1
+11.45	ArmorStand	backtrain2	Move	-89.5,40,-1614.5	3
+14.35	ArmorStand	backtrain2	Despawn
+12.05	ArmorStand	backtrain3	Spawn	-89.5,67,-1614.5,0
+12.06	ArmorStand	backtrain3	Position	ARM_RIGHT	55,0,2.5	0.1
+12.06	ArmorStand	backtrain3	Position	ARM_Left	55,0,2.5	0.1
+12.15	ArmorStand	backtrain3	Move	-89.5,40,-1614.5	11
+15.05	ArmorStand	backtrain3	Despawn
+
+
+
+13.2	ArmorStand	fronttrain1	Spawn	-77.5,80,-1621.5,90
+13.21	ArmorStand	fronttrain1	Position	ARM_RIGHT	-5,0,5	0.1
+13.21	ArmorStand	fronttrain1	Position	ARM_Left	-5,0,5	0.1
+13.3	ArmorStand	fronttrain1	Move	-95.5,80,-1621.5	2
+15.2	ArmorStand	fronttrain1	Despawn

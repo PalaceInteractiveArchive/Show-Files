@@ -1,0 +1,178 @@
+Show	Location	-155,69,-108
+Show	TextRadius	4
+Show	Name	ToT Pre Show 1
+#Music
+0	Block	152	-153,64,-109
+0	AudioStart	totpreshow1
+2.5	AudioSync	totpreshow1   2.5
+6	AudioSync	totpreshow1 6
+#Entrance Doors
+0	Block	152	-157,64,-111
+0	Block	17:1	-157,68,-105
+0	Block	17:1	-157,69,-105
+#Lights
+0	Block	123	-156,72,-107
+#Text
+3	Text	&cYou unlock this door with the Key of Imagination...
+6.5	Text	&cBeyond it is another dimension
+8.5	Text	&cA dimension of Sound
+10.7	Text	&cA dimension of Sight
+13	Text	&cA dimension of Mind
+14.5	Text	&cYou're moving into a land of both shadow and substance
+17.2	Text	&cOf things and ideas
+19	Text	&cYou've just crossed over into
+21.2	Text	&e&oThe Twilight Zone
+27.5	Text	&6&oHollywood, 1939
+29.8	Text	&cAmid the glitz and glitter of a bustling young movie town at the height of its Golden Age
+34.2	Text	&cThe Hollywood Tower Hotel was a star in its own right
+37.6	Text	&cA beacon for the Show Business Elite
+41.7	Text	&cNow...
+42.7	Text	&cSomething is about to happen that will change all that
+59.4	Text	&cThe time is now, on an evening very much like the one we have just witnessed
+65.7	Text	&cTonight's story on The Twilight Zone is somewhat unique and calls for a different kind of introduction
+70.8	Text	&cThis, as you may recognize, is a Maintenance Service Elevator
+74.1	Text	&cStill in operation
+75.5	Text	&cWaiting for &oyou
+77.2	Text	&cWe invite you, if you dare, to step aboard because in tonight's episode &oYou &care the star
+83	Text	&cAnd this elevator travels directly to
+86.7	Text	&e&oThe Twilight Zone
+#Images
+0.6	Block	152	-165,64,-113
+2.9	Block	152	-164,64,-113
+8.3	Block	152	-163,64,-113
+10.7	Block	152	-162,64,-113
+13.5	Block	152	-161,64,-113
+17.6	Block	152	-160,64,-113
+20.7	Block	152	-159,64,-113
+25.9	Block	152	-158,64,-113
+27.5	Block	152	-157,64,-113
+34.1	Block	152	-156,64,-113
+47	Block	152	-155,64,-113
+51.9	Block	152	-154,64,-113
+58.3	Block	152	-153,64,-113
+64.3	Block	152	-152,64,-113
+72.6	Block	152	-151,64,-113
+81	Block	152	-150,64,-113
+90	Block	152	-166,64,-113
+#Exit Doors
+90.1	Block	76	-155,66,-110
+90.1	Block	76	-156,66,-111
+90	Block	0	-156,68,-110
+90	Block	0	-156,69,-110
+#Lights
+90	Block	89	-156,72,-107
+#Exit Doors
+105	Block	0	-155,66,-110
+105	Block	0	-156,66,-111
+105	Block	5:5	-156,68,-110
+105	Block	47	-156,69,-110
+106	Block	152	-153,64,-106
+#Entrance Doors
+105	Block	152	-155,64,-110
+105	Block	0	-157,68,-105
+105	Block	0	-157,69,-105
+#Special Effects
+0.7	Block	152	-149,64,-109
+26.4	Block	152	-149,64,-109
+26.8	Block	152	-149,64,-109
+27.1	Block	152	-149,64,-109
+48.5	Block	152	-149,64,-109
+48.8	Block	152	-149,64,-109
+52.3	Block	152	-149,64,-109
+52.6	Block	152	-149,64,-109
+53	Block	152	-149,64,-109
+53.3	Block	152	-149,64,-109
+53.7	Block	152	-149,64,-109
+54.1	Block	152	-149,64,-109
+54.4	Block	152	-149,64,-109
+54.8	Block	152	-149,64,-109
+55.1	Block	152	-149,64,-109
+55.5	Block	152	-149,64,-109
+55.8	Block	152	-149,64,-109
+56.2	Block	152	-149,64,-109
+56.5	Block	152	-149,64,-109
+56.9	Block	152	-149,64,-109
+57.2	Block	152	-149,64,-109
+57.6	Block	152	-149,64,-109
+57.9	Block	152	-149,64,-109
+58.3	Block	152	-149,64,-109
+58.8	Block	152	-149,64,-109
+87.7	Block	152	-149,64,-109
+9.7	Block	152	-151,64,-105
+9.8	Block	171:12	-154,68,-106
+13	Block	152	-150,64,-105
+24.6	Block	152	-149,64,-105
+24.8	Block	152	-149,64,-105
+25	Block	152	-149,64,-105
+25.2	Block	152	-149,64,-105
+25.4	Block	152	-149,64,-105
+25.6	Block	152	-149,64,-105
+25.8	Block	152	-149,64,-105
+26	Block	152	-149,64,-105
+26.2	Block	152	-149,64,-105
+26.4	Block	152	-149,64,-105
+26.6	Block	152	-149,64,-105
+26.8	Block	152	-149,64,-105
+27	Block	152	-149,64,-105
+27.2	Block	152	-149,64,-105
+27.4	Block	152	-149,64,-105
+27.6	Block	152	-149,64,-105
+27.8	Block	152	-149,64,-105
+28	Block	152	-149,64,-105
+28.2	Block	152	-149,64,-105
+28.4	Block	152	-149,64,-105
+28.6	Block	152	-149,64,-105
+28.8	Block	152	-149,64,-105
+29	Block	152	-149,64,-105
+29.2	Block	152	-149,64,-105
+29.4	Block	152	-149,64,-105
+29.6	Block	152	-149,64,-105
+29.8	Block	152	-149,64,-105
+52	Block	152	-148,64,-105
+52.4	Block	152	-148,64,-105
+52.8	Block	152	-148,64,-105
+53.2	Block	152	-148,64,-105
+53.6	Block	152	-148,64,-105
+54	Block	152	-148,64,-105
+54.4	Block	152	-148,64,-105
+54.8	Block	152	-148,64,-105
+55.2	Block	152	-148,64,-105
+55.6	Block	152	-148,64,-105
+56	Block	152	-148,64,-105
+56.4	Block	152	-148,64,-105
+56.8	Block	152	-148,64,-105
+57.2	Block	152	-148,64,-105
+57.6	Block	152	-148,64,-105
+58	Block	152	-148,64,-105
+21.3	Block	152	-147,64,-105
+86.7	Block	152	-147,64,-105
+#Reset
+0	Block	0	-148,64,-105
+0	Block	0	-149,64,-105
+0	Block	0	-151,64,-105
+0	Block	0	-149,64,-109
+0	Block	0	-147,64,-105
+#Reset Exit Doors
+0	Block	0	-155,66,-110
+0	Block	0	-156,66,-111
+0	Block	5:5	-156,68,-110
+0	Block	47	-156,69,-110
+0	Block	0	-153,64,-106
+#Reset Images
+0	Block	0	-165,64,-113
+0	Block	0	-164,64,-113
+0	Block	0	-163,64,-113
+0	Block	0	-162,64,-113
+0	Block	0	-161,64,-113
+0	Block	0	-160,64,-113
+0	Block	0	-159,64,-113
+0	Block	0	-158,64,-113
+0	Block	0	-157,64,-113
+0	Block	0	-156,64,-113
+0	Block	0	-155,64,-113
+0	Block	0	-154,64,-113
+0	Block	0	-153,64,-113
+0	Block	0	-152,64,-113
+0	Block	0	-151,64,-113
+0	Block	0	-150,64,-113
+0	Block	0	-166,64,-113
