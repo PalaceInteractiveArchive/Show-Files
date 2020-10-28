@@ -1,4 +1,4 @@
-Show	Location	-258,62,291
+Show	Location	1908,41,5372
 Show	TextRadius	7
 Show	Name	MMRR1
 
@@ -9,12 +9,12 @@ ArmorStand	Lantern3	FALSE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90
 ArmorStand	Fountain1	FALSE	0;299(65,167,255);0;0;0
 ArmorStand	Fountain2	FALSE	0;299(65,167,255);0;0;0
 ArmorStand	Fountain3	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M1OGRmMmYwMDVlZGEwZWExODU3MjNmMGQyNjdhOTE0NGJlMzE4OGJlZWQ4M2Y4NDEyOTU3MmE3YTQ2M2EzOSJ9fX0=;0;0;0;0
-0	ArmorStand	Lantern1	Spawn	-256.5,62.09,288.5,0
-0	ArmorStand	Lantern2	Spawn	-258.5,62.09,288.5,0
-0	ArmorStand	Lantern3	Spawn	-260.5,62.09,289.5,0
-0	ArmorStand	Fountain1	Spawn	-257.5,64.0,287.5,315.0
-0	ArmorStand	Fountain2	Spawn	-257.5,64.0,287.5,45.0
-0	ArmorStand	Fountain3	Spawn	-257.5,64.72,287.5,0
+0	ArmorStand	Lantern1	Spawn	1909.5,41.09,5369.5
+0	ArmorStand	Lantern2	Spawn	1907.5,41.09,5369.5
+0	ArmorStand	Lantern3	Spawn	1905.5,41.09,5370.5
+0	ArmorStand	Fountain1	Spawn	1908.5,43.0,5368.5
+0	ArmorStand	Fountain2	Spawn	1908.5,43.0,5368.5
+0	ArmorStand	Fountain3	Spawn	1908.5,43.72,5368.5
 35	ArmorStand	Lantern1	Despawn
 35	ArmorStand	Lantern2	Despawn
 35	ArmorStand	Lantern3	Despawn
@@ -23,71 +23,71 @@ ArmorStand	Fountain3	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90
 35	ArmorStand	Fountain3	Despawn
 
 #Invisible Armor Stands
-0.1	Block	152	-248,53,288
-1.1	Block	20	-248,53,288
-3.1	Block	152	-248,53,288
-3.3	Block	20	-248,53,288
-4.01	Block	152	-248,53,288
-4.1	Block	20	-248,53,288
+0.1	Block	152	1918,32,5369
+1.1	Block	20	1918,32,5369
+3.1	Block	152	1918,32,5369
+3.3	Block	20	1918,32,5369
+4.01	Block	152	1918,32,5369
+4.1	Block	20	1918,32,5369
 
 #BIRDS!
 ArmorStand	Bird1	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRkNTc3NDU0N2E3NTEyNmRkNjQ1YWJkZmExMzU4ZGU1YmZjZWE3OTU1ZTFhZGJlNzE5MmJkMDhjMmVmNyJ9fX0=;299;300;301;0
 ArmorStand	Bird2	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRkNTc3NDU0N2E3NTEyNmRkNjQ1YWJkZmExMzU4ZGU1YmZjZWE3OTU1ZTFhZGJlNzE5MmJkMDhjMmVmNyJ9fX0=;299;300;301;0
 ArmorStand	Bird3	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGRkNTc3NDU0N2E3NTEyNmRkNjQ1YWJkZmExMzU4ZGU1YmZjZWE3OTU1ZTFhZGJlNzE5MmJkMDhjMmVmNyJ9fX0=;299;300;301;0
 
-3.0	ArmorStand	Bird1	Spawn	-253.82,71.2,284.94,-295.73
+3.0	ArmorStand	Bird1	Spawn	1912.18,50.2,5365.94
 3.1	ArmorStand	Bird1	Position	BODY	9,4.06,0	1
 3.1	ArmorStand	Bird1	Position	HEAD	1.06,-4.47,0	1
 3.1	ArmorStand	Bird1	Position	LEG_LEFT	74.0,0,-1	1
 3.1	ArmorStand	Bird1	Position	LEG_RIGHT	75,0,1	1
 3.1	ArmorStand	Bird1	Position	ARM_LEFT	50,0,20	1
 3.1	ArmorStand	Bird1	Position	ARM_RIGHT	45,0,-20	1
-3.1	ArmorStand	Bird1	Move	-257.57,70.15,285.86	5
+3.1	ArmorStand	Bird1	Move	1908.43,49.150000000000006,5366.86	5
 3.7	ArmorStand	Bird1	Position	HEAD	1.11,3.75,-5.5	7
 3.1	ArmorStand	Bird1	Rotate	3	5
-8.11	ArmorStand	Bird1	Move	-258.12,69.7,286.46	2
+8.11	ArmorStand	Bird1	Move	1907.88,48.7,5367.46	2
 8.11	ArmorStand	Bird1	Rotate	36	2
 10.11	ArmorStand	Bird1	Position	HEAD	-5,-6,-10.51	3
-12.11	ArmorStand	Bird1	Move	-261.59,70.04,289.02	4
+12.11	ArmorStand	Bird1	Move	1904.41,49.040000000000006,5370.02	4
 12.11	ArmorStand	Bird1	Rotate	-36	1
 13.12	ArmorStand	Bird1	Position	HEAD	6,2,3	5
-16.12	ArmorStand	Bird1	Move	-265.85,69.71,289.55	4
+16.12	ArmorStand	Bird1	Move	1900.15,48.709999999999994,5370.55	4
 
-3.0	ArmorStand	Bird2	Spawn	-253.39,69.71,285.2,59.59
+3.0	ArmorStand	Bird2	Spawn	1912.6100000000001,48.709999999999994,5366.2
 3.1	ArmorStand	Bird2	Position	BODY	9,4.06,0	1
 3.1	ArmorStand	Bird2	Position	HEAD	1.06,-4.47,0	1
 3.1	ArmorStand	Bird2	Position	LEG_LEFT	74.0,0,-1	1
 3.1	ArmorStand	Bird2	Position	LEG_RIGHT	75,0,1	1
 3.1	ArmorStand	Bird2	Position	ARM_LEFT	50,0,20	1
 3.1	ArmorStand	Bird2	Position	ARM_RIGHT	45,0,-20	1
-3.1	ArmorStand	Bird2	Move	-257.64,71.2,286.38	5
+3.1	ArmorStand	Bird2	Move	1908.3600000000001,50.2,5367.38	5
 3.7	ArmorStand	Bird2	Position	HEAD	0.5,-8.1,-1.9	7
 3.1	ArmorStand	Bird2	Rotate	2.5	5
-8.11	ArmorStand	Bird2	Move	-257.81,70.44,285.8	2
+8.11	ArmorStand	Bird2	Move	1908.19,49.44,5366.8	2
 8.11	ArmorStand	Bird2	Rotate	6.31	2
 10.11	ArmorStand	Bird2	Position	HEAD	5,-14.3,-5	3
-12.11	ArmorStand	Bird2	Move	-261.35,70.08,288.12	4
+12.11	ArmorStand	Bird2	Move	1904.65,49.08,5369.12	4
 12.11	ArmorStand	Bird2	Rotate	-6.31	1
 13.12	ArmorStand	Bird2	Position	HEAD	-10,6.3,10	5
-16.12	ArmorStand	Bird2	Move	-265.37,70.09,289.03	4
+16.12	ArmorStand	Bird2	Move	1900.63,49.09,5370.03	4
 
-3.0	ArmorStand	Bird3	Spawn	-254.03,68.99,284.66,72.43
+3.0	ArmorStand	Bird3	Spawn	1911.97,47.989999999999995,5365.66
 3.1	ArmorStand	Bird3	Position	BODY	9,4.06,0	1
 3.1	ArmorStand	Bird3	Position	HEAD	1.06,-4.47,0	1
 3.1	ArmorStand	Bird3	Position	LEG_LEFT	74.0,0,-1	1
 3.1	ArmorStand	Bird3	Position	LEG_RIGHT	75,0,1	1
 3.1	ArmorStand	Bird3	Position	ARM_LEFT	50,0,20	1
 3.1	ArmorStand	Bird3	Position	ARM_RIGHT	45,0,-20	1
-3.1	ArmorStand	Bird3	Move	-257.47,68.95,285.41	5
+3.1	ArmorStand	Bird3	Move	1908.53,47.95,5366.41	5
 3.7	ArmorStand	Bird3	Position	HEAD	1.11,-9.3,7	7
 3.1	ArmorStand	Bird3	Rotate	2.75	5
-8.11	ArmorStand	Bird3	Move	-258.97,70.1,285.87	2
+8.11	ArmorStand	Bird3	Move	1907.03,49.099999999999994,5366.87	2
 8.11	ArmorStand	Bird3	Rotate	-124.5	2
 10.11	ArmorStand	Bird3	Position	HEAD	-6,3.5,-10	3
-12.11	ArmorStand	Bird3	Move	-262.0,71.2,288.55	4
+12.11	ArmorStand	Bird3	Move	1904.0,50.2,5369.55	4
 12.11	ArmorStand	Bird3	Rotate	124.5	1
 13.12	ArmorStand	Bird3	Position	HEAD	10,-5.3,3	5
-16.12	ArmorStand	Bird3	Move	-265.88,71.20,289.25	4
+16.12	ArmorStand	Bird3	Move	1900.12,50.2,5370.25	4
 
 20	ArmorStand	Bird1	Despawn
 20	ArmorStand	Bird2	Despawn
@@ -95,33 +95,33 @@ ArmorStand	Bird3	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0
 
 #CAR!!!!!!
 ArmorStand	Car	FALSE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzNkNWUxMzg4NzYzZjcxODJhN2FhZTQxNDhhMzk1ZDVjMzM0ZjBhNjQ4ZGQ2MDU0MWE3MjEzYWM4OWRmNGEifX19;0;0;0;0
-4.0	ArmorStand	Car	Spawn	-263.52,66.41,288.38,319.5
-4.01	ArmorStand	Car	Move	-261.73,65.74,287.09	1
-5.02	ArmorStand	Car	Move	-260.54,66.22,284.69	1.5
+4.0	ArmorStand	Car	Spawn	1902.48,45.41,5369.38
+4.01	ArmorStand	Car	Move	1904.27,44.739999999999995,5368.09	1
+5.02	ArmorStand	Car	Move	1905.46,45.22,5365.69	1.5
 6.51	ArmorStand	Car	Rotate	180	1
-6.51	ArmorStand	Car	Move	-259.7,66.0,284.14	1
-8.2	ArmorStand	Car	Move	-260.47,65.88,286.16	1
-9.21	ArmorStand	Car	Move	-262.47,66.51,288.15	1.8
-11.02	ArmorStand	Car	Move	-264.65,66.52,288.23	1.1
+6.51	ArmorStand	Car	Move	1906.3,45.0,5365.14	1
+8.2	ArmorStand	Car	Move	1905.53,44.879999999999995,5367.16	1
+9.21	ArmorStand	Car	Move	1903.53,45.510000000000005,5369.15	1.8
+11.02	ArmorStand	Car	Move	1901.35,45.519999999999996,5369.23	1.1
 11.23	ArmorStand	Car	Rotate	180	1
-13.35	ArmorStand	Car	Move	-262.26,66.0,288.17	1
-14.36	ArmorStand	Car	Move	-261.33,65.02,287.09	1.5
-20.37	ArmorStand	Car	Move	-258.65,63.0,286.21	1
+13.35	ArmorStand	Car	Move	1903.74,45.0,5369.17	1
+14.36	ArmorStand	Car	Move	1904.67,44.019999999999996,5368.09	1.5
+20.37	ArmorStand	Car	Move	1907.35,42.0,5367.21	1
 21.5	ArmorStand	Car	Rotate	180	1
-24.5	ArmorStand	Car	Move	-260.41,63.5,287.3	1
-25.53	ArmorStand	Car	Move	-261.97,63.5,288.59	2
-27.52	ArmorStand	Car	Move	-264.36,63.5,288.41	1
+24.5	ArmorStand	Car	Move	1905.59,42.5,5368.3	1
+25.53	ArmorStand	Car	Move	1904.03,42.5,5369.59	2
+27.52	ArmorStand	Car	Move	1901.6399999999999,42.5,5369.41	1
 30.0	ArmorStand	Car	Despawn
 ArmorStand	CarMick	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODQ5MGI5Nzk2MjI0MzY4Yjk5Y2FkMWY1NjcyZTFjZTNkNWJlM2JiNmJjOWMzNGEyYjEyNmNhNDlkNzE0YWVkIn19fQ==;299(255,0,0);300(0,0,0);301(247,255,0);0
 ArmorStand	CarMinn	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjI4MTRkOTMwNWNkMDhkYWM0YjliN2M2ZWI0YWNlMjY5MzQ4Mjc4ZmIyZDVjODhlNjFkYzcxMTFkNTVjYzUifX19;299(0,0,0);300(255,0,0);301(247,255,0);0
-15.86	ArmorStand	CarMick	Spawn	-261.07,66.64,287.2,-107.38
+15.86	ArmorStand	CarMick	Spawn	1904.93,45.64,5368.2
 15.87	ArmorStand	CarMick	Position	HEAD	0.06,-17.96,0	0.1
 15.87	ArmorStand	CarMick	Position	BODY	0.0,2.49,0	0.1
 15.87	ArmorStand	CarMick	Position	LEG_LEFT	277.24,0,3,54.71	0.1
 15.87	ArmorStand	CarMick	Position	LEG_RIGHT	275.22,0,34,6.2	0.1
 15.87	ArmorStand	CarMick	Position	ARM_LEFT	-10,0,-10	0.1
 15.87	ArmorStand	CarMick	Position	ARM_RIGHT	-105,30,10	0.1
-16.1	ArmorStand	CarMick	Move	-260.39,66.66,287.0	1.5
+16.1	ArmorStand	CarMick	Move	1905.6100000000001,45.66,5368.0	1.5
 16.1	ArmorStand	CarMick	Position	HEAD	0.06,15.3,0.0	3.5
 16.1	ArmorStand	CarMick	Position	BODY	0.0,2.49,0	3.5
 16.1	ArmorStand	CarMick	Position	LEG_LEFT	360,6.0,-6	3.5
@@ -129,7 +129,7 @@ ArmorStand	CarMinn	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZX
 16.1	ArmorStand	CarMick	Position	ARM_LEFT	-82.0,45,-10	3.5
 16.1	ArmorStand	CarMick	Position	ARM_RIGHT	-84,-48,10	1.5
 16.1	ArmorStand	CarMick	Rotate	-13.38	1.5
-18.5	ArmorStand	CarMick	Move	-261.07,66.64,287.2	1
+18.5	ArmorStand	CarMick	Move	1904.93,45.64,5368.2	1
 18.5	ArmorStand	CarMick	Rotate	13.38	1
 18.5	ArmorStand	CarMick	Position	LEG_LEFT	-80.54,0.3,54.71	20
 18.5	ArmorStand	CarMick	Position	LEG_RIGHT	-80.22,0.34,46.2	20
@@ -137,14 +137,14 @@ ArmorStand	CarMinn	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZX
 18.5	ArmorStand	CarMick	Position	ARM_RIGHT	-105,30,10	20
 20.37	ArmorStand	CarMick	Despawn
 
-15.86	ArmorStand	CarMinn	Spawn	-261.28,66.61,286.75,-108.05
+15.86	ArmorStand	CarMinn	Spawn	1904.72,45.61,5367.75
 15.87	ArmorStand	CarMinn	Position	HEAD	3,10.4,9	0.1
 15.87	ArmorStand	CarMinn	Position	BODY	0,1.59,0	0.1
 15.87	ArmorStand	CarMinn	Position	LEG_LEFT	269.53,337.52,-1	0.1
 15.87	ArmorStand	CarMinn	Position	LEG_RIGHT	268.45,0,1	0.1
 15.87	ArmorStand	CarMinn	Position	ARM_LEFT	-43,15,-10	0.1
 15.87	ArmorStand	CarMinn	Position	ARM_RIGHT	-45,-27,10	0.1
-16.1	ArmorStand	CarMinn	Move	-259.21,66.74,285.7	1.5
+16.1	ArmorStand	CarMinn	Move	1906.79,45.739999999999995,5366.7	1.5
 16.1	ArmorStand	CarMinn	Position	HEAD	3,-15,-9	3.5
 16.1	ArmorStand	CarMinn	Position	BODY	0,1.59,0	3.5
 16.1	ArmorStand	CarMinn	Position	LEG_LEFT	360,2,-13	3.5
@@ -152,7 +152,7 @@ ArmorStand	CarMinn	TRUE	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZX
 16.1	ArmorStand	CarMinn	Position	ARM_LEFT	-105.5,21,10	3.5
 16.1	ArmorStand	CarMinn	Position	ARM_RIGHT	-105,21,10	3.5
 16.1	ArmorStand	CarMinn	Rotate	142.25	1.5
-18.5	ArmorStand	CarMinn	Move	-261.28,66.61,286.75	1
+18.5	ArmorStand	CarMinn	Move	1904.72,45.61,5367.75	1
 18.5	ArmorStand	CarMinn	Rotate	-142.25	1.5
 18.5	ArmorStand	CarMinn	Position	LEG_LEFT	-80.53,337.52,-1	20
 18.5	ArmorStand	CarMinn	Position	LEG_RIGHT	-80.45,0,1	20

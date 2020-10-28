@@ -1,8 +1,8 @@
 ﻿Show	Location	-261,59,303
 Show	TextRadius	25
 #Spawn Car With Stands
-0	Block	152	-261,59,303
-1	Block	0	-261,59,303
+0	Block	152	1905,38,5384
+1	Block	0	1905,38,5384
 #Remove Car / Reset
-40	Block	152	-259,58,303
-41	Block	0	-261,59,303
+40	Block	152	1907,37,5384
+41	Block	0	1905,38,5384
