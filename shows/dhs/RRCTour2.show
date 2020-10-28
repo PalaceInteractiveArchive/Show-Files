@@ -26,11 +26,11 @@ Show	Name	rrctour
 #Placing Blocks:
 
 ## Remove Barriers#
-45	Block	0	-301,59,-57
-45	Block	0	-302,59,-57
+45	Block	0	1865,38,5024
+45	Block	0	1864,38,5024
 
 ## Start Tour 3 ##
-55	Block	152	-339,51,-103
+55	Block	152	1827,30,4978
 
 
 ### Audio ###

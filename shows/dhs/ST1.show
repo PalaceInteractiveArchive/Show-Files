@@ -1,26 +1,26 @@
 ﻿Show	Location	-94,53,743
 Show	TextRadius	25
 #StartAudio
-0	Block	152	-95,45,743
+0	Block	152	2071,24,5824
 #C3PO
-1	Block	152	-92,46,750
+1	Block	152	2074,25,5831
 #TeleportPlayers
-13	Block	152	-92,45,743
+13	Block	152	2074,24,5824
 #RideStart
-13	Block	152	-123,22,740
-13.1	Block	0	-123,22,740
+13	Block	152	2043,1,5821
+13.1	Block	0	2043,1,5821
 #Reset
-14	Block	152	-89,46,750
+14	Block	152	2077,25,5831
 #Define
 ArmorStand	traffic1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTY5ODIxNzcyY2EyNjczZjRhY2I1MzkzZDEyNmIyZTYyZTgyY2U4NTVhNDljZmVlYTc3ODMwYzVkMTI0YSJ9fX0=";299(186,33,33);300(186,33,33);301(0,0,0)
 #SpawnTraffic1
-13.5	ArmorStand	traffic1	spawn	-120,25,742
-13.65	Block	152	-119,34,741
+13.5	ArmorStand	traffic1	spawn	2046,4,5823
+13.65	Block	152	2047,13,5822
 #GiveName+Torches
-13.55	Block	152	-121,34,741
-13.55	Block	152	-120,34,741
+13.55	Block	152	2045,13,5822
+13.55	Block	152	2046,13,5822
 #Rotate
-20	Block	152	-118,34,741
+20	Block	152	2048,13,5822
 #MoveArms
 14	ArmorStand	traffic1	Position	ARM_RIGHT	-80,0,0	1
 14	ArmorStand	traffic1	Position	ARM_LEFT	-80,0,0	1
@@ -49,43 +49,43 @@ ArmorStand	traffic1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90
 27.2	ArmorStand	traffic1	Position	ARM_RIGHT	-80,0,0	1
 27.2	ArmorStand	traffic1	Position	ARM_LEFT	-80,0,0	1
 #Move
-13.6	ArmorStand	traffic1	Move	-120,22,743	1
-14.8	ArmorStand	traffic1	Move	-99,22,744	5
-19.9	ArmorStand	traffic1	Move	-96,22,764	6
+13.6	ArmorStand	traffic1	Move	2046,1,5824	1
+14.8	ArmorStand	traffic1	Move	2067,1,5825	5
+19.9	ArmorStand	traffic1	Move	2070,1,5845	6
 #Rotate
-22	Block	152	-116,34,741
+22	Block	152	2050,13,5822
 #SpawnShip
-3	Block	152	-114,34,741
+3	Block	152	2052,13,5822
 #MoveShip
-23.5	Block	152	-113,34,741
-24	Block	152	-112,34,741
-24.5	Block	152	-111,34,741
-25	Block	152	-110,34,741
-25.5	Block	152	-109,34,741
-26	Block	152	-108,34,741
+23.5	Block	152	2053,13,5822
+24	Block	152	2054,13,5822
+24.5	Block	152	2055,13,5822
+25	Block	152	2056,13,5822
+25.5	Block	152	2057,13,5822
+26	Block	152	2058,13,5822
 #RemoveShip
-27	Block	152	-115,34,741
+27	Block	152	2051,13,5822
 #RemoveTraffic1
 28	ArmorStand	traffic1	Despawn
-28.1	Block	152	-122,34,741
+28.1	Block	152	2044,13,5822
 #StationOn
-28.1	Block	152	-94,17,772
+28.1	Block	152	2072,-4,5853
 #Define
 ArmorStand	darthst1	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzFjM2UxZjIyNGI0NDZjY2FjNmE2Y2MzY2Q5ODkxMDE5YTEyMmY5OTY5MWMzOTA3OTkyYTNhZjk5YTIxYjAifX19";299(0,0,0);300(0,0,0);301(0,0,0)
 #Clone1
-26	Block	152	-95,34,787
+26	Block	152	2071,13,5868
 #SpawnDarth
-26	ArmorStand	darthst1	spawn	-94.5,27,784.5,180
+26	ArmorStand	darthst1	spawn	2071.5,6,5865.5
 #GiveName+DisableSlots+Rotate
 #26.1	Block	152	-93,34,783
 #DarthMove
-26.5	ArmorStand	darthst1	Move	-94.5,22,779.5	4
+26.5	ArmorStand	darthst1	Move	2071.5,1,5860.5	4
 #CloneMove
-26.5	Block	152	-95,34,788
-27.5	Block	152	-95,34,789
-28.5	Block	152	-95,34,790
-29.5	Block	152	-95,34,791
-30	Block	152	-95,34,792
+26.5	Block	152	2071,13,5869
+27.5	Block	152	2071,13,5870
+28.5	Block	152	2071,13,5871
+29.5	Block	152	2071,13,5872
+30	Block	152	2071,13,5873
 #Halt
 31.2	ArmorStand	darthst1	Position	ARM_LEFT	-100,-30,0	1
 31.2	ArmorStand	darthst1	Position	HEAD	-10,0,0	0.4
@@ -104,20 +104,20 @@ ArmorStand	stormst10	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly9
 ArmorStand	stormst11	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==";299(244,245,247);300(244,245,247);301(0,0,0)
 ArmorStand	stormst12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdjYTJhYThhOWY1ZDMyNDZlZTdmMmQwN2UxZDVmZDQ4MTkxMjVlY2RkZjVhNzJlMmY2NzUzNTVhM2I5YmNjIn19fQ==";299(244,245,247);300(244,245,247);301(0,0,0)
 #SpawnStormtroopers
-25	ArmorStand	stormst1	spawn	-122.5,20,782.5
-25	ArmorStand	stormst2	spawn	-120.5,20,782.5
-25	ArmorStand	stormst3	spawn	-118.5,20,782.5
-25	ArmorStand	stormst4	spawn	-116.5,20,782.5
-25	ArmorStand	stormst5	spawn	-67.5,20,782.5
-25	ArmorStand	stormst6	spawn	-69.5,20,782.5
-25	ArmorStand	stormst7	spawn	-71.5,20,782.5
-25	ArmorStand	stormst8	spawn	-73.5,20,782.5
-25	ArmorStand	stormst9	spawn	-92.5,24,784.5
-25	ArmorStand	stormst10	spawn	-92.5,24,786.5
-25	ArmorStand	stormst11	spawn	-96.5,24,786.5
-25	ArmorStand	stormst12	spawn	-96.5,24,784.5
+25	ArmorStand	stormst1	spawn	2043.5,-1,5863.5
+25	ArmorStand	stormst2	spawn	2045.5,-1,5863.5
+25	ArmorStand	stormst3	spawn	2047.5,-1,5863.5
+25	ArmorStand	stormst4	spawn	2049.5,-1,5863.5
+25	ArmorStand	stormst5	spawn	2098.5,-1,5863.5
+25	ArmorStand	stormst6	spawn	2096.5,-1,5863.5
+25	ArmorStand	stormst7	spawn	2094.5,-1,5863.5
+25	ArmorStand	stormst8	spawn	2092.5,-1,5863.5
+25	ArmorStand	stormst9	spawn	2073.5,3,5865.5
+25	ArmorStand	stormst10	spawn	2073.5,3,5867.5
+25	ArmorStand	stormst11	spawn	2069.5,3,5867.5
+25	ArmorStand	stormst12	spawn	2069.5,3,5865.5
 #GiveNames+Slots+Weapons
-25.2	Block	152	-95,34,794
+25.2	Block	152	2071,13,5875
 #ArmPos
 25.2	ArmorStand	stormst1	Position	ARM_RIGHT	-90,-30,0	1
 25.2	ArmorStand	stormst1	Position	ARM_LEFT	-90,30,0	1
@@ -144,20 +144,20 @@ ArmorStand	stormst12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly9
 25.2	ArmorStand	stormst12	Position	ARM_RIGHT	-90,-30,0	1
 25.2	ArmorStand	stormst12	Position	ARM_LEFT	-90,30,0	1
 #Move
-27	ArmorStand	stormst1	Move	-103.5,20,782.5	4
-27	ArmorStand	stormst2	Move	-101.5,20,782.5	4
-27	ArmorStand	stormst3	Move	-99.5,20,782.5	4
-27	ArmorStand	stormst4	Move	-97.5,20,782.5	4
-27	ArmorStand	stormst5	Move	-87.5,20,782.5	4
-27	ArmorStand	stormst6	Move	-89.5,20,782.5	4
-27	ArmorStand	stormst7	Move	-91.5,20,782.5	4
-27	ArmorStand	stormst8	Move	-93.5,20,782.5	4
-26	ArmorStand	stormst9	Move	-92.5,20,778.5	4
-26	ArmorStand	stormst10	Move	-92.5,20,780.5	4
-26	ArmorStand	stormst11	Move	-96.5,20,778.5	4
-26	ArmorStand	stormst12	Move	-96.5,20,780.5	4
+27	ArmorStand	stormst1	Move	2062.5,-1,5863.5	4
+27	ArmorStand	stormst2	Move	2064.5,-1,5863.5	4
+27	ArmorStand	stormst3	Move	2066.5,-1,5863.5	4
+27	ArmorStand	stormst4	Move	2068.5,-1,5863.5	4
+27	ArmorStand	stormst5	Move	2078.5,-1,5863.5	4
+27	ArmorStand	stormst6	Move	2076.5,-1,5863.5	4
+27	ArmorStand	stormst7	Move	2074.5,-1,5863.5	4
+27	ArmorStand	stormst8	Move	2072.5,-1,5863.5	4
+26	ArmorStand	stormst9	Move	2073.5,-1,5859.5	4
+26	ArmorStand	stormst10	Move	2073.5,-1,5861.5	4
+26	ArmorStand	stormst11	Move	2069.5,-1,5859.5	4
+26	ArmorStand	stormst12	Move	2069.5,-1,5861.5	4
 #Rotate
-31	Block	152	-95,34,798
+31	Block	152	2071,13,5879
 #DarthVaderTalk
 32.5	ArmorStand	darthst1	Position	ARM_LEFT	-20,0,-50	1
 32.5	ArmorStand	darthst1	Position	HEAD	-10,0,0	0.6
@@ -180,14 +180,14 @@ ArmorStand	stormst12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly9
 39.1	ArmorStand	darthst1	Position	ARM_LEFT	-120,-50,0	2.5
 41	ArmorStand	darthst1	Position	ARM_LEFT	-20,0,-10	2.5
 #RebelSpy
-38.9	Block	152	-96,33,766
+38.9	Block	152	2070,12,5847
 #RebelSpyOff
-41	Block	152	-95,34,773
+41	Block	152	2071,13,5854
 #RemoveRails
-39.5	Block	0	-95,20,774
-39.5	Block	0	-95,20,773
-39.5	Block	0	-95,20,772
-39.5	Block	0	-95,20,771
+39.5	Block	0	2071,-1,5855
+39.5	Block	0	2071,-1,5854
+39.5	Block	0	2071,-1,5853
+39.5	Block	0	2071,-1,5852
 #ArmUp
 42	ArmorStand	darthst1	Position	ARM_RIGHT	-100,0,0	3.5
 #ArmMove
@@ -198,9 +198,9 @@ ArmorStand	stormst12	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly9
 49.5	ArmorStand	darthst1	Position	ARM_RIGHT	-100,0,0	8
 49.5	ArmorStand	darthst1	Position	HEAD	0,0,0	8
 #ST2Start
-45	Block	152	-116,34,783
+45	Block	152	2050,13,5864
 #CartMove
-42.5	Block	152	-103,33,782
-43.5	Block	0	-103,33,782
-43.5	Block	152	-105,33,782
-44.5	Block	152	-107,33,782
+42.5	Block	152	2063,12,5863
+43.5	Block	0	2063,12,5863
+43.5	Block	152	2061,12,5863
+44.5	Block	152	2059,12,5863

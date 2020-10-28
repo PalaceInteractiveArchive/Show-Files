@@ -1,5 +1,5 @@
 #Show Started January 17th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -120,88 +120,88 @@ Show	Name	FLatH
 226	Text	&f[&9Olaf&f] &7I like to consider myself a love expert.
 244.7	Text	&f[&bElsa&f] &7Hello?
 #Schematics
-0	Schematic	FLatHS13.1	439	62	68	newhws	false
-1.5	Schematic	FLatHS13.2	439	62	68	newhws	false
-2.5	Schematic	FLatHS13.3	439	62	68	newhws	false
-3.5	Schematic	FLatHS13.4	439	62	68	newhws	false
-4.5	Schematic	FLatHS13.5	439	62	68	newhws	false
-5.5	Schematic	FLatHS13.6	439	62	68	newhws	false
-6.5	Schematic	FLatHS13.7	439	62	68	newhws	false
-7.5	Schematic	FLatHS13.8	439	62	68	newhws	false
-8.5	Schematic	FLatHS13.9	439	62	68	newhws	false
-9.5	Schematic	FLatHS13.10	439	62	68	newhws	false
-10.5	Schematic	FLatHS13.11	439	62	68	newhws	false
-11.5	Schematic	FLatHS13.12	439	62	68	newhws	false
-192.2	Schematic	FLatHS13.13	439	62	68	newhws	false
-192.7	Schematic	FLatHS13.14	439	62	68	newhws	false
-193.2	Schematic	FLatHS13.15	439	62	68	newhws	false
-193.7	Schematic	FLatHS13.16	439	62	68	newhws	false
-194.2	Schematic	FLatHS13.17	439	62	68	newhws	false
-194.7	Schematic	FLatHS13.18	439	62	68	newhws	false
-247	Schematic	FLatHS13.19	439	62	68	newhws	false
-247.5	Schematic	FLatHS13.20	439	62	68	newhws	false
-248	Schematic	FLatHS13.21	439	62	68	newhws	false
-248.5	Schematic	FLatHS13.22	439	62	68	newhws	false
-249	Schematic	FLatHS13.23	439	62	68	newhws	false
-249.5	Schematic	FLatHS13.24	439	62	68	newhws	false
-250	Schematic	FLatHS13.25	439	62	68	newhws	false
-250.5	Schematic	FLatHS13.26	439	62	68	newhws	false
-251	Schematic	FLatHS13.27	439	62	68	newhws	false
-251.5	Schematic	FLatHS13.28	439	62	68	newhws	false
-252	Schematic	FLatHS13.29	439	62	68	newhws	false
+0	Schematic	FLatHS13.1	2605	41	5149	newhws	false
+1.5	Schematic	FLatHS13.2	2605	41	5149	newhws	false
+2.5	Schematic	FLatHS13.3	2605	41	5149	newhws	false
+3.5	Schematic	FLatHS13.4	2605	41	5149	newhws	false
+4.5	Schematic	FLatHS13.5	2605	41	5149	newhws	false
+5.5	Schematic	FLatHS13.6	2605	41	5149	newhws	false
+6.5	Schematic	FLatHS13.7	2605	41	5149	newhws	false
+7.5	Schematic	FLatHS13.8	2605	41	5149	newhws	false
+8.5	Schematic	FLatHS13.9	2605	41	5149	newhws	false
+9.5	Schematic	FLatHS13.10	2605	41	5149	newhws	false
+10.5	Schematic	FLatHS13.11	2605	41	5149	newhws	false
+11.5	Schematic	FLatHS13.12	2605	41	5149	newhws	false
+192.2	Schematic	FLatHS13.13	2605	41	5149	newhws	false
+192.7	Schematic	FLatHS13.14	2605	41	5149	newhws	false
+193.2	Schematic	FLatHS13.15	2605	41	5149	newhws	false
+193.7	Schematic	FLatHS13.16	2605	41	5149	newhws	false
+194.2	Schematic	FLatHS13.17	2605	41	5149	newhws	false
+194.7	Schematic	FLatHS13.18	2605	41	5149	newhws	false
+247	Schematic	FLatHS13.19	2605	41	5149	newhws	false
+247.5	Schematic	FLatHS13.20	2605	41	5149	newhws	false
+248	Schematic	FLatHS13.21	2605	41	5149	newhws	false
+248.5	Schematic	FLatHS13.22	2605	41	5149	newhws	false
+249	Schematic	FLatHS13.23	2605	41	5149	newhws	false
+249.5	Schematic	FLatHS13.24	2605	41	5149	newhws	false
+250	Schematic	FLatHS13.25	2605	41	5149	newhws	false
+250.5	Schematic	FLatHS13.26	2605	41	5149	newhws	false
+251	Schematic	FLatHS13.27	2605	41	5149	newhws	false
+251.5	Schematic	FLatHS13.28	2605	41	5149	newhws	false
+252	Schematic	FLatHS13.29	2605	41	5149	newhws	false
 #LightChandelier 
-11.5	Block	152	470,88,86
-194.7	Block	0	470,88,86
-194.7	Block	152	462,88,87
-250.0	Block	0	462,88,87
+11.5	Block	152	2636,67,5167
+194.7	Block	0	2636,67,5167
+194.7	Block	152	2628,67,5168
+250.0	Block	0	2628,67,5168
 #CloseDoors
-11.5	Block	152	465,65,106
+11.5	Block	152	2631,44,5187
 #OpenDoors
-35.6	Block	152	470,65,106
+35.6	Block	152	2636,44,5187
 #LightForSide
-40.6	Block	89	453,62,106
+40.6	Block	89	2619,41,5187
 #Storm1
-149.3	Block	1	466,88,84
+149.3	Block	1	2632,67,5165
 #Storm2
-157.4	Block	0	466,88,84
-157.4	Block	1	464,88,84
+157.4	Block	0	2632,67,5165
+157.4	Block	1	2630,67,5165
 #Storm3
-166.0	Block	0	464,88,84
-166.0	Block	1	462,88,84
-169.4	Block	0	462,88,84
+166.0	Block	0	2630,67,5165
+166.0	Block	1	2628,67,5165
+169.4	Block	0	2628,67,5165
 #Clock
-149.3	Block	152	467,88,80
-169.4	Block	0	467,88,80
+149.3	Block	152	2633,67,5161
+169.4	Block	0	2633,67,5161
 #I can't
-169.5	Block	152	467,89,78
+169.5	Block	152	2633,68,5159
 #Smoke
-192.2	Block	152	470,88,77
-192.1	Block	0	463,88,79
-192.1	Block	0	463,88,77
-192.7	Block	1	463,88,79
-193.2	Block	1	463,88,77
-193.7	Block	0	465,88,75
-194.2	Block	0	463,88,79
-194.7	Block	0	463,88,77
-194.7	Block	0	470,88,77
-195.0	Block	1	463,88,79
-195.0	Block	1	463,88,77
-195.0	Block	1	465,88,75
+192.2	Block	152	2636,67,5158
+192.1	Block	0	2629,67,5160
+192.1	Block	0	2629,67,5158
+192.7	Block	1	2629,67,5160
+193.2	Block	1	2629,67,5158
+193.7	Block	0	2631,67,5156
+194.2	Block	0	2629,67,5160
+194.7	Block	0	2629,67,5158
+194.7	Block	0	2636,67,5158
+195.0	Block	1	2629,67,5160
+195.0	Block	1	2629,67,5158
+195.0	Block	1	2631,67,5156
 #Doors
-246	Block	152	465,65,106
+246	Block	152	2631,44,5187
 #BackStageDoorsClose
-251	Block	0	445,62,104
-251	Block	0	445,62,103
-251	Block	0	444,62,64
-251	Block	0	444,62,63
+251	Block	0	2611,41,5185
+251	Block	0	2611,41,5184
+251	Block	0	2610,41,5145
+251	Block	0	2610,41,5144
 #Lights
-235	Block	35:8	452,62,88
-235	Block	0	452,63,88
-235	Block	89	447,62,90
-241	Block	123	447,62,90
+235	Block	35:8	2618,41,5169
+235	Block	0	2618,42,5169
+235	Block	89	2613,41,5171
+241	Block	123	2613,41,5171
 #Stage
-241	Block	89	463,79,86
-241	Block	89	461,79,88
-241	Block	89	465,64,86
-241	Block	89	466,79,84
-241	Block	89	463,79,82
+241	Block	89	2629,58,5167
+241	Block	89	2627,58,5169
+241	Block	89	2631,43,5167
+241	Block	89	2632,58,5165
+241	Block	89	2629,58,5163

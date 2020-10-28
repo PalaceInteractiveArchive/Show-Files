@@ -1,5 +1,5 @@
 #Show Started January 21st, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -51,63 +51,63 @@ Show	Name	FLatH
 150.7	Text	&7&oLove. 
 153.4	Text	&7Of course.
 #Snow
-0	Block	152	457,88,66
-0	Block	0	465,88,68
+0	Block	152	2623,67,5147
+0	Block	0	2631,67,5149
 #Storm
-28.2	Block	1	455,88,70	
-60.8	Block	0	455,88,70
-60.8	Block	0	457,88,66
+28.2	Block	1	2621,67,5151	
+60.8	Block	0	2621,67,5151
+60.8	Block	0	2623,67,5147
 #Door
-4	Block	152	465,65,106
-8	Block	152	470,65,106
-12	Block	152	465,65,106
+4	Block	152	2631,44,5187
+8	Block	152	2636,44,5187
+12	Block	152	2631,44,5187
 #BackstageDoorsClose
-16	Block	0	445,62,104
-16	Block	0	445,62,103
-16	Block	0	444,62,63
-16	Block	0	444,62,64
+16	Block	0	2611,41,5185
+16	Block	0	2611,41,5184
+16	Block	0	2610,41,5144
+16	Block	0	2610,41,5145
 #Lights
-13.1	Block	89	460,64,77
+13.1	Block	89	2626,43,5158
 #Schematics
-4	Schematic	FLatHS17.1	439	62	68	newhws	false
-15.7	Schematic	FLatHS17.2	439	62	68	newhws	false
-110.2	Schematic	FLatHS17.3	439	62	68	newhws	false
-116.5	Schematic	FLatHS17.4	439	62	68	newhws	false
-122.8	Schematic	FLatHS17.5	439	62	68	newhws	false
-129	Schematic	FLatHS17.6	439	62	68	newhws	false
+4	Schematic	FLatHS17.1	2605	41	5149	newhws	false
+15.7	Schematic	FLatHS17.2	2605	41	5149	newhws	false
+110.2	Schematic	FLatHS17.3	2605	41	5149	newhws	false
+116.5	Schematic	FLatHS17.4	2605	41	5149	newhws	false
+122.8	Schematic	FLatHS17.5	2605	41	5149	newhws	false
+129	Schematic	FLatHS17.6	2605	41	5149	newhws	false
 #Explode
-61.0	Block	152	455,89,66
+61.0	Block	152	2621,68,5147
 #TPAnna
-60.8	Block	152	452,89,76
+60.8	Block	152	2618,68,5157
 #DisguiseAnna
-62.5	Block	152	452,89,75
-63.5	Block	152	452,89,74
-64.5	Block	152	452,89,73
-65.5	Block	152	452,89,72
-110.2	Block	152	452,89,71
-116.5	Block	152	452,89,70
-122.8	Block	152	452,89,69
-129.0	Block	152	452,89,68
+62.5	Block	152	2618,68,5156
+63.5	Block	152	2618,68,5155
+64.5	Block	152	2618,68,5154
+65.5	Block	152	2618,68,5153
+110.2	Block	152	2618,68,5152
+116.5	Block	152	2618,68,5151
+122.8	Block	152	2618,68,5150
+129.0	Block	152	2618,68,5149
 #ParticleTransform
-62.5	Block	152	450,65,60
-65.5	Block	0	450,65,60
-110.2	Block	152	450,65,60
-129.0	Block	0	450,65,60
+62.5	Block	152	2616,44,5141
+65.5	Block	0	2616,44,5141
+110.2	Block	152	2616,44,5141
+129.0	Block	0	2616,44,5141
 #Lightsinback
-80.4	Block	89	466,63,93
-80.4	Block	89	467,63,89
-80.4	Block	89	468,63,88
-80.4	Block	89	468,63,87
-80.4	Block	89	469,63,86
-80.4	Block	89	469,63,85
-80.4	Block	89	469,63,83
-80.4	Block	89	469,63,82
-80.4	Block	89	468,63,81
-80.4	Block	89	468,63,80
-80.4	Block	89	467,63,79
-80.4	Block	89	466,63,75
+80.4	Block	89	2632,42,5174
+80.4	Block	89	2633,42,5170
+80.4	Block	89	2634,42,5169
+80.4	Block	89	2634,42,5168
+80.4	Block	89	2635,42,5167
+80.4	Block	89	2635,42,5166
+80.4	Block	89	2635,42,5164
+80.4	Block	89	2635,42,5163
+80.4	Block	89	2634,42,5162
+80.4	Block	89	2634,42,5161
+80.4	Block	89	2633,42,5160
+80.4	Block	89	2632,42,5156
 #Smoke
-0.00	Block	152	465,64,104
-15.0	Block	152	466,64,104
-60.8	Block	0	465,64,104
-60.8	Block	0	466,64,104
+0.00	Block	152	2631,43,5185
+15.0	Block	152	2632,43,5185
+60.8	Block	0	2631,43,5185
+60.8	Block	0	2632,43,5185

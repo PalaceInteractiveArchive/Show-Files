@@ -1,47 +1,47 @@
-Show	Location	-143,60,448
+Show	Location	2023,39,5529
 Show	TextRadius	10
 
 
 #Left hand block off
-0	Block	101	-148,61,441
-0	Block	101	-148,61,442
-0	Block	101	-148,61,443
-0	Block	101	-148,61,444
+0	Block	101	2018,40,5522
+0	Block	101	2018,40,5523
+0	Block	101	2018,40,5524
+0	Block	101	2018,40,5525
 
 #Right hand block off
-0	Block	101	-149,61,448
-0	Block	101	-149,61,447
-0	Block	101	-148,61,447
-0	Block	101	-148,61,446
+0	Block	101	2017,40,5529
+0	Block	101	2017,40,5528
+0	Block	101	2018,40,5528
+0	Block	101	2018,40,5527
 
 #Skip pre block off
-0	Block	190	-155,61,449
-0	Block	190	-154,61,449
-0	Block	190	-153,61,449
+0	Block	190	2011,40,5530
+0	Block	190	2012,40,5530
+0	Block	190	2013,40,5530
 
 #Fence off Pre Show areas
-0	Block	0	-153,59,435
-0	Block	0	-153,59,434
+0	Block	0	2013,38,5516
+0	Block	0	2013,38,5515
 
 #Signs
-0	Block	152	-150,58,436
+0	Block	152	2016,37,5517
 
 #Block off queue signs
-0	Block	20	-138,60,454
-0	Block	20	-138,61,454
-0	Block	20	-140,61,454
-0	Block	20	-140,60,454
-0	Block	20	-142,60,454
-0	Block	20	-142,61,454
+0	Block	20	2028,39,5535
+0	Block	20	2028,40,5535
+0	Block	20	2026,40,5535
+0	Block	20	2026,39,5535
+0	Block	20	2024,39,5535
+0	Block	20	2024,40,5535
 
 #Signs
-1	Block	152	-142,55,454
-1	Block	152	-146,55,454
-1	Block	152	-150,55,454
+1	Block	152	2024,34,5535
+1	Block	152	2020,34,5535
+1	Block	152	2016,34,5535
 
 
 #warp people outside out
-1	Block	152	-154,57,444
+1	Block	152	2012,36,5525
 
 0.2	Text	&f[&6Fozzie&f] &eAh, that's funny!
 2.2	Text	&eHey &8Penguins&e, I got a joke.
@@ -100,8 +100,8 @@ Show	TextRadius	10
 137.0	Text	&3A display of tremendous tap-dancing talent
 140.3	Text	&3With the added cultural component of...
 145.0	Text	&3A Pot of Flowers, balanced on my head.
-145.0	Block	152	-145,55,443
-146.0	Block	152	-142,55,443
+145.0	Block	152	2021,34,5524
+146.0	Block	152	2024,34,5524
 148.8	Text	&3Hit it Rusty!
 156.9	Text	&3Yeah!
 163.8	Text	&3You dropped your pot
@@ -130,8 +130,8 @@ Show	TextRadius	10
 196.7	Text	&7We have no phone.
 199.2	Text	&3Well, I'll run right out and get one!
 #Lights on
-200.0	Block	152	-152,67,435
-200.0	Block	152	-152,67,434
+200.0	Block	152	2014,46,5516
+200.0	Block	152	2014,46,5515
 
 202.3	Text	&7Eh...
 203.3	Text	&7Now where was I before I was interrupted?
@@ -185,43 +185,43 @@ Show	TextRadius	10
 368.3	Text	&5Oh! Fine, fine, fine, fine. Okay, &8Scooter.
 371.2	Text	&5Now, the performers will all go in the theatre first, and then you, the audience, will be admitted. All right, performers! Let us enter in an orderly fashion and provide an example —
 391.4	Text	&5Will… somebody… please take over?
-396.0	Block	152	-145,55,448
+396.0	Block	152	2021,34,5529
 500
 #Lights of
-500.0	Block	0	-152,67,435
-500.0	Block	0	-152,67,434
+500.0	Block	0	2014,46,5516
+500.0	Block	0	2014,46,5515
 
 #Changes signs
-500.0	Block	152	-150,58,440
+500.0	Block	152	2016,37,5521
 
 #Open gate
-500.0	Block	76	-153,59,435
-500.0	Block	76	-153,59,434
+500.0	Block	76	2013,38,5516
+500.0	Block	76	2013,38,5515
 
 #Block off queue signs
-400.0	Block	0	-138,60,454
-400.0	Block	0	-138,61,454
-400.0	Block	0	-140,61,454
-400.0	Block	0	-140,60,454
-400.0	Block	0	-142,60,454
-400.0	Block	0	-142,61,454
+400.0	Block	0	2028,39,5535
+400.0	Block	0	2028,40,5535
+400.0	Block	0	2026,40,5535
+400.0	Block	0	2026,39,5535
+400.0	Block	0	2024,39,5535
+400.0	Block	0	2024,40,5535
 
 #Left hand block off
-500.0	Block	0	-148,61,441
-500.0	Block	0	-148,61,442
-500.0	Block	0	-148,61,443
-500.0	Block	0	-148,61,444
+500.0	Block	0	2018,40,5522
+500.0	Block	0	2018,40,5523
+500.0	Block	0	2018,40,5524
+500.0	Block	0	2018,40,5525
 
 #Right hand block off
-500.0	Block	0	-149,61,448
-500.0	Block	0	-149,61,447
-500.0	Block	0	-148,61,447
-500.0	Block	0	-148,61,446
+500.0	Block	0	2017,40,5529
+500.0	Block	0	2017,40,5528
+500.0	Block	0	2018,40,5528
+500.0	Block	0	2018,40,5527
 
 #Skip pre block off
-500.0	Block	0	-155,61,449
-500.0	Block	0	-154,61,449
-500.0	Block	0	-153,61,449
+500.0	Block	0	2011,40,5530
+500.0	Block	0	2012,40,5530
+500.0	Block	0	2013,40,5530
 
 #Button
-500.0	Block	152	-134,60,442
+500.0	Block	152	2032,39,5523

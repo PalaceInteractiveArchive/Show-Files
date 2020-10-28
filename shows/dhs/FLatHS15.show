@@ -1,5 +1,5 @@
 #Show Started January 20th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -68,62 +68,62 @@ Show	Name	FLatH
 209.6	Text	&7Just, maybe not right this second?
 213.4	Text	&7Come on Anna, let’s go find Kristoff!
 #Schematics
-3	Schematic	FLatHS15.1	439	62	68	newhws	false
-4	Schematic	FLatHS15.2	439	62	68	newhws	false
-5	Schematic	FLatHS15.3	439	62	68	newhws	false
-6	Schematic	FLatHS15.4	439	62	68	newhws	false
-7	Schematic	FLatHS15.5	439	62	68	newhws	false
-8	Schematic	FLatHS15.6	439	62	68	newhws	false
-9	Schematic	FLatHS15.7	439	62	68	newhws	false
-10	Schematic	FLatHS15.8	439	62	68	newhws	false
-11	Schematic	FLatHS15.9	439	62	68	newhws	false
-12	Schematic	FLatHS15.10	439	62	68	newhws	false
-13	Schematic	FLatHS15.11	439	62	68	newhws	false
-17.6	Schematic	FLatHS15.12	439	62	68	newhws	false
-20.1	Schematic	FLatHS15.13	439	62	68	newhws	false
-22.6	Schematic	FLatHS15.14	439	62	68	newhws	false
-25.1	Schematic	FLatHS15.15	439	62	68	newhws	false
-27.6	Schematic	FLatHS15.16	439	62	68	newhws	false
-30.1	Schematic	FLatHS15.17	439	62	68	newhws	false
-32.6	Schematic	FLatHS15.18	439	62	68	newhws	false
-35.1	Schematic	FLatHS15.19	439	62	68	newhws	false
-37.6	Schematic	FLatHS15.20	439	62	68	newhws	false
-40.1	Schematic	FLatHS15.21	439	62	68	newhws	false
-42.6	Schematic	FLatHS15.22	439	62	68	newhws	false
-45.1	Schematic	FLatHS15.23	439	62	68	newhws	false
-47.6	Schematic	FLatHS15.24	439	62	68	newhws	false
-50.1	Schematic	FLatHS15.25	439	62	68	newhws	false
-52	Schematic	FLatHS15.26	439	62	68	newhws	false
-52.6	Schematic	FLatHS15.27	439	62	68	newhws	false
-53.1	Schematic	FLatHS15.28	439	62	68	newhws	false
-53.6	Schematic	FLatHS15.29	439	62	68	newhws	false
-64.1	Schematic	FLatHS15.30	439	62	68	newhws	false
-64.6	Schematic	FLatHS15.31	439	62	68	newhws	false
-65.1	Schematic	FLatHS15.32	439	62	68	newhws	false
-65.6	Schematic	FLatHS15.33	439	62	68	newhws	false
-66.1	Schematic	FLatHS15.34	439	62	68	newhws	false
-66.6	Schematic	FLatHS15.35	439	62	68	newhws	false
-67.1	Schematic	FLatHS15.36	439	62	68	newhws	false
-67.6	Schematic	FLatHS15.37	439	62	68	newhws	false
+3	Schematic	FLatHS15.1	2605	41	5149	newhws	false
+4	Schematic	FLatHS15.2	2605	41	5149	newhws	false
+5	Schematic	FLatHS15.3	2605	41	5149	newhws	false
+6	Schematic	FLatHS15.4	2605	41	5149	newhws	false
+7	Schematic	FLatHS15.5	2605	41	5149	newhws	false
+8	Schematic	FLatHS15.6	2605	41	5149	newhws	false
+9	Schematic	FLatHS15.7	2605	41	5149	newhws	false
+10	Schematic	FLatHS15.8	2605	41	5149	newhws	false
+11	Schematic	FLatHS15.9	2605	41	5149	newhws	false
+12	Schematic	FLatHS15.10	2605	41	5149	newhws	false
+13	Schematic	FLatHS15.11	2605	41	5149	newhws	false
+17.6	Schematic	FLatHS15.12	2605	41	5149	newhws	false
+20.1	Schematic	FLatHS15.13	2605	41	5149	newhws	false
+22.6	Schematic	FLatHS15.14	2605	41	5149	newhws	false
+25.1	Schematic	FLatHS15.15	2605	41	5149	newhws	false
+27.6	Schematic	FLatHS15.16	2605	41	5149	newhws	false
+30.1	Schematic	FLatHS15.17	2605	41	5149	newhws	false
+32.6	Schematic	FLatHS15.18	2605	41	5149	newhws	false
+35.1	Schematic	FLatHS15.19	2605	41	5149	newhws	false
+37.6	Schematic	FLatHS15.20	2605	41	5149	newhws	false
+40.1	Schematic	FLatHS15.21	2605	41	5149	newhws	false
+42.6	Schematic	FLatHS15.22	2605	41	5149	newhws	false
+45.1	Schematic	FLatHS15.23	2605	41	5149	newhws	false
+47.6	Schematic	FLatHS15.24	2605	41	5149	newhws	false
+50.1	Schematic	FLatHS15.25	2605	41	5149	newhws	false
+52	Schematic	FLatHS15.26	2605	41	5149	newhws	false
+52.6	Schematic	FLatHS15.27	2605	41	5149	newhws	false
+53.1	Schematic	FLatHS15.28	2605	41	5149	newhws	false
+53.6	Schematic	FLatHS15.29	2605	41	5149	newhws	false
+64.1	Schematic	FLatHS15.30	2605	41	5149	newhws	false
+64.6	Schematic	FLatHS15.31	2605	41	5149	newhws	false
+65.1	Schematic	FLatHS15.32	2605	41	5149	newhws	false
+65.6	Schematic	FLatHS15.33	2605	41	5149	newhws	false
+66.1	Schematic	FLatHS15.34	2605	41	5149	newhws	false
+66.6	Schematic	FLatHS15.35	2605	41	5149	newhws	false
+67.1	Schematic	FLatHS15.36	2605	41	5149	newhws	false
+67.6	Schematic	FLatHS15.37	2605	41	5149	newhws	false
 #Doorsleft
-86.2	Block	152	420,68,82
-86.5	Block	152	420,68,83
-90.0	Block	152	420,68,82
-90.3	Block	152	420,68,81
-161.7	Block	152	420,68,82
-162.0	Block	152	420,68,83
-165.3	Block	152	420,68,82
-165.6	Block	152	420,68,81
+86.2	Block	152	2586,47,5163
+86.5	Block	152	2586,47,5164
+90.0	Block	152	2586,47,5163
+90.3	Block	152	2586,47,5162
+161.7	Block	152	2586,47,5163
+162.0	Block	152	2586,47,5164
+165.3	Block	152	2586,47,5163
+165.6	Block	152	2586,47,5162
 #doorright
-168.2	Block	152	420,68,85
-168.5	Block	152	420,68,86
-170.1	Block	152	420,68,85
-170.4	Block	152	420,68,84
+168.2	Block	152	2586,47,5166
+168.5	Block	152	2586,47,5167
+170.1	Block	152	2586,47,5166
+170.4	Block	152	2586,47,5165
 #OpenCurtain
-206.8	Block	152	452,89,66
-210.1	Block	152	453,89,66
-213.4	Block	152	454,89,66
+206.8	Block	152	2618,68,5147
+210.1	Block	152	2619,68,5147
+213.4	Block	152	2620,68,5147
 #Door
-67.6	Block	76	455,67,67
-206.7	Block	0	455,67,67
-206.7	Block	0	456,67,68
+67.6	Block	76	2621,46,5148
+206.7	Block	0	2621,46,5148
+206.7	Block	0	2622,46,5149

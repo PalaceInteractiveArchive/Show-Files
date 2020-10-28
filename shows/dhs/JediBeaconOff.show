@@ -1,4 +1,4 @@
-Show	Location	-63,64,357
+Show	Location	2103,43,5438
 Show	TextRadius	50
 
 Show	Name	JediTemple
@@ -6,24 +6,24 @@ Show	Name	JediTemple
 ### Blocks ###
 #<seconds>       Block        id:data      x,y,z
 #/ac started
-0	Block	152	-47,57,378
-1	Block	0	-47,57,378
+0	Block	152	2119,36,5459
+1	Block	0	2119,36,5459
 #Beacons
-20	Block	35:7	-57,62,359
-24	Block	35:7	-58,62,358
-26	Block	35:7	-59,62,357
-27	Block	35:7	-60,62,356
-29	Block	35:7	-61,62,355
-31	Block	35:7	-62,62,354
-33	Block	35:7	-63,62,353
-35	Block	35:7	-64,62,352
-37	Block	35:7	-65,62,351
-38	Block	35:7	-66,62,352
-39	Block	35:7	-66,62,350
-40	Block	35:7	-67,62,350
-41	Block	35:7	-68,62,351
-42	Block	35:7	-69,62,352
-43	Block	35:7	-70,62,352
+20	Block	35:7	2109,41,5440
+24	Block	35:7	2108,41,5439
+26	Block	35:7	2107,41,5438
+27	Block	35:7	2106,41,5437
+29	Block	35:7	2105,41,5436
+31	Block	35:7	2104,41,5435
+33	Block	35:7	2103,41,5434
+35	Block	35:7	2102,41,5433
+37	Block	35:7	2101,41,5432
+38	Block	35:7	2100,41,5433
+39	Block	35:7	2100,41,5431
+40	Block	35:7	2099,41,5431
+41	Block	35:7	2098,41,5432
+42	Block	35:7	2097,41,5433
+43	Block	35:7	2096,41,5433
 
 
 ### Audio ###

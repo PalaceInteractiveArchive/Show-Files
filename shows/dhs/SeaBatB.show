@@ -1,4 +1,4 @@
-Show	Location	-114,64,-28
+Show	Location	2052,43,5053
 Show	TextRadius	45
 Show	Name	BATB
 #January 23 - 
@@ -48,18 +48,18 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 
 
 #little town belle= belle1
-81	ArmorStand	belle1	spawn	-101.534,64,-42.276
+81	ArmorStand	belle1	spawn	2064.466,43,5038.724
 #initial
-81.1	Block	152	-70,61,-26
-81.3	Block	0	-70,61,-26
+81.1	Block	152	2096,40,5055
+81.3	Block	0	2096,40,5055
 #
 #belle spawns 81.3 at -130 degrees
 #at 88	belle will rotate to 45
-88	Block	152	-69,61,-26
-88.2	Block	0	-69,61,-26
+88	Block	152	2097,40,5055
+88.2	Block	0	2097,40,5055
 #
 #81.3	ArmorStand	belle1	rotate	45	1
-90	ArmorStand	belle1	move	-104.705,64,-37.664	8
+90	ArmorStand	belle1	move	2061.295,43,5043.336	8
 90	ArmorStand	belle1	position	HEAD	10,0,0	1
 90.5	ArmorStand	belle1	position	ARM_LEFT	-10,0,0	.5
 91	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
@@ -91,31 +91,31 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 117.5	ArmorStand	belle1	position	HEAD	0,0,0	.5
 118.2	ArmorStand	belle1	position	HEAD	-10,0,0	.5
 #at 120.5, belle will go to rotation -30
-120.5	Block	152	-68,61,-26
-120.7	Block	0	-68,61,-26
+120.5	Block	152	2098,40,5055
+120.7	Block	0	2098,40,5055
 #
 120.5	ArmorStand	belle1	position	HEAD	0,-20,0	.5
 121	ArmorStand	belle1	position	ARM_LEFT	-130,-40,0	.5
 122	ArmorStand	belle1	position	ARM_LEFT	-30,15,0	.5
 #at 122.3	belle1 will rotate to 105
-122.3	Block	152	-67,61,-26
-122.5	Block	0	-67,61,-26
+122.3	Block	152	2099,40,5055
+122.5	Block	0	2099,40,5055
 #
 122.3	ArmorStand	belle1	position	HEAD	0,0,0	.5
 122.8	ArmorStand	belle1	position	HEAD	20,0,0	.5
 122.8	ArmorStand	belle1	position	ARM_RIGHT	-145,50,0	.5
 #at 123.7	belle will rotate to 45
-123.7	Block	152	-69,61,-26
-123.9	Block	0	-69,61,-26
+123.7	Block	152	2097,40,5055
+123.9	Block	0	2097,40,5055
 #
 123.7	ArmorStand	belle1	position	ARM_RIGHT	-20,0,0	.2
 123.7	ArmorStand	belle1	position	ARM_LEFT	0,0,0	.2
 123.7	ArmorStand	belle1	position	HEAD	0,0,0	.2
 #at 124.4	belle will rotate to -30
-124.4	Block	152	-68,61,-26
-124.6	Block	0	-68,61,-26
+124.4	Block	152	2098,40,5055
+124.6	Block	0	2098,40,5055
 #
-124.2	ArmorStand	belle1	move	-101.824,64,-37.081	3
+124.2	ArmorStand	belle1	move	2064.176,43,5043.919	3
 124.2	ArmorStand	belle1	position	LEG_RIGHT	-32,0,0	1
 124.2	ArmorStand	belle1	position	LEG_LEFT	7,0,0	1
 125.4	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	1
@@ -124,8 +124,8 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 126.7	ArmorStand	belle1	position	LEG_LEFT	0,0,0	.5
 126.7	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	.5
 #at 128, belle will rotate to 15
-128	Block	152	-66,61,-26
-128.2	Block	0	-66,61,-26
+128	Block	152	2100,40,5055
+128.2	Block	0	2100,40,5055
 #
 128	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
 128	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
@@ -134,13 +134,13 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 132.8	ArmorStand	belle1	position	HEAD	-10,20,0	.5
 #belle moves at 134.8
 #at 134.8, belle rotates to 105
-134.8	Block	152	-67,61,-26
-135	Block	0	-67,61,-26
+134.8	Block	152	2099,40,5055
+135	Block	0	2099,40,5055
 #
 #at 136.4 is "goodmorning belle'
 #at 136.4 belle rotates to -15
-136.4	Block	152	-65,61,-26
-136.6	Block	0	-65,61,-26
+136.4	Block	152	2101,40,5055
+136.6	Block	0	2101,40,5055
 #
 136.5	ArmorStand	belle1	position	HEAD	5,-20,0	.5
 #good morning monseiur
@@ -159,49 +159,49 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 #THE BAGUETESSS
 146.8	ArmorStand	belle1	position	HEAD	5,0,0	.2
 #147.7, belle rotates to 45
-147.7	Block	152	-69,61,-26
-147.9	Block	0	-69,61,-26
+147.7	Block	152	2097,40,5055
+147.9	Block	0	2097,40,5055
 #
 147.9	ArmorStand	belle1	position	HEAD	20,0,0	.5
 147.9	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
 147.9	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
 #she is supposed to be holding a book
 #she walks forward
-148.5	ArmorStand	belle1	move	-102.655,64.1,-35.411	1
+148.5	ArmorStand	belle1	move	2063.345,43.099999999999994,5045.589	1
 #belle rotates to -30
-151	Block	152	-68,61,-26
-151.2	Block	0	-68,61,-26
+151	Block	152	2098,40,5055
+151.2	Block	0	2098,40,5055
 #
 #she walks over to the far right
-151	ArmorStand	belle1	move	-99.492,64,-33.406	5
+151	ArmorStand	belle1	move	2066.508,43,5047.594	5
 #at 157 she rotates -135 and walks around
-157	Block	152	-64,61,-26
-157.2	Block	0	-64,61,-26
+157	Block	152	2102,40,5055
+157.2	Block	0	2102,40,5055
 #
-157	ArmorStand	belle1	move	-97.143,64,-35.073	1
+157	ArmorStand	belle1	move	2068.857,43,5045.927	1
 #at 158.3	belle will rotate 105
-158.3	Block	152	-67,61,-26
-158.5	Block	0	-67,61,-26
+158.3	Block	152	2099,40,5055
+158.5	Block	0	2099,40,5055
 #
-158.3	ArmorStand	belle1	move	-98.768,64,-36.783	1
+158.3	ArmorStand	belle1	move	2067.232,43,5044.217	1
 #belle will rotate to 75 at 159.5
-159.5	Block	152	-63,61,-26
-159.7	Block	0	-63,61,-26
+159.5	Block	152	2103,40,5055
+159.7	Block	0	2103,40,5055
 #
-159.5	ArmorStand	belle1	move	-99.7,64,-36.3	1.3
+159.5	ArmorStand	belle1	move	2066.3,43,5044.7	1.3
 #by 160.8 she should be at her stopping point
 #AAAAAAAHHHH
 162.3	ArmorStand	belle1	position	HEAD	-20,20,0	2
 165.8	ArmorStand	belle1	position	HEAD	0,10,0	1
 167.1	ArmorStand	belle1	position	HEAD	10,0,0	.6
 #at 168 she starts moving
-168	ArmorStand	belle1	move	-102.769,64,-39.010	1.6
+168	ArmorStand	belle1	move	2063.2309999999998,43,5041.99	1.6
 172.5	ArmorStand	belle1	position	HEAD	-5,0,0	1.5
 172.5	ArmorStand	belle1	position	ARM_LEFT	-60,12,0	.5
 172.5	ArmorStand	belle1	position	ARM_RIGHT	-60,-12,0	.5
 #176.8 she rotates to 45
-176.8	Block	152	-69,61,-26
-177	Block	0	-69,61,-26
+176.8	Block	152	2097,40,5055
+177	Block	0	2097,40,5055
 #
 176.8	ArmorStand	belle1	position	HEAD	-10,-20,0	2
 179.1	ArmorStand	belle1	position	ARM_LEFT	-20,12,0	.5
@@ -213,49 +213,49 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 182.5	ArmorStand	belle1	position	ARM_RIGHT	-60,-12,0	.5
 188	ArmorStand	belle1	position	HEAD	0,-10,0	.5
 #she rotates at 190.7 to 105
-190.7	Block	152	-67,61,-26
-190.9	Block	0	-67,61,-26
+190.7	Block	152	2099,40,5055
+190.9	Block	0	2099,40,5055
 #
-190.7	ArmorStand	belle1	move	-108.774,64,-42.414	6
+190.7	ArmorStand	belle1	move	2057.226,43,5038.586	6
 190.7	ArmorStand	belle1	position	HEAD	0,0,0	.5
 190.7	ArmorStand	belle1	position	ARM_LEFT	-20,12,0	.5
 190.7	ArmorStand	belle1	position	ARM_RIGHT	-20,-12,0	.5
 196.3	ArmorStand	belle1	position	HEAD	10,0,0	1
 #196.3 she rotates to 195	
-196.3	Block	152	-62,61,-26
-196.5	Block	0	-62,61,-26
+196.3	Block	152	2104,40,5055
+196.5	Block	0	2104,40,5055
 #
-196.3	ArmorStand	belle1	move	-105.627,64,-45.373	1.7
+196.3	ArmorStand	belle1	move	2060.373,43,5035.627	1.7
 #at 197 she rotates to 225
-197	Block	152	-61,61,-26
-197.2	Block	0	-61,61,-26
+197	Block	152	2105,40,5055
+197.2	Block	0	2105,40,5055
 #part ive stopped at, they say "mademoselle then "its pity and sin"
 
 
 #townperson1= green dress, blonde
-81	ArmorStand	town1	spawn	-104.496,64,-46.324
+81	ArmorStand	town1	spawn	2061.504,43,5034.676
 81.3	ArmorStand	town1	rotate	-100	1
 81.5	ArmorStand	town1	position	ARM_LEFT	-50,24,0	.5
 81.5	ArmorStand	town1	position	ARM_RIGHT	-50,-24,0	.5
 
 #townperson2=orange guy
-81	ArmorStand	town2	spawn	-103.715,64,-45.486
+81	ArmorStand	town2	spawn	2062.285,43,5035.514
 81.3	ArmorStand	town2	rotate	-135	1
 
 #townperson3=red guy
-81	ArmorStand	town3	spawn	-102.884,64,-44.386
+81	ArmorStand	town3	spawn	2063.116,43,5036.614
 81.3	ArmorStand	town3	rotate	165	1
 81.5	ArmorStand	town3	position	ARM_LEFT	-20,0,0	.5
 
 #townsperson4=redgirl
-81	ArmorStand	town4	spawn	-99.533,64,-41.369
+81	ArmorStand	town4	spawn	2066.467,43,5039.631
 81.3	ArmorStand	town4	rotate	45	1
 81.5	ArmorStand	town4	position	HEAD	0,-30,0	.5
 81.5	ArmorStand	town4	position	ARM_LEFT	-50,24,0	.5
 81.5	ArmorStand	town4	position	ARM_RIGHT	-50,-24,0	.5
 
 #townsperson5=baker
-81	ArmorStand	town5	spawn	-98.663,64,-40.418
+81	ArmorStand	town5	spawn	2067.337,43,5040.582
 81.3	ArmorStand	town5	rotate	45	1
 81.5	ArmorStand	town5	position	HEAD	-10,20,0	.5
 81.5	ArmorStand	town5	position	ARM_RIGHT	-45,20,0	.5
@@ -268,19 +268,19 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 
 
 #townsperson6=greengirl
-81	ArmorStand	town6	spawn	-97.541,64,-39.662
+81	ArmorStand	town6	spawn	2068.459,43,5041.338
 81.3	ArmorStand	town6	rotate	-42	1
 81.5	ArmorStand	town6	position	ARM_RIGHT	-45,0,0	.5
 
 
 #townsperson7=blueguy
-81	ArmorStand	town7	spawn	-96.434,64,-38.362
+81	ArmorStand	town7	spawn	2069.566,43,5042.638
 81.3	ArmorStand	town7	rotate	65	1
 81.5	ArmorStand	town7	position	HEAD	0,30,0	.5
 
 
 #townsperson8=blonde red girl with no bread????
-81	ArmorStand	town8	spawn	-95.419,64,-37.389
+81	ArmorStand	town8	spawn	2070.581,43,5043.611
 81.3	ArmorStand	town8	rotate	80	1
 81.5	ArmorStand	town8	position	ARM_LEFT	-50,24,0	.5
 81.5	ArmorStand	town8	position	ARM_RIGHT	-50,-24,0	.5

@@ -1,4 +1,4 @@
-Show	Location	-282,67,-78
+Show	Location	1884,46,5003
 Show	TextRadius	5
 0	AudioStart	rrcpre
 #Audio Sync
@@ -69,33 +69,33 @@ ArmorStand	joe	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0d
 ArmorStand	sit	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTZkMDlhZGE5NDEyZmQ3MmFmOTY4ZjZjZmVkN2I1MjVkODhmZjgxODRkZDRiMmRiZDRmNzk2MmVhZjQzMjIifX19;299(0,0,0);300(0,0,0);301(0,0,0)
 ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I5MzI2ZjgzYzQxNzVmYTEwN2Y2ZjI5YmE1ZmE4MTg1OTJmYWM0ZGFkNWI2ODk3NjUzMWFlZThkMGVlIn19fQ==;299(0,0,0);300(31,29,30);301(0,0,0)
 #door
-18.9	Block	152	-295,65,-80
-19.4	Block	24	-295,65,-80
-39	Block	152	-295,65,-80
-109.1	Block	24	-295,65,-80
+18.9	Block	152	1871,44,5001
+19.4	Block	24	1871,44,5001
+39	Block	152	1871,44,5001
+109.1	Block	24	1871,44,5001
 #ArmorStand commands	
-0	ArmorStand	steven	spawn	-293,64.8,-80
-0	ArmorStand	brad	spawn	-293,64.8,-78
-0	ArmorStand	joey	spawn	-293,64.8,-79
-0	ArmorStand	sit	spawn	-292.5,64.5,-80.6
+0	ArmorStand	steven	spawn	1873,43.8,5001
+0	ArmorStand	brad	spawn	1873,43.8,5003
+0	ArmorStand	joey	spawn	1873,43.8,5002
+0	ArmorStand	sit	spawn	1873.5,43.5,5000.4
 .1	ArmorStand	sit	rotate	-60	.1
 .1	ArmorStand	joey	rotate	-60	.1
 .1	ArmorStand	steven	rotate	-50	.1
 .1	ArmorStand	brad	rotate	-60	.1
-8	ArmorStand	tom	spawn	-293,64.8,-83
-8	ArmorStand	joe	spawn	-292,64.8,-83
+8	ArmorStand	tom	spawn	1873,43.8,4998
+8	ArmorStand	joe	spawn	1874,43.8,4998
 8.1	ArmorStand	tom	rotate	-15	.5
-8.3	ArmorStand	joe	move	-292,64.8,-81.5	1
-8.3	ArmorStand	tom	move	-293,64.8,-82	1
+8.3	ArmorStand	joe	move	1874,43.8,4999.5	1
+8.3	ArmorStand	tom	move	1873,43.8,4999	1
 #ONLY JOE
 38	ArmorStand	joe	rotate	100	.5
-41	ArmorStand	joe	move	-294,65,-80.431	.5
-42.4	ArmorStand	joe	move	-296.626,65,-80.503	.5
+41	ArmorStand	joe	move	1872,44,5000.569	.5
+42.4	ArmorStand	joe	move	1869.374,44,5000.497	.5
 45	ArmorStand	joe	despawn
 #ONLY TIME TOM MOVES
 38.4	ArmorStand	tom	rotate	100	.5
-40.5	ArmorStand	tom	move	-294,65,-80.431	.5
-41.4	ArmorStand	tom	move	-296.627,65,-80.503	.5
+40.5	ArmorStand	tom	move	1872,44,5000.569	.5
+41.4	ArmorStand	tom	move	1869.373,44,5000.497	.5
 42	ArmorStand	tom	move	-295.505,65,.82.648	.5
 45	ArmorStand	tom	despawn
 #SITS ACTIONS
@@ -129,8 +129,8 @@ ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 112.6	ArmorStand	sit	despawn
 #JOEY ACTIONS
 #first joey command block
-.2	Block	152	-291,70,-84
-.4	Block	0	-291,70,-84
+.2	Block	152	1875,49,4997
+.4	Block	0	1875,49,4997
 #movements
 10.2	ArmorStand	joey	position	HEAD	0,-10,0	.5
 11.0	ArmorStand	joey	position	HEAD	0,10,0	.2
@@ -150,23 +150,23 @@ ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 46.5	ArmorStand	joey	position	HEAD	0,0,20	.2
 47	ArmorStand	joey	position	HEAD	0,0,0	.2
 #rotation for joey, 90
-46.7	Block	152	-291,70,-83
-47	Block	0	-291,70,-83
+46.7	Block	152	1875,49,4998
+47	Block	0	1875,49,4998
 #rotation 180
-48	Block	152	-291,70,-82
-48.2	Block	0	-291,70,-82
+48	Block	152	1875,49,4999
+48.2	Block	0	1875,49,4999
 #rotation 90
-49.2	Block	152	-291,70,-81
-49.4	Block	0	-291,70,-81
+49.2	Block	152	1875,49,5000
+49.4	Block	0	1875,49,5000
 #movement
-47	ArmorStand	joey	move	-293.469,64.8,-79.451	1
-48.2	ArmorStand	joey	move	-293.487,64.8,-80.878	1
-49.3	ArmorStand	joey	move	-295.700,64.8,-80.728	1
+47	ArmorStand	joey	move	1872.531,43.8,5001.549	1
+48.2	ArmorStand	joey	move	1872.513,43.8,5000.122	1
+49.3	ArmorStand	joey	move	1870.3,43.8,5000.272	1
 50.5	ArmorStand	joey	despawn
 #BRADS ACTIONS
 #intial brad
-.2	Block	152	-293,69,-84
-.4	Block	0	-293,69,-84
+.2	Block	152	1873,48,4997
+.4	Block	0	1873,48,4997
 1	ArmorStand	brad	position	HEAD	10,-10,0	.5
 10.6	ArmorStand	brad	position	HEAD	10,10,0	1
 12.8	ArmorStand	brad	position	HEAD	-10,-10,0	1
@@ -179,44 +179,44 @@ ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 34.5	ArmorStand	brad	position	HEAD	5,0,0	.5
 #brads rotations
 #rotate 90
-37	Block	152	-293,69,-83
-37.2	Block	0	-293,69,-83
+37	Block	152	1873,48,4998
+37.2	Block	0	1873,48,4998
 #rotate 180
-38.2	Block	152	-293,69,-82
-38.4	Block	0	-293,69,-82
+38.2	Block	152	1873,48,4999
+38.4	Block	0	1873,48,4999
 #rotate	90
-39.4	Block	152	-293,69,-81
-39.6	Block	0	-293,69,-81
+39.4	Block	152	1873,48,5000
+39.6	Block	0	1873,48,5000
 #movements
-37.2	ArmorStand	brad	move	-293.700,64.8,-77.750	1
-38.3	ArmorStand	brad	move	-293.487,64.8,-80.878	1
-39.5	ArmorStand	brad	move	-295.700,64.8,-80.728	1
+37.2	ArmorStand	brad	move	1872.3,43.8,5003.25	1
+38.3	ArmorStand	brad	move	1872.513,43.8,5000.122	1
+39.5	ArmorStand	brad	move	1870.3,43.8,5000.272	1
 41	ArmorStand	brad	despawn
 #MANAGERS ACTIONS
 #manager initial
-16.2	Block	152	-297,69,-85
-16.4	Block	0	-297,69,-85
+16.2	Block	152	1869,48,4996
+16.4	Block	0	1869,48,4996
 #managers rotation 120
-34.9	Block	152	-297,69,-84
-35.1	Block	0	-297,69,-84
+34.9	Block	152	1869,48,4997
+35.1	Block	0	1869,48,4997
 #rotate -60
-36.5	Block	152	-297,69,-83
-36.7	Block	0	-297,69,-83
+36.5	Block	152	1869,48,4998
+36.7	Block	0	1869,48,4998
 #rotate -120
-54	Block	152	-297,69,-82
-54.2	Block	0	-297,69,-82
+54	Block	152	1869,48,4999
+54.2	Block	0	1869,48,4999
 #rotate 120
-76.4	Block	152	-297,69,-81
-76.6	Block	0	-297,69,-81
+76.4	Block	152	1869,48,5000
+76.6	Block	0	1869,48,5000
 #rotate	-90
-81	Block	152	-297,69,-80
-81.2	Block	0	-297,69,-80
+81	Block	152	1869,48,5001
+81.2	Block	0	1869,48,5001
 #rotate 120
-101	Block	152	-297,69,-79
-101.2	Block	0	-297,69,-79
-16	ArmorStand	manager	spawn	-296,65,-80.5
+101	Block	152	1869,48,5002
+101.2	Block	0	1869,48,5002
+16	ArmorStand	manager	spawn	1870,44,5000.5
 16.1	ArmorStand	manager	rotate	-60	.1
-18.9	ArmorStand	manager	move	-294,65,-80.5	.7
+18.9	ArmorStand	manager	move	1872,44,5000.5	.7
 19.5	ArmorStand	manager	position	HEAD	0,-10,0	.3
 20	ArmorStand	manager	position	HEAD	0,20,0	.3
 21	ArmorStand	manager	position	HEAD	0,-10,0	.3
@@ -229,10 +229,10 @@ ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 32.3	ArmorStand	manager	position	HEAD	5,20,0	.2
 33.8	ArmorStand	manager	position	HEAD	-5,-10,0	.2
 #35.5	ArmorStand	manager	rotate	20	1
-36	ArmorStand	manager	move	-294,65,-81.4	1
+36	ArmorStand	manager	move	1872,44,4999.6	1
 38.2	ArmorStand	manager	position	HEAD	0,10,0	.2
 41	ArmorStand	manager	position	HEAD	0,-10,0	.5
-53	ArmorStand	manager	move	-292.513,65,-78.424	1
+53	ArmorStand	manager	move	1873.487,44,5002.576	1
 #rotating towards audience
 #55	ArmorStand	manager	rotate	20	.4
 57.3	ArmorStand	manager	position	HEAD	0,-20,0	.5
@@ -260,40 +260,40 @@ ArmorStand	manager	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 100	ArmorStand	manager	position	HEAD	0,0,-30	.2
 100	ArmorStand	manager	position	ARM_LEFT	0,0,0	.5
 101.4	ArmorStand	manager	position	HEAD	0,0,0	.2
-100.4	ArmorStand	manager	move	-293.644,65,-80.522	1.5
+100.4	ArmorStand	manager	move	1872.356,44,5000.478	1.5
 103	ArmorStand	manager	position	HEAD	0,20,0	1
 104.9	ArmorStand	manager	position	HEAD	0,-10,0	.5
 106.6	ArmorStand	manager	position	HEAD	20,0,0	.5
-108.6	ArmorStand	manager	move	-295.69,65,-80.755	1
+108.6	ArmorStand	manager	move	1870.31,44,5000.245	1
 110	ArmorStand	manager	despawn
 #steven
 #initial steven
-.2	Block	152	-295,70,-84
-.4	Block	0	-295,70,-84
+.2	Block	152	1871,49,4997
+.4	Block	0	1871,49,4997
 #rotations
 #rotate 170
-50	Block	152	-295,70,-83
-50.2	Block	0	-295,70,-83
+50	Block	152	1871,49,4998
+50.2	Block	0	1871,49,4998
 #rotate 30
-50.8	Block	152	-295,70,-82
-51	Block	0	-295,70,-82
+50.8	Block	152	1871,49,4999
+51	Block	0	1871,49,4999
 #rotate 250
-51.4	Block	152	-295,70,-81
-51.6	Block	0	-295,70,-81
+51.4	Block	152	1871,49,5000
+51.6	Block	0	1871,49,5000
 #rotate 320
-52.4	Block	152	-295,70,-80
-52.6	Block	0	-295,70,-80
+52.4	Block	152	1871,49,5001
+52.6	Block	0	1871,49,5001
 #rotate	-80
-64	Block	152	-295,70,-79
-64.2	Block	0	-295,70,-79
+64	Block	152	1871,49,5002
+64.2	Block	0	1871,49,5002
 #rotate 320
-67.7	Block	152	-295,70,-78
-67.9	Block	0	-295,70,-78
+67.7	Block	152	1871,49,5003
+67.9	Block	0	1871,49,5003
 #rotate to leave 90
-74	Block	152	-295,70,-77
-74.2	Block	0	-295,70,-77
+74	Block	152	1871,49,5004
+74.2	Block	0	1871,49,5004
 #movements
-74.2	ArmorStand	steven	move	-295.700,64.8,-80.532	1
+74.2	ArmorStand	steven	move	1870.3,43.8,5000.468	1
 6	ArmorStand	steven	position	HEAD	5,-20,0	1
 8	ArmorStand	steven	position	HEAD	5,20,0	1
 13.2	ArmorStand	steven	position	HEAD	0,0,0	.5

@@ -1,16 +1,16 @@
 ﻿Show	Location	-32,70,-248
 #1289.1,1292.9,1295.9,1299.0,1308.1,1389.0
 #/summon FireworksRocketEntity -28 79 -246 {LifeTime:0,Motion:[-0.50,-2.25,1.30],FireworksItem:{id:fireworks,Count:1,tag:{Fireworks:{Explosions:[{Type:4,Flicker:0,Trail:1,Colors:[16729871,16758328],FadeColors:[16744737,16767524]},{Type:4,Flicker:0,Trail:0,Colors:[16729871,16758328],FadeColors:[16744737,16767524]},{Type:4,Flicker:0,Trail:0,Colors:[16729871,16758328],FadeColors:[16744737,16767524]},{Type:4,Flicker:0,Trail:0,Colors:[16729871,16758328],FadeColors:[16744737,16767524]},{Type:4,Flicker:0,Trail:0,Colors:[16729871,16758328],FadeColors:[16744737,16767524]}]}}}}
-19	Block	152	-15,67,-256
-20	Block	20	-15,67,-256
-3.8	Block	0	-25,81,-249
-6.8	Block	0	-23,74,-251
-9.9	Block	0	-23,68,-251
-0	Block	152	-18,18,-255
-0	Block	20	-18,18,-255
-99.9	Block	152	-18,18,-253
-99.9	Block	20	-18,18,-253
-0	Block	152	-22,63,-283
-0	Block	152	-23,63,-279
-99.9	Block	20	-22,63,-283
-99.9	Block	20	-23,63,-279
+19	Block	152	2151,46,4825
+20	Block	20	2151,46,4825
+3.8	Block	0	2141,60,4832
+6.8	Block	0	2143,53,4830
+9.9	Block	0	2143,47,4830
+0	Block	152	2148,-3,4826
+0	Block	20	2148,-3,4826
+99.9	Block	152	2148,-3,4828
+99.9	Block	20	2148,-3,4828
+0	Block	152	2144,42,4798
+0	Block	152	2143,42,4802
+99.9	Block	20	2144,42,4798
+99.9	Block	20	2143,42,4802

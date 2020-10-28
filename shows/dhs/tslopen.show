@@ -2,23 +2,23 @@
 Show	TextRadius	10
 Show	Name	TSL
 #Audio
-0	Block	152	-383,57,269
+0	Block	152	1783,36,5350
 0	AudioStart	tslopen
 5	AudioSync	tslopen	5
 #Effects
 Effect	s1	BURST,GRAY,TRAIL
 Effect	e1	BURST,252;165;83&RED,BLUE,TRAIL,FLICKER
 #Fireworks
-273.8	PowerFirework	-391,69,270	s1	0,1,0
-273.8	PowerFirework	-391,69,261	s1	0,1,0
-285.5	PowerFirework	-390,63,272	e1	0,1,0
-286.2	PowerFirework	-390,63,259	e1	0,1,0
-286.6	PowerFirework	-389,63,260	e1	0,1,1
-286.9	PowerFirework	-389,63,271	e1	0,1,-1
+273.8	PowerFirework	1775,48,5351	s1	0,1,0
+273.8	PowerFirework	1775,48,5342	s1	0,1,0
+285.5	PowerFirework	1776,42,5353	e1	0,1,0
+286.2	PowerFirework	1776,42,5340	e1	0,1,0
+286.6	PowerFirework	1777,42,5341	e1	0,1,1
+286.9	PowerFirework	1777,42,5352	e1	0,1,-1
 #Reset
-320	Schematic	tslcurtainR	-390	64	270	dhs	false
-321	Block	152	-389,57,270
-322	Block	0	-389,57,270
+320	Schematic	tslcurtainR	1776	43	5351	dhs	false
+321	Block	152	1777,36,5351
+322	Block	0	1777,36,5351
 #Text
 0	Text	&f[&2Sarge&f] &aI repeat, toys have landed!
 2.3	Text	&f[&2Sarge&f] &aOperation "Play Big", is a go!
@@ -80,65 +80,65 @@ Effect	e1	BURST,252;165;83&RED,BLUE,TRAIL,FLICKER
 253.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a2!
 254.5	Text	&f[&aDHS&f] &e&lArchitect &7thepartyboy376: &a1!
 #StartSlinky
-245	Block	152	-481,61,266
+245	Block	152	1685,40,5347
 #MapRemove
-57	Block	152	-383,57,267
-57.5	Block	152	-383,57,266
-58	Block	152	-383,57,265
-58.5	Block	152	-383,57,264
-59	Block	152	-383,57,263
+57	Block	152	1783,36,5348
+57.5	Block	152	1783,36,5347
+58	Block	152	1783,36,5346
+58.5	Block	152	1783,36,5345
+59	Block	152	1783,36,5344
 #CurtainFall1
-57	Block	0	-391,68,270
-57	Block	0	-391,68,269
-57	Block	0	-391,68,268
-57	Block	0	-391,68,267
-57	Block	0	-391,68,266
-57	Block	0	-391,68,265
-57	Block	0	-391,68,264
-57	Block	0	-391,68,263
-57	Block	0	-391,68,262
-57	Block	0	-391,68,261
+57	Block	0	1775,47,5351
+57	Block	0	1775,47,5350
+57	Block	0	1775,47,5349
+57	Block	0	1775,47,5348
+57	Block	0	1775,47,5347
+57	Block	0	1775,47,5346
+57	Block	0	1775,47,5345
+57	Block	0	1775,47,5344
+57	Block	0	1775,47,5343
+57	Block	0	1775,47,5342
 #CurtainFall2
-57.5	Block	0	-391,67,270
-57.5	Block	0	-391,67,269
-57.5	Block	0	-391,67,268
-57.5	Block	0	-391,67,267
-57.5	Block	0	-391,67,266
-57.5	Block	0	-391,67,265
-57.5	Block	0	-391,67,264
-57.5	Block	0	-391,67,263
-57.5	Block	0	-391,67,262
-57.5	Block	0	-391,67,261
+57.5	Block	0	1775,46,5351
+57.5	Block	0	1775,46,5350
+57.5	Block	0	1775,46,5349
+57.5	Block	0	1775,46,5348
+57.5	Block	0	1775,46,5347
+57.5	Block	0	1775,46,5346
+57.5	Block	0	1775,46,5345
+57.5	Block	0	1775,46,5344
+57.5	Block	0	1775,46,5343
+57.5	Block	0	1775,46,5342
 #CurtainFall3
-58	Block	0	-391,66,270
-58	Block	0	-391,66,269
-58	Block	0	-391,66,268
-58	Block	0	-391,66,267
-58	Block	0	-391,66,266
-58	Block	0	-391,66,265
-58	Block	0	-391,66,264
-58	Block	0	-391,66,263
-58	Block	0	-391,66,262
-58	Block	0	-391,66,261
+58	Block	0	1775,45,5351
+58	Block	0	1775,45,5350
+58	Block	0	1775,45,5349
+58	Block	0	1775,45,5348
+58	Block	0	1775,45,5347
+58	Block	0	1775,45,5346
+58	Block	0	1775,45,5345
+58	Block	0	1775,45,5344
+58	Block	0	1775,45,5343
+58	Block	0	1775,45,5342
 #CurtainFall4
-58.5	Block	0	-391,65,270
-58.5	Block	0	-391,65,269
-58.5	Block	0	-391,65,268
-58.5	Block	0	-391,65,267
-58.5	Block	0	-391,65,266
-58.5	Block	0	-391,65,265
-58.5	Block	0	-391,65,264
-58.5	Block	0	-391,65,263
-58.5	Block	0	-391,65,262
-58.5	Block	0	-391,65,261
+58.5	Block	0	1775,44,5351
+58.5	Block	0	1775,44,5350
+58.5	Block	0	1775,44,5349
+58.5	Block	0	1775,44,5348
+58.5	Block	0	1775,44,5347
+58.5	Block	0	1775,44,5346
+58.5	Block	0	1775,44,5345
+58.5	Block	0	1775,44,5344
+58.5	Block	0	1775,44,5343
+58.5	Block	0	1775,44,5342
 #CurtainFall5
-59	Block	0	-391,64,270
-59	Block	0	-391,64,269
-59	Block	0	-391,64,268
-59	Block	0	-391,64,267
-59	Block	0	-391,64,266
-59	Block	0	-391,64,265
-59	Block	0	-391,64,264
-59	Block	0	-391,64,263
-59	Block	0	-391,64,262
-59	Block	0	-391,64,261
+59	Block	0	1775,43,5351
+59	Block	0	1775,43,5350
+59	Block	0	1775,43,5349
+59	Block	0	1775,43,5348
+59	Block	0	1775,43,5347
+59	Block	0	1775,43,5346
+59	Block	0	1775,43,5345
+59	Block	0	1775,43,5344
+59	Block	0	1775,43,5343
+59	Block	0	1775,43,5342

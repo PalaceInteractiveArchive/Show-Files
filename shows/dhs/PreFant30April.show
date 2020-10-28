@@ -2,19 +2,19 @@
 Show	TextRadius	150
 Show	Name	Fantasmic
 #Chatmute/Manual Show start
-1795	Block	152	2,64,-247
-1796	Block	20	2,64,-247
+1795	Block	152	2168,43,4834
+1796	Block	20	2168,43,4834
 #Time system
-0	Block	152	0,64,-242
-1	Block	20	0,64,-242
-900	Block	152	0,64,-243
-901	Block	20	0,64,-243
-0	Block	152	0,64,-246
-1	Block	20	0,64,-246
-300	Block	152	0,64,-244
-301	Block	20	0,64,-244
-900	Block	152	0,64,-245
-901	Block	20	0,64,-245
+0	Block	152	2166,43,4839
+1	Block	20	2166,43,4839
+900	Block	152	2166,43,4838
+901	Block	20	2166,43,4838
+0	Block	152	2166,43,4835
+1	Block	20	2166,43,4835
+300	Block	152	2166,43,4837
+301	Block	20	2166,43,4837
+900	Block	152	2166,43,4836
+901	Block	20	2166,43,4836
 #Audio areas
 #Text
 0	Text	&3Ladies and Gentlemen boys and girls, in just &6&l&o30 Minutes &dPalace &3will proudly present &6&l&ocimsatnaF! &3at &d/warp fantasmic
@@ -56,23 +56,23 @@ Show	Name	Fantasmic
 1785	Text	&3During &6&oFantasmic!&3, the chat will be disabled park-wide.  We will re-enable it after the show.
 1790	Text	&3Hear the Show music with &dPalace's &aAudio Server &3just type &d/audio
 #/b
-0	Block	152	-1,64,-238
-270	Block	152	-1,64,-239
-570	Block	152	-1,64,-240
-870	Block	152	-1,64,-241
-1170	Block	152	-1,64,-242
-1470	Block	152	-1,64,-243
-1650	Block	152	-1,64,-244
-0	Block	20	-1,64,-238
-271	Block	20	-1,64,-239
-571	Block	20	-1,64,-240
-871	Block	20	-1,64,-241
-1171	Block	20	-1,64,-242
-1471	Block	20	-1,64,-243
-1651	Block	20	-1,64,-244
+0	Block	152	2165,43,4843
+270	Block	152	2165,43,4842
+570	Block	152	2165,43,4841
+870	Block	152	2165,43,4840
+1170	Block	152	2165,43,4839
+1470	Block	152	2165,43,4838
+1650	Block	152	2165,43,4837
+0	Block	20	2165,43,4843
+271	Block	20	2165,43,4842
+571	Block	20	2165,43,4841
+871	Block	20	2165,43,4840
+1171	Block	20	2165,43,4839
+1471	Block	20	2165,43,4838
+1651	Block	20	2165,43,4837
 #Gates-Front open
-0	Block	152	-150,61,-54
+0	Block	152	2016,40,5027
 ##Gate Back close
-0	Block	152	-26,62,-124
-0	Block	152	-24,65,-124
-1	Block	20	-24,65,-124
+0	Block	152	2140,41,4957
+0	Block	152	2142,44,4957
+1	Block	20	2142,44,4957

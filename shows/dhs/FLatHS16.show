@@ -1,5 +1,5 @@
 #Show Started January 20th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -26,22 +26,22 @@ Show	Name	FLatH
 63.5	Text	&f[&6Hans&f] &7WHAT?!
 64.4	Text	&f[&cDuke of Weselton&f] &7The monster's on the loose!
 #Schematics
-0	Schematic	FLatHS16.1	439	62	68	newhws	false
-3.3	Schematic	FLatHS16.2	439	62	68	newhws	false
-6.6	Schematic	FLatHS16.3	439	62	68	newhws	false
-14	Schematic	FLatHS16.4	439	62	68	newhws	false
-17.3	Schematic	FLatHS16.5	439	62	68	newhws	false
-20.6	Schematic	FLatHS16.6	439	62	68	newhws	false
+0	Schematic	FLatHS16.1	2605	41	5149	newhws	false
+3.3	Schematic	FLatHS16.2	2605	41	5149	newhws	false
+6.6	Schematic	FLatHS16.3	2605	41	5149	newhws	false
+14	Schematic	FLatHS16.4	2605	41	5149	newhws	false
+17.3	Schematic	FLatHS16.5	2605	41	5149	newhws	false
+20.6	Schematic	FLatHS16.6	2605	41	5149	newhws	false
 #Snow
-14	Block	152	465,88,68
+14	Block	152	2631,67,5149
 #BackStageDoorsOpen
-0	Block	76	445,62,104
-0	Block	76	445,62,103
-0	Block	76	444,62,64
-0	Block	76	444,62,63
+0	Block	76	2611,41,5185
+0	Block	76	2611,41,5184
+0	Block	76	2610,41,5145
+0	Block	76	2610,41,5144
 #Door
-5	Block	152	470,65,106
+5	Block	152	2636,44,5187
 #DoorsToTopBalcony
-20.6	Block	76	455,67,67
-25.6	Block	0	455,67,67
-25.6	Block	0	456,67,68
+20.6	Block	76	2621,46,5148
+25.6	Block	0	2621,46,5148
+25.6	Block	0	2622,46,5149

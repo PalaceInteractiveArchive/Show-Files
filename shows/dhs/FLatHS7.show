@@ -1,5 +1,5 @@
 #Show Started January 2nd, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -79,30 +79,30 @@ Show	Name	FLatH
 146.9	Text	&7I don’t want you getting hurt.
 148.3	Text	&f[&dAnna&f] &7She’s my sister, she would never hurt me.
 #Schematics
-0	Schematic	FLatHS6.12	439	62	68	newhws	false
-112.2	Schematic	FLatHS7.1	439	62	68	newhws	false
-112.7	Schematic	FLatHS7.2	439	62	68	newhws	false
-113.2	Schematic	FLatHS7.3	439	62	68	newhws	false
-161	Schematic	FLatHS7.4	439	62	68	newhws	false
-164	Schematic	FLatHS7.5	439	62	68	newhws	false
+0	Schematic	FLatHS6.12	2605	41	5149	newhws	false
+112.2	Schematic	FLatHS7.1	2605	41	5149	newhws	false
+112.7	Schematic	FLatHS7.2	2605	41	5149	newhws	false
+113.2	Schematic	FLatHS7.3	2605	41	5149	newhws	false
+161	Schematic	FLatHS7.4	2605	41	5149	newhws	false
+164	Schematic	FLatHS7.5	2605	41	5149	newhws	false
 #Snow
-121.7	Block	152	465,88,68
-165	Block	0	465,88,68
+121.7	Block	152	2631,67,5149
+165	Block	0	2631,67,5149
 #Lights
-84.1	Block	89	449,62,88
-84.1	Block	89	449,62,80
-161	Block	123	449,62,88
-161	Block	123	449,62,80
+84.1	Block	89	2615,41,5169
+84.1	Block	89	2615,41,5161
+161	Block	123	2615,41,5169
+161	Block	123	2615,41,5161
 #BackStageDoorsOpen
-156	Block	76	445,62,104
-156	Block	76	445,62,103
-156	Block	76	444,62,64
-156	Block	76	444,62,63
+156	Block	76	2611,41,5185
+156	Block	76	2611,41,5184
+156	Block	76	2610,41,5145
+156	Block	76	2610,41,5144
 #SideDoorsOpen
-161	Block	152	470,65,106
+161	Block	152	2636,44,5187
 #ISaidEnough
-112.2	Block	152	470,88,77
-113.2	Block	0	470,88,77
+112.2	Block	152	2636,67,5158
+113.2	Block	0	2636,67,5158
 
 
 

@@ -14,10 +14,10 @@ ArmorStand	sddwheezya2	false	0;0;300(29,29,33);0;0
 ArmorStand	sddwheezya3	false	0;0;300(29,29,33);0;0
 ArmorStand	sddwheezya4	false	0;0;300(29,29,33);0;0
 #Spawn
-0	ArmorStand	sddwheezya1	Spawn	-495.781,70.5,305.344,45
-0	ArmorStand	sddwheezya2	Spawn	-496.049,70.5,305.9,-75.9
-0	ArmorStand	sddwheezya3	Spawn	-494.656,70.5,307.125,90
-0	ArmorStand	sddwheezya4	Spawn	-494.844,70.5,307.656,119.5
+0	ArmorStand	sddwheezya1	Spawn	1670.219,49.5,5386.344
+0	ArmorStand	sddwheezya2	Spawn	1669.951,49.5,5386.9
+0	ArmorStand	sddwheezya3	Spawn	1671.344,49.5,5388.125
+0	ArmorStand	sddwheezya4	Spawn	1671.156,49.5,5388.656
 0.1	ArmorStand	sddwheezya1	Position	LEG_RIGHT	0,0,-90	1
 0.1	ArmorStand	sddwheezya1	Position	LEG_LEFT	0,0,-90	1
 0.1	ArmorStand	sddwheezya2	Position	LEG_RIGHT	0,0,-90	1
@@ -27,14 +27,14 @@ ArmorStand	sddwheezya4	false	0;0;300(29,29,33);0;0
 0.1	ArmorStand	sddwheezya4	Position	LEG_RIGHT	0,0,90	1
 0.1	ArmorStand	sddwheezya4	Position	LEG_LEFT	0,0,90	1
 ##Done
-0	ArmorStand	sddwheezyb1	Spawn	-495.281,69.9,305.844,45
-0	ArmorStand	sddwheezyb2	Spawn	-495.281,69.5,305.844,45
-0	ArmorStand	sddwheezyb3	Spawn	-494.844,69.9,306.250,45
-0	ArmorStand	sddwheezyb4	Spawn	-494.844,69.5,306.250,45
-0	ArmorStand	sddwheezyb5	Spawn	-495.281,70.3,305.844,45
-0	ArmorStand	sddwheezyb6	Spawn	-494.844,70.3,306.250,45
-0	ArmorStand	sddwheezyf1	Spawn	-495.044,69.4,306.044,45
-0.1	Block	152	-497,64,306
+0	ArmorStand	sddwheezyb1	Spawn	1670.719,48.900000000000006,5386.844
+0	ArmorStand	sddwheezyb2	Spawn	1670.719,48.5,5386.844
+0	ArmorStand	sddwheezyb3	Spawn	1671.156,48.900000000000006,5387.25
+0	ArmorStand	sddwheezyb4	Spawn	1671.156,48.5,5387.25
+0	ArmorStand	sddwheezyb5	Spawn	1670.719,49.3,5386.844
+0	ArmorStand	sddwheezyb6	Spawn	1671.156,49.3,5387.25
+0	ArmorStand	sddwheezyf1	Spawn	1670.9560000000001,48.400000000000006,5387.044
+0.1	Block	152	1669,43,5387
 0.1	ArmorStand	sddwheezyf1	Position	LEG_RIGHT	0,0,90	1
 0.1	ArmorStand	sddwheezyf1	Position	LEG_LEFT	0,0,-90	1
 0.1	ArmorStand	sddwheezyb1	Position	BODY	0,180,0	1
@@ -43,7 +43,7 @@ ArmorStand	sddwheezya4	false	0;0;300(29,29,33);0;0
 0.1	ArmorStand	sddwheezyb4	Position	BODY	0,180,0	1
 0.1	ArmorStand	sddwheezyb5	Position	BODY	0,180,0	1
 0.1	ArmorStand	sddwheezyb6	Position	BODY	0,180,0	1
-0	ArmorStand	sddwheezy1	Spawn	-495.071,70.685,306.06,45
+0	ArmorStand	sddwheezy1	Spawn	1670.929,49.685,5387.06
 0.1	ArmorStand	sddwheezy1	Position	BODY	0,180,0	1
 #Move
 1	ArmorStand	sddwheezy1	Position	HEAD	-10,0,0	1

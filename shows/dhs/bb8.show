@@ -6,7 +6,7 @@ ArmorStand    bb8    false    365;0;0;0
 0.1    ArmorStand    bb8    Spawn    72.7,69.5,1068.7
 #0.5    ArmorStand    bb8    Rotate    210    0.1
 0.2	Block    152    71,69,1068
-1	Block	44	71,69,1068
+1	Block	44	2237,48,6149
 28	ArmorStand	bb8	Despawn
 
 #C3PO#
@@ -22,11 +22,11 @@ ArmorStand C3POBB8 false skull:eyJ0aW1lc3RhbXAiOjE0ODM1NjY3NTU5NjAsInByb2ZpbGVJZ
 27	ArmorStand	C3POBB8	Despawn
 #ArmorStand C3POBB8 Rotate 360 2
 
-5	Block	152	71,65,1069
-5.5	Block	95	71,65,1069
-8	Block	152	71,65,1070
-8.5	Block	95	71,65,1070
-10	Block	152	71,65,1071
-10.5	Block	95	71,65,1071
-17	Block	152	71,65,1072
-17.5	Block	95	71,65,1072
+5	Block	152	2237,44,6150
+5.5	Block	95	2237,44,6150
+8	Block	152	2237,44,6151
+8.5	Block	95	2237,44,6151
+10	Block	152	2237,44,6152
+10.5	Block	95	2237,44,6152
+17	Block	152	2237,44,6153
+17.5	Block	95	2237,44,6153

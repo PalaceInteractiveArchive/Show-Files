@@ -1,622 +1,622 @@
 ﻿Show	Location	-32,70,-248
 Show	TextRadius	150
 #745
-0	Block	152	57,66,-312
-0	Block	152	57,66,-313
-0	Block	152	56,66,-314
-175.6	Block	152	5,63,-253
-176	Block	0	5,63,-253
-176	Block	152	55,66,-314
-176	Block	152	56,66,-314
-176	Block	152	57,66,-313
-176	Block	44:3	-17,65,-282
-176	Block	44:3	-17,65,-281
-176	Block	44:3	-17,65,-280
+0	Block	152	2223,45,4769
+0	Block	152	2223,45,4768
+0	Block	152	2222,45,4767
+175.6	Block	152	2171,42,4828
+176	Block	0	2171,42,4828
+176	Block	152	2221,45,4767
+176	Block	152	2222,45,4767
+176	Block	152	2223,45,4768
+176	Block	44:3	2149,44,4799
+176	Block	44:3	2149,44,4800
+176	Block	44:3	2149,44,4801
 #Fixes
-51.5	Block	0	-41,65,-228
-51.5	Block	0	-41,66,-228
-51.5	Block	0	-41,67,-228
-51.5	Block	0	-41,68,-228
-59.2	Block	0	-48,65,-234
-59.2	Block	0	-48,66,-234
-59.2	Block	0	-48,65,-233
-59.2	Block	0	-48,66,-233
-59.2	Block	0	-48,67,-233
-59.2	Block	0	-48,68,-233
-149.8	Block	160:0	-33,67,-290
-149.8	Block	160:0	-32,66,-289
-149.8	Block	160:0	-31,67,-288
-149.8	Block	160:0	-29,67,-294
-149.8	Block	160:0	-28,66,-293
-149.8	Block	160:0	-27,67,-292
-154.2	Block	0	-28,65,-290
-154.2	Block	0	-28,66,-290
-154.2	Block	0	-28,67,-290
-154.2	Block	0	-28,68,-290
-154.2	Block	0	-27,65,-291
-154.2	Block	0	-27,66,-291
-154.2	Block	0	-27,65,-290
-154.2	Block	0	-27,66,-290
-154.2	Block	0	-27,65,-289
-154.2	Block	0	-27,66,-289
-156.6	Block	0	-21,65,-292
-156.6	Block	0	-21,66,-292
-156.6	Block	0	-21,65,-291
-156.6	Block	0	-21,66,-291
-156.6	Block	0	-21,65,-290
-156.6	Block	0	-21,66,-290
-156.6	Block	0	-21,65,-289
-156.6	Block	0	-21,66,-289
-156.6	Block	0	-22,65,-290
-156.6	Block	0	-22,66,-290
-156.6	Block	0	-22,65,-289
-156.6	Block	0	-22,66,-289
-156.6	Block	0	-22,67,-289
-156.6	Block	0	-22,68,-289
-16.1	Block	0	-20,65,-293
-16.1	Block	0	-20,66,-293
-16.1	Block	0	-20,67,-293
-16.1	Block	0	-20,68,-293
-16.1	Block	0	-20,65,-292
-16.1	Block	0	-20,66,-292
-60.8	Block	0	-49,65,-266
-60.8	Block	0	-49,66,-266
-60.8	Block	0	-49,65,-265
-60.8	Block	0	-49,66,-265
-60.8	Block	0	-49,67,-265
-60.8	Block	0	-49,68,-265
-127.8	Block	0	-23,65,-212
-127.8	Block	0	-23,66,-212
-127.8	Block	0	-22,65,-212
-127.8	Block	0	-22,66,-212
-127.8	Block	0	-22,67,-212
-127.8	Block	0	-22,68,-212
-149.6	Block	160:0	-6,67,-216
-149.6	Block	160:0	-6,66,-215
-149.6	Block	160:0	-6,66,-214
-149.6	Block	160:0	-6,67,-213
-149.6	Block	160:0	-1,67,-216
-149.6	Block	160:0	-1,66,-215
-149.6	Block	160:0	-1,66,-214
-149.6	Block	160:0	-1,67,-213
-78.6	Block	126:5	-28,65,-228
-114.2	Block	0	-37,65,-230
-114.2	Block	0	-37,66,-230
-114.2	Block	0	-37,67,-230
-114.2	Block	0	-37,68,-230
-124	Block	0	-44,65,-236
-124	Block	0	-44,66,-236
-124	Block	0	-44,67,-236
-124	Block	0	-44,68,-236
-124	Block	0	-44,65,-237
-124	Block	0	-44,66,-237
-149.6	Block	160:0	-44,67,-277
-149.6	Block	160:0	-45,66,-277
-149.6	Block	160:0	-46,66,-278
-149.6	Block	160:0	-47,67,-278
-149.6	Block	160:0	-46,67,-272
-149.6	Block	160:0	-47,66,-272
-149.6	Block	160:0	-48,66,-273
-149.6	Block	160:0	-49,67,-273
-164.2	Block	0	-28,65,-290
-164.2	Block	0	-28,66,-290
-164.2	Block	0	-28,67,-290
-164.2	Block	0	-28,68,-290
-167.2	Block	0	-22,65,-290
-167.2	Block	0	-22,66,-290
-167.2	Block	0	-22,65,-289
-167.2	Block	0	-22,66,-289
-167.2	Block	0	-22,67,-289
-167.2	Block	0	-22,68,-289
-149.7	Block	89	-46,65,-257
-149.7	Block	89	-54,65,-241
-149.7	Block	89	-49,67,-231
-149.7	Block	89	-49,66,-227
-149.8	Block	0	-46,65,-257
-149.8	Block	0	-54,65,-241
-149.9	Block	0	-49,67,-231
-149.8	Block	0	-49,66,-227
+51.5	Block	0	2125,44,4853
+51.5	Block	0	2125,45,4853
+51.5	Block	0	2125,46,4853
+51.5	Block	0	2125,47,4853
+59.2	Block	0	2118,44,4847
+59.2	Block	0	2118,45,4847
+59.2	Block	0	2118,44,4848
+59.2	Block	0	2118,45,4848
+59.2	Block	0	2118,46,4848
+59.2	Block	0	2118,47,4848
+149.8	Block	160:0	2133,46,4791
+149.8	Block	160:0	2134,45,4792
+149.8	Block	160:0	2135,46,4793
+149.8	Block	160:0	2137,46,4787
+149.8	Block	160:0	2138,45,4788
+149.8	Block	160:0	2139,46,4789
+154.2	Block	0	2138,44,4791
+154.2	Block	0	2138,45,4791
+154.2	Block	0	2138,46,4791
+154.2	Block	0	2138,47,4791
+154.2	Block	0	2139,44,4790
+154.2	Block	0	2139,45,4790
+154.2	Block	0	2139,44,4791
+154.2	Block	0	2139,45,4791
+154.2	Block	0	2139,44,4792
+154.2	Block	0	2139,45,4792
+156.6	Block	0	2145,44,4789
+156.6	Block	0	2145,45,4789
+156.6	Block	0	2145,44,4790
+156.6	Block	0	2145,45,4790
+156.6	Block	0	2145,44,4791
+156.6	Block	0	2145,45,4791
+156.6	Block	0	2145,44,4792
+156.6	Block	0	2145,45,4792
+156.6	Block	0	2144,44,4791
+156.6	Block	0	2144,45,4791
+156.6	Block	0	2144,44,4792
+156.6	Block	0	2144,45,4792
+156.6	Block	0	2144,46,4792
+156.6	Block	0	2144,47,4792
+16.1	Block	0	2146,44,4788
+16.1	Block	0	2146,45,4788
+16.1	Block	0	2146,46,4788
+16.1	Block	0	2146,47,4788
+16.1	Block	0	2146,44,4789
+16.1	Block	0	2146,45,4789
+60.8	Block	0	2117,44,4815
+60.8	Block	0	2117,45,4815
+60.8	Block	0	2117,44,4816
+60.8	Block	0	2117,45,4816
+60.8	Block	0	2117,46,4816
+60.8	Block	0	2117,47,4816
+127.8	Block	0	2143,44,4869
+127.8	Block	0	2143,45,4869
+127.8	Block	0	2144,44,4869
+127.8	Block	0	2144,45,4869
+127.8	Block	0	2144,46,4869
+127.8	Block	0	2144,47,4869
+149.6	Block	160:0	2160,46,4865
+149.6	Block	160:0	2160,45,4866
+149.6	Block	160:0	2160,45,4867
+149.6	Block	160:0	2160,46,4868
+149.6	Block	160:0	2165,46,4865
+149.6	Block	160:0	2165,45,4866
+149.6	Block	160:0	2165,45,4867
+149.6	Block	160:0	2165,46,4868
+78.6	Block	126:5	2138,44,4853
+114.2	Block	0	2129,44,4851
+114.2	Block	0	2129,45,4851
+114.2	Block	0	2129,46,4851
+114.2	Block	0	2129,47,4851
+124	Block	0	2122,44,4845
+124	Block	0	2122,45,4845
+124	Block	0	2122,46,4845
+124	Block	0	2122,47,4845
+124	Block	0	2122,44,4844
+124	Block	0	2122,45,4844
+149.6	Block	160:0	2122,46,4804
+149.6	Block	160:0	2121,45,4804
+149.6	Block	160:0	2120,45,4803
+149.6	Block	160:0	2119,46,4803
+149.6	Block	160:0	2120,46,4809
+149.6	Block	160:0	2119,45,4809
+149.6	Block	160:0	2118,45,4808
+149.6	Block	160:0	2117,46,4808
+164.2	Block	0	2138,44,4791
+164.2	Block	0	2138,45,4791
+164.2	Block	0	2138,46,4791
+164.2	Block	0	2138,47,4791
+167.2	Block	0	2144,44,4791
+167.2	Block	0	2144,45,4791
+167.2	Block	0	2144,44,4792
+167.2	Block	0	2144,45,4792
+167.2	Block	0	2144,46,4792
+167.2	Block	0	2144,47,4792
+149.7	Block	89	2120,44,4824
+149.7	Block	89	2112,44,4840
+149.7	Block	89	2117,46,4850
+149.7	Block	89	2117,45,4854
+149.8	Block	0	2120,44,4824
+149.8	Block	0	2112,44,4840
+149.9	Block	0	2117,46,4850
+149.8	Block	0	2117,45,4854
 #S21
-0.1	Schematic	Fantboat02	6	68	-231	newhws	false
-0.7	Schematic	Fantboat02	7	68	-231	newhws	false
-1.4	Schematic	Fantboat02	7	68	-230	newhws	false
-2.1	Schematic	Fantboat02	7	68	-229	newhws	false
-2.8	Schematic	Fantboat02	7	68	-228	newhws	false
-3.5	Schematic	Fantboat02	7	68	-227	newhws	false
-4.2	Schematic	Fantboat02	7	68	-226	newhws	false
-4.9	Schematic	Fantboat02	7	68	-225	newhws	false
-5.6	Schematic	Fantboat02	7	68	-224	newhws	false
-6.3	Schematic	Fantboat02	7	68	-223	newhws	false
-7	Schematic	Fantboat02	7	68	-222	newhws	false
-7.7	Schematic	Fantboat02	7	68	-221	newhws	false
-8.4	Schematic	Fantboat02	7	68	-220	newhws	false
-9.1	Schematic	Fantboat02	7	68	-219	newhws	false
-9.8	Schematic	Fantboat02	6	68	-218	newhws	false
-10.5	Schematic	Fantboat02	6	68	-217	newhws	false
-11.2	Schematic	Fantboat02	5	68	-216	newhws	false
-11.9	Schematic	Fantboat02	4	68	-215	newhws	false
-12.6	Schematic	Fantboat02	3	68	-214	newhws	false
-13.3	Schematic	Fantboat02	2	68	-214	newhws	false
-14	Schematic	Fantboat02	1	68	-213	newhws	false
-14.7	Schematic	Fantboat02	0	68	-213	newhws	false
-15.4	Schematic	Fantboat02	-1	68	-213	newhws	false
-16.1	Schematic	Fantboat02	-2	68	-213	newhws	false
-16.8	Schematic	Fantboat02	-3	68	-213	newhws	false
-17.5	Schematic	Fantboat02	-4	68	-213	newhws	false
-18.2	Schematic	Fantboat02	-5	68	-213	newhws	false
-18.9	Schematic	Fantboat02	-6	68	-213	newhws	false
-19.6	Schematic	Fantboat02	-7	68	-213	newhws	false
-20.3	Schematic	Fantboat02	-8	68	-213	newhws	false
-21	Schematic	Fantboat02	-9	68	-213	newhws	false
-21.7	Schematic	Fantboat42	-10	68	-213	newhws	false
-22.4	Schematic	Fantboat42	-11	68	-213	newhws	false
-23.1	Schematic	Fantboat42	-12	68	-213	newhws	false
-23.8	Schematic	Fantboat42	-13	68	-213	newhws	false
-24.5	Schematic	Fantboat42	-14	68	-213	newhws	false
-25.2	Schematic	Fantboat42	-15	68	-213	newhws	false
-25.9	Schematic	Fantboat42	-16	68	-213	newhws	false
-26.6	Schematic	Fantboat42	-17	68	-213	newhws	false
-27.3	Schematic	Fantboat42	-18	68	-213	newhws	false
-28	Schematic	Fantboat42	-19	68	-213	newhws	false
-28.7	Schematic	Fantboat42	-20	68	-213	newhws	false
-29.4	Schematic	Fantboat42	-21	68	-213	newhws	false
-30.1	Schematic	Fantboat42	-22	68	-213	newhws	false
-30.8	Schematic	Fantboat42	-23	68	-213	newhws	false
-31.5	Schematic	Fantboat42	-24	68	-213	newhws	false
-32.2	Schematic	Fantboat42	-25	68	-214	newhws	false
-32.9	Schematic	Fantboat42	-26	68	-214	newhws	false
-33.6	Schematic	Fantboat47	-27	68	-214	newhws	false
-34.3	Schematic	Fantboat47	-28	68	-214	newhws	false
-35	Schematic	Fantboat47	-29	68	-215	newhws	false
-35.7	Schematic	Fantboat47	-30	68	-215	newhws	false
-36.4	Schematic	Fantboat47	-31	68	-216	newhws	false
-37.1	Schematic	Fantboat47	-32	68	-216	newhws	false
-37.8	Schematic	Fantboat47	-33	68	-217	newhws	false
-38.5	Schematic	Fantboat47	-34	68	-217	newhws	false
-39.2	Schematic	Fantboat47	-35	68	-218	newhws	false
-39.9	Schematic	Fantboat44	-36	68	-219	newhws	false
-40.6	Schematic	Fantboat44	-37	68	-220	newhws	false
-41.3	Schematic	Fantboat44	-38	68	-221	newhws	false
-42	Schematic	Fantboat44	-39	68	-222	newhws	false
-42.7	Schematic	Fantboat54	-40	68	-223	newhws	false
-43.8	Schematic	Fantboat54	-41	68	-224	newhws	false
-44.9	Schematic	Fantboat54	-42	68	-225	newhws	false
-46	Schematic	Fantboat54	-43	68	-226	newhws	false
-47.1	Schematic	Fantboat54	-44	68	-227	newhws	false
-48.2	Schematic	Fantboat54	-45	68	-228	newhws	false
-49.3	Schematic	Fantboat54	-46	68	-229	newhws	false
-50.4	Schematic	Fantboat54	-47	68	-230	newhws	false
-51.5	Schematic	Fantboat56	-48	68	-231	newhws	false
-52.6	Schematic	Fantboat56	-49	68	-232	newhws	false
-53.7	Schematic	Fantboat56	-50	68	-233	newhws	false
-54.8	Schematic	Fantboat56	-51	68	-234	newhws	false
-55.9	Schematic	Fantboat56	-51	68	-235	newhws	false
-57	Schematic	Fantboat56	-52	68	-236	newhws	false
-58.1	Schematic	Fantboat56	-53	68	-237	newhws	false
-59.2	Schematic	Fantboat51	-53	68	-238	newhws	false
-60.3	Schematic	Fantboat51	-54	68	-239	newhws	false
-61.4	Schematic	Fantboat51	-54	68	-240	newhws	false
-62.5	Schematic	Fantboat51	-54	68	-241	newhws	false
-63.6	Schematic	Fantboat51	-54	68	-242	newhws	false
-64.7	Schematic	Fantboat51	-55	68	-243	newhws	false
-65.8	Schematic	Fantboat51	-55	68	-244	newhws	false
-66.9	Schematic	Fantboat51	-55	68	-245	newhws	false
-68	Schematic	Fantboat51	-55	68	-246	newhws	false
-69.1	Schematic	Fantboat51	-56	68	-247	newhws	false
-70.2	Schematic	Fantboat51	-56	68	-248	newhws	false
-71.3	Schematic	Fantboat51	-56	68	-249	newhws	false
-72.4	Schematic	Fantboat51	-56	68	-250	newhws	false
-73.5	Schematic	Fantboat51	-57	68	-251	newhws	false
-74.6	Schematic	Fantboat51	-57	68	-252	newhws	false
-75.7	Schematic	Fantboat41	-57	68	-253	newhws	false
-76.8	Schematic	Fantboat41	-57	68	-254	newhws	false
-77.9	Schematic	Fantboat41	-57	68	-255	newhws	false
-79	Schematic	Fantboat41	-57	68	-256	newhws	false
-80.1	Schematic	Fantboat41	-57	68	-257	newhws	false
-81.2	Schematic	Fantboat41	-57	68	-258	newhws	false
-82.3	Schematic	Fantboat41	-57	68	-259	newhws	false
-83.4	Schematic	Fantboat41	-57	68	-260	newhws	false
-84.5	Schematic	Fantboat41	-57	68	-261	newhws	false
-85.6	Schematic	Fantboat41	-57	68	-262	newhws	false
-86.7	Schematic	Fantboat41	-57	68	-263	newhws	false
-87.8	Schematic	Fantboat41	-57	68	-264	newhws	false
-88.9	Schematic	Fantboat41	-56	68	-265	newhws	false
-90	Schematic	Fantboat41	-56	68	-266	newhws	false
-91.1	Schematic	Fantboat41	-56	68	-267	newhws	false
-92.2	Schematic	Fantboat41	-56	68	-268	newhws	false
-93.3	Schematic	Fantboat41	-55	68	-269	newhws	false
-94.4	Schematic	Fantboat41	-55	68	-270	newhws	false
-95.5	Schematic	Fantboat41	-54	68	-271	newhws	false
-96.6	Schematic	Fantboat41	-54	68	-272	newhws	false
-97.7	Schematic	Fantboat41	-53	68	-273	newhws	false
-98.8	Schematic	Fantboat45	-52	68	-274	newhws	false
-99.9	Schematic	Fantboat45	-51	68	-275	newhws	false
-101	Schematic	Fantboat45	-50	68	-276	newhws	false
-102.1	Schematic	Fantboat45	-49	68	-277	newhws	false
-103.2	Schematic	Fantboat45	-48	68	-278	newhws	false
-104.3	Schematic	Fantboat43	-47	68	-279	newhws	false
-106.8	Schematic	Fantboat43	-46	68	-280	newhws	false
-109.3	Schematic	Fantboat43	-45	68	-281	newhws	false
-111.8	Schematic	Fantboat43	-44	68	-282	newhws	false
-114.3	Schematic	Fantboat43	-43	68	-283	newhws	false
-116.8	Schematic	Fantboat43	-42	68	-284	newhws	false
-119.3	Schematic	Fantboat43	-41	68	-285	newhws	false
-121.8	Schematic	Fantboat43	-40	68	-286	newhws	false
-124.3	Schematic	Fantboat43	-39	68	-287	newhws	false
-126.8	Schematic	Fantboat43	-38	68	-288	newhws	false
-129.3	Schematic	Fantboat43	-37	68	-289	newhws	false
-131.8	Schematic	Fantboat43	-36	68	-290	newhws	false
-134.3	Schematic	Fantboat43	-35	68	-291	newhws	false
-136.8	Schematic	Fantboat43	-34	68	-292	newhws	false
-139.3	Schematic	Fantboat43	-33	68	-293	newhws	false
-141.8	Schematic	Fantboat43	-32	68	-293	newhws	false
-144.3	Schematic	Fantboat43	-31	68	-293	newhws	false
-146.8	Schematic	Fantboat43	-30	68	-294	newhws	false
-149.3	Schematic	Fantboat43	-29	68	-294	newhws	false
-149.7	Schematic	Fantboat03	-29	68	-294	newhws	false
-150.5	Schematic	Fantboat03	-28	68	-294	newhws	false
-151.5	Schematic	Fantboat03	-27	68	-294	newhws	false
-152.3	Schematic	Fantboat03	-26	68	-294	newhws	false
-152.9	Schematic	Fantboat03	-25	68	-294	newhws	false
-153.5	Schematic	Fantboat03	-24	68	-294	newhws	false
-154.1	Schematic	Fantboat05	-23	68	-294	newhws	false
-154.7	Schematic	Fantboat05	-22	68	-294	newhws	false
-155.3	Schematic	Fantboat05	-21	68	-294	newhws	false
-155.9	Schematic	Fantboat05	-20	68	-294	newhws	false
-156.5	Schematic	Fantboat01	-19	68	-294	newhws	false
-157.1	Schematic	Fantboat01	-18	68	-293	newhws	false
-157.7	Schematic	Fantboat01	-17	68	-293	newhws	false
-158.3	Schematic	Fantboat01	-16	68	-293	newhws	false
-158.9	Schematic	Fantboat01	-15	68	-293	newhws	false
-159.5	Schematic	Fantboat01	-14	68	-293	newhws	false
-160.1	Schematic	Fantboat01	-13	68	-293	newhws	false
-160.7	Schematic	Fantboat01	-12	68	-293	newhws	false
-161.3	Schematic	Fantboat01	-11	68	-293	newhws	false
-161.9	Schematic	Fantboat01	-11	68	-292	newhws	false
-162.5	Schematic	Fantboat01	-11	68	-291	newhws	false
-163.1	Schematic	Fantboat01	-11	68	-290	newhws	false
-163.7	Schematic	Fantboat01	-11	68	-289	newhws	false
-164.3	Schematic	Fantboat01	-11	68	-288	newhws	false
-164.9	Schematic	Fantboat01	-11	68	-287	newhws	false
-165.5	Schematic	Fantboat01	-11	68	-286	newhws	false
-166.1	Schematic	Fantboat01	-11	68	-285	newhws	false
-166.7	Schematic	Fantboat01	-11	68	-284	newhws	false
-167.3	Schematic	Fantboat01	-11	68	-283	newhws	false
+0.1	Schematic	Fantboat02	2172	47	4850	newhws	false
+0.7	Schematic	Fantboat02	2173	47	4850	newhws	false
+1.4	Schematic	Fantboat02	2173	47	4851	newhws	false
+2.1	Schematic	Fantboat02	2173	47	4852	newhws	false
+2.8	Schematic	Fantboat02	2173	47	4853	newhws	false
+3.5	Schematic	Fantboat02	2173	47	4854	newhws	false
+4.2	Schematic	Fantboat02	2173	47	4855	newhws	false
+4.9	Schematic	Fantboat02	2173	47	4856	newhws	false
+5.6	Schematic	Fantboat02	2173	47	4857	newhws	false
+6.3	Schematic	Fantboat02	2173	47	4858	newhws	false
+7	Schematic	Fantboat02	2173	47	4859	newhws	false
+7.7	Schematic	Fantboat02	2173	47	4860	newhws	false
+8.4	Schematic	Fantboat02	2173	47	4861	newhws	false
+9.1	Schematic	Fantboat02	2173	47	4862	newhws	false
+9.8	Schematic	Fantboat02	2172	47	4863	newhws	false
+10.5	Schematic	Fantboat02	2172	47	4864	newhws	false
+11.2	Schematic	Fantboat02	2171	47	4865	newhws	false
+11.9	Schematic	Fantboat02	2170	47	4866	newhws	false
+12.6	Schematic	Fantboat02	2169	47	4867	newhws	false
+13.3	Schematic	Fantboat02	2168	47	4867	newhws	false
+14	Schematic	Fantboat02	2167	47	4868	newhws	false
+14.7	Schematic	Fantboat02	2166	47	4868	newhws	false
+15.4	Schematic	Fantboat02	2165	47	4868	newhws	false
+16.1	Schematic	Fantboat02	2164	47	4868	newhws	false
+16.8	Schematic	Fantboat02	2163	47	4868	newhws	false
+17.5	Schematic	Fantboat02	2162	47	4868	newhws	false
+18.2	Schematic	Fantboat02	2161	47	4868	newhws	false
+18.9	Schematic	Fantboat02	2160	47	4868	newhws	false
+19.6	Schematic	Fantboat02	2159	47	4868	newhws	false
+20.3	Schematic	Fantboat02	2158	47	4868	newhws	false
+21	Schematic	Fantboat02	2157	47	4868	newhws	false
+21.7	Schematic	Fantboat42	2156	47	4868	newhws	false
+22.4	Schematic	Fantboat42	2155	47	4868	newhws	false
+23.1	Schematic	Fantboat42	2154	47	4868	newhws	false
+23.8	Schematic	Fantboat42	2153	47	4868	newhws	false
+24.5	Schematic	Fantboat42	2152	47	4868	newhws	false
+25.2	Schematic	Fantboat42	2151	47	4868	newhws	false
+25.9	Schematic	Fantboat42	2150	47	4868	newhws	false
+26.6	Schematic	Fantboat42	2149	47	4868	newhws	false
+27.3	Schematic	Fantboat42	2148	47	4868	newhws	false
+28	Schematic	Fantboat42	2147	47	4868	newhws	false
+28.7	Schematic	Fantboat42	2146	47	4868	newhws	false
+29.4	Schematic	Fantboat42	2145	47	4868	newhws	false
+30.1	Schematic	Fantboat42	2144	47	4868	newhws	false
+30.8	Schematic	Fantboat42	2143	47	4868	newhws	false
+31.5	Schematic	Fantboat42	2142	47	4868	newhws	false
+32.2	Schematic	Fantboat42	2141	47	4867	newhws	false
+32.9	Schematic	Fantboat42	2140	47	4867	newhws	false
+33.6	Schematic	Fantboat47	2139	47	4867	newhws	false
+34.3	Schematic	Fantboat47	2138	47	4867	newhws	false
+35	Schematic	Fantboat47	2137	47	4866	newhws	false
+35.7	Schematic	Fantboat47	2136	47	4866	newhws	false
+36.4	Schematic	Fantboat47	2135	47	4865	newhws	false
+37.1	Schematic	Fantboat47	2134	47	4865	newhws	false
+37.8	Schematic	Fantboat47	2133	47	4864	newhws	false
+38.5	Schematic	Fantboat47	2132	47	4864	newhws	false
+39.2	Schematic	Fantboat47	2131	47	4863	newhws	false
+39.9	Schematic	Fantboat44	2130	47	4862	newhws	false
+40.6	Schematic	Fantboat44	2129	47	4861	newhws	false
+41.3	Schematic	Fantboat44	2128	47	4860	newhws	false
+42	Schematic	Fantboat44	2127	47	4859	newhws	false
+42.7	Schematic	Fantboat54	2126	47	4858	newhws	false
+43.8	Schematic	Fantboat54	2125	47	4857	newhws	false
+44.9	Schematic	Fantboat54	2124	47	4856	newhws	false
+46	Schematic	Fantboat54	2123	47	4855	newhws	false
+47.1	Schematic	Fantboat54	2122	47	4854	newhws	false
+48.2	Schematic	Fantboat54	2121	47	4853	newhws	false
+49.3	Schematic	Fantboat54	2120	47	4852	newhws	false
+50.4	Schematic	Fantboat54	2119	47	4851	newhws	false
+51.5	Schematic	Fantboat56	2118	47	4850	newhws	false
+52.6	Schematic	Fantboat56	2117	47	4849	newhws	false
+53.7	Schematic	Fantboat56	2116	47	4848	newhws	false
+54.8	Schematic	Fantboat56	2115	47	4847	newhws	false
+55.9	Schematic	Fantboat56	2115	47	4846	newhws	false
+57	Schematic	Fantboat56	2114	47	4845	newhws	false
+58.1	Schematic	Fantboat56	2113	47	4844	newhws	false
+59.2	Schematic	Fantboat51	2113	47	4843	newhws	false
+60.3	Schematic	Fantboat51	2112	47	4842	newhws	false
+61.4	Schematic	Fantboat51	2112	47	4841	newhws	false
+62.5	Schematic	Fantboat51	2112	47	4840	newhws	false
+63.6	Schematic	Fantboat51	2112	47	4839	newhws	false
+64.7	Schematic	Fantboat51	2111	47	4838	newhws	false
+65.8	Schematic	Fantboat51	2111	47	4837	newhws	false
+66.9	Schematic	Fantboat51	2111	47	4836	newhws	false
+68	Schematic	Fantboat51	2111	47	4835	newhws	false
+69.1	Schematic	Fantboat51	2110	47	4834	newhws	false
+70.2	Schematic	Fantboat51	2110	47	4833	newhws	false
+71.3	Schematic	Fantboat51	2110	47	4832	newhws	false
+72.4	Schematic	Fantboat51	2110	47	4831	newhws	false
+73.5	Schematic	Fantboat51	2109	47	4830	newhws	false
+74.6	Schematic	Fantboat51	2109	47	4829	newhws	false
+75.7	Schematic	Fantboat41	2109	47	4828	newhws	false
+76.8	Schematic	Fantboat41	2109	47	4827	newhws	false
+77.9	Schematic	Fantboat41	2109	47	4826	newhws	false
+79	Schematic	Fantboat41	2109	47	4825	newhws	false
+80.1	Schematic	Fantboat41	2109	47	4824	newhws	false
+81.2	Schematic	Fantboat41	2109	47	4823	newhws	false
+82.3	Schematic	Fantboat41	2109	47	4822	newhws	false
+83.4	Schematic	Fantboat41	2109	47	4821	newhws	false
+84.5	Schematic	Fantboat41	2109	47	4820	newhws	false
+85.6	Schematic	Fantboat41	2109	47	4819	newhws	false
+86.7	Schematic	Fantboat41	2109	47	4818	newhws	false
+87.8	Schematic	Fantboat41	2109	47	4817	newhws	false
+88.9	Schematic	Fantboat41	2110	47	4816	newhws	false
+90	Schematic	Fantboat41	2110	47	4815	newhws	false
+91.1	Schematic	Fantboat41	2110	47	4814	newhws	false
+92.2	Schematic	Fantboat41	2110	47	4813	newhws	false
+93.3	Schematic	Fantboat41	2111	47	4812	newhws	false
+94.4	Schematic	Fantboat41	2111	47	4811	newhws	false
+95.5	Schematic	Fantboat41	2112	47	4810	newhws	false
+96.6	Schematic	Fantboat41	2112	47	4809	newhws	false
+97.7	Schematic	Fantboat41	2113	47	4808	newhws	false
+98.8	Schematic	Fantboat45	2114	47	4807	newhws	false
+99.9	Schematic	Fantboat45	2115	47	4806	newhws	false
+101	Schematic	Fantboat45	2116	47	4805	newhws	false
+102.1	Schematic	Fantboat45	2117	47	4804	newhws	false
+103.2	Schematic	Fantboat45	2118	47	4803	newhws	false
+104.3	Schematic	Fantboat43	2119	47	4802	newhws	false
+106.8	Schematic	Fantboat43	2120	47	4801	newhws	false
+109.3	Schematic	Fantboat43	2121	47	4800	newhws	false
+111.8	Schematic	Fantboat43	2122	47	4799	newhws	false
+114.3	Schematic	Fantboat43	2123	47	4798	newhws	false
+116.8	Schematic	Fantboat43	2124	47	4797	newhws	false
+119.3	Schematic	Fantboat43	2125	47	4796	newhws	false
+121.8	Schematic	Fantboat43	2126	47	4795	newhws	false
+124.3	Schematic	Fantboat43	2127	47	4794	newhws	false
+126.8	Schematic	Fantboat43	2128	47	4793	newhws	false
+129.3	Schematic	Fantboat43	2129	47	4792	newhws	false
+131.8	Schematic	Fantboat43	2130	47	4791	newhws	false
+134.3	Schematic	Fantboat43	2131	47	4790	newhws	false
+136.8	Schematic	Fantboat43	2132	47	4789	newhws	false
+139.3	Schematic	Fantboat43	2133	47	4788	newhws	false
+141.8	Schematic	Fantboat43	2134	47	4788	newhws	false
+144.3	Schematic	Fantboat43	2135	47	4788	newhws	false
+146.8	Schematic	Fantboat43	2136	47	4787	newhws	false
+149.3	Schematic	Fantboat43	2137	47	4787	newhws	false
+149.7	Schematic	Fantboat03	2137	47	4787	newhws	false
+150.5	Schematic	Fantboat03	2138	47	4787	newhws	false
+151.5	Schematic	Fantboat03	2139	47	4787	newhws	false
+152.3	Schematic	Fantboat03	2140	47	4787	newhws	false
+152.9	Schematic	Fantboat03	2141	47	4787	newhws	false
+153.5	Schematic	Fantboat03	2142	47	4787	newhws	false
+154.1	Schematic	Fantboat05	2143	47	4787	newhws	false
+154.7	Schematic	Fantboat05	2144	47	4787	newhws	false
+155.3	Schematic	Fantboat05	2145	47	4787	newhws	false
+155.9	Schematic	Fantboat05	2146	47	4787	newhws	false
+156.5	Schematic	Fantboat01	2147	47	4787	newhws	false
+157.1	Schematic	Fantboat01	2148	47	4788	newhws	false
+157.7	Schematic	Fantboat01	2149	47	4788	newhws	false
+158.3	Schematic	Fantboat01	2150	47	4788	newhws	false
+158.9	Schematic	Fantboat01	2151	47	4788	newhws	false
+159.5	Schematic	Fantboat01	2152	47	4788	newhws	false
+160.1	Schematic	Fantboat01	2153	47	4788	newhws	false
+160.7	Schematic	Fantboat01	2154	47	4788	newhws	false
+161.3	Schematic	Fantboat01	2155	47	4788	newhws	false
+161.9	Schematic	Fantboat01	2155	47	4789	newhws	false
+162.5	Schematic	Fantboat01	2155	47	4790	newhws	false
+163.1	Schematic	Fantboat01	2155	47	4791	newhws	false
+163.7	Schematic	Fantboat01	2155	47	4792	newhws	false
+164.3	Schematic	Fantboat01	2155	47	4793	newhws	false
+164.9	Schematic	Fantboat01	2155	47	4794	newhws	false
+165.5	Schematic	Fantboat01	2155	47	4795	newhws	false
+166.1	Schematic	Fantboat01	2155	47	4796	newhws	false
+166.7	Schematic	Fantboat01	2155	47	4797	newhws	false
+167.3	Schematic	Fantboat01	2155	47	4798	newhws	false
 #S1
-0.1	Schematic	Fantboat01	-11	68	-283	newhws	false
-0.7	Schematic	Fantboat01	-11	68	-284	newhws	false
-1.4	Schematic	Fantboat01	-11	68	-285	newhws	false
-2.1	Schematic	Fantboat01	-11	68	-286	newhws	false
-2.8	Schematic	Fantboat01	-11	68	-287	newhws	false
-3.5	Schematic	Fantboat01	-11	68	-288	newhws	false
-4.2	Schematic	Fantboat01	-11	68	-289	newhws	false
-4.9	Schematic	Fantboat01	-11	68	-290	newhws	false
-5.6	Schematic	Fantboat01	-11	68	-291	newhws	false
-6.3	Schematic	Fantboat01	-11	68	-292	newhws	false
-7	Schematic	Fantboat01	-11	68	-293	newhws	false
-7.7	Schematic	Fantboat01	-12	68	-293	newhws	false
-8.4	Schematic	Fantboat01	-13	68	-293	newhws	false
-9.1	Schematic	Fantboat01	-14	68	-293	newhws	false
-9.8	Schematic	Fantboat01	-15	68	-293	newhws	false
-10.5	Schematic	Fantboat01	-16	68	-293	newhws	false
-11.2	Schematic	Fantboat01	-17	68	-293	newhws	false
-11.9	Schematic	Fantboat01	-18	68	-293	newhws	false
-12.6	Schematic	Fantboat01	-19	68	-294	newhws	false
-13.3	Schematic	Fantboat05	-20	68	-294	newhws	false
-14	Schematic	Fantboat05	-21	68	-294	newhws	false
-14.7	Schematic	Fantboat05	-22	68	-294	newhws	false
-15.4	Schematic	Fantboat05	-23	68	-294	newhws	false
-16.1	Schematic	Fantboat03	-24	68	-294	newhws	false
-16.8	Schematic	Fantboat03	-25	68	-294	newhws	false
-17.5	Schematic	Fantboat03	-26	68	-293	newhws	false
-18.2	Schematic	Fantboat03	-27	68	-293	newhws	false
-18.9	Schematic	Fantboat03	-28	68	-292	newhws	false
-19.6	Schematic	Fantboat03	-29	68	-292	newhws	false
-20.3	Schematic	Fantboat03	-30	68	-292	newhws	false
-21	Schematic	Fantboat03	-31	68	-292	newhws	false
-21.7	Schematic	Fantboat43	-32	68	-292	newhws	false
-23.4	Schematic	Fantboat43	-33	68	-291	newhws	false
-25.1	Schematic	Fantboat43	-34	68	-290	newhws	false
-26.8	Schematic	Fantboat43	-35	68	-289	newhws	false
-28.5	Schematic	Fantboat43	-36	68	-288	newhws	false
-30.2	Schematic	Fantboat43	-37	68	-287	newhws	false
-31.9	Schematic	Fantboat43	-38	68	-286	newhws	false
-33.6	Schematic	Fantboat43	-39	68	-285	newhws	false
-35.3	Schematic	Fantboat43	-40	68	-284	newhws	false
-37	Schematic	Fantboat43	-41	68	-283	newhws	false
-38.7	Schematic	Fantboat43	-42	68	-282	newhws	false
-40.4	Schematic	Fantboat43	-43	68	-281	newhws	false
-42.1	Schematic	Fantboat45	-44	68	-280	newhws	false
-43.8	Schematic	Fantboat45	-44	68	-279	newhws	false
-45.5	Schematic	Fantboat45	-44	68	-278	newhws	false
-47.2	Schematic	Fantboat45	-45	68	-277	newhws	false
-48.9	Schematic	Fantboat45	-45	68	-276	newhws	false
-50.6	Schematic	Fantboat45	-45	68	-275	newhws	false
-52.3	Schematic	Fantboat45	-46	68	-274	newhws	false
-54	Schematic	Fantboat45	-46	68	-273	newhws	false
-55.7	Schematic	Fantboat45	-46	68	-272	newhws	false
-57.4	Schematic	Fantboat45	-47	68	-271	newhws	false
-59.1	Schematic	Fantboat45	-47	68	-270	newhws	false
-60.8	Schematic	Fantboat41	-47	68	-269	newhws	false
-62.5	Schematic	Fantboat41	-48	68	-268	newhws	false
-64.2	Schematic	Fantboat41	-48	68	-267	newhws	false
-65.9	Schematic	Fantboat41	-48	68	-266	newhws	false
-67.6	Schematic	Fantboat41	-48	68	-265	newhws	false
-69.3	Schematic	Fantboat41	-48	68	-264	newhws	false
-71	Schematic	Fantboat41	-48	68	-263	newhws	false
-72.7	Schematic	Fantboat41	-48	68	-262	newhws	false
-74.4	Schematic	Fantboat41	-48	68	-261	newhws	false
-76.1	Schematic	Fantboat41	-48	68	-260	newhws	false
-77.8	Schematic	Fantboat41	-48	68	-259	newhws	false
-78.3	Schematic	Fantboat61	-48	68	-259	newhws	false
-79.2	Schematic	Fantboat61	-48	68	-258	newhws	false
-80.1	Schematic	Fantboat61	-48	68	-257	newhws	false
-81	Schematic	Fantboat61	-49	68	-256	newhws	false
-81.9	Schematic	Fantboat61	-49	68	-255	newhws	false
-82.8	Schematic	Fantboat61	-49	68	-254	newhws	false
-83.7	Schematic	Fantboat61	-50	68	-253	newhws	false
-84.6	Schematic	Fantboat61	-51	68	-252	newhws	false
-85.5	Schematic	Fantboat61	-52	68	-251	newhws	false
-86.4	Schematic	Fantboat61	-53	68	-250	newhws	false
-87.3	Schematic	Fantboat61	-54	68	-249	newhws	false
-88.2	Schematic	Fantboat61	-54	68	-248	newhws	false
-89.1	Schematic	Fantboat61	-54	68	-247	newhws	false
-90	Schematic	Fantboat61	-55	68	-246	newhws	false
-90.9	Schematic	Fantboat61	-55	68	-245	newhws	false
-91.8	Schematic	Fantboat61	-55	68	-244	newhws	false
-92.7	Schematic	Fantboat61	-55	68	-243	newhws	false
-93.6	Schematic	Fantboat61	-54	68	-242	newhws	false
-94.5	Schematic	Fantboat61	-54	68	-241	newhws	false
-95.4	Schematic	Fantboat61	-54	68	-240	newhws	false
-96.3	Schematic	Fantboat61	-54	68	-239	newhws	false
-97.2	Schematic	Fantboat61	-53	68	-238	newhws	false
-98.1	Schematic	Fantboat66	-53	68	-237	newhws	false
-99	Schematic	Fantboat66	-52	68	-236	newhws	false
-99.9	Schematic	Fantboat66	-51	68	-235	newhws	false
-100.8	Schematic	Fantboat66	-51	68	-234	newhws	false
-101.7	Schematic	Fantboat66	-50	68	-233	newhws	false
-102.6	Schematic	Fantboat66	-49	68	-232	newhws	false
-103.5	Schematic	Fantboat66	-48	68	-231	newhws	false
-104.4	Schematic	Fantboat66	-48	68	-230	newhws	false
-105.3	Schematic	Fantboat66	-47	68	-229	newhws	false
-106.2	Schematic	Fantboat64	-47	68	-228	newhws	false
-107.1	Schematic	Fantboat64	-46	68	-227	newhws	false
-108	Schematic	Fantboat64	-45	68	-226	newhws	false
-108.9	Schematic	Fantboat64	-44	68	-225	newhws	false
-109.8	Schematic	Fantboat64	-43	68	-224	newhws	false
-110.7	Schematic	Fantboat64	-42	68	-223	newhws	false
-111.6	Schematic	Fantboat64	-41	68	-222	newhws	false
-112.5	Schematic	Fantboat64	-40	68	-221	newhws	false
-113.4	Schematic	Fantboat64	-39	68	-220	newhws	false
-114.3	Schematic	Fantboat67	-38	68	-219	newhws	false
-114.6	Schematic	Fantboat47	-38	68	-219	newhws	false
-115.7	Schematic	Fantboat47	-37	68	-218	newhws	false
-116.8	Schematic	Fantboat47	-36	68	-218	newhws	false
-117.9	Schematic	Fantboat47	-35	68	-218	newhws	false
-119	Schematic	Fantboat47	-34	68	-217	newhws	false
-120.1	Schematic	Fantboat47	-33	68	-217	newhws	false
-121.2	Schematic	Fantboat47	-32	68	-216	newhws	false
-122.3	Schematic	Fantboat47	-31	68	-216	newhws	false
-123.4	Schematic	Fantboat47	-30	68	-215	newhws	false
-124.5	Schematic	Fantboat47	-29	68	-215	newhws	false
-125.6	Schematic	Fantboat47	-28	68	-214	newhws	false
-126.7	Schematic	Fantboat47	-27	68	-214	newhws	false
-127.8	Schematic	Fantboat42	-26	68	-214	newhws	false
-128.9	Schematic	Fantboat42	-25	68	-214	newhws	false
-130	Schematic	Fantboat42	-24	68	-213	newhws	false
-131.1	Schematic	Fantboat42	-23	68	-213	newhws	false
-132.2	Schematic	Fantboat42	-22	68	-213	newhws	false
-133.3	Schematic	Fantboat42	-21	68	-213	newhws	false
-134.4	Schematic	Fantboat42	-20	68	-213	newhws	false
-135.5	Schematic	Fantboat42	-19	68	-213	newhws	false
-136.6	Schematic	Fantboat42	-18	68	-213	newhws	false
-137.7	Schematic	Fantboat42	-17	68	-213	newhws	false
-138.8	Schematic	Fantboat42	-16	68	-213	newhws	false
-139.9	Schematic	Fantboat42	-15	68	-213	newhws	false
-141	Schematic	Fantboat42	-14	68	-213	newhws	false
-142.1	Schematic	Fantboat42	-13	68	-213	newhws	false
-143.2	Schematic	Fantboat42	-12	68	-213	newhws	false
-144.3	Schematic	Fantboat42	-11	68	-213	newhws	false
-145.4	Schematic	Fantboat42	-10	68	-213	newhws	false
-146.5	Schematic	Fantboat42	-9	68	-213	newhws	false
-147.6	Schematic	Fantboat42	-8	68	-213	newhws	false
-148.7	Schematic	Fantboat42	-7	68	-213	newhws	false
-149.6	Schematic	Fantboat02	-6	68	-213	newhws	false
-150.3	Schematic	Fantboat02	-5	68	-213	newhws	false
-150.9	Schematic	Fantboat02	-4	68	-213	newhws	false
-151.5	Schematic	Fantboat02	-3	68	-213	newhws	false
-152.1	Schematic	Fantboat02	-2	68	-213	newhws	false
-152.7	Schematic	Fantboat02	-1	68	-213	newhws	false
-153.3	Schematic	Fantboat02	0	68	-213	newhws	false
-153.9	Schematic	Fantboat02	1	68	-213	newhws	false
-154.5	Schematic	Fantboat02	2	68	-214	newhws	false
-155.1	Schematic	Fantboat02	3	68	-215	newhws	false
-155.7	Schematic	Fantboat02	4	68	-216	newhws	false
-156.3	Schematic	Fantboat02	5	68	-217	newhws	false
-156.9	Schematic	Fantboat02	6	68	-218	newhws	false
-157.5	Schematic	Fantboat02	7	68	-219	newhws	false
-158.1	Schematic	Fantboat02	7	68	-220	newhws	false
-158.7	Schematic	Fantboat02	7	68	-221	newhws	false
-159.3	Schematic	Fantboat02	7	68	-222	newhws	false
-159.9	Schematic	Fantboat02	7	68	-223	newhws	false
-160.5	Schematic	Fantboat02	7	68	-224	newhws	false
-161.1	Schematic	Fantboat02	7	68	-225	newhws	false
-161.7	Schematic	Fantboat02	7	68	-226	newhws	false
-162.3	Schematic	Fantboat02	7	68	-227	newhws	false
-162.9	Schematic	Fantboat02	7	68	-228	newhws	false
-163.5	Schematic	Fantboat02	7	68	-229	newhws	false
-164.1	Schematic	Fantboat02	7	68	-230	newhws	false
-164.7	Schematic	Fantboat02	7	68	-231	newhws	false
-165.3	Schematic	Fantboat02	7	68	-232	newhws	false
-165.9	Schematic	Fantboat02	7	68	-233	newhws	false
-166.5	Schematic	Fantboat02	7	68	-234	newhws	false
-167.1	Schematic	Fantboat02	7	68	-235	newhws	false
-167.7	Schematic	Fantboat02	7	68	-236	newhws	false
-168.3	Schematic	Fantboat02	6	68	-236	newhws	false
-168.9	Schematic	Fantboat02	5	68	-236	newhws	false
+0.1	Schematic	Fantboat01	2155	47	4798	newhws	false
+0.7	Schematic	Fantboat01	2155	47	4797	newhws	false
+1.4	Schematic	Fantboat01	2155	47	4796	newhws	false
+2.1	Schematic	Fantboat01	2155	47	4795	newhws	false
+2.8	Schematic	Fantboat01	2155	47	4794	newhws	false
+3.5	Schematic	Fantboat01	2155	47	4793	newhws	false
+4.2	Schematic	Fantboat01	2155	47	4792	newhws	false
+4.9	Schematic	Fantboat01	2155	47	4791	newhws	false
+5.6	Schematic	Fantboat01	2155	47	4790	newhws	false
+6.3	Schematic	Fantboat01	2155	47	4789	newhws	false
+7	Schematic	Fantboat01	2155	47	4788	newhws	false
+7.7	Schematic	Fantboat01	2154	47	4788	newhws	false
+8.4	Schematic	Fantboat01	2153	47	4788	newhws	false
+9.1	Schematic	Fantboat01	2152	47	4788	newhws	false
+9.8	Schematic	Fantboat01	2151	47	4788	newhws	false
+10.5	Schematic	Fantboat01	2150	47	4788	newhws	false
+11.2	Schematic	Fantboat01	2149	47	4788	newhws	false
+11.9	Schematic	Fantboat01	2148	47	4788	newhws	false
+12.6	Schematic	Fantboat01	2147	47	4787	newhws	false
+13.3	Schematic	Fantboat05	2146	47	4787	newhws	false
+14	Schematic	Fantboat05	2145	47	4787	newhws	false
+14.7	Schematic	Fantboat05	2144	47	4787	newhws	false
+15.4	Schematic	Fantboat05	2143	47	4787	newhws	false
+16.1	Schematic	Fantboat03	2142	47	4787	newhws	false
+16.8	Schematic	Fantboat03	2141	47	4787	newhws	false
+17.5	Schematic	Fantboat03	2140	47	4788	newhws	false
+18.2	Schematic	Fantboat03	2139	47	4788	newhws	false
+18.9	Schematic	Fantboat03	2138	47	4789	newhws	false
+19.6	Schematic	Fantboat03	2137	47	4789	newhws	false
+20.3	Schematic	Fantboat03	2136	47	4789	newhws	false
+21	Schematic	Fantboat03	2135	47	4789	newhws	false
+21.7	Schematic	Fantboat43	2134	47	4789	newhws	false
+23.4	Schematic	Fantboat43	2133	47	4790	newhws	false
+25.1	Schematic	Fantboat43	2132	47	4791	newhws	false
+26.8	Schematic	Fantboat43	2131	47	4792	newhws	false
+28.5	Schematic	Fantboat43	2130	47	4793	newhws	false
+30.2	Schematic	Fantboat43	2129	47	4794	newhws	false
+31.9	Schematic	Fantboat43	2128	47	4795	newhws	false
+33.6	Schematic	Fantboat43	2127	47	4796	newhws	false
+35.3	Schematic	Fantboat43	2126	47	4797	newhws	false
+37	Schematic	Fantboat43	2125	47	4798	newhws	false
+38.7	Schematic	Fantboat43	2124	47	4799	newhws	false
+40.4	Schematic	Fantboat43	2123	47	4800	newhws	false
+42.1	Schematic	Fantboat45	2122	47	4801	newhws	false
+43.8	Schematic	Fantboat45	2122	47	4802	newhws	false
+45.5	Schematic	Fantboat45	2122	47	4803	newhws	false
+47.2	Schematic	Fantboat45	2121	47	4804	newhws	false
+48.9	Schematic	Fantboat45	2121	47	4805	newhws	false
+50.6	Schematic	Fantboat45	2121	47	4806	newhws	false
+52.3	Schematic	Fantboat45	2120	47	4807	newhws	false
+54	Schematic	Fantboat45	2120	47	4808	newhws	false
+55.7	Schematic	Fantboat45	2120	47	4809	newhws	false
+57.4	Schematic	Fantboat45	2119	47	4810	newhws	false
+59.1	Schematic	Fantboat45	2119	47	4811	newhws	false
+60.8	Schematic	Fantboat41	2119	47	4812	newhws	false
+62.5	Schematic	Fantboat41	2118	47	4813	newhws	false
+64.2	Schematic	Fantboat41	2118	47	4814	newhws	false
+65.9	Schematic	Fantboat41	2118	47	4815	newhws	false
+67.6	Schematic	Fantboat41	2118	47	4816	newhws	false
+69.3	Schematic	Fantboat41	2118	47	4817	newhws	false
+71	Schematic	Fantboat41	2118	47	4818	newhws	false
+72.7	Schematic	Fantboat41	2118	47	4819	newhws	false
+74.4	Schematic	Fantboat41	2118	47	4820	newhws	false
+76.1	Schematic	Fantboat41	2118	47	4821	newhws	false
+77.8	Schematic	Fantboat41	2118	47	4822	newhws	false
+78.3	Schematic	Fantboat61	2118	47	4822	newhws	false
+79.2	Schematic	Fantboat61	2118	47	4823	newhws	false
+80.1	Schematic	Fantboat61	2118	47	4824	newhws	false
+81	Schematic	Fantboat61	2117	47	4825	newhws	false
+81.9	Schematic	Fantboat61	2117	47	4826	newhws	false
+82.8	Schematic	Fantboat61	2117	47	4827	newhws	false
+83.7	Schematic	Fantboat61	2116	47	4828	newhws	false
+84.6	Schematic	Fantboat61	2115	47	4829	newhws	false
+85.5	Schematic	Fantboat61	2114	47	4830	newhws	false
+86.4	Schematic	Fantboat61	2113	47	4831	newhws	false
+87.3	Schematic	Fantboat61	2112	47	4832	newhws	false
+88.2	Schematic	Fantboat61	2112	47	4833	newhws	false
+89.1	Schematic	Fantboat61	2112	47	4834	newhws	false
+90	Schematic	Fantboat61	2111	47	4835	newhws	false
+90.9	Schematic	Fantboat61	2111	47	4836	newhws	false
+91.8	Schematic	Fantboat61	2111	47	4837	newhws	false
+92.7	Schematic	Fantboat61	2111	47	4838	newhws	false
+93.6	Schematic	Fantboat61	2112	47	4839	newhws	false
+94.5	Schematic	Fantboat61	2112	47	4840	newhws	false
+95.4	Schematic	Fantboat61	2112	47	4841	newhws	false
+96.3	Schematic	Fantboat61	2112	47	4842	newhws	false
+97.2	Schematic	Fantboat61	2113	47	4843	newhws	false
+98.1	Schematic	Fantboat66	2113	47	4844	newhws	false
+99	Schematic	Fantboat66	2114	47	4845	newhws	false
+99.9	Schematic	Fantboat66	2115	47	4846	newhws	false
+100.8	Schematic	Fantboat66	2115	47	4847	newhws	false
+101.7	Schematic	Fantboat66	2116	47	4848	newhws	false
+102.6	Schematic	Fantboat66	2117	47	4849	newhws	false
+103.5	Schematic	Fantboat66	2118	47	4850	newhws	false
+104.4	Schematic	Fantboat66	2118	47	4851	newhws	false
+105.3	Schematic	Fantboat66	2119	47	4852	newhws	false
+106.2	Schematic	Fantboat64	2119	47	4853	newhws	false
+107.1	Schematic	Fantboat64	2120	47	4854	newhws	false
+108	Schematic	Fantboat64	2121	47	4855	newhws	false
+108.9	Schematic	Fantboat64	2122	47	4856	newhws	false
+109.8	Schematic	Fantboat64	2123	47	4857	newhws	false
+110.7	Schematic	Fantboat64	2124	47	4858	newhws	false
+111.6	Schematic	Fantboat64	2125	47	4859	newhws	false
+112.5	Schematic	Fantboat64	2126	47	4860	newhws	false
+113.4	Schematic	Fantboat64	2127	47	4861	newhws	false
+114.3	Schematic	Fantboat67	2128	47	4862	newhws	false
+114.6	Schematic	Fantboat47	2128	47	4862	newhws	false
+115.7	Schematic	Fantboat47	2129	47	4863	newhws	false
+116.8	Schematic	Fantboat47	2130	47	4863	newhws	false
+117.9	Schematic	Fantboat47	2131	47	4863	newhws	false
+119	Schematic	Fantboat47	2132	47	4864	newhws	false
+120.1	Schematic	Fantboat47	2133	47	4864	newhws	false
+121.2	Schematic	Fantboat47	2134	47	4865	newhws	false
+122.3	Schematic	Fantboat47	2135	47	4865	newhws	false
+123.4	Schematic	Fantboat47	2136	47	4866	newhws	false
+124.5	Schematic	Fantboat47	2137	47	4866	newhws	false
+125.6	Schematic	Fantboat47	2138	47	4867	newhws	false
+126.7	Schematic	Fantboat47	2139	47	4867	newhws	false
+127.8	Schematic	Fantboat42	2140	47	4867	newhws	false
+128.9	Schematic	Fantboat42	2141	47	4867	newhws	false
+130	Schematic	Fantboat42	2142	47	4868	newhws	false
+131.1	Schematic	Fantboat42	2143	47	4868	newhws	false
+132.2	Schematic	Fantboat42	2144	47	4868	newhws	false
+133.3	Schematic	Fantboat42	2145	47	4868	newhws	false
+134.4	Schematic	Fantboat42	2146	47	4868	newhws	false
+135.5	Schematic	Fantboat42	2147	47	4868	newhws	false
+136.6	Schematic	Fantboat42	2148	47	4868	newhws	false
+137.7	Schematic	Fantboat42	2149	47	4868	newhws	false
+138.8	Schematic	Fantboat42	2150	47	4868	newhws	false
+139.9	Schematic	Fantboat42	2151	47	4868	newhws	false
+141	Schematic	Fantboat42	2152	47	4868	newhws	false
+142.1	Schematic	Fantboat42	2153	47	4868	newhws	false
+143.2	Schematic	Fantboat42	2154	47	4868	newhws	false
+144.3	Schematic	Fantboat42	2155	47	4868	newhws	false
+145.4	Schematic	Fantboat42	2156	47	4868	newhws	false
+146.5	Schematic	Fantboat42	2157	47	4868	newhws	false
+147.6	Schematic	Fantboat42	2158	47	4868	newhws	false
+148.7	Schematic	Fantboat42	2159	47	4868	newhws	false
+149.6	Schematic	Fantboat02	2160	47	4868	newhws	false
+150.3	Schematic	Fantboat02	2161	47	4868	newhws	false
+150.9	Schematic	Fantboat02	2162	47	4868	newhws	false
+151.5	Schematic	Fantboat02	2163	47	4868	newhws	false
+152.1	Schematic	Fantboat02	2164	47	4868	newhws	false
+152.7	Schematic	Fantboat02	2165	47	4868	newhws	false
+153.3	Schematic	Fantboat02	2166	47	4868	newhws	false
+153.9	Schematic	Fantboat02	2167	47	4868	newhws	false
+154.5	Schematic	Fantboat02	2168	47	4867	newhws	false
+155.1	Schematic	Fantboat02	2169	47	4866	newhws	false
+155.7	Schematic	Fantboat02	2170	47	4865	newhws	false
+156.3	Schematic	Fantboat02	2171	47	4864	newhws	false
+156.9	Schematic	Fantboat02	2172	47	4863	newhws	false
+157.5	Schematic	Fantboat02	2173	47	4862	newhws	false
+158.1	Schematic	Fantboat02	2173	47	4861	newhws	false
+158.7	Schematic	Fantboat02	2173	47	4860	newhws	false
+159.3	Schematic	Fantboat02	2173	47	4859	newhws	false
+159.9	Schematic	Fantboat02	2173	47	4858	newhws	false
+160.5	Schematic	Fantboat02	2173	47	4857	newhws	false
+161.1	Schematic	Fantboat02	2173	47	4856	newhws	false
+161.7	Schematic	Fantboat02	2173	47	4855	newhws	false
+162.3	Schematic	Fantboat02	2173	47	4854	newhws	false
+162.9	Schematic	Fantboat02	2173	47	4853	newhws	false
+163.5	Schematic	Fantboat02	2173	47	4852	newhws	false
+164.1	Schematic	Fantboat02	2173	47	4851	newhws	false
+164.7	Schematic	Fantboat02	2173	47	4850	newhws	false
+165.3	Schematic	Fantboat02	2173	47	4849	newhws	false
+165.9	Schematic	Fantboat02	2173	47	4848	newhws	false
+166.5	Schematic	Fantboat02	2173	47	4847	newhws	false
+167.1	Schematic	Fantboat02	2173	47	4846	newhws	false
+167.7	Schematic	Fantboat02	2173	47	4845	newhws	false
+168.3	Schematic	Fantboat02	2172	47	4845	newhws	false
+168.9	Schematic	Fantboat02	2171	47	4845	newhws	false
 #S22
-2.1	Schematic	Fantboat02	5	68	-236	newhws	false
-2.8	Schematic	Fantboat02	6	68	-236	newhws	false
-3.5	Schematic	Fantboat02	7	68	-236	newhws	false
-4.2	Schematic	Fantboat02	7	68	-235	newhws	false
-4.9	Schematic	Fantboat02	7	68	-234	newhws	false
-5.6	Schematic	Fantboat02	7	68	-233	newhws	false
-6.3	Schematic	Fantboat02	7	68	-232	newhws	false
-7	Schematic	Fantboat02	7	68	-231	newhws	false
-7.7	Schematic	Fantboat02	7	68	-230	newhws	false
-8.4	Schematic	Fantboat02	7	68	-229	newhws	false
-9.1	Schematic	Fantboat02	7	68	-228	newhws	false
-9.8	Schematic	Fantboat02	7	68	-227	newhws	false
-10.5	Schematic	Fantboat02	7	68	-226	newhws	false
-11.2	Schematic	Fantboat02	7	68	-225	newhws	false
-11.9	Schematic	Fantboat02	7	68	-224	newhws	false
-12.6	Schematic	Fantboat02	7	68	-223	newhws	false
-13.3	Schematic	Fantboat02	7	68	-222	newhws	false
-14	Schematic	Fantboat02	7	68	-221	newhws	false
-14.7	Schematic	Fantboat02	6	68	-220	newhws	false
-15.4	Schematic	Fantboat02	6	68	-219	newhws	false
-16.1	Schematic	Fantboat02	5	68	-218	newhws	false
-16.8	Schematic	Fantboat02	5	68	-217	newhws	false
-17.5	Schematic	Fantboat02	4	68	-216	newhws	false
-18.2	Schematic	Fantboat02	3	68	-215	newhws	false
-18.9	Schematic	Fantboat02	2	68	-215	newhws	false
-19.6	Schematic	Fantboat02	1	68	-214	newhws	false
-20.3	Schematic	Fantboat02	0	68	-214	newhws	false
-21	Schematic	Fantboat02	-1	68	-214	newhws	false
-21.7	Schematic	Fantboat42	-2	68	-214	newhws	false
-22.5	Schematic	Fantboat42	-3	68	-214	newhws	false
-23.3	Schematic	Fantboat42	-4	68	-214	newhws	false
-24.1	Schematic	Fantboat42	-5	68	-214	newhws	false
-24.9	Schematic	Fantboat42	-6	68	-214	newhws	false
-25.7	Schematic	Fantboat42	-7	68	-214	newhws	false
-26.5	Schematic	Fantboat42	-8	68	-214	newhws	false
-27.3	Schematic	Fantboat42	-9	68	-214	newhws	false
-28.1	Schematic	Fantboat42	-10	68	-214	newhws	false
-28.9	Schematic	Fantboat42	-11	68	-214	newhws	false
-29.7	Schematic	Fantboat42	-12	68	-214	newhws	false
-30.5	Schematic	Fantboat42	-13	68	-214	newhws	false
-31.3	Schematic	Fantboat42	-14	68	-214	newhws	false
-32.1	Schematic	Fantboat42	-15	68	-214	newhws	false
-32.9	Schematic	Fantboat42	-16	68	-214	newhws	false
-33.7	Schematic	Fantboat42	-17	68	-214	newhws	false
-34.5	Schematic	Fantboat42	-18	68	-214	newhws	false
-35.3	Schematic	Fantboat42	-19	68	-214	newhws	false
-36.1	Schematic	Fantboat47	-20	68	-214	newhws	false
-38.6	Schematic	Fantboat47	-21	68	-214	newhws	false
-41.1	Schematic	Fantboat47	-22	68	-214	newhws	false
-43.6	Schematic	Fantboat47	-23	68	-214	newhws	false
-46.1	Schematic	Fantboat47	-24	68	-214	newhws	false
-48.6	Schematic	Fantboat47	-25	68	-215	newhws	false
-51.1	Schematic	Fantboat47	-26	68	-216	newhws	false
-53.6	Schematic	Fantboat47	-27	68	-217	newhws	false
-56.1	Schematic	Fantboat44	-28	68	-218	newhws	false
-58.6	Schematic	Fantboat44	-29	68	-219	newhws	false
-61.1	Schematic	Fantboat44	-30	68	-220	newhws	false
-63.6	Schematic	Fantboat44	-31	68	-221	newhws	false
-66.1	Schematic	Fantboat44	-32	68	-222	newhws	false
-68.6	Schematic	Fantboat44	-33	68	-223	newhws	false
-71.1	Schematic	Fantboat44	-34	68	-224	newhws	false
-73.6	Schematic	Fantboat44	-35	68	-225	newhws	false
-76.1	Schematic	Fantboat44	-36	68	-226	newhws	false
-78.6	Schematic	Fantboat44	-37	68	-227	newhws	false
-81.1	Schematic	Fantboat44	-37	68	-228	newhws	false
-83.6	Schematic	Fantboat44	-37	68	-229	newhws	false
-86.1	Schematic	Fantboat44	-37	68	-230	newhws	false
-88.6	Schematic	Fantboat44	-38	68	-231	newhws	false
-91.1	Schematic	Fantboat44	-39	68	-232	newhws	false
-111	Schematic	Fantboat44	-40	68	-232	newhws	false
-111.8	Schematic	Fantboat44	-41	68	-232	newhws	false
-112.6	Schematic	Fantboat44	-42	68	-232	newhws	false
-113.4	Schematic	Fantboat44	-43	68	-232	newhws	false
-114.2	Schematic	Fantboat46	-44	68	-232	newhws	false
-115	Schematic	Fantboat76	-45	68	-232	newhws	false
-116	Schematic	Fantboat76	-46	68	-233	newhws	false
-117	Schematic	Fantboat76	-47	68	-234	newhws	false
-118	Schematic	Fantboat76	-47	68	-235	newhws	false
-119	Schematic	Fantboat76	-48	68	-236	newhws	false
-120	Schematic	Fantboat76	-48	68	-237	newhws	false
-121	Schematic	Fantboat76	-48	68	-238	newhws	false
-122	Schematic	Fantboat76	-49	68	-239	newhws	false
-123	Schematic	Fantboat76	-49	68	-240	newhws	false
-124	Schematic	Fantboat71	-49	68	-241	newhws	false
-125	Schematic	Fantboat71	-49	68	-242	newhws	false
-126	Schematic	Fantboat71	-50	68	-243	newhws	false
-127	Schematic	Fantboat71	-50	68	-244	newhws	false
-128	Schematic	Fantboat71	-50	68	-245	newhws	false
-129	Schematic	Fantboat71	-50	68	-246	newhws	false
-130	Schematic	Fantboat71	-50	68	-247	newhws	false
-131	Schematic	Fantboat41	-51	68	-248	newhws	false
-131.8	Schematic	Fantboat41	-51	68	-249	newhws	false
-132.4	Schematic	Fantboat41	-51	68	-250	newhws	false
-133	Schematic	Fantboat41	-51	68	-251	newhws	false
-133.6	Schematic	Fantboat41	-51	68	-252	newhws	false
-134.2	Schematic	Fantboat41	-51	68	-253	newhws	false
-134.8	Schematic	Fantboat41	-51	68	-254	newhws	false
-135.4	Schematic	Fantboat41	-51	68	-255	newhws	false
-136	Schematic	Fantboat41	-51	68	-256	newhws	false
-136.6	Schematic	Fantboat41	-51	68	-257	newhws	false
-137.2	Schematic	Fantboat41	-51	68	-258	newhws	false
-137.8	Schematic	Fantboat41	-51	68	-259	newhws	false
-138.4	Schematic	Fantboat41	-51	68	-260	newhws	false
-139	Schematic	Fantboat41	-51	68	-261	newhws	false
-139.6	Schematic	Fantboat41	-51	68	-262	newhws	false
-140.2	Schematic	Fantboat41	-51	68	-263	newhws	false
-140.8	Schematic	Fantboat41	-51	68	-264	newhws	false
-141.4	Schematic	Fantboat41	-51	68	-265	newhws	false
-142	Schematic	Fantboat41	-51	68	-266	newhws	false
-142.6	Schematic	Fantboat41	-51	68	-267	newhws	false
-143.2	Schematic	Fantboat41	-51	68	-268	newhws	false
-143.8	Schematic	Fantboat41	-50	68	-269	newhws	false
-144.4	Schematic	Fantboat41	-50	68	-270	newhws	false
-145	Schematic	Fantboat45	-50	68	-271	newhws	false
-145.6	Schematic	Fantboat45	-50	68	-272	newhws	false
-146.2	Schematic	Fantboat45	-49	68	-273	newhws	false
-146.8	Schematic	Fantboat45	-49	68	-274	newhws	false
-147.4	Schematic	Fantboat45	-49	68	-275	newhws	false
-148	Schematic	Fantboat45	-48	68	-276	newhws	false
-148.6	Schematic	Fantboat45	-48	68	-277	newhws	false
-149.2	Schematic	Fantboat45	-47	68	-278	newhws	false
-149.6	Schematic	Fantboat05	-47	68	-278	newhws	false
-149.8	Schematic	Fantboat03	-47	68	-279	newhws	false
-150.4	Schematic	Fantboat03	-46	68	-280	newhws	false
-151	Schematic	Fantboat03	-45	68	-281	newhws	false
-151.6	Schematic	Fantboat03	-44	68	-282	newhws	false
-152.2	Schematic	Fantboat03	-43	68	-283	newhws	false
-152.8	Schematic	Fantboat03	-42	68	-284	newhws	false
-153.4	Schematic	Fantboat03	-41	68	-285	newhws	false
-154	Schematic	Fantboat03	-40	68	-286	newhws	false
-154.6	Schematic	Fantboat03	-39	68	-287	newhws	false
-155.2	Schematic	Fantboat03	-38	68	-288	newhws	false
-155.8	Schematic	Fantboat03	-37	68	-289	newhws	false
-156.4	Schematic	Fantboat03	-36	68	-290	newhws	false
-157	Schematic	Fantboat03	-35	68	-291	newhws	false
-157.6	Schematic	Fantboat03	-34	68	-292	newhws	false
-158.2	Schematic	Fantboat03	-33	68	-293	newhws	false
-158.8	Schematic	Fantboat03	-32	68	-293	newhws	false
-159.4	Schematic	Fantboat03	-31	68	-293	newhws	false
-160	Schematic	Fantboat03	-30	68	-294	newhws	false
-160.6	Schematic	Fantboat03	-29	68	-294	newhws	false
-161.2	Schematic	Fantboat03	-28	68	-294	newhws	false
-161.8	Schematic	Fantboat03	-27	68	-294	newhws	false
-162.4	Schematic	Fantboat03	-26	68	-294	newhws	false
-163	Schematic	Fantboat03	-25	68	-294	newhws	false
-163.6	Schematic	Fantboat03	-24	68	-294	newhws	false
-164.2	Schematic	Fantboat05	-24	68	-294	newhws	false
-164.8	Schematic	Fantboat05	-23	68	-294	newhws	false
-165.4	Schematic	Fantboat05	-22	68	-294	newhws	false
-166	Schematic	Fantboat05	-21	68	-294	newhws	false
-166.6	Schematic	Fantboat05	-20	68	-294	newhws	false
-167.2	Schematic	Fantboat01	-20	68	-294	newhws	false
-167.8	Schematic	Fantboat01	-19	68	-294	newhws	false
-168.4	Schematic	Fantboat01	-18	68	-293	newhws	false
-169	Schematic	Fantboat01	-17	68	-293	newhws	false
-169.6	Schematic	Fantboat01	-16	68	-293	newhws	false
-170.2	Schematic	Fantboat01	-16	68	-292	newhws	false
-170.8	Schematic	Fantboat01	-16	68	-291	newhws	false
-171.4	Schematic	Fantboat01	-16	68	-290	newhws	false
-172	Schematic	Fantboat01	-16	68	-289	newhws	false
-172.6	Schematic	Fantboat01	-16	68	-288	newhws	false
-173.2	Schematic	Fantboat01	-16	68	-287	newhws	false
-173.8	Schematic	Fantboat01	-16	68	-286	newhws	false
-174.4	Schematic	Fantboat01	-16	68	-285	newhws	false
-175	Schematic	Fantboat01	-16	68	-284	newhws	false
+2.1	Schematic	Fantboat02	2171	47	4845	newhws	false
+2.8	Schematic	Fantboat02	2172	47	4845	newhws	false
+3.5	Schematic	Fantboat02	2173	47	4845	newhws	false
+4.2	Schematic	Fantboat02	2173	47	4846	newhws	false
+4.9	Schematic	Fantboat02	2173	47	4847	newhws	false
+5.6	Schematic	Fantboat02	2173	47	4848	newhws	false
+6.3	Schematic	Fantboat02	2173	47	4849	newhws	false
+7	Schematic	Fantboat02	2173	47	4850	newhws	false
+7.7	Schematic	Fantboat02	2173	47	4851	newhws	false
+8.4	Schematic	Fantboat02	2173	47	4852	newhws	false
+9.1	Schematic	Fantboat02	2173	47	4853	newhws	false
+9.8	Schematic	Fantboat02	2173	47	4854	newhws	false
+10.5	Schematic	Fantboat02	2173	47	4855	newhws	false
+11.2	Schematic	Fantboat02	2173	47	4856	newhws	false
+11.9	Schematic	Fantboat02	2173	47	4857	newhws	false
+12.6	Schematic	Fantboat02	2173	47	4858	newhws	false
+13.3	Schematic	Fantboat02	2173	47	4859	newhws	false
+14	Schematic	Fantboat02	2173	47	4860	newhws	false
+14.7	Schematic	Fantboat02	2172	47	4861	newhws	false
+15.4	Schematic	Fantboat02	2172	47	4862	newhws	false
+16.1	Schematic	Fantboat02	2171	47	4863	newhws	false
+16.8	Schematic	Fantboat02	2171	47	4864	newhws	false
+17.5	Schematic	Fantboat02	2170	47	4865	newhws	false
+18.2	Schematic	Fantboat02	2169	47	4866	newhws	false
+18.9	Schematic	Fantboat02	2168	47	4866	newhws	false
+19.6	Schematic	Fantboat02	2167	47	4867	newhws	false
+20.3	Schematic	Fantboat02	2166	47	4867	newhws	false
+21	Schematic	Fantboat02	2165	47	4867	newhws	false
+21.7	Schematic	Fantboat42	2164	47	4867	newhws	false
+22.5	Schematic	Fantboat42	2163	47	4867	newhws	false
+23.3	Schematic	Fantboat42	2162	47	4867	newhws	false
+24.1	Schematic	Fantboat42	2161	47	4867	newhws	false
+24.9	Schematic	Fantboat42	2160	47	4867	newhws	false
+25.7	Schematic	Fantboat42	2159	47	4867	newhws	false
+26.5	Schematic	Fantboat42	2158	47	4867	newhws	false
+27.3	Schematic	Fantboat42	2157	47	4867	newhws	false
+28.1	Schematic	Fantboat42	2156	47	4867	newhws	false
+28.9	Schematic	Fantboat42	2155	47	4867	newhws	false
+29.7	Schematic	Fantboat42	2154	47	4867	newhws	false
+30.5	Schematic	Fantboat42	2153	47	4867	newhws	false
+31.3	Schematic	Fantboat42	2152	47	4867	newhws	false
+32.1	Schematic	Fantboat42	2151	47	4867	newhws	false
+32.9	Schematic	Fantboat42	2150	47	4867	newhws	false
+33.7	Schematic	Fantboat42	2149	47	4867	newhws	false
+34.5	Schematic	Fantboat42	2148	47	4867	newhws	false
+35.3	Schematic	Fantboat42	2147	47	4867	newhws	false
+36.1	Schematic	Fantboat47	2146	47	4867	newhws	false
+38.6	Schematic	Fantboat47	2145	47	4867	newhws	false
+41.1	Schematic	Fantboat47	2144	47	4867	newhws	false
+43.6	Schematic	Fantboat47	2143	47	4867	newhws	false
+46.1	Schematic	Fantboat47	2142	47	4867	newhws	false
+48.6	Schematic	Fantboat47	2141	47	4866	newhws	false
+51.1	Schematic	Fantboat47	2140	47	4865	newhws	false
+53.6	Schematic	Fantboat47	2139	47	4864	newhws	false
+56.1	Schematic	Fantboat44	2138	47	4863	newhws	false
+58.6	Schematic	Fantboat44	2137	47	4862	newhws	false
+61.1	Schematic	Fantboat44	2136	47	4861	newhws	false
+63.6	Schematic	Fantboat44	2135	47	4860	newhws	false
+66.1	Schematic	Fantboat44	2134	47	4859	newhws	false
+68.6	Schematic	Fantboat44	2133	47	4858	newhws	false
+71.1	Schematic	Fantboat44	2132	47	4857	newhws	false
+73.6	Schematic	Fantboat44	2131	47	4856	newhws	false
+76.1	Schematic	Fantboat44	2130	47	4855	newhws	false
+78.6	Schematic	Fantboat44	2129	47	4854	newhws	false
+81.1	Schematic	Fantboat44	2129	47	4853	newhws	false
+83.6	Schematic	Fantboat44	2129	47	4852	newhws	false
+86.1	Schematic	Fantboat44	2129	47	4851	newhws	false
+88.6	Schematic	Fantboat44	2128	47	4850	newhws	false
+91.1	Schematic	Fantboat44	2127	47	4849	newhws	false
+111	Schematic	Fantboat44	2126	47	4849	newhws	false
+111.8	Schematic	Fantboat44	2125	47	4849	newhws	false
+112.6	Schematic	Fantboat44	2124	47	4849	newhws	false
+113.4	Schematic	Fantboat44	2123	47	4849	newhws	false
+114.2	Schematic	Fantboat46	2122	47	4849	newhws	false
+115	Schematic	Fantboat76	2121	47	4849	newhws	false
+116	Schematic	Fantboat76	2120	47	4848	newhws	false
+117	Schematic	Fantboat76	2119	47	4847	newhws	false
+118	Schematic	Fantboat76	2119	47	4846	newhws	false
+119	Schematic	Fantboat76	2118	47	4845	newhws	false
+120	Schematic	Fantboat76	2118	47	4844	newhws	false
+121	Schematic	Fantboat76	2118	47	4843	newhws	false
+122	Schematic	Fantboat76	2117	47	4842	newhws	false
+123	Schematic	Fantboat76	2117	47	4841	newhws	false
+124	Schematic	Fantboat71	2117	47	4840	newhws	false
+125	Schematic	Fantboat71	2117	47	4839	newhws	false
+126	Schematic	Fantboat71	2116	47	4838	newhws	false
+127	Schematic	Fantboat71	2116	47	4837	newhws	false
+128	Schematic	Fantboat71	2116	47	4836	newhws	false
+129	Schematic	Fantboat71	2116	47	4835	newhws	false
+130	Schematic	Fantboat71	2116	47	4834	newhws	false
+131	Schematic	Fantboat41	2115	47	4833	newhws	false
+131.8	Schematic	Fantboat41	2115	47	4832	newhws	false
+132.4	Schematic	Fantboat41	2115	47	4831	newhws	false
+133	Schematic	Fantboat41	2115	47	4830	newhws	false
+133.6	Schematic	Fantboat41	2115	47	4829	newhws	false
+134.2	Schematic	Fantboat41	2115	47	4828	newhws	false
+134.8	Schematic	Fantboat41	2115	47	4827	newhws	false
+135.4	Schematic	Fantboat41	2115	47	4826	newhws	false
+136	Schematic	Fantboat41	2115	47	4825	newhws	false
+136.6	Schematic	Fantboat41	2115	47	4824	newhws	false
+137.2	Schematic	Fantboat41	2115	47	4823	newhws	false
+137.8	Schematic	Fantboat41	2115	47	4822	newhws	false
+138.4	Schematic	Fantboat41	2115	47	4821	newhws	false
+139	Schematic	Fantboat41	2115	47	4820	newhws	false
+139.6	Schematic	Fantboat41	2115	47	4819	newhws	false
+140.2	Schematic	Fantboat41	2115	47	4818	newhws	false
+140.8	Schematic	Fantboat41	2115	47	4817	newhws	false
+141.4	Schematic	Fantboat41	2115	47	4816	newhws	false
+142	Schematic	Fantboat41	2115	47	4815	newhws	false
+142.6	Schematic	Fantboat41	2115	47	4814	newhws	false
+143.2	Schematic	Fantboat41	2115	47	4813	newhws	false
+143.8	Schematic	Fantboat41	2116	47	4812	newhws	false
+144.4	Schematic	Fantboat41	2116	47	4811	newhws	false
+145	Schematic	Fantboat45	2116	47	4810	newhws	false
+145.6	Schematic	Fantboat45	2116	47	4809	newhws	false
+146.2	Schematic	Fantboat45	2117	47	4808	newhws	false
+146.8	Schematic	Fantboat45	2117	47	4807	newhws	false
+147.4	Schematic	Fantboat45	2117	47	4806	newhws	false
+148	Schematic	Fantboat45	2118	47	4805	newhws	false
+148.6	Schematic	Fantboat45	2118	47	4804	newhws	false
+149.2	Schematic	Fantboat45	2119	47	4803	newhws	false
+149.6	Schematic	Fantboat05	2119	47	4803	newhws	false
+149.8	Schematic	Fantboat03	2119	47	4802	newhws	false
+150.4	Schematic	Fantboat03	2120	47	4801	newhws	false
+151	Schematic	Fantboat03	2121	47	4800	newhws	false
+151.6	Schematic	Fantboat03	2122	47	4799	newhws	false
+152.2	Schematic	Fantboat03	2123	47	4798	newhws	false
+152.8	Schematic	Fantboat03	2124	47	4797	newhws	false
+153.4	Schematic	Fantboat03	2125	47	4796	newhws	false
+154	Schematic	Fantboat03	2126	47	4795	newhws	false
+154.6	Schematic	Fantboat03	2127	47	4794	newhws	false
+155.2	Schematic	Fantboat03	2128	47	4793	newhws	false
+155.8	Schematic	Fantboat03	2129	47	4792	newhws	false
+156.4	Schematic	Fantboat03	2130	47	4791	newhws	false
+157	Schematic	Fantboat03	2131	47	4790	newhws	false
+157.6	Schematic	Fantboat03	2132	47	4789	newhws	false
+158.2	Schematic	Fantboat03	2133	47	4788	newhws	false
+158.8	Schematic	Fantboat03	2134	47	4788	newhws	false
+159.4	Schematic	Fantboat03	2135	47	4788	newhws	false
+160	Schematic	Fantboat03	2136	47	4787	newhws	false
+160.6	Schematic	Fantboat03	2137	47	4787	newhws	false
+161.2	Schematic	Fantboat03	2138	47	4787	newhws	false
+161.8	Schematic	Fantboat03	2139	47	4787	newhws	false
+162.4	Schematic	Fantboat03	2140	47	4787	newhws	false
+163	Schematic	Fantboat03	2141	47	4787	newhws	false
+163.6	Schematic	Fantboat03	2142	47	4787	newhws	false
+164.2	Schematic	Fantboat05	2142	47	4787	newhws	false
+164.8	Schematic	Fantboat05	2143	47	4787	newhws	false
+165.4	Schematic	Fantboat05	2144	47	4787	newhws	false
+166	Schematic	Fantboat05	2145	47	4787	newhws	false
+166.6	Schematic	Fantboat05	2146	47	4787	newhws	false
+167.2	Schematic	Fantboat01	2146	47	4787	newhws	false
+167.8	Schematic	Fantboat01	2147	47	4787	newhws	false
+168.4	Schematic	Fantboat01	2148	47	4788	newhws	false
+169	Schematic	Fantboat01	2149	47	4788	newhws	false
+169.6	Schematic	Fantboat01	2150	47	4788	newhws	false
+170.2	Schematic	Fantboat01	2150	47	4789	newhws	false
+170.8	Schematic	Fantboat01	2150	47	4790	newhws	false
+171.4	Schematic	Fantboat01	2150	47	4791	newhws	false
+172	Schematic	Fantboat01	2150	47	4792	newhws	false
+172.6	Schematic	Fantboat01	2150	47	4793	newhws	false
+173.2	Schematic	Fantboat01	2150	47	4794	newhws	false
+173.8	Schematic	Fantboat01	2150	47	4795	newhws	false
+174.4	Schematic	Fantboat01	2150	47	4796	newhws	false
+175	Schematic	Fantboat01	2150	47	4797	newhws	false

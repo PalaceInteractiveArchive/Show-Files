@@ -26,11 +26,11 @@ Show	Name	rrctour
 
 
 ## Lights on ##
-10	Block	0	-303,59,-69
+10	Block	0	1863,38,5012
 
 ## Open Entrance Door ##
-12.9	Block	152	-363,57,-101
-12.9	Block	152	-339,51,-107
+12.9	Block	152	1803,36,4980
+12.9	Block	152	1827,30,4974
 
 ## Open Exit Door ##
 90  Block   152 -414,57,-81

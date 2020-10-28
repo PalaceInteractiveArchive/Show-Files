@@ -1,5 +1,5 @@
 #Show Started January 6nd, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -76,45 +76,45 @@ Show	Name	FLatH
 157.2	Text	&f[&dAnna&f] &7I was born ready!
 161	Text	&7Jump, Sven!
 #Schematics
-0	Schematic	FLatHS9.5	439	62	68	newhws	false	
-65.7	Schematic	FLatHS10.1	439	62	68	newhws	false
-70.7	Schematic	FLatHS10.2	439	62	68	newhws	false
-75.7	Schematic	FLatHS10.1	439	62	68	newhws	false
-80.7	Schematic	FLatHS10.3	439	62	68	newhws	false
-85.7	Schematic	FLatHS10.1	439	62	68	newhws	false
-90.7	Schematic	FLatHS10.2	439	62	68	newhws	false
-95.7	Schematic	FLatHS10.1	439	62	68	newhws	false
-100.7	Schematic	FLatHS10.3	439	62	68	newhws	false
-105.7	Schematic	FLatHS10.1	439	62	68	newhws	false
-110.7	Schematic	FLatHS10.2	439	62	68	newhws	false
-112.7	Schematic	FLatHS10.1	439	62	68	newhws	false
-120.9	Schematic	FLatHS10.2	439	62	68	newhws	false
-123.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-125.9	Schematic	FLatHS10.3	439	62	68	newhws	false
-128.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-130.9	Schematic	FLatHS10.2	439	62	68	newhws	false
-133.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-135.9	Schematic	FLatHS10.3	439	62	68	newhws	false
-138.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-140.9	Schematic	FLatHS10.2	439	62	68	newhws	false
-143.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-145.9	Schematic	FLatHS10.3	439	62	68	newhws	false
-148.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-150.9	Schematic	FLatHS10.2	439	62	68	newhws	false
-153.4	Schematic	FLatHS10.1	439	62	68	newhws	false
-155.9	Schematic	FLatHS10.3	439	62	68	newhws	false
-160.9	Schematic	FLatHS10.1	439	62	68	newhws	false
-164	Schematic	FLatHS10.4	439	62	68	newhws	false
-167.6	Schematic	FLatHS10.5	439	62	68	newhws	false
-171.2	Schematic	FLatHS10.6	439	62	68	newhws	false
-174.8	Schematic	FLatHS10.7	439	62	68	newhws	false
-181	Schematic	FLatHS10.8	439	62	68	newhws	false
-183	Schematic	FLatHS10.9	439	62	68	newhws	false
-185.6	Schematic	FLatHS10.10	439	62	68	newhws	false
+0	Schematic	FLatHS9.5	2605	41	5149	newhws	false	
+65.7	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+70.7	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+75.7	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+80.7	Schematic	FLatHS10.3	2605	41	5149	newhws	false
+85.7	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+90.7	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+95.7	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+100.7	Schematic	FLatHS10.3	2605	41	5149	newhws	false
+105.7	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+110.7	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+112.7	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+120.9	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+123.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+125.9	Schematic	FLatHS10.3	2605	41	5149	newhws	false
+128.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+130.9	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+133.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+135.9	Schematic	FLatHS10.3	2605	41	5149	newhws	false
+138.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+140.9	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+143.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+145.9	Schematic	FLatHS10.3	2605	41	5149	newhws	false
+148.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+150.9	Schematic	FLatHS10.2	2605	41	5149	newhws	false
+153.4	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+155.9	Schematic	FLatHS10.3	2605	41	5149	newhws	false
+160.9	Schematic	FLatHS10.1	2605	41	5149	newhws	false
+164	Schematic	FLatHS10.4	2605	41	5149	newhws	false
+167.6	Schematic	FLatHS10.5	2605	41	5149	newhws	false
+171.2	Schematic	FLatHS10.6	2605	41	5149	newhws	false
+174.8	Schematic	FLatHS10.7	2605	41	5149	newhws	false
+181	Schematic	FLatHS10.8	2605	41	5149	newhws	false
+183	Schematic	FLatHS10.9	2605	41	5149	newhws	false
+185.6	Schematic	FLatHS10.10	2605	41	5149	newhws	false
 #Smoke
-65.7	Block	152	465,64,104
-178.4	Block	0	465,64,104
+65.7	Block	152	2631,43,5185
+178.4	Block	0	2631,43,5185
 #PixelKill
 #65.6	Block	152	-142,90,-263
 #Snow
-181	Block	0	458,65,64
+181	Block	0	2624,44,5145

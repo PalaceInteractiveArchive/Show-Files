@@ -38,7 +38,7 @@ Show    TextRadius  10
 11.5    Block   152 -103,54,520
 11.7    Block   95   -103,54,520
 20 ArmorStand  security    despawn
-20	Block	152	-43,60,401
+20	Block	152	2123,39,5482
 #Activation pressure plate
 .1  Block   0   -44,63,392
 21    Block   70  -44,63,392

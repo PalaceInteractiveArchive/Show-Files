@@ -11,62 +11,62 @@ Show	Name	GateF
 31	AudioSync	stpref	30
 61	AudioSync	stpref	60
 121	AudioSync	stpref	120
-5	Block	35:7	-20,63,442
+5	Block	35:7	2146,42,5523
 #Audio
 #1	Block	152	-20,62,439
 #1.2	Block	95	-20,62,439
 #Pixelators
 #1
-1	Block	152	-24,51,428
-1.2	Block	95	-24,51,428
+1	Block	152	2142,30,5509
+1.2	Block	95	2142,30,5509
 #2
-30.2	Block	152	-24,51,427
-30.4	Block	95	-24,51,427
+30.2	Block	152	2142,30,5508
+30.4	Block	95	2142,30,5508
 #3
-31.5	Block	152	-24,51,426
-31.7	Block	95	-24,51,426
+31.5	Block	152	2142,30,5507
+31.7	Block	95	2142,30,5507
 #4 - NOT NECESSARY
-43	Block	152	-24,51,425
-43	Block	95	-24,51,425
+43	Block	152	2142,30,5506
+43	Block	95	2142,30,5506
 #5
-47.9	Block	152	-24,51,424
-48.5	Block	95	-24,51,424
+47.9	Block	152	2142,30,5505
+48.5	Block	95	2142,30,5505
 #6
-52.6	Block	152	-24,51,423
-52.8	Block	95	-24,51,423
+52.6	Block	152	2142,30,5504
+52.8	Block	95	2142,30,5504
 #7
-55	Block	152	-24,51,422
-55.2	Block	95	-24,51,422
+55	Block	152	2142,30,5503
+55.2	Block	95	2142,30,5503
 #8
-58.7	Block	152	-24,51,421
-58.9	Block	95	-24,51,421
+58.7	Block	152	2142,30,5502
+58.9	Block	95	2142,30,5502
 #8.5
-61	Block	152	-24,51,428
-61.2	Block	95	-24,51,428
+61	Block	152	2142,30,5509
+61.2	Block	95	2142,30,5509
 #9
-84.9	Block	152	-24,51,420
-85.5	Block	95	-24,51,420
+84.9	Block	152	2142,30,5501
+85.5	Block	95	2142,30,5501
 #10
-89.1	Block	152	-24,51,419
-89.3	Block	95	-24,51,419
+89.1	Block	152	2142,30,5500
+89.3	Block	95	2142,30,5500
 #11
-99.7	Block	152	-24,51,418
-100	Block	95	-24,51,418
+99.7	Block	152	2142,30,5499
+100	Block	95	2142,30,5499
 #12
-105.6	Block	152	-24,51,417
-106	Block	95	-24,51,417
+105.6	Block	152	2142,30,5498
+106	Block	95	2142,30,5498
 #13
-110.9	Block	152	-24,51,416
-111.5	Block	95	-24,51,416
+110.9	Block	152	2142,30,5497
+111.5	Block	95	2142,30,5497
 #14
-113.8	Block	152	-24,51,415
-114	Block	95	-24,51,415
+113.8	Block	152	2142,30,5496
+114	Block	95	2142,30,5496
 #15
-118.9	Block	152	-24,51,414
-119.3	Block	95	-24,51,414
+118.9	Block	152	2142,30,5495
+119.3	Block	95	2142,30,5495
 #16 - NOT NECESSARY
-121.8	Block	152	-24,51,419
-121.8	Block	95	-24,51,419
+121.8	Block	152	2142,30,5500
+121.8	Block	95	2142,30,5500
 #17 - NOT NECESSARY
 #120.6	Block	152	-24,51,412
 #120.8	Block	95	-24,51,412
@@ -74,14 +74,14 @@ Show	Name	GateF
 #123.6	Block	152	-24,51,411
 #123.8	Block	95	-24,51,411
 #19
-151.2	Block	152	-24,51,420
-151.4	Block	95	-24,51,420
+151.2	Block	152	2142,30,5501
+151.4	Block	95	2142,30,5501
 #20
-156	Block	152	-24,51,412
-156.5	Block	95	-24,51,412
+156	Block	152	2142,30,5493
+156.5	Block	95	2142,30,5493
 #21
-169	Block	152	-24,51,420
-169.2	Block	95	-24,51,420
+169	Block	152	2142,30,5501
+169.2	Block	95	2142,30,5501
 #Text
 1	Text	&f[&6C3PO&f]	&9R2D2&e, thank goodness I caught you. I just received word that the captain is having some sort of technical problem.
 6	Text	&f[&9R2D2&f]	&b(Beeps)
@@ -109,7 +109,7 @@ Show	Name	GateF
 147.6	Text	&f[&5Safety Announcer&f]	&dYou'll be boarding in just a few moments. Thank you.
 #Text	&f[&2Announcer&f]	&aAll passengers, please prepare for immediate boarding.
 #Doors
-156	Block	152	-19,62,442
-158	Block	95	-19,62,442
-166	Block	152	-19,62,439
-168	Block	95	-19,62,439
+156	Block	152	2147,41,5523
+158	Block	95	2147,41,5523
+166	Block	152	2147,41,5520
+168	Block	95	2147,41,5520

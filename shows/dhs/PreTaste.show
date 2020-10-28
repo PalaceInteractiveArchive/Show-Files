@@ -17,35 +17,35 @@ Show	Name	Fantasmic
 480	AudioSync	tastepre	480
 540	AudioSync	tastepre	540
 #/b
-0	Block	152	2,64,-244
-270	Block	152	2,64,-243
-450	Block	152	2,64,-242
+0	Block	152	2168,43,4837
+270	Block	152	2168,43,4838
+450	Block	152	2168,43,4839
 #Weather
-0	Block	152	2,64,-245
-60	Block	152	2,64,-245
-120	Block	152	2,64,-245
-180	Block	152	2,64,-245
-240	Block	152	2,64,-245
-300	Block	152	2,64,-245
-360	Block	152	2,64,-245
-420	Block	152	2,64,-245
-480	Block	152	2,64,-245
-540	Block	152	2,64,-245
-600	Block	152	2,64,-246
+0	Block	152	2168,43,4836
+60	Block	152	2168,43,4836
+120	Block	152	2168,43,4836
+180	Block	152	2168,43,4836
+240	Block	152	2168,43,4836
+300	Block	152	2168,43,4836
+360	Block	152	2168,43,4836
+420	Block	152	2168,43,4836
+480	Block	152	2168,43,4836
+540	Block	152	2168,43,4836
+600	Block	152	2168,43,4835
 #Chat/show start
-585	Block	152	2,64,-247
-600	Block	152	1,64,-241
-601	Block	20	1,64,-241
+585	Block	152	2168,43,4834
+600	Block	152	2167,43,4840
+601	Block	20	2167,43,4840
 #Time
-0	Block	152	-145,61,-53
-0	Block	152	0,64,-242
-1	Block	20	0,64,-242
-0	Block	152	0,64,-244
-1	Block	20	0,64,-244
-600	Block	152	0,64,-243
-601	Block	20	0,64,-243
-600	Block	152	0,64,-245
-601	Block	20	0,64,-245
+0	Block	152	2021,40,5028
+0	Block	152	2166,43,4839
+1	Block	20	2166,43,4839
+0	Block	152	2166,43,4837
+1	Block	20	2166,43,4837
+600	Block	152	2166,43,4838
+601	Block	20	2166,43,4838
+600	Block	152	2166,43,4836
+601	Block	20	2166,43,4836
 #Text
 30	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
 60	Text	&6During &dTaste Of Fantasmic&6, the chat will be disabled park-wide.  We will re-enable it after the show.

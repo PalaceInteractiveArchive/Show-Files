@@ -1,435 +1,435 @@
-Show	Location	-61,37,1083
+Show	Location	2105,16,6164
 Show	Name	naboo
 
 #Naboo Figthers#
 
 #=fighter 1=#
-15	Schematic	nfront	-63	45	1088	dhs	false
-15.4	Schematic	nair	-63	45	1088	dhs	false
+15	Schematic	nfront	2103	24	6169	dhs	false
+15.4	Schematic	nair	2103	24	6169	dhs	false
 
-15.4	Schematic	nfront	-62	46	1096	dhs	false
-15.7	Schematic	nair	-62	46	1096	dhs	false
+15.4	Schematic	nfront	2104	25	6177	dhs	false
+15.7	Schematic	nair	2104	25	6177	dhs	false
 
-15.7	Schematic	nfront	-61	47	1104	dhs	false
-16.1	Schematic	nair	-61	47	1104	dhs	false
+15.7	Schematic	nfront	2105	26	6185	dhs	false
+16.1	Schematic	nair	2105	26	6185	dhs	false
 
-16.1	Schematic	nleftangled	-60	48	1110	dhs	false
-16.4	Schematic	nair	-60	48	1110	dhs	false
+16.1	Schematic	nleftangled	2106	27	6191	dhs	false
+16.4	Schematic	nair	2106	27	6191	dhs	false
 
-16.4	Schematic	nleftangled	-57	47	1114	dhs	false
-16.8	Schematic	nair	-57	47	1114	dhs	false
+16.4	Schematic	nleftangled	2109	26	6195	dhs	false
+16.8	Schematic	nair	2109	26	6195	dhs	false
 
-16.8	Schematic	nleftangled	-53	46	1117	dhs	false
-17.1	Schematic	nair	-53	46	1117	dhs	false
+16.8	Schematic	nleftangled	2113	25	6198	dhs	false
+17.1	Schematic	nair	2113	25	6198	dhs	false
 
-17.1	Schematic	nfront	-51	46	1121	dhs	false
-17.5	Schematic	nair	-51	46	1121	dhs	false
+17.1	Schematic	nfront	2115	25	6202	dhs	false
+17.5	Schematic	nair	2115	25	6202	dhs	false
 
-17.5	Schematic	nleft	-48	45	1125	dhs	false
-17.8	Schematic	nair	-48	45	1125	dhs	false
+17.5	Schematic	nleft	2118	24	6206	dhs	false
+17.8	Schematic	nair	2118	24	6206	dhs	false
 
-17.8	Schematic	nleft	-41	44	1125	dhs	false
-18.2	Schematic	nair	-41	44	1125	dhs	false
+17.8	Schematic	nleft	2125	23	6206	dhs	false
+18.2	Schematic	nair	2125	23	6206	dhs	false
 
-18.2	Schematic	nleft	-36	44	1126	dhs	false
-18.5	Schematic	nair	-36	44	1126	dhs	false
+18.2	Schematic	nleft	2130	23	6207	dhs	false
+18.5	Schematic	nair	2130	23	6207	dhs	false
 
-18.5	Schematic	nleftangled	-34	43	1128	dhs	false
-18.9	Schematic	nair	-34	43	1128	dhs	false
+18.5	Schematic	nleftangled	2132	22	6209	dhs	false
+18.9	Schematic	nair	2132	22	6209	dhs	false
 
-18.9	Schematic	nfront	-31	42	1133	dhs	false
-19.2	Schematic	nair	-31	42	1133	dhs	false
+18.9	Schematic	nfront	2135	21	6214	dhs	false
+19.2	Schematic	nair	2135	21	6214	dhs	false
 
-19.2	Schematic	nfront	-31	43	1140	dhs	false
-19.6	Schematic	nair	-31	43	1140	dhs	false
+19.2	Schematic	nfront	2135	22	6221	dhs	false
+19.6	Schematic	nair	2135	22	6221	dhs	false
 
-19.6	Schematic	nrightupangled	-34	44	1142	dhs	false
-19.9	Schematic	nair	-34	44	1142	dhs	false
+19.6	Schematic	nrightupangled	2132	23	6223	dhs	false
+19.9	Schematic	nair	2132	23	6223	dhs	false
 
-19.9	Schematic	nrightupangled	-38	46	1143	dhs	false
-20.3	Schematic	nair	-38	46	1143	dhs	false
+19.9	Schematic	nrightupangled	2128	25	6224	dhs	false
+20.3	Schematic	nair	2128	25	6224	dhs	false
 
-20.3	Schematic	nleftangled	-45	50	1146	dhs	false
-20.6	Schematic	nair	-45	50	1146	dhs	false
+20.3	Schematic	nleftangled	2121	29	6227	dhs	false
+20.6	Schematic	nair	2121	29	6227	dhs	false
 
-20.6	Schematic	nright	-52	50	1150	dhs	false
-21	Schematic	nair	-52	50	1150	dhs	false
+20.6	Schematic	nright	2114	29	6231	dhs	false
+21	Schematic	nair	2114	29	6231	dhs	false
 
-21	Schematic	nrightangled	-57	50	1152	dhs	false
-21.3	Schematic	nair	-57	50	1152	dhs	false
+21	Schematic	nrightangled	2109	29	6233	dhs	false
+21.3	Schematic	nair	2109	29	6233	dhs	false
 
-21.3	Schematic	nrightupangled	-60	50	1157	dhs	false
-21.7	Schematic	nair	-60	50	1157	dhs	false
+21.3	Schematic	nrightupangled	2106	29	6238	dhs	false
+21.7	Schematic	nair	2106	29	6238	dhs	false
 
-21.7	Schematic	nrightangled	-62	53	1162	dhs	false
-22	Schematic	nair	-62	53	1162	dhs	false
+21.7	Schematic	nrightangled	2104	32	6243	dhs	false
+22	Schematic	nair	2104	32	6243	dhs	false
 
-22	Schematic	nrightangled	-66	55	1164	dhs	false
-22.4	Schematic	nair	-66	55	1164	dhs	false
+22	Schematic	nrightangled	2100	34	6245	dhs	false
+22.4	Schematic	nair	2100	34	6245	dhs	false
 
-22.4	Schematic	nrightangled	-70	56	1168	dhs	false
-22.7	Schematic	nair	-70	56	1168	dhs	false
+22.4	Schematic	nrightangled	2096	35	6249	dhs	false
+22.7	Schematic	nair	2096	35	6249	dhs	false
 
-22.7	Schematic	nrightdownangled	-74	53	1172	dhs	false
-23.1	Schematic	nair	-74	53	1172	dhs	false
+22.7	Schematic	nrightdownangled	2092	32	6253	dhs	false
+23.1	Schematic	nair	2092	32	6253	dhs	false
 
-23.1	Schematic	nrightdownangled	-77	52	1176	dhs	false
-23.4	Schematic	nair	-77	52	1176	dhs	false
+23.1	Schematic	nrightdownangled	2089	31	6257	dhs	false
+23.4	Schematic	nair	2089	31	6257	dhs	false
 
-23.4	Schematic	nfront	-78	52	1183	dhs	false
-23.8	Schematic	nair	-78	52	1183	dhs	false
+23.4	Schematic	nfront	2088	31	6264	dhs	false
+23.8	Schematic	nair	2088	31	6264	dhs	false
 
-23.8	Schematic	nfront	-79	55	1189	dhs	false
-24.1	Schematic	nair	-79	55	1189	dhs	false
+23.8	Schematic	nfront	2087	34	6270	dhs	false
+24.1	Schematic	nair	2087	34	6270	dhs	false
 
-24.1	Schematic	nleftdownangled	-78	54	1196	dhs	false
-24.5	Schematic	nair	-78	54	1196	dhs	false
+24.1	Schematic	nleftdownangled	2088	33	6277	dhs	false
+24.5	Schematic	nair	2088	33	6277	dhs	false
 
-24.5	Schematic	nleftdownangled	-76	49	1199	dhs	false
-24.8	Schematic	nair	-76	49	1199	dhs	false
+24.5	Schematic	nleftdownangled	2090	28	6280	dhs	false
+24.8	Schematic	nair	2090	28	6280	dhs	false
 
-24.8	Schematic	nrightangled	-76	44	1203	dhs	false
-25.1	Schematic	nair	-76	44	1203	dhs	false
+24.8	Schematic	nrightangled	2090	23	6284	dhs	false
+25.1	Schematic	nair	2090	23	6284	dhs	false
 
-25.1	Schematic	nrightangled	-82	43	1208	dhs	false
-25.5	Schematic	nair	-82	43	1208	dhs	false
+25.1	Schematic	nrightangled	2084	22	6289	dhs	false
+25.5	Schematic	nair	2084	22	6289	dhs	false
 
-25.5	Schematic	nleftangled	-79	48	1217	dhs	false
-25.8	Schematic	nair	-79	48	1217	dhs	false
+25.5	Schematic	nleftangled	2087	27	6298	dhs	false
+25.8	Schematic	nair	2087	27	6298	dhs	false
 
-25.8	Schematic	nfront	-78	44	1223	dhs	false
-26.1	Schematic	nair	-78	44	1223	dhs	false
+25.8	Schematic	nfront	2088	23	6304	dhs	false
+26.1	Schematic	nair	2088	23	6304	dhs	false
 
-26.1	Schematic	nrightangled	-80	42	1228	dhs	false
-26.5	Schematic	nair	-80	42	1228	dhs	false
+26.1	Schematic	nrightangled	2086	21	6309	dhs	false
+26.5	Schematic	nair	2086	21	6309	dhs	false
 
-26.5	Particle	hugeexplosion	-82,41,1231	0	0	0	0	2
-26.5	Particle	hugeexplosion	-76,36,1227	0	0	0	0	2
-26.5	Schematic	nrightdownangled	-84	36	1229	dhs	false
-27.5	Schematic	nair	-84	36	1229	dhs	false
+26.5	Particle	hugeexplosion	2084,20,6312	0	0	0	0	2
+26.5	Particle	hugeexplosion	2090,15,6308	0	0	0	0	2
+26.5	Schematic	nrightdownangled	2082	15	6310	dhs	false
+27.5	Schematic	nair	2082	15	6310	dhs	false
 
-27.5	Schematic	nrightdownangled	-88	31	1229	dhs	false
-28	Schematic	nair	-88	31	1229	dhs	false
+27.5	Schematic	nrightdownangled	2078	10	6310	dhs	false
+28	Schematic	nair	2078	10	6310	dhs	false
 
 #=fighter 2=#
 
-15	Schematic	nfront	-53	33	1086	dhs	false
-15.1	Schematic	nair	-53	33	1086	dhs	false
+15	Schematic	nfront	2113	12	6167	dhs	false
+15.1	Schematic	nair	2113	12	6167	dhs	false
 
-15.1	Schematic	nfront	-54	33	1094	dhs	false
-15.2	Schematic	nair	-54	33	1094	dhs	false
+15.1	Schematic	nfront	2112	12	6175	dhs	false
+15.2	Schematic	nair	2112	12	6175	dhs	false
 
-15.2	Schematic	nfront	-53	32	1101	dhs	false
-15.3	Schematic	nair	-53	32	1101	dhs	false
+15.2	Schematic	nfront	2113	11	6182	dhs	false
+15.3	Schematic	nair	2113	11	6182	dhs	false
 
-15.3	Schematic	nrightupangled	-54	32	1106	dhs	false
-15.4	Schematic	nair	-54	32	1106	dhs	false
+15.3	Schematic	nrightupangled	2112	11	6187	dhs	false
+15.4	Schematic	nair	2112	11	6187	dhs	false
 
-15.4	Schematic	nfront	-54	36	1111	dhs	false
-15.5	Schematic	nair	-54	36	1111	dhs	false
+15.4	Schematic	nfront	2112	15	6192	dhs	false
+15.5	Schematic	nair	2112	15	6192	dhs	false
 
-15.5	Schematic	nfront	-55	38	1117	dhs	false
-15.6	Schematic	nair	-55	38	1117	dhs	false
+15.5	Schematic	nfront	2111	17	6198	dhs	false
+15.6	Schematic	nair	2111	17	6198	dhs	false
 
-15.6	Schematic	nfront	-53	33	1086	dhs	false
-15.7	Schematic	nair	-53	33	1086	dhs	false
+15.6	Schematic	nfront	2113	12	6167	dhs	false
+15.7	Schematic	nair	2113	12	6167	dhs	false
 
-15.7	Schematic	nfront	-53	33	1086	dhs	false
-15.8	Schematic	nair	-53	33	1086	dhs	false
+15.7	Schematic	nfront	2113	12	6167	dhs	false
+15.8	Schematic	nair	2113	12	6167	dhs	false
 
-15.8	Schematic	nleftdownangled	-54	33	1121	dhs	false
-15.9	Schematic	nair	-54	33	1121	dhs	false
+15.8	Schematic	nleftdownangled	2112	12	6202	dhs	false
+15.9	Schematic	nair	2112	12	6202	dhs	false
 
-15.9	Schematic	nleft	-48	31	1121	dhs	false
-16	Schematic	nair	-48	31	1121	dhs	false
+15.9	Schematic	nleft	2118	10	6202	dhs	false
+16	Schematic	nair	2118	10	6202	dhs	false
 
-16	Schematic	nleft	-42	31	1120	dhs	false
-16.1	Schematic	nair	-42	31	1120	dhs	false
+16	Schematic	nleft	2124	10	6201	dhs	false
+16.1	Schematic	nair	2124	10	6201	dhs	false
 
-16.1	Schematic	nleft	-35	32	1121	dhs	false
-16.2	Schematic	nair	-35	32	1121	dhs	false
+16.1	Schematic	nleft	2131	11	6202	dhs	false
+16.2	Schematic	nair	2131	11	6202	dhs	false
 
-16.2	Schematic	nleftangled	-30	33	1122	dhs	false
-16.3	Schematic	nair	-30	33	1122	dhs	false
+16.2	Schematic	nleftangled	2136	12	6203	dhs	false
+16.3	Schematic	nair	2136	12	6203	dhs	false
 
-16.3	Schematic	nleftupangled	-26	32	1124	dhs	false
-16.4	Schematic	nair	-26	32	1124	dhs	false
+16.3	Schematic	nleftupangled	2140	11	6205	dhs	false
+16.4	Schematic	nair	2140	11	6205	dhs	false
 
-16.4	Schematic	nleftangled	-21	34	1125	dhs	false
-16.5	Schematic	nair	-21	34	1125	dhs	false
+16.4	Schematic	nleftangled	2145	13	6206	dhs	false
+16.5	Schematic	nair	2145	13	6206	dhs	false
 
-16.5	Schematic	nleft	-15	32	1126	dhs	false
-16.6	Schematic	nair	-15	32	1126	dhs	false
+16.5	Schematic	nleft	2151	11	6207	dhs	false
+16.6	Schematic	nair	2151	11	6207	dhs	false
 
-16.6	Schematic	nleftupangled	-11	33	1125	dhs	false
-16.7	Schematic	nair	-11	33	1125	dhs	false
+16.6	Schematic	nleftupangled	2155	12	6206	dhs	false
+16.7	Schematic	nair	2155	12	6206	dhs	false
 
-16.7	Schematic	nleftupangled	-9	36	1127	dhs	false
-16.8	Schematic	nair	-9	36	1127	dhs	false
+16.7	Schematic	nleftupangled	2157	15	6208	dhs	false
+16.8	Schematic	nair	2157	15	6208	dhs	false
 
-16.8	Schematic	nfront	-11	42	1129	dhs	false
-16.9	Schematic	nair	-11	42	1129	dhs	false
+16.8	Schematic	nfront	2155	21	6210	dhs	false
+16.9	Schematic	nair	2155	21	6210	dhs	false
 
-16.9	Schematic	nfront	-12	44	1135	dhs	false
-17	Schematic	nair	-12	44	1135	dhs	false
+16.9	Schematic	nfront	2154	23	6216	dhs	false
+17	Schematic	nair	2154	23	6216	dhs	false
 
-17	Schematic	nrightangled	-14	42	1139	dhs	false
-17.2	Schematic	nair	-14	42	1139	dhs	false
+17	Schematic	nrightangled	2152	21	6220	dhs	false
+17.2	Schematic	nair	2152	21	6220	dhs	false
 
-17.2	Schematic	nrightdownangled	-17	39	1141	dhs	false
-17.4	Schematic	nair	-17	39	1141	dhs	false
+17.2	Schematic	nrightdownangled	2149	18	6222	dhs	false
+17.4	Schematic	nair	2149	18	6222	dhs	false
 
-17.4	Schematic	nrightdownangled	-20	33	1142	dhs	false
-17.6	Schematic	nair	-20	33	1142	dhs	false
+17.4	Schematic	nrightdownangled	2146	12	6223	dhs	false
+17.6	Schematic	nair	2146	12	6223	dhs	false
 
-17.6	Schematic	nrightangled	-26	30	1144	dhs	false
-17.8	Schematic	nair	-26	30	1144	dhs	false
+17.6	Schematic	nrightangled	2140	9	6225	dhs	false
+17.8	Schematic	nair	2140	9	6225	dhs	false
 
-17.8	Schematic	nrightangled	-30	31	1145	dhs	false
-18	Schematic	nair	-30	31	1145	dhs	false
+17.8	Schematic	nrightangled	2136	10	6226	dhs	false
+18	Schematic	nair	2136	10	6226	dhs	false
 
-18	Schematic	nrightangled	-35	32	1146	dhs	false
-18.1	Schematic	nair	-35	32	1146	dhs	false
+18	Schematic	nrightangled	2131	11	6227	dhs	false
+18.1	Schematic	nair	2131	11	6227	dhs	false
 
-18.1	Schematic	nrightangled	-40	33	1147	dhs	false
-18.3	Schematic	nair	-40	33	1147	dhs	false
+18.1	Schematic	nrightangled	2126	12	6228	dhs	false
+18.3	Schematic	nair	2126	12	6228	dhs	false
 
-18.3	Schematic	nrightupangled	-44	36	1148	dhs	false
-18.4	Schematic	nair	-44	36	1148	dhs	false
+18.3	Schematic	nrightupangled	2122	15	6229	dhs	false
+18.4	Schematic	nair	2122	15	6229	dhs	false
 
-18.4	Schematic	nrightupangled	-45	40	1149	dhs	false
-18.6	Schematic	nair	-45	40	1149	dhs	false
+18.4	Schematic	nrightupangled	2121	19	6230	dhs	false
+18.6	Schematic	nair	2121	19	6230	dhs	false
 
-18.6	Schematic	nright	-50	44	1149	dhs	false
-18.8	Schematic	nair	-50	44	1149	dhs	false
+18.6	Schematic	nright	2116	23	6230	dhs	false
+18.8	Schematic	nair	2116	23	6230	dhs	false
 
 18.8	Particle	hugeexplosion	-53	39	1149	0	0	0	0	2
-18.8	Schematic	nrightdownangled	-53	39	1149	dhs	false
-20	Schematic	nair	-53	39	1149	dhs	false
+18.8	Schematic	nrightdownangled	2113	18	6230	dhs	false
+20	Schematic	nair	2113	18	6230	dhs	false
 
-20	Schematic	nrightdownangled	-54	33	1149	dhs	false
-21	Schematic	nair	-54	33	1149	dhs	false
+20	Schematic	nrightdownangled	2112	12	6230	dhs	false
+21	Schematic	nair	2112	12	6230	dhs	false
 
 #=fighter 3=#
 
-15	Schematic	nfront	-71	31	1086	dhs	false
-15.3	Schematic	nair	-71	31	1086	dhs	false
+15	Schematic	nfront	2095	10	6167	dhs	false
+15.3	Schematic	nair	2095	10	6167	dhs	false
 
-15.3	Schematic	nfront	-71	33	1093	dhs	false
-15.6	Schematic	nair	-71	33	1093	dhs	false
+15.3	Schematic	nfront	2095	12	6174	dhs	false
+15.6	Schematic	nair	2095	12	6174	dhs	false
 
-15.6	Schematic	nfront	-71	34	1101	dhs	false
-15.9	Schematic	nair	-71	34	1101	dhs	false
+15.6	Schematic	nfront	2095	13	6182	dhs	false
+15.9	Schematic	nair	2095	13	6182	dhs	false
 
-15.9	Schematic	nfront	-72	35	1107	dhs	false
-16.2	Schematic	nair	-72	35	1107	dhs	false
+15.9	Schematic	nfront	2094	14	6188	dhs	false
+16.2	Schematic	nair	2094	14	6188	dhs	false
 
-16.2	Schematic	nfront	-71	35	1113	dhs	false
-16.5	Schematic	nair	-71	35	1113	dhs	false
+16.2	Schematic	nfront	2095	14	6194	dhs	false
+16.5	Schematic	nair	2095	14	6194	dhs	false
 
-16.5	Schematic	nleftangled	-70	36	1118	dhs	false
-16.8	Schematic	nair	-70	36	1118	dhs	false
+16.5	Schematic	nleftangled	2096	15	6199	dhs	false
+16.8	Schematic	nair	2096	15	6199	dhs	false
 
-16.8	Schematic	nfront	-67	35	1123	dhs	false
-17.1	Schematic	nair	-67	35	1123	dhs	false
+16.8	Schematic	nfront	2099	14	6204	dhs	false
+17.1	Schematic	nair	2099	14	6204	dhs	false
 
-17.1	Schematic	nleftdownangled	-67	33	1127	dhs	false
-17.4	Schematic	nair	-67	33	1127	dhs	false
+17.1	Schematic	nleftdownangled	2099	12	6208	dhs	false
+17.4	Schematic	nair	2099	12	6208	dhs	false
 
-17.4	Schematic	nleftdownangled	-65	30	1129	dhs	false
-17.7	Schematic	nair	-65	30	1129	dhs	false
+17.4	Schematic	nleftdownangled	2101	9	6210	dhs	false
+17.7	Schematic	nair	2101	9	6210	dhs	false
 
-17.7	Schematic	nleft	-61	29	1131	dhs	false
-18	Schematic	nair	-61	29	1131	dhs	false
+17.7	Schematic	nleft	2105	8	6212	dhs	false
+18	Schematic	nair	2105	8	6212	dhs	false
 
-18	Schematic	nleft	-55	30	1131	dhs	false
-18.3	Schematic	nair	-55	30	1131	dhs	false
+18	Schematic	nleft	2111	9	6212	dhs	false
+18.3	Schematic	nair	2111	9	6212	dhs	false
 
-18.3	Schematic	nleft	-48	31	1133	dhs	false
-18.6	Schematic	nair	-48	31	1133	dhs	false
+18.3	Schematic	nleft	2118	10	6214	dhs	false
+18.6	Schematic	nair	2118	10	6214	dhs	false
 
-18.6	Schematic	nleftupangled	-42	32	1131	dhs	false
-18.9	Schematic	nair	-42	32	1131	dhs	false
+18.6	Schematic	nleftupangled	2124	11	6212	dhs	false
+18.9	Schematic	nair	2124	11	6212	dhs	false
 
-18.9	Schematic	nleftupangled	-40	38	1131	dhs	false
-19.2	Schematic	nair	-40	38	1131	dhs	false
+18.9	Schematic	nleftupangled	2126	17	6212	dhs	false
+19.2	Schematic	nair	2126	17	6212	dhs	false
 
-19.2	Schematic	nleftupangled	-39	42	1132	dhs	false
-19.5	Schematic	nair	-39	42	1132	dhs	false
+19.2	Schematic	nleftupangled	2127	21	6213	dhs	false
+19.5	Schematic	nair	2127	21	6213	dhs	false
 
-19.5	Schematic	nright	-48	47	1134	dhs	false
-19.8	Schematic	nair	-48	47	1134	dhs	false
+19.5	Schematic	nright	2118	26	6215	dhs	false
+19.8	Schematic	nair	2118	26	6215	dhs	false
 
-19.8	Schematic	nright	-54	45	1135	dhs	false
-20.1	Schematic	nair	-54	45	1135	dhs	false
+19.8	Schematic	nright	2112	24	6216	dhs	false
+20.1	Schematic	nair	2112	24	6216	dhs	false
 
-20.1	Schematic	nright	-65	43	1137	dhs	false
-20.4	Schematic	nair	-65	43	1137	dhs	false
+20.1	Schematic	nright	2101	22	6218	dhs	false
+20.4	Schematic	nair	2101	22	6218	dhs	false
 
-20.4	Schematic	nfront	-71	44	1147	dhs	false
-20.7	Schematic	nair	-71	44	1147	dhs	false
+20.4	Schematic	nfront	2095	23	6228	dhs	false
+20.7	Schematic	nair	2095	23	6228	dhs	false
 
-20.7	Schematic	nfront	-71	48	1160	dhs	false
-21	Schematic	nair	-71	48	1160	dhs	false
+20.7	Schematic	nfront	2095	27	6241	dhs	false
+21	Schematic	nair	2095	27	6241	dhs	false
 
-21	Schematic	nleft	-68	49	1168	dhs	false
-21.3	Schematic	nair	-68	49	1168	dhs	false
+21	Schematic	nleft	2098	28	6249	dhs	false
+21.3	Schematic	nair	2098	28	6249	dhs	false
 
-21.3	Schematic	nleftdownangled	-61	43	1168	dhs	false
-21.6	Schematic	nair	-61	43	1168	dhs	false
+21.3	Schematic	nleftdownangled	2105	22	6249	dhs	false
+21.6	Schematic	nair	2105	22	6249	dhs	false
 
-21.6	Schematic	nleftdownangled	-57	39	1173	dhs	false
-21.9	Schematic	nair	-57	39	1173	dhs	false
+21.6	Schematic	nleftdownangled	2109	18	6254	dhs	false
+21.9	Schematic	nair	2109	18	6254	dhs	false
 
-21.9	Schematic	nrightangled	-56	34	1182	dhs	false
-22.2	Schematic	nair	-56	34	1182	dhs	false
+21.9	Schematic	nrightangled	2110	13	6263	dhs	false
+22.2	Schematic	nair	2110	13	6263	dhs	false
 
-22.2	Schematic	nrightupangled	-69	34	1188	dhs	false
-22.5	Schematic	nair	-69	34	1188	dhs	false
+22.2	Schematic	nrightupangled	2097	13	6269	dhs	false
+22.5	Schematic	nair	2097	13	6269	dhs	false
 
-22.5	Schematic	nright	-80	49	1189	dhs	false
-22.6	Schematic	nair	-80	49	1189	dhs	false
+22.5	Schematic	nright	2086	28	6270	dhs	false
+22.6	Schematic	nair	2086	28	6270	dhs	false
 
 22.6	Particle	hugeexplosion	-91	44	1192	0	0	0	0	2
-22.6	Schematic	nrightdownangled	-91	44	1192	dhs	false
-24	Schematic	nair	-91	44	1192	dhs	false
+22.6	Schematic	nrightdownangled	2075	23	6273	dhs	false
+24	Schematic	nair	2075	23	6273	dhs	false
 
-24	Schematic	nrightdownangled	-94	38	1193	dhs	false
-26	Schematic	nair	-94	38	1193	dhs	false
+24	Schematic	nrightdownangled	2072	17	6274	dhs	false
+26	Schematic	nair	2072	17	6274	dhs	false
 
-26	Schematic	nrightdownangled	-101	32	1190	dhs	false
-27	Schematic	nair	-101	32	1190	dhs	false
+26	Schematic	nrightdownangled	2065	11	6271	dhs	false
+27	Schematic	nair	2065	11	6271	dhs	false
 
 #Enemy Fighters#
 
 #=fighter 1=#
 
-16	Schematic	efront	-9	50	1129	dhs	false
-16.2	Schematic	eair	-9	50	1129	dhs	false
+16	Schematic	efront	2157	29	6210	dhs	false
+16.2	Schematic	eair	2157	29	6210	dhs	false
 
-16.2	Schematic	efront	-12	50	1138	dhs	false
-16.5	Schematic	eair	-12	50	1138	dhs	false
+16.2	Schematic	efront	2154	29	6219	dhs	false
+16.5	Schematic	eair	2154	29	6219	dhs	false
 
-16.5	Schematic	efront	-13	49	1144	dhs	false
-16.7	Schematic	eair	-13	49	1144	dhs	false
+16.5	Schematic	efront	2153	28	6225	dhs	false
+16.7	Schematic	eair	2153	28	6225	dhs	false
 
-16.7	Schematic	erightdownangled	-15	47	1149	dhs	false
-17	Schematic	eair	-15	47	1149	dhs	false
+16.7	Schematic	erightdownangled	2151	26	6230	dhs	false
+17	Schematic	eair	2151	26	6230	dhs	false
 
-17	Schematic	erightdownangled	-17	41	1150	dhs	false
-17.2	Schematic	eair	-17	41	1150	dhs	false
+17	Schematic	erightdownangled	2149	20	6231	dhs	false
+17.2	Schematic	eair	2149	20	6231	dhs	false
 
-17.2	Schematic	eright	-21	33	1150	dhs	false
-17.5	Schematic	eair	-21	33	1150	dhs	false
+17.2	Schematic	eright	2145	12	6231	dhs	false
+17.5	Schematic	eair	2145	12	6231	dhs	false
 
-17.5	Schematic	eright	-29	33	1153	dhs	false
-17.7	Schematic	eair	-29	33	1153	dhs	false
+17.5	Schematic	eright	2137	12	6234	dhs	false
+17.7	Schematic	eair	2137	12	6234	dhs	false
 
-17.7	Schematic	erightupangled	-36	40	1154	dhs	false
-18	Schematic	eair	-36	40	1154	dhs	false
+17.7	Schematic	erightupangled	2130	19	6235	dhs	false
+18	Schematic	eair	2130	19	6235	dhs	false
 
-18	Schematic	erightangled	-42	43	1156	dhs	false
-18.2	Schematic	eair	-42	43	1156	dhs	false
+18	Schematic	erightangled	2124	22	6237	dhs	false
+18.2	Schematic	eair	2124	22	6237	dhs	false
 
-18.2	Schematic	efront	-53	45	1158	dhs	false
-18.5	Schematic	eair	-53	45	1158	dhs	false
+18.2	Schematic	efront	2113	24	6239	dhs	false
+18.5	Schematic	eair	2113	24	6239	dhs	false
 
-18.5	Schematic	efront	-56	48	1169	dhs	false
-18.7	Schematic	eair	-56	48	1169	dhs	false
+18.5	Schematic	efront	2110	27	6250	dhs	false
+18.7	Schematic	eair	2110	27	6250	dhs	false
 
-18.7	Schematic	erightdownangled	-63	44	1178	dhs	false
-19	Schematic	eair	-63	44	1178	dhs	false
+18.7	Schematic	erightdownangled	2103	23	6259	dhs	false
+19	Schematic	eair	2103	23	6259	dhs	false
 
-19	Schematic	erightdownangled	-68	38	1175	dhs	false
-19.2	Schematic	eair	-68	38	1175	dhs	false
+19	Schematic	erightdownangled	2098	17	6256	dhs	false
+19.2	Schematic	eair	2098	17	6256	dhs	false
 
-19.2	Schematic	eright	-74	33	1174	dhs	false
-19.5	Schematic	eair	-74	33	1174	dhs	false
+19.2	Schematic	eright	2092	12	6255	dhs	false
+19.5	Schematic	eair	2092	12	6255	dhs	false
 
-19.5	Schematic	eright	-83	33	1176	dhs	false
-19.7	Schematic	eair	-83	33	1176	dhs	false
+19.5	Schematic	eright	2083	12	6257	dhs	false
+19.7	Schematic	eair	2083	12	6257	dhs	false
 
-19.7	Schematic	erightangled	-95	34	1180	dhs	false
-20	Schematic	eair	-95	34	1180	dhs	false
+19.7	Schematic	erightangled	2071	13	6261	dhs	false
+20	Schematic	eair	2071	13	6261	dhs	false
 
-20	Schematic	eright	-102	35	1182	dhs	false
-20.2	Schematic	eair	-102	35	1182	dhs	false
+20	Schematic	eright	2064	14	6263	dhs	false
+20.2	Schematic	eair	2064	14	6263	dhs	false
 
-20.2	Schematic	eright	-111	37	1181	dhs	false
-20.6	Schematic	eair	-111	37	1181	dhs	false
+20.2	Schematic	eright	2055	16	6262	dhs	false
+20.6	Schematic	eair	2055	16	6262	dhs	false
 
-20.6	Schematic	erightupangled	-115	40	1181	dhs	false
-21	Schematic	eair	-115	40	1181	dhs	false
+20.6	Schematic	erightupangled	2051	19	6262	dhs	false
+21	Schematic	eair	2051	19	6262	dhs	false
 
-21	Schematic	erightupangled	-115	44	1181	dhs	false
-21.3	Schematic	eair	-115	44	1181	dhs	false
+21	Schematic	erightupangled	2051	23	6262	dhs	false
+21.3	Schematic	eair	2051	23	6262	dhs	false
 
 #=fighter 2=#
-18	Schematic	eleft	-120	41	1152	dhs	false
-18.3	Schematic	eair	-120	41	1152	dhs	false
+18	Schematic	eleft	2046	20	6233	dhs	false
+18.3	Schematic	eair	2046	20	6233	dhs	false
 
 #18.3	Schematic	eleftangled	-115	40	1155	dhs	false
-18.6	Schematic	eair	-115	40	1155	dhs	false
+18.6	Schematic	eair	2051	19	6236	dhs	false
 
 #18.6	Schematic	eleftangled	-109	38	1160	dhs	false
-18.9	Schematic	eair	-109	38	1160	dhs	false
+18.9	Schematic	eair	2057	17	6241	dhs	false
 
 #18.9	Schematic	eleftangled	-102	37	1164	dhs	false
-19.2	Schematic	eair	-102	37	1164	dhs	false
+19.2	Schematic	eair	2064	16	6245	dhs	false
 
-19.2	Schematic	eleftupangled	-100	39	1169	dhs	false
-19.5	Schematic	eair	-100	39	1169	dhs	false
+19.2	Schematic	eleftupangled	2066	18	6250	dhs	false
+19.5	Schematic	eair	2066	18	6250	dhs	false
 
-19.5	Schematic	erightangled	-103	41	1177	dhs	false
-19.8	Schematic	eair	-103	41	1177	dhs	false
+19.5	Schematic	erightangled	2063	20	6258	dhs	false
+19.8	Schematic	eair	2063	20	6258	dhs	false
 
-19.8	Schematic	erightupangled	-107	43	1183	dhs	false
-20.1	Schematic	eair	-107	43	1183	dhs	false
+19.8	Schematic	erightupangled	2059	22	6264	dhs	false
+20.1	Schematic	eair	2059	22	6264	dhs	false
 
-20.1	Schematic	erightupangled	-113	45	1188	dhs	false
-20.4	Schematic	eair	-113	45	1188	dhs	false
+20.1	Schematic	erightupangled	2053	24	6269	dhs	false
+20.4	Schematic	eair	2053	24	6269	dhs	false
 
-20.4	Schematic	efront	-116	46	1194	dhs	false
-20.7	Schematic	eair	-116	46	1194	dhs	false
+20.4	Schematic	efront	2050	25	6275	dhs	false
+20.7	Schematic	eair	2050	25	6275	dhs	false
 
-20.7	Schematic	efront	-117	47	1200	dhs	false
-21	Schematic	eair	-117	47	1200	dhs	false
+20.7	Schematic	efront	2049	26	6281	dhs	false
+21	Schematic	eair	2049	26	6281	dhs	false
 
-21	Schematic	efront	-117	47	1206	dhs	false
-21.3	Schematic	eair	-117	47	1206	dhs	false
+21	Schematic	efront	2049	26	6287	dhs	false
+21.3	Schematic	eair	2049	26	6287	dhs	false
 
 #21.3	Schematic	eleftangled	-113	47	1213	dhs	false
-21.6	Schematic	eair	-113	47	1213	dhs	false
+21.6	Schematic	eair	2053	26	6294	dhs	false
 
-21.6	Schematic	eleftdownangled	-107	43	1219	dhs	false
-21.9	Schematic	eair	-107	43	1219	dhs	false
+21.6	Schematic	eleftdownangled	2059	22	6300	dhs	false
+21.9	Schematic	eair	2059	22	6300	dhs	false
 
-21.9	Schematic	eleftdownangled	-104	39	1222	dhs	false
-22.2	Schematic	eair	-104	39	1222	dhs	false
+21.9	Schematic	eleftdownangled	2062	18	6303	dhs	false
+22.2	Schematic	eair	2062	18	6303	dhs	false
 
 #22.2	Schematic	eleftangled	-100	37	1226	dhs	false
-22.5	Schematic	eair	-100	37	1226	dhs	false
+22.5	Schematic	eair	2066	16	6307	dhs	false
 
-22.5	Schematic	eleftupangled	-94	39	1231	dhs	false
-22.8	Schematic	eair	-94	39	1231	dhs	false
+22.5	Schematic	eleftupangled	2072	18	6312	dhs	false
+22.8	Schematic	eair	2072	18	6312	dhs	false
 
-22.8	Schematic	eleftupangled	-91	42	1231	dhs	false
-23.1	Schematic	eair	-91	42	1231	dhs	false
+22.8	Schematic	eleftupangled	2075	21	6312	dhs	false
+23.1	Schematic	eair	2075	21	6312	dhs	false
 
-23.1	Schematic	efront	-89	44	1234	dhs	false
-23.4	Schematic	eair	-89	44	1234	dhs	false
+23.1	Schematic	efront	2077	23	6315	dhs	false
+23.4	Schematic	eair	2077	23	6315	dhs	false
 
-23.4	Schematic	erightangled	-92	46	1238	dhs	false
-23.7	Schematic	eair	-92	46	1238	dhs	false
+23.4	Schematic	erightangled	2074	25	6319	dhs	false
+23.7	Schematic	eair	2074	25	6319	dhs	false
 
-23.7	Schematic	eright	-97	47	1238	dhs	false
-23.9	Schematic	eair	-97	47	1238	dhs	false
+23.7	Schematic	eright	2069	26	6319	dhs	false
+23.9	Schematic	eair	2069	26	6319	dhs	false
 
-23.9	Schematic	eright	-105	47	1234	dhs	false
-24	Schematic	eair	-105	47	1234	dhs	false
+23.9	Schematic	eright	2061	26	6315	dhs	false
+24	Schematic	eair	2061	26	6315	dhs	false
 
-24	Schematic	eright	-112	49	1233	dhs	false
-24.3	Schematic	eair	-112	49	1233	dhs	false
+24	Schematic	eright	2054	28	6314	dhs	false
+24.3	Schematic	eair	2054	28	6314	dhs	false
 
 
 

@@ -1,9 +1,9 @@
 #Show Started December 24, 2016
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Other
-0	Block	152	436,49,19
+0	Block	152	2602,28,5100
 #Audio
 0	AudioStart	flaths5
 5	AudioSync	flaths5	5
@@ -64,131 +64,131 @@ Show	Name	FLatH
 139.6	Text	&7I mean I should, I sort've got a thing but,
 142.9	Text	&7good talk!
 #ElsaArmorStand
-0.0	Block	152	444,66,54
-76.8	Block	152	445,66,54
+0.0	Block	152	2610,45,5135
+76.8	Block	152	2611,45,5135
 #DoorsStartMoving
-3.7	Block	152	420,68,85
-3.7	Block	152	420,68,82
-4	Block	152	420,68,81
-4	Block	152	420,68,84
+3.7	Block	152	2586,47,5166
+3.7	Block	152	2586,47,5163
+4	Block	152	2586,47,5162
+4	Block	152	2586,47,5165
 #CurtainMove
-1.8	Block	152	469,66,60
-3.6	Block	152	469,66,59
-5.4	Block	152	469,66,58
+1.8	Block	152	2635,45,5141
+3.6	Block	152	2635,45,5140
+5.4	Block	152	2635,45,5139
 #CloneGate
-5.5	Block	152	472,66,64
+5.5	Block	152	2638,45,5145
 #MoveGateForward
-20.7	Block	152	474,66,64
-21.7	Block	152	474,66,64
-22.7	Block	152	474,66,64
-23.7	Block	152	474,66,64
-24.7	Block	152	474,66,64
-25.7	Block	152	474,66,64
-26.7	Block	152	474,66,64
-27.7	Block	152	474,66,64
-28.7	Block	152	474,66,64
-29.7	Block	152	474,66,64
-30.7	Block	152	474,66,64
+20.7	Block	152	2640,45,5145
+21.7	Block	152	2640,45,5145
+22.7	Block	152	2640,45,5145
+23.7	Block	152	2640,45,5145
+24.7	Block	152	2640,45,5145
+25.7	Block	152	2640,45,5145
+26.7	Block	152	2640,45,5145
+27.7	Block	152	2640,45,5145
+28.7	Block	152	2640,45,5145
+29.7	Block	152	2640,45,5145
+30.7	Block	152	2640,45,5145
 #Schematics
-5.5	Schematic	FLatHS5.1	439	62	68	newhws	false
-9.3	Schematic	FLatHS5.2	439	62	68	newhws	false
-13.1	Schematic	FLatHS5.3	439	62	68	newhws	false
-16.9	Schematic	FLatHS5.4	439	62	68	newhws	false
-31.7	Schematic	FLatHS5.5	439	62	68	newhws	false
-72.8	Schematic	FLatHS5.6	439	62	68	newhws	false
-74.8	Schematic	FLatHS5.7	439	62	68	newhws	false
-76.8	Schematic	FLatHS5.8	439	62	68	newhws	false
-143.8	Schematic	FLatHS5.9	439	62	68	newhws	false
+5.5	Schematic	FLatHS5.1	2605	41	5149	newhws	false
+9.3	Schematic	FLatHS5.2	2605	41	5149	newhws	false
+13.1	Schematic	FLatHS5.3	2605	41	5149	newhws	false
+16.9	Schematic	FLatHS5.4	2605	41	5149	newhws	false
+31.7	Schematic	FLatHS5.5	2605	41	5149	newhws	false
+72.8	Schematic	FLatHS5.6	2605	41	5149	newhws	false
+74.8	Schematic	FLatHS5.7	2605	41	5149	newhws	false
+76.8	Schematic	FLatHS5.8	2605	41	5149	newhws	false
+143.8	Schematic	FLatHS5.9	2605	41	5149	newhws	false
 #ElsaDoor
-71.6	Block	76	455,67,101
-71.6	Block	76	456,67,100
-76.8	Block	0	455,67,101
+71.6	Block	76	2621,46,5182
+71.6	Block	76	2622,46,5181
+76.8	Block	0	2621,46,5182
 #KillDoor
-76.8	Block	152	473,66,64
+76.8	Block	152	2639,45,5145
 #OpenGates
-36.2	Block	152	471,66,64
-39.6	Block	152	470,66,64
-43.0	Block	152	469,66,64
-46.4	Block	152	469,66,63
+36.2	Block	152	2637,45,5145
+39.6	Block	152	2636,45,5145
+43.0	Block	152	2635,45,5145
+46.4	Block	152	2635,45,5144
 #CloseGates
-55.3	Block	152	469,66,62
-58.7	Block	152	469,66,61
+55.3	Block	152	2635,45,5143
+58.7	Block	152	2635,45,5142
 #AisleLightsOn
-46.4	Block	89	457,62,75
-46.4	Block	89	452,62,84
-46.4	Block	171:8	452,63,84
-46.4	Block	89	457,62,93
+46.4	Block	89	2623,41,5156
+46.4	Block	89	2618,41,5165
+46.4	Block	171:8	2618,42,5165
+46.4	Block	89	2623,41,5174
 #AisleLightsOff
-90.3	Block	123	457,62,75
-90.3	Block	35:8	452,62,84
-90.3	Block	0	452,63,84
-90.3	Block	123	457,62,93
+90.3	Block	123	2623,41,5156
+90.3	Block	35:8	2618,41,5165
+90.3	Block	0	2618,42,5165
+90.3	Block	123	2623,41,5174
 #ElsaLights
-71.6	Block	123	455,78,100
-71.6	Block	123	455,76,100
+71.6	Block	123	2621,57,5181
+71.6	Block	123	2621,55,5181
 #MoveGateBack
-59.7	Block	152	476,66,64
-60.7	Block	152	476,66,64
-61.7	Block	152	476,66,64
-62.7	Block	152	476,66,64
-63.7	Block	152	476,66,64
-64.7	Block	152	476,66,64
-65.7	Block	152	476,66,64
-66.7	Block	152	476,66,64
-67.7	Block	152	476,66,64
-68.7	Block	152	476,66,64
-69.7	Block	152	476,66,64
-70.7	Block	152	476,66,64
+59.7	Block	152	2642,45,5145
+60.7	Block	152	2642,45,5145
+61.7	Block	152	2642,45,5145
+62.7	Block	152	2642,45,5145
+63.7	Block	152	2642,45,5145
+64.7	Block	152	2642,45,5145
+65.7	Block	152	2642,45,5145
+66.7	Block	152	2642,45,5145
+67.7	Block	152	2642,45,5145
+68.7	Block	152	2642,45,5145
+69.7	Block	152	2642,45,5145
+70.7	Block	152	2642,45,5145
 #BackStageDoorsOpen
-29.3	Block	76	445,62,104
-29.3	Block	76	445,62,103
-29.3	Block	76	444,62,64
-29.3	Block	76	444,62,63
+29.3	Block	76	2611,41,5185
+29.3	Block	76	2611,41,5184
+29.3	Block	76	2610,41,5145
+29.3	Block	76	2610,41,5144
 #SideDoorsOpen
-34.3	Block	152	470,65,106
+34.3	Block	152	2636,44,5187
 #StageRight
-34.3	Block	0	443,65,66
-34.3	Block	0	442,65,66
-34.3	Block	0	441,65,66
-34.3	Block	0	440,65,66
-34.3	Block	0	443,64,66
-34.3	Block	0	442,64,66
-34.3	Block	0	441,64,66
-34.3	Block	0	440,64,66
+34.3	Block	0	2609,44,5147
+34.3	Block	0	2608,44,5147
+34.3	Block	0	2607,44,5147
+34.3	Block	0	2606,44,5147
+34.3	Block	0	2609,43,5147
+34.3	Block	0	2608,43,5147
+34.3	Block	0	2607,43,5147
+34.3	Block	0	2606,43,5147
 #StageLeft
-34.3	Block	0	443,65,102
-34.3	Block	0	442,65,102
-34.3	Block	0	441,65,102
-34.3	Block	0	440,65,102
-34.3	Block	0	443,64,102
-34.3	Block	0	442,64,102
-34.3	Block	0	441,64,102
-34.3	Block	0	440,64,102
+34.3	Block	0	2609,44,5183
+34.3	Block	0	2608,44,5183
+34.3	Block	0	2607,44,5183
+34.3	Block	0	2606,44,5183
+34.3	Block	0	2609,43,5183
+34.3	Block	0	2608,43,5183
+34.3	Block	0	2607,43,5183
+34.3	Block	0	2606,43,5183
 #StageDoorsClose
-46.4	Block	152	465,65,106
+46.4	Block	152	2631,44,5187
 #StageRight
-46.4	Block	173	443,65,66
-46.4	Block	173	442,65,66
-46.4	Block	173	441,65,66
-46.4	Block	173	440,65,66
-46.4	Block	173	443,64,66
-46.4	Block	173	442,64,66
-46.4	Block	173	441,64,66
-46.4	Block	173	440,64,66
+46.4	Block	173	2609,44,5147
+46.4	Block	173	2608,44,5147
+46.4	Block	173	2607,44,5147
+46.4	Block	173	2606,44,5147
+46.4	Block	173	2609,43,5147
+46.4	Block	173	2608,43,5147
+46.4	Block	173	2607,43,5147
+46.4	Block	173	2606,43,5147
 #StageLeft
-46.4	Block	173	443,65,102
-46.4	Block	173	442,65,102
-46.4	Block	173	441,65,102
-46.4	Block	173	440,65,102
-46.4	Block	173	443,64,102
-46.4	Block	173	442,64,102
-46.4	Block	173	441,64,102
-46.4	Block	173	440,64,102
+46.4	Block	173	2609,44,5183
+46.4	Block	173	2608,44,5183
+46.4	Block	173	2607,44,5183
+46.4	Block	173	2606,44,5183
+46.4	Block	173	2609,43,5183
+46.4	Block	173	2608,43,5183
+46.4	Block	173	2607,43,5183
+46.4	Block	173	2606,43,5183
 #BackstageDoorsClose
-51.4	Block	0	445,62,104
-51.4	Block	0	445,62,103
-51.4	Block	0	444,62,63
-51.4	Block	0	444,62,64
+51.4	Block	0	2611,41,5185
+51.4	Block	0	2611,41,5184
+51.4	Block	0	2610,41,5144
+51.4	Block	0	2610,41,5145
 #SpawnPlatform
-120.5	Block	152	474,66,62
+120.5	Block	152	2640,45,5143
 

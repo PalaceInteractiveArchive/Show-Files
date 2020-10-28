@@ -5,12 +5,12 @@ ArmorStand	c3po2	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh
 ArmorStand	robotE	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjM0ZTIxYTAyNTM3ZDk5MzBkMDk0MGExNmFiYTUwZjNkYjk4MWRmYWNhY2IzZTUwZmExZGZlNDIzMzFkOWVjMCJ9fX0=";299(89,93,99);300(71,68,68);301(43,40,40)
 ArmorStand	pickthrow	true	0;0;0;0
 #ArmorStandSpawn
-0	ArmorStand	pickthrow	Spawn	-28.5,68,746.5
-0.2	Block	152	-39,65,742
-0	ArmorStand	robotE	Spawn	-27.5,68.5,746.311
-0.1	Block	152	-39,65,745
-0	ArmorStand	c3po2	Spawn	-32.5,67.2,748.425
-0.1	Block	152	-39,65,747
+0	ArmorStand	pickthrow	Spawn	2137.5,47,5827.5
+0.2	Block	152	2127,44,5823
+0	ArmorStand	robotE	Spawn	2138.5,47.5,5827.311
+0.1	Block	152	2127,44,5826
+0	ArmorStand	c3po2	Spawn	2133.5,46.2,5829.425
+0.1	Block	152	2127,44,5828
 0.1	ArmorStand	robotE	Position	HEAD	10,0,0	0.1
 0.1	ArmorStand	robotE	Position	ARM_LEFT	-40,0,0	0.1
 0.1	ArmorStand	robotE	Position	ARM_RIGHT	-40,0,0	0.1
@@ -37,28 +37,28 @@ ArmorStand	pickthrow	true	0;0;0;0
 6.5	ArmorStand	robotE	Position	ARM_RIGHT	-20,0,0	0.6
 8	ArmorStand	robotE	Position	ARM_RIGHT	-60,-30,0	0.5
 8	ArmorStand	robotE	Position	ARM_LEFT	-60,30,0	0.5
-8.2	Block	152	-37,65,739
+8.2	Block	152	2129,44,5820
 8.8	ArmorStand	robotE	Position	ARM_RIGHT	-100,-30,0	0.5
 8.8	ArmorStand	robotE	Position	ARM_LEFT	-100,30,0	0.5
-9	Block	152	-39,65,739
+9	Block	152	2127,44,5820
 9.4	ArmorStand	robotE	Position	ARM_RIGHT	-20,0,0	0.5
 9.4	ArmorStand	robotE	Position	ARM_LEFT	-20,0,0	0.5
 #Throw
-4.6	Block	152	-39,65,739
+4.6	Block	152	2127,44,5820
 4.5	ArmorStand	pickthrow	Position	HEAD	0,0,180	0.5
 5	ArmorStand	pickthrow	Position	HEAD	0,0,0	0.5
 5.5	ArmorStand	pickthrow	Position	HEAD	0,0,180	0.5
-4.5	ArmorStand	pickthrow	Move	-30.5,66,749.5	1
+4.5	ArmorStand	pickthrow	Move	2135.5,45,5830.5	1
 6.5	ArmorStand	pickthrow	Despawn
 #PaintOn
-9	Block	152	-37,65,740
-9.2	Block	95:4	-32,69,749
-9.2	Block	95:4	-31,68,750
-9.2	Block	95:4	-32,67,749
-9.2	Block	160:4	-33,68,749
-9.2	Block	160:4	-32,68,749
-9.2	Block	160:4	-31,68,749
-9.2	Block	160:4	-32,68,750
+9	Block	152	2129,44,5821
+9.2	Block	95:4	2134,48,5830
+9.2	Block	95:4	2135,47,5831
+9.2	Block	95:4	2134,46,5830
+9.2	Block	160:4	2133,47,5830
+9.2	Block	160:4	2134,47,5830
+9.2	Block	160:4	2135,47,5830
+9.2	Block	160:4	2134,47,5831
 #WalkAway
 11.5	ArmorStand	robotE	Position	LEG_LEFT	-20,0,0	0.5
 11.5	ArmorStand	robotE	Position	LEG_RIGHT	20,0,0	0.5
@@ -69,12 +69,12 @@ ArmorStand	pickthrow	true	0;0;0;0
 13	ArmorStand	robotE	Position	LEG_LEFT	20,0,0	0.5
 13	ArmorStand	robotE	Position	LEG_RIGHT	-20,0,0	0.5
 10.5	ArmorStand	robotE	Rotate	-75	1
-11.5	ArmorStand	robotE	Move	-27.5,68.5,747.0110	0.5
-12	ArmorStand	robotE	Move	-27.5,67.0,748.5110000000002	1.5
+11.5	ArmorStand	robotE	Move	2138.5,47.5,5828.011	0.5
+12	ArmorStand	robotE	Move	2138.5,46.0,5829.511	1.5
 13.2	ArmorStand	robotE	Despawn
 #PartFall
-3.5	Block	0	-29,68,746
-3.5	Block	163:0	-29,67,746
+3.5	Block	0	2137,47,5827
+3.5	Block	163:0	2137,46,5827
 #C3POMove
 0.5	ArmorStand	c3po2	Position	HEAD	-10,0,0	0.6
 1	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
@@ -104,29 +104,29 @@ ArmorStand	pickthrow	true	0;0;0;0
 17	ArmorStand	c3po2	Position	HEAD	10,0,0	0.6
 17.5	ArmorStand	c3po2	Position	HEAD	0,0,0	0.6
 #CloseDoors
-17	Block	35:8	-31,68,750
-17	Block	48	-32,68,749
-17	Block	35:8	-33,68,748
-18	Block	48	-31,69,750
-18	Block	35:8	-32,69,749
-18	Block	48	-33,69,748
-17	Block	0	-33,68,749
-17	Block	0	-32,68,750
+17	Block	35:8	2135,47,5831
+17	Block	48	2134,47,5830
+17	Block	35:8	2133,47,5829
+18	Block	48	2135,48,5831
+18	Block	35:8	2134,48,5830
+18	Block	48	2133,48,5829
+17	Block	0	2133,47,5830
+17	Block	0	2134,47,5831
 #Bal,RC,Honor
-16	Block	152	-33,65,738
-17	Block	152	-33,65,739
-18	Block	152	-33,65,740
+16	Block	152	2133,44,5819
+17	Block	152	2133,44,5820
+18	Block	152	2133,44,5821
 #Reset
-18.5	Block	152	-39,65,737
-18.5	Block	145:8	-29,67,746
-18.5	Block	126:4	-29,68,746
-18.5	Block	0	-31,68,749
-18.5	Block	0	-32,67,749
-20	Block	0	-31,68,750
-20	Block	0	-32,68,749
-20	Block	0	-33,68,748
-20	Block	0	-31,69,750
-20	Block	0	-32,69,749
-20	Block	0	-33,69,748
-20	Block	0	-32,68,750
-20	Block	0	-33,68,749
+18.5	Block	152	2127,44,5818
+18.5	Block	145:8	2137,46,5827
+18.5	Block	126:4	2137,47,5827
+18.5	Block	0	2135,47,5830
+18.5	Block	0	2134,46,5830
+20	Block	0	2135,47,5831
+20	Block	0	2134,47,5830
+20	Block	0	2133,47,5829
+20	Block	0	2135,48,5831
+20	Block	0	2134,48,5830
+20	Block	0	2133,48,5829
+20	Block	0	2134,47,5831
+20	Block	0	2133,47,5830

@@ -1,5 +1,5 @@
 #Show Started January 20th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -79,49 +79,49 @@ Show	Name	FLatH
 197.5	Text	&6With you!
 198.2	Text	&e&lLove is an open door!
 #Magic
-6.10	Block	152	459,88,69
-6.10	Block	1	457,88,74
-8.60	Block	1	457,88,76
-11.1	Block	1	457,88,78
-13.6	Block	1	457,88,80
-16.1	Block	0	459,88,69
-16.1	Block	0	457,88,74
-16.1	Block	0	457,88,76
-16.1	Block	0	457,88,78
-16.1	Block	0	457,88,80
-32.4	Block	152	453,88,82
-44.1	Block	152	455,88,95
+6.10	Block	152	2625,67,5150
+6.10	Block	1	2623,67,5155
+8.60	Block	1	2623,67,5157
+11.1	Block	1	2623,67,5159
+13.6	Block	1	2623,67,5161
+16.1	Block	0	2625,67,5150
+16.1	Block	0	2623,67,5155
+16.1	Block	0	2623,67,5157
+16.1	Block	0	2623,67,5159
+16.1	Block	0	2623,67,5161
+32.4	Block	152	2619,67,5163
+44.1	Block	152	2621,67,5176
 #Flurry
-65.7	Block	152	460,88,81
-107.9	Block	0	460,88,81
+65.7	Block	152	2626,67,5162
+107.9	Block	0	2626,67,5162
 #Schematics
-1	Schematic	FLatHS18.1	439	62	68	newhws	false
-2.6	Schematic	FLatHS18.2	439	62	68	newhws	false
-6.1	Schematic	FLatHS18.3	439	62	68	newhws	false
-16.1	Schematic	FLatHS18.4	439	62	68	newhws	false
-20.1	Schematic	FLatHS18.5	439	62	68	newhws	false
-21.1	Schematic	FLatHS18.6	439	62	68	newhws	false
-22.1	Schematic	FLatHS18.7	439	62	68	newhws	false
-22.7	Schematic	FLatHS18.8	439	62	68	newhws	false
-25.4	Schematic	FLatHS18.9	439	62	68	newhws	false
-28.1	Schematic	FLatHS18.10	439	62	68	newhws	false
-32.4	Schematic	FLatHS18.11	439	62	68	newhws	false
-44.1	Schematic	FLatHS18.12	439	62	68	newhws	false
-140.9	Schematic	FLatHS18.13	439	62	68	newhws	false
-141.9	Schematic	FLatHS18.14	439	62	68	newhws	false
-142.9	Schematic	FLatHS18.15	439	62	68	newhws	false
-179.1	Schematic	FLatHS18.16	439	62	68	newhws	false
-180.1	Schematic	FLatHS18.17	439	62	68	newhws	false
-181.1	Schematic	FLatHS18.18	439	62	68	newhws	false
-206	Schematic	FLatHS18.19	439	62	68	newhws	false
+1	Schematic	FLatHS18.1	2605	41	5149	newhws	false
+2.6	Schematic	FLatHS18.2	2605	41	5149	newhws	false
+6.1	Schematic	FLatHS18.3	2605	41	5149	newhws	false
+16.1	Schematic	FLatHS18.4	2605	41	5149	newhws	false
+20.1	Schematic	FLatHS18.5	2605	41	5149	newhws	false
+21.1	Schematic	FLatHS18.6	2605	41	5149	newhws	false
+22.1	Schematic	FLatHS18.7	2605	41	5149	newhws	false
+22.7	Schematic	FLatHS18.8	2605	41	5149	newhws	false
+25.4	Schematic	FLatHS18.9	2605	41	5149	newhws	false
+28.1	Schematic	FLatHS18.10	2605	41	5149	newhws	false
+32.4	Schematic	FLatHS18.11	2605	41	5149	newhws	false
+44.1	Schematic	FLatHS18.12	2605	41	5149	newhws	false
+140.9	Schematic	FLatHS18.13	2605	41	5149	newhws	false
+141.9	Schematic	FLatHS18.14	2605	41	5149	newhws	false
+142.9	Schematic	FLatHS18.15	2605	41	5149	newhws	false
+179.1	Schematic	FLatHS18.16	2605	41	5149	newhws	false
+180.1	Schematic	FLatHS18.17	2605	41	5149	newhws	false
+181.1	Schematic	FLatHS18.18	2605	41	5149	newhws	false
+206	Schematic	FLatHS18.19	2605	41	5149	newhws	false
 #DoorsToBalconyLeftStage
-44.1	Block	76	455,67,101
-140.8	Block	0	455,67,101
-206.0	Block	76	455,67,101
+44.1	Block	76	2621,46,5182
+140.8	Block	0	2621,46,5182
+206.0	Block	76	2621,46,5182
 #DoorsToBalconyLeftStage
-142.9	Block	76	455,67,67
-179.0	Block	0	455,67,67
-206.0	Block	76	455,67,67
+142.9	Block	76	2621,46,5148
+179.0	Block	0	2621,46,5148
+206.0	Block	76	2621,46,5148
 #LightsForLeftBalcony
-147.7	Block	89	455,78,100
-147.7	Block	89	455,76,100
+147.7	Block	89	2621,57,5181
+147.7	Block	89	2621,55,5181

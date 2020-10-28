@@ -12,40 +12,40 @@ ArmorStand	gmrmugsey2	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 60	AudioSync	gmrtreasure	60
 90	AudioSync	gmrtreasure	90
 #Effects
-69.3	Block	152	-244,60,329
-76.6	Block	20	-244,60,329
-58	Block	89	-235,64,334
-76.6	Block	24:2	-235,64,334
+69.3	Block	152	1922,39,5410
+76.6	Block	20	1922,39,5410
+58	Block	89	1931,43,5415
+76.6	Block	24:2	1931,43,5415
 #Mugsey
-30	ArmorStand	gmrmugsey2	Spawn	-236.5,62,330.5
-30.1	Block	152	-234,74,327
-31	Block	20	-234,74,327
-30.5	ArmorStand	gmrmugsey2	Move	-238.5,62,330.5	3.3
-33.8	ArmorStand	gmrmugsey2	Move	-240.5,62,331.5	3.3
-33.8	Block	152	-234,74,328
-35	Block	20	-234,74,328
-37.1	ArmorStand	gmrmugsey2	Move	-242.5,62,334.5	3.3
-37.1	Block	152	-234,74,329
-38	Block	20	-234,74,329
-40.4	ArmorStand	gmrmugsey2	Move	-241.5,62,337.5	3
-40.4	Block	152	-234,74,330
-41	Block	20	-234,74,330
+30	ArmorStand	gmrmugsey2	Spawn	1929.5,41,5411.5
+30.1	Block	152	1932,53,5408
+31	Block	20	1932,53,5408
+30.5	ArmorStand	gmrmugsey2	Move	1927.5,41,5411.5	3.3
+33.8	ArmorStand	gmrmugsey2	Move	1925.5,41,5412.5	3.3
+33.8	Block	152	1932,53,5409
+35	Block	20	1932,53,5409
+37.1	ArmorStand	gmrmugsey2	Move	1923.5,41,5415.5	3.3
+37.1	Block	152	1932,53,5410
+38	Block	20	1932,53,5410
+40.4	ArmorStand	gmrmugsey2	Move	1924.5,41,5418.5	3
+40.4	Block	152	1932,53,5411
+41	Block	20	1932,53,5411
 #43.9 be at stairs	-241.5,62,337.5
-43.9	Block	152	-234,74,331
-45	Block	20	-234,74,331
-44	ArmorStand	gmrmugsey2	Move	-238.5,64,338.5	5
-49	Block	152	-234,74,332
-50	Block	20	-234,74,332
-49	ArmorStand	gmrmugsey2	Move	-237.9,65,337.1	5
-54	ArmorStand	gmrmugsey2	Move	-236.5,65,335.5	6
-58	Block	152	-234,74,333
-59	Block	20	-234,74,333
-67.5	Block	152	-234,74,334
-68	Block	20	-234,74,334
+43.9	Block	152	1932,53,5412
+45	Block	20	1932,53,5412
+44	ArmorStand	gmrmugsey2	Move	1927.5,43,5419.5	5
+49	Block	152	1932,53,5413
+50	Block	20	1932,53,5413
+49	ArmorStand	gmrmugsey2	Move	1928.1,44,5418.1	5
+54	ArmorStand	gmrmugsey2	Move	1929.5,44,5416.5	6
+58	Block	152	1932,53,5414
+59	Block	20	1932,53,5414
+67.5	Block	152	1932,53,5415
+68	Block	20	1932,53,5415
 #58 be at place	-236.5,65,335.5
-69.9	ArmorStand	gmrmugsey2	Move	-235.0,65,337.0	1.3
+69.9	ArmorStand	gmrmugsey2	Move	1931.0,44,5418.0	1.3
 75	ArmorStand	gmrmugsey2	Despawn
-75	Block	152	-233,75,336
+75	Block	152	1933,54,5417
 #Give the weapon as well
 30.4	ArmorStand	gmrmugsey2	Position	ARM_RIGHT	180,0,-20	0.3
 30.5	ArmorStand	gmrmugsey2	Position	LEG_LEFT	-25,0,0	0.4
@@ -131,12 +131,12 @@ ArmorStand	gmrmugsey2	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 67.3	ArmorStand	gmrmugsey2	Position	HEAD	-16,0,1	1.3
 68.8	ArmorStand	gmrmugsey2	Position	HEAD	26,0,1	0.6
 #Not guide {Pose:{Head:[15.0f,0.0f,0.0f],LeftArm:[-25f,0f,20f],RightArm:[-25f,0f,-20f]}}
-0	ArmorStand	gmrnotguide	Spawn	-235.5,65,334.5
-0.5	Block	152	-244,60,332
-1	Block	20	-244,60,332
-71.1	ArmorStand	gmrnotguide	Move	-235.5,65,336.5	1.8
+0	ArmorStand	gmrnotguide	Spawn	1930.5,44,5415.5
+0.5	Block	152	1922,39,5413
+1	Block	20	1922,39,5413
+71.1	ArmorStand	gmrnotguide	Move	1930.5,44,5417.5	1.8
 76.6	ArmorStand	gmrnotguide	Despawn
-76.6	Block	152	-233,75,337
+76.6	Block	152	1933,54,5418
 57.8	ArmorStand	gmrnotguide	Position	ARM_RIGHT	-95,50,0	0.5
 61.1	ArmorStand	gmrnotguide	Position	ARM_LEFT	-135,-50,0	1.6
 64.3	ArmorStand	gmrnotguide	Position	ARM_RIGHT	-65,100,0	1.2
@@ -144,34 +144,34 @@ ArmorStand	gmrmugsey2	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 66.3	ArmorStand	gmrnotguide	Position	ARM_RIGHT	-25,0,-20	1.2
 66.3	ArmorStand	gmrnotguide	Position	ARM_LEFT	-25,0,20	1.2
 #Guide
-76.2	ArmorStand	gmrguide3	Spawn	-236.5,65,335.5
-76.3	Block	152	-237,74,327
-77	Block	20	-237,74,327
-76.6	ArmorStand	gmrguide3	Move	-236.5,65,334.5	0.4
-76.6	Block	152	-237,74,327
-77	Block	20	-237,74,327
-78.1	ArmorStand	gmrguide3	Move	-233.5,65,334.5	1.4
-78.1	Block	152	-237,74,328
-79	Block	20	-237,74,328
-79.5	ArmorStand	gmrguide3	Move	-233.5,64,332.5	0.7
-79.5	Block	152	-237,74,327
-80	Block	20	-237,74,327
-80.2	ArmorStand	gmrguide3	Move	-232.5,63.5,332.5	0.7
-80.2	Block	152	-237,74,328
-81	Block	20	-237,74,328
-80.9	ArmorStand	gmrguide3	Move	-232.5,63,331.5	0.7
-80.9	Block	152	-237,74,327
-82	Block	20	-237,74,327
-81.6	ArmorStand	gmrguide3	Move	-234.5,62,330.5	1.4
-81.6	Block	152	-237,74,330
-82	Block	20	-237,74,330
-82.3	ArmorStand	gmrguide3	Move	-236.5,62,330.5	2.1
-82.3	Block	152	-237,74,329
-83	Block	20	-237,74,329
-84.1	Block	152	-237,74,331
-85	Block	20	-237,74,331
-86.5	Block	152	-237,74,328
-87	Block	20	-237,74,328
+76.2	ArmorStand	gmrguide3	Spawn	1929.5,44,5416.5
+76.3	Block	152	1929,53,5408
+77	Block	20	1929,53,5408
+76.6	ArmorStand	gmrguide3	Move	1929.5,44,5415.5	0.4
+76.6	Block	152	1929,53,5408
+77	Block	20	1929,53,5408
+78.1	ArmorStand	gmrguide3	Move	1932.5,44,5415.5	1.4
+78.1	Block	152	1929,53,5409
+79	Block	20	1929,53,5409
+79.5	ArmorStand	gmrguide3	Move	1932.5,43,5413.5	0.7
+79.5	Block	152	1929,53,5408
+80	Block	20	1929,53,5408
+80.2	ArmorStand	gmrguide3	Move	1933.5,42.5,5413.5	0.7
+80.2	Block	152	1929,53,5409
+81	Block	20	1929,53,5409
+80.9	ArmorStand	gmrguide3	Move	1933.5,42,5412.5	0.7
+80.9	Block	152	1929,53,5408
+82	Block	20	1929,53,5408
+81.6	ArmorStand	gmrguide3	Move	1931.5,41,5411.5	1.4
+81.6	Block	152	1929,53,5411
+82	Block	20	1929,53,5411
+82.3	ArmorStand	gmrguide3	Move	1929.5,41,5411.5	2.1
+82.3	Block	152	1929,53,5410
+83	Block	20	1929,53,5410
+84.1	Block	152	1929,53,5412
+85	Block	20	1929,53,5412
+86.5	Block	152	1929,53,5409
+87	Block	20	1929,53,5409
 #85.7
 77	ArmorStand	gmrguide3	Position	ARM_LEFT	-135,300,16	1.4
 77	ArmorStand	gmrguide3	Position	ARM_RIGHT	299,44,21	1.4
@@ -184,7 +184,7 @@ ArmorStand	gmrmugsey2	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 85.3	ArmorStand	gmrguide3	Position	HEAD	-3,0,10	0.5
 85.8	ArmorStand	gmrguide3	Position	HEAD	-3,0,0	0.5
 88.8	ArmorStand	gmrguide3	Despawn
-88.8	Block	152	-236,75,337
+88.8	Block	152	1930,54,5418
 78.1	ArmorStand	gmrguide3	Position	Body	4,0,1	0.3
 78.1	ArmorStand	gmrguide3	Position	LEG_LEFT	10,0,0	0.3
 78.1	ArmorStand	gmrguide3	Position	LEG_RIGHT	-35,0,0	0.3

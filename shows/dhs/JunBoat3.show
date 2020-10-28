@@ -4,25 +4,25 @@ Show	Name	Fantasmic
 0	AudioStart	fant
 1	AudioSync	fant	262.9
 #TrainSpawn
-0	Block	152	-10,59,-278
-1	Block	20	-10,59,-278
-0	Block	152	5,59,-237
-1	Block	20	5,59,-237
+0	Block	152	2156,38,4803
+1	Block	20	2156,38,4803
+0	Block	152	2171,38,4844
+1	Block	20	2171,38,4844
 #Boat1Move
-19.15	Block	152	-13,59,-281
-21.15	Block	20	-13,59,-281
+19.15	Block	152	2153,38,4800
+21.15	Block	20	2153,38,4800
 #Boat2Move
-25	Block	152	-7,59,-275
-27	Block	20	-7,59,-275
+25	Block	152	2159,38,4806
+27	Block	20	2159,38,4806
 #Boat1NpcTest
-19.45	Block	152	-81,52,-231
-25.3	Block	152	-83,52,-234
+19.45	Block	152	2085,31,4850
+25.3	Block	152	2083,31,4847
 #Boat3Move(Rafiki)
-22	Block	152	8,59,-234
-24	Block	20	8,59,-234
-22.3	Block	152	-83,52,-237
+22	Block	152	2174,38,4847
+24	Block	20	2174,38,4847
+22.3	Block	152	2083,31,4844
 #BoatRemove
-130	Block	152	4,61,-240
-131	Block	20	4,61,-240
-130	Block	152	-13,57,-275
-131	Block	20	-13,57,-275
+130	Block	152	2170,40,4841
+131	Block	20	2170,40,4841
+130	Block	152	2153,36,4806
+131	Block	20	2153,36,4806

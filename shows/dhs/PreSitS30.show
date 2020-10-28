@@ -1,28 +1,28 @@
-Show	Location	-217,65,216
+Show	Location	1949,44,5297
 Show	TextRadius	250
 Show	Name	CT
 #Audio control Later
 #Chatmute/Show start
-1785	Block	152	-218,56,218
-1786	Block	20	-218,56,218
-1800	Block	152	-220,56,218
-1801	Block	20	-220,56,218
+1785	Block	152	1948,35,5299
+1786	Block	20	1948,35,5299
+1800	Block	152	1946,35,5299
+1801	Block	20	1946,35,5299
 #Time system
-0	Block	152	-224,56,222
-1	Block	20	-224,56,222
-0	Block	152	-222,56,222
-1	Block	20	-222,56,222
-300	Block	152	-221,56,222
-301	Block	20	-221,56,222
-900	Block	152	-223,56,222
-901	Block	20	-223,56,222
-900	Block	152	-220,56,222
-901	Block	20	-220,56,222
+0	Block	152	1942,35,5303
+1	Block	20	1942,35,5303
+0	Block	152	1944,35,5303
+1	Block	20	1944,35,5303
+300	Block	152	1945,35,5303
+301	Block	20	1945,35,5303
+900	Block	152	1943,35,5303
+901	Block	20	1943,35,5303
+900	Block	152	1946,35,5303
+901	Block	20	1946,35,5303
 #VIP
-900	Block	152	-224,60,229
+900	Block	152	1942,39,5310
 #899	Schematic	ctvip	-215	65	214	dhs	false
-899	Block	152	-241,5,202
-900	Block	1	-241,5,202
+899	Block	152	1925,-16,5283
+900	Block	1	1925,-16,5283
 #Text
 0	Text	&eLadies and Gentlemen boys and girls, in just &930 Minutes&e, &dThe Palace Network &ewill proudly present &cSymphony in the Stars: &bA Galactic Spectacular &eat &d/warp CT!
 300	Text	&eLadies and Gentlemen boys and girls, in just &925 Minutes&e, &dThe Palace Network &ewill proudly present &cSymphony in the Stars: &bA Galactic Spectacular &eat &d/warp CT!
@@ -63,10 +63,10 @@ Show	Name	CT
 1785	Text	&6During &cSymphony in the Stars&6, the chat will be disabled park-wide.  We will re-enable it after the show.
 1790	Text	&6Hear the Show music with &dPalace's &6Audio Server just type &a/audio
 #/b
-870	Block	152	-224,56,218
-1170	Block	152	-223,56,218
-1470	Block	152	-222,56,218
-1650	Block	152	-221,56,218
+870	Block	152	1942,35,5299
+1170	Block	152	1943,35,5299
+1470	Block	152	1944,35,5299
+1650	Block	152	1945,35,5299
 #Fences of no one really cares
 #1200	Block	152	-222,62,220
 #1201	Block	155	-222,62,220

@@ -10,56 +10,56 @@ Show	Name	rrctour
 #Placing Blocks6#
 
 ## Start Pressure Plates ##
-0	Block	70	-365,50,-100
-0	Block	70	-364,50,-100
-0	Block	70	-363,50,-100
-0	Block	70	-365,50,-101
-0	Block	70	-364,50,-101
-0	Block	70	-363,50,-101
-0	Block	70	-365,50,-102
-0	Block	70	-364,50,-102
-0	Block	70	-363,50,-102
+0	Block	70	1801,29,4981
+0	Block	70	1802,29,4981
+0	Block	70	1803,29,4981
+0	Block	70	1801,29,4980
+0	Block	70	1802,29,4980
+0	Block	70	1803,29,4980
+0	Block	70	1801,29,4979
+0	Block	70	1802,29,4979
+0	Block	70	1803,29,4979
 
 ## Tour 1 Pressure Plates ##
-1	Block	70	-277,55,-86
-1	Block	70	-277,55,-85
-1	Block	70	-278,55,-86
-1	Block	70	-278,55,-85
+1	Block	70	1889,34,4995
+1	Block	70	1889,34,4996
+1	Block	70	1888,34,4995
+1	Block	70	1888,34,4996
 
 ## Tour 2 Pressure Plates ##
-2	Block	70	-301,58,-55
-2	Block	70	-301,58,-56
-2	Block	70	-302,58,-55
-2	Block	70	-302,58,-56
+2	Block	70	1865,37,5026
+2	Block	70	1865,37,5025
+2	Block	70	1864,37,5026
+2	Block	70	1864,37,5025
 
 ## End Pressure Plates ##
-3	Block	70	-420,61,-83
-3	Block	70	-420,61,-84
+3	Block	70	1746,40,4998
+3	Block	70	1746,40,4997
 
 ## Removing Barrier Blocks ##
-3	Block	0	-360,51,-101
+3	Block	0	1806,30,4980
 
 ## Remove Red Wool at RRCTour3 ##
-4	Block	0	-365,62,-103
-4	Block	0	-365,62,-104
-4	Block	0	-365,61,-103
-4	Block	0	-365,61,-104
+4	Block	0	1801,41,4978
+4	Block	0	1801,41,4977
+4	Block	0	1801,40,4978
+4	Block	0	1801,40,4977
 
 ## Freeze Queues ##
-5	Block	152	-346,51,-111
-5	Block	152	-345,51,-111
+5	Block	152	1820,30,4970
+5	Block	152	1821,30,4970
 
 ## /ac ##
-10	Block	152	-341,51,-111
+10	Block	152	1825,30,4970
 
 ## Announcements ##
 #10 Minute
-0	Block	152	-342,51,-111
+0	Block	152	1824,30,4970
 #5 Minute
-300	Block	152	-343,51,-111
+300	Block	152	1823,30,4970
 
 ## Start Tour ##
-630	Block	152	-339,51,-106
+630	Block	152	1827,30,4975
 
 ### Audio ###
 180	AudioStart	RRCTourPre

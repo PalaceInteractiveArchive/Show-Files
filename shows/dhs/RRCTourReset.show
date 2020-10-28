@@ -10,54 +10,54 @@ Show	Name	rrctour
 #Placing Blocks6#
 
 ## Start Pressure Plates ##
-0	Block	0	-365,50,-100
-0	Block	0	-364,50,-100
-0	Block	0	-363,50,-100
-0	Block	0	-365,50,-101
-0	Block	0	-364,50,-101
-0	Block	0	-363,50,-101
-0	Block	0	-365,50,-102
-0	Block	0	-364,50,-102
-0	Block	0	-363,50,-102
+0	Block	0	1801,29,4981
+0	Block	0	1802,29,4981
+0	Block	0	1803,29,4981
+0	Block	0	1801,29,4980
+0	Block	0	1802,29,4980
+0	Block	0	1803,29,4980
+0	Block	0	1801,29,4979
+0	Block	0	1802,29,4979
+0	Block	0	1803,29,4979
 
 ## Tour 1 Pressure Plates ##
-1	Block	0	-277,55,-86
-1	Block	0	-277,55,-85
-1	Block	0	-278,55,-86
-1	Block	0	-278,55,-85
+1	Block	0	1889,34,4995
+1	Block	0	1889,34,4996
+1	Block	0	1888,34,4995
+1	Block	0	1888,34,4996
 
 ## Tour 2 Pressure Plates ##
-2	Block	0	-301,58,-55
-2	Block	0	-301,58,-56
-2	Block	0	-302,58,-55
-2	Block	0	-302,58,-56
+2	Block	0	1865,37,5026
+2	Block	0	1865,37,5025
+2	Block	0	1864,37,5026
+2	Block	0	1864,37,5025
 
 ## End Pressure Plates ##
-3	Block	0	-420,61,-83
-3	Block	0	-420,61,-84
+3	Block	0	1746,40,4998
+3	Block	0	1746,40,4997
 
 ## Replace Barrier Blocks ##
-3	Block	166	-360,51,-101
+3	Block	166	1806,30,4980
 3   Block   166 -279,56,-86
 3   Block   166 -279,56,-85
 3   Block   166 -301,59,-57
 3   Block   166 -302,59,-57
 
 ## Replace Red Wool at RRCTour3 ##
-4	Block	35:14	-365,62,-103
-4	Block	35:14	-365,62,-104
-4	Block	35:14	-365,61,-103
-4	Block	35:14	-365,61,-104
+4	Block	35:14	1801,41,4978
+4	Block	35:14	1801,41,4977
+4	Block	35:14	1801,40,4978
+4	Block	35:14	1801,40,4977
 
 ## Un-Freeze Queues ##
-5	Block	152	-346,51,-111
-5	Block	152	-345,51,-111
+5	Block	152	1820,30,4970
+5	Block	152	1821,30,4970
 
 ## Turn off lights in Tour 3 ##
 5   Block   152 -303,59,-69
 
 ## /ac Reset ##
-10	Block	152	-340,51,-111
+10	Block	152	1826,30,4970
 
 ## Close Tour 3 Exit Doors ##
 5   Block   20  -414,57,-81
@@ -66,5 +66,5 @@ Show	Name	rrctour
 0   Block   160:14  -358,53,-101
 
 ## Replace Lift Door ##
-0	Block	42	-359,51,-101
-0	Block	42	-359,50,-101
+0	Block	42	1807,30,4980
+0	Block	42	1807,29,4980

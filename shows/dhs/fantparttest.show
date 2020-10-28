@@ -1,10 +1,10 @@
-Show	Location	-32,70,-248
+Show	Location	2134,49,4833
 Show	TextRadius	150
 
 0	Sequence	Particle	something
-93.7	Particle	fireworksSpark	-21,68.85,-251	1	1	1	0.1	500
-1628	Particle	fireworksSpark	-21,68.85,-251	1	1	1	0.1	500
-931.3	Particle	mobSpell	-24,68.5,-250	0.1	0.691	0.1	0.01	125
-933	Particle	mobSpell	-24,68.5,-250	0.1	0.691	0.1	0.01	125
-935.5	Particle	mobSpell	-24,68.5,-250	0.1	0.691	0.1	0.01	125
-937.8	Particle	mobSpell	-24,68.5,-250	0.1	0.691	0.1	0.01	125
+93.7	Particle	fireworksSpark	2145,47.849999999999994,4830	1	1	1	0.1	500
+1628	Particle	fireworksSpark	2145,47.849999999999994,4830	1	1	1	0.1	500
+931.3	Particle	mobSpell	2142,47.5,4831	0.1	0.691	0.1	0.01	125
+933	Particle	mobSpell	2142,47.5,4831	0.1	0.691	0.1	0.01	125
+935.5	Particle	mobSpell	2142,47.5,4831	0.1	0.691	0.1	0.01	125
+937.8	Particle	mobSpell	2142,47.5,4831	0.1	0.691	0.1	0.01	125

@@ -1,5 +1,5 @@
 #Show Started January 2nd, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -158,69 +158,69 @@ Show	Name	FLatH
 483	Text	&f[&dAnna&f] &7Can I say something even crazier?
 485.4	Text	&7Yes!
 #Schematic
-0	Schematic	FLatHS6.1	439	62	68	dlr	false
-2.3	Schematic	FLatHS6.2	439	62	68	dlr	false
-4.6	Schematic	FLatHS6.3	439	62	68	dlr	false
-6.9	Schematic	FLatHS6.4	439	62	68	dlr	false
+0	Schematic	FLatHS6.1	2605	41	5149	dlr	false
+2.3	Schematic	FLatHS6.2	2605	41	5149	dlr	false
+4.6	Schematic	FLatHS6.3	2605	41	5149	dlr	false
+6.9	Schematic	FLatHS6.4	2605	41	5149	dlr	false
 #MovePlatform
-9.20	Block	152	474,66,61
-11.5	Block	152	474,66,61
-13.8	Block	152	474,66,61
-16.1	Block	152	474,66,61
-18.4	Block	152	474,66,61
-20.7	Block	152	474,66,61
-23.0	Block	152	474,66,61
-25.3	Block	152	474,66,61
-27.6	Block	152	474,66,61
-29.9	Block	152	474,66,61
-32.2	Block	152	474,66,61
-34.5	Block	152	474,66,61
+9.20	Block	152	2640,45,5142
+11.5	Block	152	2640,45,5142
+13.8	Block	152	2640,45,5142
+16.1	Block	152	2640,45,5142
+18.4	Block	152	2640,45,5142
+20.7	Block	152	2640,45,5142
+23.0	Block	152	2640,45,5142
+25.3	Block	152	2640,45,5142
+27.6	Block	152	2640,45,5142
+29.9	Block	152	2640,45,5142
+32.2	Block	152	2640,45,5142
+34.5	Block	152	2640,45,5142
 #Backwards
-201	Block	152	476,66,64
-202	Block	152	476,66,64
-203	Block	152	476,66,64
-204	Block	152	476,66,64
-205	Block	152	476,66,64
-206	Block	152	476,66,64
-207	Block	152	476,66,64
-208	Block	152	476,66,64
-209	Block	152	476,66,64
-210	Block	152	476,66,64
-211	Block	152	476,66,64
-212	Block	152	476,66,64
+201	Block	152	2642,45,5145
+202	Block	152	2642,45,5145
+203	Block	152	2642,45,5145
+204	Block	152	2642,45,5145
+205	Block	152	2642,45,5145
+206	Block	152	2642,45,5145
+207	Block	152	2642,45,5145
+208	Block	152	2642,45,5145
+209	Block	152	2642,45,5145
+210	Block	152	2642,45,5145
+211	Block	152	2642,45,5145
+212	Block	152	2642,45,5145
 #MoveBackwardsPlayer
-201	Block	152	471,66,62
-202	Block	152	471,66,62
-203	Block	152	471,66,62
-204	Block	152	471,66,62
-205	Block	152	471,66,62
-206	Block	152	471,66,62
-207	Block	152	471,66,62
-208	Block	152	471,66,62
+201	Block	152	2637,45,5143
+202	Block	152	2637,45,5143
+203	Block	152	2637,45,5143
+204	Block	152	2637,45,5143
+205	Block	152	2637,45,5143
+206	Block	152	2637,45,5143
+207	Block	152	2637,45,5143
+208	Block	152	2637,45,5143
 #Schematic
-36.8	Schematic	FLatHS6.5	439	62	68	dlr	false
-39.1	Schematic	FLatHS6.6	439	62	68	dlr	false
-41.4	Schematic	FLatHS6.7	439	62	68	dlr	false
-78.7	Schematic	FLatHS6.8	439	62	68	dlr	false
-81	Schematic	FLatHS6.9	439	62	68	dlr	false
-83.3	Schematic	FLatHS6.10	439	62	68	dlr	false
-197	Schematic	FLatHS6.11	439	62	68	dlr	false
-318.9	Schematic	FLatHS6.12	439	62	68	dlr	false
-198	Block	152	477,66,57
-199	Block	152	477,66,58
-200	Block	152	477,66,59
+36.8	Schematic	FLatHS6.5	2605	41	5149	dlr	false
+39.1	Schematic	FLatHS6.6	2605	41	5149	dlr	false
+41.4	Schematic	FLatHS6.7	2605	41	5149	dlr	false
+78.7	Schematic	FLatHS6.8	2605	41	5149	dlr	false
+81	Schematic	FLatHS6.9	2605	41	5149	dlr	false
+83.3	Schematic	FLatHS6.10	2605	41	5149	dlr	false
+197	Schematic	FLatHS6.11	2605	41	5149	dlr	false
+318.9	Schematic	FLatHS6.12	2605	41	5149	dlr	false
+198	Block	152	2643,45,5138
+199	Block	152	2643,45,5139
+200	Block	152	2643,45,5140
 #SpawnPlatformArmorStand
-0	Block	152	472,66,62
+0	Block	152	2638,45,5143
 #KillPlatformArmorStand
-78.7	Block	152	473,66,62
+78.7	Block	152	2639,45,5143
 #CloneProjectorsToClose
-213	Block	152	471,66,61
-214	Block	152	472,66,61
-215	Block	152	473,66,61
+213	Block	152	2637,45,5142
+214	Block	152	2638,45,5142
+215	Block	152	2639,45,5142
 #KillPlatform
-216	Block	152	473,66,64
+216	Block	152	2639,45,5145
 #SpawnPlatform
-0	Block	152	474,66,62
+0	Block	152	2640,45,5143
 #ItemFrame
 #39.1	Block	152	-139,90,-292
 #39.1	Block	152	-138,90,-292

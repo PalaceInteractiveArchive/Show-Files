@@ -3,34 +3,34 @@ Show	TextRadius	10
 Show	Name	GateF
 0	AudioStart	stpref
 #Reset
-0	Block	152	-16,60,441
+0	Block	152	2150,39,5522
 #Pixels
-0	Block	152	-27,54,428
-11	Block	152	-27,54,427
-19.5	Block	152	-27,54,426
-27	Block	152	-27,54,425
-30.3	Block	152	-27,54,424
-44	Block	152	-27,54,423
-52	Block	152	-27,54,422
-55	Block	152	-27,54,421
-59	Block	152	-27,54,420
-84	Block	152	-27,54,419
-87	Block	152	-27,54,418
-92	Block	152	-27,54,417
-100	Block	152	-27,54,416
-106	Block	152	-27,54,415
-110	Block	152	-27,54,414
-113.5	Block	152	-27,54,413
-120.5	Block	152	-27,54,412
-149	Block	152	-27,54,411
-153	Block	152	-27,54,410
-156	Block	152	-27,54,409
-160	Block	152	-27,54,408
-162	Block	152	-21,60,435
+0	Block	152	2139,33,5509
+11	Block	152	2139,33,5508
+19.5	Block	152	2139,33,5507
+27	Block	152	2139,33,5506
+30.3	Block	152	2139,33,5505
+44	Block	152	2139,33,5504
+52	Block	152	2139,33,5503
+55	Block	152	2139,33,5502
+59	Block	152	2139,33,5501
+84	Block	152	2139,33,5500
+87	Block	152	2139,33,5499
+92	Block	152	2139,33,5498
+100	Block	152	2139,33,5497
+106	Block	152	2139,33,5496
+110	Block	152	2139,33,5495
+113.5	Block	152	2139,33,5494
+120.5	Block	152	2139,33,5493
+149	Block	152	2139,33,5492
+153	Block	152	2139,33,5491
+156	Block	152	2139,33,5490
+160	Block	152	2139,33,5489
+162	Block	152	2145,39,5516
 #StartRide
-165	Block	152	-19,60,436
+165	Block	152	2147,39,5517
 #Reset
-164.5	Block	152	-16,60,441
+164.5	Block	152	2150,39,5522
 #Text
 0	Text	&f[&6C3PO&f]	&9R2D2&e, thank goodness I caught you. I just received word that the captain is having some sort of technical problem.
 5	Text	&f[&9R2D2&f]	&b(Beeps)

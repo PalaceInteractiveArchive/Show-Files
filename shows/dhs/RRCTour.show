@@ -19,13 +19,13 @@ Show	Name	rrctour
 
 ### Blocks ###
 #Placing Blocks:
-24.2	Block	160:13	-358,53,-101
-26.4	Block	0	-359,51,-101
-26.4	Block	0	-359,50,-101
+24.2	Block	160:13	1808,32,4980
+26.4	Block	0	1807,30,4980
+26.4	Block	0	1807,29,4980
 
 
 ## Start Next Tour 1 ##
-35	Block	152	-339,51,-105
+35	Block	152	1827,30,4976
 
 
 ### Audio ###

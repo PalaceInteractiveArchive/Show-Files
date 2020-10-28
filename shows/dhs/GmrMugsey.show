@@ -9,28 +9,28 @@ ArmorStand	gmrmugsey1	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 10	AudioSync	gmrmugsey	10
 30	AudioSync	gmrmugsey	30
 60	AudioSync	gmrmugsey	60
-6.4	Block	152	-248,62,331
-7	Block	20	-248,62,331
-57.8	Block	152	-248,64,331
-58.3	Block	20	-248,64,331
-0	Block	95:15	-256,64,320
-0	Block	95:15	-256,64,321
-0	Block	95:15	-255,64,320
-0	Block	95:15	-255,64,321
-47	Block	20	-256,64,320
-47	Block	20	-256,64,321
-47	Block	20	-255,64,320
-47	Block	20	-255,64,321
-69.5	Block	95:15	-256,64,320
-69.5	Block	95:15	-256,64,321
-69.5	Block	95:15	-255,64,320
-69.5	Block	95:15	-255,64,321
-52.3	Block	152	-246,60,325
-69.5	Block	20	-246,60,325
-12	ArmorStand	gmrguide2	Spawn	-252.5,62.0,324.5
+6.4	Block	152	1918,41,5412
+7	Block	20	1918,41,5412
+57.8	Block	152	1918,43,5412
+58.3	Block	20	1918,43,5412
+0	Block	95:15	1910,43,5401
+0	Block	95:15	1910,43,5402
+0	Block	95:15	1911,43,5401
+0	Block	95:15	1911,43,5402
+47	Block	20	1910,43,5401
+47	Block	20	1910,43,5402
+47	Block	20	1911,43,5401
+47	Block	20	1911,43,5402
+69.5	Block	95:15	1910,43,5401
+69.5	Block	95:15	1910,43,5402
+69.5	Block	95:15	1911,43,5401
+69.5	Block	95:15	1911,43,5402
+52.3	Block	152	1920,39,5406
+69.5	Block	20	1920,39,5406
+12	ArmorStand	gmrguide2	Spawn	1913.5,41.0,5405.5
 #entitydata @e[type=ArmorStand,c=1,r=5] {Pose:{Body:[0.0f,0.0f,0.0f],RightLeg:[-5.0f,0.0f,0.0f],LeftLeg:[0.0f,0.0f,0.0f],RightArm:[-85.0f,-35.0f,-10.0f],LeftArm:[-15.0f,0.0f,-20.0f],Head:[-3.0f,0.0f,0.0f]}}
-12.05	Block	152	-252,60,324
-13	Block	20	-252,60,324
+12.05	Block	152	1914,39,5405
+13	Block	20	1914,39,5405
 13.7	ArmorStand	gmrguide2	Position	ARM_LEFT	-105,-90,0	1.4
 14.3	ArmorStand	gmrguide2	Position	HEAD	-3,0,10	0.5
 14.8	ArmorStand	gmrguide2	Position	HEAD	-3,0,0	0.5
@@ -144,29 +144,29 @@ ArmorStand	gmrmugsey1	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 54.2	ArmorStand	gmrguide2	Despawn
 #12.3	ArmorStand	gmrguide2	Rotate	-102	0.7
 #15.2	ArmorStand	gmrguide2	Rotate	-134	1.2
-15.2	Block	152	-252,59,322
-15.6	Block	20	-252,59,322
+15.2	Block	152	1914,38,5403
+15.6	Block	20	1914,38,5403
 #18	ArmorStand	gmrguide2	Rotate	-172	0.8
-18	Block	152	-251,59,322
-19	Block	20	-251,59,322
+18	Block	152	1915,38,5403
+19	Block	20	1915,38,5403
 #24	ArmorStand	gmrguide2	Rotate	172	0.8
-24	Block	152	-252,59,322
-25	Block	20	-252,59,322
+24	Block	152	1914,38,5403
+25	Block	20	1914,38,5403
 #27	ArmorStand	gmrguide2	Rotate	146	1
-27	Block	152	-250,59,322
-28	Block	20	-250,59,322
-30.1	ArmorStand	gmrguide2	Move	-245,62,324	3.8
+27	Block	152	1916,38,5403
+28	Block	20	1916,38,5403
+30.1	ArmorStand	gmrguide2	Move	1921,41,5405	3.8
 #33.7	ArmorStand	gmrguide2	Rotate	45	0.5
-33.7	Block	152	-251,59,322
-34	Block	20	-251,59,322
-33.9	ArmorStand	gmrguide2	Move	-243,63,325	2
+33.7	Block	152	1915,38,5403
+34	Block	20	1915,38,5403
+33.9	ArmorStand	gmrguide2	Move	1923,42,5406	2
 #35.6	ArmorStand	gmrguide2	Rotate	-185	1
-35.6	Block	152	-249,59,322
-36	Block	20	-249,59,322
+35.6	Block	152	1917,38,5403
+36	Block	20	1917,38,5403
 #51.5	ArmorStand	gmrguide2	Rotate	-188	0.6
-50.5	Block	152	-248,59,322
-51	Block	20	-248,59,322
-50.9	ArmorStand	gmrguide2	Move	-244,63,329	2
+50.5	Block	152	1918,38,5403
+51	Block	20	1918,38,5403
+50.9	ArmorStand	gmrguide2	Move	1922,42,5410	2
 #Mugsey
 0.5	ArmorStand	gmrmugsey1	Position	HEAD	0,0,1	0.6
 0.5	ArmorStand	gmrmugsey1	Position	ARM_LEFT	-15,0,-16	0.6
@@ -230,124 +230,124 @@ ArmorStand	gmrmugsey1	false	skull:eyJ0aW1lc3RhbXAiOjE0Njc2NjgzNTk1MTUsInByb2ZpbG
 56.8	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	120,0,0	0.8
 58.5	ArmorStand	gmrmugsey1	Position	ARM_RIGHT	180,0,-20	1
 #Mugsey
-1	Block	152	-253,58,322
-2	Block	20	-253,58,322
-1	Block	152	-248,61,327
-2	Block	35:7	-248,61,327
-0	ArmorStand	gmrmugsey1	Spawn	-244.5,65,329.5
-16.1	ArmorStand	gmrmugsey1	Move	-246.5,65,329.5	3.9
-24.2	Block	152	-252,58,322
-25	Block	20	-252,58,322
-24.2	ArmorStand	gmrmugsey1	Move	-248.2,65,329.5	3.6
-27.8	Block	152	-251,58,322
-29	Block	20	-251,58,322
-27.8	ArmorStand	gmrmugsey1	Move	-248.2,65,327.5	2
-29.8	Block	152	-251,58,322
-31	Block	20	-251,58,322
-29.8	ArmorStand	gmrmugsey1	Move	-248.5,63,325.5	2.6
-49.4	Block	152	-252,58,322
-50	Block	20	-252,58,322
-49.4	ArmorStand	gmrmugsey1	Move	-249.5,63,325.5	0.6
-50	ArmorStand	gmrmugsey1	Move	-250.5,62,325.5	0.6
-50.6	ArmorStand	gmrmugsey1	Move	-252.5,62,324.5	1.4
-52.6	Block	152	-250,58,322
-53	Block	20	-250,58,322
-60.1	Block	152	-252,58,322
-61	Block	20	-252,58,322
+1	Block	152	1913,37,5403
+2	Block	20	1913,37,5403
+1	Block	152	1918,40,5408
+2	Block	35:7	1918,40,5408
+0	ArmorStand	gmrmugsey1	Spawn	1921.5,44,5410.5
+16.1	ArmorStand	gmrmugsey1	Move	1919.5,44,5410.5	3.9
+24.2	Block	152	1914,37,5403
+25	Block	20	1914,37,5403
+24.2	ArmorStand	gmrmugsey1	Move	1917.8,44,5410.5	3.6
+27.8	Block	152	1915,37,5403
+29	Block	20	1915,37,5403
+27.8	ArmorStand	gmrmugsey1	Move	1917.8,44,5408.5	2
+29.8	Block	152	1915,37,5403
+31	Block	20	1915,37,5403
+29.8	ArmorStand	gmrmugsey1	Move	1917.5,42,5406.5	2.6
+49.4	Block	152	1914,37,5403
+50	Block	20	1914,37,5403
+49.4	ArmorStand	gmrmugsey1	Move	1916.5,42,5406.5	0.6
+50	ArmorStand	gmrmugsey1	Move	1915.5,41,5406.5	0.6
+50.6	ArmorStand	gmrmugsey1	Move	1913.5,41,5405.5	1.4
+52.6	Block	152	1916,37,5403
+53	Block	20	1916,37,5403
+60.1	Block	152	1914,37,5403
+61	Block	20	1914,37,5403
 61.1	ArmorStand	gmrmugsey1	Despawn
 #Gangsters
-0	Block	152	-247,58,322
-2.9	Block	152	-248,58,322
-6.3	Block	152	-247,58,322
-10.4	Block	152	-248,58,322
-38.1	Block	152	-247,58,322
-49	Block	152	-248,58,322
-52.4	Block	152	-247,58,322
-55.7	Block	152	-248,58,322
-1	Block	20	-247,58,322
-3.9	Block	20	-248,58,322
-7.3	Block	20	-247,58,322
-11.4	Block	20	-248,58,322
-39.1	Block	20	-247,58,322
-50	Block	20	-248,58,322
-53.4	Block	20	-247,58,322
-56.7	Block	20	-248,58,322
+0	Block	152	1919,37,5403
+2.9	Block	152	1918,37,5403
+6.3	Block	152	1919,37,5403
+10.4	Block	152	1918,37,5403
+38.1	Block	152	1919,37,5403
+49	Block	152	1918,37,5403
+52.4	Block	152	1919,37,5403
+55.7	Block	152	1918,37,5403
+1	Block	20	1919,37,5403
+3.9	Block	20	1918,37,5403
+7.3	Block	20	1919,37,5403
+11.4	Block	20	1918,37,5403
+39.1	Block	20	1919,37,5403
+50	Block	20	1918,37,5403
+53.4	Block	20	1919,37,5403
+56.7	Block	20	1918,37,5403
 #LIGHTS
-0	Block	20	-256,63,318
-52.7	Block	152	-256,63,318
-53.1	Block	152	-256,63,318
-53.5	Block	152	-256,63,318
-53.9	Block	152	-256,63,318
-54.3	Block	152	-256,63,318
-54.7	Block	152	-256,63,318
-55.1	Block	152	-256,63,318
-55.5	Block	152	-256,63,318
-55.9	Block	152	-256,63,318
-56.3	Block	152	-256,63,318
-56.7	Block	152	-256,63,318
-57.1	Block	152	-256,63,318
-57.5	Block	152	-256,63,318
-57.9	Block	152	-256,63,318
-58.3	Block	152	-256,63,318
-58.7	Block	152	-256,63,318
-59.1	Block	152	-256,63,318
-59.5	Block	152	-256,63,318
-59.9	Block	152	-256,63,318
-60.3	Block	152	-256,63,318
-60.7	Block	152	-256,63,318
-61.1	Block	152	-256,63,318
-61.5	Block	152	-256,63,318
-61.9	Block	152	-256,63,318
-62.3	Block	152	-256,63,318
-62.7	Block	152	-256,63,318
-63.1	Block	152	-256,63,318
-63.5	Block	152	-256,63,318
-63.9	Block	152	-256,63,318
-0	Block	20	-240,62,326
-52.8	Block	152	-240,62,326
-53.3	Block	152	-240,62,326
-53.8	Block	152	-240,62,326
-54.3	Block	152	-240,62,326
-54.8	Block	152	-240,62,326
-55.3	Block	152	-240,62,326
-55.8	Block	152	-240,62,326
-56.3	Block	152	-240,62,326
-56.8	Block	152	-240,62,326
-57.3	Block	152	-240,62,326
-57.8	Block	152	-240,62,326
-58.3	Block	152	-240,62,326
-58.8	Block	152	-240,62,326
-59.3	Block	152	-240,62,326
-59.8	Block	152	-240,62,326
-60.3	Block	152	-240,62,326
-60.8	Block	152	-240,62,326
-61.3	Block	152	-240,62,326
-61.8	Block	152	-240,62,326
-62.3	Block	152	-240,62,326
-62.8	Block	152	-240,62,326
-63.3	Block	152	-240,62,326
-63.8	Block	152	-240,62,326
-0	Block	20	-246,61,328
-52.9	Block	152	-246,61,328
-53.5	Block	152	-246,61,328
-54.1	Block	152	-246,61,328
-54.7	Block	152	-246,61,328
-55.3	Block	152	-246,61,328
-55.9	Block	152	-246,61,328
-56.5	Block	152	-246,61,328
-57.1	Block	152	-246,61,328
-57.7	Block	152	-246,61,328
-58.3	Block	152	-246,61,328
-58.9	Block	152	-246,61,328
-59.5	Block	152	-246,61,328
-60.1	Block	152	-246,61,328
-60.7	Block	152	-246,61,328
-61.3	Block	152	-246,61,328
-61.9	Block	152	-246,61,328
-62.5	Block	152	-246,61,328
-63.1	Block	152	-246,61,328
-63.7	Block	152	-246,61,328
-64.3	Block	152	-246,61,328
+0	Block	20	1910,42,5399
+52.7	Block	152	1910,42,5399
+53.1	Block	152	1910,42,5399
+53.5	Block	152	1910,42,5399
+53.9	Block	152	1910,42,5399
+54.3	Block	152	1910,42,5399
+54.7	Block	152	1910,42,5399
+55.1	Block	152	1910,42,5399
+55.5	Block	152	1910,42,5399
+55.9	Block	152	1910,42,5399
+56.3	Block	152	1910,42,5399
+56.7	Block	152	1910,42,5399
+57.1	Block	152	1910,42,5399
+57.5	Block	152	1910,42,5399
+57.9	Block	152	1910,42,5399
+58.3	Block	152	1910,42,5399
+58.7	Block	152	1910,42,5399
+59.1	Block	152	1910,42,5399
+59.5	Block	152	1910,42,5399
+59.9	Block	152	1910,42,5399
+60.3	Block	152	1910,42,5399
+60.7	Block	152	1910,42,5399
+61.1	Block	152	1910,42,5399
+61.5	Block	152	1910,42,5399
+61.9	Block	152	1910,42,5399
+62.3	Block	152	1910,42,5399
+62.7	Block	152	1910,42,5399
+63.1	Block	152	1910,42,5399
+63.5	Block	152	1910,42,5399
+63.9	Block	152	1910,42,5399
+0	Block	20	1926,41,5407
+52.8	Block	152	1926,41,5407
+53.3	Block	152	1926,41,5407
+53.8	Block	152	1926,41,5407
+54.3	Block	152	1926,41,5407
+54.8	Block	152	1926,41,5407
+55.3	Block	152	1926,41,5407
+55.8	Block	152	1926,41,5407
+56.3	Block	152	1926,41,5407
+56.8	Block	152	1926,41,5407
+57.3	Block	152	1926,41,5407
+57.8	Block	152	1926,41,5407
+58.3	Block	152	1926,41,5407
+58.8	Block	152	1926,41,5407
+59.3	Block	152	1926,41,5407
+59.8	Block	152	1926,41,5407
+60.3	Block	152	1926,41,5407
+60.8	Block	152	1926,41,5407
+61.3	Block	152	1926,41,5407
+61.8	Block	152	1926,41,5407
+62.3	Block	152	1926,41,5407
+62.8	Block	152	1926,41,5407
+63.3	Block	152	1926,41,5407
+63.8	Block	152	1926,41,5407
+0	Block	20	1920,40,5409
+52.9	Block	152	1920,40,5409
+53.5	Block	152	1920,40,5409
+54.1	Block	152	1920,40,5409
+54.7	Block	152	1920,40,5409
+55.3	Block	152	1920,40,5409
+55.9	Block	152	1920,40,5409
+56.5	Block	152	1920,40,5409
+57.1	Block	152	1920,40,5409
+57.7	Block	152	1920,40,5409
+58.3	Block	152	1920,40,5409
+58.9	Block	152	1920,40,5409
+59.5	Block	152	1920,40,5409
+60.1	Block	152	1920,40,5409
+60.7	Block	152	1920,40,5409
+61.3	Block	152	1920,40,5409
+61.9	Block	152	1920,40,5409
+62.5	Block	152	1920,40,5409
+63.1	Block	152	1920,40,5409
+63.7	Block	152	1920,40,5409
+64.3	Block	152	1920,40,5409
 
 
 #AudioRG

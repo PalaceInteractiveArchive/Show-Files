@@ -1,4 +1,4 @@
-Show	Location	-1614,63,-501
+Show	Location	552,42,4580
 Show	TextRadius	10
 Show	Name	lanterns
 
@@ -63,32 +63,32 @@ ArmorStand	lantern58	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGVJZCI6IjQxNjVhMDBhYzVmZDRjOGNiNzAwODI4N2JjZGI0MGY4IiwicHJvZmlsZU5hbWUiOiJTdGFja2VkR29sZCIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNTI4ZjU4OGNjNWU0OWJiNDdhOGY5OGNlZTg1MWNlMzE4ZTZlMTFiMjY5NzU3MjYxODk5ZTc1OWNjNWY3In19fQ==;0,0,0
 
 #First
-320	ArmorStand	lantern1	spawn	-1626,61,-528
-320.1	ArmorStand	lantern1	move	-1610,102,-522	40
+320	ArmorStand	lantern1	spawn	540,40,4553
+320.1	ArmorStand	lantern1	move	556,81,4559	40
 320.1	ArmorStand	lantern1	rotate	360	40
 
 360	ArmorStand	lantern1	despawn
 
 #Second burst
-330	ArmorStand	lantern2	spawn	-1634,61,-525
-330.1	ArmorStand	lantern2	move	-1598,103,-520	40
+330	ArmorStand	lantern2	spawn	532,40,4556
+330.1	ArmorStand	lantern2	move	568,82,4561	40
 330.1	ArmorStand	lantern2	rotate	360	40
-330	ArmorStand	lantern3	spawn	-1640,61,-527
-330.1	ArmorStand	lantern3	move	-1605,106,-524	40
+330	ArmorStand	lantern3	spawn	526,40,4554
+330.1	ArmorStand	lantern3	move	561,85,4557	40
 330.1	ArmorStand	lantern3	rotate	360	40
 
 370	ArmorStand	lantern2	despawn
 370	ArmorStand	lantern3	despawn
 
 #Third burst
-340	ArmorStand	lantern4	spawn	-1626,61,-528
-340.1	ArmorStand	lantern4	move	-1610,102,-522	40
+340	ArmorStand	lantern4	spawn	540,40,4553
+340.1	ArmorStand	lantern4	move	556,81,4559	40
 340.1	ArmorStand	lantern4	rotate	360	40
-340	ArmorStand	lantern5	spawn	-1634,61,-525
-340.1	ArmorStand	lantern5	move	-1598,103,-520	40
+340	ArmorStand	lantern5	spawn	532,40,4556
+340.1	ArmorStand	lantern5	move	568,82,4561	40
 340.1	ArmorStand	lantern5	rotate	360	40
-340	ArmorStand	lantern6	spawn	-1640,61,-527
-340.1	ArmorStand	lantern6	move	-1605,106,-524	40
+340	ArmorStand	lantern6	spawn	526,40,4554
+340.1	ArmorStand	lantern6	move	561,85,4557	40
 340.1	ArmorStand	lantern6	rotate	360	40
 
 380	ArmorStand	lantern4	despawn
@@ -96,17 +96,17 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 380	ArmorStand	lantern6	despawn
 
 #Fourth burst
-350	ArmorStand	lantern7	spawn	-1626,61,-528
-350.1	ArmorStand	lantern7	move	-1610,102,-522	40
+350	ArmorStand	lantern7	spawn	540,40,4553
+350.1	ArmorStand	lantern7	move	556,81,4559	40
 350.1	ArmorStand	lantern7	rotate	360	40
-350	ArmorStand	lantern8	spawn	-1634,61,-525
-350.1	ArmorStand	lantern8	move	-1598,103,-520	40
+350	ArmorStand	lantern8	spawn	532,40,4556
+350.1	ArmorStand	lantern8	move	568,82,4561	40
 350.1	ArmorStand	lantern8	rotate	360	40
-350	ArmorStand	lantern9	spawn	-1640,61,-527
-350.1	ArmorStand	lantern9	move	-1605,106,-524	40
+350	ArmorStand	lantern9	spawn	526,40,4554
+350.1	ArmorStand	lantern9	move	561,85,4557	40
 350.1	ArmorStand	lantern9	rotate	360	40
-350	ArmorStand	lantern10	spawn	-1639,61,-522
-350.1	ArmorStand	lantern10	move	-1597,109,-514	40
+350	ArmorStand	lantern10	spawn	527,40,4559
+350.1	ArmorStand	lantern10	move	569,88,4567	40
 350.1	ArmorStand	lantern10	rotate	360	40
 
 390	ArmorStand	lantern7	despawn
@@ -115,20 +115,20 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 390	ArmorStand	lantern10	despawn
 
 #Fifth burst
-360	ArmorStand	lantern11	spawn	-1626,61,-528
-360.1	ArmorStand	lantern11	move	-1610,102,-522	40
+360	ArmorStand	lantern11	spawn	540,40,4553
+360.1	ArmorStand	lantern11	move	556,81,4559	40
 360.1	ArmorStand	lantern11	rotate	360	40
-360	ArmorStand	lantern12	spawn	-1634,61,-525
-360.1	ArmorStand	lantern12	move	-1598,103,-520	40
+360	ArmorStand	lantern12	spawn	532,40,4556
+360.1	ArmorStand	lantern12	move	568,82,4561	40
 360.1	ArmorStand	lantern12	rotate	360	40
-360	ArmorStand	lantern13	spawn	-1640,61,-527
-360.1	ArmorStand	lantern13	move	-1605,106,-524	40
+360	ArmorStand	lantern13	spawn	526,40,4554
+360.1	ArmorStand	lantern13	move	561,85,4557	40
 360.1	ArmorStand	lantern13	rotate	360	40
-360	ArmorStand	lantern14	spawn	-1639,61,-522
-360.1	ArmorStand	lantern14	move	-1597,109,-514	40
+360	ArmorStand	lantern14	spawn	527,40,4559
+360.1	ArmorStand	lantern14	move	569,88,4567	40
 360.1	ArmorStand	lantern14	rotate	360	40
-360	ArmorStand	lantern15	spawn	-1634,61,-519
-360.1	ArmorStand	lantern15	move	-1602,103,-528	40
+360	ArmorStand	lantern15	spawn	532,40,4562
+360.1	ArmorStand	lantern15	move	564,82,4553	40
 360.1	ArmorStand	lantern15	rotate	360	40
 
 400	ArmorStand	lantern11	despawn
@@ -138,23 +138,23 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 400	ArmorStand	lantern15	despawn
 
 #Sixth burst
-369	ArmorStand	lantern16	spawn	-1626,61,-528
-369.1	ArmorStand	lantern16	move	-1610,102,-522	40
+369	ArmorStand	lantern16	spawn	540,40,4553
+369.1	ArmorStand	lantern16	move	556,81,4559	40
 369.1	ArmorStand	lantern16	rotate	360	40
-369	ArmorStand	lantern17	spawn	-1634,61,-525
-369.1	ArmorStand	lantern17	move	-1598,103,-520	40
+369	ArmorStand	lantern17	spawn	532,40,4556
+369.1	ArmorStand	lantern17	move	568,82,4561	40
 369.1	ArmorStand	lantern17	rotate	360	40
-369	ArmorStand	lantern18	spawn	-1640,61,-527
-369.1	ArmorStand	lantern18	move	-1605,106,-524	40
+369	ArmorStand	lantern18	spawn	526,40,4554
+369.1	ArmorStand	lantern18	move	561,85,4557	40
 369.1	ArmorStand	lantern18	rotate	360	40
-369	ArmorStand	lantern19	spawn	-1639,61,-522
-369.1	ArmorStand	lantern19	move	-1597,109,-514	40
+369	ArmorStand	lantern19	spawn	527,40,4559
+369.1	ArmorStand	lantern19	move	569,88,4567	40
 369.1	ArmorStand	lantern19	rotate	360	40
-369	ArmorStand	lantern20	spawn	-1634,61,-519
-369.1	ArmorStand	lantern20	move	-1602,103,-528	40
+369	ArmorStand	lantern20	spawn	532,40,4562
+369.1	ArmorStand	lantern20	move	564,82,4553	40
 369.1	ArmorStand	lantern20	rotate	360	40
-369	ArmorStand	lantern21	spawn	-1643,61,-523
-369.1	ArmorStand	lantern21	move	-1601,110,-527	40
+369	ArmorStand	lantern21	spawn	523,40,4558
+369.1	ArmorStand	lantern21	move	565,89,4554	40
 369.1	ArmorStand	lantern21	rotate	360	40
 
 409	ArmorStand	lantern16	despawn
@@ -165,23 +165,23 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 409	ArmorStand	lantern21	despawn
 
 #7th burst
-377	ArmorStand	lantern22	spawn	-1626,61,-528
-377.1	ArmorStand	lantern22	move	-1610,102,-522	40
+377	ArmorStand	lantern22	spawn	540,40,4553
+377.1	ArmorStand	lantern22	move	556,81,4559	40
 377.1	ArmorStand	lantern22	rotate	360	40
-377	ArmorStand	lantern23	spawn	-1634,61,-525
-377.1	ArmorStand	lantern23	move	-1598,103,-520	40
+377	ArmorStand	lantern23	spawn	532,40,4556
+377.1	ArmorStand	lantern23	move	568,82,4561	40
 377.1	ArmorStand	lantern23	rotate	360	40
-377	ArmorStand	lantern24	spawn	-1640,61,-527
-377.1	ArmorStand	lantern24	move	-1605,106,-524	40
+377	ArmorStand	lantern24	spawn	526,40,4554
+377.1	ArmorStand	lantern24	move	561,85,4557	40
 377.1	ArmorStand	lantern24	rotate	360	40
-377	ArmorStand	lantern25	spawn	-1639,61,-522
-377.1	ArmorStand	lantern25	move	-1597,109,-514	40
+377	ArmorStand	lantern25	spawn	527,40,4559
+377.1	ArmorStand	lantern25	move	569,88,4567	40
 377.1	ArmorStand	lantern25	rotate	360	40
-377	ArmorStand	lantern26	spawn	-1634,61,-519
-377.1	ArmorStand	lantern26	move	-1602,103,-528	40
+377	ArmorStand	lantern26	spawn	532,40,4562
+377.1	ArmorStand	lantern26	move	564,82,4553	40
 377.1	ArmorStand	lantern26	rotate	360	40
-377	ArmorStand	lantern27	spawn	-1643,61,-523
-377.1	ArmorStand	lantern27	move	-1601,110,-527	40
+377	ArmorStand	lantern27	spawn	523,40,4558
+377.1	ArmorStand	lantern27	move	565,89,4554	40
 377.1	ArmorStand	lantern27	rotate	360	40
 
 417	ArmorStand	lantern22	despawn
@@ -192,23 +192,23 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 417	ArmorStand	lantern27	despawn
 
 #8th burst
-384	ArmorStand	lantern28	spawn	-1626,61,-528
-384.1	ArmorStand	lantern28	move	-1610,102,-522	40
+384	ArmorStand	lantern28	spawn	540,40,4553
+384.1	ArmorStand	lantern28	move	556,81,4559	40
 384.1	ArmorStand	lantern28	rotate	360	40
-384	ArmorStand	lantern29	spawn	-1634,61,-525
-384.1	ArmorStand	lantern29	move	-1598,103,-520	40
+384	ArmorStand	lantern29	spawn	532,40,4556
+384.1	ArmorStand	lantern29	move	568,82,4561	40
 384.1	ArmorStand	lantern29	rotate	360	40
-384	ArmorStand	lantern30	spawn	-1640,61,-527
-384.1	ArmorStand	lantern30	move	-1605,106,-524	40
+384	ArmorStand	lantern30	spawn	526,40,4554
+384.1	ArmorStand	lantern30	move	561,85,4557	40
 384.1	ArmorStand	lantern30	rotate	360	40
-384	ArmorStand	lantern31	spawn	-1639,61,-522
-384.1	ArmorStand	lantern31	move	-1597,109,-514	40
+384	ArmorStand	lantern31	spawn	527,40,4559
+384.1	ArmorStand	lantern31	move	569,88,4567	40
 384.1	ArmorStand	lantern31	rotate	360	40
-384	ArmorStand	lantern32	spawn	-1634,61,-519
-384.1	ArmorStand	lantern32	move	-1602,103,-528	40
+384	ArmorStand	lantern32	spawn	532,40,4562
+384.1	ArmorStand	lantern32	move	564,82,4553	40
 384.1	ArmorStand	lantern32	rotate	360	40
-384	ArmorStand	lantern33	spawn	-1643,61,-523
-384.1	ArmorStand	lantern33	move	-1601,110,-527	40
+384	ArmorStand	lantern33	spawn	523,40,4558
+384.1	ArmorStand	lantern33	move	565,89,4554	40
 384.1	ArmorStand	lantern33	rotate	360	40
 
 424	ArmorStand	lantern28	despawn
@@ -219,23 +219,23 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 424	ArmorStand	lantern33	despawn
 
 #9th burst
-391	ArmorStand	lantern34	spawn	-1626,61,-528
-391.1	ArmorStand	lantern34	move	-1610,102,-522	40
+391	ArmorStand	lantern34	spawn	540,40,4553
+391.1	ArmorStand	lantern34	move	556,81,4559	40
 391.1	ArmorStand	lantern34	rotate	360	40
-391	ArmorStand	lantern35	spawn	-1634,61,-525
-391.1	ArmorStand	lantern35	move	-1598,103,-520	40
+391	ArmorStand	lantern35	spawn	532,40,4556
+391.1	ArmorStand	lantern35	move	568,82,4561	40
 391.1	ArmorStand	lantern35	rotate	360	40
-391	ArmorStand	lantern36	spawn	-1640,61,-527
-391.1	ArmorStand	lantern36	move	-1605,106,-524	40
+391	ArmorStand	lantern36	spawn	526,40,4554
+391.1	ArmorStand	lantern36	move	561,85,4557	40
 391.1	ArmorStand	lantern36	rotate	360	40
-391	ArmorStand	lantern37	spawn	-1639,61,-522
-391.1	ArmorStand	lantern37	move	-1597,109,-514	40
+391	ArmorStand	lantern37	spawn	527,40,4559
+391.1	ArmorStand	lantern37	move	569,88,4567	40
 391.1	ArmorStand	lantern37	rotate	360	40
-391	ArmorStand	lantern38	spawn	-1634,61,-519
-391.1	ArmorStand	lantern38	move	-1602,103,-528	40
+391	ArmorStand	lantern38	spawn	532,40,4562
+391.1	ArmorStand	lantern38	move	564,82,4553	40
 391.1	ArmorStand	lantern38	rotate	360	40
-391	ArmorStand	lantern39	spawn	-1643,61,-523
-391.1	ArmorStand	lantern39	move	-1601,110,-527	40
+391	ArmorStand	lantern39	spawn	523,40,4558
+391.1	ArmorStand	lantern39	move	565,89,4554	40
 391.1	ArmorStand	lantern39	rotate	360	40
 
 431	ArmorStand	lantern34	despawn
@@ -246,23 +246,23 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 431	ArmorStand	lantern39	despawn
 
 #10th burst
-400	ArmorStand	lantern40	spawn	-1626,61,-528
-400.1	ArmorStand	lantern40	move	-1610,102,-522	40
+400	ArmorStand	lantern40	spawn	540,40,4553
+400.1	ArmorStand	lantern40	move	556,81,4559	40
 400.1	ArmorStand	lantern40	rotate	360	40
-400	ArmorStand	lantern41	spawn	-1634,61,-525
-400.1	ArmorStand	lantern41	move	-1598,103,-520	40
+400	ArmorStand	lantern41	spawn	532,40,4556
+400.1	ArmorStand	lantern41	move	568,82,4561	40
 400.1	ArmorStand	lantern41	rotate	360	40
-400	ArmorStand	lantern42	spawn	-1640,61,-527
-400.1	ArmorStand	lantern42	move	-1605,106,-524	40
+400	ArmorStand	lantern42	spawn	526,40,4554
+400.1	ArmorStand	lantern42	move	561,85,4557	40
 400.1	ArmorStand	lantern42	rotate	360	40
-400	ArmorStand	lantern43	spawn	-1639,61,-522
-400.1	ArmorStand	lantern43	move	-1597,109,-514	40
+400	ArmorStand	lantern43	spawn	527,40,4559
+400.1	ArmorStand	lantern43	move	569,88,4567	40
 400.1	ArmorStand	lantern43	rotate	360	40
-400	ArmorStand	lantern44	spawn	-1634,61,-519
-400.1	ArmorStand	lantern44	move	-1602,103,-528	40
+400	ArmorStand	lantern44	spawn	532,40,4562
+400.1	ArmorStand	lantern44	move	564,82,4553	40
 400.1	ArmorStand	lantern44	rotate	360	40
-400	ArmorStand	lantern45	spawn	-1643,61,-523
-400.1	ArmorStand	lantern45	move	-1601,110,-527	40
+400	ArmorStand	lantern45	spawn	523,40,4558
+400.1	ArmorStand	lantern45	move	565,89,4554	40
 400.1	ArmorStand	lantern45	rotate	360	40
 
 440	ArmorStand	lantern40	despawn
@@ -273,20 +273,20 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 440	ArmorStand	lantern45	despawn
 
 #11th burst
-405	ArmorStand	lantern46	spawn	-1626,61,-528
-405.1	ArmorStand	lantern46	move	-1610,102,-522	40
+405	ArmorStand	lantern46	spawn	540,40,4553
+405.1	ArmorStand	lantern46	move	556,81,4559	40
 405.1	ArmorStand	lantern46	rotate	360	40
-405	ArmorStand	lantern47	spawn	-1634,61,-525
-405.1	ArmorStand	lantern47	move	-1598,103,-520	40
+405	ArmorStand	lantern47	spawn	532,40,4556
+405.1	ArmorStand	lantern47	move	568,82,4561	40
 405.1	ArmorStand	lantern47	rotate	360	40
-405	ArmorStand	lantern48	spawn	-1640,61,-527
-405.1	ArmorStand	lantern48	move	-1605,106,-524	40
+405	ArmorStand	lantern48	spawn	526,40,4554
+405.1	ArmorStand	lantern48	move	561,85,4557	40
 405.1	ArmorStand	lantern48	rotate	360	40
-405	ArmorStand	lantern49	spawn	-1639,61,-522
-405.1	ArmorStand	lantern49	move	-1597,109,-514	40
+405	ArmorStand	lantern49	spawn	527,40,4559
+405.1	ArmorStand	lantern49	move	569,88,4567	40
 405.1	ArmorStand	lantern49	rotate	360	40
-405	ArmorStand	lantern50	spawn	-1634,61,-519
-405.1	ArmorStand	lantern50	move	-1602,103,-528	40
+405	ArmorStand	lantern50	spawn	532,40,4562
+405.1	ArmorStand	lantern50	move	564,82,4553	40
 405.1	ArmorStand	lantern50	rotate	360	40
 
 445	ArmorStand	lantern46	despawn
@@ -296,17 +296,17 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 445	ArmorStand	lantern50	despawn
 
 #11th burst
-410	ArmorStand	lantern51	spawn	-1626,61,-528
-410.1	ArmorStand	lantern51	move	-1610,102,-522	40
+410	ArmorStand	lantern51	spawn	540,40,4553
+410.1	ArmorStand	lantern51	move	556,81,4559	40
 410.1	ArmorStand	lantern51	rotate	360	40
-410	ArmorStand	lantern52	spawn	-1634,61,-525
-410.1	ArmorStand	lantern52	move	-1598,103,-520	40
+410	ArmorStand	lantern52	spawn	532,40,4556
+410.1	ArmorStand	lantern52	move	568,82,4561	40
 410.1	ArmorStand	lantern52	rotate	360	40
-410	ArmorStand	lantern53	spawn	-1640,61,-527
-410.1	ArmorStand	lantern53	move	-1605,106,-524	40
+410	ArmorStand	lantern53	spawn	526,40,4554
+410.1	ArmorStand	lantern53	move	561,85,4557	40
 410.1	ArmorStand	lantern53	rotate	360	40
-410	ArmorStand	lantern54	spawn	-1639,61,-522
-410.1	ArmorStand	lantern54	move	-1597,109,-514	40
+410	ArmorStand	lantern54	spawn	527,40,4559
+410.1	ArmorStand	lantern54	move	569,88,4567	40
 410.1	ArmorStand	lantern54	rotate	360	40
 
 450	ArmorStand	lantern51	despawn
@@ -315,25 +315,25 @@ ArmorStand	lantern59	false	skull:eyJ0aW1lc3RhbXAiOjE0Njk2NjYzNjkwMjUsInByb2ZpbGV
 450	ArmorStand	lantern54	despawn
 
 #12th burst
-417	ArmorStand	lantern55	spawn	-1626,61,-528
-417.1	ArmorStand	lantern55	move	-1610,102,-522	40
+417	ArmorStand	lantern55	spawn	540,40,4553
+417.1	ArmorStand	lantern55	move	556,81,4559	40
 417.1	ArmorStand	lantern55	rotate	360	40
-417	ArmorStand	lantern56	spawn	-1634,61,-525
-417.1	ArmorStand	lantern56	move	-1598,103,-520	40
+417	ArmorStand	lantern56	spawn	532,40,4556
+417.1	ArmorStand	lantern56	move	568,82,4561	40
 417.1	ArmorStand	lantern56	rotate	360	40
-417	ArmorStand	lantern57	spawn	-1640,61,-527
-417.1	ArmorStand	lantern57	move	-1605,106,-524	40
+417	ArmorStand	lantern57	spawn	526,40,4554
+417.1	ArmorStand	lantern57	move	561,85,4557	40
 417.1	ArmorStand	lantern57	rotate	360	40
 
 457	ArmorStand	lantern55	despawn
 457	ArmorStand	lantern56	despawn
 457	ArmorStand	lantern57	despawn
 
-420	ArmorStand	lantern58	spawn	-1626,61,-528
-420.1	ArmorStand	lantern58	move	-1610,102,-522	40
+420	ArmorStand	lantern58	spawn	540,40,4553
+420.1	ArmorStand	lantern58	move	556,81,4559	40
 420.1	ArmorStand	lantern58	rotate	360	40
-420	ArmorStand	lantern59	spawn	-1634,61,-525
-420.1	ArmorStand	lantern59	move	-1598,103,-520	40
+420	ArmorStand	lantern59	spawn	532,40,4556
+420.1	ArmorStand	lantern59	move	568,82,4561	40
 420.1	ArmorStand	lantern59	rotate	360	40
 
 460	ArmorStand	lantern58	despawn

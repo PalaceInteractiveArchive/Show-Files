@@ -1,5 +1,5 @@
 #Show Started January 16th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -29,44 +29,44 @@ Show	Name	FLatH
 58	Text	&7you are to put an end to this winter.
 62.3	Text	&7Do you understand?
 #SideDoorsOpen
-0	Block	152	470,65,106
+0	Block	152	2636,44,5187
 #MoveCurtainDown
-0	Block	152	452,89,102
-0	Block	152	453,89,102
-0	Block	152	454,89,102
-0	Block	152	455,89,102
-0	Block	152	456,89,102
-0	Block	152	457,89,102
-0	Block	152	458,89,102
-0	Block	152	459,89,102
-0	Block	152	460,89,102
-0	Block	152	461,89,102
-0	Block	152	462,89,102
+0	Block	152	2618,68,5183
+0	Block	152	2619,68,5183
+0	Block	152	2620,68,5183
+0	Block	152	2621,68,5183
+0	Block	152	2622,68,5183
+0	Block	152	2623,68,5183
+0	Block	152	2624,68,5183
+0	Block	152	2625,68,5183
+0	Block	152	2626,68,5183
+0	Block	152	2627,68,5183
+0	Block	152	2628,68,5183
 #OpenProjectors
-1	Block	152	477,66,57
-2	Block	152	477,66,58
-3	Block	152	477,66,59
+1	Block	152	2643,45,5138
+2	Block	152	2643,45,5139
+3	Block	152	2643,45,5140
 #CloneStairs
-0	Block	152	464,89,95
+0	Block	152	2630,68,5176
 #MoveStairs
-4	Block	152	464,89,96
-5	Block	152	464,89,96
-6	Block	152	464,89,96
-7	Block	152	464,89,96
-8	Block	152	464,89,96
-9	Block	152	464,89,96
-10	Block	152	464,89,96
-11	Block	152	464,89,96
-12	Block	152	464,89,96
-13	Block	152	464,89,96
-14	Block	152	464,89,96
+4	Block	152	2630,68,5177
+5	Block	152	2630,68,5177
+6	Block	152	2630,68,5177
+7	Block	152	2630,68,5177
+8	Block	152	2630,68,5177
+9	Block	152	2630,68,5177
+10	Block	152	2630,68,5177
+11	Block	152	2630,68,5177
+12	Block	152	2630,68,5177
+13	Block	152	2630,68,5177
+14	Block	152	2630,68,5177
 #CloseProjectors
-15	Block	152	468,89,99
-16	Block	152	468,89,98
-16	Block	0	468,89,99
-17	Block	0	468,89,98
-17	Block	152	468,89,97
+15	Block	152	2634,68,5180
+16	Block	152	2634,68,5179
+16	Block	0	2634,68,5180
+17	Block	0	2634,68,5179
+17	Block	152	2634,68,5178
 #Schematics
-18	Schematic	FLatHS13.1	439	62	68	newhws	false
+18	Schematic	FLatHS13.1	2605	41	5149	newhws	false
 #Snow
-72	Block	0	465,88,68
+72	Block	0	2631,67,5149

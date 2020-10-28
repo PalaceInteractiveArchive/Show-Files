@@ -1,5 +1,5 @@
 #Show Started January 18th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -99,32 +99,32 @@ Show	Name	FLatH
 266.1	Text	&7Let’s go kiss, Hans!
 269.8	Text	&7Who is this, Hans?	
 #Schematics
-1.2	Schematic	FLatHS14.1	439	62	68	newhws	false
-54.4	Schematic	FLatHS14.2	439	62	68	newhws	false
-55	Schematic	FLatHS14.3	439	62	68	newhws	false
-55.6	Schematic	FLatHS14.4	439	62	68	newhws	false
-56.2	Schematic	FLatHS14.5	439	62	68	newhws	false
-56.8	Schematic	FLatHS14.6	439	62	68	newhws	false
-57.4	Schematic	FLatHS14.7	439	62	68	newhws	false
-58	Schematic	FLatHS14.8	439	62	68	newhws	false
-58.6	Schematic	FLatHS14.9	439	62	68	newhws	false
-59.2	Schematic	FLatHS14.10	439	62	68	newhws	false
-59.8	Schematic	FLatHS14.11	439	62	68	newhws	false
+1.2	Schematic	FLatHS14.1	2605	41	5149	newhws	false
+54.4	Schematic	FLatHS14.2	2605	41	5149	newhws	false
+55	Schematic	FLatHS14.3	2605	41	5149	newhws	false
+55.6	Schematic	FLatHS14.4	2605	41	5149	newhws	false
+56.2	Schematic	FLatHS14.5	2605	41	5149	newhws	false
+56.8	Schematic	FLatHS14.6	2605	41	5149	newhws	false
+57.4	Schematic	FLatHS14.7	2605	41	5149	newhws	false
+58	Schematic	FLatHS14.8	2605	41	5149	newhws	false
+58.6	Schematic	FLatHS14.9	2605	41	5149	newhws	false
+59.2	Schematic	FLatHS14.10	2605	41	5149	newhws	false
+59.8	Schematic	FLatHS14.11	2605	41	5149	newhws	false
 #Lights
-63.8	Block	89	461,63,72
-63.8	Block	89	461,63,96
-63.8	Block	89	464,64,80
-63.8	Block	89	464,64,88
-63.8	Block	89	466,63,93
-63.8	Block	89	466,63,75
-63.8	Block	89	466,79,84
-63.8	Block	89	460,79,84
-63.8	Block	89	463,79,86
-63.8	Block	89	463,79,82
-63.8	Block	89	461,79,80
-63.8	Block	89	461,79,88
+63.8	Block	89	2627,42,5153
+63.8	Block	89	2627,42,5177
+63.8	Block	89	2630,43,5161
+63.8	Block	89	2630,43,5169
+63.8	Block	89	2632,42,5174
+63.8	Block	89	2632,42,5156
+63.8	Block	89	2632,58,5165
+63.8	Block	89	2626,58,5165
+63.8	Block	89	2629,58,5167
+63.8	Block	89	2629,58,5163
+63.8	Block	89	2627,58,5161
+63.8	Block	89	2627,58,5169
 #Costumes
-164.5	Block	152	441,56,49
-174.4	Block	152	445,56,45
-224.8	Block	152	444,56,43
-224.8	Block	152	442,56,51
+164.5	Block	152	2607,35,5130
+174.4	Block	152	2611,35,5126
+224.8	Block	152	2610,35,5124
+224.8	Block	152	2608,35,5132

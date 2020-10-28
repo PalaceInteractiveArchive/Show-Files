@@ -1,10 +1,10 @@
 #Show Started January 2nd, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Other
-0.6	Block	152	436,49,45
-180.1	Block	152	436,49,43
+0.6	Block	152	2602,28,5126
+180.1	Block	152	2602,28,5124
 #Audio
 0	AudioStart	flaths8
 5	AudioSync	flaths8	5
@@ -69,189 +69,189 @@ Show	Name	FLatH
 204.8	Text	&bLet the storm rage on!!
 210.3	Text	&bThe cold never bothered me anyway.
 #StageDoorsClose
-10	Block	152	465,65,106
+10	Block	152	2631,44,5187
 #BackstageDoorsClose
-15	Block	0	445,62,104
-15	Block	0	445,62,103
-15	Block	0	444,62,63
-15	Block	0	444,62,64
+15	Block	0	2611,41,5185
+15	Block	0	2611,41,5184
+15	Block	0	2610,41,5144
+15	Block	0	2610,41,5145
 #Snow
-0.00	Block	152	458,65,64
-145.7	Block	0	458,65,64
+0.00	Block	152	2624,44,5145
+145.7	Block	0	2624,44,5145
 #Clone
-0	Block	152	468,89,102
+0	Block	152	2634,68,5183
 #Smoke
-0.00	Block	152	465,64,104
-55.9	Block	0	465,64,104
+0.00	Block	152	2631,43,5185
+55.9	Block	0	2631,43,5185
 #Olaf
-74.1	Block	152	470,89,95
-74.2	Block	152	470,89,94
-74.2	Block	0	470,89,95
-74.3	Block	0	470,89,94
+74.1	Block	152	2636,68,5176
+74.2	Block	152	2636,68,5175
+74.2	Block	0	2636,68,5176
+74.3	Block	0	2636,68,5175
 #KillOlaf
-81.8	Block	152	-136,90,-271
+81.8	Block	152	2030,69,4810
 #Schematics
-0	Schematic	FLatHS8.1	439	62	68	newhws	false
-7.2	Schematic	FLatHS8.2	439	62	68	newhws	false
-9	Schematic	FLatHS8.3	439	62	68	newhws	false
-10.7	Schematic	FLatHS8.4	439	62	68	newhws	false
-91.6	Schematic	FLatHS8.3	439	62	68	newhws	false
-92.6	Schematic	FLatHS8.2	439	62	68	newhws	false
-127.6	Schematic	FLatHS8.5	439	62	68	newhws	false
-129.4	Schematic	FLatHS8.6	439	62	68	newhws	false
-131.2	Schematic	FLatHS8.7	439	62	68	newhws	false
-135.3	Schematic	FLatHS8.8	439	62	68	newhws	false
-145.7	Schematic	FLatHS8.9	439	62	68	newhws	false
-152.7	Schematic	FLatHS8.10	439	62	68	newhws	false
-159.6	Schematic	FLatHS8.11	439	62	68	newhws	false
-166.7	Schematic	FLatHS8.12	439	62	68	newhws	false
-173.7	Schematic	FLatHS8.13	439	62	68	newhws	false
-179.7	Schematic	FLatHS8.14	439	62	68	newhws	false
-181.5	Schematic	FLatHS8.13	439	62	68	newhws	false
-217.7	Schematic	FLatHS8.15	439	62	68	newhws	false
-181.8	Schematic	FLatHS8.16	439	62	68	newhws	false
-182.1	Schematic	FLatHS8.17	439	62	68	newhws	false
-182.4	Schematic	FLatHS8.18	439	62	68	newhws	false
-182.7	Schematic	FLatHS8.19	439	62	68	newhws	false
-183	Schematic	FLatHS8.20	439	62	68	newhws	false
-183.3	Schematic	FLatHS8.21	439	62	68	newhws	false
-183.6	Schematic	FLatHS8.20	439	62	68	newhws	false
-183.9	Schematic	FLatHS8.19	439	62	68	newhws	false
-184.2	Schematic	FLatHS8.18	439	62	68	newhws	false
-184.5	Schematic	FLatHS8.17	439	62	68	newhws	false
-184.8	Schematic	FLatHS8.16	439	62	68	newhws	false
-185.1	Schematic	FLatHS8.13	439	62	68	newhws	false
-188.8	Schematic	FLatHS8.16	439	62	68	newhws	false
-189.1	Schematic	FLatHS8.17	439	62	68	newhws	false
-189.4	Schematic	FLatHS8.18	439	62	68	newhws	false
-189.7	Schematic	FLatHS8.19	439	62	68	newhws	false
-190	Schematic	FLatHS8.20	439	62	68	newhws	false
-190.3	Schematic	FLatHS8.21	439	62	68	newhws	false
-190.6	Schematic	FLatHS8.20	439	62	68	newhws	false
-190.9	Schematic	FLatHS8.19	439	62	68	newhws	false
-191.2	Schematic	FLatHS8.18	439	62	68	newhws	false
-191.5	Schematic	FLatHS8.17	439	62	68	newhws	false
-191.8	Schematic	FLatHS8.16	439	62	68	newhws	false
-192.1	Schematic	FLatHS8.13	439	62	68	newhws	false
-208.9	Schematic	FLatHS8.22	439	62	68	newhws	false
-209.1	Schematic	FLatHS8.23	439	62	68	newhws	false
-209.3	Schematic	FLatHS8.22	439	62	68	newhws	false
-209.5	Schematic	FLatHS8.23	439	62	68	newhws	false
-209.7	Schematic	FLatHS8.22	439	62	68	newhws	false
-209.9	Schematic	FLatHS8.23	439	62	68	newhws	false
-210.1	Schematic	FLatHS8.22	439	62	68	newhws	false
-210.3	Schematic	FLatHS8.13	439	62	68	newhws	false
+0	Schematic	FLatHS8.1	2605	41	5149	newhws	false
+7.2	Schematic	FLatHS8.2	2605	41	5149	newhws	false
+9	Schematic	FLatHS8.3	2605	41	5149	newhws	false
+10.7	Schematic	FLatHS8.4	2605	41	5149	newhws	false
+91.6	Schematic	FLatHS8.3	2605	41	5149	newhws	false
+92.6	Schematic	FLatHS8.2	2605	41	5149	newhws	false
+127.6	Schematic	FLatHS8.5	2605	41	5149	newhws	false
+129.4	Schematic	FLatHS8.6	2605	41	5149	newhws	false
+131.2	Schematic	FLatHS8.7	2605	41	5149	newhws	false
+135.3	Schematic	FLatHS8.8	2605	41	5149	newhws	false
+145.7	Schematic	FLatHS8.9	2605	41	5149	newhws	false
+152.7	Schematic	FLatHS8.10	2605	41	5149	newhws	false
+159.6	Schematic	FLatHS8.11	2605	41	5149	newhws	false
+166.7	Schematic	FLatHS8.12	2605	41	5149	newhws	false
+173.7	Schematic	FLatHS8.13	2605	41	5149	newhws	false
+179.7	Schematic	FLatHS8.14	2605	41	5149	newhws	false
+181.5	Schematic	FLatHS8.13	2605	41	5149	newhws	false
+217.7	Schematic	FLatHS8.15	2605	41	5149	newhws	false
+181.8	Schematic	FLatHS8.16	2605	41	5149	newhws	false
+182.1	Schematic	FLatHS8.17	2605	41	5149	newhws	false
+182.4	Schematic	FLatHS8.18	2605	41	5149	newhws	false
+182.7	Schematic	FLatHS8.19	2605	41	5149	newhws	false
+183	Schematic	FLatHS8.20	2605	41	5149	newhws	false
+183.3	Schematic	FLatHS8.21	2605	41	5149	newhws	false
+183.6	Schematic	FLatHS8.20	2605	41	5149	newhws	false
+183.9	Schematic	FLatHS8.19	2605	41	5149	newhws	false
+184.2	Schematic	FLatHS8.18	2605	41	5149	newhws	false
+184.5	Schematic	FLatHS8.17	2605	41	5149	newhws	false
+184.8	Schematic	FLatHS8.16	2605	41	5149	newhws	false
+185.1	Schematic	FLatHS8.13	2605	41	5149	newhws	false
+188.8	Schematic	FLatHS8.16	2605	41	5149	newhws	false
+189.1	Schematic	FLatHS8.17	2605	41	5149	newhws	false
+189.4	Schematic	FLatHS8.18	2605	41	5149	newhws	false
+189.7	Schematic	FLatHS8.19	2605	41	5149	newhws	false
+190	Schematic	FLatHS8.20	2605	41	5149	newhws	false
+190.3	Schematic	FLatHS8.21	2605	41	5149	newhws	false
+190.6	Schematic	FLatHS8.20	2605	41	5149	newhws	false
+190.9	Schematic	FLatHS8.19	2605	41	5149	newhws	false
+191.2	Schematic	FLatHS8.18	2605	41	5149	newhws	false
+191.5	Schematic	FLatHS8.17	2605	41	5149	newhws	false
+191.8	Schematic	FLatHS8.16	2605	41	5149	newhws	false
+192.1	Schematic	FLatHS8.13	2605	41	5149	newhws	false
+208.9	Schematic	FLatHS8.22	2605	41	5149	newhws	false
+209.1	Schematic	FLatHS8.23	2605	41	5149	newhws	false
+209.3	Schematic	FLatHS8.22	2605	41	5149	newhws	false
+209.5	Schematic	FLatHS8.23	2605	41	5149	newhws	false
+209.7	Schematic	FLatHS8.22	2605	41	5149	newhws	false
+209.9	Schematic	FLatHS8.23	2605	41	5149	newhws	false
+210.1	Schematic	FLatHS8.22	2605	41	5149	newhws	false
+210.3	Schematic	FLatHS8.13	2605	41	5149	newhws	false
 #DressChange
-179.7	Block	152	466,88,102
+179.7	Block	152	2632,67,5183
 #Magic
-66.2	Block	152	454,90,85
-67.9	Block	152	464,90,83
-109.6	Block	152	470,90,82
-109.6	Block	152	467,90,82
+66.2	Block	152	2620,69,5166
+67.9	Block	152	2630,69,5164
+109.6	Block	152	2636,69,5163
+109.6	Block	152	2633,69,5163
 #Slamthedoor
-71.1	Block	152	468,89,96
+71.1	Block	152	2634,68,5177
 #stormrage
-82	Block	152	468,89,95
+82	Block	152	2634,68,5176
 #TPElsa
-129.4	Block	152	470,89,102
-131.2	Block	152	470,89,101
-135.3	Block	152	470,89,100
-152.7	Block	152	470,89,99
-159.6	Block	152	470,89,98
-166.7	Block	152	470,89,97
-173.7	Block	152	470,89,96
+129.4	Block	152	2636,68,5183
+131.2	Block	152	2636,68,5182
+135.3	Block	152	2636,68,5181
+152.7	Block	152	2636,68,5180
+159.6	Block	152	2636,68,5179
+166.7	Block	152	2636,68,5178
+173.7	Block	152	2636,68,5177
 #StairLight
-136.4	Block	89	455,68,84
+136.4	Block	89	2621,47,5165
 #Ceiling
-136.4	Block	89	451,85,87
-136.4	Block	89	451,85,84
-136.4	Block	89	451,85,81
+136.4	Block	89	2617,64,5168
+136.4	Block	89	2617,64,5165
+136.4	Block	89	2617,64,5162
 #ProjectionScreensOpen
-93.6	Block	152	477,66,57
-94.6	Block	152	477,66,58
-95.6	Block	152	477,66,59
+93.6	Block	152	2643,45,5138
+94.6	Block	152	2643,45,5139
+95.6	Block	152	2643,45,5140
 #LetItGoSmokeforStairs
-93.6	Block	152	470,88,79
-122.4	Block	0	470,88,79
+93.6	Block	152	2636,67,5160
+122.4	Block	0	2636,67,5160
 #LetItGoLight
-109.6	Block	89	479,64,84
-122.4	Block	35:15	479,64,84
+109.6	Block	89	2645,43,5165
+122.4	Block	35:15	2645,43,5165
 #LiftCurtain
-109.6	Block	152	468,89,101
-109.7	Block	152	468,89,101
-109.8	Block	152	468,89,101
-109.9	Block	152	468,89,101
-110.0	Block	152	468,89,101
-110.1	Block	152	468,89,101
-110.2	Block	152	468,89,101
-110.3	Block	152	468,89,101
-110.4	Block	152	468,89,101
-110.5	Block	152	468,89,101
-110.6	Block	152	468,89,101
-110.7	Block	152	468,89,101
-110.8	Block	152	468,89,101
-110.9	Block	152	468,89,101
+109.6	Block	152	2634,68,5182
+109.7	Block	152	2634,68,5182
+109.8	Block	152	2634,68,5182
+109.9	Block	152	2634,68,5182
+110.0	Block	152	2634,68,5182
+110.1	Block	152	2634,68,5182
+110.2	Block	152	2634,68,5182
+110.3	Block	152	2634,68,5182
+110.4	Block	152	2634,68,5182
+110.5	Block	152	2634,68,5182
+110.6	Block	152	2634,68,5182
+110.7	Block	152	2634,68,5182
+110.8	Block	152	2634,68,5182
+110.9	Block	152	2634,68,5182
 #MoveStairs
-111.0	Block	152	468,89,100
-111.9	Block	152	468,89,100
-112.8	Block	152	468,89,100
-113.7	Block	152	468,89,100
-114.6	Block	152	468,89,100
-115.5	Block	152	468,89,100
-116.4	Block	152	468,89,100
-117.3	Block	152	468,89,100
-118.2	Block	152	468,89,100
-119.1	Block	152	468,89,100
-120.0	Block	152	468,89,100
-120.9	Block	152	468,89,100
-121.8	Block	152	468,89,100
-122.7	Block	152	468,89,100
-123.6	Block	152	468,89,100
+111.0	Block	152	2634,68,5181
+111.9	Block	152	2634,68,5181
+112.8	Block	152	2634,68,5181
+113.7	Block	152	2634,68,5181
+114.6	Block	152	2634,68,5181
+115.5	Block	152	2634,68,5181
+116.4	Block	152	2634,68,5181
+117.3	Block	152	2634,68,5181
+118.2	Block	152	2634,68,5181
+119.1	Block	152	2634,68,5181
+120.0	Block	152	2634,68,5181
+120.9	Block	152	2634,68,5181
+121.8	Block	152	2634,68,5181
+122.7	Block	152	2634,68,5181
+123.6	Block	152	2634,68,5181
 #CloseProjectors
-124.6	Block	152	468,89,99
-125.6	Block	152	468,89,98
-125.6	Block	0	468,89,99
-126.6	Block	0	468,89,98
-126.6	Block	152	468,89,97
+124.6	Block	152	2634,68,5180
+125.6	Block	152	2634,68,5179
+125.6	Block	0	2634,68,5180
+126.6	Block	0	2634,68,5179
+126.6	Block	152	2634,68,5178
 #CapeFlies
-88.2	Block	171:10	460,66,85
-88.3	Block	166	460,65,85
-88.5	Block	0	460,65,85
-88.5	Block	171:10	460,67,86
-88.6	Block	166	460,66,86
-88.8	Block	0	460,66,86
-88.8	Block	171:10	461,66,87
-88.9	Block	166	461,65,87
-89.1	Block	0	461,65,87
-89.1	Block	171:10	461,67,88
-89.2	Block	166	461,66,88
-89.4	Block	0	461,66,88
-89.4	Block	171:10	461,68,89
-89.5	Block	166	461,67,89
-89.7	Block	0	461,67,89	
-89.7	Block	171:10	462,68,90
-89.8	Block	166	462,67,90
-90.0	Block	0	462,67,90
-90	Block	171:10	462,68,91
-90.1	Block	166	462,67,91
-90.3	Block	0	462,67,91
+88.2	Block	171:10	2626,45,5166
+88.3	Block	166	2626,44,5166
+88.5	Block	0	2626,44,5166
+88.5	Block	171:10	2626,46,5167
+88.6	Block	166	2626,45,5167
+88.8	Block	0	2626,45,5167
+88.8	Block	171:10	2627,45,5168
+88.9	Block	166	2627,44,5168
+89.1	Block	0	2627,44,5168
+89.1	Block	171:10	2627,46,5169
+89.2	Block	166	2627,45,5169
+89.4	Block	0	2627,45,5169
+89.4	Block	171:10	2627,47,5170
+89.5	Block	166	2627,46,5170
+89.7	Block	0	2627,46,5170	
+89.7	Block	171:10	2628,47,5171
+89.8	Block	166	2628,46,5171
+90.0	Block	0	2628,46,5171
+90	Block	171:10	2628,47,5172
+90.1	Block	166	2628,46,5172
+90.3	Block	0	2628,46,5172
 #Chandelier
-166.7	Block	152	470,88,86
-217.7	Block	0	470,88,86
+166.7	Block	152	2636,67,5167
+217.7	Block	0	2636,67,5167
 #Magic
-152.7	Block	152	470,89,91
+152.7	Block	152	2636,68,5172
 #Snowball
-173.7	Block	152	464,89,102
+173.7	Block	152	2630,68,5183
 #SceneLight
-0	Block	152	471,58,-1
+0	Block	152	2637,37,5080
 #PowerOnSide
-149.3	Block	152	460,90,83
-150.9	Block	152	457,90,83
+149.3	Block	152	2626,69,5164
+150.9	Block	152	2623,69,5164
 #StormRageOnLights
-205.2	Block	89	460,64,77
-205.2	Block	89	460,64,91
-206.1	Block	89	457,73,94
-206.1	Block	89	457,73,74
-206.6	Block	89	457,62,93
-206.6	Block	89	457,62,75
+205.2	Block	89	2626,43,5158
+205.2	Block	89	2626,43,5172
+206.1	Block	89	2623,52,5175
+206.1	Block	89	2623,52,5155
+206.6	Block	89	2623,41,5174
+206.6	Block	89	2623,41,5156
 

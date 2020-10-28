@@ -12,23 +12,23 @@ ArmorStand	11	false	0;0;0;0
 ArmorStand	12	false	0;0;0;0
 ArmorStand	13	false	0;0;0;0
 ArmorStand	14	false	0;0;0;0
-1	Block	152	-1,64,-268
-2	Block	20	-1,64,-268
-10.8	Block	152	-1,64,-267
-12	Block	20	-1,64,-267
-1	Block	89	-17,69,-252
-25.7	Block	159:8	-17,69,-252
-0	ArmorStand	1	Spawn	-16.9,68.3,-252.0
+1	Block	152	2165,43,4813
+2	Block	20	2165,43,4813
+10.8	Block	152	2165,43,4814
+12	Block	20	2165,43,4814
+1	Block	89	2149,48,4829
+25.7	Block	159:8	2149,48,4829
+0	ArmorStand	1	Spawn	2149.1,47.3,4829.0
 25.7	ArmorStand	1	Despawn
 0.5	ArmorStand	1	Position	HEAD	15,90,0	0.5
-10.8	ArmorStand	1	Move	-16.6,68.3,-251.3	0.5
-11.3	ArmorStand	1	Move	-16.0,68.3,-251.1	0.5
-11.8	ArmorStand	1	Move	-15.3,68.3,-251.3	0.5
-12.3	ArmorStand	1	Move	-15.1,68.3,-252.0	0.5
-12.8	ArmorStand	1	Move	-15.3,68.3,-252.6	0.5
-13.3	ArmorStand	1	Move	-16.0,68.3,-252.9	0.5
-13.8	ArmorStand	1	Move	-16.6,68.3,-252.6	0.5
-14.3	ArmorStand	1	Move	-16.9,68.3,-252.0	0.5
+10.8	ArmorStand	1	Move	2149.4,47.3,4829.7	0.5
+11.3	ArmorStand	1	Move	2150.0,47.3,4829.9	0.5
+11.8	ArmorStand	1	Move	2150.7,47.3,4829.7	0.5
+12.3	ArmorStand	1	Move	2150.9,47.3,4829.0	0.5
+12.8	ArmorStand	1	Move	2150.7,47.3,4828.4	0.5
+13.3	ArmorStand	1	Move	2150.0,47.3,4828.1	0.5
+13.8	ArmorStand	1	Move	2149.4,47.3,4828.4	0.5
+14.3	ArmorStand	1	Move	2149.1,47.3,4829.0	0.5
 3.2	ArmorStand	1	Position	HEAD	58,90,0	0.6
 7.1	ArmorStand	1	Position	HEAD	15,90,0	1.5
 9	ArmorStand	1	Position	HEAD	59,90,0	1.6
@@ -45,17 +45,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	1	Position	HEAD	60,-260,0	0.7
 23.5	ArmorStand	1	Position	HEAD	10,-260,0	0.7
 24.4	ArmorStand	1	Position	HEAD	60,-260,0	0.7
-0	ArmorStand	3	Spawn	-16.0,68.3,-251.1
+0	ArmorStand	3	Spawn	2150.0,47.3,4829.9
 25.7	ArmorStand	3	Despawn
 0.5	ArmorStand	3	Position	HEAD	15,0,0	0.5
-13.8	ArmorStand	3	Move	-16.6,68.3,-251.3	0.5
-14.3	ArmorStand	3	Move	-16.0,68.3,-251.1	0.5
-10.8	ArmorStand	3	Move	-15.3,68.3,-251.3	0.5
-11.3	ArmorStand	3	Move	-15.1,68.3,-252.0	0.5
-11.8	ArmorStand	3	Move	-15.3,68.3,-252.6	0.5
-12.3	ArmorStand	3	Move	-16.0,68.3,-252.9	0.5
-12.8	ArmorStand	3	Move	-16.6,68.3,-252.6	0.5
-13.3	ArmorStand	3	Move	-16.9,68.3,-252.0	0.5
+13.8	ArmorStand	3	Move	2149.4,47.3,4829.7	0.5
+14.3	ArmorStand	3	Move	2150.0,47.3,4829.9	0.5
+10.8	ArmorStand	3	Move	2150.7,47.3,4829.7	0.5
+11.3	ArmorStand	3	Move	2150.9,47.3,4829.0	0.5
+11.8	ArmorStand	3	Move	2150.7,47.3,4828.4	0.5
+12.3	ArmorStand	3	Move	2150.0,47.3,4828.1	0.5
+12.8	ArmorStand	3	Move	2149.4,47.3,4828.4	0.5
+13.3	ArmorStand	3	Move	2149.1,47.3,4829.0	0.5
 3.2	ArmorStand	3	Position	HEAD	58,0,0	0.6
 7.1	ArmorStand	3	Position	HEAD	15,0,0	1.5
 9	ArmorStand	3	Position	HEAD	59,0,0	1.6
@@ -72,17 +72,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	3	Position	HEAD	60,-360,0	0.7
 23.5	ArmorStand	3	Position	HEAD	10,-360,0	0.7
 24.4	ArmorStand	3	Position	HEAD	60,-360,0	0.7
-0	ArmorStand	7	Spawn	-16.0,68.3,-252.9
+0	ArmorStand	7	Spawn	2150.0,47.3,4828.1
 25.7	ArmorStand	7	Despawn
 0.5	ArmorStand	7	Position	HEAD	15,180,0	0.5
-11.8	ArmorStand	7	Move	-16.6,68.3,-251.3	0.5
-12.3	ArmorStand	7	Move	-16.0,68.3,-251.1	0.5
-12.8	ArmorStand	7	Move	-15.3,68.3,-251.3	0.5
-13.3	ArmorStand	7	Move	-15.1,68.3,-252.0	0.5
-13.8	ArmorStand	7	Move	-15.3,68.3,-252.6	0.5
-14.3	ArmorStand	7	Move	-16.0,68.3,-252.9	0.5
-10.8	ArmorStand	7	Move	-16.6,68.3,-252.6	0.5
-11.3	ArmorStand	7	Move	-16.9,68.3,-252.0	0.5
+11.8	ArmorStand	7	Move	2149.4,47.3,4829.7	0.5
+12.3	ArmorStand	7	Move	2150.0,47.3,4829.9	0.5
+12.8	ArmorStand	7	Move	2150.7,47.3,4829.7	0.5
+13.3	ArmorStand	7	Move	2150.9,47.3,4829.0	0.5
+13.8	ArmorStand	7	Move	2150.7,47.3,4828.4	0.5
+14.3	ArmorStand	7	Move	2150.0,47.3,4828.1	0.5
+10.8	ArmorStand	7	Move	2149.4,47.3,4828.4	0.5
+11.3	ArmorStand	7	Move	2149.1,47.3,4829.0	0.5
 3.2	ArmorStand	7	Position	HEAD	58,180,0	0.6
 7.1	ArmorStand	7	Position	HEAD	15,180,0	1.5
 9	ArmorStand	7	Position	HEAD	59,180,0	1.6
@@ -99,17 +99,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	7	Position	HEAD	60,-180,0	0.7
 23.5	ArmorStand	7	Position	HEAD	10,-180,0	0.7
 24.4	ArmorStand	7	Position	HEAD	60,-180,0	0.7
-0	ArmorStand	5	Spawn	-15.1,68.3,-252.0
+0	ArmorStand	5	Spawn	2150.9,47.3,4829.0
 25.7	ArmorStand	5	Despawn
 0.5	ArmorStand	5	Position	HEAD	15,260,0	0.5
-12.8	ArmorStand	5	Move	-16.6,68.3,-251.3	0.5
-13.3	ArmorStand	5	Move	-16.0,68.3,-251.1	0.5
-13.8	ArmorStand	5	Move	-15.3,68.3,-251.3	0.5
-14.3	ArmorStand	5	Move	-15.1,68.3,-252.0	0.5
-10.8	ArmorStand	5	Move	-15.3,68.3,-252.6	0.5
-11.3	ArmorStand	5	Move	-16.0,68.3,-252.9	0.5
-11.8	ArmorStand	5	Move	-16.6,68.3,-252.6	0.5
-12.3	ArmorStand	5	Move	-16.9,68.3,-252.0	0.5
+12.8	ArmorStand	5	Move	2149.4,47.3,4829.7	0.5
+13.3	ArmorStand	5	Move	2150.0,47.3,4829.9	0.5
+13.8	ArmorStand	5	Move	2150.7,47.3,4829.7	0.5
+14.3	ArmorStand	5	Move	2150.9,47.3,4829.0	0.5
+10.8	ArmorStand	5	Move	2150.7,47.3,4828.4	0.5
+11.3	ArmorStand	5	Move	2150.0,47.3,4828.1	0.5
+11.8	ArmorStand	5	Move	2149.4,47.3,4828.4	0.5
+12.3	ArmorStand	5	Move	2149.1,47.3,4829.0	0.5
 3.2	ArmorStand	5	Position	HEAD	58,260,0	0.6
 7.1	ArmorStand	5	Position	HEAD	15,260,0	1.5
 9	ArmorStand	5	Position	HEAD	59,260,0	1.6
@@ -126,17 +126,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	5	Position	HEAD	60,-90,0	0.7
 23.5	ArmorStand	5	Position	HEAD	10,-90,0	0.7
 24.4	ArmorStand	5	Position	HEAD	60,-90,0	0.7
-0	ArmorStand	2	Spawn	-16.6,68.3,-251.3
+0	ArmorStand	2	Spawn	2149.4,47.3,4829.7
 25.7	ArmorStand	2	Despawn
 0.5	ArmorStand	2	Position	HEAD	12,45,0	0.5
-14.3	ArmorStand	2	Move	-16.6,68.3,-251.3	0.5
-10.8	ArmorStand	2	Move	-16.0,68.3,-251.1	0.5
-11.3	ArmorStand	2	Move	-15.3,68.3,-251.3	0.5
-11.8	ArmorStand	2	Move	-15.1,68.3,-252.0	0.5
-12.3	ArmorStand	2	Move	-15.3,68.3,-252.6	0.5
-12.8	ArmorStand	2	Move	-16.0,68.3,-252.9	0.5
-13.3	ArmorStand	2	Move	-16.6,68.3,-252.6	0.5
-13.8	ArmorStand	2	Move	-16.9,68.3,-252.0	0.5
+14.3	ArmorStand	2	Move	2149.4,47.3,4829.7	0.5
+10.8	ArmorStand	2	Move	2150.0,47.3,4829.9	0.5
+11.3	ArmorStand	2	Move	2150.7,47.3,4829.7	0.5
+11.8	ArmorStand	2	Move	2150.9,47.3,4829.0	0.5
+12.3	ArmorStand	2	Move	2150.7,47.3,4828.4	0.5
+12.8	ArmorStand	2	Move	2150.0,47.3,4828.1	0.5
+13.3	ArmorStand	2	Move	2149.4,47.3,4828.4	0.5
+13.8	ArmorStand	2	Move	2149.1,47.3,4829.0	0.5
 5.3	ArmorStand	2	Position	HEAD	45,45,0	0.6
 7.1	ArmorStand	2	Position	HEAD	12,45,0	1.5
 9	ArmorStand	2	Position	HEAD	40,45,0	1.6
@@ -152,17 +152,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	2	Position	HEAD	40,-315,0	0.7
 23.5	ArmorStand	2	Position	HEAD	8,-315,0	0.7
 24.4	ArmorStand	2	Position	HEAD	35,-315,0	0.7
-0	ArmorStand	4	Spawn	-15.3,68.3,-251.3
+0	ArmorStand	4	Spawn	2150.7,47.3,4829.7
 25.7	ArmorStand	4	Despawn
 0.5	ArmorStand	4	Position	HEAD	12,315,0	0.5
-13.3	ArmorStand	4	Move	-16.6,68.3,-251.3	0.5
-13.8	ArmorStand	4	Move	-16.0,68.3,-251.1	0.5
-14.3	ArmorStand	4	Move	-15.3,68.3,-251.3	0.5
-10.8	ArmorStand	4	Move	-15.1,68.3,-252.0	0.5
-11.3	ArmorStand	4	Move	-15.3,68.3,-252.6	0.5
-11.8	ArmorStand	4	Move	-16.0,68.3,-252.9	0.5
-12.3	ArmorStand	4	Move	-16.6,68.3,-252.6	0.5
-12.8	ArmorStand	4	Move	-16.9,68.3,-252.0	0.5
+13.3	ArmorStand	4	Move	2149.4,47.3,4829.7	0.5
+13.8	ArmorStand	4	Move	2150.0,47.3,4829.9	0.5
+14.3	ArmorStand	4	Move	2150.7,47.3,4829.7	0.5
+10.8	ArmorStand	4	Move	2150.9,47.3,4829.0	0.5
+11.3	ArmorStand	4	Move	2150.7,47.3,4828.4	0.5
+11.8	ArmorStand	4	Move	2150.0,47.3,4828.1	0.5
+12.3	ArmorStand	4	Move	2149.4,47.3,4828.4	0.5
+12.8	ArmorStand	4	Move	2149.1,47.3,4829.0	0.5
 5.3	ArmorStand	4	Position	HEAD	45,315,0	0.6
 7.1	ArmorStand	4	Position	HEAD	12,315,0	1.5
 9	ArmorStand	4	Position	HEAD	40,315,0	1.6
@@ -178,17 +178,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	4	Position	HEAD	40,-45,0	0.7
 23.5	ArmorStand	4	Position	HEAD	8,-45,0	0.7
 24.4	ArmorStand	4	Position	HEAD	35,-45,0	0.7
-0	ArmorStand	6	Spawn	-15.3,68.3,-252.6
+0	ArmorStand	6	Spawn	2150.7,47.3,4828.4
 25.7	ArmorStand	6	Despawn
 0.5	ArmorStand	6	Position	HEAD	12,225,0	0.5
-12.3	ArmorStand	6	Move	-16.6,68.3,-251.3	0.5
-12.8	ArmorStand	6	Move	-16.0,68.3,-251.1	0.5
-13.3	ArmorStand	6	Move	-15.3,68.3,-251.3	0.5
-13.8	ArmorStand	6	Move	-15.1,68.3,-252.0	0.5
-14.3	ArmorStand	6	Move	-15.3,68.3,-252.6	0.5
-10.8	ArmorStand	6	Move	-16.0,68.3,-252.9	0.5
-11.3	ArmorStand	6	Move	-16.6,68.3,-252.6	0.5
-11.8	ArmorStand	6	Move	-16.9,68.3,-252.0	0.5
+12.3	ArmorStand	6	Move	2149.4,47.3,4829.7	0.5
+12.8	ArmorStand	6	Move	2150.0,47.3,4829.9	0.5
+13.3	ArmorStand	6	Move	2150.7,47.3,4829.7	0.5
+13.8	ArmorStand	6	Move	2150.9,47.3,4829.0	0.5
+14.3	ArmorStand	6	Move	2150.7,47.3,4828.4	0.5
+10.8	ArmorStand	6	Move	2150.0,47.3,4828.1	0.5
+11.3	ArmorStand	6	Move	2149.4,47.3,4828.4	0.5
+11.8	ArmorStand	6	Move	2149.1,47.3,4829.0	0.5
 5.3	ArmorStand	6	Position	HEAD	45,225,0	0.6
 7.1	ArmorStand	6	Position	HEAD	12,225,0	1.5
 9	ArmorStand	6	Position	HEAD	40,225,0	1.6
@@ -204,17 +204,17 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	6	Position	HEAD	40,-135,0	0.7
 23.5	ArmorStand	6	Position	HEAD	8,-135,0	0.7
 24.4	ArmorStand	6	Position	HEAD	35,-135,0	0.7
-0	ArmorStand	8	Spawn	-16.6,68.3,-252.6
+0	ArmorStand	8	Spawn	2149.4,47.3,4828.4
 25.7	ArmorStand	8	Despawn
 0.5	ArmorStand	8	Position	HEAD	12,135,0	0.5
-11.3	ArmorStand	8	Move	-16.6,68.3,-251.3	0.5
-11.8	ArmorStand	8	Move	-16.0,68.3,-251.1	0.5
-12.3	ArmorStand	8	Move	-15.3,68.3,-251.3	0.5
-12.8	ArmorStand	8	Move	-15.1,68.3,-252.0	0.5
-13.3	ArmorStand	8	Move	-15.3,68.3,-252.6	0.5
-13.8	ArmorStand	8	Move	-16.0,68.3,-252.9	0.5
-14.3	ArmorStand	8	Move	-16.6,68.3,-252.6	0.5
-10.8	ArmorStand	8	Move	-16.9,68.3,-252.0	0.5
+11.3	ArmorStand	8	Move	2149.4,47.3,4829.7	0.5
+11.8	ArmorStand	8	Move	2150.0,47.3,4829.9	0.5
+12.3	ArmorStand	8	Move	2150.7,47.3,4829.7	0.5
+12.8	ArmorStand	8	Move	2150.9,47.3,4829.0	0.5
+13.3	ArmorStand	8	Move	2150.7,47.3,4828.4	0.5
+13.8	ArmorStand	8	Move	2150.0,47.3,4828.1	0.5
+14.3	ArmorStand	8	Move	2149.4,47.3,4828.4	0.5
+10.8	ArmorStand	8	Move	2149.1,47.3,4829.0	0.5
 5.3	ArmorStand	8	Position	HEAD	45,135,0	0.6
 7.1	ArmorStand	8	Position	HEAD	12,135,0	1.5
 9	ArmorStand	8	Position	HEAD	40,135,0	1.6
@@ -230,7 +230,7 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	8	Position	HEAD	40,-225,0	0.7
 23.5	ArmorStand	8	Position	HEAD	8,-225,0	0.7
 24.4	ArmorStand	8	Position	HEAD	35,-225,0	0.7
-0	ArmorStand	11	Spawn	-16.0,68.7,-252.0
+0	ArmorStand	11	Spawn	2150.0,47.7,4829.0
 25.7	ArmorStand	11	Despawn
 0.5	ArmorStand	11	Position	HEAD	7,90,0	0.5
 9	ArmorStand	11	Position	HEAD	19,90,0	1.6
@@ -242,7 +242,7 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	11	Position	HEAD	16,-90,0	0.7
 23.5	ArmorStand	11	Position	HEAD	9,-90,0	0.7
 24.4	ArmorStand	11	Position	HEAD	30,-90,0	0.7
-0	ArmorStand	12	Spawn	-16.0,68.7,-252.0
+0	ArmorStand	12	Spawn	2150.0,47.7,4829.0
 25.7	ArmorStand	12	Despawn
 0.5	ArmorStand	12	Position	HEAD	7,180,0	0.5
 9	ArmorStand	12	Position	HEAD	19,180,0	1.6
@@ -254,7 +254,7 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	12	Position	HEAD	16,0,0	0.7
 23.5	ArmorStand	12	Position	HEAD	9,0,0	0.7
 24.4	ArmorStand	12	Position	HEAD	30,0,0	0.7
-0	ArmorStand	13	Spawn	-16.0,68.7,-252.0
+0	ArmorStand	13	Spawn	2150.0,47.7,4829.0
 25.7	ArmorStand	13	Despawn
 0.5	ArmorStand	13	Position	HEAD	7,260,0	0.5
 9	ArmorStand	13	Position	HEAD	19,260,0	1.6
@@ -266,7 +266,7 @@ ArmorStand	14	false	0;0;0;0
 20.7	ArmorStand	13	Position	HEAD	16,90,0	0.7
 23.5	ArmorStand	13	Position	HEAD	9,90,0	0.7
 24.4	ArmorStand	13	Position	HEAD	30,90,0	0.7
-0	ArmorStand	14	Spawn	-16.0,68.7,-252.0
+0	ArmorStand	14	Spawn	2150.0,47.7,4829.0
 25.7	ArmorStand	14	Despawn
 0.5	ArmorStand	14	Position	HEAD	7,360,0	0.5
 9	ArmorStand	14	Position	HEAD	19,360,0	1.6

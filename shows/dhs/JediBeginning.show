@@ -1,4 +1,4 @@
-Show	Location	-63,64,357
+Show	Location	2103,43,5438
 Show	TextRadius	50
 Show	Name	JediTemple
 
@@ -12,27 +12,27 @@ Show	Name	JediTemple
 22.3	Text	&cHidden across the Galaxy.
 24.1	Text	&cTo test their abilities...
 ##/ac Show started
-0	Block	152	-45,57,375
-1	Block	0	-45,57,375
+0	Block	152	2121,36,5456
+1	Block	0	2121,36,5456
 ##/mutechat
-0	Block	152	-45,57,379
-1	Block	0	-45,57,379
+0	Block	152	2121,36,5460
+1	Block	0	2121,36,5460
 
 #Particle
 #types = https://docs.google.com/spreadsheets/d/1zV3Spw8ZZGK6PTkDNLcCvdDMohTe9Yaf-9UAKJX2CJ8/edit#gid=0
 #<seconds>	Particle	type	x,y,z	xoffset	yoffset	zoffset	speed	amt
-26	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-26	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-27	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-27	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-28	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-28	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-29	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-29	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-30	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-30	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-31	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-31	Particle	witchMagic	-59,64,362	-3	3	0	0	50
+26	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+26	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+27	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+27	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+28	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+28	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+29	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+29	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+30	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+30	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+31	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+31	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
 
 ### Audio ###
 #<seconds>	AudioStart	<areaname>

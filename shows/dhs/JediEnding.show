@@ -1,4 +1,4 @@
-Show	Location	-63,64,357
+Show	Location	2103,43,5438
 Show	TextRadius	50
 
 Show	Name	JediTemple
@@ -51,18 +51,18 @@ Show	Name	JediTemple
 #Particle
 #types = https://docs.google.com/spreadsheets/d/1zV3Spw8ZZGK6PTkDNLcCvdDMohTe9Yaf-9UAKJX2CJ8/edit#gid=0
 #<seconds>	Particle	type	x,y,z	xoffset	yoffset	zoffset	speed	amt
-26	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-26	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-27	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-27	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-28	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-28	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-29	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-29	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-30	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-30	Particle	witchMagic	-59,64,362	-3	3	0	0	50
-31	Particle	fireworksSpark	-60,64,361	-4	0	-4	0	20
-31	Particle	witchMagic	-59,64,362	-3	3	0	0	50
+26	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+26	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+27	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+27	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+28	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+28	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+29	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+29	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+30	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+30	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
+31	Particle	fireworksSpark	2106,43,5442	-4	0	-4	0	20
+31	Particle	witchMagic	2107,43,5443	-3	3	0	0	50
 
 ### Fireworks ###
 #Effects:
@@ -74,9 +74,9 @@ Effect	always	BURST,144;218;210&WHITE,GRAY
 
 #Firework:
 #<seconds>	Firework	<Location(x,y,z)>	<Effect,Effect...>	<time>	<Direction,(x,y,z)>	1
-15.5	PowerFirework	-57,68,364	always	1	-3,3,-4
-15.5	PowerFirework	-59,68.5,365	always	1	0,3,0
-15.5	PowerFirework	-62,68,366	always	1	3,3,4
+15.5	PowerFirework	2109,47,5445	always	1	-3,3,-4
+15.5	PowerFirework	2107,47.5,5446	always	1	0,3,0
+15.5	PowerFirework	2104,47,5447	always	1	3,3,4
 
 
 
@@ -85,10 +85,10 @@ Effect	always	BURST,144;218;210&WHITE,GRAY
 #Placing Blocks:
 #<seconds>       Block        id:data      x,y,z
 #These open and close the Stage door.
-22	Block	152	-58,57,353
-23	Block	0	-58,57,253
-31	Block	152	-58,57,355
-32	Block	0	-58,57,355
-150	Block	152	-45,57,373
+22	Block	152	2108,36,5434
+23	Block	0	2108,36,5334
+31	Block	152	2108,36,5436
+32	Block	0	2108,36,5436
+150	Block	152	2121,36,5454
 
 

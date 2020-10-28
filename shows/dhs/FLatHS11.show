@@ -1,5 +1,5 @@
 #Show Started January 16th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -80,55 +80,55 @@ Show	Name	FLatH
 180.6	Text	&f[&dAnna&f] &7Don’t you dare!
 182.8	Text	&f[&9Olaf&f] &9IN SUMMER!!!
 #Schematics
-0	Schematic	FLatHS10.10	439	62	68	newhws	false
-69.7	Schematic	FLatHS11.1	439	62	68	newhws	false
-70.7	Schematic	FLatHS11.2	439	62	68	newhws	false
-71.7	Schematic	FLatHS11.3	439	62	68	newhws	false
-126.6	Schematic	FLatHS11.4	439	62	68	newhws	false
-127.1	Schematic	FLatHS11.5	439	62	68	newhws	false
-127.6	Schematic	FLatHS11.6	439	62	68	newhws	false
-128.1	Schematic	FLatHS11.7	439	62	68	newhws	false
-128.9	Schematic	FLatHS11.8	439	62	68	newhws	false
-131.3	Schematic	FLatHS11.3	439	62	68	newhws	false
-148.6	Schematic	FLatHS11.9	439	62	68	newhws	false
-154.1	Schematic	FLatHS11.3	439	62	68	newhws	false
-185.4	Schematic	FLatHS11.2	439	62	68	newhws	false
-187.2	Schematic	FLatHS11.1	439	62	68	newhws	false
-189	Schematic	FLatHS11.10	439	62	68	newhws	false
+0	Schematic	FLatHS10.10	2605	41	5149	newhws	false
+69.7	Schematic	FLatHS11.1	2605	41	5149	newhws	false
+70.7	Schematic	FLatHS11.2	2605	41	5149	newhws	false
+71.7	Schematic	FLatHS11.3	2605	41	5149	newhws	false
+126.6	Schematic	FLatHS11.4	2605	41	5149	newhws	false
+127.1	Schematic	FLatHS11.5	2605	41	5149	newhws	false
+127.6	Schematic	FLatHS11.6	2605	41	5149	newhws	false
+128.1	Schematic	FLatHS11.7	2605	41	5149	newhws	false
+128.9	Schematic	FLatHS11.8	2605	41	5149	newhws	false
+131.3	Schematic	FLatHS11.3	2605	41	5149	newhws	false
+148.6	Schematic	FLatHS11.9	2605	41	5149	newhws	false
+154.1	Schematic	FLatHS11.3	2605	41	5149	newhws	false
+185.4	Schematic	FLatHS11.2	2605	41	5149	newhws	false
+187.2	Schematic	FLatHS11.1	2605	41	5149	newhws	false
+189	Schematic	FLatHS11.10	2605	41	5149	newhws	false
 #Banners
-127.2	Block	152	464,89,100
-127.7	Block	152	464,89,99
-128.2	Block	152	464,89,98
-129	Block	152	464,89,97
-129.6	Block	0	465,71,75
-129.6	Block	0	465,71,76
-129.6	Block	0	465,71,77
-129.6	Block	0	465,71,78
-129.6	Block	0	465,71,79
-129.6	Block	0	465,71,80
-129.6	Block	0	466,71,75
-129.6	Block	0	466,71,76
-129.6	Block	0	466,71,77
-129.6	Block	0	466,71,78
-129.6	Block	0	466,71,79
-129.6	Block	0	466,71,80
+127.2	Block	152	2630,68,5181
+127.7	Block	152	2630,68,5180
+128.2	Block	152	2630,68,5179
+129	Block	152	2630,68,5178
+129.6	Block	0	2631,50,5156
+129.6	Block	0	2631,50,5157
+129.6	Block	0	2631,50,5158
+129.6	Block	0	2631,50,5159
+129.6	Block	0	2631,50,5160
+129.6	Block	0	2631,50,5161
+129.6	Block	0	2632,50,5156
+129.6	Block	0	2632,50,5157
+129.6	Block	0	2632,50,5158
+129.6	Block	0	2632,50,5159
+129.6	Block	0	2632,50,5160
+129.6	Block	0	2632,50,5161
 #MoveCurtainDown
-191.0	Block	152	452,89,102
-191.5	Block	152	453,89,102
-192.0	Block	152	454,89,102
-192.5	Block	152	455,89,102
-193.0	Block	152	456,89,102
-193.5	Block	152	457,89,102
-194.0	Block	152	458,89,102
-194.5	Block	152	459,89,102
-195.0	Block	152	460,89,102
-195.5	Block	152	461,89,102
-196.0	Block	152	462,89,102
+191.0	Block	152	2618,68,5183
+191.5	Block	152	2619,68,5183
+192.0	Block	152	2620,68,5183
+192.5	Block	152	2621,68,5183
+193.0	Block	152	2622,68,5183
+193.5	Block	152	2623,68,5183
+194.0	Block	152	2624,68,5183
+194.5	Block	152	2625,68,5183
+195.0	Block	152	2626,68,5183
+195.5	Block	152	2627,68,5183
+196.0	Block	152	2628,68,5183
 #BackstageDoors
 #BackStageDoorsOpen
-192	Block	76	445,62,104
-192	Block	76	445,62,103
-192	Block	76	444,62,64
-192	Block	76	444,62,63
+192	Block	76	2611,41,5185
+192	Block	76	2611,41,5184
+192	Block	76	2610,41,5145
+192	Block	76	2610,41,5144
 #Snow
-196	Block	152	465,88,68
+196	Block	152	2631,67,5149

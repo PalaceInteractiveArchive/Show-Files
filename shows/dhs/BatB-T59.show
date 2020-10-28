@@ -1,4 +1,4 @@
-Show	Location	-114,64,-28
+Show	Location	2052,43,5053
 Show	TextRadius	45
 Show	Name	BATB
 #January 23 - 
@@ -62,9 +62,9 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 #
 #ArmorStand Actions Zaf
 #Prince
-14	ArmorStand	prince	spawn	-111,64,-49
-15	ArmorStand	prince	move	-107,64,-44	1
-16	ArmorStand	prince	move	-108,64,-43	1
+14	ArmorStand	prince	spawn	2055,43,5032
+15	ArmorStand	prince	move	2059,43,5037	1
+16	ArmorStand	prince	move	2058,43,5038	1
 16	ArmorStand	prince	position	ARM_LEFT	316,0,199	1
 16	ArmorStand	prince	position	HEAD	0,30,0	3
 19	ArmorStand	prince	position	HEAD	0,-30,0	3
@@ -72,15 +72,15 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 22	ArmorStand	prince	position	HEAD	0,0,0	1
 23	ArmorStand	prince	position	ARM_RIGHT	252,0,0	1
 23	ArmorStand	prince	position	BODY	9,0,0	1
-24	ArmorStand	prince	move	-107,64,-44	1
+24	ArmorStand	prince	move	2059,43,5037	1
 25	ArmorStand	prince	position	ARM_RIGHT	0,0,0	0.1
 25	ArmorStand	prince	position	BODY	0,0,0	0.1
-25	ArmorStand	prince	move	-103,64,-40	1.5
+25	ArmorStand	prince	move	2063,43,5041	1.5
 26.5	ArmorStand	prince	position	ARM_RIGHT	252,0,0	1
 26.5	ArmorStand	prince	position	BODY	9,0,0	1
 27	ArmorStand	prince	position	ARM_RIGHT	0,0,0	1
 27	ArmorStand	prince	position	BODY	0,0,0	0.1
-27	ArmorStand	prince	move	-100,64,-36	3
+27	ArmorStand	prince	move	2066,43,5045	3
 30	ArmorStand	prince	position	ARM_LEFT	-40,0,0	6
 30	ArmorStand	prince	position	HEAD	30,0,0	6
 36	ArmorStand	prince	position	HEAD	0,0,0	1
@@ -90,87 +90,87 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 41	ArmorStand	prince	position	ARM_RIGHT	-30,0,0	1
 48	ArmorStand	prince	position	ARM_LEFT	0,0,0	2
 48	ArmorStand	prince	position	ARM_RIGHT	0,0,0	2
-50	ArmorStand	prince	move	-103,64,-38	5
+50	ArmorStand	prince	move	2063,43,5043	5
 55.5	ArmorStand	prince	position	ARM_LEFT	206,0,0	0.1
 68	ArmorStand	prince	position	ARM_LEFT	0,0,0	2
-70	ArmorStand	prince	move	-107,64,-44	5
+70	ArmorStand	prince	move	2059,43,5037	5
 78	ArmorStand	prince	despawn
 #Beast
-78.1	ArmorStand	beast	spawn	-107,64,-44
-80	ArmorStand	beast	move	-108,64,-43	1
+78.1	ArmorStand	beast	spawn	2059,43,5037
+80	ArmorStand	beast	move	2058,43,5038	1
 80	ArmorStand	beast	position	BODY	9,0,0	1
 80	ArmorStand	beast	position	ARM_LEFT	-130,41,0	1
 84	ArmorStand	beast	position	BODY	0,0,0	1
 84	ArmorStand	beast	position	ARM_LEFT	0,0,0	1
-85	ArmorStand	beast	move	-107,64,-44	1
-86	ArmorStand	beast	move	-111,64,-49	2
+85	ArmorStand	beast	move	2059,43,5037	1
+86	ArmorStand	beast	move	2055,43,5032	2
 90	ArmorStand	beast	despawn
 #ArmorStand Actions Sea
 #bannerguy1=RED
-6	ArmorStand	bannerguy1	spawn	-111,64,-49
+6	ArmorStand	bannerguy1	spawn	2055,43,5032
 6.3	ArmorStand	bannerguy1	rotate	-45 0.2
-6.4	ArmorStand	bannerguy1	move	-109,64,-47	.6
+6.4	ArmorStand	bannerguy1	move	2057,43,5034	.6
 7.5	ArmorStand	bannerguy1	rotate	495	2.5
-7.5	ArmorStand	bannerguy1	move	-99,64,-34	2.5
-11	ArmorStand	bannerguy1	move	-106,64,-42	2
+7.5	ArmorStand	bannerguy1	move	2067,43,5047	2.5
+11	ArmorStand	bannerguy1	move	2060,43,5039	2
 11	ArmorStand	bannerguy1	rotate	360	2
-20	ArmorStand	bannerguy1	move	-104,64,-38	4
+20	ArmorStand	bannerguy1	move	2062,43,5043	4
 20	ArmorStand	bannerguy1	rotate	180	4
-24	ArmorStand	bannerguy1	move	-98,64,-34	4
+24	ArmorStand	bannerguy1	move	2068,43,5047	4
 24	ArmorStand	bannerguy1	rotate	90	4
-53	ArmorStand	bannerguy1	move	-102,64,-36	3
+53	ArmorStand	bannerguy1	move	2064,43,5045	3
 53	ArmorStand	bannerguy1	rotate	45	3
-71	ArmorStand	bannerguy1	move	-106,64,-42	4
-80	ArmorStand	bannerguy1	move	-109,64,-47	1
-81	ArmorStand	bannerguy1	move	-111,64,-49	1
+71	ArmorStand	bannerguy1	move	2060,43,5039	4
+80	ArmorStand	bannerguy1	move	2057,43,5034	1
+81	ArmorStand	bannerguy1	move	2055,43,5032	1
 82	ArmorStand	bannerguy1	despawn	
 #bannerguy2=GREEN
-9	ArmorStand	bannerguy2	spawn	-93,64,-31
+9	ArmorStand	bannerguy2	spawn	2073,43,5050
 9.3	ArmorStand	bannerguy2	rotate	135	0.2
-9.4	ArmorStand	bannerguy2	move	-95,64,-33	0.6
-10.5	ArmorStand	bannerguy2	move	-108,64,-44	3
+9.4	ArmorStand	bannerguy2	move	2071,43,5048	0.6
+10.5	ArmorStand	bannerguy2	move	2058,43,5037	3
 10.5	ArmorStand	bannerguy2	rotate	380	2.5
-20	ArmorStand	bannerguy2	move	-102,64,-40	4
+20	ArmorStand	bannerguy2	move	2064,43,5041	4
 20	ArmorStand	bannerguy2	rotate	345	4
-24	ArmorStand	bannerguy2	move	-96.5,64,-32.5	4
+24	ArmorStand	bannerguy2	move	2069.5,43,5048.5	4
 24	ArmorStand	bannerguy2	rotate	45	4
-53	ArmorStand	bannerguy2	move	-100,64,-38	1.5
-54.5	ArmorStand	bannerguy2	move	-104,64,-38	1.5
+53	ArmorStand	bannerguy2	move	2066,43,5043	1.5
+54.5	ArmorStand	bannerguy2	move	2062,43,5043	1.5
 71	ArmorStand	bannerguy2	move	-108,64,-44 4
-80	ArmorStand	bannerguy2	move	-109,64,-47	1
-81	ArmorStand	bannerguy2	move	-111,64,-49	1
+80	ArmorStand	bannerguy2	move	2057,43,5034	1
+81	ArmorStand	bannerguy2	move	2055,43,5032	1
 82	ArmorStand	bannerguy2	despawn
 #witch
-28	ArmorStand	witch	spawn	-95,64,-33
+28	ArmorStand	witch	spawn	2071,43,5048
 28.1	ArmorStand	witch	rotate	135	1
-29.6	ArmorStand	witch	move	-96,64,-33	1
-30.6	ArmorStand	witch	move	-98,64,-33	1
+29.6	ArmorStand	witch	move	2070,43,5048	1
+30.6	ArmorStand	witch	move	2068,43,5048	1
 39	ArmorStand	witch	rotate	90	1
 42	ArmorStand	witch	rotate	90	1
 48	ArmorStand	witch	rotate	360	6
-48	ArmorStand	witch	move	-101,64,-40	2
-50	ArmorStand	witch	move	-106,64,-39	4
-58	ArmorStand	witch	move	-104,64,-36	3
+48	ArmorStand	witch	move	2065,43,5041	2
+50	ArmorStand	witch	move	2060,43,5042	4
+58	ArmorStand	witch	move	2062,43,5045	3
 60	ArmorStand	witch	rotate	180	4
-64	ArmorStand	witch	move	-103,64,-36	2
-69	ArmorStand	witch	move	-93,64,-31	5
+64	ArmorStand	witch	move	2063,43,5045	2
+69	ArmorStand	witch	move	2073,43,5050	5
 74	ArmorStand	witch	despawn		
 #might put back 
 #51.2	ArmorStand	witch	move	-104,64,-41	3.4
 #51.2	ArmorStand	witch	rotate	360	3
 #little town belle= belle1
-81	ArmorStand	belle1	spawn	-101.534,64,-42.276
+81	ArmorStand	belle1	spawn	2064.466,43,5038.724
 #initial
-81.1	Block	152	-70,61,-26
-81.3	Block	0	-70,61,-26
+81.1	Block	152	2096,40,5055
+81.3	Block	0	2096,40,5055
 #
 #belle spawns 81.3 at -130 degrees
 #at 88	belle will rotate to 45
-88	Block	152	-69,61,-26
-88.2	Block	0	-69,61,-26
+88	Block	152	2097,40,5055
+88.2	Block	0	2097,40,5055
 #
 #81.3	ArmorStand	belle1	rotate	45	1
-90	ArmorStand	belle1	move	-104.705,64,-37.664	8
+90	ArmorStand	belle1	move	2061.295,43,5043.336	8
 90	ArmorStand	belle1	position	HEAD	10,0,0	1
 90.5	ArmorStand	belle1	position	ARM_LEFT	-10,0,0	.5
 91	ArmorStand	belle1	position	ARM_RIGHT	-10,0,0	1
@@ -202,31 +202,31 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 117.5	ArmorStand	belle1	position	HEAD	0,0,0	.5
 118.2	ArmorStand	belle1	position	HEAD	-10,0,0	.5
 #at 120.5, belle will go to rotation -30
-120.5	Block	152	-68,61,-26
-120.7	Block	0	-68,61,-26
+120.5	Block	152	2098,40,5055
+120.7	Block	0	2098,40,5055
 #
 120.5	ArmorStand	belle1	position	HEAD	0,-20,0	.5
 121	ArmorStand	belle1	position	ARM_LEFT	-130,-40,0	.5
 122	ArmorStand	belle1	position	ARM_LEFT	-30,15,0	.5
 #at 122.3	belle1 will rotate to 105
-122.3	Block	152	-67,61,-26
-122.5	Block	0	-67,61,-26
+122.3	Block	152	2099,40,5055
+122.5	Block	0	2099,40,5055
 #
 122.3	ArmorStand	belle1	position	HEAD	0,0,0	.5
 122.8	ArmorStand	belle1	position	HEAD	20,0,0	.5
 122.8	ArmorStand	belle1	position	ARM_RIGHT	-145,50,0	.5
 #at 123.7	belle will rotate to 45
-123.7	Block	152	-69,61,-26
-123.9	Block	0	-69,61,-26
+123.7	Block	152	2097,40,5055
+123.9	Block	0	2097,40,5055
 #
 123.7	ArmorStand	belle1	position	ARM_RIGHT	-20,0,0	.2
 123.7	ArmorStand	belle1	position	ARM_LEFT	0,0,0	.2
 123.7	ArmorStand	belle1	position	HEAD	0,0,0	.2
 #at 124.4	belle will rotate to -30
-124.4	Block	152	-68,61,-26
-124.6	Block	0	-68,61,-26
+124.4	Block	152	2098,40,5055
+124.6	Block	0	2098,40,5055
 #
-124.2	ArmorStand	belle1	move	-101.824,64,-37.081	3
+124.2	ArmorStand	belle1	move	2064.176,43,5043.919	3
 124.2	ArmorStand	belle1	position	LEG_RIGHT	-32,0,0	1
 124.2	ArmorStand	belle1	position	LEG_LEFT	7,0,0	1
 125.4	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	1
@@ -235,8 +235,8 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 126.7	ArmorStand	belle1	position	LEG_LEFT	0,0,0	.5
 126.7	ArmorStand	belle1	position	LEG_RIGHT	0,0,0	.5
 #at 128, belle will rotate to 15
-128	Block	152	-66,61,-26
-128.2	Block	0	-66,61,-26
+128	Block	152	2100,40,5055
+128.2	Block	0	2100,40,5055
 #
 128	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
 128	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
@@ -245,13 +245,13 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 132.8	ArmorStand	belle1	position	HEAD	-10,20,0	.5
 #belle moves at 134.8
 #at 134.8, belle rotates to 105
-134.8	Block	152	-67,61,-26
-135	Block	0	-67,61,-26
+134.8	Block	152	2099,40,5055
+135	Block	0	2099,40,5055
 #
 #at 136.4 is "goodmorning belle'
 #at 136.4 belle rotates to -15
-136.4	Block	152	-65,61,-26
-136.6	Block	0	-65,61,-26
+136.4	Block	152	2101,40,5055
+136.6	Block	0	2101,40,5055
 #
 136.5	ArmorStand	belle1	position	HEAD	5,-20,0	.5
 #good morning monseiur
@@ -270,36 +270,36 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 #THE BAGUETESSS
 146.8	ArmorStand	belle1	position	HEAD	5,0,0	.2
 #147.7, belle rotates to 45
-147.7	Block	152	-69,61,-26
-147.9	Block	0	-69,61,-26
+147.7	Block	152	2097,40,5055
+147.9	Block	0	2097,40,5055
 #
 147.9	ArmorStand	belle1	position	HEAD	20,0,0	.5
 147.9	ArmorStand	belle1	position	ARM_LEFT	-30,-15,0	.5
 147.9	ArmorStand	belle1	position	ARM_RIGHT	-30,15,0	.5
 #she is supposed to be holding a book
 #she walks forward
-148.5	ArmorStand	belle1	move	-102.655,64.1,-35.411	1
+148.5	ArmorStand	belle1	move	2063.345,43.099999999999994,5045.589	1
 #belle rotates to -30
-151	Block	152	-68,61,-26
-151.2	Block	0	-68,61,-26
+151	Block	152	2098,40,5055
+151.2	Block	0	2098,40,5055
 #
 #she walks over to the far right
-151	ArmorStand	belle1	move	-99.492,64,-33.406	5
+151	ArmorStand	belle1	move	2066.508,43,5047.594	5
 #at 157 she rotates -135 and walks around
-157	Block	152	-64,61,-26
-157.2	Block	0	-64,61,-26
+157	Block	152	2102,40,5055
+157.2	Block	0	2102,40,5055
 #
-157	ArmorStand	belle1	move	-97.143,64,-35.073	1
+157	ArmorStand	belle1	move	2068.857,43,5045.927	1
 #at 158.3	belle will rotate 105
-158.3	Block	152	-67,61,-26
-158.5	Block	0	-67,61,-26
+158.3	Block	152	2099,40,5055
+158.5	Block	0	2099,40,5055
 #
-158.3	ArmorStand	belle1	move	-98.768,64,-36.783	1.5
+158.3	ArmorStand	belle1	move	2067.232,43,5044.217	1.5
 #belle will rotate to 75 at 159.5
-159.5	Block	152	-63,61,-26
-159.7	Block	0	-63,61,-26
+159.5	Block	152	2103,40,5055
+159.7	Block	0	2103,40,5055
 #
-159.5	ArmorStand	belle1	move	-99.7,64,-36.3	1.3
+159.5	ArmorStand	belle1	move	2066.3,43,5044.7	1.3
 159.5	ArmorStand	belle1	position	LEG_RIGHT	-32,0,0	.5
 159.5	ArmorStand	belle1	position	LEG_LEFT	7,0,0	.5
 #by 160.8 she should be at her stopping point
@@ -310,13 +310,13 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 165.8	ArmorStand	belle1	position	HEAD	0,10,0	1
 167.1	ArmorStand	belle1	position	HEAD	10,0,0	.6
 #at 168 she starts moving
-168	ArmorStand	belle1	move	-102.769,64,-39.010	1.6
+168	ArmorStand	belle1	move	2063.2309999999998,43,5041.99	1.6
 172.5	ArmorStand	belle1	position	HEAD	-5,0,0	1.5
 172.5	ArmorStand	belle1	position	ARM_LEFT	-60,12,0	.5
 172.5	ArmorStand	belle1	position	ARM_RIGHT	-60,-12,0	.5
 #176.8 she rotates to 45
-176.8	Block	152	-69,61,-26
-177	Block	0	-69,61,-26
+176.8	Block	152	2097,40,5055
+177	Block	0	2097,40,5055
 #
 176.8	ArmorStand	belle1	position	HEAD	-10,-20,0	2
 179.1	ArmorStand	belle1	position	ARM_LEFT	-20,12,0	.5
@@ -328,48 +328,48 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 182.5	ArmorStand	belle1	position	ARM_RIGHT	-60,-12,0	.5
 188	ArmorStand	belle1	position	HEAD	0,-10,0	.5
 #she rotates at 190.7 to 105
-190.7	Block	152	-67,61,-26
-190.9	Block	0	-67,61,-26
+190.7	Block	152	2099,40,5055
+190.9	Block	0	2099,40,5055
 #
-190.7	ArmorStand	belle1	move	-108.774,64,-42.414	6
+190.7	ArmorStand	belle1	move	2057.226,43,5038.586	6
 190.7	ArmorStand	belle1	position	HEAD	0,0,0	.5
 190.7	ArmorStand	belle1	position	ARM_LEFT	-20,12,0	.5
 190.7	ArmorStand	belle1	position	ARM_RIGHT	-20,-12,0	.5
 196.3	ArmorStand	belle1	position	HEAD	10,0,0	1
 #196.3 she rotates to 195	
-196.3	Block	152	-62,61,-26
-196.5	Block	0	-62,61,-26
+196.3	Block	152	2104,40,5055
+196.5	Block	0	2104,40,5055
 #
-196.3	ArmorStand	belle1	move	-105.627,64,-45.373	1.7
+196.3	ArmorStand	belle1	move	2060.373,43,5035.627	1.7
 #at 197 she rotates to 225
-197	Block	152	-61,61,-26
-197.2	Block	0	-61,61,-26
+197	Block	152	2105,40,5055
+197.2	Block	0	2105,40,5055
 #part ive stopped at, they say "mademoselle then "its pity and sin"
 
 
 #townperson1= green dress, blonde
-81	ArmorStand	town1	spawn	-104.496,64,-46.324
+81	ArmorStand	town1	spawn	2061.504,43,5034.676
 81.3	ArmorStand	town1	rotate	-100	1
 81.5	ArmorStand	town1	position	ARM_LEFT	-50,24,0	.5
 81.5	ArmorStand	town1	position	ARM_RIGHT	-50,-24,0	.5
 #townperson2=orange guy
-81	ArmorStand	town2	spawn	-103.715,64,-45.486
+81	ArmorStand	town2	spawn	2062.285,43,5035.514
 81.3	ArmorStand	town2	rotate	-135	1
 #townperson3=red guy
-81	ArmorStand	town3	spawn	-102.884,64,-44.386
+81	ArmorStand	town3	spawn	2063.116,43,5036.614
 81.3	ArmorStand	town3	rotate	165	1
 81.5	ArmorStand	town3	position	ARM_LEFT	-20,0,0	.5
 #townsperson4=redgirl
-81	ArmorStand	town4	spawn	-99.533,64,-41.369
+81	ArmorStand	town4	spawn	2066.467,43,5039.631
 81.3	ArmorStand	town4	rotate	45	1
 81.5	ArmorStand	town4	position	HEAD	0,-30,0	.5
 81.5	ArmorStand	town4	position	ARM_LEFT	-50,24,0	.5
 81.5	ArmorStand	town4	position	ARM_RIGHT	-50,-24,0	.5
 #townsperson5=baker
-81	ArmorStand	town5	spawn	-98.663,64,-40.418
+81	ArmorStand	town5	spawn	2067.337,43,5040.582
 #initial baker
-81.1	Block	152	-61,61,-22
-81.3	Block	0	-61,61,-22
+81.1	Block	152	2105,40,5059
+81.3	Block	0	2105,40,5059
 #
 81.3	ArmorStand	town5	rotate	45	1
 81.5	ArmorStand	town5	position	HEAD	-10,20,0	.5
@@ -380,22 +380,22 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 120.5	ArmorStand	town5	position	ARM_RIGHT	-140,36,0	.2
 121	ArmorStand	town5	position	ARM_LEFT	-41,0,0	.2
 121	ArmorStand	town5	position	ARM_RIGHT	-34,15,0	.2
-124.5	ArmorStand	town5	move	-99.2,64,-34.7	10
+124.5	ArmorStand	town5	move	2066.8,43,5046.3	10
 #136 baker will rotate to 135
-136	Block	152	-62,61,-22
-136.2	Block	0	-62,61,-22
+136	Block	152	2104,40,5059
+136.2	Block	0	2104,40,5059
 #
 
 #townsperson6=greengirl
-81	ArmorStand	town6	spawn	-97.541,64,-39.662
+81	ArmorStand	town6	spawn	2068.459,43,5041.338
 81.3	ArmorStand	town6	rotate	-42	1
 81.5	ArmorStand	town6	position	ARM_RIGHT	-45,0,0	.5
 #townsperson7=blueguy
-81	ArmorStand	town7	spawn	-96.434,64,-38.362
+81	ArmorStand	town7	spawn	2069.566,43,5042.638
 81.3	ArmorStand	town7	rotate	65	1
 81.5	ArmorStand	town7	position	HEAD	0,30,0	.5
 #townsperson8=blonde red girl with no bread????
-81	ArmorStand	town8	spawn	-95.419,64,-37.389
+81	ArmorStand	town8	spawn	2070.581,43,5043.611
 81.3	ArmorStand	town8	rotate	80	1
 81.5	ArmorStand	town8	position	ARM_LEFT	-50,24,0	.5
 81.5	ArmorStand	town8	position	ARM_RIGHT	-50,-24,0	.5
@@ -755,525 +755,525 @@ ArmorStand	bogguy6	false	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90Z
 1431	Text	&6Plugin by -- &dChiss and the MCMagic Dev Team
 1433	Text	&6And of course, the &bMCMagic Parks Family!
 #Lightning
-1056.2	Block	152	-74,65,-26
-1057	Block	152	-74,65,-26
-1209.4	Block	152	-74,65,-26
-1214.7	Block	152	-74,65,-26
-1215.1	Block	152	-74,65,-26
+1056.2	Block	152	2092,44,5055
+1057	Block	152	2092,44,5055
+1209.4	Block	152	2092,44,5055
+1214.7	Block	152	2092,44,5055
+1215.1	Block	152	2092,44,5055
 #MainStageLightsOutAfterBell
-6.7	Block	123	-104,74,-38
-6.7	Block	123	-101,73,-35
-6.7	Block	123	-102,73,-36
-6.7	Block	123	-106,73,-40
-6.7	Block	123	-107,73,-41
-6.7	Block	123	-100,72,-34
-6.7	Block	123	-108,72,-42
-6.7	Block	123	-98,71,-31
-6.7	Block	123	-111,71,-44
-6.7	Block	123	-111,69,-46
-6.7	Block	123	-96,69,-31
-664.6	Block	123	-104,74,-38
-664.6	Block	123	-101,73,-35
-664.6	Block	123	-102,73,-36
-664.6	Block	123	-106,73,-40
-664.6	Block	123	-107,73,-41
-664.6	Block	123	-100,72,-34
-664.6	Block	123	-108,72,-42
-664.6	Block	123	-98,71,-31
-664.6	Block	123	-111,71,-44
-664.6	Block	123	-111,69,-46
-664.6	Block	123	-96,69,-31
-665.7	Block	123	-104,74,-38
-665.7	Block	123	-101,73,-35
-665.7	Block	123	-102,73,-36
-665.7	Block	123	-106,73,-40
-665.7	Block	123	-107,73,-41
-665.7	Block	123	-100,72,-34
-665.7	Block	123	-108,72,-42
-665.7	Block	123	-98,71,-31
-665.7	Block	123	-111,71,-44
-665.7	Block	123	-111,69,-46
-665.7	Block	123	-96,69,-31
-667	Block	123	-104,74,-38
-667	Block	123	-101,73,-35
-667	Block	123	-102,73,-36
-667	Block	123	-106,73,-40
-667	Block	123	-107,73,-41
-667	Block	123	-100,72,-34
-667	Block	123	-108,72,-42
-667	Block	123	-98,71,-31
-667	Block	123	-111,71,-44
-667	Block	123	-111,69,-46
-667	Block	123	-96,69,-31
-668	Block	123	-104,74,-38
-668	Block	123	-101,73,-35
-668	Block	123	-102,73,-36
-668	Block	123	-106,73,-40
-668	Block	123	-107,73,-41
-668	Block	123	-100,72,-34
-668	Block	123	-108,72,-42
-668	Block	123	-98,71,-31
-668	Block	123	-111,71,-44
-668	Block	123	-111,69,-46
-668	Block	123	-96,69,-31
-691.9	Block	123	-104,74,-38
-691.9	Block	123	-101,73,-35
-691.9	Block	123	-102,73,-36
-691.9	Block	123	-106,73,-40
-691.9	Block	123	-107,73,-41
-691.9	Block	123	-100,72,-34
-691.9	Block	123	-108,72,-42
-691.9	Block	123	-98,71,-31
-691.9	Block	123	-111,71,-44
-691.9	Block	123	-111,69,-46
-691.9	Block	123	-96,69,-31
+6.7	Block	123	2062,53,5043
+6.7	Block	123	2065,52,5046
+6.7	Block	123	2064,52,5045
+6.7	Block	123	2060,52,5041
+6.7	Block	123	2059,52,5040
+6.7	Block	123	2066,51,5047
+6.7	Block	123	2058,51,5039
+6.7	Block	123	2068,50,5050
+6.7	Block	123	2055,50,5037
+6.7	Block	123	2055,48,5035
+6.7	Block	123	2070,48,5050
+664.6	Block	123	2062,53,5043
+664.6	Block	123	2065,52,5046
+664.6	Block	123	2064,52,5045
+664.6	Block	123	2060,52,5041
+664.6	Block	123	2059,52,5040
+664.6	Block	123	2066,51,5047
+664.6	Block	123	2058,51,5039
+664.6	Block	123	2068,50,5050
+664.6	Block	123	2055,50,5037
+664.6	Block	123	2055,48,5035
+664.6	Block	123	2070,48,5050
+665.7	Block	123	2062,53,5043
+665.7	Block	123	2065,52,5046
+665.7	Block	123	2064,52,5045
+665.7	Block	123	2060,52,5041
+665.7	Block	123	2059,52,5040
+665.7	Block	123	2066,51,5047
+665.7	Block	123	2058,51,5039
+665.7	Block	123	2068,50,5050
+665.7	Block	123	2055,50,5037
+665.7	Block	123	2055,48,5035
+665.7	Block	123	2070,48,5050
+667	Block	123	2062,53,5043
+667	Block	123	2065,52,5046
+667	Block	123	2064,52,5045
+667	Block	123	2060,52,5041
+667	Block	123	2059,52,5040
+667	Block	123	2066,51,5047
+667	Block	123	2058,51,5039
+667	Block	123	2068,50,5050
+667	Block	123	2055,50,5037
+667	Block	123	2055,48,5035
+667	Block	123	2070,48,5050
+668	Block	123	2062,53,5043
+668	Block	123	2065,52,5046
+668	Block	123	2064,52,5045
+668	Block	123	2060,52,5041
+668	Block	123	2059,52,5040
+668	Block	123	2066,51,5047
+668	Block	123	2058,51,5039
+668	Block	123	2068,50,5050
+668	Block	123	2055,50,5037
+668	Block	123	2055,48,5035
+668	Block	123	2070,48,5050
+691.9	Block	123	2062,53,5043
+691.9	Block	123	2065,52,5046
+691.9	Block	123	2064,52,5045
+691.9	Block	123	2060,52,5041
+691.9	Block	123	2059,52,5040
+691.9	Block	123	2066,51,5047
+691.9	Block	123	2058,51,5039
+691.9	Block	123	2068,50,5050
+691.9	Block	123	2055,50,5037
+691.9	Block	123	2055,48,5035
+691.9	Block	123	2070,48,5050
 #MainStageLightsOnAfterBell
-663.5	Block	89	-104,74,-38
-663.5	Block	89	-101,73,-35
-663.5	Block	89	-102,73,-36
-663.5	Block	89	-106,73,-40
-663.5	Block	89	-107,73,-41
-663.5	Block	89	-100,72,-34
-663.5	Block	89	-108,72,-42
-663.5	Block	89	-98,71,-31
-663.5	Block	89	-111,71,-44
-663.5	Block	89	-111,69,-46
-663.5	Block	89	-96,69,-31
-665.5	Block	89	-104,74,-38
-665.5	Block	89	-101,73,-35
-665.5	Block	89	-102,73,-36
-665.5	Block	89	-106,73,-40
-665.5	Block	89	-107,73,-41
-665.5	Block	89	-100,72,-34
-665.5	Block	89	-108,72,-42
-665.5	Block	89	-98,71,-31
-665.5	Block	89	-111,71,-44
-665.5	Block	89	-111,69,-46
-665.5	Block	89	-96,69,-31
-667.5	Block	89	-104,74,-38
-667.5	Block	89	-101,73,-35
-667.5	Block	89	-102,73,-36
-667.5	Block	89	-106,73,-40
-667.5	Block	89	-107,73,-41
-667.5	Block	89	-100,72,-34
-667.5	Block	89	-108,72,-42
-667.5	Block	89	-98,71,-31
-667.5	Block	89	-111,71,-44
-667.5	Block	89	-111,69,-46
-667.5	Block	89	-96,69,-31
-668.2	Block	89	-104,74,-38
-668.2	Block	89	-101,73,-35
-668.2	Block	89	-102,73,-36
-668.2	Block	89	-106,73,-40
-668.2	Block	89	-107,73,-41
-668.2	Block	89	-100,72,-34
-668.2	Block	89	-108,72,-42
-668.2	Block	89	-98,71,-31
-668.2	Block	89	-111,71,-44
-668.2	Block	89	-111,69,-46
-668.2	Block	89	-96,69,-31
-688.6	Block	89	-104,74,-38
-688.6	Block	89	-101,73,-35
-688.6	Block	89	-102,73,-36
-688.6	Block	89	-106,73,-40
-688.6	Block	89	-107,73,-41
-688.6	Block	89	-100,72,-34
-688.6	Block	89	-108,72,-42
-688.6	Block	89	-98,71,-31
-688.6	Block	89	-111,71,-44
-688.6	Block	89	-111,69,-46
-688.6	Block	89	-96,69,-31
-1418	Block	89	-104,74,-38
-1418	Block	89	-101,73,-35
-1418	Block	89	-102,73,-36
-1418	Block	89	-106,73,-40
-1418	Block	89	-107,73,-41
-1418	Block	89	-100,72,-34
-1418	Block	89	-108,72,-42
-1418	Block	89	-98,71,-31
-1418	Block	89	-111,71,-44
-1418	Block	89	-111,69,-46
-1418	Block	89	-96,69,-31
+663.5	Block	89	2062,53,5043
+663.5	Block	89	2065,52,5046
+663.5	Block	89	2064,52,5045
+663.5	Block	89	2060,52,5041
+663.5	Block	89	2059,52,5040
+663.5	Block	89	2066,51,5047
+663.5	Block	89	2058,51,5039
+663.5	Block	89	2068,50,5050
+663.5	Block	89	2055,50,5037
+663.5	Block	89	2055,48,5035
+663.5	Block	89	2070,48,5050
+665.5	Block	89	2062,53,5043
+665.5	Block	89	2065,52,5046
+665.5	Block	89	2064,52,5045
+665.5	Block	89	2060,52,5041
+665.5	Block	89	2059,52,5040
+665.5	Block	89	2066,51,5047
+665.5	Block	89	2058,51,5039
+665.5	Block	89	2068,50,5050
+665.5	Block	89	2055,50,5037
+665.5	Block	89	2055,48,5035
+665.5	Block	89	2070,48,5050
+667.5	Block	89	2062,53,5043
+667.5	Block	89	2065,52,5046
+667.5	Block	89	2064,52,5045
+667.5	Block	89	2060,52,5041
+667.5	Block	89	2059,52,5040
+667.5	Block	89	2066,51,5047
+667.5	Block	89	2058,51,5039
+667.5	Block	89	2068,50,5050
+667.5	Block	89	2055,50,5037
+667.5	Block	89	2055,48,5035
+667.5	Block	89	2070,48,5050
+668.2	Block	89	2062,53,5043
+668.2	Block	89	2065,52,5046
+668.2	Block	89	2064,52,5045
+668.2	Block	89	2060,52,5041
+668.2	Block	89	2059,52,5040
+668.2	Block	89	2066,51,5047
+668.2	Block	89	2058,51,5039
+668.2	Block	89	2068,50,5050
+668.2	Block	89	2055,50,5037
+668.2	Block	89	2055,48,5035
+668.2	Block	89	2070,48,5050
+688.6	Block	89	2062,53,5043
+688.6	Block	89	2065,52,5046
+688.6	Block	89	2064,52,5045
+688.6	Block	89	2060,52,5041
+688.6	Block	89	2059,52,5040
+688.6	Block	89	2066,51,5047
+688.6	Block	89	2058,51,5039
+688.6	Block	89	2068,50,5050
+688.6	Block	89	2055,50,5037
+688.6	Block	89	2055,48,5035
+688.6	Block	89	2070,48,5050
+1418	Block	89	2062,53,5043
+1418	Block	89	2065,52,5046
+1418	Block	89	2064,52,5045
+1418	Block	89	2060,52,5041
+1418	Block	89	2059,52,5040
+1418	Block	89	2066,51,5047
+1418	Block	89	2058,51,5039
+1418	Block	89	2068,50,5050
+1418	Block	89	2055,50,5037
+1418	Block	89	2055,48,5035
+1418	Block	89	2070,48,5050
 #SmokeEffectOn
-12.4	Block	152	-85,65,-25
-918.2	Block	152	-85,65,-25
+12.4	Block	152	2081,44,5056
+918.2	Block	152	2081,44,5056
 #SmokeEffectOff
-85.5	Block	0	-85,65,-25
-1065.6	Block	0	-85,65,-25
+85.5	Block	0	2081,44,5056
+1065.6	Block	0	2081,44,5056
 #VillageEffectOn
-86.7	Block	152	-80,65,-30
+86.7	Block	152	2086,44,5051
 #VillageEffectOff
-398	Block	0	-80,65,-30
+398	Block	0	2086,44,5051
 #Curtains1Up.1
-86.7	Block	0	-106,64,-46
-86.7	Block	0	-104,64,-44
-86.7	Block	0	-102,64,-42
-86.7	Block	0	-100,64,-40
-86.7	Block	0	-98,64,-38
-86.7	Block	0	-96,64,-36
+86.7	Block	0	2060,43,5035
+86.7	Block	0	2062,43,5037
+86.7	Block	0	2064,43,5039
+86.7	Block	0	2066,43,5041
+86.7	Block	0	2068,43,5043
+86.7	Block	0	2070,43,5045
 #Curtains1Up.2
-87.7	Block	0	-106,65,-46
-87.7	Block	0	-104,65,-44
-87.7	Block	0	-102,65,-42
-87.7	Block	0	-100,65,-40
-87.7	Block	0	-98,65,-38
-87.7	Block	0	-96,65,-36
+87.7	Block	0	2060,44,5035
+87.7	Block	0	2062,44,5037
+87.7	Block	0	2064,44,5039
+87.7	Block	0	2066,44,5041
+87.7	Block	0	2068,44,5043
+87.7	Block	0	2070,44,5045
 #Curtains1Up.3
-88.7	Block	0	-106,66,-46
-88.7	Block	0	-104,66,-44
-88.7	Block	0	-102,66,-42
-88.7	Block	0	-100,66,-40
-88.7	Block	0	-98,66,-38
-88.7	Block	0	-96,66,-36
+88.7	Block	0	2060,45,5035
+88.7	Block	0	2062,45,5037
+88.7	Block	0	2064,45,5039
+88.7	Block	0	2066,45,5041
+88.7	Block	0	2068,45,5043
+88.7	Block	0	2070,45,5045
 #Curtains1Up.4
-89.8	Block	0	-106,67,-46
-89.8	Block	0	-104,67,-44
-89.8	Block	0	-102,67,-42
-89.8	Block	0	-100,67,-40
-89.8	Block	0	-98,67,-38
-89.8	Block	0	-96,67,-36
+89.8	Block	0	2060,46,5035
+89.8	Block	0	2062,46,5037
+89.8	Block	0	2064,46,5039
+89.8	Block	0	2066,46,5041
+89.8	Block	0	2068,46,5043
+89.8	Block	0	2070,46,5045
 #Curtains1Up.5
-90.8	Block	0	-106,68,-46
-90.8	Block	0	-104,68,-44
-90.8	Block	0	-102,68,-42
-90.8	Block	0	-100,68,-40
-90.8	Block	0	-98,68,-38
-90.8	Block	0	-96,68,-36
+90.8	Block	0	2060,47,5035
+90.8	Block	0	2062,47,5037
+90.8	Block	0	2064,47,5039
+90.8	Block	0	2066,47,5041
+90.8	Block	0	2068,47,5043
+90.8	Block	0	2070,47,5045
 #Curtains1Up.6
-91.9	Block	0	-106,69,-46
-91.9	Block	0	-104,69,-44
-91.9	Block	0	-102,69,-42
-91.9	Block	0	-100,69,-40
-91.9	Block	0	-98,69,-38
-91.9	Block	0	-96,69,-36
+91.9	Block	0	2060,48,5035
+91.9	Block	0	2062,48,5037
+91.9	Block	0	2064,48,5039
+91.9	Block	0	2066,48,5041
+91.9	Block	0	2068,48,5043
+91.9	Block	0	2070,48,5045
 #Curtains1Up.6
-92.9	Block	0	-106,70,-46
-92.9	Block	0	-104,70,-44
-92.9	Block	0	-102,70,-42
-92.9	Block	0	-100,70,-40
-92.9	Block	0	-98,70,-38
-92.9	Block	0	-96,70,-36
+92.9	Block	0	2060,49,5035
+92.9	Block	0	2062,49,5037
+92.9	Block	0	2064,49,5039
+92.9	Block	0	2066,49,5041
+92.9	Block	0	2068,49,5043
+92.9	Block	0	2070,49,5045
 #Curtains2Up.1
-87.7	Block	0	-105,64,-45
-87.7	Block	0	-103,64,-43
-87.7	Block	0	-101,64,-41
-87.7	Block	0	-99,64,-39
-87.7	Block	0	-97,64,-37
+87.7	Block	0	2061,43,5036
+87.7	Block	0	2063,43,5038
+87.7	Block	0	2065,43,5040
+87.7	Block	0	2067,43,5042
+87.7	Block	0	2069,43,5044
 #Curtains2Up.2
-88.7	Block	0	-105,65,-45
-88.7	Block	0	-103,65,-43
-88.7	Block	0	-101,65,-41
-88.7	Block	0	-99,65,-39
-88.7	Block	0	-97,65,-37
+88.7	Block	0	2061,44,5036
+88.7	Block	0	2063,44,5038
+88.7	Block	0	2065,44,5040
+88.7	Block	0	2067,44,5042
+88.7	Block	0	2069,44,5044
 #Curtains2Up.3
-89.8	Block	0	-105,66,-45
-89.8	Block	0	-103,66,-43
-89.8	Block	0	-101,66,-41
-89.8	Block	0	-99,66,-39
-89.8	Block	0	-97,66,-37
+89.8	Block	0	2061,45,5036
+89.8	Block	0	2063,45,5038
+89.8	Block	0	2065,45,5040
+89.8	Block	0	2067,45,5042
+89.8	Block	0	2069,45,5044
 #Curtains2Up.4
-90.8	Block	0	-105,67,-45
-90.8	Block	0	-103,67,-43
-90.8	Block	0	-101,67,-41
-90.8	Block	0	-99,67,-39
-90.8	Block	0	-97,67,-37
+90.8	Block	0	2061,46,5036
+90.8	Block	0	2063,46,5038
+90.8	Block	0	2065,46,5040
+90.8	Block	0	2067,46,5042
+90.8	Block	0	2069,46,5044
 #Curtains2Up.5
-91.9	Block	0	-105,68,-45
-91.9	Block	0	-103,68,-43
-91.9	Block	0	-101,68,-41
-91.9	Block	0	-99,68,-39
-91.9	Block	0	-97,68,-37
+91.9	Block	0	2061,47,5036
+91.9	Block	0	2063,47,5038
+91.9	Block	0	2065,47,5040
+91.9	Block	0	2067,47,5042
+91.9	Block	0	2069,47,5044
 #Curtains2Up.6
-92.9	Block	0	-105,69,-45
-92.9	Block	0	-103,69,-43
-92.9	Block	0	-101,69,-41
-92.9	Block	0	-99,69,-39
-92.9	Block	0	-97,69,-37
+92.9	Block	0	2061,48,5036
+92.9	Block	0	2063,48,5038
+92.9	Block	0	2065,48,5040
+92.9	Block	0	2067,48,5042
+92.9	Block	0	2069,48,5044
 #CenterStageLightOn
-101.4	Block	95:8	-104,63,-38
-218.4	Block	95:8	-104,63,-38
-373.9	Block	95:8	-104,63,-38
+101.4	Block	95:8	2062,42,5043
+218.4	Block	95:8	2062,42,5043
+373.9	Block	95:8	2062,42,5043
 #CenterStageLightOff
-120.3	Block	159:0	-104,63,-38
-235.2	Block	159:0	-104,63,-38
-398.8	Block	159:0	-104,63,-38
+120.3	Block	159:0	2062,42,5043
+235.2	Block	159:0	2062,42,5043
+398.8	Block	159:0	2062,42,5043
 #RightStageLightOn
-162.1	Block	95:8	-99,63,-35
-327.7	Block	95:8	-99,63,-35
+162.1	Block	95:8	2067,42,5046
+327.7	Block	95:8	2067,42,5046
 #RightStageLightOff
-191.2	Block	159:0	-99,63,-35
-332.2	Block	159:0	-99,63,-35
+191.2	Block	159:0	2067,42,5046
+332.2	Block	159:0	2067,42,5046
 #LeftStageMidLightOn
-327.7	Block	95:8	-106,63,-40
+327.7	Block	95:8	2060,42,5041
 #LeftStageMidLightOff
-332.2	Block	159:0	-106,63,-40
+332.2	Block	159:0	2060,42,5041
 #CurtainLightsOn(4)
-120.3	Block	89	-100,74,-41
-120.3	Block	89	-101,74,-42
-120.3	Block	89	-96,72,-37
-120.3	Block	89	-105,72,-46
-191.2	Block	89	-100,74,-41
-191.2	Block	89	-101,74,-42
-191.2	Block	89	-96,72,-37
-191.2	Block	89	-105,72,-46
-235.2	Block	89	-100,74,-41
-235.2	Block	89	-101,74,-42
-235.2	Block	89	-96,72,-37
-235.2	Block	89	-105,72,-46
-332.5	Block	89	-100,74,-41
-332.5	Block	89	-101,74,-42
-332.5	Block	89	-96,72,-37
-332.5	Block	89	-105,72,-46
-421.4	Block	89	-100,74,-41
-421.4	Block	89	-101,74,-42
-421.4	Block	89	-96,72,-37
-421.4	Block	89	-105,72,-46
-477.8	Block	89	-100,74,-41
-477.8	Block	89	-101,74,-42
-477.8	Block	89	-96,72,-37
-477.8	Block	89	-105,72,-46
-489.1	Block	89	-100,74,-41
-489.1	Block	89	-101,74,-42
-489.1	Block	89	-96,72,-37
-489.1	Block	89	-105,72,-46
-721.3	Block	89	-100,74,-41
-721.3	Block	89	-101,74,-42
-721.3	Block	89	-96,72,-37
-721.3	Block	89	-105,72,-46
-1251	Block	89	-100,74,-41
-1251	Block	89	-101,74,-42
-1251	Block	89	-96,72,-37
-1251	Block	89	-105,72,-46
+120.3	Block	89	2066,53,5040
+120.3	Block	89	2065,53,5039
+120.3	Block	89	2070,51,5044
+120.3	Block	89	2061,51,5035
+191.2	Block	89	2066,53,5040
+191.2	Block	89	2065,53,5039
+191.2	Block	89	2070,51,5044
+191.2	Block	89	2061,51,5035
+235.2	Block	89	2066,53,5040
+235.2	Block	89	2065,53,5039
+235.2	Block	89	2070,51,5044
+235.2	Block	89	2061,51,5035
+332.5	Block	89	2066,53,5040
+332.5	Block	89	2065,53,5039
+332.5	Block	89	2070,51,5044
+332.5	Block	89	2061,51,5035
+421.4	Block	89	2066,53,5040
+421.4	Block	89	2065,53,5039
+421.4	Block	89	2070,51,5044
+421.4	Block	89	2061,51,5035
+477.8	Block	89	2066,53,5040
+477.8	Block	89	2065,53,5039
+477.8	Block	89	2070,51,5044
+477.8	Block	89	2061,51,5035
+489.1	Block	89	2066,53,5040
+489.1	Block	89	2065,53,5039
+489.1	Block	89	2070,51,5044
+489.1	Block	89	2061,51,5035
+721.3	Block	89	2066,53,5040
+721.3	Block	89	2065,53,5039
+721.3	Block	89	2070,51,5044
+721.3	Block	89	2061,51,5035
+1251	Block	89	2066,53,5040
+1251	Block	89	2065,53,5039
+1251	Block	89	2070,51,5044
+1251	Block	89	2061,51,5035
 #CurtainLightsOff(4)
-101.4	Block	123	-100,74,-41
-101.4	Block	123	-101,74,-42
-101.4	Block	123	-96,72,-37
-101.4	Block	123	-105,72,-46
-162.1	Block	123	-100,74,-41
-162.1	Block	123	-101,74,-42
-162.1	Block	123	-96,72,-37
-162.1	Block	123	-105,72,-46
-218.4	Block	123	-100,74,-41
-218.4	Block	123	-101,74,-42
-218.4	Block	123	-96,72,-37
-218.4	Block	123	-105,72,-46
-327.7	Block	123	-100,74,-41
-327.7	Block	123	-101,74,-42
-327.7	Block	123	-96,72,-37
-327.7	Block	123	-105,72,-46
-373.5	Block	123	-100,74,-41
-373.5	Block	123	-101,74,-42
-373.5	Block	123	-96,72,-37
-373.5	Block	123	-105,72,-46
-471.3	Block	123	-100,74,-41
-471.3	Block	123	-101,74,-42
-471.3	Block	123	-96,72,-37
-471.3	Block	123	-105,72,-46
-482.7	Block	123	-100,74,-41
-482.7	Block	123	-101,74,-42
-482.7	Block	123	-96,72,-37
-482.7	Block	123	-105,72,-46
-691.9	Block	123	-100,74,-41
-691.9	Block	123	-101,74,-42
-691.9	Block	123	-96,72,-37
-661.9	Block	123	-105,72,-46
-921	Block	123	-100,74,-41
-921	Block	123	-101,74,-42
-921	Block	123	-96,72,-37
-921	Block	123	-105,72,-46
+101.4	Block	123	2066,53,5040
+101.4	Block	123	2065,53,5039
+101.4	Block	123	2070,51,5044
+101.4	Block	123	2061,51,5035
+162.1	Block	123	2066,53,5040
+162.1	Block	123	2065,53,5039
+162.1	Block	123	2070,51,5044
+162.1	Block	123	2061,51,5035
+218.4	Block	123	2066,53,5040
+218.4	Block	123	2065,53,5039
+218.4	Block	123	2070,51,5044
+218.4	Block	123	2061,51,5035
+327.7	Block	123	2066,53,5040
+327.7	Block	123	2065,53,5039
+327.7	Block	123	2070,51,5044
+327.7	Block	123	2061,51,5035
+373.5	Block	123	2066,53,5040
+373.5	Block	123	2065,53,5039
+373.5	Block	123	2070,51,5044
+373.5	Block	123	2061,51,5035
+471.3	Block	123	2066,53,5040
+471.3	Block	123	2065,53,5039
+471.3	Block	123	2070,51,5044
+471.3	Block	123	2061,51,5035
+482.7	Block	123	2066,53,5040
+482.7	Block	123	2065,53,5039
+482.7	Block	123	2070,51,5044
+482.7	Block	123	2061,51,5035
+691.9	Block	123	2066,53,5040
+691.9	Block	123	2065,53,5039
+691.9	Block	123	2070,51,5044
+661.9	Block	123	2061,51,5035
+921	Block	123	2066,53,5040
+921	Block	123	2065,53,5039
+921	Block	123	2070,51,5044
+921	Block	123	2061,51,5035
 #BackCurainLightsOn(4)
-421.4	Block	89	-95,74,-45
-421.4	Block	89	-97,74,-47
-421.4	Block	89	-92,72,-42
-421.4	Block	89	-100,72,-50
-477.8	Block	89	-95,74,-45
-477.8	Block	89	-97,74,-47
-477.8	Block	89	-92,72,-42
-477.8	Block	89	-100,72,-50
-489.1	Block	89	-95,74,-45
-489.1	Block	89	-97,74,-47
-489.1	Block	89	-92,72,-42
-489.1	Block	89	-100,72,-50
-699.4	Block	89	-95,74,-45
-699.4	Block	89	-97,74,-47
-699.4	Block	89	-92,72,-42
-699.4	Block	89	-100,72,-50
-751.1	Block	89	-95,74,-45
-751.1	Block	89	-97,74,-47
-751.1	Block	89	-92,72,-42
-751.1	Block	89	-100,72,-50
-1363	Block	89	-95,74,-45
-1363	Block	89	-97,74,-47
-1363	Block	89	-92,72,-42
-1363	Block	89	-100,72,-50
+421.4	Block	89	2071,53,5036
+421.4	Block	89	2069,53,5034
+421.4	Block	89	2074,51,5039
+421.4	Block	89	2066,51,5031
+477.8	Block	89	2071,53,5036
+477.8	Block	89	2069,53,5034
+477.8	Block	89	2074,51,5039
+477.8	Block	89	2066,51,5031
+489.1	Block	89	2071,53,5036
+489.1	Block	89	2069,53,5034
+489.1	Block	89	2074,51,5039
+489.1	Block	89	2066,51,5031
+699.4	Block	89	2071,53,5036
+699.4	Block	89	2069,53,5034
+699.4	Block	89	2074,51,5039
+699.4	Block	89	2066,51,5031
+751.1	Block	89	2071,53,5036
+751.1	Block	89	2069,53,5034
+751.1	Block	89	2074,51,5039
+751.1	Block	89	2066,51,5031
+1363	Block	89	2071,53,5036
+1363	Block	89	2069,53,5034
+1363	Block	89	2074,51,5039
+1363	Block	89	2066,51,5031
 #BackCurainLightsOff(4)
-0	Block	123	-95,74,-45
-0	Block	123	-97,74,-47
-0	Block	123	-92,72,-42
-0	Block	123	-100,72,-50
-471.3	Block	123	-95,74,-45
-471.3	Block	123	-97,74,-47
-471.3	Block	123	-92,72,-42
-471.3	Block	123	-100,72,-50
-482.7	Block	123	-95,74,-45
-482.7	Block	123	-97,74,-47
-482.7	Block	123	-92,72,-42
-482.7	Block	123	-100,72,-50
-691.9	Block	123	-95,74,-45
-691.9	Block	123	-97,74,-47
-691.9	Block	123	-92,72,-42
-691.9	Block	123	-100,72,-50
-702	Block	123	-95,74,-45
-702	Block	123	-97,74,-47
-702	Block	123	-92,72,-42
-702	Block	123	-100,72,-50
-767.7	Block	123	-95,74,-45
-767.7	Block	123	-97,74,-47
-767.7	Block	123	-92,72,-42
-767.7	Block	123	-100,72,-50
-1466.6	Block	123	-95,74,-45
-1466.6	Block	123	-97,74,-47
-1466.6	Block	123	-92,72,-42
-1466.6	Block	123	-100,72,-50
+0	Block	123	2071,53,5036
+0	Block	123	2069,53,5034
+0	Block	123	2074,51,5039
+0	Block	123	2066,51,5031
+471.3	Block	123	2071,53,5036
+471.3	Block	123	2069,53,5034
+471.3	Block	123	2074,51,5039
+471.3	Block	123	2066,51,5031
+482.7	Block	123	2071,53,5036
+482.7	Block	123	2069,53,5034
+482.7	Block	123	2074,51,5039
+482.7	Block	123	2066,51,5031
+691.9	Block	123	2071,53,5036
+691.9	Block	123	2069,53,5034
+691.9	Block	123	2074,51,5039
+691.9	Block	123	2066,51,5031
+702	Block	123	2071,53,5036
+702	Block	123	2069,53,5034
+702	Block	123	2074,51,5039
+702	Block	123	2066,51,5031
+767.7	Block	123	2071,53,5036
+767.7	Block	123	2069,53,5034
+767.7	Block	123	2074,51,5039
+767.7	Block	123	2066,51,5031
+1466.6	Block	123	2071,53,5036
+1466.6	Block	123	2069,53,5034
+1466.6	Block	123	2074,51,5039
+1466.6	Block	123	2066,51,5031
 #MiddleGlowstoneByCurtainOn(2)
-477.8	Block	95:8	-105,63,-50
-477.8	Block	95:8	-92,63,-37
-489.1	Block	95:8	-105,63,-50
-489.1	Block	95:8	-92,63,-37
+477.8	Block	95:8	2061,42,5031
+477.8	Block	95:8	2074,42,5044
+489.1	Block	95:8	2061,42,5031
+489.1	Block	95:8	2074,42,5044
 #MiddleGlowstoneByCurtainOff(2)
-471.3	Block	159:0	-105,63,-50
-471.3	Block	159:0	-92,63,-37
-482.7	Block	159:0	-105,63,-50
-482.7	Block	159:0	-92,63,-37
-691.9	Block	159:0	-105,63,-50
-691.9	Block	159:0	-92,63,-37
+471.3	Block	159:0	2061,42,5031
+471.3	Block	159:0	2074,42,5044
+482.7	Block	159:0	2061,42,5031
+482.7	Block	159:0	2074,42,5044
+691.9	Block	159:0	2061,42,5031
+691.9	Block	159:0	2074,42,5044
 #Schematic
-398.5	Schematic	BatB-Village2	-104	64	-38	newhws	false
-398.8	Schematic	BatB-Sliding	-104	64	-38	newhws	false
-400.8	Schematic	BatB-Sliding2	-104	64	-38	newhws	false
-402.8	Schematic	BatB-Sliding3	-104	64	-38	newhws	false
-404.8	Schematic	BatB-Sliding4	-104	64	-38	newhws	false
-406.8	Schematic	BatB-Sliding5	-104	64	-38	newhws	false
-408.8	Schematic	BatB-Sliding6	-104	64	-38	newhws	false
-696.8	Schematic	BatB-Shelf1	-101	64	-50	newhws	false
-696.8	Schematic	BatB-Shelf2	-92	64	-41	newhws	false
-751.1	Schematic	BatB-Rose	-104	64	-38	newhws	false
-918.2	Schematic	BatB-Sliding.1	-104	64	-38	newhws	true
-920.9	Schematic	BatB-Sliding.2	-104	64	-38	newhws	true
-923.6	Schematic	BatB-Sliding.3	-104	64	-38	newhws	false
-923.9	Schematic	BatB-Castle	-104	64	-38	newhws	true
-1244.7	Schematic	BatB-Sliding.3	-104	64	-38	newhws	false
-1245	Schematic	BatB-Sliding.4	-104	64	-38	newhws	false
-1248	Schematic	BatB-Sliding.5	-104	64	-38	newhws	false
-1251	Schematic	BatB-Sliding.6	-104	64	-38	newhws	false
-1363	Schematic	BatB-Curtain	-104	64	-38	newhws	false
-1481.6	Schematic	BatB-Village	-104	64	-38	newhws	false
+398.5	Schematic	BatB-Village2	2062	43	5043	newhws	false
+398.8	Schematic	BatB-Sliding	2062	43	5043	newhws	false
+400.8	Schematic	BatB-Sliding2	2062	43	5043	newhws	false
+402.8	Schematic	BatB-Sliding3	2062	43	5043	newhws	false
+404.8	Schematic	BatB-Sliding4	2062	43	5043	newhws	false
+406.8	Schematic	BatB-Sliding5	2062	43	5043	newhws	false
+408.8	Schematic	BatB-Sliding6	2062	43	5043	newhws	false
+696.8	Schematic	BatB-Shelf1	2065	43	5031	newhws	false
+696.8	Schematic	BatB-Shelf2	2074	43	5040	newhws	false
+751.1	Schematic	BatB-Rose	2062	43	5043	newhws	false
+918.2	Schematic	BatB-Sliding.1	2062	43	5043	newhws	true
+920.9	Schematic	BatB-Sliding.2	2062	43	5043	newhws	true
+923.6	Schematic	BatB-Sliding.3	2062	43	5043	newhws	false
+923.9	Schematic	BatB-Castle	2062	43	5043	newhws	true
+1244.7	Schematic	BatB-Sliding.3	2062	43	5043	newhws	false
+1245	Schematic	BatB-Sliding.4	2062	43	5043	newhws	false
+1248	Schematic	BatB-Sliding.5	2062	43	5043	newhws	false
+1251	Schematic	BatB-Sliding.6	2062	43	5043	newhws	false
+1363	Schematic	BatB-Curtain	2062	43	5043	newhws	false
+1481.6	Schematic	BatB-Village	2062	43	5043	newhws	false
 #CurtainsClosing
-1460.6	Block	35:14	-106,70,-46
-1460.6	Block	35:14	-104,70,-44
-1460.6	Block	35:14	-102,70,-42
-1460.6	Block	35:14	-100,70,-40
-1460.6	Block	35:14	-98,70,-38
-1460.6	Block	35:14	-96,70,-36
+1460.6	Block	35:14	2060,49,5035
+1460.6	Block	35:14	2062,49,5037
+1460.6	Block	35:14	2064,49,5039
+1460.6	Block	35:14	2066,49,5041
+1460.6	Block	35:14	2068,49,5043
+1460.6	Block	35:14	2070,49,5045
 #
-1461.6	Block	35:14	-106,69,-46
-1461.6	Block	35:14	-104,69,-44
-1461.6	Block	35:14	-102,69,-42
-1461.6	Block	35:14	-100,69,-40
-1461.6	Block	35:14	-98,69,-38
-1461.6	Block	35:14	-96,69,-36
+1461.6	Block	35:14	2060,48,5035
+1461.6	Block	35:14	2062,48,5037
+1461.6	Block	35:14	2064,48,5039
+1461.6	Block	35:14	2066,48,5041
+1461.6	Block	35:14	2068,48,5043
+1461.6	Block	35:14	2070,48,5045
 #
-1462.6	Block	159:14	-106,68,-46
-1462.6	Block	159:14	-104,68,-44
-1462.6	Block	159:14	-102,68,-42
-1462.6	Block	159:14	-100,68,-40
-1462.6	Block	159:14	-98,68,-38
-1462.6	Block	159:14	-96,68,-36
+1462.6	Block	159:14	2060,47,5035
+1462.6	Block	159:14	2062,47,5037
+1462.6	Block	159:14	2064,47,5039
+1462.6	Block	159:14	2066,47,5041
+1462.6	Block	159:14	2068,47,5043
+1462.6	Block	159:14	2070,47,5045
 #
-1463.6	Block	159:14	-106,67,-46
-1463.6	Block	159:14	-104,67,-44
-1463.6	Block	159:14	-102,67,-42
-1463.6	Block	159:14	-100,67,-40
-1463.6	Block	159:14	-98,67,-38
-1463.6	Block	159:14	-96,67,-36
+1463.6	Block	159:14	2060,46,5035
+1463.6	Block	159:14	2062,46,5037
+1463.6	Block	159:14	2064,46,5039
+1463.6	Block	159:14	2066,46,5041
+1463.6	Block	159:14	2068,46,5043
+1463.6	Block	159:14	2070,46,5045
 #
-1464.6	Block	35:14	-106,66,-46
-1464.6	Block	35:14	-104,66,-44
-1464.6	Block	35:14	-102,66,-42
-1464.6	Block	35:14	-100,66,-40
-1464.6	Block	35:14	-98,66,-38
-1464.6	Block	35:14	-96,66,-36
+1464.6	Block	35:14	2060,45,5035
+1464.6	Block	35:14	2062,45,5037
+1464.6	Block	35:14	2064,45,5039
+1464.6	Block	35:14	2066,45,5041
+1464.6	Block	35:14	2068,45,5043
+1464.6	Block	35:14	2070,45,5045
 #
-1465.6	Block	35:14	-106,65,-46
-1465.6	Block	35:14	-104,65,-44
-1465.6	Block	35:14	-102,65,-42
-1465.6	Block	35:14	-100,65,-40
-1465.6	Block	35:14	-98,65,-38
-1465.6	Block	35:14	-96,65,-36
+1465.6	Block	35:14	2060,44,5035
+1465.6	Block	35:14	2062,44,5037
+1465.6	Block	35:14	2064,44,5039
+1465.6	Block	35:14	2066,44,5041
+1465.6	Block	35:14	2068,44,5043
+1465.6	Block	35:14	2070,44,5045
 #
-1466.6	Block	159:14	-106,64,-46
-1466.6	Block	159:14	-104,64,-44
-1466.6	Block	159:14	-102,64,-42
-1466.6	Block	159:14	-100,64,-40
-1466.6	Block	159:14	-98,64,-38
-1466.6	Block	159:14	-96,64,-36
+1466.6	Block	159:14	2060,43,5035
+1466.6	Block	159:14	2062,43,5037
+1466.6	Block	159:14	2064,43,5039
+1466.6	Block	159:14	2066,43,5041
+1466.6	Block	159:14	2068,43,5043
+1466.6	Block	159:14	2070,43,5045
 #EarlyClose
-1460.6	Block	159:14	-105,69,-45
-1460.6	Block	159:14	-103,69,-43
-1460.6	Block	159:14	-101,69,-41
-1460.6	Block	159:14	-99,69,-39
-1460.6	Block	159:14	-97,69,-37
+1460.6	Block	159:14	2061,48,5036
+1460.6	Block	159:14	2063,48,5038
+1460.6	Block	159:14	2065,48,5040
+1460.6	Block	159:14	2067,48,5042
+1460.6	Block	159:14	2069,48,5044
 #
-1461.6	Block	35:14	-105,68,-45
-1461.6	Block	35:14	-103,68,-43
-1461.6	Block	35:14	-101,68,-41
-1461.6	Block	35:14	-99,68,-39
-1461.6	Block	35:14	-97,68,-37
+1461.6	Block	35:14	2061,47,5036
+1461.6	Block	35:14	2063,47,5038
+1461.6	Block	35:14	2065,47,5040
+1461.6	Block	35:14	2067,47,5042
+1461.6	Block	35:14	2069,47,5044
 #
-1462.6	Block	35:14	-105,67,-45
-1462.6	Block	35:14	-103,67,-43
-1462.6	Block	35:14	-101,67,-41
-1462.6	Block	35:14	-99,67,-39
-1462.6	Block	35:14	-97,67,-37
+1462.6	Block	35:14	2061,46,5036
+1462.6	Block	35:14	2063,46,5038
+1462.6	Block	35:14	2065,46,5040
+1462.6	Block	35:14	2067,46,5042
+1462.6	Block	35:14	2069,46,5044
 #
-1463.6	Block	159:14	-105,66,-45
-1463.6	Block	159:14	-103,66,-43
-1463.6	Block	159:14	-101,66,-41
-1463.6	Block	159:14	-99,66,-39
-1463.6	Block	159:14	-97,66,-37
+1463.6	Block	159:14	2061,45,5036
+1463.6	Block	159:14	2063,45,5038
+1463.6	Block	159:14	2065,45,5040
+1463.6	Block	159:14	2067,45,5042
+1463.6	Block	159:14	2069,45,5044
 #
-1464.6	Block	159:14	-105,65,-45
-1464.6	Block	159:14	-103,65,-43
-1464.6	Block	159:14	-101,65,-41
-1464.6	Block	159:14	-99,65,-39
-1464.6	Block	159:14	-97,65,-37
+1464.6	Block	159:14	2061,44,5036
+1464.6	Block	159:14	2063,44,5038
+1464.6	Block	159:14	2065,44,5040
+1464.6	Block	159:14	2067,44,5042
+1464.6	Block	159:14	2069,44,5044
 #
-1465.6	Block	35:14	-105,64,-45
-1465.6	Block	35:14	-103,64,-43
-1465.6	Block	35:14	-101,64,-41
-1465.6	Block	35:14	-99,64,-39
-1465.6	Block	35:14	-97,64,-37
+1465.6	Block	35:14	2061,43,5036
+1465.6	Block	35:14	2063,43,5038
+1465.6	Block	35:14	2065,43,5040
+1465.6	Block	35:14	2067,43,5042
+1465.6	Block	35:14	2069,43,5044
 #Shelf.1
-699.4	Block	0	-102,69,-51
-699.4	Block	0	-102,68,-51
-699.4	Block	0	-101,68,-51
-699.4	Block	0	-102,67,-51
-699.4	Block	0	-101,67,-51
-699.4	Block	0	-102,66,-51
-699.4	Block	0	-101,66,-51
-699.4	Block	0	-102,65,-51
-699.4	Block	0	-101,65,-51
-699.4	Block	0	-102,64,-51
-699.4	Block	0	-101,64,-51
+699.4	Block	0	2064,48,5030
+699.4	Block	0	2064,47,5030
+699.4	Block	0	2065,47,5030
+699.4	Block	0	2064,46,5030
+699.4	Block	0	2065,46,5030
+699.4	Block	0	2064,45,5030
+699.4	Block	0	2065,45,5030
+699.4	Block	0	2064,44,5030
+699.4	Block	0	2065,44,5030
+699.4	Block	0	2064,43,5030
+699.4	Block	0	2065,43,5030
 #Shelf.2
-699.4	Block	0	-91,69,-40
-699.4	Block	0	-91,68,-40
-699.4	Block	0	-91,68,-41
-699.4	Block	0	-91,67,-40
-699.4	Block	0	-91,67,-41
-699.4	Block	0	-91,66,-40
-699.4	Block	0	-91,66,-41
-699.4	Block	0	-91,65,-40
-699.4	Block	0	-91,65,-41
-699.4	Block	0	-91,64,-40
-699.4	Block	0	-91,64,-41
+699.4	Block	0	2075,48,5041
+699.4	Block	0	2075,47,5041
+699.4	Block	0	2075,47,5040
+699.4	Block	0	2075,46,5041
+699.4	Block	0	2075,46,5040
+699.4	Block	0	2075,45,5041
+699.4	Block	0	2075,45,5040
+699.4	Block	0	2075,44,5041
+699.4	Block	0	2075,44,5040
+699.4	Block	0	2075,43,5041
+699.4	Block	0	2075,43,5040

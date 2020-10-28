@@ -16,11 +16,11 @@ Show	Name	rrctour
 ### Blocks ###
 #http://minecraft-ids.grahamedgecombe.com/
 #Placing Blocks:
-25	Block	0	-279,56,-86
-25	Block	0	-279,56,-85
+25	Block	0	1887,35,4995
+25	Block	0	1887,35,4996
 
 ## Start Tour 2 ##
-35	Block	152	-339,51,-104
+35	Block	152	1827,30,4977
 
 ### Audio ###
 10	AudioStart	RRCTour1

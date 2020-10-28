@@ -1,5 +1,5 @@
 #Show Started January 25th, 2017
-Show	Location	441,64,84
+Show	Location	2607,43,5165
 Show	TextRadius	45
 Show	Name	FLatH
 #Audio
@@ -24,11 +24,11 @@ Show	Name	FLatH
 91	Text	&e&lLove is an open…
 92.9	Text	&e&lDOOR!
 #Schematics
-5.4	Schematic	FLatHS19.1	439	62	68	newhws	false
-68.6	Schematic	FLatHS18.12	439	62	68	newhws	false
+5.4	Schematic	FLatHS19.1	2605	41	5149	newhws	false
+68.6	Schematic	FLatHS18.12	2605	41	5149	newhws	false
 #DoorsToBalconyLeftStage
-5.4	Block	0	455,67,101
+5.4	Block	0	2621,46,5182
 #DoorsToBalconyLeftStage
-5.4	Block	0	455,67,67
+5.4	Block	0	2621,46,5148
 #Undisguise
-0	Block	152	452,89,77
+0	Block	152	2618,68,5158
