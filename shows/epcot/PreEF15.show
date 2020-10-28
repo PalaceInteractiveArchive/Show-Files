@@ -1,4 +1,4 @@
-Show	Location	-79,63,2986
+Show	Location	3023,42,3705
 Show	TextRadius	100
 #Musics
 Show	Name	WSL
@@ -10,71 +10,71 @@ Show	Name	WSL
 652.7	AudioSync	preEF	652.7
 790.7	AudioSync	preEF	790.7
 #Time
-0	Block	152	-105,39,2994
-1	Block	20	-105,39,2994
-0	Block	152	-105,42,2995
-1	Block	20	-105,42,2995
-899	Block	152	-105,42,2994
-900	Block	20	-105,42,2994
-0	Block	1	-53,61,2982
-899	Block	20	-53,61,2982
-899	Block	152	-105,42,2999
+0	Block	152	2997,18,3713
+1	Block	20	2997,18,3713
+0	Block	152	2997,21,3714
+1	Block	20	2997,21,3714
+899	Block	152	2997,21,3713
+900	Block	20	2997,21,3713
+0	Block	1	3049,40,3701
+899	Block	20	3049,40,3701
+899	Block	152	2997,21,3718
 #Time in dummy files Chatmute
-880	Block	20	-105,43,3000
-889	Block	152	-105,43,3000
-890	Block	20	-105,43,3000
+880	Block	20	2997,22,3719
+889	Block	152	2997,22,3719
+890	Block	20	2997,22,3719
 #Text
-0	Block	152	-105,43,2997
-1	Block	0	-105,43,2997
+0	Block	152	2997,22,3716
+1	Block	0	2997,22,3716
 0	Text	&3Greetings EPCOT World Travellers
 3.5	Text	&3In Just &6&L&N15 minutes&3, the EPCOT family will proudly present: &O&AEPCOT Forever&9&O: An amazing celebration of EPCOT's yesterday and tomorrow!
 13.5	Text	&3We ask that for your safety and the safety of others, that you stay on the Promenade side of all railings during the show. Thank you for your cooperation.
 25	Text	&3Get ready, because tonight's performance of &O&AEPCOT Forever &3will begin in just &6&L&N15 minutes!
 60	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
 150	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
-270	Block	152	-105,43,2996
-271	Block	0	-105,43,2996
+270	Block	152	2997,22,3715
+271	Block	0	2997,22,3715
 300.1	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N10 minutes&3, we invite you to enjoy &O&AEPCOT Forever. &3Thank you.
 330	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
 420	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
-570	Block	152	-105,43,2995
-571	Block	0	-105,43,2995
+570	Block	152	2997,22,3714
+571	Block	0	2997,22,3714
 600	Text	&3Greetings EPCOT World Travellers
 603.5	Text	&3In Just &6&L&N5 minutes&3, the EPCOT family will proudly present: &O&AEPCOT Forever&9&O: An amazing celebration of EPCOT's yesterday and tomorrow!
 613.5	Text	&3We ask that for your safety and the safety of others, that you stay on the Promenade side of all railings during the show. Thank you for your cooperation.
 625	Text	&3Tonight's performance of &O&AEPCOT Forever &3will begin in just &6&L&N5 minutes!
 660	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
 720	Text	&3Ladies and gentlemen, once again, for your safety and the safety of others, that you stay on the Promenade side of all railings during tonight's presentation of &O&AEPCOT Forever&3. Thank you for your cooperation.
-750	Block	152	-105,43,2994
-751	Block	0	-105,43,2994
+750	Block	152	2997,22,3713
+751	Block	0	2997,22,3713
 780	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
 840	Text	&3In order for you to fully experience our presentation of &O&AEPCOT Forever&3, please have your audio server open by typing &a/audio&3.
 885	Text	&O&AEPCOT Forever &3is an 11 minute show. During the show, server chat will be muted.
 #Torches
-0	Block	51	-55,73,2990
-0	Block	51	24,73,2983
-0	Block	51	85,73,3029
-0	Block	51	112,73,3058
-0	Block	51	137,73,3118
-0	Block	51	169,73,3202
-0	Block	51	180,73,3260
-0	Block	51	150,73,3288
-0	Block	51	66,73,3326
-0	Block	51	-10,73,3345
-0	Block	51	-149,73,3347
-0	Block	51	-233,73,3335
-0	Block	51	-268,73,3319
-0	Block	51	-343,73,3266
-0	Block	51	-325,73,3142
-0	Block	51	-268,73,3061
-0	Block	51	-223,73,2993
-0	Block	51	-179,73,2982
-0	Block	51	-104,73,2990
-0	Block	152	-105,42,3002
-899	Block	20	-105,42,3002
+0	Block	51	3047,52,3709
+0	Block	51	3126,52,3702
+0	Block	51	3187,52,3748
+0	Block	51	3214,52,3777
+0	Block	51	3239,52,3837
+0	Block	51	3271,52,3921
+0	Block	51	3282,52,3979
+0	Block	51	3252,52,4007
+0	Block	51	3168,52,4045
+0	Block	51	3092,52,4064
+0	Block	51	2953,52,4066
+0	Block	51	2869,52,4054
+0	Block	51	2834,52,4038
+0	Block	51	2759,52,3985
+0	Block	51	2777,52,3861
+0	Block	51	2834,52,3780
+0	Block	51	2879,52,3712
+0	Block	51	2923,52,3701
+0	Block	51	2998,52,3709
+0	Block	152	2997,21,3721
+899	Block	20	2997,21,3721
 #Lights
-0	Block	152	-105,40,3002
-1	Block	20	-105,40,3002
+0	Block	152	2997,19,3721
+1	Block	20	2997,19,3721
 #Start
-900	Block	152	-105,41,2995
-901	Block	0	-105,41,2995
+900	Block	152	2997,20,3714
+901	Block	0	2997,20,3714

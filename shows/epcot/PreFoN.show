@@ -1,12 +1,12 @@
-Show	Location	-80,54,2706
+Show	Location	3022,33,3425
 Show	TextRadius	25
-0	Block	0	-80,64,2706
+0	Block	0	3022,43,3425
 #Announcement
-0	Block	152	-85,61,2729
-60	Block	152	-85,61,2729
-90	Block	152	-85,61,2729
+0	Block	152	3017,40,3448
+60	Block	152	3017,40,3448
+90	Block	152	3017,40,3448
 #Audio Announcement
-30	Block	152	-85,61,2727
-75	Block	152	-85,61,2727
+30	Block	152	3017,40,3446
+75	Block	152	3017,40,3446
 #Show
-120	Block	152	-85,61,2731
+120	Block	152	3017,40,3450

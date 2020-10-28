@@ -1,4 +1,4 @@
-Show	Location	-78,63,2985
+Show	Location	3024,42,3704
 Show	TextRadius	50
 
 ## Moonlight Magic: Melodies of Epcot - 30 minute Pre Show ##
@@ -35,4 +35,4 @@ Show	TextRadius	50
 
 #Start 15 Minute Pre-Show
 #TO DO
-900	Block	152	-84,42,2980
+900	Block	152	3018,21,3699

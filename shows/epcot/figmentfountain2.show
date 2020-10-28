@@ -1,12 +1,12 @@
-Show	Location	-207,65,-2840
+Show	Location	2895,44,-2121
 Show	TextRadius	60
-0	Block	166	-230,66,2831
-0	Block	166	-224,66,2839
-0	Block	166	-219,66,2843
-0	Block	166	-211,66,2844
-0	Block	166	-203,66,2841
-0	Block	166	-196,66,2841
-0	Block	166	-193,66,2843
+0	Block	166	2872,45,3550
+0	Block	166	2878,45,3558
+0	Block	166	2883,45,3562
+0	Block	166	2891,45,3563
+0	Block	166	2899,45,3560
+0	Block	166	2906,45,3560
+0	Block	166	2909,45,3562
 
 0	Sequence	Fountain	figfount1rev -194.5,67.4,2839.5
 0	Sequence	Fountain	figfount2for	-194.5,67.4,2839.5
@@ -15,10 +15,10 @@ Show	TextRadius	60
 4.2	Sequence	Fountain	figfount5for	-216.5,67.4,2841.5
 5.6	Sequence	Fountain	figfount6for	-223.5,67.4,2836.5
 
-10	Block	72	-230,66,2831
-10	Block	72	-224,66,2839
-10	Block	72	-219,66,2843
-10	Block	72	-211,66,2844
-10	Block	72	-203,66,2841
-10	Block	72	-196,66,2841
-10	Block	72	-193,66,2843
+10	Block	72	2872,45,3550
+10	Block	72	2878,45,3558
+10	Block	72	2883,45,3562
+10	Block	72	2891,45,3563
+10	Block	72	2899,45,3560
+10	Block	72	2906,45,3560
+10	Block	72	2909,45,3562

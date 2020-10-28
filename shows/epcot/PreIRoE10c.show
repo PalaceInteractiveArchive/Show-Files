@@ -9,89 +9,89 @@ Show	Name	WSL
 278.1	AudioSync	preiroe5	278.1
 451.7	AudioSync	preiroe5	451.7
 #Tag stuff
-0	Block	152	-105,35,2995
-1	Block	0	-105,35,2995
-300	Block	152	-105,35,2995
-301	Block	0	-105,35,2995
-7.5	Block	152	-106,36,2995
-8	Block	0	-106,36,2995
-330.3	Block	152	-106,36,2995
-331	Block	0	-106,36,2995
-472.7	Block	152	-106,36,2995
-474	Block	0	-106,36,2995
+0	Block	152	2997,14,3714
+1	Block	0	2997,14,3714
+300	Block	152	2997,14,3714
+301	Block	0	2997,14,3714
+7.5	Block	152	2996,15,3714
+8	Block	0	2996,15,3714
+330.3	Block	152	2996,15,3714
+331	Block	0	2996,15,3714
+472.7	Block	152	2996,15,3714
+474	Block	0	2996,15,3714
 #Time in dummy files Chatmute <
-580	Block	20	-106,37,2995
-585	Block	152	-106,37,2995
-586	Block	20	-106,37,2995
+580	Block	20	2996,16,3714
+585	Block	152	2996,16,3714
+586	Block	20	2996,16,3714
 #Setup next show, glass a's stone b's
-0.5	Block	1	-105,34,3010
-0.5	Block	1	-104,34,3010
-0.5	Block	1	-103,34,3010
-0.5	Block	20	-105,34,3006
-0.5	Block	20	-104,34,3006
-0.5	Block	20	-103,34,3006
+0.5	Block	1	2997,13,3729
+0.5	Block	1	2998,13,3729
+0.5	Block	1	2999,13,3729
+0.5	Block	20	2997,13,3725
+0.5	Block	20	2998,13,3725
+0.5	Block	20	2999,13,3725
 #Text
-0	Block	152	-104,36,2995
-1	Block	0	-104,36,2995
+0	Block	152	2998,15,3714
+1	Block	0	2998,15,3714
 0.1	Text	&3Ladies and gentlemen, EPCOT is proud to welcome you to World Showcase Lagoon. And in just &6&L&N10 minutes&3, we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth. &3Thank you.
 30	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
 120	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
 210	Text	&3Ladies and gentlemen, for your safety and the consideration of our Guests and Cast Members, please refrain from climbing over the safety rails or entering the lake to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
-270	Block	152	-103,36,2995
-271	Block	0	-103,36,2995
+270	Block	152	2999,15,3714
+271	Block	0	2999,15,3714
 300	Text	&3Ladies and gentlemen, EPCOT welcomes you and we invite you to enjoy &9&OIlluminations: &O&AReflections of Earth&3, presented by Sylvania, a Siemens Company.
 310.7	Text	&3This spectacular celebration can experienced all around World showcase lagoon.
 316.2	Text	&2Because of lower light levels during the show, we ask that you please watch your step and take small children by the hand.
 323	Text	&3Tonight's &9&OIlluminations: &O&AReflections of Earth &3will begin in just &6&L&N5 minutes&3. Thank you!
 360	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
 420	Text	&3Ladies and gentlemen, once again, for your safety and the consideration of our Guests and Cast Members, please refrain from sitting on or climbing over the safety rails to enjoy this evening's presentation of &9&OIlluminations: &O&AReflections of Earth&3. Thank you for your cooperation and enjoy the show.
-450	Block	152	-102,36,2995
-451	Block	0	-102,36,2995
+450	Block	152	3000,15,3714
+451	Block	0	3000,15,3714
 480	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
 540	Text	&3In order for you to fully experience our presentation of &9&OIlluminations: &O&AReflections of Earth&3, please have your audio server open by typing &a/audio&3.
 585	Text	&9&OIlluminations: &O&AReflections of Earth &3is a 13 minute show. During the show, server chat will be muted.
 #Torches
-0	Block	152	-105,41,3002
-0	Block	152	-105,42,3002
+0	Block	152	2997,20,3721
+0	Block	152	2997,21,3721
 #Lights
-0	Block	95:12	-38,63,2965
-0	Block	95:12	-45,63,2963
-0	Block	95:12	-45,63,2956
-0	Block	95:12	-125,63,2965
-0	Block	95:12	-118,63,2963
-0	Block	95:12	-118,63,2956
-0	Block	138	-38,66,2981
-0	Block	138	-48,67,2977
-0	Block	138	-121,66,2981
-0	Block	138	-111,67,2977
-0	Block	138	-91,66,2989
-0	Block	138	-68,66,2989
-0	Block	138	-98,66,2987
-0	Block	138	-61,66,2987
-0	Block	138	-94,66,2983
-0	Block	138	-65,66,2983
-0	Block	138	-85,66,2974
-0	Block	138	-74,66,2974
-0	Block	138	-81,67,2952
-0	Block	138	-78,67,2952
-0	Block	138	-111,67,2945
-0	Block	138	-52,67,2945
-0	Block	138	-97,67,2942
-0	Block	138	-62,67,2942
-0	Block	138	-86,67,2930
-0	Block	138	-73,67,2930
-0	Block	89	-50,63,2951
-0	Block	89	-114,63,2951
-0	Block	89	-53,63,2962
-0	Block	89	-110,63,2962
-0	Block	89	-113,63,2969
-0	Block	89	-50,63,2969
-0	Block	89	-40,63,2972
-0	Block	89	-123,63,2972
-0	Block	89	-35,63,2972
-0	Block	89	-132,63,2972
+0	Block	95:12	3064,42,3684
+0	Block	95:12	3057,42,3682
+0	Block	95:12	3057,42,3675
+0	Block	95:12	2977,42,3684
+0	Block	95:12	2984,42,3682
+0	Block	95:12	2984,42,3675
+0	Block	138	3064,45,3700
+0	Block	138	3054,46,3696
+0	Block	138	2981,45,3700
+0	Block	138	2991,46,3696
+0	Block	138	3011,45,3708
+0	Block	138	3034,45,3708
+0	Block	138	3004,45,3706
+0	Block	138	3041,45,3706
+0	Block	138	3008,45,3702
+0	Block	138	3037,45,3702
+0	Block	138	3017,45,3693
+0	Block	138	3028,45,3693
+0	Block	138	3021,46,3671
+0	Block	138	3024,46,3671
+0	Block	138	2991,46,3664
+0	Block	138	3050,46,3664
+0	Block	138	3005,46,3661
+0	Block	138	3040,46,3661
+0	Block	138	3016,46,3649
+0	Block	138	3029,46,3649
+0	Block	89	3052,42,3670
+0	Block	89	2988,42,3670
+0	Block	89	3049,42,3681
+0	Block	89	2992,42,3681
+0	Block	89	2989,42,3688
+0	Block	89	3052,42,3688
+0	Block	89	3062,42,3691
+0	Block	89	2979,42,3691
+0	Block	89	3067,42,3691
+0	Block	89	2970,42,3691
 #Start
-607.1	Block	152	-97,34,3016
-608	Block	0	-97,34,3016
-604.9	Block	152	-106,33,2995
-606	Block	0	-106,33,2995
+607.1	Block	152	3005,13,3735
+608	Block	0	3005,13,3735
+604.9	Block	152	2996,12,3714
+606	Block	0	2996,12,3714

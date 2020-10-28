@@ -1,4 +1,4 @@
-Show	Location	-78,63,2985
+Show	Location	3024,42,3704
 Show	TextRadius	50
 Show	Name	IROE
 
@@ -8,11 +8,11 @@ Show	Name	IROE
 81	AudioStart	moonlightepcotpre
 
 #Gamerule
-0	Block	1	137,81,2943
+0	Block	1	3239,60,3662
 
 #Broadcasts
-0	Block	152	-81,42,2983
-170	Block	152	-82,42,2983
+0	Block	152	3021,21,3702
+170	Block	152	3020,21,3702
 
 #Audio
 60	Text	&6Hear the show's audio by connecting to &dThe Palace Network Audio Server&6, just type &d/audio&6!
@@ -22,63 +22,63 @@ Show	Name	IROE
 0	Text	&eIn just &35 minutes&e, &dThe Palace Network &eand &bDisney Vacation Club &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eto those &bDweller+&e at &a/warp iroe!
 180	Text	&eIn just &32 minutes&e, &dThe Palace Network &eand &bDisney Vacation Club &ewill proudly present &9&lMoonlight Magic: &b&oMelodies of Epcot &eto those &bDweller+&e at &a/warp iroe!
 
-300	Block	152	-84,42,2983
+300	Block	152	3018,21,3702
 
 #Moon
-0	Schematic	MoonlightMagicMoon	-73	62	3033	epcot	false
+0	Schematic	MoonlightMagicMoon	3029	41	3752	epcot	false
 
 #Beacons
 #61 1 59 35:15
-0	Block	20	-67,61,3014
-0	Block	20	-67,59,3014
-0	Block	20	-76,61,3010
-0	Block	20	-76,59,3010
-0	Block	20	-83,61,3010
-0	Block	20	-83,59,3010
-0	Block	20	-92,61,3014
-0	Block	20	-92,59,3014
+0	Block	20	3035,40,3733
+0	Block	20	3035,38,3733
+0	Block	20	3026,40,3729
+0	Block	20	3026,38,3729
+0	Block	20	3019,40,3729
+0	Block	20	3019,38,3729
+0	Block	20	3010,40,3733
+0	Block	20	3010,38,3733
 
-290	Block	1	-67,61,3014
-290	Block	35:15	-67,59,3014
-290	Block	1	-76,61,3010
-290	Block	35:15	-76,59,3010
-290	Block	1	-83,61,3010
-290	Block	35:15	-83,59,3010
-290	Block	1	-92,61,3014
-290	Block	35:15	-92,59,3014
+290	Block	1	3035,40,3733
+290	Block	35:15	3035,38,3733
+290	Block	1	3026,40,3729
+290	Block	35:15	3026,38,3729
+290	Block	1	3019,40,3729
+290	Block	35:15	3019,38,3729
+290	Block	1	3010,40,3733
+290	Block	35:15	3010,38,3733
 
-0	Block	20	-67,51,3014
-0	Block	138	-67,50,3014
-0	Block	95:3	-67,53,3014
-0	Block	95:3	-67,52,3014
-290	Block	35:15	-67,51,3014
-290	Block	35:15	-67,50,3014
-290	Block	95:15	-67,53,3014
-290	Block	95:15	-67,52,3014
+0	Block	20	3035,30,3733
+0	Block	138	3035,29,3733
+0	Block	95:3	3035,32,3733
+0	Block	95:3	3035,31,3733
+290	Block	35:15	3035,30,3733
+290	Block	35:15	3035,29,3733
+290	Block	95:15	3035,32,3733
+290	Block	95:15	3035,31,3733
 
-0	Block	20	-76,51,3010
-0	Block	138	-76,50,3010
-0	Block	95:11	-76,53,3010
-0	Block	95:11	-76,52,3010
-290	Block	35:15	-76,51,3010
-290	Block	35:15	-76,50,3010
-290	Block	95:15	-76,53,3010
-290	Block	95:15	-76,52,3010
+0	Block	20	3026,30,3729
+0	Block	138	3026,29,3729
+0	Block	95:11	3026,32,3729
+0	Block	95:11	3026,31,3729
+290	Block	35:15	3026,30,3729
+290	Block	35:15	3026,29,3729
+290	Block	95:15	3026,32,3729
+290	Block	95:15	3026,31,3729
 
-0	Block	20	-83,51,3010
-0	Block	138	-83,50,3010
-0	Block	95:10	-83,53,3010
-0	Block	95:10	-83,52,3010
-290	Block	35:15	-83,51,3010
-290	Block	35:15	-83,50,3010
-290	Block	95:15	-83,53,3010
-290	Block	95:15	-83,52,3010
+0	Block	20	3019,30,3729
+0	Block	138	3019,29,3729
+0	Block	95:10	3019,32,3729
+0	Block	95:10	3019,31,3729
+290	Block	35:15	3019,30,3729
+290	Block	35:15	3019,29,3729
+290	Block	95:15	3019,32,3729
+290	Block	95:15	3019,31,3729
 
-0	Block	20	-92,51,3014
-0	Block	138	-92,50,3014
-0	Block	95:6	-92,53,3014
-0	Block	95:6	-92,52,3014
-290	Block	35:15	-92,51,3014
-290	Block	35:15	-92,50,3014
-290	Block	95:15	-92,53,3014
-290	Block	95:15	-92,52,3014
+0	Block	20	3010,30,3733
+0	Block	138	3010,29,3733
+0	Block	95:6	3010,32,3733
+0	Block	95:6	3010,31,3733
+290	Block	35:15	3010,30,3733
+290	Block	35:15	3010,29,3733
+290	Block	95:15	3010,32,3733
+290	Block	95:15	3010,31,3733

@@ -1,5 +1,5 @@
-Show	Location	-331,64,2847
+Show	Location	2771,43,3566
 Show	TextRadius	25
 0	Sequence	Build	figdoor1
-0	Schematic	figdoor1open	-333	65	2847	epcot	false
-20	Schematic	figdoor1close	-333	65	2847	epcot	false
+0	Schematic	figdoor1open	2769	44	3566	epcot	false
+20	Schematic	figdoor1close	2769	44	3566	epcot	false

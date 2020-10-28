@@ -1,7 +1,7 @@
 ArmorStand	olaf2	true	skull:eyJ0aW1lc3RhbXAiOjE0NzA2MDM4Njg3NTgsInByb2ZpbGVJZCI6IjNmMzc1Y2E0MTRmMTQwNWY4ZGIwYjFjOTc1Mzg1NWZlIiwicHJvZmlsZU5hbWUiOiJPbGFmX18iLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2NiYzM3OTM4NTFiNGY3MGU0OTE4MGE4OTI1ZmYxZThjY2FkM2VkNjEyNjgxNjhkY2UwYjU4ZTQ5YjkifX19;299(255,255,255);300(255,255,255);301(255,255,255)
 ArmorStand	anna	false	skull:eyJ0aW1lc3RhbXAiOjE0NzQ1OTA5Mjc2MjMsInByb2ZpbGVJZCI6ImUwZDQxYzRmYWJiNDQ3NGI5MDQ3NmQzMGY4Yjk0YjA1IiwicHJvZmlsZU5hbWUiOiJfX0FubmFfX18iLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7Im1ldGFkYXRhIjp7Im1vZGVsIjoic2xpbSJ9LCJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MzZGU4YmZhNzY5OThmNWVlNzY1Mzk0ZjM0YTNlMTE4MTJiOTliZjUxOTE3MmIwYTZiODg1MTVkMDVmMzQifX19;299(255,29,117);300(51,74,255);301(0,0,0)
 ArmorStand	kristoff	false	skull:eyJ0aW1lc3RhbXAiOjE0NzQ1OTEwNTEwNDcsInByb2ZpbGVJZCI6ImE1NjNkOTA3MGY3ZTQ0ZTU4ZDE1YTJiNjBkMjAzYWUwIiwicHJvZmlsZU5hbWUiOiJfS3Jpc3RvZmZfXyIsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjRlYTExMjU0NzNmZmY4NTliMzE3YjkyM2I2OWI0OWI1ZmEzMTRkZjc5Nzc0OTcxYjhhMTUwNGU1OWVhZmQifX19;299(0,0,0);300(51,74,255);301(0,0,0)
-Show	Location	257,71,3041
+Show	Location	3359,50,3760
 Show	TextRadius	15
 Show	Name	fea3
 5.4	Text	&f[&9Olaf&f] &bFor the first time in forever.. I am back where I belong!
@@ -15,20 +15,20 @@ Show	Name	fea3
 36.7	Text	&f[&cAnna&f] &9For the first time in forever..
 40.9	Text	&f[&cAnna&f and &7Kristoff&f] &dWe get to share this frozen fun!
 #Olaf
-.1	ArmorStand	olaf2	spawn	254,72,3036.5
+.1	ArmorStand	olaf2	spawn	3356,51,3755.5
 .3	ArmorStand	olaf2	rotate	-90	.3
 .3	ArmorStand	olaf2	position	LEG_RIGHT	61,0,0	.2
 .3	ArmorStand	olaf2	position	ARM_RIGHT	49,0,42	.2
 .3	ArmorStand	olaf2	position	ARM_LEFT	14,0,0	.2
 .3	ArmorStand	olaf2	position	HEAD	5,0,0	.2
-.2	ArmorStand	olaf2	move	258,72,3036.5	6
+.2	ArmorStand	olaf2	move	3360,51,3755.5	6
 6.5	ArmorStand	olaf2	rotate	-90	1
-6.5	ArmorStand	olaf2	move	258.2,72,3035.5	1
+6.5	ArmorStand	olaf2	move	3360.2,51,3754.5	1
 #7.6	ArmorStand	olaf2	rotate	-90	1
-7.6	ArmorStand	olaf2	move	254.6,72,3035.7	8
+7.6	ArmorStand	olaf2	move	3356.6,51,3754.7	8
 20	ArmorStand	olaf2	despawn
 #Anna
-10	ArmorStand	anna	spawn	249,71,3047.6
+10	ArmorStand	anna	spawn	3351,50,3766.6
 10.3	ArmorStand	anna	rotate	-140	.3
 10.2	ArmorStand	anna	position	ARM_LEFT	0,0,-36	.1
 10.2	ArmorStand	anna	position	ARM_RIGHT	0,0,36	.1
@@ -55,7 +55,7 @@ Show	Name	fea3
 40.9	ArmorStand	anna	position	HEAD	0,0,5	.1
 45	ArmorStand	anna	despawn
 #Kristoff
-10	ArmorStand	kristoff	spawn	248.8,71,3045.5
+10	ArmorStand	kristoff	spawn	3350.8,50,3764.5
 10.3	ArmorStand	kristoff	rotate	-80	1
 10.2	ArmorStand	kristoff	position	HEAD	-5,0,0	.1
 10.2	ArmorStand	kristoff	position	ARM_RIGHT	-15,0,0	.1

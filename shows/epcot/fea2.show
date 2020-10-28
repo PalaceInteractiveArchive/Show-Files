@@ -1,4 +1,4 @@
-Show	Location	240,64,3075
+Show	Location	3342,43,3794
 Show	TextRadius	10
 Show	Name	fea2
 #TROLL SCENE
@@ -16,11 +16,11 @@ ArmorStand	troll4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh
 16.3	Text	&2Indeed
 17.3	Text	&bHey! You're going up to the ice palace!
 20.1	Text	&bLucky.. Bye!
-.1	ArmorStand	oldtroll	spawn	238.5,66,3073.5
-.1	ArmorStand	troll1	spawn	238.6,65,3075.5
-.1	ArmorStand	troll2	spawn	239.5,65.1,3075.6
-.1	ArmorStand	troll3	spawn	240.7,64.4,3074.6
-.1	ArmorStand	troll4	spawn	242.5,63,3072.6
+.1	ArmorStand	oldtroll	spawn	3340.5,45,3792.5
+.1	ArmorStand	troll1	spawn	3340.6,44,3794.5
+.1	ArmorStand	troll2	spawn	3341.5,44.099999999999994,3794.6
+.1	ArmorStand	troll3	spawn	3342.7,43.400000000000006,3793.6
+.1	ArmorStand	troll4	spawn	3344.5,42,3791.6
 #troll4 pops out
 #oldtroll
 .2	ArmorStand	oldtroll	rotate	-20	.2
@@ -61,7 +61,7 @@ ArmorStand	troll4	true	skull:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh
 27	ArmorStand	troll3	despawn
 #troll4
 .3	ArmorStand	troll4	rotate	-20	.2
-16.5	ArmorStand	troll4	move	242.5,65,3072.6	1
+16.5	ArmorStand	troll4	move	3344.5,44,3791.6	1
 10	ArmorStand	troll4	position	ARM_RIGHT	-48,0,8	.2
 10	ArmorStand	troll4	position	ARM_LEFT	-37,0,-14	.2
 10	ArmorStand	troll4	position	HEAD	0,0,5	.2

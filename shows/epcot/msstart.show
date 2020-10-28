@@ -2,6 +2,6 @@
 Show	TextRadius	20
 #Door
 0	Sequence	Build	msdoor
-0	Schematic	msdoor1	205	2	2593	epcot	false
+0	Schematic	msdoor1	3307	-19	3312	epcot	false
 #DoorOpen
-3	Schematic	msdoor2	205	2	2593	epcot	false
+3	Schematic	msdoor2	3307	-19	3312	epcot	false

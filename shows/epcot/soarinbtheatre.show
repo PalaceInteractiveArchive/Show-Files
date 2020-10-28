@@ -1,15 +1,15 @@
-Show	Location	-385,67,2826
+Show	Location	2717,46,3545
 Show	TextRadius	10
-0.0	Block	152	-384,64,2823
-1.0	Block	152	-391,64,2818
-25.0	Block	152	-389,64,2818
-50.0	Block	152	-387,64,2818
-75.0	Block	152	-385,64,2818
-100.0	Block	152	-383,64,2818
-125.0	Block	152	-381,64,2818
-150.0	Block	152	-379,64,2818
-175.0	Block	152	-377,64,2818
-200.0	Block	152	-375,64,2818
+0.0	Block	152	2718,43,3542
+1.0	Block	152	2711,43,3537
+25.0	Block	152	2713,43,3537
+50.0	Block	152	2715,43,3537
+75.0	Block	152	2717,43,3537
+100.0	Block	152	2719,43,3537
+125.0	Block	152	2721,43,3537
+150.0	Block	152	2723,43,3537
+175.0	Block	152	2725,43,3537
+200.0	Block	152	2727,43,3537
 1.0	Text	&f[&bInformation&f] &aYour flight will begin shortly.
 40.0	Text	&f[&bInformation&f] &aThere are &e7&a more people waiting to board.
 25.0	Text	&f[&bInformation&f] &aSoarin' boards every 25 seconds!

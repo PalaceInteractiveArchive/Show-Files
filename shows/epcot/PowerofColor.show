@@ -11,10 +11,10 @@ Show    TextRadius  3
 #Block Replacie Thingies
 0   Block   0   -10,62,2668
 0   Block   0   -13,65,2665
-0	Block	152	-15,65,2663
-1	Block	0	-15,65,2663
-180	Block	152	-16,65,2664
-181	Block	0	-16,65,2664
+0	Block	152	3087,44,3382
+1	Block	0	3087,44,3382
+180	Block	152	3086,44,3383
+181	Block	0	3086,44,3383
 11  Block   76:1    -12,69,2667
 11  Block   76:2    -14,69,2667
 11  Block   76:3    -13,69,2668
@@ -38,7 +38,7 @@ Show    TextRadius  3
 200 Block   76:5    -10,62,2668
 200 Block   143:3   -13,65,2665
 #Schematic ThingieMerBobbers
-16	Schematic	colortopia-blue.schematic	-13	64	2667	epcot	true
+16	Schematic	colortopia-blue.schematic	3089	43	3386	epcot	true
 45  Schematic   colortopia-yellow.schematic -13 64  2667    epcot   true
 69  Schematic   colortopia-orange.schematic -13 64  2667    epcot   true
 91  Schematic   colortopia-green.schematic  -13 64  2667    epcot   true

@@ -1,7 +1,7 @@
-Show	Location	-81,65,2615
+Show	Location	3021,44,3334
 Show	TextRadius	8
-0	Block	0	-60,66,2614
-0	Block	0	-65,62,2591
+0	Block	0	3042,45,3333
+0	Block	0	3037,41,3310
 #Wooden button + grass reset
-10	Block	143:4	-60,66,2614
-6	Block	2	-65,62,2591
+10	Block	143:4	3042,45,3333
+6	Block	2	3037,41,3310
