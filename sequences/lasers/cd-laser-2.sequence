@@ -3,7 +3,7 @@ Sequence	Laser	Actual
 0.0	Move	Base	-297,69,-140	20
 0.5	Move	Base	-297,69,-135	20
 1.0	Move	Base	-297,69,-130	20
-1.5	Move	Base	-297,69,-125    20
+1.5	Move	Base	-297,69,-125	20
 2.0	Move	Base	-297,69,-120	20
 2.5	Move	Base	-297,69,-115	20
 3.0	Move	Base	-297,69,-110	20
