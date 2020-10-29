@@ -1,7 +1,7 @@
 Sequence	Build
 Build	figdoor1	figdoor1
 Build	figdoor2	figdoor2
-0	figdoor1  Spawn   -329.5,63.5,2846.5
+0	figdoor1	Spawn	-329.5,63.5,2846.5
 0	figdoor2	Spawn	-332.5,63.5,2846.5
 1	figdoor1	Move	-325.5,63.5,2846.5	60
 1	figdoor2	Move	-336.3,63.5,2846.5	60

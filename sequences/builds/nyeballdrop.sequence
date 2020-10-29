@@ -1,5 +1,5 @@
 Sequence	Build
-Build	nyeballdrop nyeballdrop
-0		nyeballdrop  Spawn   401,173,3908
-1		nyeballdrop  Move    401,135,3908  300
-11.6	nyeballdrop Despawn
+Build	nyeballdrop	nyeballdrop
+0	nyeballdrop	Spawn	401,173,3908
+1	nyeballdrop	Move	401,135,3908	300
+11.6	nyeballdrop	Despawn
