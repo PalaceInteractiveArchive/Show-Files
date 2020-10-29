@@ -1,5 +1,5 @@
 Sequence	Build
-Build	events-1-1  events-1
-0	events-1-1  Spawn   -93.5,15,-3221.5
-0	events-1-1  Move    -93.5,33.4,-3221.5  150
-8.6 events-1-1  Despawn
+Build	events-1-1	events-1
+0	events-1-1	Spawn	-93.5,15,-3221.5
+0	events-1-1	Move	-93.5,33.4,-3221.5	150
+8.6 events-1-1	Despawn
